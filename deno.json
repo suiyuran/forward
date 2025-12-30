@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "douban:hot-gaia": "deno run --allow-env --env-file --allow-net --allow-write scripts/douban/hot-gaia.ts",
+    "douban:showing": "deno run --allow-env --env-file --allow-net --allow-write scripts/douban/showing.ts",
+    "douban:top250": "deno run --allow-env --env-file --allow-net --allow-write scripts/douban/top250.ts"
+  },
+  "lint": {
+    "include": ["scripts"]
+  }
+}

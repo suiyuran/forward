@@ -8,25 +8,16 @@
       "title": "豆瓣",
       "description": "获取豆瓣的榜单数据",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "suiyuran",
       "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/douban.js"
-    },
-    {
-      "id": "suiyuran.forward.widgets.bangumi",
-      "title": "Bangumi",
-      "description": "获取Bangumi每日放送",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "suiyuran",
-      "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/bangumi.js"
     },
     {
       "id": "suiyuran.forward.widgets.vod.dytt",
       "title": "电影天堂",
       "description": "获取电影天堂VOD资源",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "suiyuran",
       "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/vod/dytt.js"
     }
