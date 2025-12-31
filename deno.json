@@ -1,8 +1,11 @@
 {
   "tasks": {
-    "douban:hot-gaia": "deno run --allow-env --env-file --allow-net --allow-write scripts/douban/hot-gaia.ts",
+    "bangumi:calendar": "deno run --allow-env --env-file --allow-net --allow-write scripts/bangumi/calendar.ts",
     "douban:showing": "deno run --allow-env --env-file --allow-net --allow-write scripts/douban/showing.ts",
     "douban:top250": "deno run --allow-env --env-file --allow-net --allow-write scripts/douban/top250.ts"
+  },
+  "imports": {
+    "@b-fuze/deno-dom": "jsr:@b-fuze/deno-dom"
   },
   "lint": {
     "include": ["scripts"]
