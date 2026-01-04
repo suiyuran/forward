@@ -4,22 +4,15 @@ import { searchTMDBResults, transfromTMDBResult, UA } from "../common.ts";
 const TITLE_MAPPING: Record<string, string> = {
   "迪士尼 扭曲仙境": "扭曲仙境",
   "JOCHUM": "ジェオチャム",
+  "咒术回战 死灭回游": "咒术回战",
+  "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜": "我们不可能成为恋人！绝对不行。(※似乎可行！？)",
 };
 
 function handleTitle(title: string) {
   const seasonRegexp =
-    /((((3rd|Final) )?(Season|Volume) ?)?([0-9]+)?|[零壹贰叁肆伍陆柒捌玖拾弐]+|(第[零一二三四五六七八九十0-9]+|序|最终)(季|期|部分|クール|シリーズ|章)|Prelude)$/i;
-  const specialParts = [
-    "TV剪辑版",
-    "TV Edition",
-    "迷你动画",
-    "ミニアニメ",
-    "万圣节特别集",
-    "Halloween Special",
-    "a/",
-    "。",
-  ];
-  const result = specialParts.reduce((acc, part) => acc.replace(part, ""), title.replace(seasonRegexp, "")).trim();
+    /(?<!^)((((3rd|Final) )?(Season|Volume) ?[0-9]*|Prelude)|(第?([0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(终|終))?((季|期)|(部分|クール)|(之|ノ)?章|シリーズ|(篇|編)))?/gi;
+  const specialParts = ["TV剪辑版", "TV Edition", "迷你动画", "ミニアニメ", "万圣节特别集", "Halloween Special"];
+  const result = specialParts.reduce((acc, part) => acc.replace(part, ""), title.replaceAll(seasonRegexp, "")).trim();
   return TITLE_MAPPING[result] || result;
 }
 
@@ -80,31 +73,30 @@ async function main() {
         const originalNameResponse = await searchTMDBResults("tv", originalName, "");
         const results = [nameResponse, originalNameResponse].map((res) => res.results).flat();
         const result = results.find((res) => {
-          const resTitle = res.name || "";
+          const resTitle = res.title || res.name || "";
           const resName = handleTitle(resTitle);
-          const resOriginalTitle = res.original_name;
-          const resOriginalName = handleTitle(res.original_name);
+          const resOriginalTitle = res.original_title || res.original_name || "";
+          const resOriginalName = handleTitle(resOriginalTitle);
           return (
-            resTitle === name ||
-            resOriginalTitle === originalName ||
-            resTitle.toLowerCase() === name.toLowerCase() ||
-            resOriginalTitle.toLowerCase() === originalName.toLowerCase() ||
-            resName === name ||
-            resOriginalName === originalName ||
-            resName.toLowerCase() === name.toLowerCase() ||
-            resOriginalName.toLowerCase() === originalName.toLowerCase()
+            res.id &&
+            (res.poster_path || res.backdrop_path) &&
+            (resTitle === name ||
+              resOriginalTitle === originalName ||
+              resTitle.toLowerCase() === name.toLowerCase() ||
+              resOriginalTitle.toLowerCase() === originalName.toLowerCase() ||
+              resName === name ||
+              resOriginalName === originalName ||
+              resName.toLowerCase() === name.toLowerCase() ||
+              resOriginalName.toLowerCase() === originalName.toLowerCase())
           );
         });
 
         if (result) {
           const series = transfromTMDBResult(result);
           console.log(`    TMDB ID: ${series.id}`);
-
-          if (series.id && (series.posterPath || series.backdropPath)) {
-            series.mediaType = "tv";
-            calendar[day].push(series);
-            continue;
-          }
+          series.mediaType = "tv";
+          calendar[day].push(series);
+          continue;
         }
         console.log(`    未找到匹配的 TMDB 结果`);
       }
