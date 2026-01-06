@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-06T09:21:53.242Z",
+  "time": "2026-01-06T16:24:06.623Z",
   "data": {
     "星期日": [
       {
@@ -36,7 +36,7 @@
         "description": "",
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
-        "posterPath": "/wCZn0Is62Tx4HC9WuFGYysjeHCx.jpg",
+        "posterPath": "/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg",
         "rating": 1,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -234,7 +234,7 @@
         "releaseDate": "2025-04-07",
         "backdropPath": "/baZ0pGbBGjCBhIqsFyOSTpJyUnQ.jpg",
         "posterPath": "/e95EQccHiRPzP3oUhjKXvQF143Z.jpg",
-        "rating": 7.651,
+        "rating": 7.688,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
@@ -316,7 +316,7 @@
         "posterPath": "/gQDsN26g7RUibJJcgWzPvc0iTnb.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "动作冒险, 动画"
+        "genreTitle": "动画, 动作冒险"
       }
     ],
     "星期三": [
