@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "非凡影视",
   description: "获取非凡影视的VOD资源",
   requiredVersion: "0.0.1",
-  version: "1.0.1",
+  version: "1.0.2",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -197,16 +197,16 @@ function splitTitle(title) {
     .filter((t) => t !== "");
 }
 
-async function resolveResource(resource) {
+function resolveResource(resource) {
   return resource.episodes.map((ep) => {
     const name = ep.title.replace("HD", "") || "正片";
-    const description = [resource.title, "-----", resource.description, "-----", "1080p|aac"].join("\n");
+    const description = [resource.title, "-----", resource.description || "暂无简介", "-----", "1080p|aac"].join("\n");
     return { name, description, url: ep.url };
   });
 }
 
 async function loadResource(params) {
-  const { seriesName, tmdbId, type, season } = params;
+  const { seriesName, tmdbId, type, season, episode } = params;
 
   try {
     const title = await handleTitle(seriesName);
@@ -216,7 +216,13 @@ async function loadResource(params) {
       const resource = await searchResource(title, imdbId, type, season);
 
       if (resource) {
-        return resolveResource(resource);
+        const results = resolveResource(resource);
+
+        if (type === "tv" && episode) {
+          const index = parseInt(episode) - 1;
+          return results.slice(index, index + 1);
+        }
+        return results;
       }
     }
     return [];
