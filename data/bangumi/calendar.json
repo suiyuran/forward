@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-05T16:28:26.976Z",
+  "time": "2026-01-06T09:21:53.242Z",
   "data": {
     "星期日": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "posterPath": "/wCZn0Is62Tx4HC9WuFGYysjeHCx.jpg",
-        "rating": 0,
+        "rating": 1,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -206,7 +206,7 @@
         "originalTitle": "幼馴染とはラブコメにならない",
         "description": "高中男生·英雄的烦恼。\n\n　　那就是两个青梅竹马「汐」与「灯」太可爱了！\n\n　　对方并没有那个意思，但如果只有我用色色的眼光看她们这件事穿帮了... 那就太丢脸了！ 另一方面，其实她们也对英雄...？\n\n　　令人看不下去！令人感到纠缠不清！\n\n　　但是青梅竹马超棒的！",
         "releaseDate": "2026-01-06",
-        "backdropPath": "/n3MbTQ1Qc6XNG9AUPRxRcc93ujf.jpg",
+        "backdropPath": "/pqxuE35pzdkCE3s1bvGkhbwqqD6.jpg",
         "posterPath": "/rMoMsLOTbEKCWFEzgbxryoXUgRe.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -234,7 +234,7 @@
         "releaseDate": "2025-04-07",
         "backdropPath": "/baZ0pGbBGjCBhIqsFyOSTpJyUnQ.jpg",
         "posterPath": "/e95EQccHiRPzP3oUhjKXvQF143Z.jpg",
-        "rating": 7.645,
+        "rating": 7.651,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
@@ -329,7 +329,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/oVfucXvhutTpYExG9k06NJqnpT9.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.719,
+        "rating": 8.72,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -368,7 +368,7 @@
         "releaseDate": "2023-04-12",
         "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
         "posterPath": "/iNlDBSaEIu24NAST95rGm3Eofc5.jpg",
-        "rating": 8.344,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -446,7 +446,7 @@
         "releaseDate": "2019-10-08",
         "backdropPath": "/zBfnpI8883yeQkXK2kpLavHv9Yw.jpg",
         "posterPath": "/cZ8JUIwS9K4kttelRq6eP0mVhjK.jpg",
-        "rating": 8.6,
+        "rating": 8.617,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       }
@@ -593,7 +593,7 @@
         "releaseDate": "2019-07-05",
         "backdropPath": "/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
         "posterPath": "/gCQy0ajY5Hv8XtbgXtK5Jqafea7.jpg",
-        "rating": 8.362,
+        "rating": 8.365,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -606,7 +606,7 @@
         "releaseDate": "2016-07-09",
         "backdropPath": "/tRQMZPYWQTOygIeGZ7rmmQaeq1z.jpg",
         "posterPath": "/kUTsnVSo9JWcFK3Y2XILQfH0imK.jpg",
-        "rating": 6.898,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -699,7 +699,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8,
+        "rating": 7.986,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -712,7 +712,7 @@
         "releaseDate": "2024-12-31",
         "backdropPath": "/6SkZ268BIStCeCNu0yGH7dC09uY.jpg",
         "posterPath": "/2r5MEaLYl5lZxzgfSmrDybipngl.jpg",
-        "rating": 7.9,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -725,7 +725,7 @@
         "releaseDate": "2026-01-03",
         "backdropPath": "/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
         "posterPath": "/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-        "rating": 9.2,
+        "rating": 9.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
