@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-05T17:21:02.912Z",
+  "time": "2026-01-06T17:26:04.209Z",
   "data": [
     {
       "id": 650524,
@@ -10,7 +10,7 @@
       "releaseDate": "2025-12-31",
       "backdropPath": "/gpJr8wRED8BpBVaxM0eODQEBNwC.jpg",
       "posterPath": "/wIATfOCE25jVxdXXO2ss6S770Bm.jpg",
-      "rating": 6,
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "动作, 科幻"
     },
@@ -23,7 +23,7 @@
       "releaseDate": "2025-12-24",
       "backdropPath": "/tGuuWu84PFzeOKMFXKSjDGdqDE8.jpg",
       "posterPath": "/v8JNXoPcQRoEvUNYZYSOcYZvKEf.jpg",
-      "rating": 7,
+      "rating": 5.5,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -35,7 +35,7 @@
       "description": "地狱空荡荡，恶魔在人间。十五年前，一群身份各异的罪恶权贵将都马市染黑成一座“地狱岛”，高中生晓笛惨遭权贵凌辱致死；十五年后，这些背后操盘者接连惨死，死状惨烈。曾目睹十五年前命案的方天阳与警官方正楠深入调查，惊觉这桩匿名杀人案不只是单纯的复仇，更是一场迟到的控诉。桩桩命案，层层黑幕，那张权力、金钱、欲望织就的黑色秘网背后究竟藏着多少不为人知的罪孽？",
       "releaseDate": "2025-12-27",
       "backdropPath": "/CZUyZdTBeOhr29KFjcsVjexEFE.jpg",
-      "posterPath": "/b66iSPtppg1kZAckxERNTCong4v.jpg",
+      "posterPath": "/wz7DchRv3sXIH87LyjhhxJdrVGk.jpg",
       "rating": 6,
       "mediaType": "movie",
       "genreTitle": "悬疑, 犯罪"
@@ -47,9 +47,9 @@
       "originalTitle": "Avatar: Fire and Ash",
       "description": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
       "releaseDate": "2025-12-17",
-      "backdropPath": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
-      "posterPath": "/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
-      "rating": 7.361,
+      "backdropPath": "/vm4H1DivjQoNIm0Vs6i3CTzFxQ0.jpg",
+      "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "rating": 7.357,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -88,22 +88,9 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
       "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "rating": 7.632,
+      "rating": 7.626,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1537396,
-      "type": "tmdb",
-      "title": "情圣3",
-      "originalTitle": "情圣3",
-      "description": "一场信任危机，让田绍基（肖央 饰）和邵美珍（谭卓 饰）本就平淡的婚姻生活再次雪上加霜，阴差阳错下两人整活儿不断，花招不停，好兄弟甘火旺（乔杉 饰）也来神助攻，“爱情三十六计”轮番登场！一连串好戏接连上演，情场大战大爆笑！",
-      "releaseDate": "2025-12-20",
-      "backdropPath": "/gbuCIddVf3HxTsePbmVXaQaAhzI.jpg",
-      "posterPath": "/p3sdbpDWYdOkrSkAnNydcwH7cvJ.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 爱情"
     },
     {
       "id": 1356454,
@@ -119,6 +106,19 @@
       "genreTitle": "剧情, 战争"
     },
     {
+      "id": 1537396,
+      "type": "tmdb",
+      "title": "情圣3",
+      "originalTitle": "情圣3",
+      "description": "一场信任危机，让田绍基（肖央 饰）和邵美珍（谭卓 饰）本就平淡的婚姻生活再次雪上加霜，阴差阳错下两人整活儿不断，花招不停，好兄弟甘火旺（乔杉 饰）也来神助攻，“爱情三十六计”轮番登场！一连串好戏接连上演，情场大战大爆笑！",
+      "releaseDate": "2025-12-20",
+      "backdropPath": "/gbuCIddVf3HxTsePbmVXaQaAhzI.jpg",
+      "posterPath": "/p3sdbpDWYdOkrSkAnNydcwH7cvJ.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 爱情"
+    },
+    {
       "id": 991494,
       "type": "tmdb",
       "title": "海绵宝宝：深海大冒险",
@@ -127,9 +127,35 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
       "posterPath": "/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
-      "rating": 6.8,
+      "rating": 6.886,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
+    },
+    {
+      "id": 1323410,
+      "type": "tmdb",
+      "title": "月光里的男孩",
+      "originalTitle": "月光里的男孩",
+      "description": "作家扎西因为儿时打瞎了一条与他同名的狗而愧疚多年，可是当他再回到家乡后却得知了事情的真相。",
+      "releaseDate": "2026-01-06",
+      "backdropPath": "/wUgoZzLqH9GXUKBnt2DvPqWbGJV.jpg",
+      "posterPath": "/1OpiJUxYEfchgZcAK5JdRMb4fMd.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1601264,
+      "type": "tmdb",
+      "title": "背后有人",
+      "originalTitle": "背后有人",
+      "description": "老楼真有鬼，背后不是人！青年录音师入住鬼楼，听到鬼频率，看到鬼飘移……长发女鬼，时隐时现，时而爆发出惊人尖叫，时而传来隐隐的鬼哭……突然之间，女鬼出现在房顶，一回头，女鬼又惊现在被子里！惨叫不断，惊吓不断，鬼魅血脸狰狞扭曲，阴森鬼爪惊悚索命！女主陪同男主勇闯鬼楼，挑战千年怨灵，等待他们的是冤魂的报复？还是厉鬼的劫杀？一切都是未知！月圆之夜，人鬼决战呈现在荒郊野外，鬼BOSS终于邪恶登场，终极颤栗一触即发！谁敢回头看背后？颤抖吧，尖叫吧！",
+      "releaseDate": "2025-12-20",
+      "backdropPath": "",
+      "posterPath": "/xf595jRbYYZ7Vs9jygykHfUWWsa.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1595386,
@@ -158,19 +184,6 @@
       "genreTitle": "科幻, 恐怖"
     },
     {
-      "id": 1601264,
-      "type": "tmdb",
-      "title": "背后有人",
-      "originalTitle": "背后有人",
-      "description": "老楼真有鬼，背后不是人！青年录音师入住鬼楼，听到鬼频率，看到鬼飘移……长发女鬼，时隐时现，时而爆发出惊人尖叫，时而传来隐隐的鬼哭……突然之间，女鬼出现在房顶，一回头，女鬼又惊现在被子里！惨叫不断，惊吓不断，鬼魅血脸狰狞扭曲，阴森鬼爪惊悚索命！女主陪同男主勇闯鬼楼，挑战千年怨灵，等待他们的是冤魂的报复？还是厉鬼的劫杀？一切都是未知！月圆之夜，人鬼决战呈现在荒郊野外，鬼BOSS终于邪恶登场，终极颤栗一触即发！谁敢回头看背后？颤抖吧，尖叫吧！",
-      "releaseDate": "2025-12-20",
-      "backdropPath": "",
-      "posterPath": "/xf595jRbYYZ7Vs9jygykHfUWWsa.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
       "id": 425274,
       "type": "tmdb",
       "title": "惊天魔盗团3",
@@ -179,7 +192,7 @@
       "releaseDate": "2025-11-12",
       "backdropPath": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
       "posterPath": "/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "rating": 6.556,
+      "rating": 6.583,
       "mediaType": "movie",
       "genreTitle": "惊悚, 犯罪"
     },
@@ -192,7 +205,7 @@
       "releaseDate": "2023-12-06",
       "backdropPath": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
       "posterPath": "/wb2zm2m71l8Wg7eDPo9t9e8ySjB.jpg",
-      "rating": 7.998,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
     },
@@ -205,19 +218,6 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/1lbiQoBm116qlMcjCHSOuOmvzdD.jpg",
       "posterPath": "/f7c7vXhC9WPGTeCcTUnL4CtAA2g.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1591949,
-      "type": "tmdb",
-      "title": "雪域使命",
-      "originalTitle": "雪域使命",
-      "description": "性格内敛的援藏干部蒲地柏，带领一起援藏的战友们，面对错布县恶劣的气候、艰苦的环境、落后的面貌，克服高寒缺氧、远离亲人、交通不便等重重困难，团结各族干部群众，并肩奋斗，发展致富奔小康的故事。",
-      "releaseDate": "2025-12-12",
-      "backdropPath": "/fal9Zge8L5RTARcml4vmlWDWoBu.jpg",
-      "posterPath": "/qB8a5ebP6sYuYSo6LxfoOE462qu.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
