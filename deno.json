@@ -1,0 +1,14 @@
+{
+  "tasks": {
+    "bangumi:calendar": "deno run --allow-env --env-file --allow-net --allow-write scripts/bangumi/calendar.ts",
+    "douban:showing": "deno run --allow-env --env-file --allow-net --allow-write scripts/douban/showing.ts",
+    "douban:theater": "deno run --allow-env --env-file --allow-net --allow-write scripts/douban/theater.ts",
+    "douban:top250": "deno run --allow-env --env-file --allow-net --allow-write scripts/douban/top250.ts"
+  },
+  "imports": {
+    "@b-fuze/deno-dom": "jsr:@b-fuze/deno-dom"
+  },
+  "lint": {
+    "include": ["scripts"]
+  }
+}

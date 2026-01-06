@@ -1,0 +1,43 @@
+{
+  "title": "Some Widgets",
+  "description": "Forward Third-Party Widgets",
+  "icon": "https://assets.vvebo.vip/scripts/icon.png",
+  "widgets": [
+    {
+      "id": "suiyuran.forward.widgets.bangumi",
+      "title": "Bangumi",
+      "description": "获取Bangumi的动画数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "suiyuran",
+      "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/bangumi.js"
+    },
+    {
+      "id": "suiyuran.forward.widgets.douban",
+      "title": "豆瓣",
+      "description": "获取豆瓣的榜单数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.2",
+      "author": "suiyuran",
+      "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/douban.js"
+    },
+    {
+      "id": "suiyuran.forward.widgets.vod.dytt",
+      "title": "电影天堂",
+      "description": "获取电影天堂的VOD资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "suiyuran",
+      "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/vod/dytt.js"
+    },
+    {
+      "id": "suiyuran.forward.widgets.vod.ffzy",
+      "title": "非凡影视",
+      "description": "获取非凡影视的VOD资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "suiyuran",
+      "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/vod/ffzy.js"
+    }
+  ]
+}
