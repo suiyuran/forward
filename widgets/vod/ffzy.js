@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "非凡影视",
   description: "获取非凡影视的VOD资源",
   requiredVersion: "0.0.1",
-  version: "1.0.2",
+  version: "1.0.3",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -205,10 +205,27 @@ function resolveResource(resource) {
   });
 }
 
+function generateCacheKey(type, tmdbId, season) {
+  return `${WidgetMetadata.id}.${type}.${tmdbId}.${season}`;
+}
+
 async function loadResource(params) {
   const { seriesName, tmdbId, type, season, episode } = params;
 
   try {
+    const cacheKey = generateCacheKey(type, tmdbId, season);
+    const cache = await Widget.storage.get(cacheKey);
+
+    if (cache) {
+      const resource = JSON.parse(cache);
+      const results = resolveResource(resource);
+
+      if (type === "tv" && episode) {
+        const index = parseInt(episode) - 1;
+        return results.slice(index, index + 1);
+      }
+      return results;
+    }
     const title = await handleTitle(seriesName);
     const imdbId = await handleIMDBId(tmdbId, params.imdbId, type, season);
 
@@ -216,6 +233,7 @@ async function loadResource(params) {
       const resource = await searchResource(title, imdbId, type, season);
 
       if (resource) {
+        await Widget.storage.set(cacheKey, JSON.stringify(resource));
         const results = resolveResource(resource);
 
         if (type === "tv" && episode) {

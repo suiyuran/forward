@@ -1,44 +1,37 @@
 import { DOMParser } from "@b-fuze/deno-dom";
-import { isAvailableTMDBResult, searchTMDBResults, TMDBTransformedResult, UA } from "../common.ts";
+import {
+  findTMDBResultsByIMDBId,
+  isAvailableTMDBResult,
+  searchTMDBResults,
+  TMDBTransformedResult,
+  UA,
+} from "../common.ts";
 
-const TITLE_MAPPING: Record<string, string> = {
-  "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜": "我们不可能成为恋人！绝对不行。(※似乎可行！？)",
-  "公主大人“拷问”的时间到了": "公主殿下，“拷问”的时间到了",
-  "异世界的安泰全看社畜": "异世界的处置依社畜而定",
-  "地狱老师": "新·地狱老师",
-  "学园偶像大师 Story of Re;IRIS": "学園アイドルマスター Story of Re;IRIS",
-  "Fate/strange Fake": "命运／奇异赝品",
-  "判处勇者刑 惩罚勇者9004队刑务纪录": "判处勇者刑 刑罚勇者9004队服刑记录",
-  "终究、与你相恋。": "终究，与你相恋。",
-  "蘑菇魔女": "毒菇魔女",
-};
-const ORIGINAL_TITLE_MAPPING: Record<string, string> = {
-  "ONE PIECE": "ワンピース",
-  "わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜":
-    "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）",
-  "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～":
-    "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ はじまりの召喚士",
-  "DARK MOON -黒の月: 月の祭壇-": "DARK MOON　-黒の月: 月の祭壇-",
-  "お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～":
-    "お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～",
-  "転生したらドラゴンの卵だった": "転生したらドラゴンの卵だった～最強以外目指さねぇ～",
-};
 const SEASON_REGEXP =
   /(?<!^)((((3rd|Final) )?(Season|Volume) ?[0-9]*|Prelude)|(第?([0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(终|終))((季|期)|(部分|クール)|(之|ノ)?章|シリーズ|(篇|編))|[0-9]+$)/gi;
-const SPECIAL_PARTS = ["TV剪辑版", "TV Edition", "迷你动画", "ミニアニメ", "万圣节特别集", "Halloween Special"];
+const SPECIAL_PARTS = [
+  "TV剪辑版",
+  "TV Edition",
+  "迷你动画",
+  "ミニアニメ",
+  "万圣节特别集",
+  "Halloween Special",
+  "〜再次闪耀！〜",
+  "〜ネクストシャイン！〜",
+  "幻真星戦編",
+  "幻真星戦編",
+];
+const TITLE_RECORD: Record<string, string> = {
+  航海王: "tt0388629",
+};
 
 function handleTitle(title: string) {
-  const result = SPECIAL_PARTS.reduce((acc, part) => acc.replace(part, ""), title.replaceAll(SEASON_REGEXP, "")).trim();
-  return TITLE_MAPPING[result] || result;
-}
-
-function handleOriginalTitle(title: string) {
-  const result = SPECIAL_PARTS.reduce((acc, part) => acc.replace(part, ""), title.replaceAll(SEASON_REGEXP, "")).trim();
-  return ORIGINAL_TITLE_MAPPING[result] || result;
+  return SPECIAL_PARTS.reduce((acc, part) => acc.replace(part, ""), title.replaceAll(SEASON_REGEXP, "")).trim();
 }
 
 async function main() {
   const startTime = Date.now();
+  const year = new Date(startTime).getFullYear().toString();
   console.log(`Bangumi 每日放送 更新开始`);
 
   const domParser = new DOMParser();
@@ -56,7 +49,6 @@ async function main() {
     if (dayElement) {
       const day = dayElement.textContent.trim();
       calendar[day] = [];
-      const names: string[] = [];
       console.log(`- ${day}`);
 
       const items = weekElement.querySelectorAll(".info");
@@ -82,30 +74,42 @@ async function main() {
         console.log(`    动画原名: ${originalTitle}`);
         const name = handleTitle(title);
         console.log(`    剧集: ${name}`);
-        const originalName = handleOriginalTitle(originalTitle);
+        const originalName = handleTitle(originalTitle);
         console.log(`    剧集原名: ${originalName}`);
 
-        if (names.includes(name)) {
-          console.log(`    已处理过该剧集，跳过`);
-          continue;
+        if (name in TITLE_RECORD) {
+          const imdbId = TITLE_RECORD[name];
+          const findResults = await findTMDBResultsByIMDBId(imdbId);
+
+          if (findResults.length > 0) {
+            const findResult = findResults[0];
+            console.log(`    TMDB ID: ${findResult.id}`);
+
+            if (isAvailableTMDBResult(findResult)) {
+              calendar[day].push(findResult);
+            } else {
+              console.log(`    TMDB 结果缺少必要信息，跳过`);
+            }
+            continue;
+          }
         }
-        names.push(name);
-        const nameResponse = await searchTMDBResults("tv", name, "");
-        const originalNameResponse = await searchTMDBResults("tv", originalName, "");
-        const results = [...nameResponse, ...originalNameResponse];
-        const result = results.find((res) => {
-          return res.title === name && res.originalTitle === originalName;
-        });
+        const results = await searchTMDBResults("tv", originalName, year);
+        const availableResults = results.filter(isAvailableTMDBResult);
 
-        if (result) {
-          console.log(`    TMDB ID: ${result.id}`);
+        if (availableResults.length === 1) {
+          const onlyResult = availableResults[0];
+          console.log(`    TMDB ID: ${onlyResult.id}`);
 
-          if (isAvailableTMDBResult(result)) {
-            result.mediaType = "tv";
-            calendar[day].push(result);
+          if (isAvailableTMDBResult(onlyResult)) {
+            onlyResult.mediaType = "tv";
+            calendar[day].push(onlyResult);
           } else {
             console.log(`    TMDB 结果缺少必要信息，跳过`);
           }
+          continue;
+        }
+        if (availableResults.length > 1) {
+          console.log(`    找到多个匹配的 TMDB 结果，需要进一步筛选`);
           continue;
         }
         console.log(`    未找到匹配的 TMDB 结果`);
