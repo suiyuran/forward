@@ -1,19 +1,6 @@
 {
-  "time": "2026-01-06T17:26:04.209Z",
+  "time": "2026-01-07T17:28:43.728Z",
   "data": [
-    {
-      "id": 650524,
-      "type": "tmdb",
-      "title": "寻秦记",
-      "originalTitle": "尋秦記",
-      "description": "2030年，香港诸多现代物被抽取到秦朝，抽送中的生命体更是因此灰飞烟灭。拯救行动迫在眉睫，项少龙带领众人孤注一掷。秦王的欲望，家人的安危，是离开还是留下，都将在这秘境之地寻找答案。",
-      "releaseDate": "2025-12-31",
-      "backdropPath": "/gpJr8wRED8BpBVaxM0eODQEBNwC.jpg",
-      "posterPath": "/wIATfOCE25jVxdXXO2ss6S770Bm.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "动作, 科幻"
-    },
     {
       "id": 1325866,
       "type": "tmdb",
@@ -26,6 +13,19 @@
       "rating": 5.5,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
+    },
+    {
+      "id": 650524,
+      "type": "tmdb",
+      "title": "寻秦记",
+      "originalTitle": "尋秦記",
+      "description": "2030年，香港诸多现代物被抽取到秦朝，抽送中的生命体更是因此灰飞烟灭。拯救行动迫在眉睫，项少龙带领众人孤注一掷。秦王的欲望，家人的安危，是离开还是留下，都将在这秘境之地寻找答案。",
+      "releaseDate": "2025-12-31",
+      "backdropPath": "/gpJr8wRED8BpBVaxM0eODQEBNwC.jpg",
+      "posterPath": "/wIATfOCE25jVxdXXO2ss6S770Bm.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "动作, 科幻"
     },
     {
       "id": 1530787,
@@ -47,9 +47,9 @@
       "originalTitle": "Avatar: Fire and Ash",
       "description": "故事叙述从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
       "releaseDate": "2025-12-17",
-      "backdropPath": "/vm4H1DivjQoNIm0Vs6i3CTzFxQ0.jpg",
+      "backdropPath": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.357,
+      "rating": 7.337,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -67,11 +67,24 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
+      "id": 1323410,
+      "type": "tmdb",
+      "title": "月光里的男孩",
+      "originalTitle": "月光里的男孩",
+      "description": "作家扎西因为儿时打瞎了一条与他同名的狗而愧疚多年，可是当他再回到家乡后却得知了事情的真相。",
+      "releaseDate": "2026-01-06",
+      "backdropPath": "/wUgoZzLqH9GXUKBnt2DvPqWbGJV.jpg",
+      "posterPath": "/7D2xwJK5eBMiKXKqeNguPCIDRAc.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1368535,
       "type": "tmdb",
       "title": "他年她日",
       "originalTitle": "他年她日",
-      "description": "许光汉与袁澧林共谱一段跨越时区及宿命交织而成的奇幻爱恋。",
+      "description": "在一场世纪大地震后，矗立于海中央的“重力墙”将世界一分为二，形成两个不同的时区和重力环境，“优日区”的一天，是“长年区”的一年。长年区长大的薯仔（许光汉 饰）对来自优日区的实习医生安晴（袁澧林 饰）一见钟情，面对时间和地理的巨大阻碍，薯仔和安晴用尽全力双向奔赴，以年思念，以日相见。在失衡的时空里，他们能否坚定地爱到最后，守护这场刻骨铭心的爱恋？",
       "releaseDate": "2025-09-26",
       "backdropPath": "/n3mqsvKiqElRQ4KjDQ0NADQPVP5.jpg",
       "posterPath": "/evPWHzYsDyUoXfv26iNamkHzbKE.jpg",
@@ -88,7 +101,7 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
       "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "rating": 7.626,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -127,22 +140,9 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
       "posterPath": "/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
-      "rating": 6.886,
+      "rating": 6.894,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1323410,
-      "type": "tmdb",
-      "title": "月光里的男孩",
-      "originalTitle": "月光里的男孩",
-      "description": "作家扎西因为儿时打瞎了一条与他同名的狗而愧疚多年，可是当他再回到家乡后却得知了事情的真相。",
-      "releaseDate": "2026-01-06",
-      "backdropPath": "/wUgoZzLqH9GXUKBnt2DvPqWbGJV.jpg",
-      "posterPath": "/1OpiJUxYEfchgZcAK5JdRMb4fMd.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1601264,
@@ -192,7 +192,7 @@
       "releaseDate": "2025-11-12",
       "backdropPath": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
       "posterPath": "/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "rating": 6.583,
+      "rating": 6.593,
       "mediaType": "movie",
       "genreTitle": "惊悚, 犯罪"
     },
