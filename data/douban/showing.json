@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-07T17:28:43.728Z",
+  "time": "2026-01-08T17:29:59.455Z",
   "data": [
     {
       "id": 1325866,
@@ -49,7 +49,7 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.337,
+      "rating": 7.341,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -62,22 +62,9 @@
       "releaseDate": "2026-01-01",
       "backdropPath": "/dT3mUfkXKzUbDu4qlldRGXxePLj.jpg",
       "posterPath": "/jTuu8wLW2RUg1IzX4IC7wqpsjIo.jpg",
-      "rating": 6,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1323410,
-      "type": "tmdb",
-      "title": "月光里的男孩",
-      "originalTitle": "月光里的男孩",
-      "description": "作家扎西因为儿时打瞎了一条与他同名的狗而愧疚多年，可是当他再回到家乡后却得知了事情的真相。",
-      "releaseDate": "2026-01-06",
-      "backdropPath": "/wUgoZzLqH9GXUKBnt2DvPqWbGJV.jpg",
-      "posterPath": "/7D2xwJK5eBMiKXKqeNguPCIDRAc.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1368535,
@@ -93,19 +80,6 @@
       "genreTitle": "奇幻, 爱情"
     },
     {
-      "id": 1084242,
-      "type": "tmdb",
-      "title": "疯狂动物城2",
-      "originalTitle": "Zootopia 2",
-      "description": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
-      "releaseDate": "2025-11-26",
-      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
-      "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
-    },
-    {
       "id": 1356454,
       "type": "tmdb",
       "title": "得闲谨制",
@@ -117,6 +91,32 @@
       "rating": 3.6,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
+    },
+    {
+      "id": 1323410,
+      "type": "tmdb",
+      "title": "月光里的男孩",
+      "originalTitle": "月光里的男孩",
+      "description": "作家扎西因为儿时打瞎了一条与他同名的狗而愧疚多年，可是当他再回到家乡后却得知了事情的真相。",
+      "releaseDate": "2026-01-06",
+      "backdropPath": "/wUgoZzLqH9GXUKBnt2DvPqWbGJV.jpg",
+      "posterPath": "/7D2xwJK5eBMiKXKqeNguPCIDRAc.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1084242,
+      "type": "tmdb",
+      "title": "疯狂动物城2",
+      "originalTitle": "Zootopia 2",
+      "description": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "releaseDate": "2025-11-26",
+      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+      "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
+      "rating": 7.598,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1537396,
@@ -140,22 +140,9 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
       "posterPath": "/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
-      "rating": 6.894,
+      "rating": 6.755,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1601264,
-      "type": "tmdb",
-      "title": "背后有人",
-      "originalTitle": "背后有人",
-      "description": "老楼真有鬼，背后不是人！青年录音师入住鬼楼，听到鬼频率，看到鬼飘移……长发女鬼，时隐时现，时而爆发出惊人尖叫，时而传来隐隐的鬼哭……突然之间，女鬼出现在房顶，一回头，女鬼又惊现在被子里！惨叫不断，惊吓不断，鬼魅血脸狰狞扭曲，阴森鬼爪惊悚索命！女主陪同男主勇闯鬼楼，挑战千年怨灵，等待他们的是冤魂的报复？还是厉鬼的劫杀？一切都是未知！月圆之夜，人鬼决战呈现在荒郊野外，鬼BOSS终于邪恶登场，终极颤栗一触即发！谁敢回头看背后？颤抖吧，尖叫吧！",
-      "releaseDate": "2025-12-20",
-      "backdropPath": "",
-      "posterPath": "/xf595jRbYYZ7Vs9jygykHfUWWsa.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1595386,
@@ -171,6 +158,19 @@
       "genreTitle": "动作, 喜剧"
     },
     {
+      "id": 1601264,
+      "type": "tmdb",
+      "title": "背后有人",
+      "originalTitle": "背后有人",
+      "description": "老楼真有鬼，背后不是人！青年录音师入住鬼楼，听到鬼频率，看到鬼飘移……长发女鬼，时隐时现，时而爆发出惊人尖叫，时而传来隐隐的鬼哭……突然之间，女鬼出现在房顶，一回头，女鬼又惊现在被子里！惨叫不断，惊吓不断，鬼魅血脸狰狞扭曲，阴森鬼爪惊悚索命！女主陪同男主勇闯鬼楼，挑战千年怨灵，等待他们的是冤魂的报复？还是厉鬼的劫杀？一切都是未知！月圆之夜，人鬼决战呈现在荒郊野外，鬼BOSS终于邪恶登场，终极颤栗一触即发！谁敢回头看背后？颤抖吧，尖叫吧！",
+      "releaseDate": "2025-12-20",
+      "backdropPath": "",
+      "posterPath": "/xf595jRbYYZ7Vs9jygykHfUWWsa.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
+    },
+    {
       "id": 604865,
       "type": "tmdb",
       "title": "星际变种",
@@ -184,19 +184,6 @@
       "genreTitle": "科幻, 恐怖"
     },
     {
-      "id": 425274,
-      "type": "tmdb",
-      "title": "惊天魔盗团3",
-      "originalTitle": "Now You See Me: Now You Don't",
-      "description": "因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
-      "releaseDate": "2025-11-12",
-      "backdropPath": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
-      "posterPath": "/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "rating": 6.593,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 犯罪"
-    },
-    {
       "id": 838240,
       "type": "tmdb",
       "title": "机器人之梦",
@@ -208,6 +195,19 @@
       "rating": 8,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
+    },
+    {
+      "id": 425274,
+      "type": "tmdb",
+      "title": "惊天魔盗团3",
+      "originalTitle": "Now You See Me: Now You Don't",
+      "description": "因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
+      "releaseDate": "2025-11-12",
+      "backdropPath": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+      "posterPath": "/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
+      "rating": 6.6,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 犯罪"
     },
     {
       "id": 1588137,
