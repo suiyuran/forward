@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-07T16:26:06.781Z",
+  "time": "2026-01-08T16:25:50.074Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2023-04-01",
         "backdropPath": "/vjiIuR3XGpoGSumQ7DziPAmxIYR.jpg",
         "posterPath": "/jfPqPQy2EiS8TwDlbvU9hgyxCdF.jpg",
-        "rating": 8.147,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -22,7 +22,7 @@
         "originalTitle": "違国日記",
         "description": "影片改编自同名漫画。社恐小说家的高代槙生（新垣结衣 饰）在姐姐夫妇的葬礼上，面对被亲戚们互相推诿的姐姐的遗孤·田汲朝（早濑憩 饰）无法视而不见，顺势决定收养她。但是把外甥女带回去之后，不善交际的槙生才发现自己不适合和谁一起生活。与此相对，不认生的朝面对“不像大人的大人” 的槙生却也坦率地接受了。女主和如小狗般外甥女就此展开了同居生活……",
         "releaseDate": "2026-01-04",
-        "backdropPath": "/53riQjTPBq1WMsl39PzucWpfDoX.jpg",
+        "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
         "posterPath": "/wjh7Ju3vO6T58Z6IPqSSyaGt6VA.jpg",
         "rating": 8,
         "mediaType": "tv",
@@ -33,7 +33,7 @@
         "type": "tmdb",
         "title": "花样少年少女",
         "originalTitle": "花ざかりの君たちへ",
-        "description": "",
+        "description": "在美国成长的少女芦屋瑞稀，憧憬跳高选手佐野泉为了见他而转入私立男校樱开学园，然而佐野泉却已经放弃了跳高。瑞稀为了鼓励佐野泉重新跳高，一方面不能暴露自己是女生的身份，一方面却被佐野泉的心吸引了……。",
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "posterPath": "/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg",
@@ -115,7 +115,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/swefPajdX6SMpxAdfm3qoaTyZYV.jpg",
         "posterPath": "/4krFgYKveJfBPrrG8RHUkk2DcCn.jpg",
-        "rating": 7,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-01-05",
         "backdropPath": "/qwQwTAvgH6QXPOOKsIlE0i2GfOn.jpg",
         "posterPath": "/u3FoBE3Vw0tTHFV6djpSv5HHBU5.jpg",
-        "rating": 0,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -262,7 +262,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
         "posterPath": "/frh8aDHSjbnyHv2YU5fJBThEhK3.jpg",
-        "rating": 6.7,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -286,8 +286,8 @@
         "originalTitle": "アルネの事件簿",
         "description": "“世上有两种人。相信人外……即非人类存在的人，与不相信的人。”\n\n　　经营侦探业的父亲死于连续杀人事件，路易斯·哈特曼从此孑然一身。传闻是“掘墓吸血鬼”所为，但不信迷信的路易斯决心亲手抓住犯人。此时出现的，是自称侦探的阿尔涅·尼塔特，及其助手琳·莱茵维斯。一扇新的大门，正向路易斯敞开——",
         "releaseDate": "2026-01-07",
-        "backdropPath": "/8fsVi4PaZ1H3raSSFRq2BfCSjJS.jpg",
-        "posterPath": "/5RqIzLBLiMxD7KpYpnQP6TNsHOD.jpg",
+        "backdropPath": "/r92P8dIFevgmbmmT2RLu6BX4cJ1.jpg",
+        "posterPath": "/3rm7bINPzZbOZzTix6m8sAJSG2L.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
@@ -347,28 +347,15 @@
         "genreTitle": "动作冒险, 喜剧"
       },
       {
-        "id": 308005,
-        "type": "tmdb",
-        "title": "极限拯救",
-        "originalTitle": "테러맨",
-        "description": "",
-        "releaseDate": "2026-01-31",
-        "backdropPath": "",
-        "posterPath": "/13izuyHXlQAAlt8Vy0H1apb3bty.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, 动画"
-      },
-      {
         "id": 263330,
         "type": "tmdb",
         "title": "靠死亡游戏混饭吃。",
         "originalTitle": "死亡遊戯で飯を食う。",
         "description": "醒来以后，发现自己人在陌生的洋楼，身上穿著不知何时换上的女仆装，而有同样遭遇的少女还有五人。“游戏”开始了，我们必须逃出这个充满杀人陷阱的洋楼“GHOST HOUSE”。涉入死亡游戏的事实，使少女们面色凝重──除了我以外。我的玩家名称是幽鬼，今年十七岁，死亡游戏专家。也就是穿女仆装逃离死亡之屋，穿兔女郎装杀人，领奖金过活的人。觉得我有病？我也是这么想。不过，世界上就是有这种人──靠死亡游戏混饭吃的少女。",
         "releaseDate": "2026-01-07",
-        "backdropPath": "/tj8kKSQICHiNsDLf34UIH5XYGFq.jpg",
+        "backdropPath": "/rcwfBh8gPBL4sKUEPqu0lEKreha.jpg",
         "posterPath": "/xCtYF9w9jUGn9WMs36R0q1SBzM8.jpg",
-        "rating": 0,
+        "rating": 4.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -393,10 +380,10 @@
         "description": "青年利瑟尔在奇幻世界中作为宰相大显身手。一天，他突然穿越到了另一个异世界。不过，他活用了自己与生俱来的头脑与话术，让高级冒险者劫尔成为了伙伴，自己也华丽转型为冒险者。明明有可能回不到原来的世界，却轻巧地说着“就当做是休假来享受吧”，充分地享受着异世界生活。",
         "releaseDate": "2026-01-08",
         "backdropPath": "/xOfAuXpAx5Eps6d24n4w0o4tYlU.jpg",
-        "posterPath": "/zAW8kmklOvsmnKt8I4eVae8R9fO.jpg",
+        "posterPath": "/41ZzkDjfBnlDJPWpb4xWOIxrsH.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "动画, Sci-Fi & Fantasy"
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 281161,
@@ -446,7 +433,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/hqlqdm67fnxjIdjeZMXNtielWMS.jpg",
         "posterPath": "/gUpjTomq5J4aOpwAOJ3WB76kh5g.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -465,6 +452,19 @@
       }
     ],
     "星期四": [
+      {
+        "id": 308005,
+        "type": "tmdb",
+        "title": "极限拯救",
+        "originalTitle": "테러맨",
+        "description": "",
+        "releaseDate": "2026-01-31",
+        "backdropPath": "",
+        "posterPath": "/13izuyHXlQAAlt8Vy0H1apb3bty.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 动画"
+      },
       {
         "id": 95479,
         "type": "tmdb",
@@ -487,7 +487,7 @@
         "releaseDate": "2024-01-04",
         "backdropPath": "/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
         "posterPath": "/AkzmQI0BZMKhPyStTFi8jRQ7pns.jpg",
-        "rating": 7.643,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -498,7 +498,7 @@
         "originalTitle": "エリスの聖杯",
         "description": "反派千金的亡灵是平凡千金的搭档!?  在遍布阴谋的贵族社会中，两人的反击开始了！\n\n　　“听好了，康斯坦丝·葛莱尔。你就算花费一生时间，也必须让我的复仇成功！”\n\n　　只有诚实勉强算是优点的平凡子爵千金康妮，在某一次宴会上被抢走未婚夫，还被诬陷是窃盗犯，因而陷入走投无路的绝境。就在这种情况下，10年前被处刑的绝代恶女史嘉蕾·卡斯提奥的亡灵出现在她眼前！过去曾经以其绝世美貌、高贵血统，以及压倒性的出众气质而被赞誉为社交界至宝的史嘉蕾，附身在康妮身上之后没两三下子就逆转局势，让康妮得以逃出险境。但是，康妮须要付出的代价，却是帮忙史嘉蕾复仇!? 刚开始是因为利害一致而合作的两人，在不断击溃贵族社会各种暗中恶意和阴谋的过程中建立了情谊，成长为真正的搭档，最后踏上跟过去一直持续至今的巨大阴谋针锋相对的道路……！",
         "releaseDate": "2026-01-08",
-        "backdropPath": "",
+        "backdropPath": "/qQEjnCXQNcvixGFovO8DDAXZP8P.jpg",
         "posterPath": "/ifxEzlA8UWr1ZKHjYHKz59LzO9g.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -647,7 +647,7 @@
         "posterPath": "/3xMrv5JDbgy1AUj6GURBaTv8sNt.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "动画"
+        "genreTitle": "动画, Sci-Fi & Fantasy"
       },
       {
         "id": 209867,
@@ -658,7 +658,7 @@
         "releaseDate": "2023-09-29",
         "backdropPath": "/96RT2A47UdzWlUfvIERFyBsLhL2.jpg",
         "posterPath": "/jvueXfiDeeifwGCySYsQdcw2fCz.jpg",
-        "rating": 8.737,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -751,7 +751,7 @@
         "releaseDate": "2026-01-03",
         "backdropPath": "/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
         "posterPath": "/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-        "rating": 9.6,
+        "rating": 9.591,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -763,7 +763,7 @@
         "description": "木下歌夏是主推人气偶像团体F/ACE的福原多闻君的高中生。一天，去做家政兼职的地方，居然是多闻君本人的家！而且，多闻君的本性是和性感＆狂放的偶像样子完全相反的，阴湿的阴角……？\n\n　　“多闻君是神！！”“请再说一遍”\n\n　　不管是什么样子，多闻君就是多闻君。面对自我肯定感低下的他，开始对他全力支持！可是，阴湿的多闻君也让自己开始心动……？ON/OFF切换激烈×过于崭新的推活恋爱喜剧！",
         "releaseDate": "2026-01-04",
         "backdropPath": "/u2XJNukeANKE9QxKl83wYUO5SwF.jpg",
-        "posterPath": "/1iTCxEIK1xlmIXjHcLjt0UyOU8w.jpg",
+        "posterPath": "/dMiCgX3BPx2mSq74Yn5bK2MNlC8.jpg",
         "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -816,7 +816,7 @@
         "releaseDate": "2025-01-05",
         "backdropPath": "/lUZ6ThctsCMee63Cu02F1F6rgC1.jpg",
         "posterPath": "/uYSZGYvrREzGD2VJlr0Cdni5zBO.jpg",
-        "rating": 8.3,
+        "rating": 8.293,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
