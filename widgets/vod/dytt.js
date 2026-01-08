@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "电影天堂",
   description: "获取电影天堂的VOD资源",
   requiredVersion: "0.0.1",
-  version: "1.0.3",
+  version: "1.0.4",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -17,9 +17,21 @@ WidgetMetadata = {
   ],
 };
 
-const UA =
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36";
 const URL = "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/";
+
+const UA =
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1";
+const CACHE_DURATION = 24 * 60 * 60 * 1000;
+
+async function getIdMapping() {
+  try {
+    const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/id-mapping.json";
+    return (await Widget.http.get(url)).data;
+  } catch (error) {
+    console.error("获取 ID 映射失败: ", error.message);
+    return {};
+  }
+}
 
 async function getTitleMapping() {
   try {
@@ -66,6 +78,11 @@ async function getDoubanDesc(doubanId) {
 }
 
 async function getIMDBIdByDoubanId(doubanId) {
+  const idMapping = await getIdMapping();
+
+  if (idMapping[doubanId]) {
+    return idMapping[doubanId];
+  }
   const desc = await getDoubanDesc(doubanId);
   const match = desc.match(/(tt\d+)/);
 
@@ -113,8 +130,7 @@ async function searchResource(title, imdbId, type, season) {
   const searchedResults = await search(titles[0]);
   const resources = searchedResults.map((item) => transformResource(item)).filter((res) => !res.genre.includes("短剧"));
   const sameTypeResources = resources.filter((res) => res.type === type);
-  const titleToMatch = isSimpleMatch(type, season) ? title : `${title}第${chineseNumber(season)}季`;
-  const sameNameResources = sameTypeResources.filter((res) => res.title === titleToMatch);
+  const sameNameResources = sameTypeResources.filter((res) => isSameNameResource(title, type, season, res));
   const similarResources = sameTypeResources.filter((res) => isSimilarResource(title, titles, res));
   const allResources = [...sameNameResources, ...similarResources];
 
@@ -158,8 +174,19 @@ function chineseNumber(numberStr) {
   return result.replaceAll(/^一|零$/g, "");
 }
 
-function isSimpleMatch(type, season) {
-  return type === "movie" || (type === "tv" && season === "1");
+function isSameNameResource(title, type, season, resource) {
+  if (type === "movie") {
+    return resource.title === title;
+  }
+  if (type === "tv") {
+    const seasonInfo = `第${chineseNumber(season)}季`;
+
+    if (season === "1") {
+      return resource.title === title || resource.title === `${title}${seasonInfo}`;
+    }
+    return resource.title === `${title}${seasonInfo}`;
+  }
+  return false;
 }
 
 function isSimilar(title, titles) {
@@ -182,7 +209,7 @@ async function handleTitle(seriesName) {
 }
 
 async function handleIMDBId(tmdbId, imdbId, type, season) {
-  if (isSimpleMatch(type, season)) {
+  if (type === "movie" || (type === "tv" && season === "1")) {
     return imdbId;
   }
   return await getIMDBIdByTMDBId(tmdbId, season);
@@ -209,15 +236,54 @@ function generateCacheKey(type, tmdbId, season) {
   return `${WidgetMetadata.id}.${type}.${tmdbId}.${season}`;
 }
 
+async function getCacheValue(key) {
+  const cacheValue = await Widget.storage.get(key);
+
+  if (cacheValue) {
+    const data = JSON.parse(cacheValue);
+    const currentTime = Date.now();
+    if (currentTime - data.time < CACHE_DURATION) {
+      return data.data;
+    }
+    await Widget.storage.remove(key);
+  }
+  return null;
+}
+
+async function setCacheValue(key, value) {
+  const time = Date.now();
+  const data = { time, data: value };
+  await Widget.storage.set(key, JSON.stringify(data));
+}
+
+async function searchResourceWithCache(title, tmdbId, imdbId, type, season) {
+  const cacheKey = generateCacheKey(type, tmdbId, season);
+  const cache = await getCacheValue(cacheKey);
+
+  if (cache) {
+    return cache;
+  }
+  const newTitle = await handleTitle(title);
+  const newIMDBId = await handleIMDBId(tmdbId, imdbId, type, season);
+
+  if (imdbId) {
+    const resource = await searchResource(newTitle, newIMDBId, type, season);
+
+    if (resource) {
+      await setCacheValue(cacheKey, resource);
+      return resource;
+    }
+  }
+  return null;
+}
+
 async function loadResource(params) {
-  const { seriesName, tmdbId, type, season, episode } = params;
+  const { seriesName, tmdbId, imdbId, type, season, episode } = params;
 
   try {
-    const cacheKey = generateCacheKey(type, tmdbId, season);
-    const cache = await Widget.storage.get(cacheKey);
+    const resource = await searchResourceWithCache(seriesName, tmdbId, imdbId, type, season);
 
-    if (cache) {
-      const resource = JSON.parse(cache);
+    if (resource) {
       const results = resolveResource(resource);
 
       if (type === "tv" && episode) {
@@ -225,23 +291,6 @@ async function loadResource(params) {
         return results.slice(index, index + 1);
       }
       return results;
-    }
-    const title = await handleTitle(seriesName);
-    const imdbId = await handleIMDBId(tmdbId, params.imdbId, type, season);
-
-    if (imdbId) {
-      const resource = await searchResource(title, imdbId, type, season);
-
-      if (resource) {
-        await Widget.storage.set(cacheKey, JSON.stringify(resource));
-        const results = resolveResource(resource);
-
-        if (type === "tv" && episode) {
-          const index = parseInt(episode) - 1;
-          return results.slice(index, index + 1);
-        }
-        return results;
-      }
     }
     return [];
   } catch (error) {
