@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-09T16:22:58.756Z",
+  "time": "2026-01-10T16:20:35.631Z",
   "data": {
     "星期日": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
         "posterPath": "/wjh7Ju3vO6T58Z6IPqSSyaGt6VA.jpg",
-        "rating": 8.667,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "posterPath": "/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg",
-        "rating": 1,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/jliuY8wmHTSB6WtpZUXAUF547t4.jpg",
         "posterPath": "/zHkDLRQyZ2pBK3i1oVSUJPfyFSl.jpg",
-        "rating": 8.5,
+        "rating": 8.667,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/swefPajdX6SMpxAdfm3qoaTyZYV.jpg",
         "posterPath": "/4krFgYKveJfBPrrG8RHUkk2DcCn.jpg",
-        "rating": 8.5,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -165,7 +165,7 @@
         "originalTitle": "イチゴ哀歌",
         "description": "由 神马耶树 作画的漫画《草莓哀歌～缺根筋的活泼妹妹与无法释怀的哥哥～》TV动画  「帅气哥哥入手！」这种好事果然没那么容易！因父亲再婚而多出来的妹妹，竟然是和自己完全相反的超级辣妹！同居后，她还经常把男人带回家，让光太每天都快受不了了，然而某起事件之后，蓝花开始对他提出拥抱，甚至更进一步的要求！ ？",
         "releaseDate": "2026-01-05",
-        "backdropPath": "",
+        "backdropPath": "/bFdIuq0tWRSeYENCf1i3ZQWY8iF.jpg",
         "posterPath": "/fjKOO6PBLwLG3ViyvrIL9oZUmbU.jpg",
         "rating": 9,
         "mediaType": "tv",
@@ -234,7 +234,7 @@
         "releaseDate": "2026-01-05",
         "backdropPath": "/qwQwTAvgH6QXPOOKsIlE0i2GfOn.jpg",
         "posterPath": "/u3FoBE3Vw0tTHFV6djpSv5HHBU5.jpg",
-        "rating": 7.8,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -262,7 +262,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
         "posterPath": "/frh8aDHSjbnyHv2YU5fJBThEhK3.jpg",
-        "rating": 8.2,
+        "rating": 8.313,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/fgESwlxIp0XTgjwKjdxaNQJmh2q.jpg",
         "posterPath": "/o0cf52LauxmJNw70hv2AbsXEWtS.jpg",
-        "rating": 9,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/zJJQCD9xMhDD4MlQ6haaP3IBCHk.jpg",
         "posterPath": "/otKyL6FiAoNAAB90N0cO3RhRhCj.jpg",
-        "rating": 7.75,
+        "rating": 8.167,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -326,8 +326,8 @@
         "description": "新生！超越时代的武士，参上！\n\n　　曾经让人间界陷入恐怖的妖邪界封印被解开，无数妖邪兵开始了入侵。奔赴人类危机的是五位年轻的武士。他们名为，武士军团！！他们的战斗之日，即将开启新的篇章！",
         "releaseDate": "2026-01-06",
         "backdropPath": "/fikx5FofgLjNvyGORxdB4R2wxsE.jpg",
-        "posterPath": "/gQDsN26g7RUibJJcgWzPvc0iTnb.jpg",
-        "rating": 9.5,
+        "posterPath": "/rBQCPorfUqrifLIdXH4qPeQgrye.jpg",
+        "rating": 9.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
@@ -342,7 +342,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/oVfucXvhutTpYExG9k06NJqnpT9.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.72,
+        "rating": 8.721,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -353,9 +353,9 @@
         "originalTitle": "死亡遊戯で飯を食う。",
         "description": "醒来以后，发现自己人在陌生的洋楼，身上穿著不知何时换上的女仆装，而有同样遭遇的少女还有五人。“游戏”开始了，我们必须逃出这个充满杀人陷阱的洋楼“GHOST HOUSE”。涉入死亡游戏的事实，使少女们面色凝重──除了我以外。我的玩家名称是幽鬼，今年十七岁，死亡游戏专家。也就是穿女仆装逃离死亡之屋，穿兔女郎装杀人，领奖金过活的人。觉得我有病？我也是这么想。不过，世界上就是有这种人──靠死亡游戏混饭吃的少女。",
         "releaseDate": "2026-01-07",
-        "backdropPath": "/tj8kKSQICHiNsDLf34UIH5XYGFq.jpg",
+        "backdropPath": "/rcwfBh8gPBL4sKUEPqu0lEKreha.jpg",
         "posterPath": "/xCtYF9w9jUGn9WMs36R0q1SBzM8.jpg",
-        "rating": 7,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -368,7 +368,7 @@
         "releaseDate": "2023-04-12",
         "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
         "posterPath": "/iNlDBSaEIu24NAST95rGm3Eofc5.jpg",
-        "rating": 8.3,
+        "rating": 8.346,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -381,7 +381,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/snzpnGs0cX5cQR7Cxaefc6su53p.jpg",
         "posterPath": "/41ZzkDjfBnlDJPWpb4xWOIxrsH.jpg",
-        "rating": 9.5,
+        "rating": 9.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -394,7 +394,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/7fTVryWMrAFgsdlFIUHI4E6oZlE.jpg",
         "posterPath": "/iEtEDr5CfVcUhWXFze18Rl2Q9CN.jpg",
-        "rating": 8.333,
+        "rating": 8.25,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -420,7 +420,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/AjcUWWB60zEOE6xGA9rD2idJD2f.jpg",
         "posterPath": "/cqT49U15uBjkaR8n64rJ2Z9CkIP.jpg",
-        "rating": 9.5,
+        "rating": 9.333,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -433,7 +433,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/hqlqdm67fnxjIdjeZMXNtielWMS.jpg",
         "posterPath": "/gUpjTomq5J4aOpwAOJ3WB76kh5g.jpg",
-        "rating": 9.5,
+        "rating": 9.333,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -474,7 +474,7 @@
         "releaseDate": "2020-10-03",
         "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
         "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-        "rating": 8.57,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -498,9 +498,9 @@
         "originalTitle": "エリスの聖杯",
         "description": "反派千金的亡灵是平凡千金的搭档!?  在遍布阴谋的贵族社会中，两人的反击开始了！\n\n　　“听好了，康斯坦丝·葛莱尔。你就算花费一生时间，也必须让我的复仇成功！”\n\n　　只有诚实勉强算是优点的平凡子爵千金康妮，在某一次宴会上被抢走未婚夫，还被诬陷是窃盗犯，因而陷入走投无路的绝境。就在这种情况下，10年前被处刑的绝代恶女史嘉蕾·卡斯提奥的亡灵出现在她眼前！过去曾经以其绝世美貌、高贵血统，以及压倒性的出众气质而被赞誉为社交界至宝的史嘉蕾，附身在康妮身上之后没两三下子就逆转局势，让康妮得以逃出险境。但是，康妮须要付出的代价，却是帮忙史嘉蕾复仇!? 刚开始是因为利害一致而合作的两人，在不断击溃贵族社会各种暗中恶意和阴谋的过程中建立了情谊，成长为真正的搭档，最后踏上跟过去一直持续至今的巨大阴谋针锋相对的道路……！",
         "releaseDate": "2026-01-08",
-        "backdropPath": "/qQEjnCXQNcvixGFovO8DDAXZP8P.jpg",
+        "backdropPath": "/yC6RUfpaVEw1bNJoXUc4HzG7bRW.jpg",
         "posterPath": "/xKVJu2INm7wfeeXSRtEGLGpVzdZ.jpg",
-        "rating": 9.5,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -513,7 +513,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/d7VbOrezXHhHnk39dbOb2eR6NIt.jpg",
         "posterPath": "/fgG5AAn7st7ZCSLmcDWPd08WZCv.jpg",
-        "rating": 9.5,
+        "rating": 9.333,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -524,9 +524,9 @@
         "originalTitle": "シャンピニオンの魔女",
         "description": "居住在黑森林的露娜，被人们当做黑魔女恐惧着。之所以会如此，是因为露娜每说一句话、触碰一次、走过一次的地方都会长出“毒蘑菇”。镇上的人们将她叫为“蘑菇魔女”。这样的不知晓人心温暖的露娜，开启了第一场恋情……？\n\n　　爱与冒险与感动的魔法奇幻故事开幕！",
         "releaseDate": "2026-01-09",
-        "backdropPath": "/7J3W1QAxMXaIJcj9lfYD5oPhCDL.jpg",
+        "backdropPath": "/7p3vA00cBnACpEe2csUjO6fJuAv.jpg",
         "posterPath": "/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -552,7 +552,7 @@
         "releaseDate": "2026-01-09",
         "backdropPath": "/uLC9tdRSPcKsgvRLth38WEbm8pa.jpg",
         "posterPath": "/lWNtQ6Ju61H1JYca0xdxIztegDV.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -619,7 +619,7 @@
         "releaseDate": "2019-07-05",
         "backdropPath": "/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
         "posterPath": "/gCQy0ajY5Hv8XtbgXtK5Jqafea7.jpg",
-        "rating": 8.365,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -639,13 +639,13 @@
       {
         "id": 271609,
         "type": "tmdb",
-        "title": "DARK MOON -黑之月: 月之祭坛-",
+        "title": "DARK MOON -黑之月：月之祭坛-",
         "originalTitle": "DARK MOON　-黒の月: 月の祭壇-",
         "description": "是无法爱上任何人的吸血鬼，还是一生只能爱一人的狼人。\n\n　　利物飞德两大名校分别有着这样两个超人气校草男团，然而在一个身份成谜的女孩转学过来之后，可怕的事件接连不断… 吸血鬼少年与狼少年都认定是对方所为，随时警戒着彼此。但与此同时，却又不断陷入转学生秀荷的强烈吸引力无法自拔。前世延续至今的命运将少年与少女绑在了一起，随着真相慢慢被揭开，他们的世界开始发生天翻地覆的变化… “等你相信我是真的相信你的时候，等你也相信你自己的时候，一定要咬我哦。”\n\n　　少年们因羁绊而不断发现与成长的故事就此拉开序幕。",
         "releaseDate": "2026-01-10",
-        "backdropPath": "",
+        "backdropPath": "/iKalNKa27eSiNgqGvDn55Q8fNjI.jpg",
         "posterPath": "/3xMrv5JDbgy1AUj6GURBaTv8sNt.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -658,7 +658,7 @@
         "releaseDate": "2023-09-29",
         "backdropPath": "/96RT2A47UdzWlUfvIERFyBsLhL2.jpg",
         "posterPath": "/jvueXfiDeeifwGCySYsQdcw2fCz.jpg",
-        "rating": 8.7,
+        "rating": 8.739,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -669,7 +669,7 @@
         "originalTitle": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ はじまりの召喚士",
         "description": "「招待您进入永无止境的游戏？」\n\n　　废游戏宅．山田健一偶然发现了一款没有标题的谜之网络游戏。\n\n　　在设定难易度时，他毫不犹豫地选择了最高难度。\n\n　　没想到当他按下『地狱模式』之后，竟然转生成了异世界的农奴！\n\n　　转生成少年「亚莲」的健一，一边掌握着「召唤士」这个充满谜团的职业，在没有攻略也没有讨论区的异世界里，寻找成为最强的道路——。",
         "releaseDate": "2026-01-10",
-        "backdropPath": "/2H8sPrD90Osqw6tapFOAxBZ0sLW.jpg",
+        "backdropPath": "/zh3PkpphKLYZz0hl7oPTFrnGhNn.jpg",
         "posterPath": "/jTJWL2wKoukCaId1Tkd3NHDVSgw.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -710,7 +710,7 @@
         "releaseDate": "2026-01-09",
         "backdropPath": "/obIzS1ZCJsDPOkzZjdQSw2tIKTo.jpg",
         "posterPath": "/cuwMHNZTTTnVkkoFLhHluK6sRoO.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画"
       }
@@ -751,7 +751,7 @@
         "releaseDate": "2026-01-03",
         "backdropPath": "/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
         "posterPath": "/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-        "rating": 9.7,
+        "rating": 9.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -764,7 +764,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/u2XJNukeANKE9QxKl83wYUO5SwF.jpg",
         "posterPath": "/dMiCgX3BPx2mSq74Yn5bK2MNlC8.jpg",
-        "rating": 9.5,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -788,8 +788,8 @@
         "originalTitle": "転生したらドラゴンの卵だった～最強以外目指さねぇ～",
         "description": "睁开眼睛后，映入眼帘的是陌生的森林。看样子是这里似乎是我所不知道的奇幻世界。\n\n　　放眼四处望去，尽是些可怕的异形魔兽。再看看自己的样子，那儿有着这一颗很大的蛋……啊这，喂！我，转生成了个蛋啊？！\n\n　　而且，想要破壳而出似乎必须得要靠打怪升级才行。我绝对战斗不了的啊！因为我，是个蛋啊啊啊啊啊啊啊！！！",
         "releaseDate": "2026-01-10",
-        "backdropPath": "/v5DChqixQB8PExPO50IPYc31oVU.jpg",
-        "posterPath": "/bZwaRBpTiBDrNRA0SRcRE6Q0Ydd.jpg",
+        "backdropPath": "",
+        "posterPath": "/eQd0CiwzfhSftE71FAZzoUGzmJ5.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -802,7 +802,7 @@
         "description": "21世纪中叶，东京的地下世界被接受了“以太（魔力）强化手术”、化身《魔王》的黑帮统治。\n\n　　打倒这些魔王以获取赏金的人，被称为《勇者》！\n\n　　勇者通过服用名为《E3》的药物来增强以太能力，与魔王对抗。这种杀戮行为被合法化，勇者成了“职业杀手”。\n\n　　此时，自由勇者《死神》八代面前出现了一位自称“弟子”的女高中生城峰。不情愿地接纳了她的八代，却意外卷入一系列麻烦事件！\n\n　　渣男“师傅”与自称“弟子”的她——顶级现代异能动作大戏，拉开帷幕！",
         "releaseDate": "2026-01-11",
         "backdropPath": "/oSuTjKSAPYinEQooWYojSKnP7B5.jpg",
-        "posterPath": "/zUdByBz1zWn4Prgw5nkVmgfFzfI.jpg",
+        "posterPath": "/wtydP2MiBk0dPLTd5RQFu6eC2VW.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -841,7 +841,7 @@
         "description": "她们不是人类。但是，比任何人都憧憬着人类\n\n　　对人间关系有心理阴影的奔三NEET：人间零。这样的我，刚想着要转职山清水秀的山区学校，过着优哉游哉的复健教师生活——那儿居然是为了让人外成为人类而设立的女校？！\n\n　　人鱼族水月镜花、狼人族尾尾守一咲、兔人族右左美彗、鸟人族羽根田帷……与这样不可思议的学生们渡过的日子。为什么想要成为人类，成为人类了想要干什么——我通过她们学习着“人类”。\n\n　　这既不是异世界奇幻，也不是转生人生重来。只不过是一所奇怪的学校，与向着成为人类努力的人外女子们一起渡过的，一位教师的故事。",
         "releaseDate": "2026-01-11",
         "backdropPath": "/6uRO8tziDqzzNKYfD2N9xh7QPhN.jpg",
-        "posterPath": "/1GmD3pP3aCQAknNem6yaQ5gP5os.jpg",
+        "posterPath": "/3JFeeastW8WJZqV2Kdcg5BgV8eN.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
