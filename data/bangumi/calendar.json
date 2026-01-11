@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-10T16:20:35.631Z",
+  "time": "2026-01-11T16:20:44.215Z",
   "data": {
     "星期日": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
         "posterPath": "/wjh7Ju3vO6T58Z6IPqSSyaGt6VA.jpg",
-        "rating": 9,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -49,7 +49,7 @@
         "description": "小神八是幼儿园里有名的问题儿童。然而负责照顾她的千枝老师，知晓了她所隐藏着的能力——。以幼儿园为舞台的最强恐怖动作剧开园！！",
         "releaseDate": "2026-01-11",
         "backdropPath": "/vcHzF9NHQLM8dCW1OOBhezsFRiO.jpg",
-        "posterPath": "/gqif0lpnVH5HCSG7bP4jjcSFEz9.jpg",
+        "posterPath": "/g2GZo2AcvJon8ZaPrfTGMbp8z9X.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
@@ -62,7 +62,7 @@
         "description": "活力充沛但在意周遭目光的铃木，正在单恋勇于表达自己意见的文静男子・谷同学。可是铃木因为太在意周遭的目光，无法用平常心跟谷同学相处，总是乱搭话…某天铃木终于鼓起勇气，试著约谷同学一起回家，结果…！？",
         "releaseDate": "2026-01-11",
         "backdropPath": "/sHmf4aMdTpYFCf0wqF8LYZ43kRw.jpg",
-        "posterPath": "/xsqaVf4dtMYM9kcEgmtdDiTlkQl.jpg",
+        "posterPath": "/fmXOtmvA26zx1bawiMdmjnZcWzt.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -100,8 +100,8 @@
         "originalTitle": "火喰鳥 羽州ぼろ鳶組",
         "description": "曾经被称为\"火喰鸟\"的江户第一消防武士·松永源吾。因某些原因辞去了消防职务，却突遭新庄藩征辟出仕。在妻子深雪的支持下，源吾决心以头领身份重建业已崩溃的消防组织。虽然聚集了各有怪癖的伙伴，被揶揄为\"褴褛鸢\"，但源吾等人仍秉持\"无论何种生命都要拯救\"的信念而奋战。然而在江户，名为\"狐火\"的神秘连续纵火案却不断发生。面对逼近的灾祸，永不言弃的消防员们奔走奋斗——娱乐活剧开幕！",
         "releaseDate": "2026-01-11",
-        "backdropPath": "",
-        "posterPath": "/fHt1mLMViDFeFL3DULYbKIihkk3.jpg",
+        "backdropPath": "/6dGjEoNkDX2su1ZqY9K9Vp6tzrX.jpg",
+        "posterPath": "/34BOr3Gwk6XUQG32mXzqhyzeAcL.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
@@ -115,9 +115,22 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/swefPajdX6SMpxAdfm3qoaTyZYV.jpg",
         "posterPath": "/4krFgYKveJfBPrrG8RHUkk2DcCn.jpg",
-        "rating": 8.6,
+        "rating": 8.167,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
+      },
+      {
+        "id": 287973,
+        "type": "tmdb",
+        "title": "有栖川炼其实是女生对吧。",
+        "originalTitle": "有栖川煉ってホントは女なんだよね。",
+        "description": "由 浅月のりと 所创作的漫画《有栖川炼其实是个女生吧。 》动画化  「我⋯我什么都愿意做。拜托不要说出去⋯」有栖川炼是我的亲戚，同时也是一名经常出现在电视上的知名艺人，有一天，我帮忙藏匿了从工作中逃出来的炼，但是因为一场在浴室发生的意外，让我赫然发现炼原来是「女人」！",
+        "releaseDate": "2026-01-05",
+        "backdropPath": "/qWcH7rneDe0R7HVNHGIYwKmc3Vb.jpg",
+        "posterPath": "/exQK6n0qiaXFUNHIr8djRLZS0RR.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
       },
       {
         "id": 287591,
@@ -126,7 +139,7 @@
         "originalTitle": "うるわしの宵の月",
         "description": "被周围称作“王子”并被像是少女漫画中男主角那样的地位对待的女生，宵。就在这时，与同样被称作“王子”的市村学长相遇了。不仅被他说“好漂亮”，还在便利店被醉汉缠上时被他所帮助，两人的距离开始急速接近……！",
         "releaseDate": "2026-01-11",
-        "backdropPath": "/ozJ5uEPEJstXAFFY2msl4MtxkSP.jpg",
+        "backdropPath": "/7b3C1eBB37f2WrrbNb7uDy8tn6V.jpg",
         "posterPath": "/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -208,7 +221,7 @@
         "releaseDate": "2024-01-09",
         "backdropPath": "/l0siB5HPobsiQgU7GfOEAV28Gx5.jpg",
         "posterPath": "/260kQz4442iRmODgEHfl8TgjG9O.jpg",
-        "rating": 7,
+        "rating": 6.92,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -221,7 +234,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/pqxuE35pzdkCE3s1bvGkhbwqqD6.jpg",
         "posterPath": "/rMoMsLOTbEKCWFEzgbxryoXUgRe.jpg",
-        "rating": 9,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -234,7 +247,7 @@
         "releaseDate": "2026-01-05",
         "backdropPath": "/qwQwTAvgH6QXPOOKsIlE0i2GfOn.jpg",
         "posterPath": "/u3FoBE3Vw0tTHFV6djpSv5HHBU5.jpg",
-        "rating": 8,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -247,7 +260,7 @@
         "releaseDate": "2025-04-07",
         "backdropPath": "/baZ0pGbBGjCBhIqsFyOSTpJyUnQ.jpg",
         "posterPath": "/e95EQccHiRPzP3oUhjKXvQF143Z.jpg",
-        "rating": 7.7,
+        "rating": 7.688,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
@@ -262,7 +275,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
         "posterPath": "/frh8aDHSjbnyHv2YU5fJBThEhK3.jpg",
-        "rating": 8.313,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -288,7 +301,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/r92P8dIFevgmbmmT2RLu6BX4cJ1.jpg",
         "posterPath": "/3rm7bINPzZbOZzTix6m8sAJSG2L.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -314,7 +327,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/zJJQCD9xMhDD4MlQ6haaP3IBCHk.jpg",
         "posterPath": "/otKyL6FiAoNAAB90N0cO3RhRhCj.jpg",
-        "rating": 8.167,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -368,7 +381,7 @@
         "releaseDate": "2023-04-12",
         "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
         "posterPath": "/iNlDBSaEIu24NAST95rGm3Eofc5.jpg",
-        "rating": 8.346,
+        "rating": 8.341,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -381,7 +394,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/snzpnGs0cX5cQR7Cxaefc6su53p.jpg",
         "posterPath": "/41ZzkDjfBnlDJPWpb4xWOIxrsH.jpg",
-        "rating": 9.3,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -433,7 +446,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/hqlqdm67fnxjIdjeZMXNtielWMS.jpg",
         "posterPath": "/gUpjTomq5J4aOpwAOJ3WB76kh5g.jpg",
-        "rating": 9.333,
+        "rating": 9.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -474,7 +487,7 @@
         "releaseDate": "2020-10-03",
         "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
         "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-        "rating": 8.6,
+        "rating": 8.571,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -487,7 +500,7 @@
         "releaseDate": "2024-01-04",
         "backdropPath": "/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
         "posterPath": "/bAvclqxxYczAgyd1WfCSLrGOYpk.jpg",
-        "rating": 7.6,
+        "rating": 7.655,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -500,7 +513,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/yC6RUfpaVEw1bNJoXUc4HzG7bRW.jpg",
         "posterPath": "/xKVJu2INm7wfeeXSRtEGLGpVzdZ.jpg",
-        "rating": 9,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -524,9 +537,9 @@
         "originalTitle": "シャンピニオンの魔女",
         "description": "居住在黑森林的露娜，被人们当做黑魔女恐惧着。之所以会如此，是因为露娜每说一句话、触碰一次、走过一次的地方都会长出“毒蘑菇”。镇上的人们将她叫为“蘑菇魔女”。这样的不知晓人心温暖的露娜，开启了第一场恋情……？\n\n　　爱与冒险与感动的魔法奇幻故事开幕！",
         "releaseDate": "2026-01-09",
-        "backdropPath": "/7p3vA00cBnACpEe2csUjO6fJuAv.jpg",
+        "backdropPath": "/jlIvjqSqJXDcwTGG5nzKNeH1K9t.jpg",
         "posterPath": "/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg",
-        "rating": 8,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -552,7 +565,7 @@
         "releaseDate": "2026-01-09",
         "backdropPath": "/uLC9tdRSPcKsgvRLth38WEbm8pa.jpg",
         "posterPath": "/lWNtQ6Ju61H1JYca0xdxIztegDV.jpg",
-        "rating": 8,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -565,7 +578,7 @@
         "releaseDate": "2025-07-08",
         "backdropPath": "/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
         "posterPath": "/oQYDpExc2po7mLGsFgaWQNAoyvY.jpg",
-        "rating": 8.1,
+        "rating": 7.981,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -658,7 +671,7 @@
         "releaseDate": "2023-09-29",
         "backdropPath": "/96RT2A47UdzWlUfvIERFyBsLhL2.jpg",
         "posterPath": "/jvueXfiDeeifwGCySYsQdcw2fCz.jpg",
-        "rating": 8.739,
+        "rating": 8.743,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -695,7 +708,7 @@
         "originalTitle": "アンドロイドは経験人数に入りますか？？",
         "description": "“因为我是最吃透主人身体的人啦”\n\n　　一心扑在工作上，在大型电动机械制造商的企划部上班的OL：津田茜（28岁）。虽然在职场上作为部门王牌而被仰慕着，但是在私下其房间十分地脏乱，酒相很差也没有谈过对象。\n\n　　一天，她借着酒劲与寂寞买下的是，啪啪啪用机器人：抚子……？！\n\n　　单身OL与机器人，两人（？）的工口喜剧！！",
         "releaseDate": "2026-01-10",
-        "backdropPath": "",
+        "backdropPath": "/9zPC2aRwIko0gT1CP86mp8LSfOK.jpg",
         "posterPath": "/4dfyZ5UZKGuS5Pur5nMqFp6s675.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -738,7 +751,7 @@
         "releaseDate": "2024-12-31",
         "backdropPath": "/6SkZ268BIStCeCNu0yGH7dC09uY.jpg",
         "posterPath": "/2r5MEaLYl5lZxzgfSmrDybipngl.jpg",
-        "rating": 7.8,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -751,7 +764,7 @@
         "releaseDate": "2026-01-03",
         "backdropPath": "/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
         "posterPath": "/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-        "rating": 9.4,
+        "rating": 9.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -788,7 +801,7 @@
         "originalTitle": "転生したらドラゴンの卵だった～最強以外目指さねぇ～",
         "description": "睁开眼睛后，映入眼帘的是陌生的森林。看样子是这里似乎是我所不知道的奇幻世界。\n\n　　放眼四处望去，尽是些可怕的异形魔兽。再看看自己的样子，那儿有着这一颗很大的蛋……啊这，喂！我，转生成了个蛋啊？！\n\n　　而且，想要破壳而出似乎必须得要靠打怪升级才行。我绝对战斗不了的啊！因为我，是个蛋啊啊啊啊啊啊啊！！！",
         "releaseDate": "2026-01-10",
-        "backdropPath": "",
+        "backdropPath": "/mB9zWzImN8Xvw2C8T8CupU9EIQ5.jpg",
         "posterPath": "/eQd0CiwzfhSftE71FAZzoUGzmJ5.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -844,7 +857,7 @@
         "posterPath": "/3JFeeastW8WJZqV2Kdcg5BgV8eN.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "动画, 剧情"
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 106301,
