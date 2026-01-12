@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "电影天堂",
   description: "获取电影天堂的VOD资源",
   requiredVersion: "0.0.1",
-  version: "1.0.4",
+  version: "1.0.5",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -79,9 +79,10 @@ async function getDoubanDesc(doubanId) {
 
 async function getIMDBIdByDoubanId(doubanId) {
   const idMapping = await getIdMapping();
+  const key = `douban.${doubanId}`;
 
-  if (idMapping[doubanId]) {
-    return idMapping[doubanId];
+  if (idMapping[key]) {
+    return idMapping[key];
   }
   const desc = await getDoubanDesc(doubanId);
   const match = desc.match(/(tt\d+)/);
@@ -100,7 +101,14 @@ async function isAnime(doubanId) {
 async function getIMDBIdByTMDBId(tmdbId, season) {
   try {
     const url = `tv/${tmdbId}/season/${season}/episode/1/external_ids`;
-    return (await Widget.tmdb.get(url)).imdb_id || "";
+    const ids = await Widget.tmdb.get(url);
+
+    if (ids && ids.imdb_id) {
+      return ids.imdb_id;
+    }
+    const idMapping = await getIdMapping();
+    const key = `tmdb.${tmdbId}.${season}`;
+    return idMapping[key] || "";
   } catch (error) {
     console.error("通过 TMDB ID 获取 IMDB ID 失败: ", error.message);
     return "";
@@ -125,32 +133,44 @@ function transformResource(resource) {
   };
 }
 
-async function searchResource(title, imdbId, type, season) {
+async function searchResource(title, imdbId, type, seasonTitle) {
   const titles = splitTitle(title);
   const searchedResults = await search(titles[0]);
   const resources = searchedResults.map((item) => transformResource(item)).filter((res) => !res.genre.includes("短剧"));
   const sameTypeResources = resources.filter((res) => res.type === type);
-  const sameNameResources = sameTypeResources.filter((res) => isSameNameResource(title, type, season, res));
+  const sameNameResources = sameTypeResources.filter((res) => isSameNameResource(title, seasonTitle, res));
   const similarResources = sameTypeResources.filter((res) => isSimilarResource(title, titles, res));
   const allResources = [...sameNameResources, ...similarResources];
 
+  if (allResources.length === 0 && seasonTitle) {
+    return await searchResource(seasonTitle, imdbId, type, "");
+  }
   let resource = null;
 
   for (const res of allResources) {
-    const resIMDBId = await getIMDBIdByDoubanId(res.doubanId);
+    if (res.doubanId) {
+      const resIMDBId = await getIMDBIdByDoubanId(res.doubanId);
 
-    if (resIMDBId && resIMDBId === imdbId) {
-      resource = res;
-      break;
+      if (resIMDBId && resIMDBId === imdbId) {
+        resource = res;
+        break;
+      }
     }
   }
 
   if (!resource && sameNameResources.length === 1) {
-    const anime = await isAnime(sameNameResources[0].doubanId);
+    const onlyResource = sameNameResources[0];
 
-    if (anime) {
-      resource = sameNameResources[0];
+    if (onlyResource.doubanId) {
+      const anime = await isAnime(onlyResource.doubanId);
+
+      if (anime) {
+        resource = onlyResource;
+      }
     }
+  }
+  if (!resource && seasonTitle) {
+    return await searchResource(seasonTitle, imdbId, type, "");
   }
   return resource;
 }
@@ -174,19 +194,8 @@ function chineseNumber(numberStr) {
   return result.replaceAll(/^一|零$/g, "");
 }
 
-function isSameNameResource(title, type, season, resource) {
-  if (type === "movie") {
-    return resource.title === title;
-  }
-  if (type === "tv") {
-    const seasonInfo = `第${chineseNumber(season)}季`;
-
-    if (season === "1") {
-      return resource.title === title || resource.title === `${title}${seasonInfo}`;
-    }
-    return resource.title === `${title}${seasonInfo}`;
-  }
-  return false;
+function isSameNameResource(title, seasonTitle, resource) {
+  return resource.title === title || resource.title === seasonTitle;
 }
 
 function isSimilar(title, titles) {
@@ -265,9 +274,11 @@ async function searchResourceWithCache(title, tmdbId, imdbId, type, season) {
   }
   const newTitle = await handleTitle(title);
   const newIMDBId = await handleIMDBId(tmdbId, imdbId, type, season);
+  const seasonInfo = type === "movie" ? "" : `第${chineseNumber(season)}季`;
+  const seasonTitle = !seasonInfo ? "" : await handleTitle(`${newTitle}${seasonInfo}`);
 
   if (imdbId) {
-    const resource = await searchResource(newTitle, newIMDBId, type, season);
+    const resource = await searchResource(newTitle, newIMDBId, type, seasonTitle);
 
     if (resource) {
       await setCacheValue(cacheKey, resource);
