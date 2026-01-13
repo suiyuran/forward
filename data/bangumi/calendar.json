@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-12T16:23:36.468Z",
+  "time": "2026-01-13T16:27:41.255Z",
   "data": {
     "星期日": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
         "posterPath": "/wjh7Ju3vO6T58Z6IPqSSyaGt6VA.jpg",
-        "rating": 9.2,
+        "rating": 9.4,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -61,7 +61,7 @@
         "originalTitle": "正反対な君と僕",
         "description": "活力充沛但在意周遭目光的铃木，正在单恋勇于表达自己意见的文静男子・谷同学。可是铃木因为太在意周遭的目光，无法用平常心跟谷同学相处，总是乱搭话…某天铃木终于鼓起勇气，试著约谷同学一起回家，结果…！？",
         "releaseDate": "2026-01-11",
-        "backdropPath": "/sHmf4aMdTpYFCf0wqF8LYZ43kRw.jpg",
+        "backdropPath": "/9AZq9CARteSIRa5tOCy1yjeVhm5.jpg",
         "posterPath": "/fmXOtmvA26zx1bawiMdmjnZcWzt.jpg",
         "rating": 8,
         "mediaType": "tv",
@@ -115,7 +115,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/swefPajdX6SMpxAdfm3qoaTyZYV.jpg",
         "posterPath": "/4krFgYKveJfBPrrG8RHUkk2DcCn.jpg",
-        "rating": 7.857,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -193,7 +193,7 @@
         "releaseDate": "2013-07-15",
         "backdropPath": "/upkcoee5VhPeTTbLdPERtCVhy4N.jpg",
         "posterPath": "/h0oETPVpnpFsQgBNWqlsFmRfmnl.jpg",
-        "rating": 7.405,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画"
       }
@@ -247,7 +247,7 @@
         "releaseDate": "2026-01-05",
         "backdropPath": "/qwQwTAvgH6QXPOOKsIlE0i2GfOn.jpg",
         "posterPath": "/fYzFuzXmBqpHzJUOtKnhX13C1VR.jpg",
-        "rating": 7.9,
+        "rating": 7.875,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -263,6 +263,19 @@
         "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
+      },
+      {
+        "id": 89456,
+        "type": "tmdb",
+        "title": "史前战纪",
+        "originalTitle": "Primal",
+        "description": "《史前战纪》讲述一个正走向进化之路的穴居人以及一只濒临灭绝的恐龙，他们因为悲剧而意外地成为朋友，一人一兽得联合起来才能在这暴力的原始世界中生存下去。",
+        "releaseDate": "2019-10-08",
+        "backdropPath": "/zBfnpI8883yeQkXK2kpLavHv9Yw.jpg",
+        "posterPath": "/cZ8JUIwS9K4kttelRq6eP0mVhjK.jpg",
+        "rating": 8.6,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 动画"
       }
     ],
     "星期二": [
@@ -282,7 +295,7 @@
       {
         "id": 284495,
         "type": "tmdb",
-        "title": "异世界的安泰全看社畜",
+        "title": "异世界的处置依社畜而定",
         "originalTitle": "異世界の沙汰は社畜次第",
         "description": "近藤诚一郎，二十九岁，一天突然被卷入了圣女召唤并穿越到了异世界。作为财务科科长助理昼夜不分地工作而染上了社畜意志力的诚一郎，就算到了异世界也想着要份工作。然而，他得到的工作只是通过“离谱预算申请书”的建档工作。诚一郎对被称作“倒卖科”的王宫财务科的无效工作大发雷霆！着手开始财务科的改造工作！而诚一郎在这样的日子中所得到的是“一扫疲倦的营养剂”。不会胃痛！也不会偏头痛！腰和肩颈也不会麻掉！可以工作更多！！尽管诚一郎超级感谢异世界，却因为异世界营养剂的意想不到的副作用带来了性命之虞！为了救魔力为零的诚一郎必须要让“有魔力的人”来“插入”……虽然诚一郎想着“既然能救命的话”爽快地接受了这个状况，委身于眉清目秀沉默寡言的美男子第三骑士团团长阿勒什（♂）——。毫无沟通，令人捧腹大笑的社畜BL。",
         "releaseDate": "2026-01-06",
@@ -314,7 +327,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/7Wx1Io7Ml7ZUtf8XXsKLMBrj0lx.jpg",
         "posterPath": "/ww22xRvVd8LUOJ98jExijU73j25.jpg",
-        "rating": 9,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -353,9 +366,9 @@
         "originalTitle": "ワンピース",
         "description": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
         "releaseDate": "1999-10-20",
-        "backdropPath": "/oVfucXvhutTpYExG9k06NJqnpT9.jpg",
+        "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.721,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -381,7 +394,7 @@
         "releaseDate": "2023-04-12",
         "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
         "posterPath": "/iNlDBSaEIu24NAST95rGm3Eofc5.jpg",
-        "rating": 8.341,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -446,22 +459,9 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/hqlqdm67fnxjIdjeZMXNtielWMS.jpg",
         "posterPath": "/gUpjTomq5J4aOpwAOJ3WB76kh5g.jpg",
-        "rating": 9.6,
+        "rating": 9.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
-      },
-      {
-        "id": 89456,
-        "type": "tmdb",
-        "title": "史前战纪",
-        "originalTitle": "Primal",
-        "description": "《史前战纪》讲述一个正走向进化之路的穴居人以及一只濒临灭绝的恐龙，他们因为悲剧而意外地成为朋友，一人一兽得联合起来才能在这暴力的原始世界中生存下去。",
-        "releaseDate": "2019-10-08",
-        "backdropPath": "/zBfnpI8883yeQkXK2kpLavHv9Yw.jpg",
-        "posterPath": "/cZ8JUIwS9K4kttelRq6eP0mVhjK.jpg",
-        "rating": 8.617,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, 动画"
       }
     ],
     "星期四": [
@@ -487,7 +487,7 @@
         "releaseDate": "2020-10-03",
         "backdropPath": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
         "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-        "rating": 8.6,
+        "rating": 8.571,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -526,22 +526,22 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/d7VbOrezXHhHnk39dbOb2eR6NIt.jpg",
         "posterPath": "/fgG5AAn7st7ZCSLmcDWPd08WZCv.jpg",
-        "rating": 9.3,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
       {
         "id": 284444,
         "type": "tmdb",
-        "title": "毒菇魔女",
+        "title": "蘑菇魔女",
         "originalTitle": "シャンピニオンの魔女",
-        "description": "居住在黑森林的露娜，被人们当做黑魔女恐惧着。之所以会如此，是因为露娜每说一句话、触碰一次、走过一次的地方都会长出“毒蘑菇”。镇上的人们将她叫为“蘑菇魔女”。这样的不知晓人心温暖的露娜，开启了第一场恋情……？\n\n　　爱与冒险与感动的魔法奇幻故事开幕！",
+        "description": "居住在黑森林的露娜，被人们当做黑魔女恐惧着。之所以会如此，是因为露娜每说一句话、触碰一次、走过一次的地方都会长出“毒蘑菇”。镇上的人们将她叫为“蘑菇魔女”。这样的不知晓人心温暖的露娜，开启了第一场恋情……？  爱与冒险与感动的魔法奇幻故事开幕！",
         "releaseDate": "2026-01-09",
         "backdropPath": "/jlIvjqSqJXDcwTGG5nzKNeH1K9t.jpg",
         "posterPath": "/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg",
         "rating": 5,
         "mediaType": "tv",
-        "genreTitle": "动画, 动作冒险"
+        "genreTitle": "动画, 剧情"
       },
       {
         "id": 258680,
@@ -669,9 +669,9 @@
         "originalTitle": "葬送のフリーレン",
         "description": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
         "releaseDate": "2023-09-29",
-        "backdropPath": "/96RT2A47UdzWlUfvIERFyBsLhL2.jpg",
+        "backdropPath": "/emGCHnRPru5LLWcKbSFzUEUisac.jpg",
         "posterPath": "/jvueXfiDeeifwGCySYsQdcw2fCz.jpg",
-        "rating": 8.748,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -777,7 +777,7 @@
         "releaseDate": "2026-01-03",
         "backdropPath": "/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
         "posterPath": "/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-        "rating": 9.342,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -790,7 +790,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/u2XJNukeANKE9QxKl83wYUO5SwF.jpg",
         "posterPath": "/dMiCgX3BPx2mSq74Yn5bK2MNlC8.jpg",
-        "rating": 7,
+        "rating": 7.143,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -867,7 +867,7 @@
         "description": "她们不是人类。但是，比任何人都憧憬着人类\n\n　　对人间关系有心理阴影的奔三NEET：人间零。这样的我，刚想着要转职山清水秀的山区学校，过着优哉游哉的复健教师生活——那儿居然是为了让人外成为人类而设立的女校？！\n\n　　人鱼族水月镜花、狼人族尾尾守一咲、兔人族右左美彗、鸟人族羽根田帷……与这样不可思议的学生们渡过的日子。为什么想要成为人类，成为人类了想要干什么——我通过她们学习着“人类”。\n\n　　这既不是异世界奇幻，也不是转生人生重来。只不过是一所奇怪的学校，与向着成为人类努力的人外女子们一起渡过的，一位教师的故事。",
         "releaseDate": "2026-01-11",
         "backdropPath": "/6uRO8tziDqzzNKYfD2N9xh7QPhN.jpg",
-        "posterPath": "/3JFeeastW8WJZqV2Kdcg5BgV8eN.jpg",
+        "posterPath": "/vYxMkH1WNH6ZOJYsG0WcHqLibzp.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
