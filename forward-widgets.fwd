@@ -26,7 +26,7 @@
       "title": "电影天堂",
       "description": "获取电影天堂的VOD资源",
       "requiredVersion": "0.0.1",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "author": "suiyuran",
       "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/vod/dytt.js"
     },
@@ -35,7 +35,7 @@
       "title": "非凡影视",
       "description": "获取非凡影视的VOD资源",
       "requiredVersion": "0.0.1",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "author": "suiyuran",
       "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/vod/ffzy.js"
     }

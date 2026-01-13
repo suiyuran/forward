@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "电影天堂",
   description: "获取电影天堂的VOD资源",
   requiredVersion: "0.0.1",
-  version: "1.0.5",
+  version: "1.0.6",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -93,9 +93,30 @@ async function getIMDBIdByDoubanId(doubanId) {
   return "";
 }
 
-async function isAnime(doubanId) {
+async function animeOnDouban(doubanId) {
   const desc = await getDoubanDesc(doubanId);
   return desc.includes("动画") && desc.includes("日本");
+}
+
+async function getTMDBDetails(type, tmdbId) {
+  try {
+    const url = `${type}/${tmdbId}?language=zh-CN`;
+    return await Widget.tmdb.get(url);
+  } catch (error) {
+    console.error("通过 TMDB ID 获取 TMDB 详情失败: ", error.message);
+    return null;
+  }
+}
+
+async function animeOnTMDB(type, tmdbId) {
+  const details = await getTMDBDetails(type, tmdbId);
+
+  if (details) {
+    const genres = details.genres.map((g) => g.name);
+    const countries = details.production_countries.map((c) => c.name);
+    return genres.includes("动画") && countries.includes("Japan");
+  }
+  return false;
 }
 
 async function getIMDBIdByTMDBId(tmdbId, season) {
@@ -133,7 +154,7 @@ function transformResource(resource) {
   };
 }
 
-async function searchResource(title, imdbId, type, seasonTitle) {
+async function searchResource(title, tmdbId, imdbId, type, seasonTitle) {
   const titles = splitTitle(title);
   const searchedResults = await search(titles[0]);
   const resources = searchedResults.map((item) => transformResource(item)).filter((res) => !res.genre.includes("短剧"));
@@ -142,9 +163,6 @@ async function searchResource(title, imdbId, type, seasonTitle) {
   const similarResources = sameTypeResources.filter((res) => isSimilarResource(title, titles, res));
   const allResources = [...sameNameResources, ...similarResources];
 
-  if (allResources.length === 0 && seasonTitle) {
-    return await searchResource(seasonTitle, imdbId, type, "");
-  }
   let resource = null;
 
   for (const res of allResources) {
@@ -158,19 +176,26 @@ async function searchResource(title, imdbId, type, seasonTitle) {
     }
   }
 
-  if (!resource && sameNameResources.length === 1) {
-    const onlyResource = sameNameResources[0];
+  if (
+    !resource &&
+    (sameNameResources.length === 1 || (sameNameResources.length === 0 && similarResources.length === 1))
+  ) {
+    const onlyResource = allResources[0];
 
     if (onlyResource.doubanId) {
-      const anime = await isAnime(onlyResource.doubanId);
+      const isAnimeOnTMDB = await animeOnTMDB(type, tmdbId);
 
-      if (anime) {
-        resource = onlyResource;
+      if (isAnimeOnTMDB) {
+        const isAnimeOnDouban = await animeOnDouban(onlyResource.doubanId);
+
+        if (isAnimeOnDouban) {
+          resource = onlyResource;
+        }
       }
     }
   }
   if (!resource && seasonTitle) {
-    return await searchResource(seasonTitle, imdbId, type, "");
+    return await searchResource(seasonTitle, tmdbId, imdbId, type, "");
   }
   return resource;
 }
@@ -195,7 +220,7 @@ function chineseNumber(numberStr) {
 }
 
 function isSameNameResource(title, seasonTitle, resource) {
-  return resource.title === title || resource.title === seasonTitle;
+  return trimTitle(resource.title) === title || trimTitle(resource.title) === seasonTitle;
 }
 
 function isSimilar(title, titles) {
@@ -213,8 +238,7 @@ function isSimilarResource(title, titles, resource) {
 
 async function handleTitle(seriesName) {
   const titleMapping = await getTitleMapping();
-  const title = titleMapping[seriesName] || seriesName;
-  return title.replaceAll("？", "");
+  return trimTitle(titleMapping[seriesName] || seriesName);
 }
 
 async function handleIMDBId(tmdbId, imdbId, type, season) {
@@ -224,9 +248,19 @@ async function handleIMDBId(tmdbId, imdbId, type, season) {
   return await getIMDBIdByTMDBId(tmdbId, season);
 }
 
-function splitTitle(title) {
+function trimTitle(title) {
   return title
-    .replace("剧场版", "")
+    .replaceAll("剧场版", "")
+    .replaceAll(/（.+）/g, "")
+    .replaceAll(/[。！？]+/g, "")
+    .trim();
+}
+
+function splitTitle(title) {
+  if (/^[a-zA-Z0-9\s]+$/.test(title)) {
+    return [title];
+  }
+  return title
     .replaceAll("：", " ")
     .split(" ")
     .map((t) => t.trim())
@@ -278,7 +312,7 @@ async function searchResourceWithCache(title, tmdbId, imdbId, type, season) {
   const seasonTitle = !seasonInfo ? "" : await handleTitle(`${newTitle}${seasonInfo}`);
 
   if (imdbId) {
-    const resource = await searchResource(newTitle, newIMDBId, type, seasonTitle);
+    const resource = await searchResource(newTitle, tmdbId, newIMDBId, type, seasonTitle);
 
     if (resource) {
       await setCacheValue(cacheKey, resource);
