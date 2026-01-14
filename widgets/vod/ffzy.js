@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "非凡影视",
   description: "获取非凡影视的VOD资源",
   requiredVersion: "0.0.1",
-  version: "1.0.6",
+  version: "1.0.7",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -119,6 +119,19 @@ async function animeOnTMDB(type, tmdbId) {
   return false;
 }
 
+async function getSeasonEpisodeCount(tmdbId, seasonNumber) {
+  const details = await getTMDBDetails("tv", tmdbId);
+
+  if (details) {
+    const season = details.seasons.find((s) => s.season_number === seasonNumber);
+
+    if (season) {
+      return season.episode_count;
+    }
+  }
+  return 0;
+}
+
 async function getIMDBIdByTMDBId(tmdbId, season) {
   try {
     const url = `tv/${tmdbId}/season/${season}/episode/1/external_ids`;
@@ -154,15 +167,14 @@ function transformResource(resource) {
   };
 }
 
-async function searchResource(title, tmdbId, imdbId, type, seasonTitle) {
+async function searchResource(title, tmdbId, imdbId, type, season, seasonTitle) {
   const titles = splitTitle(title);
   const searchedResults = await search(titles[0]);
-  const resources = searchedResults.map((item) => transformResource(item)).filter((res) => !res.genre.includes("短剧"));
-  const sameTypeResources = resources.filter((res) => res.type === type);
-  const sameNameResources = sameTypeResources.filter((res) => isSameNameResource(title, seasonTitle, res));
-  const similarResources = sameTypeResources.filter((res) => isSimilarResource(title, titles, res));
+  const results = searchedResults.map((item) => transformResource(item));
+  const resources = results.filter((res) => res.type === type && !res.genre.includes("短剧"));
+  const sameNameResources = resources.filter((res) => isSameNameResource(title, type, season, seasonTitle, res));
+  const similarResources = resources.filter((res) => isSimilarResource(title, titles, res));
   const allResources = [...sameNameResources, ...similarResources];
-
   let resource = null;
 
   for (const res of allResources) {
@@ -176,11 +188,8 @@ async function searchResource(title, tmdbId, imdbId, type, seasonTitle) {
     }
   }
 
-  if (
-    !resource &&
-    (sameNameResources.length === 1 || (sameNameResources.length === 0 && similarResources.length === 1))
-  ) {
-    const onlyResource = allResources[0];
+  if (!resource && sameNameResources.length === 1) {
+    const onlyResource = sameNameResources[0];
 
     if (onlyResource.doubanId) {
       const isAnimeOnTMDB = await animeOnTMDB(type, tmdbId);
@@ -219,8 +228,28 @@ function chineseNumber(numberStr) {
   return result.replaceAll(/^一|零$/g, "");
 }
 
-function isSameNameResource(title, seasonTitle, resource) {
-  return trimTitle(resource.title) === title || trimTitle(resource.title) === seasonTitle;
+function isSameNameResource(title, type, season, seasonTitle, resource) {
+  const resourceTitle = shakeTitle(resource.title);
+  const resourceCompactTitle = trimTitle(resourceTitle);
+  const compactTitle = trimTitle(title);
+
+  if (type === "movie") {
+    return resourceTitle === title || resourceCompactTitle === compactTitle;
+  }
+  if (type === "tv") {
+    const compactSeasonTitle = trimTitle(seasonTitle);
+
+    if (season === "1") {
+      return (
+        resourceTitle === title ||
+        resourceCompactTitle === compactTitle ||
+        resourceTitle === seasonTitle ||
+        resourceCompactTitle === compactSeasonTitle
+      );
+    }
+    return resourceTitle === seasonTitle || resourceCompactTitle === compactSeasonTitle;
+  }
+  return false;
 }
 
 function isSimilar(title, titles) {
@@ -238,7 +267,7 @@ function isSimilarResource(title, titles, resource) {
 
 async function handleTitle(seriesName) {
   const titleMapping = await getTitleMapping();
-  return trimTitle(titleMapping[seriesName] || seriesName);
+  return shakeTitle(titleMapping[seriesName] || seriesName);
 }
 
 async function handleIMDBId(tmdbId, imdbId, type, season) {
@@ -249,10 +278,16 @@ async function handleIMDBId(tmdbId, imdbId, type, season) {
 }
 
 function trimTitle(title) {
+  return title.replaceAll(/\s/g, "");
+}
+
+function shakeTitle(title) {
   return title
+    .replace(/^【/, "")
+    .replace(/】$/, "")
     .replaceAll("剧场版", "")
     .replaceAll(/（.+）/g, "")
-    .replaceAll(/[。！？]+/g, "")
+    .replaceAll(/[。！？]+$/g, "")
     .trim();
 }
 
@@ -263,7 +298,13 @@ function splitTitle(title) {
   return title
     .replaceAll("：", " ")
     .split(" ")
-    .map((t) => t.trim())
+    .map((t, i) => {
+      const nt = t.trim();
+      if (i === 0 && !/^\d+$/.test(nt)) {
+        return nt.replaceAll(/\d+$/g, "");
+      }
+      return nt;
+    })
     .filter((t) => t !== "");
 }
 
@@ -306,13 +347,31 @@ async function searchResourceWithCache(title, tmdbId, imdbId, type, season) {
   if (cache) {
     return cache;
   }
+  if (type === "tv" && season) {
+    const seasonNumber = parseInt(season);
+
+    if (seasonNumber > 1) {
+      const seasonOneCacheKey = generateCacheKey(type, tmdbId, "1");
+      const seasonOneCache = await getCacheValue(seasonOneCacheKey);
+
+      if (seasonOneCache) {
+        const episodesLength = seasonOneCache.episodes.length;
+        const episodeCount = await getSeasonEpisodeCount(tmdbId, 1);
+
+        if (episodeCount > 0 && episodesLength > episodeCount) {
+          await setCacheValue(cacheKey, seasonOneCache);
+          return seasonOneCache;
+        }
+      }
+    }
+  }
   const newTitle = await handleTitle(title);
   const newIMDBId = await handleIMDBId(tmdbId, imdbId, type, season);
   const seasonInfo = type === "movie" ? "" : `第${chineseNumber(season)}季`;
   const seasonTitle = !seasonInfo ? "" : await handleTitle(`${newTitle}${seasonInfo}`);
 
   if (imdbId) {
-    const resource = await searchResource(newTitle, tmdbId, newIMDBId, type, seasonTitle);
+    const resource = await searchResource(newTitle, tmdbId, newIMDBId, type, season, seasonTitle);
 
     if (resource) {
       await setCacheValue(cacheKey, resource);
