@@ -1,44 +1,31 @@
 {
-  "time": "2026-01-16T17:27:06.465Z",
+  "time": "2026-01-17T17:19:59.311Z",
   "data": [
     {
-      "id": 1271895,
+      "id": 1443959,
       "type": "tmdb",
-      "title": "96分钟：列车爆炸案",
-      "originalTitle": "96分鐘",
-      "description": "前拆弹专家和他的未婚妻登上装有炸弹的高铁，卷入外遇丑闻的物理老师，也为了挽回乘坐高铁的妻子，登上了这趟列车。",
-      "releaseDate": "2025-09-05",
-      "backdropPath": "/r1fgAwOytdkm0dyMPXLDPqa6guU.jpg",
-      "posterPath": "/rhmu8ePA306X8ooQrcA195nBgsg.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 1325866,
-      "type": "tmdb",
-      "title": "用武之地",
-      "originalTitle": "用武之地",
-      "description": "驻外记者马笑和志愿医生潘文佳夫妇，陪同工程师苗峰赴郊区修理基站，当地局势突变。三人一路躲避恐怖组织的无差别袭击，最终还是被绑架沦为人质，并在狱中结识了华侨商人周伟杰。面对恐怖分子闻所未闻的屠杀暴行和以命换钱的勒索，他们历经105天，展开了一场惊心动魄的自救逃生。",
-      "releaseDate": "2025-12-24",
-      "backdropPath": "/tGuuWu84PFzeOKMFXKSjDGdqDE8.jpg",
-      "posterPath": "/v8JNXoPcQRoEvUNYZYSOcYZvKEf.jpg",
-      "rating": 5.667,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
-    },
-    {
-      "id": 1555232,
-      "type": "tmdb",
-      "title": "不过是上班",
-      "originalTitle": "不过是上班",
-      "description": "一旦领导冒出一句“什么狗屁方案”，你的人生就将陷入无尽循环.....重复的职场里，有人摸鱼摆烂，有人趁机搞事，直到同事离奇 “消失”，他才发现循环背后藏着公司要命的秘密——想活下来，得先在重复的日子里找到出路……",
-      "releaseDate": "2026-01-10",
-      "backdropPath": "/eyIxeio4UhUen5XJY67Dhs6rSJV.jpg",
-      "posterPath": "/ocOIxHfnxaIzrDdZRAgRnnCPS0S.jpg",
+      "title": "马腾你别走",
+      "originalTitle": "马腾你别走",
+      "description": "行动不便的钢厂退休骨干老林（李幼斌 饰）虽衣食无忧却整日郁郁寡欢，在一场乌龙护工面试中，与空有满脑子 “无用知识”、做事总半途而废的闲人马腾（林更新 饰）相遇。初逢闹剧，二人从误解频出到相互扶持，在一段特殊的旅程中，两人打破年龄与身份隔阂，成为彼此的依靠与慰藉，共同演绎出一场跨越生死的“忘年交”，也在彼此身上找到了直面病痛与死亡、继续勇敢生活的力量。",
+      "releaseDate": "2026-01-01",
+      "backdropPath": "/aXrDbwKv8t7oBO7CumI66rFbtfo.jpg",
+      "posterPath": "/4JMf7bSHXxK4b3g5KW4BBLZMlOa.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧"
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1411529,
+      "type": "tmdb",
+      "title": "飞行家",
+      "originalTitle": "飞行家",
+      "description": "李明奇（蒋奇明 饰），一个沉迷飞行的东北犟种，为了爱人决定认命回到地面，把梦想锁进工具箱底。可生活的难题从四面八方奔涌而来，将他们逼至绝境，唯一的生机，竟是他那被嘲笑了半辈子的飞行梦。一个怪人，一家亲人，一群朋友——他们共同押上所有，凝聚成托举的长风。为了托起沉甸甸的生活，李明奇再次从高空一跃而下，对命运做出勇敢反击！",
+      "releaseDate": "2026-01-12",
+      "backdropPath": "/yJDFQkTMSzZfdsA4U5ckh8565Zi.jpg",
+      "posterPath": "/4MCXfUEaIDLLZew1JQg817fqyb0.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 650524,
@@ -54,56 +41,30 @@
       "genreTitle": "动作, 科幻"
     },
     {
-      "id": 1530787,
+      "id": 1555232,
       "type": "tmdb",
-      "title": "匿杀",
-      "originalTitle": "匿杀",
-      "description": "地狱空荡荡，恶魔在人间。十五年前，一群身份各异的罪恶权贵将都马市染黑成一座“地狱岛”，高中生晓笛惨遭权贵凌辱致死；十五年后，这些背后操盘者接连惨死，死状惨烈。曾目睹十五年前命案的方天阳与警官方正楠深入调查，惊觉这桩匿名杀人案不只是单纯的复仇，更是一场迟到的控诉。桩桩命案，层层黑幕，那张权力、金钱、欲望织就的黑色秘网背后究竟藏着多少不为人知的罪孽？",
-      "releaseDate": "2025-12-27",
-      "backdropPath": "/CZUyZdTBeOhr29KFjcsVjexEFE.jpg",
-      "posterPath": "/wz7DchRv3sXIH87LyjhhxJdrVGk.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 犯罪"
-    },
-    {
-      "id": 83533,
-      "type": "tmdb",
-      "title": "阿凡达：火与烬",
-      "originalTitle": "Avatar: Fire and Ash",
-      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "releaseDate": "2025-12-17",
-      "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-      "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.363,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 1368535,
-      "type": "tmdb",
-      "title": "他年她日",
-      "originalTitle": "他年她日",
-      "description": "在一场世纪大地震后，矗立于海中央的“重力墙”将世界一分为二，形成两个不同的时区和重力环境，“优日区”的一天，是“长年区”的一年。长年区长大的薯仔（许光汉 饰）对来自优日区的实习医生安晴（袁澧林 饰）一见钟情，面对时间和地理的巨大阻碍，薯仔和安晴用尽全力双向奔赴，以年思念，以日相见。在失衡的时空里，他们能否坚定地爱到最后，守护这场刻骨铭心的爱恋？",
-      "releaseDate": "2025-09-26",
-      "backdropPath": "/n3mqsvKiqElRQ4KjDQ0NADQPVP5.jpg",
-      "posterPath": "/evPWHzYsDyUoXfv26iNamkHzbKE.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "奇幻, 爱情"
-    },
-    {
-      "id": 1443959,
-      "type": "tmdb",
-      "title": "马腾你别走",
-      "originalTitle": "马腾你别走",
-      "description": "行动不便的钢厂退休骨干老林（李幼斌 饰）虽衣食无忧却整日郁郁寡欢，在一场乌龙护工面试中，与空有满脑子 “无用知识”、做事总半途而废的闲人马腾（林更新 饰）相遇。初逢闹剧，二人从误解频出到相互扶持，在一段特殊的旅程中，两人打破年龄与身份隔阂，成为彼此的依靠与慰藉，共同演绎出一场跨越生死的“忘年交”，也在彼此身上找到了直面病痛与死亡、继续勇敢生活的力量。",
-      "releaseDate": "2026-01-01",
-      "backdropPath": "/aXrDbwKv8t7oBO7CumI66rFbtfo.jpg",
-      "posterPath": "/4JMf7bSHXxK4b3g5KW4BBLZMlOa.jpg",
+      "title": "不过是上班",
+      "originalTitle": "不过是上班",
+      "description": "一旦领导冒出一句“什么狗屁方案”，你的人生就将陷入无尽循环.....重复的职场里，有人摸鱼摆烂，有人趁机搞事，直到同事离奇 “消失”，他才发现循环背后藏着公司要命的秘密——想活下来，得先在重复的日子里找到出路……",
+      "releaseDate": "2026-01-10",
+      "backdropPath": "/eyIxeio4UhUen5XJY67Dhs6rSJV.jpg",
+      "posterPath": "/ocOIxHfnxaIzrDdZRAgRnnCPS0S.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "喜剧"
+    },
+    {
+      "id": 1249173,
+      "type": "tmdb",
+      "title": "我的朋友安德烈",
+      "originalTitle": "我的朋友安德烈",
+      "description": "性格迥异的李默（刘昊然 饰）与安德烈（董子健 饰）因为足球成为知己，而一场意外却让安德烈跟随年少往事一起消失在了李默的记忆中。多年后，李默在为父亲奔丧路上与安德烈“重逢”，一段尘封的回忆被逐渐揭开……",
+      "releaseDate": "2026-01-17",
+      "backdropPath": "/oSU2icznEh9clWbL5jksJxJHbxu.jpg",
+      "posterPath": "/rEZ64PPreR93T56gfYjf9pRbvU9.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1305715,
@@ -119,17 +80,17 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1234731,
+      "id": 1609495,
       "type": "tmdb",
-      "title": "新狂蟒之灾",
-      "originalTitle": "Anaconda",
-      "description": "一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-      "releaseDate": "2025-12-24",
-      "backdropPath": "/yo41R39airbREp0PYfG30Ofxtgt.jpg",
-      "posterPath": "/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "rating": 5.9,
+      "title": "盖世神功",
+      "originalTitle": "盖世神功",
+      "description": "70年代，洪英真出⽣在H国华⼈街的武林世家“洪刀门”，因成⻓过程⼀事⽆成被众⼈戏称为“废柴”。  　　⼀次机会，洪英真偶遇⽼同学包掂并认识了“忠孝堂”豹哥，卷⼊⼀场阴谋当中。⽽武林⾼⼿“⽆尘”⼀早看穿洪英真是潜在练武奇才，于是打通其筋脉。  　　洪英真迫听⽆尘的建议躲到和平村。在和平村⾥，洪英真阴差阳错惹上恶霸林⼤爷。万万没想到林⼤爷的⼉⼦竟然是豹哥，于是洪英真与豹哥的恩怨⼜再次拉开……",
+      "releaseDate": "2026-01-16",
+      "backdropPath": "/uSXacEXAaDEFMT0e07vfr4l4OJd.jpg",
+      "posterPath": "/3ET7jYxEDAKAfZuM1JgaFkh0ugm.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "冒险, 喜剧"
+      "genreTitle": "喜剧"
     },
     {
       "id": 1356454,
@@ -145,32 +106,6 @@
       "genreTitle": "剧情, 战争"
     },
     {
-      "id": 1598997,
-      "type": "tmdb",
-      "title": "八府巡按",
-      "originalTitle": "八府巡按",
-      "description": "清末，关东永昌府。二甲进士出身的知府贾正道，在吴师爷等众属下以及绅商协助下治理一府六县。一封军机处密信让众人手忙脚乱，朝廷将秘遣“八府巡按”查办贪腐。同时收到刑部紧急公文要求缉拿“在逃诈骗团伙”。他们辗转于酒局、闺房、江湖与公堂之间，既要躲避巡查消灾解祸，又想抓捕逃犯邀功领赏。在精心筹划的步步为营与机缘运命的荒腔走板中，一场关乎发财还是发疯、升官还是“升天”的大戏拉开帷幕……",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/gDen1hY37ukvFX1x8pfkAUhAvqM.jpg",
-      "posterPath": "/hn3bVQvfVa8u4x9Tx9ajn2WHtOs.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 1609495,
-      "type": "tmdb",
-      "title": "盖世神功",
-      "originalTitle": "盖世神功",
-      "description": "70年代，洪英真出⽣在H国华⼈街的武林世家“洪刀门”，因成⻓过程⼀事⽆成被众⼈戏称为“废柴”。  　　⼀次机会，洪英真偶遇⽼同学包掂并认识了“忠孝堂”豹哥，卷⼊⼀场阴谋当中。⽽武林⾼⼿“⽆尘”⼀早看穿洪英真是潜在练武奇才，于是打通其筋脉。  　　洪英真迫听⽆尘的建议躲到和平村。在和平村⾥，洪英真阴差阳错惹上恶霸林⼤爷。万万没想到林⼤爷的⼉⼦竟然是豹哥，于是洪英真与豹哥的恩怨⼜再次拉开……",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/uSXacEXAaDEFMT0e07vfr4l4OJd.jpg",
-      "posterPath": "/3ET7jYxEDAKAfZuM1JgaFkh0ugm.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
-    },
-    {
       "id": 1084242,
       "type": "tmdb",
       "title": "疯狂动物城2",
@@ -179,22 +114,9 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
       "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "rating": 7.604,
+      "rating": 7.612,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1537396,
-      "type": "tmdb",
-      "title": "情圣3",
-      "originalTitle": "情圣3",
-      "description": "一场信任危机，让田绍基（肖央 饰）和邵美珍（谭卓 饰）本就平淡的婚姻生活再次雪上加霜，阴差阳错下两人整活儿不断，花招不停，好兄弟甘火旺（乔杉 饰）也来神助攻，“爱情三十六计”轮番登场！一连串好戏接连上演，情场大战大爆笑！",
-      "releaseDate": "2025-12-20",
-      "backdropPath": "/gbuCIddVf3HxTsePbmVXaQaAhzI.jpg",
-      "posterPath": "/p3sdbpDWYdOkrSkAnNydcwH7cvJ.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 爱情"
     },
     {
       "id": 1599013,
@@ -210,17 +132,17 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 991494,
+      "id": 1537396,
       "type": "tmdb",
-      "title": "海绵宝宝：深海大冒险",
-      "originalTitle": "The SpongeBob Movie: Search for SquarePants",
-      "description": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
-      "releaseDate": "2025-12-16",
-      "backdropPath": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
-      "posterPath": "/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
-      "rating": 6.516,
+      "title": "情圣3",
+      "originalTitle": "情圣3",
+      "description": "一场信任危机，让田绍基（肖央 饰）和邵美珍（谭卓 饰）本就平淡的婚姻生活再次雪上加霜，阴差阳错下两人整活儿不断，花招不停，好兄弟甘火旺（乔杉 饰）也来神助攻，“爱情三十六计”轮番登场！一连串好戏接连上演，情场大战大爆笑！",
+      "releaseDate": "2025-12-20",
+      "backdropPath": "/gbuCIddVf3HxTsePbmVXaQaAhzI.jpg",
+      "posterPath": "/p3sdbpDWYdOkrSkAnNydcwH7cvJ.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
+      "genreTitle": "喜剧, 爱情"
     }
   ]
 }
