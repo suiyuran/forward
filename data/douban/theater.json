@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-18T14:28:39.518Z",
+  "time": "2026-01-18T15:05:22.889Z",
   "data": {
     "爱奇艺 迷雾剧场": [
       {
@@ -473,19 +473,6 @@
         "genreTitle": "剧情, 犯罪"
       },
       {
-        "id": 257193,
-        "type": "tmdb",
-        "title": "破茧2",
-        "originalTitle": "破茧2",
-        "description": "谭景天（张耀 饰）和金灵（楚月 饰）分别前往泰国参加交流学习，因一起走私印度国蝶引发的失足女虐杀案与泰国警长瓦拉里洛结识，三人开始联手屡破奇案。然而危机就在他们身边，在侦破一起连环杀人案过程中发现金灵已经成为凶手下一个目标。",
-        "releaseDate": "2024-05-21",
-        "backdropPath": "/kDv68h6KuQaKRQ3OiudEhh5f6a3.jpg",
-        "posterPath": "/rDjVLuUV9y5q0l4Q3l9gvwJI1Hf.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": ""
-      },
-      {
         "id": 236617,
         "type": "tmdb",
         "title": "新生",
@@ -510,6 +497,19 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 112573,
+        "type": "tmdb",
+        "title": "破茧",
+        "originalTitle": "破茧",
+        "description": "省昆虫研究所毒理昆虫学专业研究生谭景天无意中卷入一桩离奇的案件，死因竟与一种罕见的虫子——子弹蚁有直接的关系。谭景天为洗脱“罪名”协助警察破案，并因此与年轻女法医金灵产生交集。谭景天在昆虫专业上的造诣和金灵精准的法医分析相得益彰，配合刑警队长陈悍及诸位刑警共同寻踪出每个案件的草蛇灰线。谭景天与金灵以及刑警队诸位警察一起完成了“美洲大蠊案”、“微刺盲蝽案”、“磕头虫案”、“多眼灰蝶案”、“梭毒隐翅虫案”等案件的破解。在此过程中，谭景天也解开了自己的身世之谜，揪出了隐藏多年的幕后真凶。",
+        "releaseDate": "2020-11-03",
+        "backdropPath": "/4rZBygWiURVh9tKbZsdTdwywroC.jpg",
+        "posterPath": "/cmchrQLbRUE9jIwTw0rDgC2vB57.jpg",
+        "rating": 4.4,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 悬疑"
       }
     ],
     "芒果 季风剧场": [
