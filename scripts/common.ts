@@ -96,7 +96,7 @@ export function sortByReleaseDate(a: TMDBTransformedResult, b: TMDBTransformedRe
 }
 
 export function isAvailableTMDBResult(result: TMDBTransformedResult) {
-  return result.id && result.title && result.releaseDate && (result.backdropPath || result.posterPath);
+  return result.id && result.title && result.releaseDate && result.posterPath;
 }
 
 export function generateGenreTitle(genreIds: number[]) {

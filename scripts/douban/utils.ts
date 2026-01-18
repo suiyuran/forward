@@ -8,6 +8,10 @@ import {
   sleep,
 } from "../common.ts";
 
+const TITLE_RECORD: Record<string, string> = {
+  破茧2: "tt13364912",
+};
+
 interface DoubanSubjectCollection {
   count: number;
   subject_collection_items: DoubanSubjectCollectionItem[];
@@ -105,7 +109,7 @@ export async function getDoubanSubjectCollectionData(subject: string, start: num
     console.log(`  - 电影: ${title} (${year})`);
     await sleep(5);
     console.log(`    豆瓣 ID: ${id}`);
-    const imdbId = await getDoubanMovieIMDBId(id);
+    const imdbId = TITLE_RECORD[title] || (await getDoubanMovieIMDBId(id));
     console.log(`    IMDB ID: ${imdbId}`);
 
     if (imdbId) {
@@ -174,7 +178,7 @@ export async function getDoubanDoulistData(id: string, start: number) {
     console.log(`  - ${title} (${releaseDate || year})`);
     await sleep(5);
     console.log(`    豆瓣 ID: ${id}`);
-    const imdbId = await getDoubanMovieIMDBId(id);
+    const imdbId = TITLE_RECORD[title] || (await getDoubanMovieIMDBId(id));
     console.log(`    IMDB ID: ${imdbId}`);
 
     if (imdbId) {
