@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "非凡影视",
   description: "获取非凡影视的VOD资源",
   requiredVersion: "0.0.1",
-  version: "1.0.8",
+  version: "1.0.9",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -179,17 +179,18 @@ async function searchResource(title, tmdbId, imdbId, type, season, seasonTitle) 
 
   let resource = null;
 
-  for (const res of allResources) {
-    if (res.doubanId) {
-      const resIMDBId = await getIMDBIdByDoubanId(res.doubanId);
+  if (imdbId) {
+    for (const res of allResources) {
+      if (res.doubanId) {
+        const resIMDBId = await getIMDBIdByDoubanId(res.doubanId);
 
-      if (resIMDBId && resIMDBId === imdbId) {
-        resource = res;
-        break;
+        if (resIMDBId && resIMDBId === imdbId) {
+          resource = res;
+          break;
+        }
       }
     }
   }
-
   if (!resource && sameNameResources.length === 1) {
     const onlyResource = sameNameResources[0];
 
@@ -267,9 +268,9 @@ function isSimilarResource(title, titles, resource) {
   );
 }
 
-async function handleTitle(seriesName) {
+async function handleTitle(tmdbId, title) {
   const titleMapping = await getTitleMapping();
-  return shakeTitle(titleMapping[seriesName] || seriesName);
+  return shakeTitle(titleMapping[title] || titleMapping[`${title}(${tmdbId})`] || title);
 }
 
 async function handleIMDBId(tmdbId, imdbId, type, season) {
@@ -298,7 +299,7 @@ function splitTitle(title) {
     return [title];
   }
   return title
-    .replaceAll("：", " ")
+    .replaceAll(/：|:/g, " ")
     .split(" ")
     .map((t, i) => {
       const nt = t.trim();
@@ -367,18 +368,15 @@ async function searchResourceWithCache(title, tmdbId, imdbId, type, season) {
       }
     }
   }
-  const newTitle = await handleTitle(title);
+  const newTitle = await handleTitle(tmdbId, title);
   const newIMDBId = await handleIMDBId(tmdbId, imdbId, type, season);
   const seasonInfo = type === "movie" ? "" : `第${chineseNumber(season)}季`;
-  const seasonTitle = !seasonInfo ? "" : await handleTitle(`${newTitle}${seasonInfo}`);
+  const seasonTitle = !seasonInfo ? "" : await handleTitle(tmdbId, `${newTitle}${seasonInfo}`);
+  const resource = await searchResource(newTitle, tmdbId, newIMDBId, type, season, seasonTitle);
 
-  if (newIMDBId) {
-    const resource = await searchResource(newTitle, tmdbId, newIMDBId, type, season, seasonTitle);
-
-    if (resource) {
-      await setCacheValue(cacheKey, resource);
-      return resource;
-    }
+  if (resource) {
+    await setCacheValue(cacheKey, resource);
+    return resource;
   }
   return null;
 }
