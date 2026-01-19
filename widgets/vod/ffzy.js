@@ -1,7 +1,7 @@
 WidgetMetadata = {
   id: "suiyuran.forward.widgets.vod.ffzy",
   title: "非凡影视",
-  description: "获取非凡影视的VOD资源",
+  description: "获取非凡影视的 VOD 资源",
   requiredVersion: "0.0.1",
   version: "1.0.9",
   author: "suiyuran",

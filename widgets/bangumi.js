@@ -1,7 +1,7 @@
 WidgetMetadata = {
   id: "suiyuran.forward.widgets.bangumi",
   title: "Bangumi",
-  description: "获取Bangumi的动画数据",
+  description: "获取 Bangumi 的动画数据",
   requiredVersion: "0.0.1",
   version: "1.0.1",
   author: "suiyuran",

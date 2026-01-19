@@ -1,7 +1,7 @@
 WidgetMetadata = {
   id: "suiyuran.forward.widgets.vod.dytt",
   title: "电影天堂",
-  description: "获取电影天堂的VOD资源",
+  description: "获取电影天堂的 VOD 资源",
   requiredVersion: "0.0.1",
   version: "1.0.9",
   author: "suiyuran",
