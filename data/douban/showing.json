@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-19T17:26:20.410Z",
+  "time": "2026-01-20T17:33:18.961Z",
   "data": [
     {
       "id": 1249173,
@@ -41,19 +41,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1271895,
-      "type": "tmdb",
-      "title": "96分钟：列车爆炸案",
-      "originalTitle": "96分鐘",
-      "description": "前拆弹专家和他的未婚妻登上装有炸弹的高铁，卷入外遇丑闻的物理老师，也为了挽回乘坐高铁的妻子，登上了这趟列车。",
-      "releaseDate": "2025-09-05",
-      "backdropPath": "/r1fgAwOytdkm0dyMPXLDPqa6guU.jpg",
-      "posterPath": "/rhmu8ePA306X8ooQrcA195nBgsg.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 804370,
       "type": "tmdb",
       "title": "时空奇旅",
@@ -80,6 +67,19 @@
       "genreTitle": "剧情, 战争"
     },
     {
+      "id": 1271895,
+      "type": "tmdb",
+      "title": "96分钟：列车爆炸案",
+      "originalTitle": "96分鐘",
+      "description": "前拆弹专家和他的未婚妻登上装有炸弹的高铁，卷入外遇丑闻的物理老师，也为了挽回乘坐高铁的妻子，登上了这趟列车。",
+      "releaseDate": "2025-09-05",
+      "backdropPath": "/r1fgAwOytdkm0dyMPXLDPqa6guU.jpg",
+      "posterPath": "/rhmu8ePA306X8ooQrcA195nBgsg.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
       "id": 1530787,
       "type": "tmdb",
       "title": "匿杀",
@@ -101,7 +101,7 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.355,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -158,19 +158,6 @@
       "genreTitle": "冒险, 喜剧"
     },
     {
-      "id": 1084242,
-      "type": "tmdb",
-      "title": "疯狂动物城2",
-      "originalTitle": "Zootopia 2",
-      "description": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
-      "releaseDate": "2025-11-26",
-      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
-      "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
-    },
-    {
       "id": 1356454,
       "type": "tmdb",
       "title": "得闲谨制",
@@ -182,6 +169,19 @@
       "rating": 3.6,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
+    },
+    {
+      "id": 1084242,
+      "type": "tmdb",
+      "title": "疯狂动物城2",
+      "originalTitle": "Zootopia 2",
+      "description": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "releaseDate": "2025-11-26",
+      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+      "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
+      "rating": 7.594,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1609495,
@@ -205,22 +205,9 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
       "posterPath": "/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
-      "rating": 6.551,
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1598997,
-      "type": "tmdb",
-      "title": "八府巡按",
-      "originalTitle": "八府巡按",
-      "description": "清末，关东永昌府。二甲进士出身的知府贾正道，在吴师爷等众属下以及绅商协助下治理一府六县。一封军机处密信让众人手忙脚乱，朝廷将秘遣“八府巡按”查办贪腐。同时收到刑部紧急公文要求缉拿“在逃诈骗团伙”。他们辗转于酒局、闺房、江湖与公堂之间，既要躲避巡查消灾解祸，又想抓捕逃犯邀功领赏。在精心筹划的步步为营与机缘运命的荒腔走板中，一场关乎发财还是发疯、升官还是“升天”的大戏拉开帷幕……",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/gDen1hY37ukvFX1x8pfkAUhAvqM.jpg",
-      "posterPath": "/hn3bVQvfVa8u4x9Tx9ajn2WHtOs.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1599013,
@@ -234,6 +221,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1598997,
+      "type": "tmdb",
+      "title": "八府巡按",
+      "originalTitle": "八府巡按",
+      "description": "清末，关东永昌府。二甲进士出身的知府贾正道，在吴师爷等众属下以及绅商协助下治理一府六县。一封军机处密信让众人手忙脚乱，朝廷将秘遣“八府巡按”查办贪腐。同时收到刑部紧急公文要求缉拿“在逃诈骗团伙”。他们辗转于酒局、闺房、江湖与公堂之间，既要躲避巡查消灾解祸，又想抓捕逃犯邀功领赏。在精心筹划的步步为营与机缘运命的荒腔走板中，一场关乎发财还是发疯、升官还是“升天”的大戏拉开帷幕……",
+      "releaseDate": "2026-01-16",
+      "backdropPath": "/gDen1hY37ukvFX1x8pfkAUhAvqM.jpg",
+      "posterPath": "/hn3bVQvfVa8u4x9Tx9ajn2WHtOs.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
     }
   ]
 }
