@@ -188,12 +188,28 @@ export async function getDoubanDoulistData(id: string, start: number) {
         const findResult = findResults[0];
         console.log(`    TMDB ID: ${findResult.id}`);
 
-        if (isAvailableTMDBResult(findResult)) {
-          results.push(findResult);
-        } else {
-          console.log(`    TMDB 结果缺少必要信息，跳过`);
+        if (findResult.releaseDate === releaseDate) {
+          if (isAvailableTMDBResult(findResult)) {
+            results.push(findResult);
+          } else {
+            console.log(`    TMDB 结果缺少必要信息，跳过`);
+          }
+          continue;
         }
-        continue;
+        const details = await getTMDBTVSeriesDetails(findResult.id);
+        const season = details.seasons.find((s) => s.releaseDate === releaseDate);
+
+        if (season) {
+          console.log(`    TMDB ID: ${findResult.id}`);
+          const seasonResult = { ...findResult, title, ...season };
+
+          if (isAvailableTMDBResult(seasonResult)) {
+            results.push(seasonResult);
+          } else {
+            console.log(`    TMDB 结果缺少必要信息，跳过`);
+          }
+          continue;
+        }
       }
     }
 

@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-19T18:24:25.299Z",
+  "time": "2026-01-20T07:55:01.973Z",
   "data": {
     "爱奇艺 迷雾剧场": [
       {
@@ -473,6 +473,19 @@
         "genreTitle": "剧情, 犯罪"
       },
       {
+        "id": 112573,
+        "type": "tmdb",
+        "title": "破茧2",
+        "originalTitle": "破茧",
+        "description": "譚景天和金靈分別前往泰國參加交流學習，因一起走私印度國蝶引發的失足女虐殺案與泰國警長瓦拉里洛結識，三人開始聯手屢破奇案。然而危機就在他們身邊，在偵破一起連環殺人案過程中發現金靈已經成為下一個目標。",
+        "releaseDate": "2024-05-21",
+        "backdropPath": "/4rZBygWiURVh9tKbZsdTdwywroC.jpg",
+        "posterPath": "/2VNXx5i2iotNfx6IILbZq4VRQof.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 悬疑"
+      },
+      {
         "id": 236617,
         "type": "tmdb",
         "title": "新生",
@@ -497,19 +510,6 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 112573,
-        "type": "tmdb",
-        "title": "破茧",
-        "originalTitle": "破茧",
-        "description": "省昆虫研究所毒理昆虫学专业研究生谭景天无意中卷入一桩离奇的案件，死因竟与一种罕见的虫子——子弹蚁有直接的关系。谭景天为洗脱“罪名”协助警察破案，并因此与年轻女法医金灵产生交集。谭景天在昆虫专业上的造诣和金灵精准的法医分析相得益彰，配合刑警队长陈悍及诸位刑警共同寻踪出每个案件的草蛇灰线。谭景天与金灵以及刑警队诸位警察一起完成了“美洲大蠊案”、“微刺盲蝽案”、“磕头虫案”、“多眼灰蝶案”、“梭毒隐翅虫案”等案件的破解。在此过程中，谭景天也解开了自己的身世之谜，揪出了隐藏多年的幕后真凶。",
-        "releaseDate": "2020-11-03",
-        "backdropPath": "/4rZBygWiURVh9tKbZsdTdwywroC.jpg",
-        "posterPath": "/cmchrQLbRUE9jIwTw0rDgC2vB57.jpg",
-        "rating": 4.4,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 悬疑"
       }
     ],
     "芒果 季风剧场": [
