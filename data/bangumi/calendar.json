@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-19T16:25:09.938Z",
+  "time": "2026-01-20T16:31:00.114Z",
   "data": {
     "星期日": [
       {
@@ -20,7 +20,7 @@
         "type": "tmdb",
         "title": "异国日记",
         "originalTitle": "違国日記",
-        "description": "影片改编自同名漫画。社恐小说家的高代槙生（新垣结衣 饰）在姐姐夫妇的葬礼上，面对被亲戚们互相推诿的姐姐的遗孤·田汲朝（早濑憩 饰）无法视而不见，顺势决定收养她。但是把外甥女带回去之后，不善交际的槙生才发现自己不适合和谁一起生活。与此相对，不认生的朝面对“不像大人的大人” 的槙生却也坦率地接受了。女主和如小狗般外甥女就此展开了同居生活……",
+        "description": "怕生的小说家·高代槙生，\n\n因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。\n\n意料之外开始的同居生活，让槙生原本寂静的日常骤变。\n\n因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。\n\n另一边，失去双亲、无处可归的朝，在初次体会的孤独中，\n\n渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。\n\n不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。\n\n性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。\n\n这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
         "releaseDate": "2026-01-04",
         "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
         "posterPath": "/wjh7Ju3vO6T58Z6IPqSSyaGt6VA.jpg",
@@ -63,7 +63,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/fmXOtmvA26zx1bawiMdmjnZcWzt.jpg",
-        "rating": 9.7,
+        "rating": 9.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/6Eg3t2KdtqiF29G7a7S1Npl93g8.jpg",
         "posterPath": "/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg",
-        "rating": 8.917,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -154,7 +154,7 @@
         "releaseDate": "2026-01-05",
         "backdropPath": "/y1Z1BeU25Fb2POKhv5GbgsoSXIr.jpg",
         "posterPath": "/3bnxhdmtqZ8TiVYaOlobjk1s3J8.jpg",
-        "rating": 0,
+        "rating": 9.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -247,7 +247,7 @@
         "releaseDate": "2026-01-05",
         "backdropPath": "/qwQwTAvgH6QXPOOKsIlE0i2GfOn.jpg",
         "posterPath": "/fYzFuzXmBqpHzJUOtKnhX13C1VR.jpg",
-        "rating": 7.9,
+        "rating": 7.444,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -273,7 +273,7 @@
         "releaseDate": "2019-10-08",
         "backdropPath": "/zBfnpI8883yeQkXK2kpLavHv9Yw.jpg",
         "posterPath": "/cZ8JUIwS9K4kttelRq6eP0mVhjK.jpg",
-        "rating": 8.6,
+        "rating": 8.609,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       }
@@ -340,7 +340,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/zJJQCD9xMhDD4MlQ6haaP3IBCHk.jpg",
         "posterPath": "/hEwDJXRiILk690R1ksSEGLLThMp.jpg",
-        "rating": 9.083,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -394,7 +394,7 @@
         "releaseDate": "2023-04-12",
         "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
         "posterPath": "/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
-        "rating": 8.33,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -487,7 +487,7 @@
         "releaseDate": "2020-10-03",
         "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
         "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-        "rating": 8.568,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -500,7 +500,7 @@
         "releaseDate": "2024-01-04",
         "backdropPath": "/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
         "posterPath": "/bAvclqxxYczAgyd1WfCSLrGOYpk.jpg",
-        "rating": 7.6,
+        "rating": 7.64,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -513,7 +513,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/bB2uu0c4Juh041o9QGU0YjsZtYF.jpg",
         "posterPath": "/xKVJu2INm7wfeeXSRtEGLGpVzdZ.jpg",
-        "rating": 7.8,
+        "rating": 7.643,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -526,7 +526,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/d7VbOrezXHhHnk39dbOb2eR6NIt.jpg",
         "posterPath": "/fgG5AAn7st7ZCSLmcDWPd08WZCv.jpg",
-        "rating": 9.25,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -539,7 +539,7 @@
         "releaseDate": "2026-01-09",
         "backdropPath": "/jlIvjqSqJXDcwTGG5nzKNeH1K9t.jpg",
         "posterPath": "/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg",
-        "rating": 5.333,
+        "rating": 5.667,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -591,7 +591,7 @@
         "releaseDate": "2026-01-15",
         "backdropPath": "/MYrRkkE2L0DKw5CRjbCYeQjLAq.jpg",
         "posterPath": "/ogbZc8ELD0XnzCtWE0jGNbesiNc.jpg",
-        "rating": 8.2,
+        "rating": 8.167,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -790,7 +790,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/u2XJNukeANKE9QxKl83wYUO5SwF.jpg",
         "posterPath": "/dMiCgX3BPx2mSq74Yn5bK2MNlC8.jpg",
-        "rating": 7.4,
+        "rating": 7.455,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -803,7 +803,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/pDQ9P84InNrBN1hDTCjhQ1dN1kO.jpg",
         "posterPath": "/3KxyECISY5arB72ADxUuY4DUwJL.jpg",
-        "rating": 8,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -816,7 +816,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/mB9zWzImN8Xvw2C8T8CupU9EIQ5.jpg",
         "posterPath": "/eQd0CiwzfhSftE71FAZzoUGzmJ5.jpg",
-        "rating": 0,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
