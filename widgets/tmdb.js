@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "TMDB",
   description: "获取 TMDB 的榜单数据",
   requiredVersion: "0.0.1",
-  version: "1.0.0",
+  version: "1.0.1",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -225,7 +225,6 @@ WidgetMetadata = {
             paramName: "genreId",
             value: ["10764"],
           },
-          value: "CN",
           placeholders: [
             {
               title: "中国",
@@ -326,31 +325,31 @@ WidgetMetadata = {
           type: "enumeration",
           enumOptions: [
             {
-              title: "迪士尼",
+              title: "Disney",
               value: "2",
             },
             {
-              title: "派拉蒙影业",
+              title: "Paramount",
               value: "4",
             },
             {
-              title: "哥伦比亚影业",
+              title: "Columbia",
               value: "5",
             },
             {
-              title: "二十世纪影业",
+              title: "20th Century",
               value: "25",
             },
             {
-              title: "环球影业",
+              title: "Universal",
               value: "33",
             },
             {
-              title: "索尼影业",
+              title: "Sony",
               value: "34",
             },
             {
-              title: "华纳兄弟",
+              title: "Warner Bros",
               value: "174",
             },
             {
