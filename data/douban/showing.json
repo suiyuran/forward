@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-22T17:32:14.536Z",
+  "time": "2026-01-23T17:27:39.715Z",
   "data": [
     {
       "id": 1411529,
@@ -15,6 +15,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 680493,
+      "type": "tmdb",
+      "title": "重返寂静岭",
+      "originalTitle": "Return to Silent Hill",
+      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
+      "releaseDate": "2026-01-21",
+      "backdropPath": "/jojajuFqS2UsS59aFjDa8bo3lxH.jpg",
+      "posterPath": "/tsVYhgOvp2d3bv04yYScSQz6QoW.jpg",
+      "rating": 5.5,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 剧情"
+    },
+    {
       "id": 1249173,
       "type": "tmdb",
       "title": "我的朋友安德烈",
@@ -26,6 +39,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1236153,
+      "type": "tmdb",
+      "title": "极限审判",
+      "originalTitle": "Mercy",
+      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
+      "releaseDate": "2026-01-19",
+      "backdropPath": "/l0rY0RH64CXne5vW2Y3yHZpjmDy.jpg",
+      "posterPath": "/36VpRDwRssBlxfX5L4TvArRiVb.jpg",
+      "rating": 6.9,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
     },
     {
       "id": 1443959,
@@ -54,6 +80,19 @@
       "genreTitle": "剧情, 战争"
     },
     {
+      "id": 1537690,
+      "type": "tmdb",
+      "title": "爆水管",
+      "originalTitle": "爆水管",
+      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
+      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 犯罪"
+    },
+    {
       "id": 1530787,
       "type": "tmdb",
       "title": "匿杀",
@@ -75,7 +114,7 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.346,
+      "rating": 7.338,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -132,19 +171,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1234731,
-      "type": "tmdb",
-      "title": "新狂蟒之灾",
-      "originalTitle": "Anaconda",
-      "description": "一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-      "releaseDate": "2025-12-24",
-      "backdropPath": "/yo41R39airbREp0PYfG30Ofxtgt.jpg",
-      "posterPath": "/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "rating": 5.985,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 喜剧"
-    },
-    {
       "id": 1356454,
       "type": "tmdb",
       "title": "得闲谨制",
@@ -158,6 +184,19 @@
       "genreTitle": "剧情, 战争"
     },
     {
+      "id": 1234731,
+      "type": "tmdb",
+      "title": "新狂蟒之灾",
+      "originalTitle": "Anaconda",
+      "description": "一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
+      "releaseDate": "2025-12-24",
+      "backdropPath": "/yo41R39airbREp0PYfG30Ofxtgt.jpg",
+      "posterPath": "/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 喜剧"
+    },
+    {
       "id": 991494,
       "type": "tmdb",
       "title": "海绵宝宝：深海大冒险",
@@ -165,8 +204,8 @@
       "description": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
       "releaseDate": "2025-12-16",
       "backdropPath": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
-      "posterPath": "/9iOBIxOuy9IqsljsVUiboLrgEp6.jpg",
-      "rating": 6.416,
+      "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
+      "rating": 6.393,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -179,35 +218,9 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
       "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "rating": 7.591,
+      "rating": 7.588,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1537396,
-      "type": "tmdb",
-      "title": "情圣3",
-      "originalTitle": "情圣3",
-      "description": "一场信任危机，让田绍基（肖央 饰）和邵美珍（谭卓 饰）本就平淡的婚姻生活再次雪上加霜，阴差阳错下两人整活儿不断，花招不停，好兄弟甘火旺（乔杉 饰）也来神助攻，“爱情三十六计”轮番登场！一连串好戏接连上演，情场大战大爆笑！",
-      "releaseDate": "2025-12-20",
-      "backdropPath": "/a0ua4gW6Znjt11r2DQTapV5VaEz.jpg",
-      "posterPath": "/p3sdbpDWYdOkrSkAnNydcwH7cvJ.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 爱情"
-    },
-    {
-      "id": 1609495,
-      "type": "tmdb",
-      "title": "盖世神功",
-      "originalTitle": "盖世神功",
-      "description": "70年代，洪英真出⽣在H国华⼈街的武林世家“洪刀门”，因成⻓过程⼀事⽆成被众⼈戏称为“废柴”。  　　⼀次机会，洪英真偶遇⽼同学包掂并认识了“忠孝堂”豹哥，卷⼊⼀场阴谋当中。⽽武林⾼⼿“⽆尘”⼀早看穿洪英真是潜在练武奇才，于是打通其筋脉。  　　洪英真迫听⽆尘的建议躲到和平村。在和平村⾥，洪英真阴差阳错惹上恶霸林⼤爷。万万没想到林⼤爷的⼉⼦竟然是豹哥，于是洪英真与豹哥的恩怨⼜再次拉开……",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/uSXacEXAaDEFMT0e07vfr4l4OJd.jpg",
-      "posterPath": "/3ET7jYxEDAKAfZuM1JgaFkh0ugm.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
     },
     {
       "id": 1599013,
