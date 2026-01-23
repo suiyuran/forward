@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-22T18:24:30.827Z",
+  "time": "2026-01-23T18:25:22.892Z",
   "data": {
     "爱奇艺 迷雾剧场": [
       {
@@ -360,7 +360,7 @@
         "type": "tmdb",
         "title": "暗恋者的救赎",
         "originalTitle": "暗恋者的救赎",
-        "description": "该剧讲述的是做事执着，具有出众观察力的刑警队长宋诚在调查侦破一起刑案件过程中，发现该案和四年前的一起案件有些微妙关联。随着宋城深入调查，隐藏在两起案件中的共同证人俞笑的秘密被渐渐揭开。最后，他们互相配合，克服重重困难阻碍，将真凶绳之以法。",
+        "description": "",
         "releaseDate": "2026-01-23",
         "backdropPath": "/c841YfQpZg91vi1lNZmcf1XANqv.jpg",
         "posterPath": "/8wSEvsH1UWUIqacz9ZBCbU7i5LH.jpg",
@@ -888,7 +888,7 @@
         "releaseDate": "2023-04-22",
         "backdropPath": "/rCm6BJkkPukfHYWNNx7WkGpCdZH.jpg",
         "posterPath": "/tJLiKDYdfMskFkJXV1HnaQAdpGf.jpg",
-        "rating": 8.865,
+        "rating": 8.876,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       }
