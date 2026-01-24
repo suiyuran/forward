@@ -1,6 +1,45 @@
 {
-  "time": "2026-01-23T17:27:39.715Z",
+  "time": "2026-01-24T17:20:58.908Z",
   "data": [
+    {
+      "id": 680493,
+      "type": "tmdb",
+      "title": "重返寂静岭",
+      "originalTitle": "Return to Silent Hill",
+      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
+      "releaseDate": "2026-01-21",
+      "backdropPath": "/zWe8ynGlGH3KP896jHCemxnOvCo.jpg",
+      "posterPath": "/tsVYhgOvp2d3bv04yYScSQz6QoW.jpg",
+      "rating": 5.382,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 悬疑"
+    },
+    {
+      "id": 1236153,
+      "type": "tmdb",
+      "title": "极限审判",
+      "originalTitle": "Mercy",
+      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
+      "releaseDate": "2026-01-19",
+      "backdropPath": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
+      "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
+      "rating": 6.9,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1537690,
+      "type": "tmdb",
+      "title": "爆水管",
+      "originalTitle": "爆水管",
+      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
+      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 犯罪"
+    },
     {
       "id": 1411529,
       "type": "tmdb",
@@ -15,19 +54,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 680493,
-      "type": "tmdb",
-      "title": "重返寂静岭",
-      "originalTitle": "Return to Silent Hill",
-      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
-      "releaseDate": "2026-01-21",
-      "backdropPath": "/jojajuFqS2UsS59aFjDa8bo3lxH.jpg",
-      "posterPath": "/tsVYhgOvp2d3bv04yYScSQz6QoW.jpg",
-      "rating": 5.5,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 剧情"
-    },
-    {
       "id": 1249173,
       "type": "tmdb",
       "title": "我的朋友安德烈",
@@ -39,19 +65,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1236153,
-      "type": "tmdb",
-      "title": "极限审判",
-      "originalTitle": "Mercy",
-      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "releaseDate": "2026-01-19",
-      "backdropPath": "/l0rY0RH64CXne5vW2Y3yHZpjmDy.jpg",
-      "posterPath": "/36VpRDwRssBlxfX5L4TvArRiVb.jpg",
-      "rating": 6.9,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
     },
     {
       "id": 1443959,
@@ -80,19 +93,6 @@
       "genreTitle": "剧情, 战争"
     },
     {
-      "id": 1537690,
-      "type": "tmdb",
-      "title": "爆水管",
-      "originalTitle": "爆水管",
-      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
-      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 犯罪"
-    },
-    {
       "id": 1530787,
       "type": "tmdb",
       "title": "匿杀",
@@ -114,9 +114,22 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.338,
+      "rating": 7.325,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
+    },
+    {
+      "id": 1497873,
+      "type": "tmdb",
+      "title": "翠湖",
+      "originalTitle": "翠湖",
+      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
+      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 650524,
@@ -132,19 +145,6 @@
       "genreTitle": "动作, 科幻"
     },
     {
-      "id": 1271895,
-      "type": "tmdb",
-      "title": "96分钟：列车爆炸案",
-      "originalTitle": "96分鐘",
-      "description": "前拆弹专家和他的未婚妻登上装有炸弹的高铁，卷入外遇丑闻的物理老师，也为了挽回乘坐高铁的妻子，登上了这趟列车。",
-      "releaseDate": "2025-09-05",
-      "backdropPath": "/r1fgAwOytdkm0dyMPXLDPqa6guU.jpg",
-      "posterPath": "/rhmu8ePA306X8ooQrcA195nBgsg.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1555232,
       "type": "tmdb",
       "title": "不过是上班",
@@ -158,30 +158,17 @@
       "genreTitle": "喜剧"
     },
     {
-      "id": 1305715,
+      "id": 1602722,
       "type": "tmdb",
-      "title": "过家家",
-      "originalTitle": "过家家",
-      "description": "在小城市长大的单亲男孩钟不凡一直想去北京闯荡一番，却因为家庭原因一直没能实现在一次与亲生父亲的争执中失手伤人，以为自己闯下大祸，仓皇逃匿，被命运捉弄阴错阳差地逃到了北京。",
-      "releaseDate": "2026-01-01",
-      "backdropPath": "/dT3mUfkXKzUbDu4qlldRGXxePLj.jpg",
-      "posterPath": "/jTuu8wLW2RUg1IzX4IC7wqpsjIo.jpg",
-      "rating": 7.333,
+      "title": "舒克贝塔之微缩人类",
+      "originalTitle": "舒克贝塔之微缩人类",
+      "description": "鼠王获得了微缩人类技术后建造了梦想岛，企图把魔方市的市民都缩小并囚禁于此并以此夺取魔方市。 舒克贝塔因运送机场的乘客来到梦想岛，卷入了这场阴谋，他们挺身而出，破除了鼠王的阴谋，拯救了魔方市市民。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/gv5T4Y3PwzndEkPONtCT2GOKf2D.jpg",
+      "posterPath": "/f7K95hYV9WjRGV3Qk3e0SmqZxhl.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1356454,
-      "type": "tmdb",
-      "title": "得闲谨制",
-      "originalTitle": "得闲谨制",
-      "description": "一个桃花源般的小镇，一群因南京沦陷而逃难至此安居数年的百姓，偶有一日数名日军误入此地，百姓被日军逼到绝境后奋起直面迎战。一场双方武器相差悬殊的战斗，一次智慧与意志的比拼，就此展开。",
-      "releaseDate": "2025-12-06",
-      "backdropPath": "/6xu3IyWOqSVxZE0S3jPxVz3A1Bt.jpg",
-      "posterPath": "/fhgkZwwNVi7bd13uiO67Yro1HbY.jpg",
-      "rating": 3.6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1234731,
@@ -197,17 +184,43 @@
       "genreTitle": "冒险, 喜剧"
     },
     {
+      "id": 1356454,
+      "type": "tmdb",
+      "title": "得闲谨制",
+      "originalTitle": "得闲谨制",
+      "description": "一个桃花源般的小镇，一群因南京沦陷而逃难至此安居数年的百姓，偶有一日数名日军误入此地，百姓被日军逼到绝境后奋起直面迎战。一场双方武器相差悬殊的战斗，一次智慧与意志的比拼，就此展开。",
+      "releaseDate": "2025-12-06",
+      "backdropPath": "/6xu3IyWOqSVxZE0S3jPxVz3A1Bt.jpg",
+      "posterPath": "/fhgkZwwNVi7bd13uiO67Yro1HbY.jpg",
+      "rating": 3.6,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 战争"
+    },
+    {
       "id": 991494,
       "type": "tmdb",
       "title": "海绵宝宝：深海大冒险",
       "originalTitle": "The SpongeBob Movie: Search for SquarePants",
       "description": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
       "releaseDate": "2025-12-16",
-      "backdropPath": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+      "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
       "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.393,
+      "rating": 6.454,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
+    },
+    {
+      "id": 1593221,
+      "type": "tmdb",
+      "title": "宇宙护卫队：百变流星",
+      "originalTitle": "宇宙护卫队：百变流星",
+      "description": "达尔文星球的晴天霹雳解封曾企图占领地球的恐龙三人组，组成超甲恐龙队，从赤道的热带雨林开始冰冻地球。护卫队收到总部指示，阻止超甲恐龙队。关键时刻，队员流星又遇到了困境，这次他能拯救同伴，保护地球吗？",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/dyJZF6h4sTjKgK2SxDTTjhAUpA1.jpg",
+      "posterPath": "/fu0gDFPZfgJJ4G3nMISiMmEOXe2.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 科幻"
     },
     {
       "id": 1084242,
@@ -218,22 +231,9 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
       "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "rating": 7.588,
+      "rating": 7.585,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1599013,
-      "type": "tmdb",
-      "title": "情缘曹雪芹",
-      "originalTitle": "情缘曹雪芹",
-      "description": "影片聚焦于文学巨匠曹雪芹丰富而深邃的情感世界，从其生命经历中撷取动人篇章。电影不仅通过曹雪芹与生命中三位重要女性——芳青、荷香、云妹的动人情感交织，细腻展现了他的深情与胸怀；也刻画了他与敦诚、敦敏、于景廉、徐环等友人之间真挚而深刻的友谊。这些源自现实生活的深切关怀与命运共鸣，最终凝聚为他“为闺阁增光”的宏大志向，成为其呕心沥血创作《红楼梦》的初心与动力，生动诠释了一种超越个人情爱、为天下女子立传的“大情大爱”。",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/vOb07QqTkMroELd5VmtuCS6d4v8.jpg",
-      "posterPath": "/pBhRGhbgkVOgk5FF4o7u26ntxE5.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1598997,
