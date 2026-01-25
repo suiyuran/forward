@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-24T16:20:46.071Z",
+  "time": "2026-01-25T16:21:09.954Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2023-04-01",
         "backdropPath": "/vjiIuR3XGpoGSumQ7DziPAmxIYR.jpg",
         "posterPath": "/jfPqPQy2EiS8TwDlbvU9hgyxCdF.jpg",
-        "rating": 8.153,
+        "rating": 8.15,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/vcHzF9NHQLM8dCW1OOBhezsFRiO.jpg",
         "posterPath": "/g2GZo2AcvJon8ZaPrfTGMbp8z9X.jpg",
-        "rating": 7,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -368,7 +368,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.7,
+        "rating": 8.723,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -487,7 +487,7 @@
         "releaseDate": "2020-10-03",
         "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
         "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-        "rating": 8.565,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -671,7 +671,7 @@
         "releaseDate": "2023-09-29",
         "backdropPath": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
         "posterPath": "/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
-        "rating": 8.7,
+        "rating": 8.743,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -795,6 +795,19 @@
         "genreTitle": "动画, 喜剧"
       },
       {
+        "id": 282158,
+        "type": "tmdb",
+        "title": "择天记",
+        "originalTitle": "择天记",
+        "description": "西宁少年陈长生身患奇症活不过二十岁，为寻改命之法，前往神都参加大朝试，却因与真凤徐有容的一纸婚约，遭受打压，被流放进废弃的国教学院。陈长生凭借三千道藏，开启修行逆袭之旅，青藤宴废天海牙儿，未央宫胜神国七律，更是与伙伴唐三十六、落落、轩辕破奋战大朝试，夺得首榜首名，却得知改命之法难如登天。陷入迷茫的陈长生，在天书陵见证一代传奇荀梅陨落，激励他继续前行，在周园与魔族的战斗中，遇见乔装而来的徐有容，二人一路生死相依，联手挫败魔族阴谋，彼此相爱，却因周园崩塌分离。",
+        "releaseDate": "2026-01-31",
+        "backdropPath": "/zBPBVmpXOr7HugMASwl9nzStBL8.jpg",
+        "posterPath": "/tA5jwf9HK84x5Sdys13UhW7IjWf.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 动画"
+      },
+      {
         "id": 286291,
         "type": "tmdb",
         "title": "死亡账号",
@@ -829,7 +842,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/1hS9huDDGeirdy1Regli71wo9ot.jpg",
         "posterPath": "/wtydP2MiBk0dPLTd5RQFu6eC2VW.jpg",
-        "rating": 10,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
