@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-24T17:20:58.908Z",
+  "time": "2026-01-25T17:21:04.927Z",
   "data": [
     {
       "id": 680493,
@@ -9,8 +9,8 @@
       "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
       "releaseDate": "2026-01-21",
       "backdropPath": "/zWe8ynGlGH3KP896jHCemxnOvCo.jpg",
-      "posterPath": "/tsVYhgOvp2d3bv04yYScSQz6QoW.jpg",
-      "rating": 5.382,
+      "posterPath": "/mHEtettQs3qwX3IGT7KTwbxgaOL.jpg",
+      "rating": 5.154,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -23,7 +23,7 @@
       "releaseDate": "2026-01-19",
       "backdropPath": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
       "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-      "rating": 6.9,
+      "rating": 6.524,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -39,6 +39,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "喜剧, 犯罪"
+    },
+    {
+      "id": 1497873,
+      "type": "tmdb",
+      "title": "翠湖",
+      "originalTitle": "翠湖",
+      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
+      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1411529,
@@ -114,22 +127,9 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.325,
+      "rating": 7.316,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 1497873,
-      "type": "tmdb",
-      "title": "翠湖",
-      "originalTitle": "翠湖",
-      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
-      "releaseDate": "2026-01-24",
-      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
-      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 650524,
@@ -143,19 +143,6 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "动作, 科幻"
-    },
-    {
-      "id": 1555232,
-      "type": "tmdb",
-      "title": "不过是上班",
-      "originalTitle": "不过是上班",
-      "description": "一旦领导冒出一句“什么狗屁方案”，你的人生就将陷入无尽循环.....重复的职场里，有人摸鱼摆烂，有人趁机搞事，直到同事离奇 “消失”，他才发现循环背后藏着公司要命的秘密——想活下来，得先在重复的日子里找到出路……",
-      "releaseDate": "2026-01-10",
-      "backdropPath": "/eyIxeio4UhUen5XJY67Dhs6rSJV.jpg",
-      "posterPath": "/ocOIxHfnxaIzrDdZRAgRnnCPS0S.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
     },
     {
       "id": 1602722,
@@ -184,6 +171,19 @@
       "genreTitle": "冒险, 喜剧"
     },
     {
+      "id": 991494,
+      "type": "tmdb",
+      "title": "海绵宝宝：深海大冒险",
+      "originalTitle": "The SpongeBob Movie: Search for SquarePants",
+      "description": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
+      "releaseDate": "2025-12-16",
+      "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
+      "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
+      "rating": 6.495,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
       "id": 1356454,
       "type": "tmdb",
       "title": "得闲谨制",
@@ -197,17 +197,17 @@
       "genreTitle": "剧情, 战争"
     },
     {
-      "id": 991494,
+      "id": 1084242,
       "type": "tmdb",
-      "title": "海绵宝宝：深海大冒险",
-      "originalTitle": "The SpongeBob Movie: Search for SquarePants",
-      "description": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
-      "releaseDate": "2025-12-16",
-      "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
-      "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.454,
+      "title": "疯狂动物城2",
+      "originalTitle": "Zootopia 2",
+      "description": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "releaseDate": "2025-11-26",
+      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+      "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
+      "rating": 7.6,
       "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1593221,
@@ -221,19 +221,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 科幻"
-    },
-    {
-      "id": 1084242,
-      "type": "tmdb",
-      "title": "疯狂动物城2",
-      "originalTitle": "Zootopia 2",
-      "description": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
-      "releaseDate": "2025-11-26",
-      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
-      "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "rating": 7.585,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1598997,
