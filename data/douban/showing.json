@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-26T08:31:37.106Z",
+  "time": "2026-01-26T17:33:09.917Z",
   "data": [
     {
       "id": 680493,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-01-21",
       "backdropPath": "/zWe8ynGlGH3KP896jHCemxnOvCo.jpg",
       "posterPath": "/mHEtettQs3qwX3IGT7KTwbxgaOL.jpg",
-      "rating": 5.279,
+      "rating": 5.2,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -23,7 +23,7 @@
       "releaseDate": "2026-01-19",
       "backdropPath": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
       "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-      "rating": 6.778,
+      "rating": 6.755,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -151,9 +151,9 @@
       "originalTitle": "Avatar: Fire and Ash",
       "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
       "releaseDate": "2025-12-17",
-      "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+      "backdropPath": "/3Dqievkc7krcTtDE2hjRkIsEzB1.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.308,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -179,7 +179,7 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
       "posterPath": "/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
-      "rating": 7.064,
+      "rating": 7.067,
       "mediaType": "movie",
       "genreTitle": "爱情, 喜剧"
     },
@@ -257,7 +257,7 @@
       "releaseDate": "2025-12-24",
       "backdropPath": "/yo41R39airbREp0PYfG30Ofxtgt.jpg",
       "posterPath": "/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "rating": 5.974,
+      "rating": 6,
       "mediaType": "movie",
       "genreTitle": "冒险, 喜剧"
     },
@@ -270,7 +270,7 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
       "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.525,
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -288,6 +288,19 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
+      "id": 1084242,
+      "type": "tmdb",
+      "title": "疯狂动物城2",
+      "originalTitle": "Zootopia 2",
+      "description": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
+      "releaseDate": "2025-11-26",
+      "backdropPath": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+      "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
+      "rating": 7.576,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
+    },
+    {
       "id": 1356454,
       "type": "tmdb",
       "title": "得闲谨制",
@@ -301,19 +314,6 @@
       "genreTitle": "剧情, 战争"
     },
     {
-      "id": 1084242,
-      "type": "tmdb",
-      "title": "疯狂动物城2",
-      "originalTitle": "Zootopia 2",
-      "description": "在《疯狂动物城2》中，警官兔朱迪（金妮弗·古德温 配音）与狐尼克（杰森·贝特曼 配音）这对备受全球观众喜爱的搭档将再度携手，带领观众重返充满活力的动物城，开启全新冒险。故事紧接前作，这对默契十足的搭档将直面职业与关系上的新挑战，揭开动物城深藏的秘密。",
-      "releaseDate": "2025-11-26",
-      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
-      "posterPath": "/YQildBNfvOR8IQiwFY66IzrT9z.jpg",
-      "rating": 7.571,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
-    },
-    {
       "id": 967941,
       "type": "tmdb",
       "title": "魔法坏女巫2",
@@ -322,7 +322,7 @@
       "releaseDate": "2025-11-19",
       "backdropPath": "/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
       "posterPath": "/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
-      "rating": 6.689,
+      "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "奇幻, 冒险"
     },
@@ -338,6 +338,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 科幻"
+    },
+    {
+      "id": 1620347,
+      "type": "tmdb",
+      "title": "改邪归正",
+      "originalTitle": "改邪归正",
+      "description": "乡村俩青年进城谋生，却因正直屡\"坏\"江湖事。他被捧为足坛新星，也因拒赌球险遭灭顶之灾。她被骗入审丑网红迷梦，身陷债务与阴谋。当一切崩塌，他联手警方布下巧局——以凡人之躯，向深渊亮剑。",
+      "releaseDate": "2026-01-23",
+      "backdropPath": null,
+      "posterPath": "/zwoZqoujfddCZiyHsccl8g9YjQC.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 爱情"
     },
     {
       "id": 838240,
@@ -387,9 +400,35 @@
       "releaseDate": "2025-11-12",
       "backdropPath": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
       "posterPath": "/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "rating": 6.577,
+      "rating": 6.6,
       "mediaType": "movie",
       "genreTitle": "惊悚, 犯罪"
+    },
+    {
+      "id": 1612059,
+      "type": "tmdb",
+      "title": "解决专家",
+      "originalTitle": "解决专家",
+      "description": "“解决专家”衣然英俊遇到罗师傅上门求助，罗师傅因跌打油遭诬告，其妹双双、盈盈为帮兄私自参加高颜奖金选美。衣然英俊携老孙、罗师傅追至赛场，与罗妹及中国选手徐菲组队，闯丛林、破庙宇机关，最终揭穿比赛的阴谋，助罗师傅渡过难关。",
+      "releaseDate": "2026-01-20",
+      "backdropPath": "/5MIKcaW4tErOUYjzR7gJqYB80rA.jpg",
+      "posterPath": "/tG18iQCVNvreHxS4FKk3lg1INZM.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动作"
+    },
+    {
+      "id": 1595386,
+      "type": "tmdb",
+      "title": "点到为止",
+      "originalTitle": "点到为止",
+      "description": "“象形拳”传人金毛（尹正 饰）因屡次逃赛被公众冠以假大师之名，却反而走红，也因此被资本选中，返乡打造功夫小镇。期间金毛和“忍术馆”馆长崇洋（黄才伦 饰）、“金武门”掌门传武（张一鸣 饰）三人爆笑出招，套路彼此。并通过一系列看似荒诞却颇有逻辑的操作使得功夫小镇大受好评。然而随着评选的日益临近，事情的真相却另有隐情……\r 　　影片改编自韩国电影《金馆长对金馆长对金馆长》。",
+      "releaseDate": "2025-12-27",
+      "backdropPath": "/f0DOAa29nQKSF2Hn28C1eW0dIDF.jpg",
+      "posterPath": "/oLPufSAGxCFbbKKVGEvjMqcLixh.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动作, 喜剧"
     },
     {
       "id": 1323410,
@@ -405,19 +444,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 878608,
-      "type": "tmdb",
-      "title": "狂野时代",
-      "originalTitle": "狂野时代",
-      "description": "在未来世界，人类以放弃梦境为代价换取永生。一名流亡者（易烊千玺 饰）在自己构建的迷醉世界中，寻觅幻觉、噩梦般的景象与美感。",
-      "releaseDate": "2025-11-22",
-      "backdropPath": "/2JcKTEP0L6EXk88ITGVGU4uo7hm.jpg",
-      "posterPath": "/eEviqb35JWvYSvHTtp31GGFCh7p.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 科幻"
-    },
-    {
       "id": 314388,
       "type": "tmdb",
       "title": "山河故人",
@@ -431,17 +457,43 @@
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 604865,
+      "id": 98344,
       "type": "tmdb",
-      "title": "星际变种",
-      "originalTitle": "星际变种",
-      "description": "2050年，地球上的迪希生物公司重金雇佣雷公号太空船，前往外太空搜捕外星生物——巴力。返回地球途中，船长儿子杰米无意将巴力释放，将雷公号上的人全部杀死。唯有杰米和船员寇克逃过一劫。\r 　　20年后，异形生物不断杀入地球重伤人类。迪希生物公司博士乔伊，在一次行动中认出了杰米并将他带回实验室。寇克在实验室出现，向杰米残忍的说明了20年前在空间站，自己利用他的好奇心把巴力放出来，杀死船员的故事。此时怪兽巴力脱离掌控，在实验室基地大肆杀戮。杰米如梦初醒，痛苦不已，决心报仇。\r 　　一场关乎人类命运的生死搏斗就此开始！",
-      "releaseDate": "2025-12-31",
-      "backdropPath": "/3WIVpgMilWN5z8U3FzScKBebser.jpg",
-      "posterPath": "/28gSNOFVuO3FCSqdu00Z5AC6Dqh.jpg",
-      "rating": 0,
+      "title": "赛德克·巴莱（上）",
+      "originalTitle": "賽德克‧巴萊：太陽旗",
+      "description": "本片根据雾社事件史实改编。  　　1895年，《马关条约》割让台湾之后，日本遂即武力接收台湾，宝岛各地纷纷被攻破。而台湾山区因道路不通，原住民生活尚暂未受影响，雾社地区的赛德克人之中，马赫坡年轻一代的莫那鲁道（游大庆 饰）英勇过人，率族群与甘卓万人争斗不休。日人垂涎雾社地区的 丰富资源，试图染指但遭到赛德克人强烈抵抗，伤亡惨重，然终于借原住民族群之间的互相仇杀侵入了雾社。莫那鲁道只得忍辱投降，但心中的火苗从未熄灭。时间推至1930年，日本对于雾社原住民的“文明改造”历经多年，日语等所谓文明并未给予原住民平等的生活，日人的欺压和繁重劳作侵蚀着赛德克人的传统和尊严，多年的愤怒累积，终于在这一年全面喷发！",
+      "releaseDate": "2011-09-09",
+      "backdropPath": "/ucoQdA7OTeGrhgVo0ii7rNEn2le.jpg",
+      "posterPath": "/mrdrts2XXkJHg24I0CqhUWNUh40.jpg",
+      "rating": 7.263,
       "mediaType": "movie",
-      "genreTitle": "科幻, 恐怖"
+      "genreTitle": "剧情, 动作"
+    },
+    {
+      "id": 1172265,
+      "type": "tmdb",
+      "title": "天空的另一面",
+      "originalTitle": "O Último Azul",
+      "description": "巴西政府以经济复苏之名，为 80 岁以上的老年人设立了一个永久性的强制垂直隔离制度，将他们安置在一个隔离区。77 岁的特卡住在亚马逊地区的穆里蒂村，当得知年龄限制降低，自己也被包括在内时，她惊呆了。走投无路之下，特卡踏上了一段隐秘的旅程，避开官员的追捕，穿梭于河流、船只和地下世界之间，试图秘密实现自己最后的愿望——坐一次飞机。",
+      "releaseDate": "2025-08-28",
+      "backdropPath": "/2UXrkv2G1aXMyn3VY70krD9Anid.jpg",
+      "posterPath": "/4LV2kTS54D7v1da2ooQ8knhptLh.jpg",
+      "rating": 7.269,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 科幻"
+    },
+    {
+      "id": 991262,
+      "type": "tmdb",
+      "title": "内幕",
+      "originalTitle": "內幕",
+      "description": "著名慈善基金会“济拔堂”一年一度的慈善晚会，可谓高朋云集、花团锦簇。正当主席高盛文准备发表年度致辞时，基金会财务总监杨滔突然离奇吊死在舞台上！疑云笼罩之下，关于济拔堂内部有2亿善款不翼而飞的传言甚嚣尘上，引起全社会关注。重重谜团令大律师马迎风与警长柯定邦在机缘巧合下组成临时拍档，携手调查这起慈善案的幕后真相。他们能否揭开隐藏在慈善背后的层层黑幕，还社会以公义吗？",
+      "releaseDate": "2025-12-05",
+      "backdropPath": "/gadbee46WGw74n8Ce6oomB0Ti7z.jpg",
+      "posterPath": "/kB7o9D6X0itwwL0l9fDWRZdmCcB.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "犯罪"
     },
     {
       "id": 25050,
@@ -470,45 +522,6 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 31512,
-      "type": "tmdb",
-      "title": "被嫌弃的松子的一生",
-      "originalTitle": "嫌われ松子の一生",
-      "description": "有一天父亲（香川照之饰）突然来找阿笙（瑛太饰），告诉他有个素未谋面的姑姑死了，叫他去收拾下姑姑的房子。在河边的破烂小屋里，阿笙渐渐开始了解父亲口中的姑姑，到底有着怎样的一生。\r 小时候的姑姑川尻松子（中谷美纪饰）经常做着白雪公主似的美梦，她后来成为一名安分的中学教师，却因百口莫辩的误会被辞退了，之后和一作家同居，作家却因为太爱她而选择自杀，死前留下遗言：“生而为人，我很抱歉”。\r 这件事对松子打击极大；之后与该作家的事业敌人同居直至，又忍受不住去找对方妻子的诱惑，结果惨遭抛弃；又是当上浴室女郎，甚至还杀人入狱，然而不管有意无意，她从不放弃生活的希望。不管生活再怎样破碎，她仍然本能地生存下去，这生存本身，足以打动任何人，包括阿笙。",
-      "releaseDate": "2006-05-27",
-      "backdropPath": "/4stepMoz737edm7Tb5Y9C5o8cJs.jpg",
-      "posterPath": "/bmDtqKw3kuaS3bLlCXZKkPs9MpQ.jpg",
-      "rating": 7.791,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1609495,
-      "type": "tmdb",
-      "title": "盖世神功",
-      "originalTitle": "盖世神功",
-      "description": "70年代，洪英真出⽣在H国华⼈街的武林世家“洪刀门”，因成⻓过程⼀事⽆成被众⼈戏称为“废柴”。  　　⼀次机会，洪英真偶遇⽼同学包掂并认识了“忠孝堂”豹哥，卷⼊⼀场阴谋当中。⽽武林⾼⼿“⽆尘”⼀早看穿洪英真是潜在练武奇才，于是打通其筋脉。  　　洪英真迫听⽆尘的建议躲到和平村。在和平村⾥，洪英真阴差阳错惹上恶霸林⼤爷。万万没想到林⼤爷的⼉⼦竟然是豹哥，于是洪英真与豹哥的恩怨⼜再次拉开……",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/uSXacEXAaDEFMT0e07vfr4l4OJd.jpg",
-      "posterPath": "/3ET7jYxEDAKAfZuM1JgaFkh0ugm.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
-    },
-    {
-      "id": 30017,
-      "type": "tmdb",
-      "title": "特写",
-      "originalTitle": "کلوزآپ ، نمای نزدیک",
-      "description": "国际影坛备受尊崇的伊朗导演阿巴斯·基亚罗斯塔米，在过去三十年间创造了最具独创性与超越性的电影诗篇，而本片正是他最大胆、最杰出的作品。这部纪实与虚构交融的杰作，以一桩轰动社会的真实事件——青年因冒充著名导演莫森·玛克玛尔巴夫涉嫌欺诈被捕——为基底，展开一场对电影本质、身份认同、艺术创造与生命存在的震撼的多维度审视。案件中所有真实人物在片中扮演自身，使得影片以其普世主题与迷人的叙事迷宫，引发了全球观众超越地域与文化的深切共情。[标准收藏]",
-      "releaseDate": "1990-02-01",
-      "backdropPath": "/3t1qZqP1e17wQshpPKSqII1OogM.jpg",
-      "posterPath": "/p4hVFDdeSRnsaiEhQE5UsAm7nqT.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
-    },
-    {
       "id": 147,
       "type": "tmdb",
       "title": "四百击",
@@ -517,9 +530,22 @@
       "releaseDate": "1959-06-03",
       "backdropPath": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
       "posterPath": "/nHZQrKd96pCytnuTCsFibhrRyIR.jpg",
-      "rating": 8.022,
+      "rating": 8.021,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 313230,
+      "type": "tmdb",
+      "title": "赛德克·巴莱（下）",
+      "originalTitle": "賽德克‧巴萊：彩虹橋",
+      "description": "莫那鲁道（林庆台 饰）率领族人在公学斩杀异族血祭祖灵后，拥有了通过彩虹桥的资格，剩下来的，就是在英勇战斗后从容赴死。在日本方面，雾社的消息很快传达各处，陆军少将镰田弥彦率军队与警察组成的联合部队，迅速发起讨伐。马赫坡等社分头行动，利用地形优势和灵活战术给予日军先头部队重大杀伤。山地警小岛（安藤政信 饰）利用个人威望和部族矛盾成功劝说铁木瓦力斯（马志翔 饰）连同部落加入日军阵营，协助围攻莫那鲁道。在开战初期，随部落向密林转移的妇孺为了不拖累战士们，纷纷自尽，在矛盾中痛苦的一郎亦选择了切腹。镰田弥彦对部队的缓慢推进大为光火，不惜使用糜烂性炸弹对付赛德克人。满山火光中，莫那鲁道迎来了最后决战的时刻……",
+      "releaseDate": "2011-09-30",
+      "backdropPath": "/5YbJULkUKodLwtIVInhmiHCZlyt.jpg",
+      "posterPath": "/pSFbOg75xXBkC3stjsiBI2QS7uW.jpg",
+      "rating": 8.034,
+      "mediaType": "movie",
+      "genreTitle": "动作, 剧情"
     },
     {
       "id": 68004,
@@ -533,6 +559,19 @@
       "rating": 7.232,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 10191,
+      "type": "tmdb",
+      "title": "驯龙高手",
+      "originalTitle": "How to Train Your Dragon",
+      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
+      "releaseDate": "2010-03-18",
+      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
+      "rating": 7.855,
+      "mediaType": "movie",
+      "genreTitle": "奇幻, 冒险"
     },
     {
       "id": 1406277,
@@ -574,56 +613,82 @@
       "genreTitle": "纪录, 音乐"
     },
     {
-      "id": 176628,
+      "id": 1588137,
       "type": "tmdb",
-      "title": "哀乐中年",
-      "originalTitle": "哀樂中年",
-      "description": "1920或30年代的上海。创办小学多年并自任校长的陈绍常（石挥）早年丧妻，独自抚养两子建中、建平和一女建英。与他一起生活的大姐劝他续弦，他虽也有心，却因目睹挚友的爱女刘敏华备受后母虐待，断了念头。不久，挚友亡故，敏华辞别他后随后母迁居外地，一别十年。两人再见面时，敏华（朱嘉琛）已成长为独立自强却不失贤淑的新女性，因不愿再受后母摆布，她拜托绍常介绍一份工作。随后，她成为绍常的同事。成年的建中（韩非）如愿以偿成为某家银行的职员，因得经理赏识，他结识其女冯丽君（李浣青），很快变作其乘龙快婿，社会地位日益提高。建中夫妇认为绍常卑微的小学校长身份丢了他们的脸，劝他退休在家做老太爷，绍常虽一百个不情愿，却也乖乖听命。敏华接下他的工作。只是赋闲在家的日子不好过，每日时间都似他那块坏掉了的老怀表般静止不动。而将无聊心情讲给家人听时，家人或怨他有福不懂享、或自忙自事无暇顾他，他的失落一日多过一日，与建中夫妇的矛盾亦越来越多。又到一年清明时，拜祭亡妻时，绍常遇见前来祭母的敏华，感慨人到老年只能等死，敏华却认为人在中年的他正处于事业的黄金期，劝他再回学校教书。而听从敏华建议偷偷瞒着建中再回学校教书一事漏泄后，建中对他的态度更加冷淡，但他已铁了心。“天意怜幽草，人间爱晚晴”，其后，他无意间发现自己与敏华早已两情相悦，决定与她结婚，此事更令建中夫妇大为恼火。",
-      "releaseDate": "1949-01-03",
-      "backdropPath": "/obMYAXlMBGCitxrduWFpKuqP52Z.jpg",
-      "posterPath": "/AqCK01SRpb7X2vQtTMq0rUpqjHI.jpg",
-      "rating": 8.3,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 喜剧"
-    },
-    {
-      "id": 104,
-      "type": "tmdb",
-      "title": "罗拉快跑",
-      "originalTitle": "Lola rennt",
-      "description": "罗拉（弗兰卡•波滕特 饰）和曼尼（莫里兹•克雷多 饰）是一对年轻的恋人，其中曼尼是一个不务正业的小混混，而罗拉则是相信“天大的事情有爱情顶着”的爱情至上主义者。\r 　　一天，曼尼为老大完成一项钻石交易，带着装有10万马克的钱袋等候罗拉的接应，然而罗拉的自行车被人抢走，耽误了约定的接应时间，曼尼只好乘地铁回去。在地铁车厢里，曼尼扶起身边的乞丐，同时，看见两名警察向他走来。慌乱中，曼尼下了车，竟然把钱袋忘在了车厢里。显然，钱袋被乞丐拿走了。此时距离曼尼和老大约定见面交钱的时间只剩下20分钟，如果20分钟之内筹集不到10万马克，曼尼就会被老大杀死。走投无路的曼尼打电话向罗拉求救，如果罗拉20分钟之内不能赶到，曼尼只能铤而走险抢劫电话亭对面的超市。\r 　　考验罗拉爱情的时候到了，为了在20分钟内筹到10万马克，救出曼尼，她狂奔在向银行家父亲求助的路上。",
-      "releaseDate": "1998-08-20",
-      "backdropPath": "/wRcm3iwi4BeMN59U4fjO7u3dOVI.jpg",
-      "posterPath": "/o7VM8ohqXK6JEAvglJ304xNzIaE.jpg",
-      "rating": 7.299,
-      "mediaType": "movie",
-      "genreTitle": "动作, 剧情"
-    },
-    {
-      "id": 195237,
-      "type": "tmdb",
-      "title": "城南旧事",
-      "originalTitle": "城南旧事",
-      "description": "二十世纪二十年代末，年幼而敏感的少女英子居住在北京城南。她穿梭于京城的街巷与人群之间，透过清澈的双眼，试图看清人们内在的真实面貌。",
-      "releaseDate": "1983-11-15",
-      "backdropPath": "/5mO9ASmIVJL5hfJXrxE9zw2j0Xg.jpg",
-      "posterPath": "/rRVAOXMCgvLN3Hl2UoScviwIZL.jpg",
-      "rating": 7.69,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1570262,
-      "type": "tmdb",
-      "title": "开心岭",
-      "originalTitle": "开心岭",
-      "description": "该电影关注“云端天路”背后的无名英雄，首次将镜头对准海拔4200米的“开心岭”信号工区，揭秘铁路系统“神经末梢”的守护传奇。影片通过复员军人第五小军（卢祈炽 饰）与铁道兵出身的老信号工杨震山（巫刚 饰）的师徒羁绊，串联起暴风雪抢险、狼群夜袭、设备升级等真实事件，讲述雪域高原上两代铁路人坚守与传承的动人故事。",
-      "releaseDate": "2025-11-21",
-      "backdropPath": "/ukRRlG3aXyrTVipc1irBkPj3IfM.jpg",
-      "posterPath": "/fjIW5dOdBMFefvhAWut4DfGRKPa.jpg",
+      "title": "遥远的普若岗日",
+      "originalTitle": "遥远的普若岗日",
+      "description": "天湖县各族干部，在海拔5000米以上的“人类生存极限试验场”，为了1.3万名牧民群众，付出了巨大的牺牲，经过多年奋斗和尝试，在国家极高海拔生态扶贫搬迁的英明决策下，带着全县人民重返人间。",
+      "releaseDate": "2025-12-16",
+      "backdropPath": "/1lbiQoBm116qlMcjCHSOuOmvzdD.jpg",
+      "posterPath": "/f7c7vXhC9WPGTeCcTUnL4CtAA2g.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1561693,
+      "type": "tmdb",
+      "title": "最好的朋友",
+      "originalTitle": "最好的朋友",
+      "description": "有的人青春注定孤单，直到他们相遇。一个独来独往的问题高中生，一个被锁在家里的自闭症少年，一个从小被单亲家庭领养的使命少女，要演出一场不可能完成的魔术。",
+      "releaseDate": "2025-12-05",
+      "backdropPath": "/uQwjajJ4AADXH2UUgE68WwvcTu0.jpg",
+      "posterPath": "/3GTuEsXgutcFkLFRyEVIIqzfViL.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1599011,
+      "type": "tmdb",
+      "title": "中华白海豚",
+      "originalTitle": "中华白海豚",
+      "description": "纪录电影《中华白海豚》聚焦 “海上大熊猫”全球仅存 6000 头的中华白海豚，既是展现其生存史诗的视觉盛宴，更是人与濒危生灵关于生命敬畏与生态坚守的真诚对话。 影片以一头名为\"珠珠\"的中华白海豚为主角，历时多年记录，从2012年它在“妈祖诞”出生于珠江口，到因港珠澳大桥建设被迫西迁，最终重返故乡的完整生命历程。 摄制组历经3600 海里的追踪“海上大熊猫”迁徙足迹，通过一批科研工作者长达数十年的坚持，一同探寻中华白海豚的演化奇迹：它们用6000万年从陆地走向海洋，皮肤随年龄由灰变白，拥有\"半脑睡眠\"的独特生理机制。 2025年，当\"珠珠\"携族群重返珠江口，当中华白海豚成为第十五届全运会吉祥物，这条\"海洋丝带\"终于串联起人与自然和谐共生的美好愿景。 影片用82分钟的深情凝视，诠释了\"万物相依，生命如海\"的深刻主题。",
+      "releaseDate": "2025-12-12",
+      "backdropPath": "/gnlT1FqTEwJSVVu0NE0F4awOxA0.jpg",
+      "posterPath": "/gkiEcRBzdFkByohtj9vuXe64zbt.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 1002640,
+      "type": "tmdb",
+      "title": "Secrets of the Sea",
+      "originalTitle": "Secrets of the Sea",
+      "description": "",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 528112,
+      "type": "tmdb",
+      "title": "提托与鸟儿们",
+      "originalTitle": "Tito e os Pássaros",
+      "description": "提托是个害羞的十岁男孩，和母亲住在一起。突然间，一种闻所未闻的流行病开始蔓延——人们只要感到恐惧，就会生病。疫情蔓延全城，社会陷入恐慌之中，传染病愈发肆虐。提托很快发现这种病的治疗方法与他失踪的父亲对鸟叫声的研究有关。他和朋友们——坚强无畏的莎拉、朴实而谦逊的布伊、傲慢却乐于助人的富家子弟提奥以及他的跟班——开始了一段拯救世界的旅程。提托对于解药的研究过程也是寻找失踪的父亲和个人身份的过程，而提托与朋友、家人及对手之间的关系也是影片中的吸睛之处。",
+      "releaseDate": "2019-02-14",
+      "backdropPath": "/mV1WQuioLngImdZbUQjtuuX8Eo7.jpg",
+      "posterPath": "/pbsAJvsxGqeQKLSfXiqSiWmxQC0.jpg",
+      "rating": 6.4,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
+    },
+    {
+      "id": 829424,
+      "type": "tmdb",
+      "title": "森林奇旅",
+      "originalTitle": "Perlimps",
+      "description": "来自太阳王国的使者小狐狸克莱，和来自月亮王国的使者小熊布诺，为了寻找传说中的精灵力量，在充满传说的古老森林狭路相逢。森林外的世界已经被好战的巨人占据，古老森林也被巨人继续侵蚀，上古的精灵是拯救世界的唯一希望。两个小使者从彼此戒备到互相帮助，在美丽奇幻的森林里历险，寻找着精灵的线索。当他们从巨鸟那里得到了最重要的线索时，巨人正要毁掉这片最后的森林。克莱和布诺突然明白了精灵的力量在哪里。",
+      "releaseDate": "2023-01-18",
+      "backdropPath": "/cLvqmozY9pJX46rVDQWjhUndGed.jpg",
+      "posterPath": "/fhb1IwiU2vO1MXMYRRIjF5NPAXt.jpg",
+      "rating": 6.4,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
     }
   ]
 }
