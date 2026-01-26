@@ -1,4 +1,5 @@
-import { getDoubanSubjectCollectionData } from "./utils.ts";
+import { writeJsonFile } from "../common.ts";
+import { getDoubanSubjectCollectionData } from "../douban.ts";
 
 const CONFIG = {
   name: "Top250",
@@ -10,16 +11,12 @@ const CONFIG = {
 
 async function update() {
   const startTime = Date.now();
-  console.log(`豆瓣电影 ${CONFIG.name} 更新开始`);
-
+  console.log(`豆瓣 ${CONFIG.name} 更新开始`);
   const data = await getDoubanSubjectCollectionData(CONFIG.subject, CONFIG.start, CONFIG.count);
   const time = new Date(startTime).toISOString();
-  const jsonData = JSON.stringify({ time, data }, null, 2);
-
-  await Deno.writeTextFile(CONFIG.outputPath, jsonData + "\n");
-
+  await writeJsonFile(CONFIG.outputPath, { time, data });
   const endTime = Date.now();
-  console.log(`豆瓣电影 ${CONFIG.name} 更新完成，耗时 ${(endTime - startTime) / 1000} 秒`);
+  console.log(`豆瓣 ${CONFIG.name} 更新完成，耗时 ${(endTime - startTime) / 1000} 秒`);
 }
 
 update();

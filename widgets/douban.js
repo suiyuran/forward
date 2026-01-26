@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "豆瓣",
   description: "获取豆瓣的榜单数据",
   requiredVersion: "0.0.1",
-  version: "1.0.2",
+  version: "1.0.3",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -12,6 +12,47 @@ WidgetMetadata = {
       title: "正在上映",
       functionName: "showing",
       params: [],
+    },
+    {
+      id: "weekly",
+      title: "周榜",
+      functionName: "weekly",
+      params: [
+        {
+          name: "type",
+          title: "类型",
+          type: "enumeration",
+          enumOptions: [
+            {
+              title: "电影",
+              value: "电影",
+            },
+            {
+              title: "剧集",
+              value: "剧集",
+            },
+          ],
+        },
+        {
+          name: "country",
+          title: "国家",
+          type: "input",
+          belongTo: {
+            paramName: "type",
+            value: ["剧集"],
+          },
+          placeholders: [
+            {
+              title: "国内",
+              value: "国内",
+            },
+            {
+              title: "国外",
+              value: "国外",
+            },
+          ],
+        },
+      ],
     },
     {
       id: "theater",
@@ -56,6 +97,19 @@ async function showing() {
   try {
     const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/douban/showing.json";
     return (await Widget.http.get(url)).data.data;
+  } catch (error) {
+    return [];
+  }
+}
+
+async function weekly(params) {
+  try {
+    const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/douban/weekly.json";
+    const data = (await Widget.http.get(url)).data.data;
+    const type = params.type || "电影";
+    const country = type === "电影" ? "" : params.country || "国内";
+    const name = `${type}周榜` + (country ? `·${country}` : "");
+    return data[name] || [];
   } catch (error) {
     return [];
   }

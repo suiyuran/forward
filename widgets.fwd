@@ -17,7 +17,7 @@
       "title": "豆瓣",
       "description": "获取豆瓣的榜单数据",
       "requiredVersion": "0.0.1",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": "suiyuran",
       "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/douban.js"
     },

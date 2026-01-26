@@ -314,7 +314,9 @@ function splitTitle(title) {
 function resolveResource(resource) {
   return resource.episodes.map((ep) => {
     const name = ep.title.replace("HD", "") || "正片";
-    const description = [resource.title, "-----", resource.description || "暂无简介", "-----", "1080p|aac"].join("\n");
+    const info = resource.description || "暂无简介";
+    const quality = "1080p|aac";
+    const description = [resource.title, "-----", info, "-----", quality].join("\n");
     return { name, description, url: ep.url };
   });
 }

@@ -1,28 +1,30 @@
 import { writeJsonFile } from "../common.ts";
-import { getDoubanDoulistData } from "../douban.ts";
-import { sortByReleaseDate, TMDBTransformedResult } from "../tmdb.ts";
+import { getDoubanSubjectCollectionData } from "../douban.ts";
+import { TMDBTransformedResult } from "../tmdb.ts";
 
 const CONFIG = {
-  name: "剧场",
+  name: "周榜",
   items: [
     {
-      name: "爱奇艺 迷雾剧场",
-      id: "128396349",
+      name: "电影周榜",
+      subject: "movie_weekly_best",
+      start: 0,
+      count: 10,
     },
     {
-      name: "优酷 白夜剧场",
-      id: "158539495",
+      name: "剧集周榜·国内",
+      subject: "tv_chinese_best_weekly",
+      start: 0,
+      count: 10,
     },
     {
-      name: "芒果 季风剧场",
-      id: "153511846",
-    },
-    {
-      name: "腾讯 X剧场",
-      id: "155026800",
+      name: "剧集周榜·国外",
+      subject: "tv_global_best_weekly",
+      start: 0,
+      count: 10,
     },
   ],
-  outputPath: "./data/douban/theater.json",
+  outputPath: "./data/douban/weekly.json",
 };
 
 async function update() {
@@ -32,8 +34,8 @@ async function update() {
 
   for (const item of CONFIG.items) {
     console.log(`- ${item.name}`);
-    const data = await getDoubanDoulistData(item.id, 0);
-    result[item.name] = data.sort(sortByReleaseDate);
+    const data = await getDoubanSubjectCollectionData(item.subject, item.start, item.count);
+    result[item.name] = data;
   }
   const time = new Date(startTime).toISOString();
   await writeJsonFile(CONFIG.outputPath, { time, data: result });

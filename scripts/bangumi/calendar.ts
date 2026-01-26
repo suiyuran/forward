@@ -1,11 +1,6 @@
 import { DOMParser } from "@b-fuze/deno-dom";
-import {
-  findTMDBResultsByIMDBId,
-  isAvailableTMDBResult,
-  searchTMDBResults,
-  TMDBTransformedResult,
-  UA,
-} from "../common.ts";
+import { UA, writeJsonFile } from "../common.ts";
+import { findTMDBResultsByIMDBId, isAvailableTMDBResult, searchTMDBResults, TMDBTransformedResult } from "../tmdb.ts";
 
 const SEASON_REGEXP =
   /(?<!^)((((3rd|Final) )?(Season|Volume) ?[0-9]*|Prelude)|(第?([0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(终|終))((季|期)|(部分|クール)|(之|ノ)?章|シリーズ|(篇|編))|[0-9]+$)/gi;
@@ -32,8 +27,7 @@ function handleTitle(title: string) {
 async function main() {
   const startTime = Date.now();
   const year = new Date(startTime).getFullYear().toString();
-  console.log(`Bangumi 每日放送 更新开始`);
-
+  console.log("Bangumi 每日放送 更新开始");
   const domParser = new DOMParser();
   const url = "https://bangumi.tv/calendar";
   const headers = { "User-Agent": UA };
@@ -50,36 +44,25 @@ async function main() {
       const day = dayElement.textContent.trim();
       calendar[day] = [];
       console.log(`- ${day}`);
-
       const items = weekElement.querySelectorAll(".info");
 
       for (const item of items) {
-        const titleElement = item.querySelector("p:first-child>a");
+        const title = item.querySelector("p:first-child>a")?.textContent.trim() || "";
+        const originalTitle = item.querySelector("small>em")?.textContent.trim() || "";
 
-        if (!titleElement) {
+        if (!title || !originalTitle) {
           continue;
         }
-        const title = titleElement.textContent.trim();
-
-        if (!title) {
-          continue;
-        }
-        console.log(`  - 动画: ${title}`);
-        const originalTitleElement = item.querySelector("small>em");
-
-        if (!originalTitleElement) {
-          continue;
-        }
-        const originalTitle = originalTitleElement.textContent.trim();
-        console.log(`    动画原名: ${originalTitle}`);
         const name = handleTitle(title);
-        console.log(`    剧集: ${name}`);
         const originalName = handleTitle(originalTitle);
+        console.log(`  - 动画: ${title}`);
+        console.log(`    动画原名: ${originalTitle}`);
+        console.log(`    剧集: ${name}`);
         console.log(`    剧集原名: ${originalName}`);
 
         if (name in TITLE_RECORD) {
           const imdbId = TITLE_RECORD[name];
-          const findResults = await findTMDBResultsByIMDBId(imdbId);
+          const findResults = await findTMDBResultsByIMDBId(imdbId, "tv");
 
           if (findResults.length > 0) {
             const findResult = findResults[0];
@@ -88,7 +71,7 @@ async function main() {
             if (isAvailableTMDBResult(findResult)) {
               calendar[day].push(findResult);
             } else {
-              console.log(`    TMDB 结果缺少必要信息，跳过`);
+              console.log("    TMDB 结果缺少必要信息，跳过");
             }
             continue;
           }
@@ -99,29 +82,20 @@ async function main() {
         if (availableResults.length === 1) {
           const onlyResult = availableResults[0];
           console.log(`    TMDB ID: ${onlyResult.id}`);
-
-          if (isAvailableTMDBResult(onlyResult)) {
-            onlyResult.mediaType = "tv";
-            calendar[day].push(onlyResult);
-          } else {
-            console.log(`    TMDB 结果缺少必要信息，跳过`);
-          }
+          calendar[day].push(onlyResult);
           continue;
         }
         if (availableResults.length > 1) {
-          console.log(`    找到多个匹配的 TMDB 结果，需要进一步筛选`);
+          console.log("    找到多个匹配的 TMDB 结果，需要进一步筛选");
           continue;
         }
-        console.log(`    未找到匹配的 TMDB 结果`);
+        console.log("    未找到匹配的 TMDB 结果");
       }
     }
   }
 
   const time = new Date(startTime).toISOString();
-  const jsonData = JSON.stringify({ time, data: calendar }, null, 2);
-
-  await Deno.writeTextFile("./data/bangumi/calendar.json", jsonData + "\n");
-
+  await writeJsonFile("./data/bangumi/calendar.json", { time, data: calendar });
   const endTime = Date.now();
   console.log(`Bangumi 每日放送 更新完成，耗时 ${(endTime - startTime) / 1000} 秒`);
 }
