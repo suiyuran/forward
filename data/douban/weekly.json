@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-26T12:30:13.596Z",
+  "time": "2026-01-26T20:12:41.301Z",
   "data": {
     "电影周榜": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
         "posterPath": "/ptMhBAOi5La3NYLX2nWQFMzkXVL.jpg",
-        "rating": 7.73,
+        "rating": 7.705,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-11-20",
         "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
         "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.771,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -168,7 +168,7 @@
         "description": "登州城上空常现神秘蜃景，女捉刀人曾倩携弟曾信押犯途经，因揭下 “侠盗” 夜魈的通缉令，意外卷入风波。城内怪事频发，百姓莫名失踪，蜃景落地又升空，铁甲巨人突然现身。曾倩为寻失踪的曾信，与智谋过人的曹晟、身份成谜的夜魈，以及骄横却有绝技的谢景棠等人被迫联手。在主角团合作中，众人破除误会、寻找真相，既要对抗未知势力，又要在亲情、友情与大义间抉择，揭开这场围绕蜃楼的奇幻迷局。",
         "releaseDate": "2025-12-19",
         "backdropPath": "/l0vi8Gc2vGQ5CiFULe0Mj6yhCE8.jpg",
-        "posterPath": "/c5P9uHlI7gfZ4S6viSh6md0TqXZ.jpg",
+        "posterPath": "/tE7rm2kTKy0QsdL2p6lzvsVMvGX.jpg",
         "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 8.6,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2025-12-06",
         "backdropPath": "/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
         "posterPath": "/6ADirWn2n3I4oGfLrr3RmCZE2UN.jpg",
-        "rating": 8.294,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2025-11-06",
         "backdropPath": "/m96iaX6b4bKaD9xME9JOQghBrqC.jpg",
         "posterPath": "/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-        "rating": 7.939,
+        "rating": 7.936,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2025-11-15",
         "backdropPath": "/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
         "posterPath": "/pEKgBPrLN7x8fAZKjzN8NayQHiW.jpg",
-        "rating": 8.7,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
