@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-26T20:12:41.301Z",
+  "time": "2026-01-27T20:11:44.842Z",
   "data": {
     "电影周榜": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2025-09-22",
         "backdropPath": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
         "posterPath": "/tiz61UHqChQEsoJRMG3KRR219rd.jpg",
-        "rating": 7.929,
+        "rating": 7.93,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
         "posterPath": "/ptMhBAOi5La3NYLX2nWQFMzkXVL.jpg",
-        "rating": 7.705,
+        "rating": 7.697,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/yZKLgaHKmJCrMsg5e1naV4JqY6b.jpg",
         "posterPath": "/s1TC3QebWWWJ6CceqbBgAvJde8t.jpg",
-        "rating": 8.1,
+        "rating": 8.203,
         "mediaType": "movie",
         "genreTitle": "纪录, 战争"
       },
@@ -62,8 +62,8 @@
         "description": "巴西政府以经济复苏之名，为 80 岁以上的老年人设立了一个永久性的强制垂直隔离制度，将他们安置在一个隔离区。77 岁的特卡住在亚马逊地区的穆里蒂村，当得知年龄限制降低，自己也被包括在内时，她惊呆了。走投无路之下，特卡踏上了一段隐秘的旅程，避开官员的追捕，穿梭于河流、船只和地下世界之间，试图秘密实现自己最后的愿望——坐一次飞机。",
         "releaseDate": "2025-08-28",
         "backdropPath": "/2UXrkv2G1aXMyn3VY70krD9Anid.jpg",
-        "posterPath": "/4LV2kTS54D7v1da2ooQ8knhptLh.jpg",
-        "rating": 7.269,
+        "posterPath": "/1q2kNizeHMPBRxvJOWdwRzKLo3x.jpg",
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "剧情, 科幻"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-11-20",
         "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
         "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.8,
+        "rating": 7.781,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-10-09",
         "backdropPath": "/fe0UhbWWZgAFHL1OuHmLUFPE5hb.jpg",
         "posterPath": "/n1szx0bfFkNrmOPgQUlqQJfFQwY.jpg",
-        "rating": 7.1,
+        "rating": 7.129,
         "mediaType": "movie",
         "genreTitle": "喜剧, 犯罪"
       },
@@ -126,7 +126,7 @@
         "originalTitle": "Franz",
         "description": "一部关于20世纪捷克标志性作家弗朗茨·卡夫卡的传记片。影片以万花筒般的拼贴手法构建而成，追随卡夫卡留下的足迹——从19世纪的布拉格出发，直至他在维也纳辞世，时间跨度涵盖第一次世界大战及之后。",
         "releaseDate": "2025-09-25",
-        "backdropPath": "/7cngyZFSJmIB6bjKP16SAfuJJz3.jpg",
+        "backdropPath": "/nXqRGRhFxa3v5rJsJUApYdKdiKu.jpg",
         "posterPath": "/q2cxchZPC6a9hv13inC885iaKLo.jpg",
         "rating": 5.8,
         "mediaType": "movie",
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 8.7,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2025-11-28",
         "backdropPath": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
         "posterPath": "/j5iwP8Drc7J7osQGDpc0IdE0Pu5.jpg",
-        "rating": 8.8,
+        "rating": 8.772,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.9,
+        "rating": 8.889,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2025-11-06",
         "backdropPath": "/m96iaX6b4bKaD9xME9JOQghBrqC.jpg",
         "posterPath": "/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-        "rating": 7.936,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2025-10-27",
         "backdropPath": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
         "posterPath": "/vytkrWR9TWThsgGiin8boRJwWXA.jpg",
-        "rating": 8.4,
+        "rating": 8.261,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
