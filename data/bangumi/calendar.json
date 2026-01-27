@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-26T16:29:30.110Z",
+  "time": "2026-01-27T16:26:14.659Z",
   "data": {
     "星期日": [
       {
@@ -63,7 +63,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 9.3,
+        "rating": 9.333,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5MzPjgDGy2m0tSrIQL2LXJOdu3.jpg",
         "posterPath": "/34BOr3Gwk6XUQG32mXzqhyzeAcL.jpg",
-        "rating": 6.5,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -113,7 +113,7 @@
         "originalTitle": "勇者パーティを追い出された器用貧乏",
         "description": "“奥伦·杜勒，限你在今天内离开队伍”奥伦因队伍的需要，从剑士，转职成为了并非本职的赋予术士。这样的他在一天突然收到的是，因实力不足而开除的通知。不管是身体素质，还是能使用的魔术都是平均水平，没有什么突出的东西——。而这样的奥伦的优点是，能够将就算是凡人只要努力就能习得的技术，全部都学会——正所谓“泛而不精”。在独自开始重新活动后，奥伦从赋予术士转职回了剑士。不过，赋予术士绝对不是白当的。在勇者队伍时代培养的知识、经验，以及开发出的数个原创魔术，让奥伦成长为了强得脱离常识的剑士……？！",
         "releaseDate": "2026-01-04",
-        "backdropPath": "/swefPajdX6SMpxAdfm3qoaTyZYV.jpg",
+        "backdropPath": "/1nt43fq7CKbqAJAospEo63vYXBV.jpg",
         "posterPath": "/4krFgYKveJfBPrrG8RHUkk2DcCn.jpg",
         "rating": 8.1,
         "mediaType": "tv",
@@ -141,7 +141,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/6Eg3t2KdtqiF29G7a7S1Npl93g8.jpg",
         "posterPath": "/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg",
-        "rating": 8.9,
+        "rating": 8.75,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -211,19 +211,6 @@
         "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
-      },
-      {
-        "id": 312386,
-        "type": "tmdb",
-        "title": "史上最强炼体老祖",
-        "originalTitle": "史上最强炼体老祖",
-        "description": "炼体老祖叶苍玄以肉身之力无敌当世，轻松渡劫飞升神界，却因见到九玄大陆灭亡命数，遂决定重返九玄。彼时六大宗门分崩离析，外域邪魔蛰伏待发，于暗处搅动风云。而叶苍玄的逆天改命之途也由此开始，统六宗、闯蛮州、入仙魔、诛邪魔、逆神界，最后与天争雄！",
-        "releaseDate": "2026-01-26",
-        "backdropPath": "/lbBT3EuiJyo5UQkjsnSTbFQFecf.jpg",
-        "posterPath": "/11sbqA1ICeGv7JmHxZIQXzafGnl.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": ""
       },
       {
         "id": 229443,
@@ -314,7 +301,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/fgESwlxIp0XTgjwKjdxaNQJmh2q.jpg",
         "posterPath": "/bJib1vcONheAXy4WbxJCVc2QWct.jpg",
-        "rating": 8.3,
+        "rating": 8.214,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -340,7 +327,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/7Wx1Io7Ml7ZUtf8XXsKLMBrj0lx.jpg",
         "posterPath": "/ww22xRvVd8LUOJ98jExijU73j25.jpg",
-        "rating": 8.7,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -366,7 +353,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/fikx5FofgLjNvyGORxdB4R2wxsE.jpg",
         "posterPath": "/gQDsN26g7RUibJJcgWzPvc0iTnb.jpg",
-        "rating": 8.8,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
@@ -381,7 +368,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.723,
+        "rating": 8.722,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -513,7 +500,7 @@
         "releaseDate": "2024-01-04",
         "backdropPath": "/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
         "posterPath": "/bAvclqxxYczAgyd1WfCSLrGOYpk.jpg",
-        "rating": 7.705,
+        "rating": 7.734,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -604,7 +591,7 @@
         "releaseDate": "2026-01-15",
         "backdropPath": "/MYrRkkE2L0DKw5CRjbCYeQjLAq.jpg",
         "posterPath": "/ogbZc8ELD0XnzCtWE0jGNbesiNc.jpg",
-        "rating": 8.182,
+        "rating": 8.154,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -671,7 +658,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/iKalNKa27eSiNgqGvDn55Q8fNjI.jpg",
         "posterPath": "/qgy4z9HsdotSpVUy44ZMUt7J9tL.jpg",
-        "rating": 7.667,
+        "rating": 7.846,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -684,7 +671,7 @@
         "releaseDate": "2023-09-29",
         "backdropPath": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
         "posterPath": "/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
-        "rating": 8.748,
+        "rating": 8.75,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -790,7 +777,7 @@
         "releaseDate": "2026-01-03",
         "backdropPath": "/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
         "posterPath": "/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-        "rating": 9.196,
+        "rating": 9.05,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
