@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-27T17:31:02.474Z",
+  "time": "2026-01-28T17:35:10.374Z",
   "data": [
     {
       "id": 1236153,
@@ -15,6 +15,19 @@
       "genreTitle": "科幻, 动作"
     },
     {
+      "id": 1497873,
+      "type": "tmdb",
+      "title": "翠湖",
+      "originalTitle": "翠湖",
+      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
+      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 680493,
       "type": "tmdb",
       "title": "重返寂静岭",
@@ -23,7 +36,7 @@
       "releaseDate": "2026-01-21",
       "backdropPath": "/zWe8ynGlGH3KP896jHCemxnOvCo.jpg",
       "posterPath": "/mHEtettQs3qwX3IGT7KTwbxgaOL.jpg",
-      "rating": 5.2,
+      "rating": 5.4,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -93,6 +106,19 @@
       "genreTitle": "剧情, 战争"
     },
     {
+      "id": 1234731,
+      "type": "tmdb",
+      "title": "新狂蟒之灾",
+      "originalTitle": "Anaconda",
+      "description": "一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
+      "releaseDate": "2025-12-24",
+      "backdropPath": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+      "posterPath": "/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
+      "rating": 5.9,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 喜剧"
+    },
+    {
       "id": 1530787,
       "type": "tmdb",
       "title": "匿杀",
@@ -114,7 +140,7 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/3Dqievkc7krcTtDE2hjRkIsEzB1.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.311,
+      "rating": 7.304,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -140,35 +166,22 @@
       "releaseDate": "2026-01-01",
       "backdropPath": "/dT3mUfkXKzUbDu4qlldRGXxePLj.jpg",
       "posterPath": "/jTuu8wLW2RUg1IzX4IC7wqpsjIo.jpg",
-      "rating": 7.333,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1234731,
+      "id": 1084242,
       "type": "tmdb",
-      "title": "新狂蟒之灾",
-      "originalTitle": "Anaconda",
-      "description": "一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-      "releaseDate": "2025-12-24",
-      "backdropPath": "/yo41R39airbREp0PYfG30Ofxtgt.jpg",
-      "posterPath": "/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "rating": 6,
+      "title": "疯狂动物城2",
+      "originalTitle": "Zootopia 2",
+      "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+      "releaseDate": "2025-11-26",
+      "backdropPath": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
+      "rating": 7.597,
       "mediaType": "movie",
-      "genreTitle": "冒险, 喜剧"
-    },
-    {
-      "id": 1555232,
-      "type": "tmdb",
-      "title": "不过是上班",
-      "originalTitle": "不过是上班",
-      "description": "一旦领导冒出一句“什么狗屁方案”，你的人生就将陷入无尽循环.....重复的职场里，有人摸鱼摆烂，有人趁机搞事，直到同事离奇 “消失”，他才发现循环背后藏着公司要命的秘密——想活下来，得先在重复的日子里找到出路……",
-      "releaseDate": "2026-01-10",
-      "backdropPath": "/eyIxeio4UhUen5XJY67Dhs6rSJV.jpg",
-      "posterPath": "/ocOIxHfnxaIzrDdZRAgRnnCPS0S.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1602722,
@@ -184,6 +197,19 @@
       "genreTitle": "动画, 喜剧"
     },
     {
+      "id": 1555232,
+      "type": "tmdb",
+      "title": "不过是上班",
+      "originalTitle": "不过是上班",
+      "description": "一旦领导冒出一句“什么狗屁方案”，你的人生就将陷入无尽循环.....重复的职场里，有人摸鱼摆烂，有人趁机搞事，直到同事离奇 “消失”，他才发现循环背后藏着公司要命的秘密——想活下来，得先在重复的日子里找到出路……",
+      "releaseDate": "2026-01-10",
+      "backdropPath": "/eyIxeio4UhUen5XJY67Dhs6rSJV.jpg",
+      "posterPath": "/ocOIxHfnxaIzrDdZRAgRnnCPS0S.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
+    },
+    {
       "id": 991494,
       "type": "tmdb",
       "title": "海绵宝宝：深海大冒险",
@@ -192,7 +218,7 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
       "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.538,
+      "rating": 6.569,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -210,19 +236,6 @@
       "genreTitle": "剧情, 战争"
     },
     {
-      "id": 1084242,
-      "type": "tmdb",
-      "title": "疯狂动物城2",
-      "originalTitle": "Zootopia 2",
-      "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
-      "releaseDate": "2025-11-26",
-      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
-      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
-    },
-    {
       "id": 1593221,
       "type": "tmdb",
       "title": "宇宙护卫队：百变流星",
@@ -234,19 +247,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 科幻"
-    },
-    {
-      "id": 1598997,
-      "type": "tmdb",
-      "title": "八府巡按",
-      "originalTitle": "八府巡按",
-      "description": "清末，关东永昌府。二甲进士出身的知府贾正道，在吴师爷等众属下以及绅商协助下治理一府六县。一封军机处密信让众人手忙脚乱，朝廷将秘遣“八府巡按”查办贪腐。同时收到刑部紧急公文要求缉拿“在逃诈骗团伙”。他们辗转于酒局、闺房、江湖与公堂之间，既要躲避巡查消灾解祸，又想抓捕逃犯邀功领赏。在精心筹划的步步为营与机缘运命的荒腔走板中，一场关乎发财还是发疯、升官还是“升天”的大戏拉开帷幕……",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/gDen1hY37ukvFX1x8pfkAUhAvqM.jpg",
-      "posterPath": "/hn3bVQvfVa8u4x9Tx9ajn2WHtOs.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
     }
   ]
 }
