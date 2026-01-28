@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-27T20:11:44.842Z",
+  "time": "2026-01-28T20:15:32.994Z",
   "data": {
     "电影周榜": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2025-09-22",
         "backdropPath": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
         "posterPath": "/tiz61UHqChQEsoJRMG3KRR219rd.jpg",
-        "rating": 7.93,
+        "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
         "posterPath": "/ptMhBAOi5La3NYLX2nWQFMzkXVL.jpg",
-        "rating": 7.697,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/yZKLgaHKmJCrMsg5e1naV4JqY6b.jpg",
         "posterPath": "/s1TC3QebWWWJ6CceqbBgAvJde8t.jpg",
-        "rating": 8.203,
+        "rating": 8.197,
         "mediaType": "movie",
         "genreTitle": "纪录, 战争"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-08-28",
         "backdropPath": "/2UXrkv2G1aXMyn3VY70krD9Anid.jpg",
         "posterPath": "/1q2kNizeHMPBRxvJOWdwRzKLo3x.jpg",
-        "rating": 7.3,
+        "rating": 7.295,
         "mediaType": "movie",
         "genreTitle": "剧情, 科幻"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-11-20",
         "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
         "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.781,
+        "rating": 7.807,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-10-09",
         "backdropPath": "/fe0UhbWWZgAFHL1OuHmLUFPE5hb.jpg",
         "posterPath": "/n1szx0bfFkNrmOPgQUlqQJfFQwY.jpg",
-        "rating": 7.129,
+        "rating": 7.175,
         "mediaType": "movie",
         "genreTitle": "喜剧, 犯罪"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-09-10",
         "backdropPath": "/mQwD7GtPTkv6WF5m8AJWGrO5XOE.jpg",
         "posterPath": "/cNGEWPfE3vUGPz6yzFHeI2loVm3.jpg",
-        "rating": 8.2,
+        "rating": 8.162,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2025-09-25",
         "backdropPath": "/nXqRGRhFxa3v5rJsJUApYdKdiKu.jpg",
         "posterPath": "/q2cxchZPC6a9hv13inC885iaKLo.jpg",
-        "rating": 5.8,
+        "rating": 5.4,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       }
@@ -148,19 +148,6 @@
         "genreTitle": "War & Politics"
       },
       {
-        "id": 139162,
-        "type": "tmdb",
-        "title": "中国奇谭",
-        "originalTitle": "中国奇谭",
-        "description": "动画短片集《中国奇谭2》由上美影、上影元、哔哩哔哩、陈廖宇工作室联合出品，陈廖宇担任总导演，作品汇集12位导演，创作9部风格迥异的短片。第二部的故事将走入烟火人间，在延续“用中国方式讲中国故事”的基础上，更侧重对人的自我身份、家庭关系、社会关系的思考和探讨，同时继续展现本土语境下的奇幻想象力。",
-        "releaseDate": "2026-01-01",
-        "backdropPath": "/lb1I9lDR3uYwbAZgLxHMiriMKUH.jpg",
-        "posterPath": "/lyDRtY01krTcs1JP74XL2XxqUb4.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "动画, Sci-Fi & Fantasy"
-      },
-      {
         "id": 302726,
         "type": "tmdb",
         "title": "海市蜃楼",
@@ -172,6 +159,19 @@
         "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 139162,
+        "type": "tmdb",
+        "title": "中国奇谭",
+        "originalTitle": "中国奇谭",
+        "description": "动画短片集《中国奇谭2》由上美影、上影元、哔哩哔哩、陈廖宇工作室联合出品，陈廖宇担任总导演，作品汇集12位导演，创作9部风格迥异的短片。第二部的故事将走入烟火人间，在延续“用中国方式讲中国故事”的基础上，更侧重对人的自我身份、家庭关系、社会关系的思考和探讨，同时继续展现本土语境下的奇幻想象力。",
+        "releaseDate": "2026-01-01",
+        "backdropPath": "/lb1I9lDR3uYwbAZgLxHMiriMKUH.jpg",
+        "posterPath": "/lyDRtY01krTcs1JP74XL2XxqUb4.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, Sci-Fi & Fantasy"
       },
       {
         "id": 226197,
@@ -213,6 +213,19 @@
         "genreTitle": "悬疑, 动作冒险"
       },
       {
+        "id": 252161,
+        "type": "tmdb",
+        "title": "凶宅专卖店",
+        "originalTitle": "凶宅專賣店",
+        "description": "阿泽为了妹妹欣爱的医药费，打算出售居住多年的凶宅，却误打误撞成了义胜房屋的菜鸟房仲，这间凶宅专卖店，有着亲切的中年店长雄哥、举止像流氓的勇仁、零食不离手的馒头。第一天上班，阿泽就遇上灵异事件，慈安堂的毕婆婆带着有灵异体质的孙女小墨前来搭救。这一群杂牌军就这么经营起来，更加入了新人伙伴李静。正当大伙度过一次次卖屋危机时，殊不知，背后有着更大的阴谋等着他们……",
+        "releaseDate": "2026-01-16",
+        "backdropPath": "/yJu5sa3pmXjfeY1ATA2qsqCie6I.jpg",
+        "posterPath": "/yWDZL0xOfWcpF4GoRaR1Lm2Ea9z.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 305300,
         "type": "tmdb",
         "title": "冒姓琅琊",
@@ -250,19 +263,6 @@
         "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 277052,
-        "type": "tmdb",
-        "title": "老舅",
-        "originalTitle": "老舅",
-        "description": "老舅是外甥二胖最崇拜的人，老舅自幼学习优异，毕业于哈工大，对于任何新鲜事物，几乎都是天才式的无师自通。在中国经济全面转型的90年代，怀揣一身本领的老舅总有新的理想，所以他不停地创业。虽然老舅“折腾”的一生经历各种困难，但也在不停折腾中感受到了亲友陪伴的力量，最终在自己对生活的乐观态度里实现了梦想。",
-        "releaseDate": "2025-12-15",
-        "backdropPath": "/eAaqNJWPxxzPyJdsKwhIcYp7aHG.jpg",
-        "posterPath": "/eSQZNHm6dz3sd4kdZHFWQOcS6S0.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       }
     ],
     "剧集周榜·国外": [
@@ -273,24 +273,37 @@
         "originalTitle": "The Pitt",
         "description": "第二季故事发生在第一季结局的10个月后，时间线为一个美国独立纪念日的周末。",
         "releaseDate": "2026-01-08",
-        "backdropPath": "/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
+        "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
         "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
       {
-        "id": 66732,
+        "id": 229891,
         "type": "tmdb",
-        "title": "怪奇物语",
-        "originalTitle": "Stranger Things",
-        "description": "1987年秋天，裂隙的开启给霍金斯镇留下了深刻的创伤，而大家此刻有着共同的目标：找到并消灭维克那。但他却消失了，无人知晓他的下落和计划。政府对霍金斯镇实施了军事隔离，并加大了对十一的搜捕力度，让她不得不再度隐姓埋名——这一切都让大家的任务变得更加复杂。威尔失踪周年纪念日临近，沉重而熟悉的恐惧也随之而来。决战近在眼前，大伙将面临前所未有的强大致命黑暗。为了结束这场噩梦，他们必须召集所有同伴，全员集结，最后一次并肩作战。",
-        "releaseDate": "2025-11-26",
-        "backdropPath": "/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
-        "posterPath": "/98pJM1e8S5SbPt7V5H9b1ZLrQdj.jpg",
-        "rating": 7.3,
+        "title": "爱情怎么翻译？",
+        "originalTitle": "이 사랑 통역 되나요?",
+        "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
+        "releaseDate": "2026-01-16",
+        "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+        "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
+        "rating": 8.9,
         "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 悬疑"
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 224372,
+        "type": "tmdb",
+        "title": "七王国的骑士",
+        "originalTitle": "A Knight of the Seven Kingdoms",
+        "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+        "releaseDate": "2026-01-18",
+        "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+        "posterPath": "/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
+        "rating": 8.1,
+        "mediaType": "tv",
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
         "id": 301507,
@@ -301,7 +314,7 @@
         "releaseDate": "2025-11-28",
         "backdropPath": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
         "posterPath": "/j5iwP8Drc7J7osQGDpc0IdE0Pu5.jpg",
-        "rating": 8.772,
+        "rating": 8.78,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -319,43 +332,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 229891,
+        "id": 66732,
         "type": "tmdb",
-        "title": "爱情怎么翻译？",
-        "originalTitle": "이 사랑 통역 되나요?",
-        "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
-        "releaseDate": "2026-01-16",
-        "backdropPath": "/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
-        "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.889,
+        "title": "怪奇物语",
+        "originalTitle": "Stranger Things",
+        "description": "1987年秋天，裂隙的开启给霍金斯镇留下了深刻的创伤，而大家此刻有着共同的目标：找到并消灭维克那。但他却消失了，无人知晓他的下落和计划。政府对霍金斯镇实施了军事隔离，并加大了对十一的搜捕力度，让她不得不再度隐姓埋名——这一切都让大家的任务变得更加复杂。威尔失踪周年纪念日临近，沉重而熟悉的恐惧也随之而来。决战近在眼前，大伙将面临前所未有的强大致命黑暗。为了结束这场噩梦，他们必须召集所有同伴，全员集结，最后一次并肩作战。",
+        "releaseDate": "2025-11-26",
+        "backdropPath": "/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
+        "posterPath": "/98pJM1e8S5SbPt7V5H9b1ZLrQdj.jpg",
+        "rating": 7.3,
         "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 284744,
-        "type": "tmdb",
-        "title": "公益律师",
-        "originalTitle": "프로보노",
-        "description": "讲述了一家大型律师事务所内一个零收入的公益律师团队，在公益法律领域中应对各种挑战的故事 。",
-        "releaseDate": "2025-12-06",
-        "backdropPath": "/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
-        "posterPath": "/6ADirWn2n3I4oGfLrr3RmCZE2UN.jpg",
-        "rating": 8.5,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 225171,
-        "type": "tmdb",
-        "title": "Pluribus",
-        "originalTitle": "Pluribus",
-        "description": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-        "releaseDate": "2025-11-06",
-        "backdropPath": "/m96iaX6b4bKaD9xME9JOQghBrqC.jpg",
-        "posterPath": "/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-        "rating": 7.9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
+        "genreTitle": "Sci-Fi & Fantasy, 悬疑"
       },
       {
         "id": 157741,
@@ -384,17 +371,30 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 282471,
+        "id": 284744,
         "type": "tmdb",
-        "title": "狱乱情迷",
-        "originalTitle": "คลั่ง/รัก/นักโทษ",
-        "description": "由Mine Media出品，改编自《铁锈味的雨滴》作者KA9ESAMA同名小说。\n\n《Clairebell》是一部充满情感张力的监狱爱情故事，讲述命运将不幸的女孩Bell送入监狱，她为了生存艰难挣扎。就在最黑暗的时刻，女囚犯Claire伸出了援助之手，从此两人结下了深刻的羁绊。这段相遇不仅让这片冷酷的土地重新焕发了一丝光辉，更渐渐发展成了一段动人的爱情。",
-        "releaseDate": "2025-10-27",
-        "backdropPath": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-        "posterPath": "/vytkrWR9TWThsgGiin8boRJwWXA.jpg",
-        "rating": 8.261,
+        "title": "公益律师",
+        "originalTitle": "프로보노",
+        "description": "讲述了一家大型律师事务所内一个零收入的公益律师团队，在公益法律领域中应对各种挑战的故事 。",
+        "releaseDate": "2025-12-06",
+        "backdropPath": "/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
+        "posterPath": "/6ADirWn2n3I4oGfLrr3RmCZE2UN.jpg",
+        "rating": 8.619,
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 254071,
+        "type": "tmdb",
+        "title": "强制窃贼",
+        "originalTitle": "Steal",
+        "description": "这部惊心动魄、张力十足的惊悚影集，故事围绕著一场世纪抢案。洛克米尔投信平凡无奇的上班日，因武装抢匪闯入而天翻地覆，他们胁迫萨拉（苏菲特纳饰演）和她的好友路克（亚契马德维饰演）执行他们的命令。抢案过后，满腹疑问的瑞斯总警督（雅各弗钦洛伊德饰演）必须与时间赛跑，查出是谁抢走人民四十亿英镑退休金，幕后主使是谁，动机又为何。",
+        "releaseDate": "2026-01-21",
+        "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
+        "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
+        "rating": 7.878,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 犯罪"
       }
     ]
   }
