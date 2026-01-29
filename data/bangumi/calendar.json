@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-28T16:32:24.187Z",
+  "time": "2026-01-29T16:39:08.264Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2023-04-01",
         "backdropPath": "/vjiIuR3XGpoGSumQ7DziPAmxIYR.jpg",
         "posterPath": "/jfPqPQy2EiS8TwDlbvU9hgyxCdF.jpg",
-        "rating": 8.1,
+        "rating": 8.139,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "posterPath": "/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg",
-        "rating": 6.286,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -273,7 +273,7 @@
         "releaseDate": "2019-10-08",
         "backdropPath": "/zBfnpI8883yeQkXK2kpLavHv9Yw.jpg",
         "posterPath": "/cZ8JUIwS9K4kttelRq6eP0mVhjK.jpg",
-        "rating": 8.615,
+        "rating": 8.611,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       }
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
         "posterPath": "/frh8aDHSjbnyHv2YU5fJBThEhK3.jpg",
-        "rating": 8.1,
+        "rating": 8.273,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/fgESwlxIp0XTgjwKjdxaNQJmh2q.jpg",
         "posterPath": "/bJib1vcONheAXy4WbxJCVc2QWct.jpg",
-        "rating": 8.214,
+        "rating": 8.333,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -368,20 +368,20 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.7,
+        "rating": 8.721,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
       {
         "id": 263330,
         "type": "tmdb",
-        "title": "靠死亡游戏混饭吃",
+        "title": "靠死亡游戏混饭吃。",
         "originalTitle": "死亡遊戯で飯を食う。",
         "description": "醒来以后，发现自己人在陌生的洋楼，身上穿著不知何时换上的女仆装，而有同样遭遇的少女还有五人。“游戏”开始了，我们必须逃出这个充满杀人陷阱的洋楼“GHOST HOUSE”。涉入死亡游戏的事实，使少女们面色凝重──除了我以外。我的玩家名称是幽鬼，今年十七岁，死亡游戏专家。也就是穿女仆装逃离死亡之屋，穿兔女郎装杀人，领奖金过活的人。觉得我有病？我也是这么想。不过，世界上就是有这种人──靠死亡游戏混饭吃的少女。",
         "releaseDate": "2026-01-07",
         "backdropPath": "/rcwfBh8gPBL4sKUEPqu0lEKreha.jpg",
         "posterPath": "/xCtYF9w9jUGn9WMs36R0q1SBzM8.jpg",
-        "rating": 7.2,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -407,7 +407,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/snzpnGs0cX5cQR7Cxaefc6su53p.jpg",
         "posterPath": "/v0jFsByv3sX4aDpqgpoC7hjtqB8.jpg",
-        "rating": 9.2,
+        "rating": 8.667,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -472,7 +472,7 @@
         "originalTitle": "테러맨",
         "description": "",
         "releaseDate": "2026-01-29",
-        "backdropPath": null,
+        "backdropPath": "/5wyPJQp37qZRx8iODHlWtKsrxDu.jpg",
         "posterPath": "/13izuyHXlQAAlt8Vy0H1apb3bty.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -487,7 +487,7 @@
         "releaseDate": "2020-10-03",
         "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
         "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-        "rating": 8.6,
+        "rating": 8.566,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -710,7 +710,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/9zPC2aRwIko0gT1CP86mp8LSfOK.jpg",
         "posterPath": "/4dfyZ5UZKGuS5Pur5nMqFp6s675.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -738,7 +738,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 7.997,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -777,7 +777,7 @@
         "releaseDate": "2026-01-03",
         "backdropPath": "/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
         "posterPath": "/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-        "rating": 9.081,
+        "rating": 8.984,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -868,7 +868,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/zwdmHsZIbFu9Bia6EvXMbG1lBBt.jpg",
         "posterPath": "/58DuUNaAY0WcHG5ltJLEuyWJCqO.jpg",
-        "rating": 8.5,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
