@@ -6,19 +6,19 @@ const CONFIG = {
   name: "周榜",
   items: [
     {
-      name: "电影周榜",
+      name: "电影",
       subject: "movie_weekly_best",
       start: 0,
       count: 10,
     },
     {
-      name: "剧集周榜·国内",
+      name: "剧集·国内",
       subject: "tv_chinese_best_weekly",
       start: 0,
       count: 10,
     },
     {
-      name: "剧集周榜·国外",
+      name: "剧集·国外",
       subject: "tv_global_best_weekly",
       start: 0,
       count: 10,

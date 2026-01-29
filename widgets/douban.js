@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "豆瓣",
   description: "获取豆瓣的榜单数据",
   requiredVersion: "0.0.1",
-  version: "1.0.3",
+  version: "1.0.4",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -65,20 +65,20 @@ WidgetMetadata = {
           type: "enumeration",
           enumOptions: [
             {
-              title: "爱奇艺 迷雾剧场",
-              value: "爱奇艺 迷雾剧场",
+              title: "爱奇艺·迷雾剧场",
+              value: "爱奇艺·迷雾剧场",
             },
             {
-              title: "优酷 白夜剧场",
-              value: "优酷 白夜剧场",
+              title: "优酷·白夜剧场",
+              value: "优酷·白夜剧场",
             },
             {
-              title: "芒果 季风剧场",
-              value: "芒果 季风剧场",
+              title: "芒果·季风剧场",
+              value: "芒果·季风剧场",
             },
             {
-              title: "腾讯 X剧场",
-              value: "腾讯 X剧场",
+              title: "腾讯·X剧场",
+              value: "腾讯·X剧场",
             },
           ],
         },
@@ -108,7 +108,7 @@ async function weekly(params) {
     const data = (await Widget.http.get(url)).data.data;
     const type = params.type || "电影";
     const country = type === "电影" ? "" : params.country || "国内";
-    const name = `${type}周榜` + (country ? `·${country}` : "");
+    const name = type + (country ? `·${country}` : "");
     return data[name] || [];
   } catch (error) {
     return [];
@@ -119,7 +119,7 @@ async function theater(params) {
   try {
     const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/douban/theater.json";
     const data = (await Widget.http.get(url)).data.data;
-    const name = params.name || "爱奇艺 迷雾剧场";
+    const name = params.name || "爱奇艺·迷雾剧场";
     return data[name] || [];
   } catch (error) {
     return [];
