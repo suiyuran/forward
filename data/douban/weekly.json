@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-29T05:36:08.928Z",
+  "time": "2026-01-29T20:16:19.080Z",
   "data": {
     "电影": [
       {
@@ -20,11 +20,11 @@
         "type": "tmdb",
         "title": "密探",
         "originalTitle": "O Agente Secreto",
-        "description": "1977年，巴西。四十岁出头的技术专家马塞洛正在奔逃。他在狂欢节期间抵达累西腓，渴望与儿子重聚，却很快意识到这座城市远非他寻求的非暴力庇护所。",
+        "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
         "releaseDate": "2025-07-23",
         "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
-        "posterPath": "/ptMhBAOi5La3NYLX2nWQFMzkXVL.jpg",
-        "rating": 7.7,
+        "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
+        "rating": 7.675,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/yZKLgaHKmJCrMsg5e1naV4JqY6b.jpg",
         "posterPath": "/s1TC3QebWWWJ6CceqbBgAvJde8t.jpg",
-        "rating": 8.197,
+        "rating": 8.25,
         "mediaType": "movie",
         "genreTitle": "纪录, 战争"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-08-28",
         "backdropPath": "/2UXrkv2G1aXMyn3VY70krD9Anid.jpg",
         "posterPath": "/1q2kNizeHMPBRxvJOWdwRzKLo3x.jpg",
-        "rating": 7.295,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "剧情, 科幻"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-11-20",
         "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
         "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.816,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-10-09",
         "backdropPath": "/fe0UhbWWZgAFHL1OuHmLUFPE5hb.jpg",
         "posterPath": "/n1szx0bfFkNrmOPgQUlqQJfFQwY.jpg",
-        "rating": 7.175,
+        "rating": 7.139,
         "mediaType": "movie",
         "genreTitle": "喜剧, 犯罪"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-09-10",
         "backdropPath": "/mQwD7GtPTkv6WF5m8AJWGrO5XOE.jpg",
         "posterPath": "/cNGEWPfE3vUGPz6yzFHeI2loVm3.jpg",
-        "rating": 8.161,
+        "rating": 8.167,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-10-02",
         "backdropPath": "/bbntAQGbL0E54CiyC9ficb70UEj.jpg",
         "posterPath": "/wdkN3OGE6QeoF1FGFhOQMILm4AG.jpg",
-        "rating": 6.458,
+        "rating": 6.5,
         "mediaType": "movie",
         "genreTitle": "西部, 喜剧"
       },
@@ -195,7 +195,7 @@
         "releaseDate": "2025-12-22",
         "backdropPath": "/e2mINd8gwW2zcMtCiDQulHmssum.jpg",
         "posterPath": "/9evuKu7J3dKoQF8wxGdkHPP47il.jpg",
-        "rating": 7.5,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 8.5,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.824,
+        "rating": 8.855,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
-        "rating": 8.043,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.731,
+        "rating": 7.704,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
