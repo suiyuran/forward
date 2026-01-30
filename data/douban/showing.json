@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-29T17:39:23.929Z",
+  "time": "2026-01-30T17:36:30.271Z",
   "data": [
     {
       "id": 1236153,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-01-19",
       "backdropPath": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
       "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-      "rating": 6.857,
+      "rating": 6.817,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -28,30 +28,30 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 694,
+      "id": 876907,
       "type": "tmdb",
-      "title": "闪灵",
-      "originalTitle": "The Shining",
-      "description": "杰克 是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂 就发现这里气氛诡异，杰克的儿子丹尼 经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
-      "releaseDate": "1980-05-23",
-      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
-      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.2,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1618784,
-      "type": "tmdb",
-      "title": "东北警察故事3",
-      "originalTitle": "东北警察故事3",
-      "description": "李红旗要办婚礼了！本想婚礼一切从简，但彪悍热心的丈母娘（林晓杰 饰）坚持做主想大操大办，李红旗不得不飞往海角，落地后却得知飞机邻座女孩昕昕（马千壹 饰）被人贩子拐走。面对凶残狡猾的犯罪团伙，李红旗与当地办案风格迥异的警察孙彪（崔志佳 饰）强强联手，在婚期逼近的倒计时中和人贩子头目秦叶蓉（黄米依 饰）及卖鱼佬（伍允龙 饰）展开殊死搏斗。婚礼筹备笑料百出，办案追凶惊心动魄——红旗不倒，正义不休假！看李红旗如何罪犯、幸福两手抓。",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/cmwWsYYWDBRCY8UivMxu9Prbrl4.jpg",
-      "posterPath": "/m8RL0ksOFAbxjRfVpmJnTEwEEQW.jpg",
+      "title": "没问题",
+      "originalTitle": "没问题",
+      "description": "东北某市，晨报主任左守权得知与前妻生活多年的女儿，在校组建“问题乐队”，不务正业，恐将被学校处分。老左欲将女儿留在家乡从事铁饭碗工作，左明明却欲南下逐梦。老左苦口婆心劝说不成只好四处托人求助。女儿英语老师吕有容，因儿子转学之事有求于老左，两人化干戈为玉帛，惺惺相惜。由此引发左明明误会其二人有苟且之事，羞怒至极，父女决裂。左明明终日与乐队混迹夜场，几乎放弃学业。老同学牛校长涉嫌违纪，牵连老左被停职。吕老师因和老左的一条醉酒视频丢了工作。关乎女儿学位的英语四级考试，也只剩下最后机会。 为了女儿的未来，老左找来女儿乐队吉他手小马协助，准备孤注一掷……",
+      "releaseDate": "2026-01-31",
+      "backdropPath": "/pkJdwOaxaaFOhEKR7p52FOkrReb.jpg",
+      "posterPath": "/ycqFS0akZOHbxEocU5TKtsUJPvu.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 动作"
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 840464,
+      "type": "tmdb",
+      "title": "末日逃生2：迁移",
+      "originalTitle": "Greenland 2: Migration",
+      "description": "由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
+      "releaseDate": "2026-01-07",
+      "backdropPath": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
+      "posterPath": "/AnwAqaPQyM4ugJ5V5vtdqylFW4J.jpg",
+      "rating": 6.554,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 惊悚"
     },
     {
       "id": 680493,
@@ -62,22 +62,22 @@
       "releaseDate": "2026-01-21",
       "backdropPath": "/zWe8ynGlGH3KP896jHCemxnOvCo.jpg",
       "posterPath": "/mHEtettQs3qwX3IGT7KTwbxgaOL.jpg",
-      "rating": 5.277,
+      "rating": 5.3,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
     {
-      "id": 1537690,
+      "id": 1572735,
       "type": "tmdb",
-      "title": "爆水管",
-      "originalTitle": "爆水管",
-      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
-      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
+      "title": "非传统浪漫关系",
+      "originalTitle": "非传统浪漫关系",
+      "description": "情感博主祝君好与婚姻登记员龚玺两个爱情专家以离婚收场。祝君好决定与龚玺互相介绍对象，在这场荒诞的实验中，他们得以重新看待婚姻与爱情：从以自我为中心到求同存异，从我要幸福成长到我们要幸福。",
+      "releaseDate": "2026-01-31",
+      "backdropPath": "/eVDn4nuqxITr0akk3pJpi7VbGUv.jpg",
+      "posterPath": "/mszLDElSdPjJamDBwrpeD92KHEq.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 犯罪"
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1411529,
@@ -93,17 +93,43 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1234731,
+      "id": 1537690,
       "type": "tmdb",
-      "title": "新狂蟒之灾",
-      "originalTitle": "Anaconda",
-      "description": "一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-      "releaseDate": "2025-12-24",
-      "backdropPath": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
-      "posterPath": "/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "rating": 6,
+      "title": "爆水管",
+      "originalTitle": "爆水管",
+      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
+      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "冒险, 喜剧"
+      "genreTitle": "喜剧, 犯罪"
+    },
+    {
+      "id": 694,
+      "type": "tmdb",
+      "title": "闪灵",
+      "originalTitle": "The Shining",
+      "description": "杰克 是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂 就发现这里气氛诡异，杰克的儿子丹尼 经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
+      "releaseDate": "1980-05-23",
+      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
+      "rating": 8.206,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1618784,
+      "type": "tmdb",
+      "title": "东北警察故事3",
+      "originalTitle": "东北警察故事3",
+      "description": "李红旗要办婚礼了！本想婚礼一切从简，但彪悍热心的丈母娘（林晓杰 饰）坚持做主想大操大办，李红旗不得不飞往海角，落地后却得知飞机邻座女孩昕昕（马千壹 饰）被人贩子拐走。面对凶残狡猾的犯罪团伙，李红旗与当地办案风格迥异的警察孙彪（崔志佳 饰）强强联手，在婚期逼近的倒计时中和人贩子头目秦叶蓉（黄米依 饰）及卖鱼佬（伍允龙 饰）展开殊死搏斗。婚礼筹备笑料百出，办案追凶惊心动魄——红旗不倒，正义不休假！看李红旗如何罪犯、幸福两手抓。",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/3lxudebZT3Ed5YslEuwqsfM7KxB.jpg",
+      "posterPath": "/m8RL0ksOFAbxjRfVpmJnTEwEEQW.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 动作"
     },
     {
       "id": 1249173,
@@ -119,6 +145,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1234731,
+      "type": "tmdb",
+      "title": "新狂蟒之灾",
+      "originalTitle": "Anaconda",
+      "description": "一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
+      "releaseDate": "2025-12-24",
+      "backdropPath": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+      "posterPath": "/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
+      "rating": 5.977,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 喜剧"
+    },
+    {
       "id": 1443959,
       "type": "tmdb",
       "title": "马腾你别走",
@@ -130,6 +169,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1290821,
+      "type": "tmdb",
+      "title": "庇护之地",
+      "originalTitle": "Shelter",
+      "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
+      "releaseDate": "2026-01-28",
+      "backdropPath": "/uCGzI1EtQWXG5yRPB5PSyOdFNcC.jpg",
+      "posterPath": "/b2kNtO8MgTjQ73uDdTBeyvpw9XF.jpg",
+      "rating": 6.75,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 804370,
@@ -158,19 +210,6 @@
       "genreTitle": "剧情, 战争"
     },
     {
-      "id": 1290821,
-      "type": "tmdb",
-      "title": "庇护之地",
-      "originalTitle": "Shelter",
-      "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
-      "releaseDate": "2026-01-28",
-      "backdropPath": "/ovEC9AOWAxSfm5iBQp7wzeNegAQ.jpg",
-      "posterPath": "/b2kNtO8MgTjQ73uDdTBeyvpw9XF.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1530787,
       "type": "tmdb",
       "title": "匿杀",
@@ -184,19 +223,6 @@
       "genreTitle": "悬疑, 犯罪"
     },
     {
-      "id": 1537396,
-      "type": "tmdb",
-      "title": "情圣3",
-      "originalTitle": "情圣3",
-      "description": "一场信任危机，让田绍基（肖央 饰）和邵美珍（谭卓 饰）本就平淡的婚姻生活再次雪上加霜，阴差阳错下两人整活儿不断，花招不停，好兄弟甘火旺（乔杉 饰）也来神助攻，“爱情三十六计”轮番登场！一连串好戏接连上演，情场大战大爆笑！",
-      "releaseDate": "2025-12-20",
-      "backdropPath": "/a0ua4gW6Znjt11r2DQTapV5VaEz.jpg",
-      "posterPath": "/p3sdbpDWYdOkrSkAnNydcwH7cvJ.jpg",
-      "rating": 4.25,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 爱情"
-    },
-    {
       "id": 83533,
       "type": "tmdb",
       "title": "阿凡达：火与烬",
@@ -205,7 +231,7 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/3Dqievkc7krcTtDE2hjRkIsEzB1.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.302,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -221,6 +247,19 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1537396,
+      "type": "tmdb",
+      "title": "情圣3",
+      "originalTitle": "情圣3",
+      "description": "一场信任危机，让田绍基（肖央 饰）和邵美珍（谭卓 饰）本就平淡的婚姻生活再次雪上加霜，阴差阳错下两人整活儿不断，花招不停，好兄弟甘火旺（乔杉 饰）也来神助攻，“爱情三十六计”轮番登场！一连串好戏接连上演，情场大战大爆笑！",
+      "releaseDate": "2025-12-20",
+      "backdropPath": "/a0ua4gW6Znjt11r2DQTapV5VaEz.jpg",
+      "posterPath": "/p3sdbpDWYdOkrSkAnNydcwH7cvJ.jpg",
+      "rating": 4.25,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 爱情"
     },
     {
       "id": 1617366,
@@ -256,8 +295,8 @@
       "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
       "releaseDate": "2025-11-26",
       "backdropPath": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
-      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "rating": 7.61,
+      "posterPath": "/fqUJHyzHtchLlpsMpfht7GyCTnK.jpg",
+      "rating": 7.614,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -283,7 +322,7 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
       "posterPath": "/sRSttgj0rd1ZuWtaOB1ErqKsCsI.jpg",
-      "rating": 7.1,
+      "rating": 7.064,
       "mediaType": "movie",
       "genreTitle": "爱情, 喜剧"
     },
@@ -322,22 +361,9 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
       "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.642,
+      "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1369453,
-      "type": "tmdb",
-      "title": "年年岁岁",
-      "originalTitle": "年年岁岁",
-      "description": "梦境与幻觉不断侵入米寻的现实生活，尘封的往事，隐秘的情感被渐渐揭开，米寻决意以此拍摄一部电影，与父亲重逢与告别。",
-      "releaseDate": "2023-03-16",
-      "backdropPath": "/81wAN1BT7maDqrdTroBvdTevAsK.jpg",
-      "posterPath": "/8smDX9YYebIDBRQGaEqmCr3mHkj.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1356454,
@@ -361,7 +387,7 @@
       "releaseDate": "1957-12-17",
       "backdropPath": "/evUB9YKE5IPPtQOchcEF6hS90BO.jpg",
       "posterPath": "/eKAZqdT78RIiTPlWDc53jQEPU3v.jpg",
-      "rating": 8.217,
+      "rating": 8.219,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
     },
@@ -374,9 +400,22 @@
       "releaseDate": "2025-11-19",
       "backdropPath": "/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
       "posterPath": "/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
-      "rating": 6.684,
+      "rating": 6.683,
       "mediaType": "movie",
       "genreTitle": "奇幻, 冒险"
+    },
+    {
+      "id": 1369453,
+      "type": "tmdb",
+      "title": "年年岁岁",
+      "originalTitle": "年年岁岁",
+      "description": "梦境与幻觉不断侵入米寻的现实生活，尘封的往事，隐秘的情感被渐渐揭开，米寻决意以此拍摄一部电影，与父亲重逢与告别。",
+      "releaseDate": "2023-03-16",
+      "backdropPath": "/81wAN1BT7maDqrdTroBvdTevAsK.jpg",
+      "posterPath": "/8smDX9YYebIDBRQGaEqmCr3mHkj.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 838240,
@@ -390,19 +429,6 @@
       "rating": 7.975,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
-    },
-    {
-      "id": 915935,
-      "type": "tmdb",
-      "title": "坠落的审判",
-      "originalTitle": "Anatomie d'une chute",
-      "description": "在贾斯汀·特里耶这部荣获奥斯卡奖的杰作中，我们看得越近，却知得越少。这部诡谲迷人的法庭惊悚片，审视着真实与虚构彼此侵蚀的边界。作家桑德拉·沃伊特（桑德拉·惠勒，摄人心魄的演绎）擅长将自身经历转化为自虚构文学，当她因丈夫坠楼身亡的疑案受审时——这究竟是谋杀还是自杀？——一场审判逐渐揭开一个破碎家庭的层层内幕。特里耶以室内心理剧的极简张力为核心，通过复杂而灵动的剪辑，构筑出一桩悬案；其终极指向并非死亡本身，而是我们每个人隐匿的生存真相。[标准收藏]",
-      "releaseDate": "2023-08-23",
-      "backdropPath": "/kszooR7v1TLFM4pzx6IkKq2jDAN.jpg",
-      "posterPath": "/64sltz8tKvDxpIT7GHhFCyOVBKH.jpg",
-      "rating": 7.533,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 悬疑"
     },
     {
       "id": 1599013,
@@ -431,6 +457,19 @@
       "genreTitle": "动画, 科幻"
     },
     {
+      "id": 915935,
+      "type": "tmdb",
+      "title": "坠落的审判",
+      "originalTitle": "Anatomie d'une chute",
+      "description": "在贾斯汀·特里耶这部荣获奥斯卡奖的杰作中，我们看得越近，却知得越少。这部诡谲迷人的法庭惊悚片，审视着真实与虚构彼此侵蚀的边界。作家桑德拉·沃伊特（桑德拉·惠勒，摄人心魄的演绎）擅长将自身经历转化为自虚构文学，当她因丈夫坠楼身亡的疑案受审时——这究竟是谋杀还是自杀？——一场审判逐渐揭开一个破碎家庭的层层内幕。特里耶以室内心理剧的极简张力为核心，通过复杂而灵动的剪辑，构筑出一桩悬案；其终极指向并非死亡本身，而是我们每个人隐匿的生存真相。[标准收藏]",
+      "releaseDate": "2023-08-23",
+      "backdropPath": "/kszooR7v1TLFM4pzx6IkKq2jDAN.jpg",
+      "posterPath": "/64sltz8tKvDxpIT7GHhFCyOVBKH.jpg",
+      "rating": 7.531,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 悬疑"
+    },
+    {
       "id": 878608,
       "type": "tmdb",
       "title": "狂野时代",
@@ -457,19 +496,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 425274,
-      "type": "tmdb",
-      "title": "惊天魔盗团3",
-      "originalTitle": "Now You See Me: Now You Don't",
-      "description": "因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
-      "releaseDate": "2025-11-12",
-      "backdropPath": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
-      "posterPath": "/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "rating": 6.6,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 犯罪"
-    },
-    {
       "id": 314388,
       "type": "tmdb",
       "title": "山河故人",
@@ -483,43 +509,17 @@
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 991262,
+      "id": 425274,
       "type": "tmdb",
-      "title": "内幕",
-      "originalTitle": "內幕",
-      "description": "著名慈善基金会“济拔堂”一年一度的慈善晚会，可谓高朋云集、花团锦簇。正当主席高盛文准备发表年度致辞时，基金会财务总监杨滔突然离奇吊死在舞台上！疑云笼罩之下，关于济拔堂内部有2亿善款不翼而飞的传言甚嚣尘上，引起全社会关注。重重谜团令大律师马迎风与警长柯定邦在机缘巧合下组成临时拍档，携手调查这起慈善案的幕后真相。他们能否揭开隐藏在慈善背后的层层黑幕，还社会以公义吗？",
-      "releaseDate": "2025-12-05",
-      "backdropPath": "/gadbee46WGw74n8Ce6oomB0Ti7z.jpg",
-      "posterPath": "/kB7o9D6X0itwwL0l9fDWRZdmCcB.jpg",
-      "rating": 6,
+      "title": "惊天魔盗团3",
+      "originalTitle": "Now You See Me: Now You Don't",
+      "description": "因神秘塔罗牌的指引，那群用魔术“替天行盗”的骑士们杀回来了！“初代四骑士”与三位新生代魔术师携手，目标直指一位钻石大亨——其家族凭借庞大资本与隐秘势力，构建了全球性犯罪网络，也为骑士团布下层层陷阱！面对史上最难的“盗窃任务”，骑士们再现奇迹，上演横跨全球的魔术大秀，与“血色钻石家族”展开骗中骗、局中局、计中计的巅峰博弈……",
+      "releaseDate": "2025-11-12",
+      "backdropPath": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+      "posterPath": "/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
+      "rating": 6.563,
       "mediaType": "movie",
-      "genreTitle": "犯罪"
-    },
-    {
-      "id": 1612059,
-      "type": "tmdb",
-      "title": "解决专家",
-      "originalTitle": "解决专家",
-      "description": "“解决专家”衣然英俊遇到罗师傅上门求助，罗师傅因跌打油遭诬告，其妹双双、盈盈为帮兄私自参加高颜奖金选美。衣然英俊携老孙、罗师傅追至赛场，与罗妹及中国选手徐菲组队，闯丛林、破庙宇机关，最终揭穿比赛的阴谋，助罗师傅渡过难关。",
-      "releaseDate": "2026-01-20",
-      "backdropPath": "/5MIKcaW4tErOUYjzR7gJqYB80rA.jpg",
-      "posterPath": "/tG18iQCVNvreHxS4FKk3lg1INZM.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动作"
-    },
-    {
-      "id": 1172265,
-      "type": "tmdb",
-      "title": "天空的另一面",
-      "originalTitle": "O Último Azul",
-      "description": "巴西政府以经济复苏之名，为 80 岁以上的老年人设立了一个永久性的强制垂直隔离制度，将他们安置在一个隔离区。77 岁的特卡住在亚马逊地区的穆里蒂村，当得知年龄限制降低，自己也被包括在内时，她惊呆了。走投无路之下，特卡踏上了一段隐秘的旅程，避开官员的追捕，穿梭于河流、船只和地下世界之间，试图秘密实现自己最后的愿望——坐一次飞机。",
-      "releaseDate": "2025-08-28",
-      "backdropPath": "/2UXrkv2G1aXMyn3VY70krD9Anid.jpg",
-      "posterPath": "/1q2kNizeHMPBRxvJOWdwRzKLo3x.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 科幻"
+      "genreTitle": "惊悚, 犯罪"
     },
     {
       "id": 1323410,
@@ -535,6 +535,32 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1172265,
+      "type": "tmdb",
+      "title": "天空的另一面",
+      "originalTitle": "O Último Azul",
+      "description": "巴西政府以经济复苏之名，为 80 岁以上的老年人设立了一个永久性的强制垂直隔离制度，将他们安置在一个隔离区。77 岁的特卡住在亚马逊地区的穆里蒂村，当得知年龄限制降低，自己也被包括在内时，她惊呆了。走投无路之下，特卡踏上了一段隐秘的旅程，避开官员的追捕，穿梭于河流、船只和地下世界之间，试图秘密实现自己最后的愿望——坐一次飞机。",
+      "releaseDate": "2025-08-28",
+      "backdropPath": "/2UXrkv2G1aXMyn3VY70krD9Anid.jpg",
+      "posterPath": "/1q2kNizeHMPBRxvJOWdwRzKLo3x.jpg",
+      "rating": 7.3,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 科幻"
+    },
+    {
+      "id": 991262,
+      "type": "tmdb",
+      "title": "内幕",
+      "originalTitle": "內幕",
+      "description": "著名慈善基金会“济拔堂”一年一度的慈善晚会，可谓高朋云集、花团锦簇。正当主席高盛文准备发表年度致辞时，基金会财务总监杨滔突然离奇吊死在舞台上！疑云笼罩之下，关于济拔堂内部有2亿善款不翼而飞的传言甚嚣尘上，引起全社会关注。重重谜团令大律师马迎风与警长柯定邦在机缘巧合下组成临时拍档，携手调查这起慈善案的幕后真相。他们能否揭开隐藏在慈善背后的层层黑幕，还社会以公义吗？",
+      "releaseDate": "2025-12-05",
+      "backdropPath": "/gadbee46WGw74n8Ce6oomB0Ti7z.jpg",
+      "posterPath": "/kB7o9D6X0itwwL0l9fDWRZdmCcB.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "犯罪"
+    },
+    {
       "id": 98344,
       "type": "tmdb",
       "title": "赛德克·巴莱（上）",
@@ -546,6 +572,32 @@
       "rating": 7.263,
       "mediaType": "movie",
       "genreTitle": "剧情, 动作"
+    },
+    {
+      "id": 25050,
+      "type": "tmdb",
+      "title": "步履不停",
+      "originalTitle": "歩いても 歩いても",
+      "description": "这部抒情而深切动人的影片是当代日本电影大师是枝裕和迄今为止最个人化的作品。影片为纪念其已故母亲而创作，描绘了横山家聚集举行纪念仪式的一天——其背后的深意随剧情推进才逐渐清晰。导演并未着力于强烈的戏剧冲突，而是通过细微的举止与家庭日常（尤其是烹饪）来勾勒一个家族的全部生活，其间贯穿着深藏的遗憾与平凡的欢欣。影片凭借鲜活而令人心碎的表演，以及回归导演早期纪录片风格的温柔自然主义笔触，非凡地刻画了那些将我们紧密相连的羁绊。[标准收藏公司]",
+      "releaseDate": "2008-06-28",
+      "backdropPath": "/lvSB0bnLzuxwrfTlI2l13gctWRn.jpg",
+      "posterPath": "/8M0PBJYX8s04u81XeZn3BXGj54U.jpg",
+      "rating": 7.766,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 家庭"
+    },
+    {
+      "id": 1612059,
+      "type": "tmdb",
+      "title": "解决专家",
+      "originalTitle": "解决专家",
+      "description": "“解决专家”衣然英俊遇到罗师傅上门求助，罗师傅因跌打油遭诬告，其妹双双、盈盈为帮兄私自参加高颜奖金选美。衣然英俊携老孙、罗师傅追至赛场，与罗妹及中国选手徐菲组队，闯丛林、破庙宇机关，最终揭穿比赛的阴谋，助罗师傅渡过难关。",
+      "releaseDate": "2026-01-20",
+      "backdropPath": "/5MIKcaW4tErOUYjzR7gJqYB80rA.jpg",
+      "posterPath": "/tG18iQCVNvreHxS4FKk3lg1INZM.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动作"
     },
     {
       "id": 11645,
@@ -561,17 +613,17 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 25050,
+      "id": 10191,
       "type": "tmdb",
-      "title": "步履不停",
-      "originalTitle": "歩いても 歩いても",
-      "description": "这部抒情而深切动人的影片是当代日本电影大师是枝裕和迄今为止最个人化的作品。影片为纪念其已故母亲而创作，描绘了横山家聚集举行纪念仪式的一天——其背后的深意随剧情推进才逐渐清晰。导演并未着力于强烈的戏剧冲突，而是通过细微的举止与家庭日常（尤其是烹饪）来勾勒一个家族的全部生活，其间贯穿着深藏的遗憾与平凡的欢欣。影片凭借鲜活而令人心碎的表演，以及回归导演早期纪录片风格的温柔自然主义笔触，非凡地刻画了那些将我们紧密相连的羁绊。[标准收藏公司]",
-      "releaseDate": "2008-06-28",
-      "backdropPath": "/lvSB0bnLzuxwrfTlI2l13gctWRn.jpg",
-      "posterPath": "/8M0PBJYX8s04u81XeZn3BXGj54U.jpg",
-      "rating": 7.766,
+      "title": "驯龙高手",
+      "originalTitle": "How to Train Your Dragon",
+      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
+      "releaseDate": "2010-03-18",
+      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
+      "rating": 7.855,
       "mediaType": "movie",
-      "genreTitle": "剧情, 家庭"
+      "genreTitle": "奇幻, 冒险"
     },
     {
       "id": 1406277,
@@ -600,17 +652,17 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 10191,
+      "id": 1598997,
       "type": "tmdb",
-      "title": "驯龙高手",
-      "originalTitle": "How to Train Your Dragon",
-      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
-      "releaseDate": "2010-03-18",
-      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
-      "rating": 7.855,
+      "title": "八府巡按",
+      "originalTitle": "八府巡按",
+      "description": "清末，关东永昌府。二甲进士出身的知府贾正道，在吴师爷等众属下以及绅商协助下治理一府六县。一封军机处密信让众人手忙脚乱，朝廷将秘遣“八府巡按”查办贪腐。同时收到刑部紧急公文要求缉拿“在逃诈骗团伙”。他们辗转于酒局、闺房、江湖与公堂之间，既要躲避巡查消灾解祸，又想抓捕逃犯邀功领赏。在精心筹划的步步为营与机缘运命的荒腔走板中，一场关乎发财还是发疯、升官还是“升天”的大戏拉开帷幕……",
+      "releaseDate": "2026-01-16",
+      "backdropPath": "/gDen1hY37ukvFX1x8pfkAUhAvqM.jpg",
+      "posterPath": "/hn3bVQvfVa8u4x9Tx9ajn2WHtOs.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "奇幻, 冒险"
+      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1502119,
@@ -626,19 +678,6 @@
       "genreTitle": "纪录, 音乐"
     },
     {
-      "id": 68004,
-      "type": "tmdb",
-      "title": "阮玲玉",
-      "originalTitle": "阮玲玉",
-      "description": "十六岁入行的阮玲玉九年间出演了许多许多不同角色的影片。与此同时，她厌倦了幼稚的赌鬼男友张达民，倾心于成熟的已婚富商唐季珊。张达民起诉阮唐通奸，铺天的舆论压力令她在最光辉灿烂的二十五岁服毒自杀。",
-      "releaseDate": "1991-11-29",
-      "backdropPath": "/sZhMWwFYPpgnmhntFeg3jyL7nnR.jpg",
-      "posterPath": "/s4pNZGARZnZfiEYgKKgyYN4KoMU.jpg",
-      "rating": 7.232,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
       "id": 839803,
       "type": "tmdb",
       "title": "雄狮少年",
@@ -650,19 +689,6 @@
       "rating": 7.2,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 604865,
-      "type": "tmdb",
-      "title": "星际变种",
-      "originalTitle": "星际变种",
-      "description": "2050年，地球上的迪希生物公司重金雇佣雷公号太空船，前往外太空搜捕外星生物——巴力。返回地球途中，船长儿子杰米无意将巴力释放，将雷公号上的人全部杀死。唯有杰米和船员寇克逃过一劫。\r 　　20年后，异形生物不断杀入地球重伤人类。迪希生物公司博士乔伊，在一次行动中认出了杰米并将他带回实验室。寇克在实验室出现，向杰米残忍的说明了20年前在空间站，自己利用他的好奇心把巴力放出来，杀死船员的故事。此时怪兽巴力脱离掌控，在实验室基地大肆杀戮。杰米如梦初醒，痛苦不已，决心报仇。\r 　　一场关乎人类命运的生死搏斗就此开始！",
-      "releaseDate": "2025-12-31",
-      "backdropPath": "/3WIVpgMilWN5z8U3FzScKBebser.jpg",
-      "posterPath": "/28gSNOFVuO3FCSqdu00Z5AC6Dqh.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 恐怖"
     },
     {
       "id": 176628,
@@ -689,19 +715,6 @@
       "rating": 6.699,
       "mediaType": "movie",
       "genreTitle": "动作, 冒险"
-    },
-    {
-      "id": 1058673,
-      "type": "tmdb",
-      "title": "金的音像店",
-      "originalTitle": "Kim's Video",
-      "description": "近三十年来，纽约的电影爱好者可以通过 Kim's Video 欣赏到大量珍贵影片。　  这位电影制作人玩弄了各种电影类型的形式和比喻，开始寻找在西西里岛丢失的传奇视频收藏，其中包含55,000部电影。",
-      "releaseDate": "2023-09-27",
-      "backdropPath": "/e3QWy9vh0E2TLpt9sMDAVcJVEby.jpg",
-      "posterPath": "/4tFfiuzpv2IzGfvZSTURGfnEHX9.jpg",
-      "rating": 6.9,
-      "mediaType": "movie",
-      "genreTitle": "纪录, 历史"
     },
     {
       "id": 507086,
@@ -756,17 +769,43 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1599011,
+      "id": 1291458,
       "type": "tmdb",
-      "title": "中华白海豚",
-      "originalTitle": "中华白海豚",
-      "description": "纪录电影《中华白海豚》聚焦 “海上大熊猫”全球仅存 6000 头的中华白海豚，既是展现其生存史诗的视觉盛宴，更是人与濒危生灵关于生命敬畏与生态坚守的真诚对话。 影片以一头名为\"珠珠\"的中华白海豚为主角，历时多年记录，从2012年它在“妈祖诞”出生于珠江口，到因港珠澳大桥建设被迫西迁，最终重返故乡的完整生命历程。 摄制组历经3600 海里的追踪“海上大熊猫”迁徙足迹，通过一批科研工作者长达数十年的坚持，一同探寻中华白海豚的演化奇迹：它们用6000万年从陆地走向海洋，皮肤随年龄由灰变白，拥有\"半脑睡眠\"的独特生理机制。 2025年，当\"珠珠\"携族群重返珠江口，当中华白海豚成为第十五届全运会吉祥物，这条\"海洋丝带\"终于串联起人与自然和谐共生的美好愿景。 影片用82分钟的深情凝视，诠释了\"万物相依，生命如海\"的深刻主题。",
-      "releaseDate": "2025-12-12",
-      "backdropPath": "/gnlT1FqTEwJSVVu0NE0F4awOxA0.jpg",
-      "posterPath": "/gkiEcRBzdFkByohtj9vuXe64zbt.jpg",
+      "title": "阿巴和他的乐队",
+      "originalTitle": "Abá e Sua Banda",
+      "description": "",
+      "releaseDate": "2025-04-17",
+      "backdropPath": "/gdvGizxFrYG8N4bjMvoIBw7nFAl.jpg",
+      "posterPath": "/pOFym2fY7Fg1wADgQdu4oSwc5MF.jpg",
       "rating": 0,
       "mediaType": "movie",
+      "genreTitle": "冒险, 动画"
+    },
+    {
+      "id": 1002640,
+      "type": "tmdb",
+      "title": "Secrets of the Sea",
+      "originalTitle": "Secrets of the Sea",
+      "description": "",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
+      "mediaType": "movie",
       "genreTitle": ""
+    },
+    {
+      "id": 829424,
+      "type": "tmdb",
+      "title": "森林奇旅",
+      "originalTitle": "Perlimps",
+      "description": "来自太阳王国的使者小狐狸克莱，和来自月亮王国的使者小熊布诺，为了寻找传说中的精灵力量，在充满传说的古老森林狭路相逢。森林外的世界已经被好战的巨人占据，古老森林也被巨人继续侵蚀，上古的精灵是拯救世界的唯一希望。两个小使者从彼此戒备到互相帮助，在美丽奇幻的森林里历险，寻找着精灵的线索。当他们从巨鸟那里得到了最重要的线索时，巨人正要毁掉这片最后的森林。克莱和布诺突然明白了精灵的力量在哪里。",
+      "releaseDate": "2023-01-18",
+      "backdropPath": "/cLvqmozY9pJX46rVDQWjhUndGed.jpg",
+      "posterPath": "/sei0oCd3Ed9JkrvHIRuPdoU9qLQ.jpg",
+      "rating": 6.4,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1397390,
@@ -795,43 +834,17 @@
       "genreTitle": "动画, 冒险"
     },
     {
-      "id": 829424,
+      "id": 1599011,
       "type": "tmdb",
-      "title": "森林奇旅",
-      "originalTitle": "Perlimps",
-      "description": "来自太阳王国的使者小狐狸克莱，和来自月亮王国的使者小熊布诺，为了寻找传说中的精灵力量，在充满传说的古老森林狭路相逢。森林外的世界已经被好战的巨人占据，古老森林也被巨人继续侵蚀，上古的精灵是拯救世界的唯一希望。两个小使者从彼此戒备到互相帮助，在美丽奇幻的森林里历险，寻找着精灵的线索。当他们从巨鸟那里得到了最重要的线索时，巨人正要毁掉这片最后的森林。克莱和布诺突然明白了精灵的力量在哪里。",
-      "releaseDate": "2023-01-18",
-      "backdropPath": "/cLvqmozY9pJX46rVDQWjhUndGed.jpg",
-      "posterPath": "/sei0oCd3Ed9JkrvHIRuPdoU9qLQ.jpg",
-      "rating": 6.4,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 1002640,
-      "type": "tmdb",
-      "title": "Secrets of the Sea",
-      "originalTitle": "Secrets of the Sea",
-      "description": "",
-      "releaseDate": "2022-06-08",
-      "backdropPath": null,
-      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
-      "id": 1291458,
-      "type": "tmdb",
-      "title": "阿巴和他的乐队",
-      "originalTitle": "Abá e Sua Banda",
-      "description": "",
-      "releaseDate": "2025-04-17",
-      "backdropPath": "/gdvGizxFrYG8N4bjMvoIBw7nFAl.jpg",
-      "posterPath": "/pOFym2fY7Fg1wADgQdu4oSwc5MF.jpg",
+      "title": "中华白海豚",
+      "originalTitle": "中华白海豚",
+      "description": "纪录电影《中华白海豚》聚焦 “海上大熊猫”全球仅存 6000 头的中华白海豚，既是展现其生存史诗的视觉盛宴，更是人与濒危生灵关于生命敬畏与生态坚守的真诚对话。 影片以一头名为\"珠珠\"的中华白海豚为主角，历时多年记录，从2012年它在“妈祖诞”出生于珠江口，到因港珠澳大桥建设被迫西迁，最终重返故乡的完整生命历程。 摄制组历经3600 海里的追踪“海上大熊猫”迁徙足迹，通过一批科研工作者长达数十年的坚持，一同探寻中华白海豚的演化奇迹：它们用6000万年从陆地走向海洋，皮肤随年龄由灰变白，拥有\"半脑睡眠\"的独特生理机制。 2025年，当\"珠珠\"携族群重返珠江口，当中华白海豚成为第十五届全运会吉祥物，这条\"海洋丝带\"终于串联起人与自然和谐共生的美好愿景。 影片用82分钟的深情凝视，诠释了\"万物相依，生命如海\"的深刻主题。",
+      "releaseDate": "2025-12-12",
+      "backdropPath": "/gnlT1FqTEwJSVVu0NE0F4awOxA0.jpg",
+      "posterPath": "/gkiEcRBzdFkByohtj9vuXe64zbt.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "冒险, 动画"
+      "genreTitle": ""
     }
   ]
 }
