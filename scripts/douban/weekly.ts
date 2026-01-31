@@ -30,17 +30,23 @@ const CONFIG = {
 async function update() {
   const startTime = Date.now();
   console.log(`豆瓣 ${CONFIG.name} 更新开始`);
-  const result: Record<string, TMDBTransformedResult[]> = {};
+  const data: Record<string, TMDBTransformedResult[]> = {};
 
   for (const item of CONFIG.items) {
     console.log(`- ${item.name}`);
-    const data = await getDoubanSubjectCollectionData(item.subject, item.start, item.count);
-    result[item.name] = data;
+    const itemData = await getDoubanSubjectCollectionData(item.subject, item.start, item.count);
+    data[item.name] = itemData;
+  }
+  const endTime = Date.now();
+  const seconds = (endTime - startTime) / 1000;
+
+  if (Object.values(data).some((item) => item.length === 0)) {
+    console.log(`豆瓣 ${CONFIG.name} 更新失败，耗时 ${seconds} 秒`);
+    return;
   }
   const time = new Date(startTime).toISOString();
-  await writeJsonFile(CONFIG.outputPath, { time, data: result });
-  const endTime = Date.now();
-  console.log(`豆瓣 ${CONFIG.name} 更新完成，耗时 ${(endTime - startTime) / 1000} 秒`);
+  await writeJsonFile(CONFIG.outputPath, { time, data });
+  console.log(`豆瓣 ${CONFIG.name} 更新完成，耗时 ${seconds} 秒`);
 }
 
 update();

@@ -1,7 +1,17 @@
 import { DOMParser } from "@b-fuze/deno-dom";
 import { UA, writeJsonFile } from "../common.ts";
-import { findTMDBResultsByIMDBId, isAvailableTMDBResult, searchTMDBResults, TMDBTransformedResult } from "../tmdb.ts";
+import {
+  findTMDBResultsByIMDBId,
+  isAvailableTMDBResult,
+  searchTMDBResults,
+  sortById,
+  TMDBTransformedResult,
+} from "../tmdb.ts";
 
+const CONFIG = {
+  name: "每日放送",
+  outputPath: "./data/bangumi/calendar.json",
+};
 const SEASON_REGEXP =
   /(?<!^)((((3rd|Final) )?(Season|Volume) ?[0-9]*|Prelude)|(第?([0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(终|終))((季|期)|(部分|クール)|(之|ノ)?章|シリーズ|(篇|編))|[0-9]+$)/gi;
 const SPECIAL_PARTS = [
@@ -27,7 +37,7 @@ function handleTitle(title: string) {
 async function main() {
   const startTime = Date.now();
   const year = new Date(startTime).getFullYear().toString();
-  console.log("Bangumi 每日放送 更新开始");
+  console.log(`Bangumi ${CONFIG.name} 更新开始`);
   const domParser = new DOMParser();
   const url = "https://bangumi.tv/calendar";
   const headers = { "User-Agent": UA };
@@ -35,14 +45,14 @@ async function main() {
   const text = await response.text();
   const doc = domParser.parseFromString(text, "text/html");
   const weekElements = doc.querySelectorAll("li.week");
-  const calendar: Record<string, TMDBTransformedResult[]> = {};
+  const data: Record<string, TMDBTransformedResult[]> = {};
 
   for (const weekElement of weekElements) {
     const dayElement = weekElement.querySelector("h3");
 
     if (dayElement) {
       const day = dayElement.textContent.trim();
-      calendar[day] = [];
+      data[day] = [];
       console.log(`- ${day}`);
       const items = weekElement.querySelectorAll(".info");
 
@@ -68,8 +78,8 @@ async function main() {
             const findResult = findResults[0];
             console.log(`    TMDB ID: ${findResult.id}`);
 
-            if (isAvailableTMDBResult(findResult)) {
-              calendar[day].push(findResult);
+            if (findResult && isAvailableTMDBResult(findResult)) {
+              data[day].push(findResult);
             } else {
               console.log("    TMDB 结果缺少必要信息，跳过");
             }
@@ -82,22 +92,29 @@ async function main() {
         if (availableResults.length === 1) {
           const onlyResult = availableResults[0];
           console.log(`    TMDB ID: ${onlyResult.id}`);
-          calendar[day].push(onlyResult);
+          data[day].push(onlyResult);
           continue;
         }
         if (availableResults.length > 1) {
-          console.log("    找到多个匹配的 TMDB 结果，需要进一步筛选");
+          const sortedResults = results.sort(sortById);
+          const firstResult = sortedResults[0];
+          data[day].push(firstResult);
           continue;
         }
         console.log("    未找到匹配的 TMDB 结果");
       }
     }
   }
-
-  const time = new Date(startTime).toISOString();
-  await writeJsonFile("./data/bangumi/calendar.json", { time, data: calendar });
   const endTime = Date.now();
-  console.log(`Bangumi 每日放送 更新完成，耗时 ${(endTime - startTime) / 1000} 秒`);
+  const seconds = (endTime - startTime) / 1000;
+
+  if (Object.values(data).some((item) => item.length === 0)) {
+    console.log(`Bangumi ${CONFIG.name} 更新失败，耗时 ${seconds} 秒`);
+    return;
+  }
+  const time = new Date(startTime).toISOString();
+  await writeJsonFile(CONFIG.outputPath, { time, data });
+  console.log(`Bangumi ${CONFIG.name} 更新完成，耗时 ${seconds} 秒`);
 }
 
 main();

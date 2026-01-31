@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-30T20:15:31.007Z",
+  "time": "2026-01-31T12:06:54.829Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-01-22",
         "backdropPath": "/tL9IWUQ14XTQf7FWIkH9ArabJJo.jpg",
         "posterPath": "/yOyXGXjdQe1v27Bvx8m008HeSd2.jpg",
-        "rating": 8.3,
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "动画, 奇幻"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3C8yAIuXlH4BGCpTwEetIv0VBt8.jpg",
         "posterPath": "/zOPSdUVppclBBNi8ImzRivHHTrd.jpg",
-        "rating": 8,
+        "rating": 7.962,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -59,11 +59,11 @@
         "type": "tmdb",
         "title": "密探",
         "originalTitle": "O Agente Secreto",
-        "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
+        "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
         "releaseDate": "2025-07-23",
         "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
         "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-        "rating": 7.671,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-01-19",
         "backdropPath": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
         "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-        "rating": 6.7,
+        "rating": 6.667,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-11-20",
         "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
         "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.853,
+        "rating": 7.846,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.8,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
-        "rating": 8.099,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -312,7 +312,7 @@
         "originalTitle": "Heated Rivalry",
         "description": "该剧以职业冰球联赛为背景，改编自Rachel Reid的同名小说，讲述了肖恩·霍兰德与伊利亚·罗扎诺夫长达八年的复杂关系；两人自17岁相识后，在赛场屡次交锋对抗，私下却因隐秘情愫陷入纠结，最终不得不在竞技荣耀与禁忌情感间作出抉择的故事。",
         "releaseDate": "2025-11-28",
-        "backdropPath": "/iS76c29IrS3lKI2X5CFySguiAWU.jpg",
+        "backdropPath": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
         "posterPath": "/j5iwP8Drc7J7osQGDpc0IdE0Pu5.jpg",
         "rating": 8.8,
         "mediaType": "tv",
@@ -379,7 +379,7 @@
         "releaseDate": "2025-12-06",
         "backdropPath": "/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
         "posterPath": "/6ADirWn2n3I4oGfLrr3RmCZE2UN.jpg",
-        "rating": 8.217,
+        "rating": 8.208,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.709,
+        "rating": 7.75,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }

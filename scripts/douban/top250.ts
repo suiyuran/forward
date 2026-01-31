@@ -13,10 +13,16 @@ async function update() {
   const startTime = Date.now();
   console.log(`豆瓣 ${CONFIG.name} 更新开始`);
   const data = await getDoubanSubjectCollectionData(CONFIG.subject, CONFIG.start, CONFIG.count);
+  const endTime = Date.now();
+  const seconds = (endTime - startTime) / 1000;
+
+  if (data.length === 0) {
+    console.log(`豆瓣 ${CONFIG.name} 更新失败，耗时 ${seconds} 秒`);
+    return;
+  }
   const time = new Date(startTime).toISOString();
   await writeJsonFile(CONFIG.outputPath, { time, data });
-  const endTime = Date.now();
-  console.log(`豆瓣 ${CONFIG.name} 更新完成，耗时 ${(endTime - startTime) / 1000} 秒`);
+  console.log(`豆瓣 ${CONFIG.name} 更新完成，耗时 ${seconds} 秒`);
 }
 
 update();

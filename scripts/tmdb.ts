@@ -86,10 +86,11 @@ export interface TMDBTVSeriesDetailsSeason {
 }
 
 export function sortByReleaseDate(a: TMDBTransformedResult, b: TMDBTransformedResult) {
-  if (!a.releaseDate && !b.releaseDate) return 0;
-  if (!a.releaseDate) return -1;
-  if (!b.releaseDate) return 1;
   return b.releaseDate.localeCompare(a.releaseDate);
+}
+
+export function sortById(a: TMDBTransformedResult, b: TMDBTransformedResult) {
+  return a.id - b.id;
 }
 
 export function isAvailableTMDBResult(result: TMDBTransformedResult) {
