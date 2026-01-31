@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "电影天堂",
   description: "获取电影天堂的 VOD 资源",
   requiredVersion: "0.0.1",
-  version: "1.0.9",
+  version: "1.1.0",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -165,7 +165,28 @@ function transformResource(resource) {
         const infos = item.split("$");
         return { title: infos[0], url: infos[1] };
       }),
+    resolutions: [],
   };
+}
+
+async function getResourceResolution(url) {
+  try {
+    const response = await Widget.http.get(url, { timeout: 10000 });
+    const match = response.data.match(/RESOLUTION=((\d+)x\d+)/);
+
+    if (match) {
+      const resolution = match[1];
+      const width = match[2];
+
+      if (width >= 1920 || resolution === "1080x608") {
+        return "1080p";
+      }
+    }
+    return "720p";
+  } catch (error) {
+    console.error("获取资源分辨率失败: ", error.message);
+    return "720p";
+  }
 }
 
 async function searchResource(title, tmdbId, imdbId, type, season, seasonTitle) {
@@ -208,6 +229,16 @@ async function searchResource(title, tmdbId, imdbId, type, season, seasonTitle) 
   }
   if (!resource && seasonTitle) {
     return await searchResource(seasonTitle, tmdbId, imdbId, type, "1", "");
+  }
+  if (resource) {
+    const urls = resource.episodes.map((ep) => ep.url);
+
+    if (type === "movie") {
+      resource.resolutions = await Promise.all(urls.map(getResourceResolution));
+    } else {
+      const resolution = await getResourceResolution(urls[0]);
+      resource.resolutions = [resolution];
+    }
   }
   return resource;
 }
@@ -312,10 +343,11 @@ function splitTitle(title) {
 }
 
 function resolveResource(resource) {
-  return resource.episodes.map((ep) => {
+  return resource.episodes.map((ep, index) => {
     const name = ep.title.replace("HD", "") || "正片";
     const info = resource.description || "暂无简介";
-    const quality = "1080p|aac";
+    const resolution = resource.resolutions[index] || resource.resolutions[0] || "720p";
+    const quality = `${resolution}|aac`;
     const description = [resource.title, "-----", info, "-----", quality].join("\n");
     return { name, description, url: ep.url };
   });
