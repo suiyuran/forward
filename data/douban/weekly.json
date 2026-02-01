@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-31T12:06:54.829Z",
+  "time": "2026-02-01T20:11:57.852Z",
   "data": {
     "电影": [
       {
@@ -7,11 +7,11 @@
         "type": "tmdb",
         "title": "超时空辉夜姬！",
         "originalTitle": "超かぐや姫！",
-        "description": "“月读”是希望与梦想交会的虚拟空间，而舞台幕布将缓缓升起，见证几位少女在此谱写短暂却珍贵的相遇篇章。17岁的东京都高中生酒寄彩叶，过着在打工与学业间奔波的忙碌生活。她唯一的纾压方式，就是沉浸在人气网络主播月见八千代的频道中，享受片刻的抽离。彩叶是月读的常客，在这里她能自由挥洒创意、体验不同的人生。某天回家的路上，彩叶偶然发现一根闪耀着奇异光芒电线杆冒出一位神秘的宝宝，无法视而不见的彩叶只好将她抱回家。随后宝宝以惊人的速度，迅速成长为一位与彩叶同龄的少女——辉夜。在辉夜的恳求下，彩叶决定在月读上帮她开设直播。彩叶负责音乐制作和作词，辉夜则专注于直播和演唱，两人合作无间，彼此的关系也更加亲密。然而，一股危险势力正伺机而动，企图将辉夜带回月球。",
+        "description": "在梦想与希望汇聚的虚拟空间<月读>，少女们相遇，以及离别的舞台，就此拉开帷幕——  在近未来的时代，酒寄彩叶是就读于东京重点高中的17岁女高中生，她同时兼顾打工与学业，每天忙得不可开交。月见八千代是互联网虚拟空间<月读>的管理员兼超人气主播，彩叶平日透过观看八千代的直播放松身心。在这个任何人都能创造自己的分身，自由进行创作活动的<月读>里，彩叶一边支持着自己的偶像八千代，一边靠对战游戏零零散散赚点零用钱。  某天放学回家的路上，彩叶发现了一根发出七彩光芒的RGB电线杆，在那里面竟然有一个可爱的婴儿。她放心不下把婴儿带回家，没想到对方转眼间迅速长大，长成了与彩叶年纪相仿的少女。  「你……该不会是辉夜姬吧？」  长大后的辉夜姬十分任性。在辉夜的请求（任性）下，彩叶开始帮她在月读开展主播活动。彩叶作为制作人创作音乐，辉夜作为主播负责演唱，两人也在合作中一点点拉近了距离。然而她们并不知道，一道不祥的阴影已经逼近了她们眼前，要将辉夜带回月亮——  这是一个，还从未有人见过的「辉夜姬」的故事。",
         "releaseDate": "2026-01-22",
         "backdropPath": "/tL9IWUQ14XTQf7FWIkH9ArabJJo.jpg",
         "posterPath": "/yOyXGXjdQe1v27Bvx8m008HeSd2.jpg",
-        "rating": 8.2,
+        "rating": 8.1,
         "mediaType": "movie",
         "genreTitle": "动画, 奇幻"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3C8yAIuXlH4BGCpTwEetIv0VBt8.jpg",
         "posterPath": "/zOPSdUVppclBBNi8ImzRivHHTrd.jpg",
-        "rating": 7.962,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
         "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-        "rating": 7.7,
+        "rating": 7.672,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-01-19",
         "backdropPath": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
         "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-        "rating": 6.667,
+        "rating": 6.563,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-11-20",
         "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
         "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.846,
+        "rating": 7.854,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2024-11-08",
         "backdropPath": "/uDKHFgRHteh2MVenrZ9Eh61hrbs.jpg",
         "posterPath": "/jcs7MPqSWcYSEiNIQmXROHPOdgT.jpg",
-        "rating": 6.9,
+        "rating": 6.95,
         "mediaType": "movie",
         "genreTitle": "剧情"
       }
@@ -195,7 +195,7 @@
         "releaseDate": "2025-12-22",
         "backdropPath": "/e2mINd8gwW2zcMtCiDQulHmssum.jpg",
         "posterPath": "/9evuKu7J3dKoQF8wxGdkHPP47il.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 8.6,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.7,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
-        "rating": 8.1,
+        "rating": 8.094,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2025-12-06",
         "backdropPath": "/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
         "posterPath": "/6ADirWn2n3I4oGfLrr3RmCZE2UN.jpg",
-        "rating": 8.208,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.75,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
