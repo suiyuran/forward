@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-01T20:11:57.852Z",
+  "time": "2026-02-03T20:22:24.136Z",
   "data": {
     "电影": [
       {
@@ -10,8 +10,8 @@
         "description": "在梦想与希望汇聚的虚拟空间<月读>，少女们相遇，以及离别的舞台，就此拉开帷幕——  在近未来的时代，酒寄彩叶是就读于东京重点高中的17岁女高中生，她同时兼顾打工与学业，每天忙得不可开交。月见八千代是互联网虚拟空间<月读>的管理员兼超人气主播，彩叶平日透过观看八千代的直播放松身心。在这个任何人都能创造自己的分身，自由进行创作活动的<月读>里，彩叶一边支持着自己的偶像八千代，一边靠对战游戏零零散散赚点零用钱。  某天放学回家的路上，彩叶发现了一根发出七彩光芒的RGB电线杆，在那里面竟然有一个可爱的婴儿。她放心不下把婴儿带回家，没想到对方转眼间迅速长大，长成了与彩叶年纪相仿的少女。  「你……该不会是辉夜姬吧？」  长大后的辉夜姬十分任性。在辉夜的请求（任性）下，彩叶开始帮她在月读开展主播活动。彩叶作为制作人创作音乐，辉夜作为主播负责演唱，两人也在合作中一点点拉近了距离。然而她们并不知道，一道不祥的阴影已经逼近了她们眼前，要将辉夜带回月亮——  这是一个，还从未有人见过的「辉夜姬」的故事。",
         "releaseDate": "2026-01-22",
         "backdropPath": "/tL9IWUQ14XTQf7FWIkH9ArabJJo.jpg",
-        "posterPath": "/yOyXGXjdQe1v27Bvx8m008HeSd2.jpg",
-        "rating": 8.1,
+        "posterPath": "/9tkMo2GNrtuzggwNF4MzixXw3B1.jpg",
+        "rating": 8.117,
         "mediaType": "movie",
         "genreTitle": "动画, 奇幻"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
         "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-        "rating": 7.672,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-01-19",
         "backdropPath": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
         "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-        "rating": 6.563,
+        "rating": 6.6,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-11-20",
         "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
         "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.854,
+        "rating": 7.866,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 8.5,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.8,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -300,7 +300,7 @@
         "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
-        "posterPath": "/nTopFwOgU2peqjCGqHTWKfXzkt3.jpg",
+        "posterPath": "/seQEW2jIAWK4gfCcUL83NFiLjk7.jpg",
         "rating": 8.094,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
@@ -314,7 +314,7 @@
         "releaseDate": "2025-11-28",
         "backdropPath": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
         "posterPath": "/j5iwP8Drc7J7osQGDpc0IdE0Pu5.jpg",
-        "rating": 8.8,
+        "rating": 8.728,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -350,7 +350,7 @@
         "title": "石油天王",
         "originalTitle": "Landman",
         "description": "石油自地底喷涌而出，秘密亦随之浮出水面——汤米·诺里斯（Tommy Noris）的崩溃临界点，或许比他意识到的更近。面对来自M - Tex石油公司、卡米·米勒（Cami Miller）的重重压力，以及亲友团的笼罩，在西得克萨斯的生存毫无高尚可言，唯有残酷本质。而迟早，总有什么会彻底崩塌。",
-        "releaseDate": "2025-11-15",
+        "releaseDate": "2025-11-16",
         "backdropPath": "/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
         "posterPath": "/pEKgBPrLN7x8fAZKjzN8NayQHiW.jpg",
         "rating": 8.6,
@@ -392,7 +392,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.6,
+        "rating": 7.587,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
