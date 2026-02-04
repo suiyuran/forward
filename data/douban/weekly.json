@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-03T20:22:24.136Z",
+  "time": "2026-02-04T20:20:19.473Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-01-22",
         "backdropPath": "/tL9IWUQ14XTQf7FWIkH9ArabJJo.jpg",
         "posterPath": "/9tkMo2GNrtuzggwNF4MzixXw3B1.jpg",
-        "rating": 8.117,
+        "rating": 8.172,
         "mediaType": "movie",
         "genreTitle": "动画, 奇幻"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
         "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-        "rating": 7.7,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-01-19",
         "backdropPath": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
         "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-        "rating": 6.6,
+        "rating": 6.617,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-11-20",
         "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
         "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.866,
+        "rating": 7.861,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -213,32 +213,6 @@
         "genreTitle": "悬疑, 动作冒险"
       },
       {
-        "id": 252161,
-        "type": "tmdb",
-        "title": "凶宅专卖店",
-        "originalTitle": "凶宅專賣店",
-        "description": "阿泽为了妹妹欣爱的医药费，打算出售居住多年的凶宅，却误打误撞成了义胜房屋的菜鸟房仲，这间凶宅专卖店，有着亲切的中年店长雄哥、举止像流氓的勇仁、零食不离手的馒头。第一天上班，阿泽就遇上灵异事件，慈安堂的毕婆婆带着有灵异体质的孙女小墨前来搭救。这一群杂牌军就这么经营起来，更加入了新人伙伴李静。正当大伙度过一次次卖屋危机时，殊不知，背后有着更大的阴谋等着他们……",
-        "releaseDate": "2026-01-16",
-        "backdropPath": "/yJu5sa3pmXjfeY1ATA2qsqCie6I.jpg",
-        "posterPath": "/yWDZL0xOfWcpF4GoRaR1Lm2Ea9z.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 305300,
-        "type": "tmdb",
-        "title": "冒姓琅琊",
-        "originalTitle": "冒姓琅琊",
-        "description": "现代汉语言文学博士王扬与四名同伴穿越至南齐永明八年，开局即面临暴露身份的生存危机。在与边境戍卒的冲突中，同伴接连丧命，王扬被诬为“北谍”，陷入死局。他凭借深厚的文史知识，冒充顶级门阀“琅琊王氏”子弟，震慑戍卒并借刀杀人，除掉隐患，初步稳住局势。",
-        "releaseDate": "2025-10-01",
-        "backdropPath": null,
-        "posterPath": "/8Lc3pmh9LgXJgkJGr7uUvACVgjk.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": ""
-      },
-      {
         "id": 263048,
         "type": "tmdb",
         "title": "狙击蝴蝶",
@@ -248,6 +222,32 @@
         "backdropPath": "/zBgOoOIfVdPbIUkaT9lxthcsUAZ.jpg",
         "posterPath": "/jebww4SrWIzwqNRchGW5AlR2KNX.jpg",
         "rating": 6.5,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 263219,
+        "type": "tmdb",
+        "title": "秋雪漫过的冬天",
+        "originalTitle": "秋雪漫过的冬天",
+        "description": "本剧讲述了两个身处困境的人在生活的泥泞中相互慰藉、相互取暖的治愈故事。出身贫寒、替父还债的周遇安遇见了家庭不顺、事业受阻的姜家齐，因为公司的职场斗争把两个本来没有交集的人连接在一起，CEO顾辰因为姜家齐的仗义执言，丢失了一款新药的上市申请机会，于是雇佣周遇安想要逼走姜家齐，姜家齐和周遇安两人从误会开始，慢慢地开始了互相理解，周遇安看到了姜家齐身上最温暖的一面，最终两人互相治愈，共同走出了人生的阴霾。故事中的男女主虽然深陷人生低谷，但始终以积极的态度面对生活，从未被生活的磨难所打倒，两人互相扶持，携手共度难关。全剧以温暖治愈的风格展现了二人从相识到误会、从相知到治愈的过程，刻画了人世间最真善美的人性光辉，传递了不管生活有多泥泞困苦，一定要心存希望，勇敢面对，终会走出阴霾、拥抱美好明天的积极价值观。",
+        "releaseDate": "2026-01-10",
+        "backdropPath": "/y1k8KhifyLJxZUK3ObviZiQREPJ.jpg",
+        "posterPath": "/2LjFKTDjYhQAW7ehLytH7V4Ucho.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 252161,
+        "type": "tmdb",
+        "title": "凶宅专卖店",
+        "originalTitle": "凶宅專賣店",
+        "description": "阿泽为了妹妹欣爱的医药费，打算出售居住多年的凶宅，却误打误撞成了义胜房屋的菜鸟房仲，这间凶宅专卖店，有着亲切的中年店长雄哥、举止像流氓的勇仁、零食不离手的馒头。第一天上班，阿泽就遇上灵异事件，慈安堂的毕婆婆带着有灵异体质的孙女小墨前来搭救。这一群杂牌军就这么经营起来，更加入了新人伙伴李静。正当大伙度过一次次卖屋危机时，殊不知，背后有着更大的阴谋等着他们……",
+        "releaseDate": "2026-01-16",
+        "backdropPath": "/yJu5sa3pmXjfeY1ATA2qsqCie6I.jpg",
+        "posterPath": "/yWDZL0xOfWcpF4GoRaR1Lm2Ea9z.jpg",
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -267,6 +267,19 @@
     ],
     "剧集·国外": [
       {
+        "id": 229891,
+        "type": "tmdb",
+        "title": "爱情怎么翻译？",
+        "originalTitle": "이 사랑 통역 되나요?",
+        "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
+        "releaseDate": "2026-01-16",
+        "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+        "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
+        "rating": 8.555,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
         "id": 250307,
         "type": "tmdb",
         "title": "匹兹堡医护前线",
@@ -276,45 +289,6 @@
         "backdropPath": "/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
         "rating": 8.6,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 229891,
-        "type": "tmdb",
-        "title": "爱情怎么翻译？",
-        "originalTitle": "이 사랑 통역 되나요?",
-        "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
-        "releaseDate": "2026-01-16",
-        "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-        "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.7,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 224372,
-        "type": "tmdb",
-        "title": "七王国的骑士",
-        "originalTitle": "A Knight of the Seven Kingdoms",
-        "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-        "releaseDate": "2026-01-18",
-        "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
-        "posterPath": "/seQEW2jIAWK4gfCcUL83NFiLjk7.jpg",
-        "rating": 8.094,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 301507,
-        "type": "tmdb",
-        "title": "巅峰对决",
-        "originalTitle": "Heated Rivalry",
-        "description": "该剧以职业冰球联赛为背景，改编自Rachel Reid的同名小说，讲述了肖恩·霍兰德与伊利亚·罗扎诺夫长达八年的复杂关系；两人自17岁相识后，在赛场屡次交锋对抗，私下却因隐秘情愫陷入纠结，最终不得不在竞技荣耀与禁忌情感间作出抉择的故事。",
-        "releaseDate": "2025-11-28",
-        "backdropPath": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-        "posterPath": "/j5iwP8Drc7J7osQGDpc0IdE0Pu5.jpg",
-        "rating": 8.728,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -332,30 +306,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 66732,
+        "id": 224372,
         "type": "tmdb",
-        "title": "怪奇物语",
-        "originalTitle": "Stranger Things",
-        "description": "1987年秋天，裂隙的开启给霍金斯镇留下了深刻的创伤，而大家此刻有着共同的目标：找到并消灭维克那。但他却消失了，无人知晓他的下落和计划。政府对霍金斯镇实施了军事隔离，并加大了对十一的搜捕力度，让她不得不再度隐姓埋名——这一切都让大家的任务变得更加复杂。威尔失踪周年纪念日临近，沉重而熟悉的恐惧也随之而来。决战近在眼前，大伙将面临前所未有的强大致命黑暗。为了结束这场噩梦，他们必须召集所有同伴，全员集结，最后一次并肩作战。",
-        "releaseDate": "2025-11-26",
-        "backdropPath": "/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
-        "posterPath": "/98pJM1e8S5SbPt7V5H9b1ZLrQdj.jpg",
-        "rating": 7.3,
+        "title": "七王国的骑士",
+        "originalTitle": "A Knight of the Seven Kingdoms",
+        "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+        "releaseDate": "2026-01-18",
+        "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+        "posterPath": "/seQEW2jIAWK4gfCcUL83NFiLjk7.jpg",
+        "rating": 8.06,
         "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 悬疑"
-      },
-      {
-        "id": 157741,
-        "type": "tmdb",
-        "title": "石油天王",
-        "originalTitle": "Landman",
-        "description": "石油自地底喷涌而出，秘密亦随之浮出水面——汤米·诺里斯（Tommy Noris）的崩溃临界点，或许比他意识到的更近。面对来自M - Tex石油公司、卡米·米勒（Cami Miller）的重重压力，以及亲友团的笼罩，在西得克萨斯的生存毫无高尚可言，唯有残酷本质。而迟早，总有什么会彻底崩塌。",
-        "releaseDate": "2025-11-16",
-        "backdropPath": "/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
-        "posterPath": "/pEKgBPrLN7x8fAZKjzN8NayQHiW.jpg",
-        "rating": 8.6,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
         "id": 297207,
@@ -371,17 +332,17 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 284744,
+        "id": 157741,
         "type": "tmdb",
-        "title": "公益律师",
-        "originalTitle": "프로보노",
-        "description": "讲述了一家大型律师事务所内一个零收入的公益律师团队，在公益法律领域中应对各种挑战的故事 。",
-        "releaseDate": "2025-12-06",
-        "backdropPath": "/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
-        "posterPath": "/6ADirWn2n3I4oGfLrr3RmCZE2UN.jpg",
-        "rating": 8.2,
+        "title": "石油天王",
+        "originalTitle": "Landman",
+        "description": "石油自地底喷涌而出，秘密亦随之浮出水面——汤米·诺里斯（Tommy Noris）的崩溃临界点，或许比他意识到的更近。面对来自M - Tex石油公司、卡米·米勒（Cami Miller）的重重压力，以及亲友团的笼罩，在西得克萨斯的生存毫无高尚可言，唯有残酷本质。而迟早，总有什么会彻底崩塌。",
+        "releaseDate": "2025-11-16",
+        "backdropPath": "/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+        "posterPath": "/pEKgBPrLN7x8fAZKjzN8NayQHiW.jpg",
+        "rating": 8.6,
         "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
+        "genreTitle": "剧情"
       },
       {
         "id": 254071,
@@ -392,9 +353,48 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.587,
+        "rating": 7.569,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
+      },
+      {
+        "id": 198178,
+        "type": "tmdb",
+        "title": "奇迹人",
+        "originalTitle": "Wonder Man",
+        "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
+        "releaseDate": "2026-01-27",
+        "backdropPath": "/los8S8iCRn5Q7irl0LNAp6C6Gmz.jpg",
+        "posterPath": "/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
+        "rating": 7.078,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 106379,
+        "type": "tmdb",
+        "title": "辐射",
+        "originalTitle": "Fallout",
+        "description": "第二季将延续第一季结局的故事，带领观众穿越莫哈韦荒原，到达世界末日后的城市新维加斯。",
+        "releaseDate": "2025-12-16",
+        "backdropPath": "/cIgHBLTMbcIkS0yvIrUUVVKLdOz.jpg",
+        "posterPath": "/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 61859,
+        "type": "tmdb",
+        "title": "夜班经理",
+        "originalTitle": "The Night Manager",
+        "description": "第一季的事件发生九年后，乔纳森·派恩被卷入哥伦比亚的一项新任务。这次的任务涉及一位危险的新军火商泰迪·多斯·桑托斯及其性感迷人的同伙罗克珊娜·博拉尼奥斯。派恩潜入泰迪的组织，揭开了层层叠叠的秘密、谎言和腐败。他能否在为时已晚之前挫败泰迪的阴谋？",
+        "releaseDate": "2026-01-01",
+        "backdropPath": "/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
+        "posterPath": "/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
+        "rating": 7.8,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
       }
     ]
   }
