@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-03T16:48:16.437Z",
+  "time": "2026-02-04T16:42:06.189Z",
   "data": {
     "星期日": [
       {
@@ -13,7 +13,7 @@
         "posterPath": "/jfPqPQy2EiS8TwDlbvU9hgyxCdF.jpg",
         "rating": 8.1,
         "mediaType": "tv",
-        "genreTitle": "动画, 剧情"
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 253476,
@@ -63,7 +63,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.818,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/6Eg3t2KdtqiF29G7a7S1Npl93g8.jpg",
         "posterPath": "/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg",
-        "rating": 8.929,
+        "rating": 8.563,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -286,7 +286,7 @@
         "releaseDate": "2019-10-08",
         "backdropPath": "/zBfnpI8883yeQkXK2kpLavHv9Yw.jpg",
         "posterPath": "/cZ8JUIwS9K4kttelRq6eP0mVhjK.jpg",
-        "rating": 8.617,
+        "rating": 8.612,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       }
@@ -381,7 +381,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.7,
+        "rating": 8.722,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -407,7 +407,7 @@
         "releaseDate": "2023-04-12",
         "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
         "posterPath": "/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
-        "rating": 8.3,
+        "rating": 8.345,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -604,7 +604,7 @@
         "releaseDate": "2026-01-15",
         "backdropPath": "/MYrRkkE2L0DKw5CRjbCYeQjLAq.jpg",
         "posterPath": "/ogbZc8ELD0XnzCtWE0jGNbesiNc.jpg",
-        "rating": 8.6,
+        "rating": 8.619,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
