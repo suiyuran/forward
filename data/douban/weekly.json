@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-04T20:20:19.473Z",
+  "time": "2026-02-05T20:19:28.436Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-01-22",
         "backdropPath": "/tL9IWUQ14XTQf7FWIkH9ArabJJo.jpg",
         "posterPath": "/9tkMo2GNrtuzggwNF4MzixXw3B1.jpg",
-        "rating": 8.172,
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "动画, 奇幻"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
         "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-        "rating": 7.6,
+        "rating": 7.656,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-01-19",
         "backdropPath": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
         "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-        "rating": 6.617,
+        "rating": 6.685,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-11-20",
         "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
         "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.861,
+        "rating": 7.859,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/y1k8KhifyLJxZUK3ObviZiQREPJ.jpg",
         "posterPath": "/2LjFKTDjYhQAW7ehLytH7V4Ucho.jpg",
-        "rating": 7,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.555,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/seQEW2jIAWK4gfCcUL83NFiLjk7.jpg",
-        "rating": 8.06,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.569,
+        "rating": 7.567,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -364,9 +364,9 @@
         "originalTitle": "Wonder Man",
         "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
         "releaseDate": "2026-01-27",
-        "backdropPath": "/los8S8iCRn5Q7irl0LNAp6C6Gmz.jpg",
+        "backdropPath": "/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
         "posterPath": "/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
-        "rating": 7.078,
+        "rating": 7.043,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
