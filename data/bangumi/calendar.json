@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-04T16:42:06.189Z",
+  "time": "2026-02-05T16:42:22.477Z",
   "data": {
     "星期日": [
       {
@@ -141,7 +141,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/6Eg3t2KdtqiF29G7a7S1Npl93g8.jpg",
         "posterPath": "/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg",
-        "rating": 8.563,
+        "rating": 8.278,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
         "posterPath": "/frh8aDHSjbnyHv2YU5fJBThEhK3.jpg",
-        "rating": 8.417,
+        "rating": 8.538,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/fgESwlxIp0XTgjwKjdxaNQJmh2q.jpg",
         "posterPath": "/bJib1vcONheAXy4WbxJCVc2QWct.jpg",
-        "rating": 8.529,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -365,8 +365,8 @@
         "description": "新生！超越时代的武士，参上！\n\n　　曾经让人间界陷入恐怖的妖邪界封印被解开，无数妖邪兵开始了入侵。奔赴人类危机的是五位年轻的武士。他们名为，武士军团！！他们的战斗之日，即将开启新的篇章！",
         "releaseDate": "2026-01-06",
         "backdropPath": "/fikx5FofgLjNvyGORxdB4R2wxsE.jpg",
-        "posterPath": "/gQDsN26g7RUibJJcgWzPvc0iTnb.jpg",
-        "rating": 9,
+        "posterPath": "/gTJXC84z3pq9VxVGjbStvMP0I2g.jpg",
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
@@ -381,7 +381,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.722,
+        "rating": 8.723,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -407,7 +407,7 @@
         "releaseDate": "2023-04-12",
         "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
         "posterPath": "/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
-        "rating": 8.345,
+        "rating": 8.348,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -552,7 +552,7 @@
         "releaseDate": "2026-01-09",
         "backdropPath": "/jlIvjqSqJXDcwTGG5nzKNeH1K9t.jpg",
         "posterPath": "/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg",
-        "rating": 5.6,
+        "rating": 5.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -684,7 +684,7 @@
         "releaseDate": "2023-09-29",
         "backdropPath": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
         "posterPath": "/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
-        "rating": 8.8,
+        "rating": 8.761,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -751,7 +751,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8,
+        "rating": 7.999,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -790,7 +790,7 @@
         "releaseDate": "2026-01-03",
         "backdropPath": "/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
         "posterPath": "/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-        "rating": 9,
+        "rating": 8.894,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -914,7 +914,7 @@
       {
         "id": 312822,
         "type": "tmdb",
-        "title": "お姉ちゃんごっこ",
+        "title": "扮演姐姐",
         "originalTitle": "お姉ちゃんごっこ",
         "description": "",
         "releaseDate": "2026-01-31",
