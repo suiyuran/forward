@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-05T17:51:39.375Z",
+  "time": "2026-02-06T17:43:25.684Z",
   "data": [
     {
       "id": 1572735,
@@ -15,19 +15,6 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 694,
-      "type": "tmdb",
-      "title": "闪灵",
-      "originalTitle": "The Shining",
-      "description": "杰克 是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂 就发现这里气氛诡异，杰克的儿子丹尼 经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
-      "releaseDate": "1980-05-23",
-      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
-      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.206,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
       "id": 1618784,
       "type": "tmdb",
       "title": "东北警察故事3",
@@ -41,6 +28,19 @@
       "genreTitle": "动作, 犯罪"
     },
     {
+      "id": 694,
+      "type": "tmdb",
+      "title": "闪灵",
+      "originalTitle": "The Shining",
+      "description": "杰克 是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂 就发现这里气氛诡异，杰克的儿子丹尼 经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
+      "releaseDate": "1980-05-23",
+      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
+      "rating": 8.206,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
       "id": 1236153,
       "type": "tmdb",
       "title": "极限审判",
@@ -49,7 +49,7 @@
       "releaseDate": "2026-01-19",
       "backdropPath": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
       "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-      "rating": 6.685,
+      "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -67,19 +67,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1290821,
-      "type": "tmdb",
-      "title": "庇护之地",
-      "originalTitle": "Shelter",
-      "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
-      "releaseDate": "2026-01-28",
-      "backdropPath": "/uCGzI1EtQWXG5yRPB5PSyOdFNcC.jpg",
-      "posterPath": "/b2kNtO8MgTjQ73uDdTBeyvpw9XF.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1537690,
       "type": "tmdb",
       "title": "爆水管",
@@ -91,6 +78,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "喜剧, 犯罪"
+    },
+    {
+      "id": 1290821,
+      "type": "tmdb",
+      "title": "庇护之地",
+      "originalTitle": "Shelter",
+      "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
+      "releaseDate": "2026-01-28",
+      "backdropPath": "/uCGzI1EtQWXG5yRPB5PSyOdFNcC.jpg",
+      "posterPath": "/b2kNtO8MgTjQ73uDdTBeyvpw9XF.jpg",
+      "rating": 7.6,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 680493,
@@ -114,7 +114,7 @@
       "releaseDate": "2026-01-07",
       "backdropPath": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
       "posterPath": "/yCOqrQxlh8M8O4PV19SXATHEIK5.jpg",
-      "rating": 6.477,
+      "rating": 6.511,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
@@ -153,7 +153,7 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.298,
+      "rating": 7.297,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -166,7 +166,7 @@
       "releaseDate": "2025-12-31",
       "backdropPath": "/gpJr8wRED8BpBVaxM0eODQEBNwC.jpg",
       "posterPath": "/wIATfOCE25jVxdXXO2ss6S770Bm.jpg",
-      "rating": 7,
+      "rating": 6.143,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -178,23 +178,36 @@
       "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
       "releaseDate": "2025-11-26",
       "backdropPath": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
-      "posterPath": "/lFdyMUKjxoKb8vdjQXQHLvPYDXm.jpg",
-      "rating": 7.63,
+      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
+      "rating": 7.632,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
     {
-      "id": 1617366,
+      "id": 1604938,
       "type": "tmdb",
-      "title": "太空异种",
-      "originalTitle": "太空异种",
-      "description": "未来世界，在一艘名为“苍穹号”的飞船上，船长梁承天带领着船员们经常在星际之间从事采集矿物质的买卖，以此来获得巨大的经济利益。虽然他们在多次采集过程中偶尔会遇到危险，但最终也都能安全返航。\r 　　直到这次，梁承天带着船员们在银河系中，意外找到一颗六千万年前爆炸的超新星，他们在附近采集到了稀有的矿物质，从而能获得巨额利益。可因利益分配不均，各怀心事的船员们就此踏上返航之旅。\r 　　在返航途中“苍穹号”意外接到了一组未知的求救讯号。他们成功救下了“创世纪号”的生物学家林修远和他的妻子Angel，而梁承天在救援的过程中也意外受伤。",
-      "releaseDate": "2026-01-30",
-      "backdropPath": "/pLMla6H6hFsoY8sjhbWBT8ZKw21.jpg",
-      "posterPath": "/u0GrncLTYL0nvL2aZPwrkmyDKcS.jpg",
+      "title": "六六大顺",
+      "originalTitle": "六六大顺",
+      "description": "濒临破产的老板李大顺（李孟武 饰）为逆转绝境，与死磕项目的技术宅李谱（肖轶 饰）踏上寻“小分子水”之路，临时搭挡的组合囧况百出，还没发车就透露着热闹，并偶遇了身世可怜的少年六六……",
+      "releaseDate": "2026-02-06",
+      "backdropPath": "/iFVmttz2mnWnz1twTmEpZAPwapt.jpg",
+      "posterPath": "/eHkhTwKHpHL2h77wwfJ5CPGgstO.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1356454,
+      "type": "tmdb",
+      "title": "得闲谨制",
+      "originalTitle": "得闲谨制",
+      "description": "一个桃花源般的小镇，一群因南京沦陷而逃难至此安居数年的百姓，偶有一日数名日军误入此地，百姓被日军逼到绝境后奋起直面迎战。一场双方武器相差悬殊的战斗，一次智慧与意志的比拼，就此展开。",
+      "releaseDate": "2025-12-06",
+      "backdropPath": "/6xu3IyWOqSVxZE0S3jPxVz3A1Bt.jpg",
+      "posterPath": "/fhgkZwwNVi7bd13uiO67Yro1HbY.jpg",
+      "rating": 3.6,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 战争"
     },
     {
       "id": 991494,
@@ -205,7 +218,7 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
       "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.69,
+      "rating": 6.676,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -221,19 +234,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1356454,
-      "type": "tmdb",
-      "title": "得闲谨制",
-      "originalTitle": "得闲谨制",
-      "description": "一个桃花源般的小镇，一群因南京沦陷而逃难至此安居数年的百姓，偶有一日数名日军误入此地，百姓被日军逼到绝境后奋起直面迎战。一场双方武器相差悬殊的战斗，一次智慧与意志的比拼，就此展开。",
-      "releaseDate": "2025-12-06",
-      "backdropPath": "/6xu3IyWOqSVxZE0S3jPxVz3A1Bt.jpg",
-      "posterPath": "/fhgkZwwNVi7bd13uiO67Yro1HbY.jpg",
-      "rating": 3.6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
     },
     {
       "id": 1593221,
