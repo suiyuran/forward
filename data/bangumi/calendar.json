@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-07T16:25:05.303Z",
+  "time": "2026-02-08T16:26:46.432Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2023-04-01",
         "backdropPath": "/vjiIuR3XGpoGSumQ7DziPAmxIYR.jpg",
         "posterPath": "/jfPqPQy2EiS8TwDlbvU9hgyxCdF.jpg",
-        "rating": 8.1,
+        "rating": 8.146,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "posterPath": "/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg",
-        "rating": 7.2,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/6Eg3t2KdtqiF29G7a7S1Npl93g8.jpg",
         "posterPath": "/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg",
-        "rating": 8.278,
+        "rating": 8.45,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -167,7 +167,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/6vaxQIDlAGtELnfyBMC9toTYMuX.jpg",
         "posterPath": "/bjgqOgkOxWphCaq1CG1jPhDq1dI.jpg",
-        "rating": 6,
+        "rating": 7.333,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
         "posterPath": "/frh8aDHSjbnyHv2YU5fJBThEhK3.jpg",
-        "rating": 8.538,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -394,7 +394,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/kPAjyR4CmPxQIJtE8RZ7HNKeOZP.jpg",
         "posterPath": "/xCtYF9w9jUGn9WMs36R0q1SBzM8.jpg",
-        "rating": 7.5,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -407,7 +407,7 @@
         "releaseDate": "2023-04-12",
         "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
         "posterPath": "/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
-        "rating": 8.348,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -433,7 +433,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/wThJAr5CYaLXH5qNhleCfbNrNSE.jpg",
         "posterPath": "/iEtEDr5CfVcUhWXFze18Rl2Q9CN.jpg",
-        "rating": 8.143,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -462,6 +462,19 @@
         "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 311946,
+        "type": "tmdb",
+        "title": "奶龙搞怪大作战",
+        "originalTitle": "奶龙搞怪大作战",
+        "description": "奶龙经常因为自己蠢萌的性格和新奇的想法给小七惹了不少的麻烦和笑话，而小七虽然嘴上吐槽奶龙，但等奶龙真正遇到问题或危险时，又勇敢地挺身而出，帮它解决各种问题，两人的友谊因此越来越稳固。",
+        "releaseDate": "2023-01-12",
+        "backdropPath": "/Aqcrj12VHkR5rgfxCdd8Z3hOIgv.jpg",
+        "posterPath": "/ved811tAZsy5ipiIeoDJXQ1mgp1.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 儿童"
       },
       {
         "id": 294280,
@@ -500,7 +513,7 @@
         "releaseDate": "2020-10-03",
         "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
         "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-        "rating": 8.565,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -552,7 +565,7 @@
         "releaseDate": "2026-01-09",
         "backdropPath": "/jlIvjqSqJXDcwTGG5nzKNeH1K9t.jpg",
         "posterPath": "/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg",
-        "rating": 5.5,
+        "rating": 6.25,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -671,7 +684,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/iKalNKa27eSiNgqGvDn55Q8fNjI.jpg",
         "posterPath": "/qgy4z9HsdotSpVUy44ZMUt7J9tL.jpg",
-        "rating": 7.8,
+        "rating": 7.938,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -684,7 +697,7 @@
         "releaseDate": "2023-09-29",
         "backdropPath": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
         "posterPath": "/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
-        "rating": 8.764,
+        "rating": 8.766,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
