@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-07T20:12:22.612Z",
+  "time": "2026-02-08T20:12:39.426Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.706,
+        "rating": 7.78,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-01-24",
         "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
         "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -61,7 +61,7 @@
         "originalTitle": "O Agente Secreto",
         "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
         "releaseDate": "2025-07-23",
-        "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
+        "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
         "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
         "rating": 7.6,
         "mediaType": "movie",
@@ -89,7 +89,7 @@
         "releaseDate": "2025-11-20",
         "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
         "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.862,
+        "rating": 7.865,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -124,11 +124,11 @@
         "type": "tmdb",
         "title": "家弑服务",
         "originalTitle": "The Housemaid",
-        "description": "为生计挣扎的女子米莉（西德尼·斯维尼 饰）找到了一个新的开始，在一对看似完美且富有的夫妻妮娜（阿曼达·塞弗里德 饰）和安德鲁（布兰登·斯克莱纳 饰）的家中做家政。然而，米莉很快发现一家人的秘密比自己的要危险得多，这座豪宅背后上演着充满秘辛、丑闻、权力诱惑的游戏。",
+        "description": "生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
         "releaseDate": "2025-12-18",
         "backdropPath": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
-        "posterPath": "/p7R6ddRrTdEwjZ7gXLFnyYuULrM.jpg",
-        "rating": 7.137,
+        "posterPath": "/scBrLhUMhL5eYgRvyO67AkiS4Fo.jpg",
+        "rating": 7.184,
         "mediaType": "movie",
         "genreTitle": "悬疑, 惊悚"
       }
@@ -247,7 +247,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/yJu5sa3pmXjfeY1ATA2qsqCie6I.jpg",
         "posterPath": "/bpTdunSUVZ9rxNfQIQBCmS9gaWF.jpg",
-        "rating": 9,
+        "rating": 9.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.517,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/px2bHM5OOeJUQjVxPutn0dwmFEj.jpg",
-        "rating": 8.177,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.583,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-01-27",
         "backdropPath": "/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
         "posterPath": "/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
-        "rating": 7.1,
+        "rating": 7.106,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -377,7 +377,7 @@
         "originalTitle": "Fallout",
         "description": "第二季将延续第一季结局的故事，带领观众穿越莫哈韦荒原，到达世界末日后的城市新维加斯。",
         "releaseDate": "2025-12-16",
-        "backdropPath": "/cIgHBLTMbcIkS0yvIrUUVVKLdOz.jpg",
+        "backdropPath": "/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
         "posterPath": "/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
         "rating": 6.9,
         "mediaType": "tv",
