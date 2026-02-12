@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-11T20:26:24.575Z",
+  "time": "2026-02-12T20:21:13.085Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.788,
+        "rating": 7.791,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
         "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-        "rating": 7.53,
+        "rating": 7.541,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2025-12-18",
         "backdropPath": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
         "posterPath": "/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
-        "rating": 7.188,
+        "rating": 7.197,
         "mediaType": "movie",
         "genreTitle": "悬疑, 惊悚"
       }
@@ -234,7 +234,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/l43ULOU8DQA0LomqfmSQoDKschy.jpg",
         "posterPath": "/qOxz5TnqxgZTLx31PWXsuEJ8AIb.jpg",
-        "rating": 7.5,
+        "rating": 5.875,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/px2bHM5OOeJUQjVxPutn0dwmFEj.jpg",
-        "rating": 8.177,
+        "rating": 8.219,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-01-27",
         "backdropPath": "/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
         "posterPath": "/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
-        "rating": 7.114,
+        "rating": 7.123,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.55,
+        "rating": 7.543,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
