@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-11T17:58:37.288Z",
+  "time": "2026-02-12T17:57:31.942Z",
   "data": [
     {
       "id": 1618784,
@@ -60,9 +60,9 @@
       "originalTitle": "Return to Silent Hill",
       "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
       "releaseDate": "2026-01-21",
-      "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+      "backdropPath": "/sVB8MrQr0x7sqAj3KVpAqpCbapT.jpg",
       "posterPath": "/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
-      "rating": 5.19,
+      "rating": 5.2,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -78,6 +78,19 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1537690,
+      "type": "tmdb",
+      "title": "爆水管",
+      "originalTitle": "爆水管",
+      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
+      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 犯罪"
     },
     {
       "id": 1411529,
@@ -106,19 +119,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1537690,
-      "type": "tmdb",
-      "title": "爆水管",
-      "originalTitle": "爆水管",
-      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
-      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 犯罪"
-    },
-    {
       "id": 1628728,
       "type": "tmdb",
       "title": "替身拳手",
@@ -138,24 +138,11 @@
       "originalTitle": "Shelter",
       "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
       "releaseDate": "2026-01-28",
-      "backdropPath": "/uCGzI1EtQWXG5yRPB5PSyOdFNcC.jpg",
+      "backdropPath": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
       "posterPath": "/b2kNtO8MgTjQ73uDdTBeyvpw9XF.jpg",
-      "rating": 7.526,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 840464,
-      "type": "tmdb",
-      "title": "末日逃生2：迁移",
-      "originalTitle": "Greenland 2: Migration",
-      "description": "由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
-      "releaseDate": "2026-01-07",
-      "backdropPath": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
-      "posterPath": "/yCOqrQxlh8M8O4PV19SXATHEIK5.jpg",
-      "rating": 6.555,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 惊悚"
     },
     {
       "id": 1530787,
@@ -169,6 +156,19 @@
       "rating": 6,
       "mediaType": "movie",
       "genreTitle": "悬疑, 犯罪"
+    },
+    {
+      "id": 840464,
+      "type": "tmdb",
+      "title": "末日逃生2：迁移",
+      "originalTitle": "Greenland 2: Migration",
+      "description": "由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
+      "releaseDate": "2026-01-07",
+      "backdropPath": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
+      "posterPath": "/yCOqrQxlh8M8O4PV19SXATHEIK5.jpg",
+      "rating": 6.5,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 惊悚"
     },
     {
       "id": 1249173,
@@ -192,7 +192,7 @@
       "releaseDate": "2025-09-05",
       "backdropPath": "/lAtuFCx6cYkNBmTMSNnLE0qlCLx.jpg",
       "posterPath": "/fGYt3JmiueEJEjH4SlMizIOzV5h.jpg",
-      "rating": 5.5,
+      "rating": 5.6,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -210,17 +210,17 @@
       "genreTitle": "科幻, 动作"
     },
     {
-      "id": 1406277,
+      "id": 83533,
       "type": "tmdb",
-      "title": "菜肉馄饨",
-      "originalTitle": "菜肉馄饨",
-      "description": "上海的退休工程师老汪与儿子有一个约定，每周六小汪会回父母家一次，顺便吃碗老汪拿手的菜肉馄饨。为了让儿子早点结婚生子，老汪在爱人素娟的启发下，决定自己去公园相亲角为儿子物色一名婚恋对象。在相亲角，老汪结识了老金、美琴、阿芳等人，自己也无意中卷入了一场始料未及的情感漩涡之中。",
-      "releaseDate": "2025-11-15",
-      "backdropPath": "/y4RYFnLVGgiEMMVPW23RvX2SXDZ.jpg",
-      "posterPath": "/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
-      "rating": 6,
+      "title": "阿凡达：火与烬",
+      "originalTitle": "Avatar: Fire and Ash",
+      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "releaseDate": "2025-12-17",
+      "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
+      "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "rating": 7.3,
       "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
+      "genreTitle": "科幻, 冒险"
     },
     {
       "id": 1325866,
@@ -236,19 +236,6 @@
       "genreTitle": "剧情, 战争"
     },
     {
-      "id": 83533,
-      "type": "tmdb",
-      "title": "阿凡达：火与烬",
-      "originalTitle": "Avatar: Fire and Ash",
-      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "releaseDate": "2025-12-17",
-      "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
-      "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.298,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
-    },
-    {
       "id": 1234731,
       "type": "tmdb",
       "title": "新狂蟒之灾",
@@ -257,7 +244,7 @@
       "releaseDate": "2025-12-24",
       "backdropPath": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
       "posterPath": "/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
-      "rating": 5.826,
+      "rating": 5.815,
       "mediaType": "movie",
       "genreTitle": "冒险, 喜剧"
     },
@@ -270,7 +257,7 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
       "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "rating": 7.623,
+      "rating": 7.617,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -301,19 +288,6 @@
       "genreTitle": "动画, 科幻"
     },
     {
-      "id": 1604938,
-      "type": "tmdb",
-      "title": "六六大顺",
-      "originalTitle": "六六大顺",
-      "description": "濒临破产的老板李大顺（李孟武 饰）为逆转绝境，与死磕项目的技术宅李谱（肖轶 饰）踏上寻“小分子水”之路，临时搭挡的组合囧况百出，还没发车就透露着热闹，并偶遇了身世可怜的少年六六……",
-      "releaseDate": "2026-02-06",
-      "backdropPath": "/iFVmttz2mnWnz1twTmEpZAPwapt.jpg",
-      "posterPath": "/eHkhTwKHpHL2h77wwfJ5CPGgstO.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
-    },
-    {
       "id": 1305715,
       "type": "tmdb",
       "title": "过家家",
@@ -327,6 +301,19 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
+      "id": 1604938,
+      "type": "tmdb",
+      "title": "六六大顺",
+      "originalTitle": "六六大顺",
+      "description": "濒临破产的老板李大顺（李孟武 饰）为逆转绝境，与死磕项目的技术宅李谱（肖轶 饰）踏上寻“小分子水”之路，临时搭挡的组合囧况百出，还没发车就透露着热闹，并偶遇了身世可怜的少年六六……",
+      "releaseDate": "2026-02-06",
+      "backdropPath": "/iFVmttz2mnWnz1twTmEpZAPwapt.jpg",
+      "posterPath": "/eHkhTwKHpHL2h77wwfJ5CPGgstO.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
       "id": 991494,
       "type": "tmdb",
       "title": "海绵宝宝：深海大冒险",
@@ -335,7 +322,7 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
       "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.69,
+      "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -379,6 +366,19 @@
       "genreTitle": "爱情, 喜剧"
     },
     {
+      "id": 1356454,
+      "type": "tmdb",
+      "title": "得闲谨制",
+      "originalTitle": "得闲谨制",
+      "description": "一个桃花源般的小镇，一群因南京沦陷而逃难至此安居数年的百姓，偶有一日数名日军误入此地，百姓被日军逼到绝境后奋起直面迎战。一场双方武器相差悬殊的战斗，一次智慧与意志的比拼，就此展开。",
+      "releaseDate": "2025-12-06",
+      "backdropPath": "/6xu3IyWOqSVxZE0S3jPxVz3A1Bt.jpg",
+      "posterPath": "/fhgkZwwNVi7bd13uiO67Yro1HbY.jpg",
+      "rating": 3.6,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 战争"
+    },
+    {
       "id": 1617366,
       "type": "tmdb",
       "title": "太空异种",
@@ -418,19 +418,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1356454,
-      "type": "tmdb",
-      "title": "得闲谨制",
-      "originalTitle": "得闲谨制",
-      "description": "一个桃花源般的小镇，一群因南京沦陷而逃难至此安居数年的百姓，偶有一日数名日军误入此地，百姓被日军逼到绝境后奋起直面迎战。一场双方武器相差悬殊的战斗，一次智慧与意志的比拼，就此展开。",
-      "releaseDate": "2025-12-06",
-      "backdropPath": "/6xu3IyWOqSVxZE0S3jPxVz3A1Bt.jpg",
-      "posterPath": "/fhgkZwwNVi7bd13uiO67Yro1HbY.jpg",
-      "rating": 3.6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
-    },
-    {
       "id": 425274,
       "type": "tmdb",
       "title": "惊天魔盗团3",
@@ -439,35 +426,9 @@
       "releaseDate": "2025-11-12",
       "backdropPath": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
       "posterPath": "/ew4YPi9d0korzDmAOC9N1SCjYp0.jpg",
-      "rating": 6.6,
+      "rating": 6.547,
       "mediaType": "movie",
       "genreTitle": "惊悚, 犯罪"
-    },
-    {
-      "id": 967941,
-      "type": "tmdb",
-      "title": "魔法坏女巫2",
-      "originalTitle": "Wicked: For Good",
-      "description": "已被妖魔化为「西方坏女巫」的艾芙芭隐居森林，持续为受压迫的动物抗争，并试图揭穿巫师的谎言；而格琳达则成为奥兹国的善良象征，在翡翠城享受荣耀。格琳达准备与费耶罗王子结婚，然而她与艾芙芭的关系每况愈下，试图调解却失败导致最终决裂，牵连甚广。此时一位来自堪萨斯州的少女意外闯入，引发连串风暴，迫使这对昔日挚友在暴民围剿下最后一次联手，她们必须真诚面对彼此，才能改写奥兹国的命运。",
-      "releaseDate": "2025-11-19",
-      "backdropPath": "/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
-      "posterPath": "/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
-      "rating": 6.7,
-      "mediaType": "movie",
-      "genreTitle": "奇幻, 冒险"
-    },
-    {
-      "id": 1598997,
-      "type": "tmdb",
-      "title": "八府巡按",
-      "originalTitle": "八府巡按",
-      "description": "清末，关东永昌府。二甲进士出身的知府贾正道，在吴师爷等众属下以及绅商协助下治理一府六县。一封军机处密信让众人手忙脚乱，朝廷将秘遣“八府巡按”查办贪腐。同时收到刑部紧急公文要求缉拿“在逃诈骗团伙”。他们辗转于酒局、闺房、江湖与公堂之间，既要躲避巡查消灾解祸，又想抓捕逃犯邀功领赏。在精心筹划的步步为营与机缘运命的荒腔走板中，一场关乎发财还是发疯、升官还是“升天”的大戏拉开帷幕……",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/gDen1hY37ukvFX1x8pfkAUhAvqM.jpg",
-      "posterPath": "/hn3bVQvfVa8u4x9Tx9ajn2WHtOs.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 915935,
@@ -483,17 +444,30 @@
       "genreTitle": "惊悚, 悬疑"
     },
     {
-      "id": 1502119,
+      "id": 1598997,
       "type": "tmdb",
-      "title": "隐者山河",
-      "originalTitle": "隐者山河",
-      "description": "《隐者山河》记录了旅法华人作曲家陈其钢对艺术和人生的求索过程。这是一部音乐纪录电影，也是一次有现实意义的文化巡礼。作为一位在中法文化氛围中成长起来的音乐家，陈其钢以独特的视角，传递出耳目一新的观念。  　　影片以记录陈其钢在中国浙江·丽水的隐居生活和访谈为基点，跟随陈其钢近年来在全球不同国家上演的音乐作品和排演过程为主体内容，以近乎散文诗的方式，将陈其钢的人生经历和音乐作品耦合，分布成六个乐章——归隐、肖像、迁徙、创作、躬耕、如戏，观众既可以透过音乐和影像，感受陈其钢的音乐魅力，也可以身临其境体验音乐家诚实自由的思想表达，领会艺术的秘密所在。",
-      "releaseDate": "2025-11-25",
-      "backdropPath": "/zFTJNWRqfhi4yTQOVnXsdjnl2DI.jpg",
-      "posterPath": "/fgYRdHm9rcl7Mphqkte074ggWD2.jpg",
+      "title": "八府巡按",
+      "originalTitle": "八府巡按",
+      "description": "清末，关东永昌府。二甲进士出身的知府贾正道，在吴师爷等众属下以及绅商协助下治理一府六县。一封军机处密信让众人手忙脚乱，朝廷将秘遣“八府巡按”查办贪腐。同时收到刑部紧急公文要求缉拿“在逃诈骗团伙”。他们辗转于酒局、闺房、江湖与公堂之间，既要躲避巡查消灾解祸，又想抓捕逃犯邀功领赏。在精心筹划的步步为营与机缘运命的荒腔走板中，一场关乎发财还是发疯、升官还是“升天”的大戏拉开帷幕……",
+      "releaseDate": "2026-01-16",
+      "backdropPath": "/gDen1hY37ukvFX1x8pfkAUhAvqM.jpg",
+      "posterPath": "/hn3bVQvfVa8u4x9Tx9ajn2WHtOs.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "纪录, 音乐"
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 967941,
+      "type": "tmdb",
+      "title": "魔法坏女巫2",
+      "originalTitle": "Wicked: For Good",
+      "description": "已被妖魔化为「西方坏女巫」的艾芙芭隐居森林，持续为受压迫的动物抗争，并试图揭穿巫师的谎言；而格琳达则成为奥兹国的善良象征，在翡翠城享受荣耀。格琳达准备与费耶罗王子结婚，然而她与艾芙芭的关系每况愈下，试图调解却失败导致最终决裂，牵连甚广。此时一位来自堪萨斯州的少女意外闯入，引发连串风暴，迫使这对昔日挚友在暴民围剿下最后一次联手，她们必须真诚面对彼此，才能改写奥兹国的命运。",
+      "releaseDate": "2025-11-19",
+      "backdropPath": "/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
+      "posterPath": "/czz4MOzBOsLxFL8G40eIvRKE2Sp.jpg",
+      "rating": 6.69,
+      "mediaType": "movie",
+      "genreTitle": "奇幻, 冒险"
     },
     {
       "id": 1593221,
@@ -522,17 +496,17 @@
       "genreTitle": "喜剧, 动作"
     },
     {
-      "id": 1599013,
+      "id": 1502119,
       "type": "tmdb",
-      "title": "情缘曹雪芹",
-      "originalTitle": "情缘曹雪芹",
-      "description": "影片聚焦于文学巨匠曹雪芹丰富而深邃的情感世界，从其生命经历中撷取动人篇章。电影不仅通过曹雪芹与生命中三位重要女性——芳青、荷香、云妹的动人情感交织，细腻展现了他的深情与胸怀；也刻画了他与敦诚、敦敏、于景廉、徐环等友人之间真挚而深刻的友谊。这些源自现实生活的深切关怀与命运共鸣，最终凝聚为他“为闺阁增光”的宏大志向，成为其呕心沥血创作《红楼梦》的初心与动力，生动诠释了一种超越个人情爱、为天下女子立传的“大情大爱”。",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/vOb07QqTkMroELd5VmtuCS6d4v8.jpg",
-      "posterPath": "/pBhRGhbgkVOgk5FF4o7u26ntxE5.jpg",
+      "title": "隐者山河",
+      "originalTitle": "隐者山河",
+      "description": "《隐者山河》记录了旅法华人作曲家陈其钢对艺术和人生的求索过程。这是一部音乐纪录电影，也是一次有现实意义的文化巡礼。作为一位在中法文化氛围中成长起来的音乐家，陈其钢以独特的视角，传递出耳目一新的观念。  　　影片以记录陈其钢在中国浙江·丽水的隐居生活和访谈为基点，跟随陈其钢近年来在全球不同国家上演的音乐作品和排演过程为主体内容，以近乎散文诗的方式，将陈其钢的人生经历和音乐作品耦合，分布成六个乐章——归隐、肖像、迁徙、创作、躬耕、如戏，观众既可以透过音乐和影像，感受陈其钢的音乐魅力，也可以身临其境体验音乐家诚实自由的思想表达，领会艺术的秘密所在。",
+      "releaseDate": "2025-11-25",
+      "backdropPath": "/zFTJNWRqfhi4yTQOVnXsdjnl2DI.jpg",
+      "posterPath": "/fgYRdHm9rcl7Mphqkte074ggWD2.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
+      "genreTitle": "纪录, 音乐"
     },
     {
       "id": 10191,
@@ -548,17 +522,17 @@
       "genreTitle": "奇幻, 冒险"
     },
     {
-      "id": 1323410,
+      "id": 1599013,
       "type": "tmdb",
-      "title": "月光里的男孩",
-      "originalTitle": "月光里的男孩",
-      "description": "作家扎西因为儿时打瞎了一条与他同名的狗而愧疚多年，可是当他再回到家乡后却得知了事情的真相。",
-      "releaseDate": "2026-01-06",
-      "backdropPath": "/wUgoZzLqH9GXUKBnt2DvPqWbGJV.jpg",
-      "posterPath": "/7D2xwJK5eBMiKXKqeNguPCIDRAc.jpg",
+      "title": "情缘曹雪芹",
+      "originalTitle": "情缘曹雪芹",
+      "description": "影片聚焦于文学巨匠曹雪芹丰富而深邃的情感世界，从其生命经历中撷取动人篇章。电影不仅通过曹雪芹与生命中三位重要女性——芳青、荷香、云妹的动人情感交织，细腻展现了他的深情与胸怀；也刻画了他与敦诚、敦敏、于景廉、徐环等友人之间真挚而深刻的友谊。这些源自现实生活的深切关怀与命运共鸣，最终凝聚为他“为闺阁增光”的宏大志向，成为其呕心沥血创作《红楼梦》的初心与动力，生动诠释了一种超越个人情爱、为天下女子立传的“大情大爱”。",
+      "releaseDate": "2026-01-16",
+      "backdropPath": "/vOb07QqTkMroELd5VmtuCS6d4v8.jpg",
+      "posterPath": "/pBhRGhbgkVOgk5FF4o7u26ntxE5.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1338704,
@@ -574,14 +548,14 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1369453,
+      "id": 1323410,
       "type": "tmdb",
-      "title": "年年岁岁",
-      "originalTitle": "年年岁岁",
-      "description": "梦境与幻觉不断侵入米寻的现实生活，尘封的往事，隐秘的情感被渐渐揭开，米寻决意以此拍摄一部电影，与父亲重逢与告别。",
-      "releaseDate": "2023-03-16",
-      "backdropPath": "/81wAN1BT7maDqrdTroBvdTevAsK.jpg",
-      "posterPath": "/8smDX9YYebIDBRQGaEqmCr3mHkj.jpg",
+      "title": "月光里的男孩",
+      "originalTitle": "月光里的男孩",
+      "description": "作家扎西因为儿时打瞎了一条与他同名的狗而愧疚多年，可是当他再回到家乡后却得知了事情的真相。",
+      "releaseDate": "2026-01-06",
+      "backdropPath": "/wUgoZzLqH9GXUKBnt2DvPqWbGJV.jpg",
+      "posterPath": "/7D2xwJK5eBMiKXKqeNguPCIDRAc.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
@@ -600,17 +574,17 @@
       "genreTitle": "剧情, 动作"
     },
     {
-      "id": 1058673,
+      "id": 1369453,
       "type": "tmdb",
-      "title": "金的音像店",
-      "originalTitle": "Kim's Video",
-      "description": "近三十年来，纽约的电影爱好者可以通过 Kim's Video 欣赏到大量珍贵影片。　  这位电影制作人玩弄了各种电影类型的形式和比喻，开始寻找在西西里岛丢失的传奇视频收藏，其中包含55,000部电影。",
-      "releaseDate": "2023-09-27",
-      "backdropPath": "/e3QWy9vh0E2TLpt9sMDAVcJVEby.jpg",
-      "posterPath": "/4tFfiuzpv2IzGfvZSTURGfnEHX9.jpg",
-      "rating": 6.9,
+      "title": "年年岁岁",
+      "originalTitle": "年年岁岁",
+      "description": "梦境与幻觉不断侵入米寻的现实生活，尘封的往事，隐秘的情感被渐渐揭开，米寻决意以此拍摄一部电影，与父亲重逢与告别。",
+      "releaseDate": "2023-03-16",
+      "backdropPath": "/81wAN1BT7maDqrdTroBvdTevAsK.jpg",
+      "posterPath": "/8smDX9YYebIDBRQGaEqmCr3mHkj.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "纪录, 历史"
+      "genreTitle": "剧情"
     },
     {
       "id": 313230,
@@ -624,6 +598,19 @@
       "rating": 8,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
+    },
+    {
+      "id": 1601264,
+      "type": "tmdb",
+      "title": "背后有人",
+      "originalTitle": "背后有人",
+      "description": "老楼真有鬼，背后不是人！青年录音师入住鬼楼，听到鬼频率，看到鬼飘移……长发女鬼，时隐时现，时而爆发出惊人尖叫，时而传来隐隐的鬼哭……突然之间，女鬼出现在房顶，一回头，女鬼又惊现在被子里！惨叫不断，惊吓不断，鬼魅血脸狰狞扭曲，阴森鬼爪惊悚索命！女主陪同男主勇闯鬼楼，挑战千年怨灵，等待他们的是冤魂的报复？还是厉鬼的劫杀？一切都是未知！月圆之夜，人鬼决战呈现在荒郊野外，鬼BOSS终于邪恶登场，终极颤栗一触即发！谁敢回头看背后？颤抖吧，尖叫吧！",
+      "releaseDate": "2025-12-20",
+      "backdropPath": null,
+      "posterPath": "/xf595jRbYYZ7Vs9jygykHfUWWsa.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1565589,
