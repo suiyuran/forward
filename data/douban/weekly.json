@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-12T20:21:13.085Z",
+  "time": "2026-02-13T20:23:16.142Z",
   "data": {
     "电影": [
       {
@@ -11,9 +11,22 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.791,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
+      },
+      {
+        "id": 1220564,
+        "type": "tmdb",
+        "title": "密探",
+        "originalTitle": "O Agente Secreto",
+        "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
+        "releaseDate": "2025-07-23",
+        "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
+        "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
+        "rating": 7.5,
+        "mediaType": "movie",
+        "genreTitle": "犯罪, 剧情"
       },
       {
         "id": 1379266,
@@ -29,45 +42,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 1618784,
-        "type": "tmdb",
-        "title": "东北警察故事3",
-        "originalTitle": "东北警察故事3",
-        "description": "李红旗要办婚礼了！本想婚礼一切从简，但彪悍热心的丈母娘（林晓杰 饰）坚持做主想大操大办，李红旗不得不飞往海角，落地后却得知飞机邻座女孩昕昕（马千壹 饰）被人贩子拐走。面对凶残狡猾的犯罪团伙，李红旗与当地办案风格迥异的警察孙彪（崔志佳 饰）强强联手，在婚期逼近的倒计时中和人贩子头目秦叶蓉（黄米依 饰）及卖鱼佬（伍允龙 饰）展开殊死搏斗。婚礼筹备笑料百出，办案追凶惊心动魄——红旗不倒，正义不休假！看李红旗如何罪犯、幸福两手抓。",
-        "releaseDate": "2026-01-23",
-        "backdropPath": "/3lxudebZT3Ed5YslEuwqsfM7KxB.jpg",
-        "posterPath": "/m8RL0ksOFAbxjRfVpmJnTEwEEQW.jpg",
-        "rating": 0,
-        "mediaType": "movie",
-        "genreTitle": "动作, 犯罪"
-      },
-      {
-        "id": 1497873,
-        "type": "tmdb",
-        "title": "翠湖",
-        "originalTitle": "翠湖",
-        "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
-        "releaseDate": "2026-01-24",
-        "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
-        "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
-        "rating": 7,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1220564,
-        "type": "tmdb",
-        "title": "密探",
-        "originalTitle": "O Agente Secreto",
-        "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
-        "releaseDate": "2025-07-23",
-        "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
-        "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-        "rating": 7.541,
-        "mediaType": "movie",
-        "genreTitle": "犯罪, 剧情"
-      },
-      {
         "id": 1149614,
         "type": "tmdb",
         "title": "是的",
@@ -81,17 +55,43 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 1208348,
+        "id": 1368166,
         "type": "tmdb",
-        "title": "临租家庭",
-        "originalTitle": "Rental Family",
-        "description": "本片讲述了一位在东京落魄的美国演员的故事。他受雇于一家日本家庭租赁公司，充当门面上的“美籍演员”，由此通过扮演他人生活中的各种角色，踏上了一段意想不到的自我发现之旅。",
-        "releaseDate": "2025-11-20",
-        "backdropPath": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
-        "posterPath": "/msX6Gv6MzP9IMbuV6XbUC9U2xCu.jpg",
-        "rating": 7.9,
+        "title": "家弑服务",
+        "originalTitle": "The Housemaid",
+        "description": "生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
+        "releaseDate": "2025-12-18",
+        "backdropPath": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
+        "posterPath": "/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
+        "rating": 7.197,
         "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
+        "genreTitle": "悬疑, 惊悚"
+      },
+      {
+        "id": 1317288,
+        "type": "tmdb",
+        "title": "至尊马蒂",
+        "originalTitle": "Marty Supreme",
+        "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+        "releaseDate": "2025-12-19",
+        "backdropPath": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
+        "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
+        "rating": 7.6,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1397364,
+        "type": "tmdb",
+        "title": "恩典",
+        "originalTitle": "La grazia",
+        "description": "马里亚诺·德·桑蒂斯是意大利共和国总统。此人与现实中的任何总统均无关联，完全是作者虚构的人物。他丧偶多年，且信奉天主教，有一个女儿名叫多罗泰亚——和他一样，女儿也是一名法律学者。任期即将结束之际，在波澜不惊的日常中，两项最后的职责摆在了他面前：就两份敏感的总统特赦申请 做出决定。这些抉择构成了真正的道德困境，并且以看似无法理清的方式，与他的私人生活纠缠在了一起。在疑虑的驱使下，他必须做出抉择。而这位杰出的意大利总统，怀着强烈的责任感，必将履行这份职责。",
+        "releaseDate": "2025-12-05",
+        "backdropPath": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
+        "posterPath": "/d86ctnc1Kl9xZHJ1xBPcwTKmaGa.jpg",
+        "rating": 7.514,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
       },
       {
         "id": 1047884,
@@ -120,17 +120,17 @@
         "genreTitle": "剧情, 历史"
       },
       {
-        "id": 1368166,
+        "id": 766520,
         "type": "tmdb",
-        "title": "家弑服务",
-        "originalTitle": "The Housemaid",
-        "description": "生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-        "releaseDate": "2025-12-18",
-        "backdropPath": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
-        "posterPath": "/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
-        "rating": 7.197,
+        "title": "柔似蜜",
+        "originalTitle": "Rosemead",
+        "description": "改编自Frank Shyong撰写的《洛杉矶时报》报道《一个垂死母亲的计划》(A Dying Mother’s Plan)。来自真实事件，被形容为“让人心碎的故事，聚焦理解心理疾病的多层面的重要性，尤其是亚裔社群中”，讲述在圣盖博谷，一个患上癌症绝症的母亲奋力想要帮助自己情绪不稳定的儿子——她发现儿子对大规模枪击案越发沉迷。",
+        "releaseDate": "2025-12-05",
+        "backdropPath": "/vwQ95VtH1mfTe1hkTU6dGZJZ2y2.jpg",
+        "posterPath": "/uVilyfKrB5ZkhXh7MMaIaevzueR.jpg",
+        "rating": 6.667,
         "mediaType": "movie",
-        "genreTitle": "悬疑, 惊悚"
+        "genreTitle": "剧情"
       }
     ],
     "剧集·国内": [
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/px2bHM5OOeJUQjVxPutn0dwmFEj.jpg",
-        "rating": 8.219,
+        "rating": 8.234,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
         "posterPath": "/cbKWOqYrEhBWiAa1jAK2Vu7GMED.jpg",
-        "rating": 8.4,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2025-12-16",
         "backdropPath": "/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
         "posterPath": "/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
-        "rating": 6.8,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.522,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-01-27",
         "backdropPath": "/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
         "posterPath": "/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
-        "rating": 7.123,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
