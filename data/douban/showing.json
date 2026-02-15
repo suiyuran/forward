@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-14T17:28:52.790Z",
+  "time": "2026-02-15T17:28:34.237Z",
   "data": [
     {
       "id": 1618784,
@@ -13,84 +13,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 51731,
-      "type": "tmdb",
-      "title": "鹿鼎记II神龙教",
-      "originalTitle": "鹿鼎記 II : 神龍敎",
-      "description": "韦小宝要护送建宁公主嫁到云南，以安抚图谋造反的吴三桂父子。在途中遇到了独臂神尼的刺杀。小宝被抓走后，借口拜神尼为师，其实是想追求其徒弟阿珂。不料韦小宝被神龙教圣女龙儿抓走，想要报之前在王宫里埋下的仇恨，却没想到遭到了平西王的陷害。韦小宝极力相救，龙儿以身相许更把绝世武功传于韦小宝。韦小宝与公主之间的事情被平西王发现了，平西王更提前造反。小宝在独臂神尼、神龙教、天地会、云南王等多方势力角逐中终得化险为夷、还赢得了包括龙儿在内的众多姑娘的芳心。最后制服了吴三桂父子，回到京城受到皇帝赏识，同时，韦小宝天地会的身份被人密告皇帝……",
-      "releaseDate": "1992-09-24",
-      "backdropPath": "/uiTFVCL19OLaPAgrbX9zTvYK5bb.jpg",
-      "posterPath": "/wHUgmng3fCSCVPTwdbYqdZqc3XQ.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "动作, 喜剧"
-    },
-    {
-      "id": 694,
-      "type": "tmdb",
-      "title": "闪灵",
-      "originalTitle": "The Shining",
-      "description": "杰克 是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂 就发现这里气氛诡异，杰克的儿子丹尼 经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
-      "releaseDate": "1980-05-23",
-      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
-      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.206,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1236153,
-      "type": "tmdb",
-      "title": "极限审判",
-      "originalTitle": "Mercy",
-      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "releaseDate": "2026-01-20",
-      "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
-      "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-      "rating": 6.66,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
-    },
-    {
-      "id": 1537690,
-      "type": "tmdb",
-      "title": "爆水管",
-      "originalTitle": "爆水管",
-      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
-      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 犯罪"
-    },
-    {
-      "id": 680493,
-      "type": "tmdb",
-      "title": "重返寂静岭",
-      "originalTitle": "Return to Silent Hill",
-      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
-      "releaseDate": "2026-01-21",
-      "backdropPath": "/sVB8MrQr0x7sqAj3KVpAqpCbapT.jpg",
-      "posterPath": "/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
-      "rating": 5.1,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 悬疑"
-    },
-    {
-      "id": 1411529,
-      "type": "tmdb",
-      "title": "飞行家",
-      "originalTitle": "飞行家",
-      "description": "李明奇（蒋奇明 饰），一个沉迷飞行的东北犟种，为了爱人决定认命回到地面，把梦想锁进工具箱底。可生活的难题从四面八方奔涌而来，将他们逼至绝境，唯一的生机，竟是他那被嘲笑了半辈子的飞行梦。一个怪人，一家亲人，一群朋友——他们共同押上所有，凝聚成托举的长风。为了托起沉甸甸的生活，李明奇再次从高空一跃而下，对命运做出勇敢反击！",
-      "releaseDate": "2026-01-12",
-      "backdropPath": "/yJDFQkTMSzZfdsA4U5ckh8565Zi.jpg",
-      "posterPath": "/4MCXfUEaIDLLZew1JQg817fqyb0.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 871900,
@@ -119,17 +41,95 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1290821,
+      "id": 51731,
       "type": "tmdb",
-      "title": "庇护之地",
-      "originalTitle": "Shelter",
-      "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
-      "releaseDate": "2026-01-28",
-      "backdropPath": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-      "posterPath": "/b2kNtO8MgTjQ73uDdTBeyvpw9XF.jpg",
-      "rating": 7.659,
+      "title": "鹿鼎记II神龙教",
+      "originalTitle": "鹿鼎記 II : 神龍敎",
+      "description": "韦小宝要护送建宁公主嫁到云南，以安抚图谋造反的吴三桂父子。在途中遇到了独臂神尼的刺杀。小宝被抓走后，借口拜神尼为师，其实是想追求其徒弟阿珂。不料韦小宝被神龙教圣女龙儿抓走，想要报之前在王宫里埋下的仇恨，却没想到遭到了平西王的陷害。韦小宝极力相救，龙儿以身相许更把绝世武功传于韦小宝。韦小宝与公主之间的事情被平西王发现了，平西王更提前造反。小宝在独臂神尼、神龙教、天地会、云南王等多方势力角逐中终得化险为夷、还赢得了包括龙儿在内的众多姑娘的芳心。最后制服了吴三桂父子，回到京城受到皇帝赏识，同时，韦小宝天地会的身份被人密告皇帝……",
+      "releaseDate": "1992-09-24",
+      "backdropPath": "/uiTFVCL19OLaPAgrbX9zTvYK5bb.jpg",
+      "posterPath": "/wHUgmng3fCSCVPTwdbYqdZqc3XQ.jpg",
+      "rating": 7.1,
       "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
+      "genreTitle": "动作, 喜剧"
+    },
+    {
+      "id": 694,
+      "type": "tmdb",
+      "title": "闪灵",
+      "originalTitle": "The Shining",
+      "description": "杰克 是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂 就发现这里气氛诡异，杰克的儿子丹尼 经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
+      "releaseDate": "1980-05-23",
+      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
+      "rating": 8.205,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1236153,
+      "type": "tmdb",
+      "title": "极限审判",
+      "originalTitle": "Mercy",
+      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
+      "releaseDate": "2026-01-20",
+      "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
+      "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
+      "rating": 6.674,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1537690,
+      "type": "tmdb",
+      "title": "爆水管",
+      "originalTitle": "爆水管",
+      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
+      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 犯罪"
+    },
+    {
+      "id": 1411529,
+      "type": "tmdb",
+      "title": "飞行家",
+      "originalTitle": "飞行家",
+      "description": "李明奇（蒋奇明 饰），一个沉迷飞行的东北犟种，为了爱人决定认命回到地面，把梦想锁进工具箱底。可生活的难题从四面八方奔涌而来，将他们逼至绝境，唯一的生机，竟是他那被嘲笑了半辈子的飞行梦。一个怪人，一家亲人，一群朋友——他们共同押上所有，凝聚成托举的长风。为了托起沉甸甸的生活，李明奇再次从高空一跃而下，对命运做出勇敢反击！",
+      "releaseDate": "2026-01-12",
+      "backdropPath": "/yJDFQkTMSzZfdsA4U5ckh8565Zi.jpg",
+      "posterPath": "/4MCXfUEaIDLLZew1JQg817fqyb0.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 680493,
+      "type": "tmdb",
+      "title": "重返寂静岭",
+      "originalTitle": "Return to Silent Hill",
+      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
+      "releaseDate": "2026-01-21",
+      "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+      "posterPath": "/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
+      "rating": 5.2,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 悬疑"
+    },
+    {
+      "id": 313369,
+      "type": "tmdb",
+      "title": "爱乐之城",
+      "originalTitle": "La La Land",
+      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
+      "releaseDate": "2016-12-01",
+      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
+      "rating": 7.899,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1530787,
@@ -145,6 +145,19 @@
       "genreTitle": "悬疑, 犯罪"
     },
     {
+      "id": 1290821,
+      "type": "tmdb",
+      "title": "庇护之地",
+      "originalTitle": "Shelter",
+      "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
+      "releaseDate": "2026-01-28",
+      "backdropPath": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "posterPath": "/b2kNtO8MgTjQ73uDdTBeyvpw9XF.jpg",
+      "rating": 7.605,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
       "id": 840464,
       "type": "tmdb",
       "title": "末日逃生2：迁移",
@@ -153,7 +166,7 @@
       "releaseDate": "2026-01-07",
       "backdropPath": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
       "posterPath": "/yCOqrQxlh8M8O4PV19SXATHEIK5.jpg",
-      "rating": 6.558,
+      "rating": 6.544,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
@@ -171,19 +184,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 313369,
-      "type": "tmdb",
-      "title": "爱乐之城",
-      "originalTitle": "La La Land",
-      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
-      "releaseDate": "2016-12-01",
-      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
-      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.899,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
       "id": 1565586,
       "type": "tmdb",
       "title": "遇见不同的遇见",
@@ -197,6 +197,19 @@
       "genreTitle": "喜剧, 悬疑"
     },
     {
+      "id": 1084242,
+      "type": "tmdb",
+      "title": "疯狂动物城2",
+      "originalTitle": "Zootopia 2",
+      "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+      "releaseDate": "2025-11-26",
+      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
+      "rating": 7.609,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
+    },
+    {
       "id": 83533,
       "type": "tmdb",
       "title": "阿凡达：火与烬",
@@ -208,19 +221,6 @@
       "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 1084242,
-      "type": "tmdb",
-      "title": "疯狂动物城2",
-      "originalTitle": "Zootopia 2",
-      "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
-      "releaseDate": "2025-11-26",
-      "backdropPath": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
-      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "rating": 7.617,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1604938,
@@ -244,7 +244,7 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
       "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.7,
+      "rating": 6.728,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
