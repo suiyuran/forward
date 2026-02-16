@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-15T17:28:34.237Z",
+  "time": "2026-02-16T17:40:02.833Z",
   "data": [
     {
       "id": 1618784,
@@ -41,6 +41,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1537690,
+      "type": "tmdb",
+      "title": "爆水管",
+      "originalTitle": "爆水管",
+      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
+      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 犯罪"
+    },
+    {
       "id": 51731,
       "type": "tmdb",
       "title": "鹿鼎记II神龙教",
@@ -58,39 +71,13 @@
       "type": "tmdb",
       "title": "闪灵",
       "originalTitle": "The Shining",
-      "description": "杰克 是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂 就发现这里气氛诡异，杰克的儿子丹尼 经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
+      "description": "杰克是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂就发现这里气氛诡异，杰克的儿子丹尼经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
       "releaseDate": "1980-05-23",
       "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
       "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.205,
+      "rating": 8.206,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1236153,
-      "type": "tmdb",
-      "title": "极限审判",
-      "originalTitle": "Mercy",
-      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "releaseDate": "2026-01-20",
-      "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
-      "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-      "rating": 6.674,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
-    },
-    {
-      "id": 1537690,
-      "type": "tmdb",
-      "title": "爆水管",
-      "originalTitle": "爆水管",
-      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/ktMJsXp3aPm97BR0V78ELIhdwzc.jpg",
-      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 犯罪"
     },
     {
       "id": 1411529,
@@ -114,7 +101,7 @@
       "releaseDate": "2026-01-21",
       "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
       "posterPath": "/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
-      "rating": 5.2,
+      "rating": 5.1,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -153,7 +140,7 @@
       "releaseDate": "2026-01-28",
       "backdropPath": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
       "posterPath": "/b2kNtO8MgTjQ73uDdTBeyvpw9XF.jpg",
-      "rating": 7.605,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -166,35 +153,9 @@
       "releaseDate": "2026-01-07",
       "backdropPath": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
       "posterPath": "/yCOqrQxlh8M8O4PV19SXATHEIK5.jpg",
-      "rating": 6.544,
+      "rating": 6.542,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
-    },
-    {
-      "id": 1249173,
-      "type": "tmdb",
-      "title": "我的朋友安德烈",
-      "originalTitle": "我的朋友安德烈",
-      "description": "性格迥异的李默（刘昊然 饰）与安德烈（董子健 饰）因为足球成为知己，而一场意外却让安德烈跟随年少往事一起消失在了李默的记忆中。多年后，李默在为父亲奔丧路上与安德烈“重逢”，一段尘封的回忆被逐渐揭开……",
-      "releaseDate": "2026-01-17",
-      "backdropPath": "/oSU2icznEh9clWbL5jksJxJHbxu.jpg",
-      "posterPath": "/rEZ64PPreR93T56gfYjf9pRbvU9.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1565586,
-      "type": "tmdb",
-      "title": "遇见不同的遇见",
-      "originalTitle": "遇见不同的遇见",
-      "description": "都市“躺平青年”但爽，带领“突如其来”电视栏目组，突袭暗访专业从事借钱为生的老乡“滚刀肉”吴德，在吴德的引领下，但爽有缘结识了有财、有貌的“超级卷王”是蒂，未曾想这对欢喜冤家的爱情之路总是遇见不同的遇见，在经历了英雄救美、海景房骗局、P2P理财“深坑”的一系列惊心动魄的故事下，最终花好月圆走在了一起。",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/jjEUYqfMBw7v4aFpwRQCRfN9QA.jpg",
-      "posterPath": "/ouAaqGz1aAzPXbnt7zciIVMB20E.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 悬疑"
     },
     {
       "id": 1084242,
@@ -205,9 +166,22 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
       "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "rating": 7.609,
+      "rating": 7.614,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
+    },
+    {
+      "id": 650524,
+      "type": "tmdb",
+      "title": "寻秦记",
+      "originalTitle": "尋秦記",
+      "description": "2030年，香港诸多现代物被抽取到秦朝，抽送中的生命体更是因此灰飞烟灭。拯救行动迫在眉睫，项少龙带领众人孤注一掷。秦王的欲望，家人的安危，是离开还是留下，都将在这秘境之地寻找答案。",
+      "releaseDate": "2025-12-31",
+      "backdropPath": "/gpJr8wRED8BpBVaxM0eODQEBNwC.jpg",
+      "posterPath": "/qUy2mSNozvje7hkjM5AoTYob7RZ.jpg",
+      "rating": 6.6,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
     },
     {
       "id": 83533,
@@ -218,22 +192,35 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.3,
+      "rating": 7.289,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
     {
-      "id": 1604938,
+      "id": 1305715,
       "type": "tmdb",
-      "title": "六六大顺",
-      "originalTitle": "六六大顺",
-      "description": "濒临破产的老板李大顺（李孟武 饰）为逆转绝境，与死磕项目的技术宅李谱（肖轶 饰）踏上寻“小分子水”之路，临时搭挡的组合囧况百出，还没发车就透露着热闹，并偶遇了身世可怜的少年六六……",
-      "releaseDate": "2026-02-06",
-      "backdropPath": "/iFVmttz2mnWnz1twTmEpZAPwapt.jpg",
-      "posterPath": "/eHkhTwKHpHL2h77wwfJ5CPGgstO.jpg",
+      "title": "过家家",
+      "originalTitle": "过家家",
+      "description": "在小城市长大的单亲男孩钟不凡一直想去北京闯荡一番，却因为家庭原因一直没能实现在一次与亲生父亲的争执中失手伤人，以为自己闯下大祸，仓皇逃匿，被命运捉弄阴错阳差地逃到了北京。",
+      "releaseDate": "2026-01-01",
+      "backdropPath": "/13nESZqXTCF1gF7YJYoCzZemupY.jpg",
+      "posterPath": "/jTuu8wLW2RUg1IzX4IC7wqpsjIo.jpg",
+      "rating": 7.3,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1602722,
+      "type": "tmdb",
+      "title": "舒克贝塔之微缩人类",
+      "originalTitle": "舒克贝塔之微缩人类",
+      "description": "鼠王获得了微缩人类技术后建造了梦想岛，企图把魔方市的市民都缩小并囚禁于此并以此夺取魔方市。 舒克贝塔因运送机场的乘客来到梦想岛，卷入了这场阴谋，他们挺身而出，破除了鼠王的阴谋，拯救了魔方市市民。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/gv5T4Y3PwzndEkPONtCT2GOKf2D.jpg",
+      "posterPath": "/f7K95hYV9WjRGV3Qk3e0SmqZxhl.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 991494,
@@ -244,9 +231,22 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
       "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.728,
+      "rating": 6.697,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
+    },
+    {
+      "id": 1555232,
+      "type": "tmdb",
+      "title": "不过是上班",
+      "originalTitle": "不过是上班",
+      "description": "一旦领导冒出一句“什么狗屁方案”，你的人生就将陷入无尽循环.....重复的职场里，有人摸鱼摆烂，有人趁机搞事，直到同事离奇 “消失”，他才发现循环背后藏着公司要命的秘密——想活下来，得先在重复的日子里找到出路……",
+      "releaseDate": "2026-01-10",
+      "backdropPath": "/eyIxeio4UhUen5XJY67Dhs6rSJV.jpg",
+      "posterPath": "/ocOIxHfnxaIzrDdZRAgRnnCPS0S.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
     },
     {
       "id": 1593221,
