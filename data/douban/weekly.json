@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-16T20:16:35.159Z",
+  "time": "2026-02-17T20:23:22.531Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.8,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2025-07-23",
         "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
         "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-        "rating": 7.5,
+        "rating": 7.504,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-12-18",
         "backdropPath": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
         "posterPath": "/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
-        "rating": 7.203,
+        "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.6,
+        "rating": 7.589,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -169,7 +169,7 @@
         "releaseDate": "2026-01-23",
         "backdropPath": "/c5mwcq4lvp96cHPgAWE1uxdwxkR.jpg",
         "posterPath": "/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-        "rating": 8.75,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -221,7 +221,7 @@
         "releaseDate": "2026-01-28",
         "backdropPath": "/6Vr1InH5TksuRSvEGjP2e1oV5ea.jpg",
         "posterPath": "/2XVSrurMxtdPWHLxYuoZsfuftVi.jpg",
-        "rating": 9.5,
+        "rating": 8.333,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/obI4UxjtVXz1aionxHl1jfDrMKI.jpg",
-        "rating": 8.424,
+        "rating": 8.482,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2025-12-16",
         "backdropPath": "/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
         "posterPath": "/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
-        "rating": 6.7,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.536,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-01-27",
         "backdropPath": "/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
         "posterPath": "/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
-        "rating": 7.11,
+        "rating": 7.119,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -364,7 +364,7 @@
         "originalTitle": "Landman",
         "description": "石油自地底喷涌而出，秘密亦随之浮出水面——汤米·诺里斯（Tommy Noris）的崩溃临界点，或许比他意识到的更近。面对来自M - Tex石油公司、卡米·米勒（Cami Miller）的重重压力，以及亲友团的笼罩，在西得克萨斯的生存毫无高尚可言，唯有残酷本质。而迟早，总有什么会彻底崩塌。",
         "releaseDate": "2025-11-16",
-        "backdropPath": "/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+        "backdropPath": "/q71au2YjcwXBMZKNzNgjK7RZ3Hs.jpg",
         "posterPath": "/pEKgBPrLN7x8fAZKjzN8NayQHiW.jpg",
         "rating": 8.6,
         "mediaType": "tv",
@@ -379,7 +379,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.369,
+        "rating": 7.354,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
