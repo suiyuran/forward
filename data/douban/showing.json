@@ -1,6 +1,32 @@
 {
-  "time": "2026-02-17T17:56:06.448Z",
+  "time": "2026-02-18T17:53:03.288Z",
   "data": [
+    {
+      "id": 1462229,
+      "type": "tmdb",
+      "title": "飞驰人生3",
+      "originalTitle": "飞驰人生3",
+      "description": "巴音布鲁克最后一站收官后，张驰（沈腾 饰）受邀作为车队主教练征战全新赛事“沐尘100拉力赛”，“野生车手”走上国际舞台！面对高手如云的全新赛道，孙宇强（尹正 饰）、记星（张本煜 饰）一如既往协同作战，林臻东（黄景瑜 饰）等实力车手应邀强势集结，一支凝聚了顶配速度与信念的车队就此成立！然而，张驰发现真正的挑战仿佛并非来自比赛本身，赛场之外暗流涌动，让他们飞驰之路充满变数……",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/h6tGwt2luW8keksY677qCxyFxTZ.jpg",
+      "posterPath": "/fzkfI2LWgPEHiFOFW2JveqlAY3h.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1305781,
+      "type": "tmdb",
+      "title": "镖人：风起大漠",
+      "originalTitle": "镖人：风起大漠",
+      "description": "大漠之上，镖人、官府、西域五大家族等多方势力盘根错节、暗潮涌动。“天字第二号逃犯”刀马接下特殊押镖任务，和同伴一起从西域护镖远赴长安。不料，他们的护送对象竟是“天字第一号逃犯”知世郎……天下熙熙皆为利来，各方势力闻风入局，抢镖厮杀接连上演……",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+      "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
+      "rating": 8.5,
+      "mediaType": "movie",
+      "genreTitle": "动作, 剧情"
+    },
     {
       "id": 1447971,
       "type": "tmdb",
@@ -15,30 +41,43 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1305781,
+      "id": 1359005,
       "type": "tmdb",
-      "title": "镖人：风起大漠",
-      "originalTitle": "镖人：风起大漠",
-      "description": "大漠之上，镖人、官府、西域五大家族等多方势力盘根错节、暗潮涌动。“天字第二号逃犯”刀马接下特殊押镖任务，和同伴一起从西域护镖远赴长安。不料，他们的护送对象竟是“天字第一号逃犯”知世郎……天下熙熙皆为利来，各方势力闻风入局，抢镖厮杀接连上演……",
+      "title": "星河入梦",
+      "originalTitle": "星河入梦",
+      "description": "专心备考的高中生张启蒙被一名破窗而入的陌生男子彪哥拉出考场，还被告知一个令人震惊的事实：她所在的世界只是一个虚拟元宇宙程序。启蒙在现实中是一名正在冬眠的宇航员，而此刻灾难正在飞速奔向他们的飞船....",
       "releaseDate": "2026-02-17",
-      "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
-      "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
+      "backdropPath": "/AdsSM2GIlub3dB74ibSnWLJYsT0.jpg",
+      "posterPath": "/ztaczDDAR6t676HTNUMQHEqaUy7.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动作, 剧情"
+      "genreTitle": "剧情, 科幻"
     },
     {
-      "id": 1462229,
+      "id": 1421552,
       "type": "tmdb",
-      "title": "飞驰人生3",
-      "originalTitle": "飞驰人生3",
-      "description": "巴音布鲁克最后一站收官后，张驰（沈腾 饰）受邀作为车队主教练征战全新赛事“沐尘100拉力赛”，“野生车手”走上国际舞台！面对高手如云的全新赛道，孙宇强（尹正 饰）、记星（张本煜 饰）一如既往协同作战，林臻东（黄景瑜 饰）等实力车手应邀强势集结，一支凝聚了顶配速度与信念的车队就此成立！然而，张驰发现真正的挑战仿佛并非来自比赛本身，赛场之外暗流涌动，让他们飞驰之路充满变数……",
+      "title": "熊猫计划之部落奇遇记",
+      "originalTitle": "熊猫计划之部落奇遇记",
+      "description": "熊猫“糊糊”即将搬进全新熊猫馆，突发遭遇国际劫匪，大哥在和劫匪搏斗过程中坠入山崖，醒来后却意外发现置身神奇部落。大家为了能够回到熊猫馆，这个有趣的“组合”帮助部落解决种种难题...",
       "releaseDate": "2026-02-17",
-      "backdropPath": "/h6tGwt2luW8keksY677qCxyFxTZ.jpg",
-      "posterPath": "/fzkfI2LWgPEHiFOFW2JveqlAY3h.jpg",
+      "backdropPath": "/nDrwkgnNBAu4ytWRvinTQLHiqgh.jpg",
+      "posterPath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
+      "genreTitle": "喜剧, 动作"
+    },
+    {
+      "id": 1607088,
+      "type": "tmdb",
+      "title": "熊出没·年年有熊",
+      "originalTitle": "熊出没·年年有熊",
+      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
+      "posterPath": "/5CQwamd3nlDkAvGAopJU4qvdHLm.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 奇幻"
     },
     {
       "id": 1618784,
@@ -52,19 +91,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 1359005,
-      "type": "tmdb",
-      "title": "星河入梦",
-      "originalTitle": "星河入梦",
-      "description": "专心备考的高中生张启蒙被一名破窗而入的陌生男子彪哥拉出考场，还被告知一个令人震惊的事实：她所在的世界只是一个虚拟元宇宙程序。启蒙在现实中是一名正在冬眠的宇航员，而此刻灾难正在飞速奔向他们的飞船....",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/AdsSM2GIlub3dB74ibSnWLJYsT0.jpg",
-      "posterPath": "/ztaczDDAR6t676HTNUMQHEqaUy7.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 科幻"
     },
     {
       "id": 1537690,
@@ -106,32 +132,6 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 1421552,
-      "type": "tmdb",
-      "title": "熊猫计划之部落奇遇记",
-      "originalTitle": "熊猫计划之部落奇遇记",
-      "description": "熊猫“糊糊”即将搬进全新熊猫馆，突发遭遇国际劫匪，大哥在和劫匪搏斗过程中坠入山崖，醒来后却意外发现置身神奇部落。大家为了能够回到熊猫馆，这个有趣的“组合”帮助部落解决种种难题...",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/nDrwkgnNBAu4ytWRvinTQLHiqgh.jpg",
-      "posterPath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动作"
-    },
-    {
-      "id": 1236153,
-      "type": "tmdb",
-      "title": "极限审判",
-      "originalTitle": "Mercy",
-      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "releaseDate": "2026-01-20",
-      "backdropPath": "/po1niVuud0tX86xOFegO5omQ2wX.jpg",
-      "posterPath": "/nOTj1ZofMjOWP1RE6wJImwRo7iu.jpg",
-      "rating": 6.679,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
-    },
-    {
       "id": 1411529,
       "type": "tmdb",
       "title": "飞行家",
@@ -145,19 +145,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1607088,
-      "type": "tmdb",
-      "title": "熊出没·年年有熊",
-      "originalTitle": "熊出没·年年有熊",
-      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
-      "posterPath": "/5CQwamd3nlDkAvGAopJU4qvdHLm.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 奇幻"
-    },
-    {
       "id": 680493,
       "type": "tmdb",
       "title": "重返寂静岭",
@@ -166,22 +153,9 @@
       "releaseDate": "2026-01-21",
       "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
       "posterPath": "/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
-      "rating": 5.142,
+      "rating": 5.108,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
-    },
-    {
-      "id": 840464,
-      "type": "tmdb",
-      "title": "末日逃生2：迁移",
-      "originalTitle": "Greenland 2: Migration",
-      "description": "由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
-      "releaseDate": "2026-01-07",
-      "backdropPath": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
-      "posterPath": "/yCOqrQxlh8M8O4PV19SXATHEIK5.jpg",
-      "rating": 6.556,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 惊悚"
     },
     {
       "id": 1530787,
@@ -197,17 +171,17 @@
       "genreTitle": "悬疑, 犯罪"
     },
     {
-      "id": 1572735,
+      "id": 1084242,
       "type": "tmdb",
-      "title": "非传统浪漫关系",
-      "originalTitle": "非传统浪漫关系",
-      "description": "情感博主祝君好与婚姻登记员龚玺两个爱情专家以离婚收场。祝君好决定与龚玺互相介绍对象，在这场荒诞的实验中，他们得以重新看待婚姻与爱情：从以自我为中心到求同存异，从我要幸福成长到我们要幸福。",
-      "releaseDate": "2026-01-31",
-      "backdropPath": "/eVDn4nuqxITr0akk3pJpi7VbGUv.jpg",
-      "posterPath": "/mszLDElSdPjJamDBwrpeD92KHEq.jpg",
-      "rating": 7,
+      "title": "疯狂动物城2",
+      "originalTitle": "Zootopia 2",
+      "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+      "releaseDate": "2025-11-26",
+      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
+      "rating": 7.608,
       "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 313369,
@@ -218,22 +192,9 @@
       "releaseDate": "2016-12-01",
       "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
       "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.9,
+      "rating": 7.899,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1084242,
-      "type": "tmdb",
-      "title": "疯狂动物城2",
-      "originalTitle": "Zootopia 2",
-      "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
-      "releaseDate": "2025-11-26",
-      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
-      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "rating": 7.606,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 650524,
@@ -257,35 +218,22 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.283,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
     {
-      "id": 1356454,
+      "id": 1443959,
       "type": "tmdb",
-      "title": "得闲谨制",
-      "originalTitle": "得闲谨制",
-      "description": "一个桃花源般的小镇，一群因南京沦陷而逃难至此安居数年的百姓，偶有一日数名日军误入此地，百姓被日军逼到绝境后奋起直面迎战。一场双方武器相差悬殊的战斗，一次智慧与意志的比拼，就此展开。",
-      "releaseDate": "2025-12-06",
-      "backdropPath": "/6xu3IyWOqSVxZE0S3jPxVz3A1Bt.jpg",
-      "posterPath": "/nE8jhTs48DKb65z0hLk0Akd3GK4.jpg",
-      "rating": 3.6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
-    },
-    {
-      "id": 1602722,
-      "type": "tmdb",
-      "title": "舒克贝塔之微缩人类",
-      "originalTitle": "舒克贝塔之微缩人类",
-      "description": "鼠王获得了微缩人类技术后建造了梦想岛，企图把魔方市的市民都缩小并囚禁于此并以此夺取魔方市。 舒克贝塔因运送机场的乘客来到梦想岛，卷入了这场阴谋，他们挺身而出，破除了鼠王的阴谋，拯救了魔方市市民。",
-      "releaseDate": "2026-01-24",
-      "backdropPath": "/gv5T4Y3PwzndEkPONtCT2GOKf2D.jpg",
-      "posterPath": "/f7K95hYV9WjRGV3Qk3e0SmqZxhl.jpg",
+      "title": "马腾你别走",
+      "originalTitle": "马腾你别走",
+      "description": "行动不便的钢厂退休骨干老林（李幼斌 饰）虽衣食无忧却整日郁郁寡欢，在一场乌龙护工面试中，与空有满脑子 “无用知识”、做事总半途而废的闲人马腾（林更新 饰）相遇。初逢闹剧，二人从误解频出到相互扶持，在一段特殊的旅程中，两人打破年龄与身份隔阂，成为彼此的依靠与慰藉，共同演绎出一场跨越生死的“忘年交”，也在彼此身上找到了直面病痛与死亡、继续勇敢生活的力量。",
+      "releaseDate": "2026-01-01",
+      "backdropPath": "/aXrDbwKv8t7oBO7CumI66rFbtfo.jpg",
+      "posterPath": "/4JMf7bSHXxK4b3g5KW4BBLZMlOa.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 991494,
@@ -296,100 +244,9 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
       "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.7,
+      "rating": 6.695,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1502119,
-      "type": "tmdb",
-      "title": "隐者山河",
-      "originalTitle": "隐者山河",
-      "description": "《隐者山河》记录了旅法华人作曲家陈其钢对艺术和人生的求索过程。这是一部音乐纪录电影，也是一次有现实意义的文化巡礼。作为一位在中法文化氛围中成长起来的音乐家，陈其钢以独特的视角，传递出耳目一新的观念。  　　影片以记录陈其钢在中国浙江·丽水的隐居生活和访谈为基点，跟随陈其钢近年来在全球不同国家上演的音乐作品和排演过程为主体内容，以近乎散文诗的方式，将陈其钢的人生经历和音乐作品耦合，分布成六个乐章——归隐、肖像、迁徙、创作、躬耕、如戏，观众既可以透过音乐和影像，感受陈其钢的音乐魅力，也可以身临其境体验音乐家诚实自由的思想表达，领会艺术的秘密所在。",
-      "releaseDate": "2025-11-25",
-      "backdropPath": "/zFTJNWRqfhi4yTQOVnXsdjnl2DI.jpg",
-      "posterPath": "/fgYRdHm9rcl7Mphqkte074ggWD2.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录, 音乐"
-    },
-    {
-      "id": 1338704,
-      "type": "tmdb",
-      "title": "梵高：诗情画意",
-      "originalTitle": "Van Gogh: Poets & Lovers",
-      "description": "开幕200年后，在获得第一批梵高作品一个世纪后，国家美术馆正在举办英国有史以来最大的梵高展览。梵高不仅是有史以来最受喜爱的艺术家之一，也许也是被误解最多的艺术家之一。这部电影是重新审视和更好地了解这位标志性艺术家的机会。《梵高：诗人与恋人》专注于他独特的创作过程，探讨了这位艺术家在法国南部的岁月，在那里他彻底改变了自己的风格。梵高在他的艺术中充满了讲故事的热情，将他周围的世界变成了充满活力、理想化的空间和象征性人物。",
-      "releaseDate": "2024-11-06",
-      "backdropPath": "/xV6S5UkSGc5t5jHZIXpcVUFuchO.jpg",
-      "posterPath": "/q0kCJhEfEajaew4huhWCgYl7Rub.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 98344,
-      "type": "tmdb",
-      "title": "赛德克·巴莱（上）",
-      "originalTitle": "賽德克‧巴萊：太陽旗",
-      "description": "本片根据雾社事件史实改编。  　　1895年，《马关条约》割让台湾之后，日本遂即武力接收台湾，宝岛各地纷纷被攻破。而台湾山区因道路不通，原住民生活尚暂未受影响，雾社地区的赛德克人之中，马赫坡年轻一代的莫那鲁道（游大庆 饰）英勇过人，率族群与甘卓万人争斗不休。日人垂涎雾社地区的 丰富资源，试图染指但遭到赛德克人强烈抵抗，伤亡惨重，然终于借原住民族群之间的互相仇杀侵入了雾社。莫那鲁道只得忍辱投降，但心中的火苗从未熄灭。时间推至1930年，日本对于雾社原住民的“文明改造”历经多年，日语等所谓文明并未给予原住民平等的生活，日人的欺压和繁重劳作侵蚀着赛德克人的传统和尊严，多年的愤怒累积，终于在这一年全面喷发！",
-      "releaseDate": "2011-09-09",
-      "backdropPath": "/ucoQdA7OTeGrhgVo0ii7rNEn2le.jpg",
-      "posterPath": "/mrdrts2XXkJHg24I0CqhUWNUh40.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 动作"
-    },
-    {
-      "id": 313230,
-      "type": "tmdb",
-      "title": "赛德克·巴莱（下）",
-      "originalTitle": "賽德克‧巴萊：彩虹橋",
-      "description": "莫那鲁道（林庆台 饰）率领族人在公学斩杀异族血祭祖灵后，拥有了通过彩虹桥的资格，剩下来的，就是在英勇战斗后从容赴死。在日本方面，雾社的消息很快传达各处，陆军少将镰田弥彦率军队与警察组成的联合部队，迅速发起讨伐。马赫坡等社分头行动，利用地形优势和灵活战术给予日军先头部队重大杀伤。山地警小岛（安藤政信 饰）利用个人威望和部族矛盾成功劝说铁木瓦力斯（马志翔 饰）连同部落加入日军阵营，协助围攻莫那鲁道。在开战初期，随部落向密林转移的妇孺为了不拖累战士们，纷纷自尽，在矛盾中痛苦的一郎亦选择了切腹。镰田弥彦对部队的缓慢推进大为光火，不惜使用糜烂性炸弹对付赛德克人。满山火光中，莫那鲁道迎来了最后决战的时刻……",
-      "releaseDate": "2011-09-30",
-      "backdropPath": "/5YbJULkUKodLwtIVInhmiHCZlyt.jpg",
-      "posterPath": "/pSFbOg75xXBkC3stjsiBI2QS7uW.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "动作, 剧情"
-    },
-    {
-      "id": 10400,
-      "type": "tmdb",
-      "title": "飓风",
-      "originalTitle": "The Hurricane",
-      "description": "一个黑人毛头小伙莱斯（维斯罗斯•雷恩•香农 Vicellous Reon Shannon 饰）在旧书市无意中淘到了拳王“飓风”鲁本•卡特（丹泽尔•华盛顿 Denzel Washington 饰）在狱中写的自传，并开始了对他的故事产生了兴趣。鲁本出生于贫寒家庭，幼年时嫉恶如仇，因此与当地的白人警察结怨。后来，他因为出色的身手，名震拳坛，绰号“飓风”。此后，他参加了越战成为荣誉军官，并在某舞会偶然结识了后来的妻子。当生活进入美满轨道的时候，一次新泽西酒吧杀人案彻底毁掉了他美好希望。莱斯与鲁本通信，了解到他蒙受不白之冤，便说服了朋友们，一起查找证据，希望揭开真相，令他重获自由，然而种族歧视的恶势力却在暗中百般刁难，意图把飓风困死在牢房……",
-      "releaseDate": "1999-09-17",
-      "backdropPath": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
-      "posterPath": "/iH7zKvZRD9GjLgUIZSOnFCPyFAl.jpg",
-      "rating": 7.4,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1565589,
-      "type": "tmdb",
-      "title": "英雄三元里",
-      "originalTitle": "英雄三元里",
-      "description": "1840年鸦片战争爆发，英军侵略军攻破广州，饱经鸦片毒害的百姓活在至暗时刻。萧岗士绅何玉成（严屹宽饰）受关天培之托嘱，立志寻找时机保卫广州城。 故事从三元里村武馆教头刘三义（刘秋实饰）和其兄弟韦绍光（孙昊饰）企图烧毁十三行码头的洋商趸船开始... 影片质朴还原了三元里抗英这段鲜为人知的史实，用悲壮美学与历史质感交织的视听讲述了鸦片馆血案的个人复仇，到牛栏岗生死战的民族抗争。致敬民族先辈，当外侮侵犯时，每一个挺身而出的小人物，都是照亮民族暗夜的英雄。",
-      "releaseDate": "2025-11-28",
-      "backdropPath": "/bDPKv7mkQfSr0V0jdmT85V8eqNM.jpg",
-      "posterPath": "/rjmfkKJqNTopg8ugrSjs7bwf0BF.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
-    },
-    {
-      "id": 1002640,
-      "type": "tmdb",
-      "title": "Secrets of the Sea",
-      "originalTitle": "Secrets of the Sea",
-      "description": "",
-      "releaseDate": "2022-06-08",
-      "backdropPath": null,
-      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": ""
     }
   ]
 }
