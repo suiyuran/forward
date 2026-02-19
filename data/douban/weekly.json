@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-18T20:25:16.754Z",
+  "time": "2026-02-19T20:19:29.758Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.715,
+        "rating": 7.713,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3C8yAIuXlH4BGCpTwEetIv0VBt8.jpg",
         "posterPath": "/zOPSdUVppclBBNi8ImzRivHHTrd.jpg",
-        "rating": 8.125,
+        "rating": 8.1,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-12-18",
         "backdropPath": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
         "posterPath": "/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
-        "rating": 7.202,
+        "rating": 7.21,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.59,
+        "rating": 7.579,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-12-05",
         "backdropPath": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
         "posterPath": "/d86ctnc1Kl9xZHJ1xBPcwTKmaGa.jpg",
-        "rating": 7.49,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/obI4UxjtVXz1aionxHl1jfDrMKI.jpg",
-        "rating": 8.525,
+        "rating": 8.529,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -299,9 +299,9 @@
         "originalTitle": "이 사랑 통역 되나요?",
         "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
         "releaseDate": "2026-01-16",
-        "backdropPath": "/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
+        "backdropPath": "/x3aUyOT8rW3kzFPE9eIwiJe9AfG.jpg",
         "posterPath": "/oJt1uzOay5qNzNj1IrMhw8PCnwb.jpg",
-        "rating": 8.5,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-01-27",
         "backdropPath": "/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
         "posterPath": "/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
-        "rating": 7.109,
+        "rating": 7.119,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.39,
+        "rating": 7.397,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
