@@ -1,7 +1,20 @@
 {
-  "time": "2026-02-18T18:44:03.668Z",
+  "time": "2026-02-19T18:43:05.995Z",
   "data": {
     "爱奇艺·迷雾剧场": [
+      {
+        "id": 281495,
+        "type": "tmdb",
+        "title": "除恶",
+        "originalTitle": "除恶",
+        "description": "一个偏僻闭塞的沿海小镇，被一袋消失的毒品打破沉寂，一场“自杀式拯救”正式拉开序幕。一个是意外卷入毒品交易现场的女刑警胡文静，一个是为救女儿不计代价的普通父亲程恳，一个是一心想要逃离小镇生活的野心家李晓雅，一个是被毒品吞噬而走向异途的姐弟王萍王安。欲望与贪念交织成的茧细细密密困住了每一个人，无人能够全身而退。",
+        "releaseDate": "2026-02-23",
+        "backdropPath": "/gc9ySDlKwKnwlEw6km6KUXM44Yq.jpg",
+        "posterPath": "/ky9Eit4aA3BFLQdrulRuDNdvWLS.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 悬疑"
+      },
       {
         "id": 289723,
         "type": "tmdb",
