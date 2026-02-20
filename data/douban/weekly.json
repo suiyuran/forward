@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-19T20:19:29.758Z",
+  "time": "2026-02-20T20:16:41.585Z",
   "data": {
     "电影": [
       {
@@ -11,61 +11,9 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.713,
+        "rating": 7.739,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
-      },
-      {
-        "id": 1220564,
-        "type": "tmdb",
-        "title": "密探",
-        "originalTitle": "O Agente Secreto",
-        "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
-        "releaseDate": "2025-07-23",
-        "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
-        "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-        "rating": 7.5,
-        "mediaType": "movie",
-        "genreTitle": "犯罪, 剧情"
-      },
-      {
-        "id": 1379266,
-        "type": "tmdb",
-        "title": "国宝",
-        "originalTitle": "国宝",
-        "description": "本片改编自吉田为了采访3年，穿着歌舞伎的黑衣进入后台的经验而写出的长篇小说，出生于任侠一门、投身于歌舞伎世界、将青春献给演艺之路的喜久雄，赌上自己的生命去追求无尽的梦想的宏伟故事：舞台是从战后到高度经济成长期的日本。出生于任侠家族的喜久雄，遭遇了数奇的命运，被拽到歌舞伎演员的家中。不久后，在动荡的人生中，他作为歌舞伎演员的才能开花结果。",
-        "releaseDate": "2025-06-06",
-        "backdropPath": "/3C8yAIuXlH4BGCpTwEetIv0VBt8.jpg",
-        "posterPath": "/zOPSdUVppclBBNi8ImzRivHHTrd.jpg",
-        "rating": 8.1,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1149614,
-        "type": "tmdb",
-        "title": "是的",
-        "originalTitle": "Ken",
-        "description": "10月7日之后的以色列。爵士乐手伊，与妻子舞者茉莉，为维持生计向精英阶层出卖艺术、灵魂与肉体，为这个泣血之国带来欢愉与慰藉。不久，伊被授予一项国家最高机密使命：创作一首新的国歌。",
-        "releaseDate": "2025-09-17",
-        "backdropPath": "/rOl9x0SK2x9CSl6bV9R7Zny8O2A.jpg",
-        "posterPath": "/hLtHKUzBRKK8Hv5Rn6w3tJ7s8IP.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 1368166,
-        "type": "tmdb",
-        "title": "家弑服务",
-        "originalTitle": "The Housemaid",
-        "description": "生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-        "releaseDate": "2025-12-18",
-        "backdropPath": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
-        "posterPath": "/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
-        "rating": 7.21,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 悬疑"
       },
       {
         "id": 1317288,
@@ -76,61 +24,61 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.579,
+        "rating": 7.584,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
       {
-        "id": 1397364,
+        "id": 1462229,
         "type": "tmdb",
-        "title": "恩典",
-        "originalTitle": "La grazia",
-        "description": "马里亚诺·德·桑蒂斯是意大利共和国总统。此人与现实中的任何总统均无关联，完全是作者虚构的人物。他丧偶多年，且信奉天主教，有一个女儿名叫多罗泰亚——和他一样，女儿也是一名法律学者。任期即将结束之际，在波澜不惊的日常中，两项最后的职责摆在了他面前：就两份敏感的总统特赦申请 做出决定。这些抉择构成了真正的道德困境，并且以看似无法理清的方式，与他的私人生活纠缠在了一起。在疑虑的驱使下，他必须做出抉择。而这位杰出的意大利总统，怀着强烈的责任感，必将履行这份职责。",
-        "releaseDate": "2025-12-05",
-        "backdropPath": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
-        "posterPath": "/d86ctnc1Kl9xZHJ1xBPcwTKmaGa.jpg",
+        "title": "飞驰人生3",
+        "originalTitle": "飞驰人生3",
+        "description": "巴音布鲁克最后一站收官后，张驰（沈腾 饰）受邀作为车队主教练征战全新赛事“沐尘100拉力赛”，“野生车手”走上国际舞台！面对高手如云的全新赛道，孙宇强（尹正 饰）、记星（张本煜 饰）一如既往协同作战，林臻东（黄景瑜 饰）等实力车手应邀强势集结，一支凝聚了顶配速度与信念的车队就此成立！然而，张驰发现真正的挑战仿佛并非来自比赛本身，赛场之外暗流涌动，让他们飞驰之路充满变数……",
+        "releaseDate": "2026-02-17",
+        "backdropPath": "/h6tGwt2luW8keksY677qCxyFxTZ.jpg",
+        "posterPath": "/fzkfI2LWgPEHiFOFW2JveqlAY3h.jpg",
+        "rating": 8.5,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 1305781,
+        "type": "tmdb",
+        "title": "镖人：风起大漠",
+        "originalTitle": "镖人：风起大漠",
+        "description": "大漠之上，镖人、官府、西域五大家族等多方势力盘根错节、暗潮涌动。“天字第二号逃犯”刀马接下特殊押镖任务，和同伴一起从西域护镖远赴长安。不料，他们的护送对象竟是“天字第一号逃犯”知世郎……天下熙熙皆为利来，各方势力闻风入局，抢镖厮杀接连上演……",
+        "releaseDate": "2026-02-17",
+        "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+        "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
         "rating": 7.5,
         "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "动作, 剧情"
       },
       {
-        "id": 1047884,
+        "id": 1368166,
         "type": "tmdb",
-        "title": "我家的事",
-        "originalTitle": "我家的事",
-        "description": "贴心的姐姐小春为了申请学费减免，意外发现自己是家中收养的孩子；弟弟夏仔在入伍前遇见了爸爸阿冬同梯的好友阿渊，却发现阿渊跟妈妈阿秋之间的憋扭。小春跟夏仔逐渐发现隐藏在家人之间的秘密⋯⋯",
-        "releaseDate": "2025-09-12",
-        "backdropPath": "/bA8FtjVOQGfHoUZpK4wnOMlKSr3.jpg",
-        "posterPath": "/vraxtg8boiMMjEu6bvaoAKpYkCv.jpg",
-        "rating": 7,
+        "title": "家弑服务",
+        "originalTitle": "The Housemaid",
+        "description": "生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
+        "releaseDate": "2025-12-18",
+        "backdropPath": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
+        "posterPath": "/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
+        "rating": 7.209,
         "mediaType": "movie",
-        "genreTitle": "剧情, 家庭"
+        "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 1337985,
+        "id": 1359005,
         "type": "tmdb",
-        "title": "远山淡影",
-        "originalTitle": "遠い山なみの光",
-        "description": "讲述来自日本的英国寡妇悦子，因不善交际而又沉默反叛的长女自杀，开始回想战后在长崎生活的往事。",
-        "releaseDate": "2025-09-05",
-        "backdropPath": "/w94lnreSjvNWBu7zEEWo9yW7iqk.jpg",
-        "posterPath": "/j0KIKC1uP28y6umfTjx9QFnD8AU.jpg",
-        "rating": 7.9,
+        "title": "星河入梦",
+        "originalTitle": "星河入梦",
+        "description": "专心备考的高中生张启蒙被一名破窗而入的陌生男子彪哥拉出考场，还被告知一个令人震惊的事实：她所在的世界只是一个虚拟元宇宙程序。启蒙在现实中是一名正在冬眠的宇航员，而此刻灾难正在飞速奔向他们的飞船....",
+        "releaseDate": "2026-02-17",
+        "backdropPath": "/AdsSM2GIlub3dB74ibSnWLJYsT0.jpg",
+        "posterPath": "/ztaczDDAR6t676HTNUMQHEqaUy7.jpg",
+        "rating": 0,
         "mediaType": "movie",
-        "genreTitle": "剧情, 历史"
-      },
-      {
-        "id": 766520,
-        "type": "tmdb",
-        "title": "柔似蜜",
-        "originalTitle": "Rosemead",
-        "description": "改编自Frank Shyong撰写的《洛杉矶时报》报道《一个垂死母亲的计划》(A Dying Mother’s Plan)。来自真实事件，被形容为“让人心碎的故事，聚焦理解心理疾病的多层面的重要性，尤其是亚裔社群中”，讲述在圣盖博谷，一个患上癌症绝症的母亲奋力想要帮助自己情绪不稳定的儿子——她发现儿子对大规模枪击案越发沉迷。",
-        "releaseDate": "2025-12-05",
-        "backdropPath": "/vwQ95VtH1mfTe1hkTU6dGZJZ2y2.jpg",
-        "posterPath": "/uVilyfKrB5ZkhXh7MMaIaevzueR.jpg",
-        "rating": 7.125,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "剧情, 科幻"
       }
     ],
     "剧集·国内": [
@@ -156,22 +104,9 @@
         "releaseDate": "2026-01-23",
         "backdropPath": "/c5mwcq4lvp96cHPgAWE1uxdwxkR.jpg",
         "posterPath": "/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-        "rating": 8.8,
+        "rating": 8.889,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 139162,
-        "type": "tmdb",
-        "title": "中国奇谭",
-        "originalTitle": "中国奇谭",
-        "description": "动画短片集《中国奇谭2》由上美影、上影元、哔哩哔哩、陈廖宇工作室联合出品，陈廖宇担任总导演，作品汇集12位导演，创作9部风格迥异的短片。第二部的故事将走入烟火人间，在延续“用中国方式讲中国故事”的基础上，更侧重对人的自我身份、家庭关系、社会关系的思考和探讨，同时继续展现本土语境下的奇幻想象力。",
-        "releaseDate": "2026-01-01",
-        "backdropPath": "/lb1I9lDR3uYwbAZgLxHMiriMKUH.jpg",
-        "posterPath": "/lyDRtY01krTcs1JP74XL2XxqUb4.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "动画, Sci-Fi & Fantasy"
       },
       {
         "id": 283950,
@@ -239,19 +174,6 @@
         "genreTitle": "悬疑, 剧情"
       },
       {
-        "id": 296146,
-        "type": "tmdb",
-        "title": "罚罪2",
-        "originalTitle": "罚罪2",
-        "description": "讲述了警察秦枫与犯罪分子斗智斗勇的故事。剧本选取汉洲发展背景下的恶性案件，描绘警察与家人、利益集团的复杂关系。主线围绕秦枫和刘天也两个异姓兄弟展开，揭示人性深度与道德冲突。故事情节紧凑，悬念重重，展现了善恶抉择与法治信仰的力量。",
-        "releaseDate": "2025-12-25",
-        "backdropPath": "/j8OYff3PaKpSVdt9FbpjmcrpG8N.jpg",
-        "posterPath": "/2YzIgz1Bi0hsXabPqnHU9ISn44F.jpg",
-        "rating": 9.5,
-        "mediaType": "tv",
-        "genreTitle": "犯罪"
-      },
-      {
         "id": 262957,
         "type": "tmdb",
         "title": "暗恋者的救赎",
@@ -267,32 +189,6 @@
     ],
     "剧集·国外": [
       {
-        "id": 224372,
-        "type": "tmdb",
-        "title": "七王国的骑士",
-        "originalTitle": "A Knight of the Seven Kingdoms",
-        "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-        "releaseDate": "2026-01-18",
-        "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
-        "posterPath": "/obI4UxjtVXz1aionxHl1jfDrMKI.jpg",
-        "rating": 8.529,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 250307,
-        "type": "tmdb",
-        "title": "匹兹堡医护前线",
-        "originalTitle": "The Pitt",
-        "description": "第二季故事发生在第一季结局的10个月后，时间线为一个美国独立纪念日的周末。",
-        "releaseDate": "2026-01-08",
-        "backdropPath": "/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
-        "posterPath": "/cbKWOqYrEhBWiAa1jAK2Vu7GMED.jpg",
-        "rating": 7.9,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 229891,
         "type": "tmdb",
         "title": "爱情怎么翻译？",
@@ -304,19 +200,6 @@
         "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 106379,
-        "type": "tmdb",
-        "title": "辐射",
-        "originalTitle": "Fallout",
-        "description": "第二季将延续第一季结局的故事，带领观众穿越莫哈韦荒原，到达世界末日后的城市新维加斯。",
-        "releaseDate": "2025-12-16",
-        "backdropPath": "/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
-        "posterPath": "/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
-        "rating": 6.8,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
         "id": 297207,
@@ -332,19 +215,6 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 157741,
-        "type": "tmdb",
-        "title": "石油天王",
-        "originalTitle": "Landman",
-        "description": "石油自地底喷涌而出，秘密亦随之浮出水面——汤米·诺里斯（Tommy Noris）的崩溃临界点，或许比他意识到的更近。面对来自M - Tex石油公司、卡米·米勒（Cami Miller）的重重压力，以及亲友团的笼罩，在西得克萨斯的生存毫无高尚可言，唯有残酷本质。而迟早，总有什么会彻底崩塌。",
-        "releaseDate": "2025-11-16",
-        "backdropPath": "/q71au2YjcwXBMZKNzNgjK7RZ3Hs.jpg",
-        "posterPath": "/pEKgBPrLN7x8fAZKjzN8NayQHiW.jpg",
-        "rating": 8.6,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 198178,
         "type": "tmdb",
         "title": "奇迹人",
@@ -353,7 +223,7 @@
         "releaseDate": "2026-01-27",
         "backdropPath": "/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
         "posterPath": "/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
-        "rating": 7.119,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -366,7 +236,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.397,
+        "rating": 7.392,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -379,22 +249,9 @@
         "releaseDate": "2026-01-02",
         "backdropPath": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
         "posterPath": "/pSvHtvThGPOstnl2eK1oc0CQWaa.jpg",
-        "rating": 7.2,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "犯罪, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 61859,
-        "type": "tmdb",
-        "title": "夜班经理",
-        "originalTitle": "The Night Manager",
-        "description": "第一季的事件发生九年后，乔纳森·派恩被卷入哥伦比亚的一项新任务。这次的任务涉及一位危险的新军火商泰迪·多斯·桑托斯及其性感迷人的同伙罗克珊娜·博拉尼奥斯。派恩潜入泰迪的组织，揭开了层层叠叠的秘密、谎言和腐败。他能否在为时已晚之前挫败泰迪的阴谋？",
-        "releaseDate": "2025-12-31",
-        "backdropPath": "/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
-        "posterPath": "/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
-        "rating": 7.9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
       }
     ]
   }
