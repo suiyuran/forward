@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-21T20:11:24.925Z",
+  "time": "2026-02-22T20:12:19.868Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.742,
+        "rating": 7.718,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -24,9 +24,22 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.6,
+        "rating": 7.582,
         "mediaType": "movie",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 1149614,
+        "type": "tmdb",
+        "title": "是的",
+        "originalTitle": "Ken",
+        "description": "10月7日之后的以色列。爵士乐手伊，与妻子舞者茉莉，为维持生计向精英阶层出卖艺术、灵魂与肉体，为这个泣血之国带来欢愉与慰藉。不久，伊被授予一项国家最高机密使命：创作一首新的国歌。",
+        "releaseDate": "2025-09-17",
+        "backdropPath": "/rOl9x0SK2x9CSl6bV9R7Zny8O2A.jpg",
+        "posterPath": "/hLtHKUzBRKK8Hv5Rn6w3tJ7s8IP.jpg",
+        "rating": 6.5,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 1462229,
@@ -37,7 +50,7 @@
         "releaseDate": "2026-02-17",
         "backdropPath": "/h6tGwt2luW8keksY677qCxyFxTZ.jpg",
         "posterPath": "/fzkfI2LWgPEHiFOFW2JveqlAY3h.jpg",
-        "rating": 7.5,
+        "rating": 7.167,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       },
@@ -50,7 +63,7 @@
         "releaseDate": "2026-02-17",
         "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
         "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-        "rating": 8,
+        "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "动作, 剧情"
       },
@@ -62,10 +75,23 @@
         "description": "生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
         "releaseDate": "2025-12-18",
         "backdropPath": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
-        "posterPath": "/6OKlboUOWgPfzpz9WCCM10dvBDy.jpg",
-        "rating": 7.206,
+        "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
+        "rating": 7.223,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 1397364,
+        "type": "tmdb",
+        "title": "恩典",
+        "originalTitle": "La grazia",
+        "description": "马里亚诺·德·桑蒂斯是意大利共和国总统。此人与现实中的任何总统均无关联，完全是作者虚构的人物。他丧偶多年，且信奉天主教，有一个女儿名叫多罗泰亚——和他一样，女儿也是一名法律学者。任期即将结束之际，在波澜不惊的日常中，两项最后的职责摆在了他面前：就两份敏感的总统特赦申请 做出决定。这些抉择构成了真正的道德困境，并且以看似无法理清的方式，与他的私人生活纠缠在了一起。在疑虑的驱使下，他必须做出抉择。而这位杰出的意大利总统，怀着强烈的责任感，必将履行这份职责。",
+        "releaseDate": "2025-12-05",
+        "backdropPath": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
+        "posterPath": "/d86ctnc1Kl9xZHJ1xBPcwTKmaGa.jpg",
+        "rating": 7.482,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
       },
       {
         "id": 1359005,
@@ -79,6 +105,32 @@
         "rating": 9,
         "mediaType": "movie",
         "genreTitle": "剧情, 科幻"
+      },
+      {
+        "id": 1047884,
+        "type": "tmdb",
+        "title": "我家的事",
+        "originalTitle": "我家的事",
+        "description": "贴心的姐姐小春为了申请学费减免，意外发现自己是家中收养的孩子；弟弟夏仔在入伍前遇见了爸爸阿冬同梯的好友阿渊，却发现阿渊跟妈妈阿秋之间的憋扭。小春跟夏仔逐渐发现隐藏在家人之间的秘密⋯⋯",
+        "releaseDate": "2025-09-12",
+        "backdropPath": "/bA8FtjVOQGfHoUZpK4wnOMlKSr3.jpg",
+        "posterPath": "/vraxtg8boiMMjEu6bvaoAKpYkCv.jpg",
+        "rating": 7,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 家庭"
+      },
+      {
+        "id": 1357759,
+        "type": "tmdb",
+        "title": "女孩",
+        "originalTitle": "女孩",
+        "description": "1988 年，基隆港烟尘蔽日，林小丽（白小樱 饰）在迷惘中长大，渴望逃离黑暗。 直到遇见无惧眼光、自在生活的李莉莉（林品彤 饰），她才第一次看见世界的色彩。 然而，这份向往却触动了母亲阿娟的过往创伤。 当年，她也曾憧憬未来，却被现实困住。 女孩与女人，在交错的命运中互相映照，像一面镜子照出彼此的伤却无能为力。",
+        "releaseDate": "2025-10-31",
+        "backdropPath": "/3r2CNASRlOvK2QqqpqVUsixN4aq.jpg",
+        "posterPath": "/cCVhkI6FweXQUmcScyLZqdsAeXh.jpg",
+        "rating": 7,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
       }
     ],
     "剧集·国内": [
@@ -107,6 +159,19 @@
         "rating": 8.889,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 139162,
+        "type": "tmdb",
+        "title": "中国奇谭",
+        "originalTitle": "中国奇谭",
+        "description": "动画短片集《中国奇谭2》由上美影、上影元、哔哩哔哩、陈廖宇工作室联合出品，陈廖宇担任总导演，作品汇集12位导演，创作9部风格迥异的短片。第二部的故事将走入烟火人间，在延续“用中国方式讲中国故事”的基础上，更侧重对人的自我身份、家庭关系、社会关系的思考和探讨，同时继续展现本土语境下的奇幻想象力。",
+        "releaseDate": "2026-01-01",
+        "backdropPath": "/lb1I9lDR3uYwbAZgLxHMiriMKUH.jpg",
+        "posterPath": "/lyDRtY01krTcs1JP74XL2XxqUb4.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, Sci-Fi & Fantasy"
       },
       {
         "id": 283950,
@@ -174,6 +239,19 @@
         "genreTitle": "悬疑, 剧情"
       },
       {
+        "id": 296146,
+        "type": "tmdb",
+        "title": "罚罪2",
+        "originalTitle": "罚罪2",
+        "description": "讲述了警察秦枫与犯罪分子斗智斗勇的故事。剧本选取汉洲发展背景下的恶性案件，描绘警察与家人、利益集团的复杂关系。主线围绕秦枫和刘天也两个异姓兄弟展开，揭示人性深度与道德冲突。故事情节紧凑，悬念重重，展现了善恶抉择与法治信仰的力量。",
+        "releaseDate": "2025-12-25",
+        "backdropPath": "/j8OYff3PaKpSVdt9FbpjmcrpG8N.jpg",
+        "posterPath": "/2YzIgz1Bi0hsXabPqnHU9ISn44F.jpg",
+        "rating": 9.5,
+        "mediaType": "tv",
+        "genreTitle": "犯罪"
+      },
+      {
         "id": 262957,
         "type": "tmdb",
         "title": "暗恋者的救赎",
@@ -189,6 +267,32 @@
     ],
     "剧集·国外": [
       {
+        "id": 224372,
+        "type": "tmdb",
+        "title": "七王国的骑士",
+        "originalTitle": "A Knight of the Seven Kingdoms",
+        "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+        "releaseDate": "2026-01-18",
+        "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+        "posterPath": "/obI4UxjtVXz1aionxHl1jfDrMKI.jpg",
+        "rating": 8.542,
+        "mediaType": "tv",
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 250307,
+        "type": "tmdb",
+        "title": "匹兹堡医护前线",
+        "originalTitle": "The Pitt",
+        "description": "第二季故事发生在第一季结局的10个月后，时间线为一个美国独立纪念日的周末。",
+        "releaseDate": "2026-01-08",
+        "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
+        "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
+        "rating": 7.9,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 229891,
         "type": "tmdb",
         "title": "爱情怎么翻译？",
@@ -197,9 +301,22 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/x3aUyOT8rW3kzFPE9eIwiJe9AfG.jpg",
         "posterPath": "/oJt1uzOay5qNzNj1IrMhw8PCnwb.jpg",
-        "rating": 8.6,
+        "rating": 8.625,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 106379,
+        "type": "tmdb",
+        "title": "辐射",
+        "originalTitle": "Fallout",
+        "description": "第二季将延续第一季结局的故事，带领观众穿越莫哈韦荒原，到达世界末日后的城市新维加斯。",
+        "releaseDate": "2025-12-16",
+        "backdropPath": "/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
+        "posterPath": "/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
+        "rating": 6.8,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
         "id": 297207,
@@ -215,6 +332,19 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
+        "id": 157741,
+        "type": "tmdb",
+        "title": "石油天王",
+        "originalTitle": "Landman",
+        "description": "石油自地底喷涌而出，秘密亦随之浮出水面——汤米·诺里斯（Tommy Noris）的崩溃临界点，或许比他意识到的更近。面对来自M - Tex石油公司、卡米·米勒（Cami Miller）的重重压力，以及亲友团的笼罩，在西得克萨斯的生存毫无高尚可言，唯有残酷本质。而迟早，总有什么会彻底崩塌。",
+        "releaseDate": "2025-11-16",
+        "backdropPath": "/q71au2YjcwXBMZKNzNgjK7RZ3Hs.jpg",
+        "posterPath": "/pEKgBPrLN7x8fAZKjzN8NayQHiW.jpg",
+        "rating": 8.6,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 198178,
         "type": "tmdb",
         "title": "奇迹人",
@@ -223,7 +353,7 @@
         "releaseDate": "2026-01-27",
         "backdropPath": "/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
         "posterPath": "/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
-        "rating": 7.141,
+        "rating": 7.135,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -249,9 +379,22 @@
         "releaseDate": "2026-01-02",
         "backdropPath": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
         "posterPath": "/pSvHtvThGPOstnl2eK1oc0CQWaa.jpg",
-        "rating": 7.571,
+        "rating": 7.75,
         "mediaType": "tv",
         "genreTitle": "犯罪, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 61859,
+        "type": "tmdb",
+        "title": "夜班经理",
+        "originalTitle": "The Night Manager",
+        "description": "第一季的事件发生九年后，乔纳森·派恩被卷入哥伦比亚的一项新任务。这次的任务涉及一位危险的新军火商泰迪·多斯·桑托斯及其性感迷人的同伙罗克珊娜·博拉尼奥斯。派恩潜入泰迪的组织，揭开了层层叠叠的秘密、谎言和腐败。他能否在为时已晚之前挫败泰迪的阴谋？",
+        "releaseDate": "2025-12-31",
+        "backdropPath": "/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
+        "posterPath": "/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
+        "rating": 7.9,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
       }
     ]
   }
