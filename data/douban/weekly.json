@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-24T20:21:21.342Z",
+  "time": "2026-02-25T20:22:58.532Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.7,
+        "rating": 7.729,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.6,
+        "rating": 7.549,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-02-17",
         "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
         "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-        "rating": 7.933,
+        "rating": 7.882,
         "mediaType": "movie",
         "genreTitle": "动作, 剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-12-18",
         "backdropPath": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
         "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
-        "rating": 7.242,
+        "rating": 7.238,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -161,6 +161,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 275631,
+        "type": "tmdb",
+        "title": "非常检控观",
+        "originalTitle": "非常檢控觀",
+        "description": "律政司高级助理刑事检控专员包希仁患有罕见的「镜反射触觉症」，具有极致同理心。他以还原案件100%真相为目标，致力让被告认罪，减少受害者面对冗长聆讯的痛苦。希仁与律政书记公孙珀、志同道合的高级督察展熊飞、曾是受害者的秦湘言、实习检控官赵子帧等人通力合作，伸张正义。众人遇到不少阻力，希仁甚至要与身为财团长女的母亲为敌、跟身为大律师的旧情人王颂星对垒……然而，希仁坚守信念，誓要还受害人一个真相和公道！",
+        "releaseDate": "2026-01-19",
+        "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
+        "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 139162,
         "type": "tmdb",
         "title": "中国奇谭",
@@ -172,6 +185,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 280632,
+        "type": "tmdb",
+        "title": "成何体统",
+        "originalTitle": "成何体统",
+        "description": "讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
+        "releaseDate": "2026-02-06",
+        "backdropPath": "/nz6Pg1RKfTrcw6ddPXCvqZM2M5p.jpg",
+        "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
+        "rating": 8.6,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
       },
       {
         "id": 283950,
@@ -213,19 +239,6 @@
         "genreTitle": "剧情, 犯罪"
       },
       {
-        "id": 263219,
-        "type": "tmdb",
-        "title": "秋雪漫过的冬天",
-        "originalTitle": "秋雪漫过的冬天",
-        "description": "本剧讲述了两个身处困境的人在生活的泥泞中相互慰藉、相互取暖的治愈故事。出身贫寒、替父还债的周遇安遇见了家庭不顺、事业受阻的姜家齐，因为公司的职场斗争把两个本来没有交集的人连接在一起，CEO顾辰因为姜家齐的仗义执言，丢失了一款新药的上市申请机会，于是雇佣周遇安想要逼走姜家齐，姜家齐和周遇安两人从误会开始，慢慢地开始了互相理解，周遇安看到了姜家齐身上最温暖的一面，最终两人互相治愈，共同走出了人生的阴霾。故事中的男女主虽然深陷人生低谷，但始终以积极的态度面对生活，从未被生活的磨难所打倒，两人互相扶持，携手共度难关。全剧以温暖治愈的风格展现了二人从相识到误会、从相知到治愈的过程，刻画了人世间最真善美的人性光辉，传递了不管生活有多泥泞困苦，一定要心存希望，勇敢面对，终会走出阴霾、拥抱美好明天的积极价值观。",
-        "releaseDate": "2026-01-10",
-        "backdropPath": "/y1k8KhifyLJxZUK3ObviZiQREPJ.jpg",
-        "posterPath": "/2LjFKTDjYhQAW7ehLytH7V4Ucho.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 284512,
         "type": "tmdb",
         "title": "玉茗茶骨",
@@ -239,30 +252,17 @@
         "genreTitle": "悬疑, 剧情"
       },
       {
-        "id": 296146,
+        "id": 263219,
         "type": "tmdb",
-        "title": "罚罪2",
-        "originalTitle": "罚罪2",
-        "description": "讲述了警察秦枫与犯罪分子斗智斗勇的故事。剧本选取汉洲发展背景下的恶性案件，描绘警察与家人、利益集团的复杂关系。主线围绕秦枫和刘天也两个异姓兄弟展开，揭示人性深度与道德冲突。故事情节紧凑，悬念重重，展现了善恶抉择与法治信仰的力量。",
-        "releaseDate": "2025-12-25",
-        "backdropPath": "/j8OYff3PaKpSVdt9FbpjmcrpG8N.jpg",
-        "posterPath": "/2YzIgz1Bi0hsXabPqnHU9ISn44F.jpg",
-        "rating": 9.5,
+        "title": "秋雪漫过的冬天",
+        "originalTitle": "秋雪漫过的冬天",
+        "description": "本剧讲述了两个身处困境的人在生活的泥泞中相互慰藉、相互取暖的治愈故事。出身贫寒、替父还债的周遇安遇见了家庭不顺、事业受阻的姜家齐，因为公司的职场斗争把两个本来没有交集的人连接在一起，CEO顾辰因为姜家齐的仗义执言，丢失了一款新药的上市申请机会，于是雇佣周遇安想要逼走姜家齐，姜家齐和周遇安两人从误会开始，慢慢地开始了互相理解，周遇安看到了姜家齐身上最温暖的一面，最终两人互相治愈，共同走出了人生的阴霾。故事中的男女主虽然深陷人生低谷，但始终以积极的态度面对生活，从未被生活的磨难所打倒，两人互相扶持，携手共度难关。全剧以温暖治愈的风格展现了二人从相识到误会、从相知到治愈的过程，刻画了人世间最真善美的人性光辉，传递了不管生活有多泥泞困苦，一定要心存希望，勇敢面对，终会走出阴霾、拥抱美好明天的积极价值观。",
+        "releaseDate": "2026-01-10",
+        "backdropPath": "/y1k8KhifyLJxZUK3ObviZiQREPJ.jpg",
+        "posterPath": "/2LjFKTDjYhQAW7ehLytH7V4Ucho.jpg",
+        "rating": 7.5,
         "mediaType": "tv",
-        "genreTitle": "犯罪"
-      },
-      {
-        "id": 262957,
-        "type": "tmdb",
-        "title": "暗恋者的救赎",
-        "originalTitle": "暗恋者的救赎",
-        "description": "做事执着、具有超凡观察力的刑警队长宋诚在调查一起刑事案件的过程中，发现该案和四年前另一起案件有着千丝万缕的关联，而与这两起案件卷入到一起的还有一个共同的证人俞笑。随着宋诚对案件调查的深入，隐藏在俞笑生活中的秘密被逐一揭开。在宋诚的鼓励和帮助下，俞笑与警方联手共同寻找真相。随着案件的深入，二人在得到更多线索的同时，也面临诸多阻力。最终，宋诚和俞笑互相配合，克服阻碍，将真凶绳之以法。",
-        "releaseDate": "2026-01-23",
-        "backdropPath": "/c841YfQpZg91vi1lNZmcf1XANqv.jpg",
-        "posterPath": "/8wSEvsH1UWUIqacz9ZBCbU7i5LH.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
+        "genreTitle": "剧情"
       }
     ],
     "剧集·国外": [
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/obI4UxjtVXz1aionxHl1jfDrMKI.jpg",
-        "rating": 8.526,
+        "rating": 8.519,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -286,7 +286,7 @@
         "originalTitle": "The Pitt",
         "description": "第二季故事发生在第一季结局的10个月后，时间线为一个美国独立纪念日的周末。",
         "releaseDate": "2026-01-08",
-        "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
+        "backdropPath": "/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
         "rating": 8,
         "mediaType": "tv",
@@ -306,6 +306,19 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
+        "id": 273977,
+        "type": "tmdb",
+        "title": "莎拉的真伪人生",
+        "originalTitle": "레이디 두아",
+        "description": "该剧讲述即使是假的也想成为名牌的女人\"莎拉金\"和追踪她欲望的男人\"武京\"的犯罪悬疑剧。",
+        "releaseDate": "2026-02-13",
+        "backdropPath": "/43gmaZAs7uzLdkYruleipmgucZ2.jpg",
+        "posterPath": "/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
+        "rating": 7.8,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 悬疑"
+      },
+      {
         "id": 106379,
         "type": "tmdb",
         "title": "辐射",
@@ -319,17 +332,17 @@
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
-        "id": 297207,
+        "id": 131142,
         "type": "tmdb",
-        "title": "平屋慢生活",
-        "originalTitle": "ひらやすみ",
-        "description": "29岁的生田弘人是一名打零工的自由人：没有正职、没有恋人，对那种按理说人人都会有的“对未来的不安”也全然没有。凭着单纯的好人缘，他与住在附近的老奶奶和田花惠成了朋友，并从她那里继承了一栋独栋平房。于是，他开始与从山形上京的18岁表亲小林夏美两人同住。在这个充满焦虑、迷惘与悲伤的世界里，弘人和身边的人都在尽力摸索所谓“生活”的模样。",
-        "releaseDate": "2025-11-03",
-        "backdropPath": "/zSprvjCrY7BpxCGIXs5dVSN2P22.jpg",
-        "posterPath": "/90eNXjLTIkyuIMwoeRP5TCGf57q.jpg",
+        "title": "爱情故事：小约翰·肯尼迪与卡罗琳·贝塞特",
+        "originalTitle": "Love Story",
+        "description": "一部收录了众多轰动一时的真实爱情故事的合集，这些故事曾引起全世界的关注。",
+        "releaseDate": "2026-02-12",
+        "backdropPath": "/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
+        "posterPath": "/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
         "rating": 9,
         "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
+        "genreTitle": "剧情"
       },
       {
         "id": 157741,
@@ -345,17 +358,30 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 198178,
+        "id": 233079,
         "type": "tmdb",
-        "title": "奇迹人",
-        "originalTitle": "Wonder Man",
-        "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
-        "releaseDate": "2026-01-27",
-        "backdropPath": "/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
-        "posterPath": "/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
-        "rating": 7.142,
+        "title": "如何从贝尔法斯特去天堂",
+        "originalTitle": "How to Get to Heaven from Belfast",
+        "description": "三个一生的挚友踏上乱糟糟的旅程，试图揭开一位老朋友的死亡之谜，同时隐瞒自己的黑暗秘密。",
+        "releaseDate": "2026-02-12",
+        "backdropPath": "/lkmGrZXASDPwXyWf4p8GG83dw5N.jpg",
+        "posterPath": "/rjMxWVXM4ckAcaNQMh3ovkyxHwD.jpg",
+        "rating": 7.141,
         "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
+        "genreTitle": "悬疑, 喜剧"
+      },
+      {
+        "id": 270572,
+        "type": "tmdb",
+        "title": "蝇王",
+        "originalTitle": "Lord of the Flies",
+        "description": "讲述了一群英国男孩被困在一个无人居住的热带岛屿上，随着社会习俗的消失和任何负责任的统治尝试的失败，他们逐渐陷入无政府状态的故事。",
+        "releaseDate": "2026-02-08",
+        "backdropPath": "/liGU5vmxT1FisyfAh1v6octAFDz.jpg",
+        "posterPath": "/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+        "rating": 7.957,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 动作冒险"
       },
       {
         "id": 254071,
@@ -366,35 +392,9 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.395,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
-      },
-      {
-        "id": 282810,
-        "type": "tmdb",
-        "title": "法官李汉英",
-        "originalTitle": "판사 이한영",
-        "description": "讲述了一名在大型律师事务所工作的奴隶法官李汉英，回到十年前以新的选择惩罚恶人的故事。",
-        "releaseDate": "2026-01-02",
-        "backdropPath": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
-        "posterPath": "/pSvHtvThGPOstnl2eK1oc0CQWaa.jpg",
-        "rating": 7.889,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 61859,
-        "type": "tmdb",
-        "title": "夜班经理",
-        "originalTitle": "The Night Manager",
-        "description": "第一季的事件发生九年后，乔纳森·派恩被卷入哥伦比亚的一项新任务。这次的任务涉及一位危险的新军火商泰迪·多斯·桑托斯及其性感迷人的同伙罗克珊娜·博拉尼奥斯。派恩潜入泰迪的组织，揭开了层层叠叠的秘密、谎言和腐败。他能否在为时已晚之前挫败泰迪的阴谋？",
-        "releaseDate": "2026-01-01",
-        "backdropPath": "/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
-        "posterPath": "/6kDXxP31JQaZQQjUqyQNa1wlNCe.jpg",
-        "rating": 7.9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
       }
     ]
   }
