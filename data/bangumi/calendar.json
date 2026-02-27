@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-26T16:54:09.350Z",
+  "time": "2026-02-27T16:36:56.322Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2023-04-01",
         "backdropPath": "/vjiIuR3XGpoGSumQ7DziPAmxIYR.jpg",
         "posterPath": "/jfPqPQy2EiS8TwDlbvU9hgyxCdF.jpg",
-        "rating": 8.141,
+        "rating": 8.145,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -286,7 +286,7 @@
         "releaseDate": "2019-10-08",
         "backdropPath": "/tbHQDtoDZGJsfe7Kx6BEShcrZAa.jpg",
         "posterPath": "/cZ8JUIwS9K4kttelRq6eP0mVhjK.jpg",
-        "rating": 8.617,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       }
@@ -301,7 +301,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
         "posterPath": "/frh8aDHSjbnyHv2YU5fJBThEhK3.jpg",
-        "rating": 8.6,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -381,7 +381,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.723,
+        "rating": 8.724,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -526,7 +526,7 @@
         "releaseDate": "2024-01-04",
         "backdropPath": "/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
         "posterPath": "/bAvclqxxYczAgyd1WfCSLrGOYpk.jpg",
-        "rating": 7.9,
+        "rating": 7.855,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -803,7 +803,7 @@
         "releaseDate": "2026-01-03",
         "backdropPath": "/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
         "posterPath": "/jshoRakvXi5jefQPWMxVZ6SL1kF.jpg",
-        "rating": 8.859,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
