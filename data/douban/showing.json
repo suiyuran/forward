@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-26T17:56:45.694Z",
+  "time": "2026-02-27T17:38:32.060Z",
   "data": [
     {
       "id": 1602727,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-02-14",
       "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
       "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
-      "rating": 7.727,
+      "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -23,7 +23,7 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
       "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-      "rating": 7.789,
+      "rating": 7.8,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -36,7 +36,7 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/rLHFufd3gALwHay1Sxl3MjbGQ7E.jpg",
       "posterPath": "/cL5vAK6bUHYWTOnypi34mzzWI8X.jpg",
-      "rating": 7,
+      "rating": 6.9,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -114,7 +114,7 @@
       "releaseDate": "2026-01-20",
       "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
       "posterPath": "/fq2AqiarysK2Swl7SUQxVMyofh2.jpg",
-      "rating": 7.108,
+      "rating": 7.119,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -140,7 +140,7 @@
       "releaseDate": "2026-01-21",
       "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
       "posterPath": "/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
-      "rating": 5.1,
+      "rating": 5.093,
       "mediaType": "movie",
       "genreTitle": "悬疑, 剧情"
     },
@@ -166,9 +166,22 @@
       "releaseDate": "2025-12-06",
       "backdropPath": "/7YYEgFuUrK4piSwGQY9nosvHCWw.jpg",
       "posterPath": "/nE8jhTs48DKb65z0hLk0Akd3GK4.jpg",
-      "rating": 4.727,
+      "rating": 4.696,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
+    },
+    {
+      "id": 1632606,
+      "type": "tmdb",
+      "title": "团圆令",
+      "originalTitle": "团圆令",
+      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
+      "releaseDate": "2026-02-28",
+      "backdropPath": null,
+      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1497873,
@@ -216,9 +229,9 @@
       "originalTitle": "Zootopia 2",
       "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
       "releaseDate": "2025-11-26",
-      "backdropPath": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+      "backdropPath": "/5BeOSbwt6BR7q2Fax70lF4AIshD.jpg",
       "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "rating": 7.611,
+      "rating": 7.607,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -283,7 +296,7 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.279,
+      "rating": 7.276,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -296,7 +309,7 @@
       "releaseDate": "2025-12-27",
       "backdropPath": "/CZUyZdTBeOhr29KFjcsVjexEFE.jpg",
       "posterPath": "/wz7DchRv3sXIH87LyjhhxJdrVGk.jpg",
-      "rating": 6,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "悬疑, 犯罪"
     },
@@ -309,22 +322,9 @@
       "releaseDate": "2025-12-16",
       "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
       "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.8,
+      "rating": 6.752,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1369453,
-      "type": "tmdb",
-      "title": "年年岁岁",
-      "originalTitle": "年年岁岁",
-      "description": "梦境与幻觉不断侵入米寻的现实生活，尘封的往事，隐秘的情感被渐渐揭开，米寻决意以此拍摄一部电影，与父亲重逢与告别。",
-      "releaseDate": "2023-03-16",
-      "backdropPath": "/81wAN1BT7maDqrdTroBvdTevAsK.jpg",
-      "posterPath": "/8smDX9YYebIDBRQGaEqmCr3mHkj.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1599013,
@@ -340,19 +340,6 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 1338704,
-      "type": "tmdb",
-      "title": "梵高：诗情画意",
-      "originalTitle": "Van Gogh: Poets & Lovers",
-      "description": "开幕200年后，在获得第一批梵高作品一个世纪后，国家美术馆正在举办英国有史以来最大的梵高展览。梵高不仅是有史以来最受喜爱的艺术家之一，也许也是被误解最多的艺术家之一。这部电影是重新审视和更好地了解这位标志性艺术家的机会。《梵高：诗人与恋人》专注于他独特的创作过程，探讨了这位艺术家在法国南部的岁月，在那里他彻底改变了自己的风格。梵高在他的艺术中充满了讲故事的热情，将他周围的世界变成了充满活力、理想化的空间和象征性人物。",
-      "releaseDate": "2024-11-06",
-      "backdropPath": "/xV6S5UkSGc5t5jHZIXpcVUFuchO.jpg",
-      "posterPath": "/q0kCJhEfEajaew4huhWCgYl7Rub.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 1323410,
       "type": "tmdb",
       "title": "月光里的男孩",
@@ -364,6 +351,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1338704,
+      "type": "tmdb",
+      "title": "梵高：诗情画意",
+      "originalTitle": "Van Gogh: Poets & Lovers",
+      "description": "开幕200年后，在获得第一批梵高作品一个世纪后，国家美术馆正在举办英国有史以来最大的梵高展览。梵高不仅是有史以来最受喜爱的艺术家之一，也许也是被误解最多的艺术家之一。这部电影是重新审视和更好地了解这位标志性艺术家的机会。《梵高：诗人与恋人》专注于他独特的创作过程，探讨了这位艺术家在法国南部的岁月，在那里他彻底改变了自己的风格。梵高在他的艺术中充满了讲故事的热情，将他周围的世界变成了充满活力、理想化的空间和象征性人物。",
+      "releaseDate": "2024-11-06",
+      "backdropPath": "/xV6S5UkSGc5t5jHZIXpcVUFuchO.jpg",
+      "posterPath": "/q0kCJhEfEajaew4huhWCgYl7Rub.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 1002640,
