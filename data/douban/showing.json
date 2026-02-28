@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-27T17:38:32.060Z",
+  "time": "2026-02-28T17:23:38.740Z",
   "data": [
     {
       "id": 1602727,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-02-14",
       "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
       "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
-      "rating": 7.4,
+      "rating": 7.462,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -23,7 +23,7 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
       "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-      "rating": 7.8,
+      "rating": 7.81,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -93,6 +93,19 @@
       "genreTitle": "喜剧, 动作"
     },
     {
+      "id": 1290821,
+      "type": "tmdb",
+      "title": "庇护之地",
+      "originalTitle": "Shelter",
+      "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
+      "releaseDate": "2026-01-28",
+      "backdropPath": "/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
+      "posterPath": "/buWK1jAS0lrpzGQuqDWl3GHVJdt.jpg",
+      "rating": 6.925,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
       "id": 1607088,
       "type": "tmdb",
       "title": "熊出没·年年有熊",
@@ -104,19 +117,6 @@
       "rating": 4,
       "mediaType": "movie",
       "genreTitle": "喜剧, 奇幻"
-    },
-    {
-      "id": 1236153,
-      "type": "tmdb",
-      "title": "极限审判",
-      "originalTitle": "Mercy",
-      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "releaseDate": "2026-01-20",
-      "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
-      "posterPath": "/fq2AqiarysK2Swl7SUQxVMyofh2.jpg",
-      "rating": 7.119,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
     },
     {
       "id": 1537690,
@@ -140,35 +140,22 @@
       "releaseDate": "2026-01-21",
       "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
       "posterPath": "/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
-      "rating": 5.093,
+      "rating": 5.1,
       "mediaType": "movie",
       "genreTitle": "悬疑, 剧情"
     },
     {
-      "id": 694,
+      "id": 804370,
       "type": "tmdb",
-      "title": "闪灵",
-      "originalTitle": "The Shining",
-      "description": "杰克是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂就发现这里气氛诡异，杰克的儿子丹尼经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
-      "releaseDate": "1980-05-23",
-      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
-      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.205,
+      "title": "时空奇旅",
+      "originalTitle": "Arco",
+      "description": "这个世界始终萦绕着一个终极猜想：若彩虹实为穿越时空的未来观测者，人类历史将如何被重写？公元2932年，十岁少年阿尔科身着虹光太空服开启人生首航，却在时空乱流中意外坠入2075年的过去。同龄女孩艾瑞斯目睹了这场天降奇遇，这个坚信彩虹藏着宇宙秘密的少女，将帮助迷失时空的\"彩虹之子\"踏上惊心动魄的归家之旅......",
+      "releaseDate": "2025-10-22",
+      "backdropPath": "/jFKbhV0uFZuA3K73UJIq1dzisCi.jpg",
+      "posterPath": "/nlFMfaCvlclqgP8yXqB4zfqCZbj.jpg",
+      "rating": 7.756,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1356454,
-      "type": "tmdb",
-      "title": "得闲谨制",
-      "originalTitle": "得闲谨制",
-      "description": "一个桃花源般的小镇，一群因南京沦陷而逃难至此安居数年的百姓，偶有一日数名日军误入此地，百姓被日军逼到绝境后奋起直面迎战。一场双方武器相差悬殊的战斗，一次智慧与意志的比拼，就此展开。",
-      "releaseDate": "2025-12-06",
-      "backdropPath": "/7YYEgFuUrK4piSwGQY9nosvHCWw.jpg",
-      "posterPath": "/nE8jhTs48DKb65z0hLk0Akd3GK4.jpg",
-      "rating": 4.696,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
+      "genreTitle": "动画, 科幻"
     },
     {
       "id": 1632606,
@@ -184,19 +171,6 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 1497873,
-      "type": "tmdb",
-      "title": "翠湖",
-      "originalTitle": "翠湖",
-      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
-      "releaseDate": "2026-01-24",
-      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
-      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1614368,
       "type": "tmdb",
       "title": "喜欢上“欠欠”的你",
@@ -210,19 +184,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 51731,
-      "type": "tmdb",
-      "title": "鹿鼎记II神龙教",
-      "originalTitle": "鹿鼎記 II : 神龍敎",
-      "description": "韦小宝要护送建宁公主嫁到云南，以安抚图谋造反的吴三桂父子。在途中遇到了独臂神尼的刺杀。小宝被抓走后，借口拜神尼为师，其实是想追求其徒弟阿珂。不料韦小宝被神龙教圣女龙儿抓走，想要报之前在王宫里埋下的仇恨，却没想到遭到了平西王的陷害。韦小宝极力相救，龙儿以身相许更把绝世武功传于韦小宝。韦小宝与公主之间的事情被平西王发现了，平西王更提前造反。小宝在独臂神尼、神龙教、天地会、云南王等多方势力角逐中终得化险为夷、还赢得了包括龙儿在内的众多姑娘的芳心。最后制服了吴三桂父子，回到京城受到皇帝赏识，同时，韦小宝天地会的身份被人密告皇帝……",
-      "releaseDate": "1992-09-24",
-      "backdropPath": "/uiTFVCL19OLaPAgrbX9zTvYK5bb.jpg",
-      "posterPath": "/wHUgmng3fCSCVPTwdbYqdZqc3XQ.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "动作, 喜剧"
-    },
-    {
       "id": 1084242,
       "type": "tmdb",
       "title": "疯狂动物城2",
@@ -231,7 +192,7 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/5BeOSbwt6BR7q2Fax70lF4AIshD.jpg",
       "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "rating": 7.607,
+      "rating": 7.603,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -249,45 +210,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 871900,
-      "type": "tmdb",
-      "title": "藏地情书",
-      "originalTitle": "藏地情书",
-      "description": "毛铭基（屈楚萧 饰）和傅真（邱天 饰）在拉萨相遇，并和子琪（马苏 饰）、李健（张宁江 饰）、达娃（金巴 饰）结伴前往珠峰大本营。历经各种波折后，毛铭基和傅真二人之间产生了纯粹且强烈的爱情，但两人都未在即将结束的旅途前表达爱意，他们最终能否知晓彼此的心意？",
-      "releaseDate": "2026-02-13",
-      "backdropPath": "/rA8mmVQQ0aYMAwBmjGZ1Mv6NVjd.jpg",
-      "posterPath": "/cgdBwVt7COqch2UI4HxSyrivyb3.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1628728,
-      "type": "tmdb",
-      "title": "替身拳手",
-      "originalTitle": "替身拳手",
-      "description": "电影讲述了出身贫寒的拳击少年田野与父亲田海军靠送水维持生计。在留学中介李倩与富商陈辉夫妇的谋划下，田野被骗成为了富二代陈火炬的拳击比赛替身。被蒙在鼓里的田野与陈火炬意外成为好友，在得知真相后又不得不站在了对立面，两个少年决定用拳击刺破生活的假象，为了共同的理想奋起抗衡的热血故事。",
-      "releaseDate": "2026-02-07",
-      "backdropPath": "/jFlF37hKyhSizLBUBwyy8tv9eF6.jpg",
-      "posterPath": "/ntQR36Imr8WDHJBEkWZmnzusAHm.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 动作"
-    },
-    {
-      "id": 313369,
-      "type": "tmdb",
-      "title": "爱乐之城",
-      "originalTitle": "La La Land",
-      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
-      "releaseDate": "2016-12-01",
-      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
-      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.9,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
       "id": 83533,
       "type": "tmdb",
       "title": "阿凡达：火与烬",
@@ -301,82 +223,17 @@
       "genreTitle": "科幻, 冒险"
     },
     {
-      "id": 1530787,
+      "id": 1602722,
       "type": "tmdb",
-      "title": "匿杀",
-      "originalTitle": "匿杀",
-      "description": "地狱空荡荡，恶魔在人间。十五年前，一群身份各异的罪恶权贵将都马市染黑成一座“地狱岛”，高中生晓笛惨遭权贵凌辱致死；十五年后，这些背后操盘者接连惨死，死状惨烈。曾目睹十五年前命案的方天阳与警官方正楠深入调查，惊觉这桩匿名杀人案不只是单纯的复仇，更是一场迟到的控诉。桩桩命案，层层黑幕，那张权力、金钱、欲望织就的黑色秘网背后究竟藏着多少不为人知的罪孽？",
-      "releaseDate": "2025-12-27",
-      "backdropPath": "/CZUyZdTBeOhr29KFjcsVjexEFE.jpg",
-      "posterPath": "/wz7DchRv3sXIH87LyjhhxJdrVGk.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 犯罪"
-    },
-    {
-      "id": 991494,
-      "type": "tmdb",
-      "title": "海绵宝宝：深海大冒险",
-      "originalTitle": "The SpongeBob Movie: Search for SquarePants",
-      "description": "海绵宝宝和他的朋友们派大星、章鱼哥、珊迪以及蟹老板前往海洋深处面对飞翔的荷兰人幽灵，遭遇挑战并揭开海洋奥秘。",
-      "releaseDate": "2025-12-16",
-      "backdropPath": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
-      "posterPath": "/rE7mi4WfvT1Kc0LxUqpMtYoG26G.jpg",
-      "rating": 6.752,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1599013,
-      "type": "tmdb",
-      "title": "情缘曹雪芹",
-      "originalTitle": "情缘曹雪芹",
-      "description": "影片聚焦于文学巨匠曹雪芹丰富而深邃的情感世界，从其生命经历中撷取动人篇章。电影不仅通过曹雪芹与生命中三位重要女性——芳青、荷香、云妹的动人情感交织，细腻展现了他的深情与胸怀；也刻画了他与敦诚、敦敏、于景廉、徐环等友人之间真挚而深刻的友谊。这些源自现实生活的深切关怀与命运共鸣，最终凝聚为他“为闺阁增光”的宏大志向，成为其呕心沥血创作《红楼梦》的初心与动力，生动诠释了一种超越个人情爱、为天下女子立传的“大情大爱”。",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/vOb07QqTkMroELd5VmtuCS6d4v8.jpg",
-      "posterPath": "/pBhRGhbgkVOgk5FF4o7u26ntxE5.jpg",
+      "title": "舒克贝塔之微缩人类",
+      "originalTitle": "舒克贝塔之微缩人类",
+      "description": "鼠王获得了微缩人类技术后建造了梦想岛，企图把魔方市的市民都缩小并囚禁于此并以此夺取魔方市。 舒克贝塔因运送机场的乘客来到梦想岛，卷入了这场阴谋，他们挺身而出，破除了鼠王的阴谋，拯救了魔方市市民。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/gv5T4Y3PwzndEkPONtCT2GOKf2D.jpg",
+      "posterPath": "/f7K95hYV9WjRGV3Qk3e0SmqZxhl.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1323410,
-      "type": "tmdb",
-      "title": "月光里的男孩",
-      "originalTitle": "月光里的男孩",
-      "description": "作家扎西因为儿时打瞎了一条与他同名的狗而愧疚多年，可是当他再回到家乡后却得知了事情的真相。",
-      "releaseDate": "2026-01-06",
-      "backdropPath": "/wUgoZzLqH9GXUKBnt2DvPqWbGJV.jpg",
-      "posterPath": "/7D2xwJK5eBMiKXKqeNguPCIDRAc.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1338704,
-      "type": "tmdb",
-      "title": "梵高：诗情画意",
-      "originalTitle": "Van Gogh: Poets & Lovers",
-      "description": "开幕200年后，在获得第一批梵高作品一个世纪后，国家美术馆正在举办英国有史以来最大的梵高展览。梵高不仅是有史以来最受喜爱的艺术家之一，也许也是被误解最多的艺术家之一。这部电影是重新审视和更好地了解这位标志性艺术家的机会。《梵高：诗人与恋人》专注于他独特的创作过程，探讨了这位艺术家在法国南部的岁月，在那里他彻底改变了自己的风格。梵高在他的艺术中充满了讲故事的热情，将他周围的世界变成了充满活力、理想化的空间和象征性人物。",
-      "releaseDate": "2024-11-06",
-      "backdropPath": "/xV6S5UkSGc5t5jHZIXpcVUFuchO.jpg",
-      "posterPath": "/q0kCJhEfEajaew4huhWCgYl7Rub.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1002640,
-      "type": "tmdb",
-      "title": "Secrets of the Sea",
-      "originalTitle": "Secrets of the Sea",
-      "description": "",
-      "releaseDate": "2022-06-08",
-      "backdropPath": null,
-      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": ""
+      "genreTitle": "动画, 喜剧"
     }
   ]
 }
