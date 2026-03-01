@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-28T20:12:18.214Z",
+  "time": "2026-03-01T20:12:25.853Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.725,
+        "rating": 7.744,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-10-22",
         "backdropPath": "/jFKbhV0uFZuA3K73UJIq1dzisCi.jpg",
         "posterPath": "/nlFMfaCvlclqgP8yXqB4zfqCZbj.jpg",
-        "rating": 7.756,
+        "rating": 7.733,
         "mediaType": "movie",
         "genreTitle": "动画, 科幻"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2025-11-21",
         "backdropPath": "/1uKSxvt2gt4wtP1HY1ySLVFDCl9.jpg",
         "posterPath": "/7nzjEZGZpODGLW09frsw9GBQOWN.jpg",
-        "rating": 7.714,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.5,
+        "rating": 7.535,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-12-18",
         "backdropPath": "/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
         "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
-        "rating": 7.247,
+        "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.482,
+        "rating": 8.502,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -312,9 +312,9 @@
         "originalTitle": "레이디 두아",
         "description": "该剧讲述即使是假的也想成为名牌的女人\"莎拉金\"和追踪她欲望的男人\"武京\"的犯罪悬疑剧。",
         "releaseDate": "2026-02-13",
-        "backdropPath": "/43gmaZAs7uzLdkYruleipmgucZ2.jpg",
+        "backdropPath": "/4YWpfFrtd6PBAQmkI44DEkCP13O.jpg",
         "posterPath": "/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
-        "rating": 7.8,
+        "rating": 7.75,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/lkmGrZXASDPwXyWf4p8GG83dw5N.jpg",
         "posterPath": "/rjMxWVXM4ckAcaNQMh3ovkyxHwD.jpg",
-        "rating": 7.186,
+        "rating": 7.243,
         "mediaType": "tv",
         "genreTitle": "悬疑, 喜剧"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-01-21",
         "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
         "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
-        "rating": 7.387,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
