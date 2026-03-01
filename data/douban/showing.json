@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-28T17:23:38.740Z",
+  "time": "2026-03-01T17:25:57.673Z",
   "data": [
     {
       "id": 1602727,
@@ -67,19 +67,6 @@
       "genreTitle": "剧情, 科幻"
     },
     {
-      "id": 1618784,
-      "type": "tmdb",
-      "title": "东北警察故事3",
-      "originalTitle": "东北警察故事3",
-      "description": "李红旗要办婚礼了！本想婚礼一切从简，但彪悍热心的丈母娘（林晓杰 饰）坚持做主想大操大办，李红旗不得不飞往海角，落地后却得知飞机邻座女孩昕昕（马千壹 饰）被人贩子拐走。面对凶残狡猾的犯罪团伙，李红旗与当地办案风格迥异的警察孙彪（崔志佳 饰）强强联手，在婚期逼近的倒计时中和人贩子头目秦叶蓉（黄米依 饰）及卖鱼佬（伍允龙 饰）展开殊死搏斗。婚礼筹备笑料百出，办案追凶惊心动魄——红旗不倒，正义不休假！看李红旗如何罪犯、幸福两手抓。",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/AtvnNg6R0kunKDhdNl9tAAGVOdT.jpg",
-      "posterPath": "/f5EoZe8Z256w0tgRhYzV0LAtNuH.jpg",
-      "rating": 6.25,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1421552,
       "type": "tmdb",
       "title": "熊猫计划之部落奇遇记",
@@ -91,19 +78,6 @@
       "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动作"
-    },
-    {
-      "id": 1290821,
-      "type": "tmdb",
-      "title": "庇护之地",
-      "originalTitle": "Shelter",
-      "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
-      "releaseDate": "2026-01-28",
-      "backdropPath": "/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
-      "posterPath": "/buWK1jAS0lrpzGQuqDWl3GHVJdt.jpg",
-      "rating": 6.925,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 1607088,
@@ -119,17 +93,17 @@
       "genreTitle": "喜剧, 奇幻"
     },
     {
-      "id": 1537690,
+      "id": 1290821,
       "type": "tmdb",
-      "title": "爆水管",
-      "originalTitle": "爆水管",
-      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/yBeSkhMSCA6FdckEMOQ9ROzibak.jpg",
-      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
-      "rating": 5,
+      "title": "庇护之地",
+      "originalTitle": "Shelter",
+      "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
+      "releaseDate": "2026-01-28",
+      "backdropPath": "/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
+      "posterPath": "/buWK1jAS0lrpzGQuqDWl3GHVJdt.jpg",
+      "rating": 6.8,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 犯罪"
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 680493,
@@ -139,8 +113,8 @@
       "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
       "releaseDate": "2026-01-21",
       "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
-      "posterPath": "/8lCaaZYiyKBuLpq7WmihnZau6aJ.jpg",
-      "rating": 5.1,
+      "posterPath": "/bgrECjDxdlO5vjxQZynuDZ0QobA.jpg",
+      "rating": 5.07,
       "mediaType": "movie",
       "genreTitle": "悬疑, 剧情"
     },
@@ -153,7 +127,7 @@
       "releaseDate": "2025-10-22",
       "backdropPath": "/jFKbhV0uFZuA3K73UJIq1dzisCi.jpg",
       "posterPath": "/nlFMfaCvlclqgP8yXqB4zfqCZbj.jpg",
-      "rating": 7.756,
+      "rating": 7.733,
       "mediaType": "movie",
       "genreTitle": "动画, 科幻"
     },
@@ -164,11 +138,24 @@
       "originalTitle": "团圆令",
       "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
       "releaseDate": "2026-02-28",
-      "backdropPath": null,
+      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
       "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1084242,
+      "type": "tmdb",
+      "title": "疯狂动物城2",
+      "originalTitle": "Zootopia 2",
+      "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+      "releaseDate": "2025-11-26",
+      "backdropPath": "/5BeOSbwt6BR7q2Fax70lF4AIshD.jpg",
+      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
+      "rating": 7.6,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1614368,
@@ -184,17 +171,17 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1084242,
+      "id": 313369,
       "type": "tmdb",
-      "title": "疯狂动物城2",
-      "originalTitle": "Zootopia 2",
-      "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
-      "releaseDate": "2025-11-26",
-      "backdropPath": "/5BeOSbwt6BR7q2Fax70lF4AIshD.jpg",
-      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "rating": 7.603,
+      "title": "爱乐之城",
+      "originalTitle": "La La Land",
+      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
+      "releaseDate": "2016-12-01",
+      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
+      "rating": 7.9,
       "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 485289,
@@ -218,9 +205,22 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.276,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
+    },
+    {
+      "id": 1565586,
+      "type": "tmdb",
+      "title": "遇见不同的遇见",
+      "originalTitle": "遇见不同的遇见",
+      "description": "都市“躺平青年”但爽，带领“突如其来”电视栏目组，突袭暗访专业从事借钱为生的老乡“滚刀肉”吴德，在吴德的引领下，但爽有缘结识了有财、有貌的“超级卷王”是蒂，未曾想这对欢喜冤家的爱情之路总是遇见不同的遇见，在经历了英雄救美、海景房骗局、P2P理财“深坑”的一系列惊心动魄的故事下，最终花好月圆走在了一起。",
+      "releaseDate": "2026-02-14",
+      "backdropPath": "/jjEUYqfMBw7v4aFpwRQCRfN9QA.jpg",
+      "posterPath": "/ouAaqGz1aAzPXbnt7zciIVMB20E.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 悬疑"
     },
     {
       "id": 1602722,
