@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-01T16:22:42.942Z",
+  "time": "2026-03-02T16:40:17.453Z",
   "data": {
     "星期日": [
       {
@@ -20,11 +20,11 @@
         "type": "tmdb",
         "title": "异国日记",
         "originalTitle": "違国日記",
-        "description": "怕生的小说家·高代槙生，\n\n因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。\n\n意料之外开始的同居生活，让槙生原本寂静的日常骤变。\n\n因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。\n\n另一边，失去双亲、无处可归的朝，在初次体会的孤独中，\n\n渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。\n\n不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。\n\n性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。\n\n这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
+        "description": "怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
         "releaseDate": "2026-01-04",
         "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
         "posterPath": "/wjh7Ju3vO6T58Z6IPqSSyaGt6VA.jpg",
-        "rating": 8.909,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/1nt43fq7CKbqAJAospEo63vYXBV.jpg",
         "posterPath": "/4krFgYKveJfBPrrG8RHUkk2DcCn.jpg",
-        "rating": 8.467,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/6Eg3t2KdtqiF29G7a7S1Npl93g8.jpg",
         "posterPath": "/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg",
-        "rating": 8.8,
+        "rating": 8.893,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -273,7 +273,7 @@
         "releaseDate": "2025-04-07",
         "backdropPath": "/baZ0pGbBGjCBhIqsFyOSTpJyUnQ.jpg",
         "posterPath": "/oUsyAwpwqnfAfxWL87DyulYUb9a.jpg",
-        "rating": 7.75,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -433,7 +433,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/wThJAr5CYaLXH5qNhleCfbNrNSE.jpg",
         "posterPath": "/iEtEDr5CfVcUhWXFze18Rl2Q9CN.jpg",
-        "rating": 7.75,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -513,7 +513,7 @@
         "releaseDate": "2020-10-03",
         "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
         "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-        "rating": 8.56,
+        "rating": 8.559,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -671,7 +671,7 @@
         "releaseDate": "2016-07-09",
         "backdropPath": "/tRQMZPYWQTOygIeGZ7rmmQaeq1z.jpg",
         "posterPath": "/kUTsnVSo9JWcFK3Y2XILQfH0imK.jpg",
-        "rating": 6.9,
+        "rating": 6.98,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -764,7 +764,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8,
+        "rating": 8.001,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -881,7 +881,7 @@
         "releaseDate": "2025-01-05",
         "backdropPath": "/lUZ6ThctsCMee63Cu02F1F6rgC1.jpg",
         "posterPath": "/3wLOcD3qvoO0L5RoYohDb4QqLF2.jpg",
-        "rating": 8.404,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
