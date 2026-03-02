@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-01T17:25:57.673Z",
+  "time": "2026-03-02T17:50:12.499Z",
   "data": [
     {
       "id": 1602727,
@@ -101,9 +101,22 @@
       "releaseDate": "2026-01-28",
       "backdropPath": "/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
       "posterPath": "/buWK1jAS0lrpzGQuqDWl3GHVJdt.jpg",
-      "rating": 6.8,
+      "rating": 6.792,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 1537690,
+      "type": "tmdb",
+      "title": "爆水管",
+      "originalTitle": "爆水管",
+      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/yBeSkhMSCA6FdckEMOQ9ROzibak.jpg",
+      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 犯罪"
     },
     {
       "id": 680493,
@@ -114,22 +127,9 @@
       "releaseDate": "2026-01-21",
       "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
       "posterPath": "/bgrECjDxdlO5vjxQZynuDZ0QobA.jpg",
-      "rating": 5.07,
+      "rating": 5.045,
       "mediaType": "movie",
       "genreTitle": "悬疑, 剧情"
-    },
-    {
-      "id": 804370,
-      "type": "tmdb",
-      "title": "时空奇旅",
-      "originalTitle": "Arco",
-      "description": "这个世界始终萦绕着一个终极猜想：若彩虹实为穿越时空的未来观测者，人类历史将如何被重写？公元2932年，十岁少年阿尔科身着虹光太空服开启人生首航，却在时空乱流中意外坠入2075年的过去。同龄女孩艾瑞斯目睹了这场天降奇遇，这个坚信彩虹藏着宇宙秘密的少女，将帮助迷失时空的\"彩虹之子\"踏上惊心动魄的归家之旅......",
-      "releaseDate": "2025-10-22",
-      "backdropPath": "/jFKbhV0uFZuA3K73UJIq1dzisCi.jpg",
-      "posterPath": "/nlFMfaCvlclqgP8yXqB4zfqCZbj.jpg",
-      "rating": 7.733,
-      "mediaType": "movie",
-      "genreTitle": "动画, 科幻"
     },
     {
       "id": 1632606,
@@ -152,23 +152,10 @@
       "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
       "releaseDate": "2025-11-26",
       "backdropPath": "/5BeOSbwt6BR7q2Fax70lF4AIshD.jpg",
-      "posterPath": "/6LBiFV0eoBjeKksQ5fwmYk3xbXD.jpg",
-      "rating": 7.6,
+      "posterPath": "/mNUQUVVhkIdiAlgEDPElaLnYEcC.jpg",
+      "rating": 7.604,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1614368,
-      "type": "tmdb",
-      "title": "喜欢上“欠欠”的你",
-      "originalTitle": "喜欢上“欠欠”的你",
-      "description": "通过消费获取情绪满足的张若愚（秦霄贤 饰）遇上通过攒钱获取安全感的贾琼（王影璐 饰），一段“你花我拦”的奇妙纠葛就此开启。从互相嫌弃的省钱搭子，到渐生情愫的打趣逗乐，再到因误解而生出的刺痛猜疑……这段“欠欠”又“暖暖”的感情又将走向怎样的结局？",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/ykT38Me2FXg2e6C1xxDWpXCKNpZ.jpg",
-      "posterPath": "/e8Vxgpke2CJlyaiN0Nmb0aUBNdY.jpg",
-      "rating": 1,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 313369,
@@ -205,22 +192,9 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.3,
+      "rating": 7.276,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 1565586,
-      "type": "tmdb",
-      "title": "遇见不同的遇见",
-      "originalTitle": "遇见不同的遇见",
-      "description": "都市“躺平青年”但爽，带领“突如其来”电视栏目组，突袭暗访专业从事借钱为生的老乡“滚刀肉”吴德，在吴德的引领下，但爽有缘结识了有财、有貌的“超级卷王”是蒂，未曾想这对欢喜冤家的爱情之路总是遇见不同的遇见，在经历了英雄救美、海景房骗局、P2P理财“深坑”的一系列惊心动魄的故事下，最终花好月圆走在了一起。",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/jjEUYqfMBw7v4aFpwRQCRfN9QA.jpg",
-      "posterPath": "/ouAaqGz1aAzPXbnt7zciIVMB20E.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 悬疑"
     },
     {
       "id": 1602722,
@@ -234,6 +208,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
+    },
+    {
+      "id": 1588137,
+      "type": "tmdb",
+      "title": "遥远的普若岗日",
+      "originalTitle": "遥远的普若岗日",
+      "description": "天湖县各族干部，在海拔5000米以上的“人类生存极限试验场”，为了1.3万名牧民群众，付出了巨大的牺牲，经过多年奋斗和尝试，在国家极高海拔生态扶贫搬迁的英明决策下，带着全县人民重返人间。",
+      "releaseDate": "2025-12-16",
+      "backdropPath": "/1lbiQoBm116qlMcjCHSOuOmvzdD.jpg",
+      "posterPath": "/f7c7vXhC9WPGTeCcTUnL4CtAA2g.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     }
   ]
 }
