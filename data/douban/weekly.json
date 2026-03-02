@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-01T20:12:25.853Z",
+  "time": "2026-03-02T20:21:32.718Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.744,
+        "rating": 7.747,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-10-22",
         "backdropPath": "/jFKbhV0uFZuA3K73UJIq1dzisCi.jpg",
         "posterPath": "/nlFMfaCvlclqgP8yXqB4zfqCZbj.jpg",
-        "rating": 7.733,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "动画, 科幻"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.535,
+        "rating": 7.526,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-12-05",
         "backdropPath": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
         "posterPath": "/d86ctnc1Kl9xZHJ1xBPcwTKmaGa.jpg",
-        "rating": 7.5,
+        "rating": 7.468,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -113,9 +113,9 @@
         "originalTitle": "The Housemaid",
         "description": "生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
         "releaseDate": "2025-12-18",
-        "backdropPath": "/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+        "backdropPath": "/5Q71GYwh2mOz5rr8tPTcvbeBWtN.jpg",
         "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
-        "rating": 7.2,
+        "rating": 7.256,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-02-10",
         "backdropPath": "/4FP1VC8igFCrARf7bEpjScVjusy.jpg",
         "posterPath": "/8ubUiSG0M6zKuGUM1QC0QcU6GCO.jpg",
-        "rating": 7.077,
+        "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "剧情, 音乐"
       }
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.502,
+        "rating": 8.487,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/zL3BlyLxr5rrbZYITeOBAW2K5xv.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.6,
+        "rating": 8.565,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
         "posterPath": "/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
-        "rating": 9.026,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
