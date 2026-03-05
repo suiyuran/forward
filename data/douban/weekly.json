@@ -1,7 +1,20 @@
 {
-  "time": "2026-03-04T20:20:28.438Z",
+  "time": "2026-03-05T20:25:31.213Z",
   "data": {
     "电影": [
+      {
+        "id": 1465563,
+        "type": "tmdb",
+        "title": "诗人",
+        "originalTitle": "Un poeta",
+        "description": "奥斯卡·雷斯特雷波对诗歌的痴迷并未给他带来任何荣耀。随着年岁的增长，他变得古怪而不安，逐渐沦为“隐居诗人”这一陈词滥调的象征。一次偶然的机会，他遇到了尤拉迪，一位出身卑微的少女，并帮助她发掘和培养自己的才华，这为他的生活带来了一丝光亮。然而，将她引入诗人的世界，或许并不是正确的选择。",
+        "releaseDate": "2025-08-28",
+        "backdropPath": "/aU6wCChW9RT3wfNaQ4Q0kCuN5kQ.jpg",
+        "posterPath": "/lg2p2GCrkwF5Ueh6Dj8ECQNhBUz.jpg",
+        "rating": 8,
+        "mediaType": "movie",
+        "genreTitle": "喜剧, 剧情"
+      },
       {
         "id": 858024,
         "type": "tmdb",
@@ -11,7 +24,7 @@
         "releaseDate": "2025-11-26",
         "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
         "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.7,
+        "rating": 7.728,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -24,7 +37,7 @@
         "releaseDate": "2025-10-22",
         "backdropPath": "/jFKbhV0uFZuA3K73UJIq1dzisCi.jpg",
         "posterPath": "/nlFMfaCvlclqgP8yXqB4zfqCZbj.jpg",
-        "rating": 7.585,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "动画, 冒险"
       },
@@ -55,6 +68,19 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
+        "id": 1287782,
+        "type": "tmdb",
+        "title": "好孩子",
+        "originalTitle": "好孩子",
+        "description": "一位才华横溢的变装皇后回到家乡，照顾患有痴呆症的疏远母亲，并假扮成她失散多年的女儿，试图重建母女关系。",
+        "releaseDate": "2025-10-09",
+        "backdropPath": "/9sKL9wRddO1x24PoM9uEjV6sYta.jpg",
+        "posterPath": "/jAFXdnsWQ4Pgfn4c935mFdn3u6R.jpg",
+        "rating": 10,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 1317288,
         "type": "tmdb",
         "title": "至尊马蒂",
@@ -63,7 +89,20 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.53,
+        "rating": 7.527,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1397364,
+        "type": "tmdb",
+        "title": "恩典",
+        "originalTitle": "La grazia",
+        "description": "马里亚诺·德·桑蒂斯是意大利共和国总统。此人与现实中的任何总统均无关联，完全是作者虚构的人物。他丧偶多年，且信奉天主教，有一个女儿名叫多罗泰亚——和他一样，女儿也是一名法律学者。任期即将结束之际，在波澜不惊的日常中，两项最后的职责摆在了他面前：就两份敏感的总统特赦申请 做出决定。这些抉择构成了真正的道德困境，并且以看似无法理清的方式，与他的私人生活纠缠在了一起。在疑虑的驱使下，他必须做出抉择。而这位杰出的意大利总统，怀着强烈的责任感，必将履行这份职责。",
+        "releaseDate": "2025-12-05",
+        "backdropPath": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
+        "posterPath": "/d86ctnc1Kl9xZHJ1xBPcwTKmaGa.jpg",
+        "rating": 7.456,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -76,9 +115,22 @@
         "releaseDate": "2025-12-18",
         "backdropPath": "/5Q71GYwh2mOz5rr8tPTcvbeBWtN.jpg",
         "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
-        "rating": 7.259,
+        "rating": 7.253,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 1570282,
+        "type": "tmdb",
+        "title": "我是春菜爱",
+        "originalTitle": "This is I",
+        "description": "改编自日本传奇跨性别艺人春菜爱的真实经历，讲述其波澜壮阔的前半生。少年贤示自幼饱受性别认同的困扰，即便面对社会偏见与孤立，他仍坚守梦想，渴望成为像松田圣子般闪耀的偶像。在夜总会找到归属感后，贤示因缘际会遇见能改变命运的医生和田耕治，两人生命交会间的温暖与理解，成为彼此追寻真实自我的力量。最终在舞台上，他不再是谁的影子，而是完整的自己：春菜爱。",
+        "releaseDate": "2026-02-10",
+        "backdropPath": "/4FP1VC8igFCrARf7bEpjScVjusy.jpg",
+        "posterPath": "/8ubUiSG0M6zKuGUM1QC0QcU6GCO.jpg",
+        "rating": 6.786,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 音乐"
       }
     ],
     "剧集·国内": [
@@ -148,6 +200,19 @@
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
       {
+        "id": 280632,
+        "type": "tmdb",
+        "title": "成何体统",
+        "originalTitle": "成何体统",
+        "description": "讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
+        "releaseDate": "2026-02-06",
+        "backdropPath": "/nz6Pg1RKfTrcw6ddPXCvqZM2M5p.jpg",
+        "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
+        "rating": 8.125,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
         "id": 312725,
         "type": "tmdb",
         "title": "九号秘事之黑帷背后",
@@ -189,6 +254,32 @@
     ],
     "剧集·国外": [
       {
+        "id": 224372,
+        "type": "tmdb",
+        "title": "七王国的骑士",
+        "originalTitle": "A Knight of the Seven Kingdoms",
+        "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+        "releaseDate": "2026-01-18",
+        "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+        "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
+        "rating": 8.473,
+        "mediaType": "tv",
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 250307,
+        "type": "tmdb",
+        "title": "匹兹堡医护前线",
+        "originalTitle": "The Pitt",
+        "description": "第二季故事发生在第一季结局的10个月后，时间线为一个美国独立纪念日的周末。",
+        "releaseDate": "2026-01-08",
+        "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
+        "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
+        "rating": 8.1,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 229891,
         "type": "tmdb",
         "title": "爱情怎么翻译？",
@@ -197,9 +288,22 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/zL3BlyLxr5rrbZYITeOBAW2K5xv.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.558,
+        "rating": 8.54,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 106379,
+        "type": "tmdb",
+        "title": "辐射",
+        "originalTitle": "Fallout",
+        "description": "第二季将延续第一季结局的故事，带领观众穿越莫哈韦荒原，到达世界末日后的城市新维加斯。",
+        "releaseDate": "2025-12-16",
+        "backdropPath": "/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
+        "posterPath": "/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
+        "rating": 6.8,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
         "id": 233833,
@@ -223,9 +327,35 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
         "posterPath": "/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
-        "rating": 7.794,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
+      },
+      {
+        "id": 91239,
+        "type": "tmdb",
+        "title": "布里杰顿家族",
+        "originalTitle": "Bridgerton",
+        "description": "尽管家族女家长维奥莱特·布里杰顿夫人一再劝说，自由不羁的次子本尼迪克特·布里杰顿拒绝安定下来。然而，在维奥莱特举办的化装舞会上，本尼迪克特被一位神秘的银装淑女深深吸引。在妹妹埃洛伊斯不情愿的帮助下，本尼迪克特开始在社交圈中挖掘这位年轻女士的真实身份。然而，他的心上人并不在上流社会，她是一位聪明机智的女仆，名为索菲·白，效力于令人敬畏的女主人阿拉明塔·具。",
+        "releaseDate": "2026-01-29",
+        "backdropPath": "/iVadPLeLVb97RznIGDkswxtBzi6.jpg",
+        "posterPath": "/jfA1G3guanPOFhwUzJsargpmB7F.jpg",
+        "rating": 6.6,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 129552,
+        "type": "tmdb",
+        "title": "暗夜情报员",
+        "originalTitle": "The Night Agent",
+        "description": "在第二季的爆炸性事件之后，暗夜特工彼得·萨瑟兰接到一项新任务：追踪一名年轻的财政部特工。这名特工在杀害自己的上司后，携带敏感情报逃往伊斯坦布尔。由此引发了一系列事件：彼得一边调查一个黑金网络，一边躲避其雇佣的杀手，同时还与一名不屈不挠的记者狭路相逢。两人联手合作，揭开了被掩埋的秘密和积怨已久的恩怨——这些秘密足以让政府摇摇欲坠，也会让他们两人在这个过程中命悬一线。",
+        "releaseDate": "2026-02-19",
+        "backdropPath": "/gklrevVndG98GHGDwfm8y8kxESo.jpg",
+        "posterPath": "/rlynV9kbfDPrPCTHlYadtdizxHb.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 剧情"
       },
       {
         "id": 131142,
@@ -234,11 +364,24 @@
         "originalTitle": "Love Story",
         "description": "一部收录了众多轰动一时的真实爱情故事的合集，这些故事曾引起全世界的关注。",
         "releaseDate": "2026-02-12",
-        "backdropPath": "/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
+        "backdropPath": "/qM0k20AoDXM5YFTJGD1xA0aWiJ.jpg",
         "posterPath": "/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
         "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 233079,
+        "type": "tmdb",
+        "title": "如何从贝尔法斯特去天堂",
+        "originalTitle": "How to Get to Heaven from Belfast",
+        "description": "三个一生的挚友踏上乱糟糟的旅程，试图揭开一位老朋友的死亡之谜，同时隐瞒自己的黑暗秘密。",
+        "releaseDate": "2026-02-12",
+        "backdropPath": "/lkmGrZXASDPwXyWf4p8GG83dw5N.jpg",
+        "posterPath": "/rjMxWVXM4ckAcaNQMh3ovkyxHwD.jpg",
+        "rating": 7.263,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 喜剧"
       }
     ]
   }
