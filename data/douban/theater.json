@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-04T18:39:40.194Z",
+  "time": "2026-03-05T19:11:24.518Z",
   "data": {
     "爱奇艺·迷雾剧场": [
       {
@@ -503,7 +503,7 @@
         "type": "tmdb",
         "title": "边水往事",
         "originalTitle": "边水往事",
-        "description": "三边坡，一处鱼龙混杂的热带异域，一个繁茂与衰败并生的斑驳之地。意外流落三边坡的打工小白沈星遇到在多方势力间游走的三边坡和事佬猜叔，一场冒险，一段善良微光指引下的回归，在留与逃的挣扎中将如何上演。",
+        "description": "三边坡，一处鱼龙混杂的热带异域，一个繁茂与衰败并生的斑驳之地。意外流落三边坡的打工小白沈星（郭麒麟饰）遇到在多方势力间游走的三边坡和事佬猜叔（吴镇宇饰），一场冒险，一段善良微光指引下的回归，在留与逃的挣扎正在上演 。",
         "releaseDate": "2024-08-16",
         "backdropPath": "/zWZJV304xSYKa2KRs73jyhnlz1c.jpg",
         "posterPath": "/fhlimtLNQKYdvgArV3aXCiB49RI.jpg",
@@ -587,7 +587,7 @@
         "releaseDate": "2023-08-18",
         "backdropPath": "/5na03bGMQCeElR1NdRBKrYSgLus.jpg",
         "posterPath": "/whb14No4uwpHWkWYQC5Pf4IYfLW.jpg",
-        "rating": 7.3,
+        "rating": 7.286,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -914,9 +914,9 @@
         "releaseDate": "2023-04-22",
         "backdropPath": "/rCm6BJkkPukfHYWNNx7WkGpCdZH.jpg",
         "posterPath": "/tJLiKDYdfMskFkJXV1HnaQAdpGf.jpg",
-        "rating": 8.869,
+        "rating": 8.9,
         "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
+        "genreTitle": "犯罪, 剧情"
       }
     ]
   }
