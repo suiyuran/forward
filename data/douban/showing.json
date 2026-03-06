@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-05T18:47:52.914Z",
+  "time": "2026-03-06T17:37:38.235Z",
   "data": [
     {
       "id": 1602727,
@@ -28,17 +28,17 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 1159831,
+      "id": 1171145,
       "type": "tmdb",
-      "title": "暗黑新娘！",
-      "originalTitle": "The Bride!",
-      "description": "孤独的科学怪人弗兰肯斯坦（克里斯蒂安·贝尔 饰）来到了1930年代的芝加哥，恳请顶级科学家尤弗洛尼斯博士（安妮特·贝宁 饰）为他创造一位伴侣。两人成功复活了一名遭到谋杀的年轻女子，“新娘”（杰西·巴克利 饰）就此诞生。然而事态发展却远超两人想象：谋杀接踵而至，占有欲疯狂滋生，一场激进的文化运动席卷社会，更有一对亡命鸳鸯，上演一段狂烈炽热的禁忌之恋。",
-      "releaseDate": "2026-03-04",
-      "backdropPath": "/8XeUEIXiZiRNqz0EcKC65vje8Th.jpg",
-      "posterPath": "/1pZ3BK2tdODT3cv0SAhXu9VPJSk.jpg",
-      "rating": 8.088,
+      "title": "洛杉矶劫案",
+      "originalTitle": "Crime 101",
+      "description": "当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
+      "posterPath": "/aNNDPQn8dUSPp6CH8p45iMlIceC.jpg",
+      "rating": 7,
       "mediaType": "movie",
-      "genreTitle": "科幻, 恐怖"
+      "genreTitle": "犯罪, 惊悚"
     },
     {
       "id": 1462229,
@@ -54,6 +54,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1159831,
+      "type": "tmdb",
+      "title": "暗黑新娘！",
+      "originalTitle": "The Bride!",
+      "description": "孤独的科学怪人弗兰肯斯坦（克里斯蒂安·贝尔 饰）来到了1930年代的芝加哥，恳请顶级科学家尤弗洛尼斯博士（安妮特·贝宁 饰）为他创造一位伴侣。两人成功复活了一名遭到谋杀的年轻女子，“新娘”（杰西·巴克利 饰）就此诞生。然而事态发展却远超两人想象：谋杀接踵而至，占有欲疯狂滋生，一场激进的文化运动席卷社会，更有一对亡命鸳鸯，上演一段狂烈炽热的禁忌之恋。",
+      "releaseDate": "2026-03-04",
+      "backdropPath": "/8XeUEIXiZiRNqz0EcKC65vje8Th.jpg",
+      "posterPath": "/1pZ3BK2tdODT3cv0SAhXu9VPJSk.jpg",
+      "rating": 7.197,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 恐怖"
+    },
+    {
       "id": 1447971,
       "type": "tmdb",
       "title": "惊蛰无声",
@@ -65,19 +78,6 @@
       "rating": 6.1,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
-    },
-    {
-      "id": 1249173,
-      "type": "tmdb",
-      "title": "我的朋友安德烈",
-      "originalTitle": "我的朋友安德烈",
-      "description": "性格迥异的李默（刘昊然 饰）与安德烈（董子健 饰）因为足球成为知己，而一场意外却让安德烈跟随年少往事一起消失在了李默的记忆中。多年后，李默在为父亲奔丧路上与安德烈“重逢”，一段尘封的回忆被逐渐揭开……",
-      "releaseDate": "2026-01-17",
-      "backdropPath": "/oSU2icznEh9clWbL5jksJxJHbxu.jpg",
-      "posterPath": "/rEZ64PPreR93T56gfYjf9pRbvU9.jpg",
-      "rating": 5.5,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1359005,
@@ -114,7 +114,7 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/bnXeBvYaurIqP0ESAAHUIZjIB0o.jpg",
       "posterPath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
-      "rating": 7.5,
+      "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动作"
     },
@@ -127,7 +127,7 @@
       "releaseDate": "2026-01-20",
       "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
       "posterPath": "/fq2AqiarysK2Swl7SUQxVMyofh2.jpg",
-      "rating": 7.1,
+      "rating": 7.091,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -143,19 +143,6 @@
       "rating": 4,
       "mediaType": "movie",
       "genreTitle": "喜剧, 奇幻"
-    },
-    {
-      "id": 1537690,
-      "type": "tmdb",
-      "title": "爆水管",
-      "originalTitle": "爆水管",
-      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/yBeSkhMSCA6FdckEMOQ9ROzibak.jpg",
-      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 犯罪"
     },
     {
       "id": 694,
@@ -179,20 +166,20 @@
       "releaseDate": "2026-01-21",
       "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
       "posterPath": "/bgrECjDxdlO5vjxQZynuDZ0QobA.jpg",
-      "rating": 5.055,
+      "rating": 5.1,
       "mediaType": "movie",
       "genreTitle": "悬疑, 剧情"
     },
     {
-      "id": 1411529,
+      "id": 1614368,
       "type": "tmdb",
-      "title": "飞行家",
-      "originalTitle": "飞行家",
-      "description": "李明奇（蒋奇明 饰），一个沉迷飞行的东北犟种，为了爱人决定认命回到地面，把梦想锁进工具箱底。可生活的难题从四面八方奔涌而来，将他们逼至绝境，唯一的生机，竟是他那被嘲笑了半辈子的飞行梦。一个怪人，一家亲人，一群朋友——他们共同押上所有，凝聚成托举的长风。为了托起沉甸甸的生活，李明奇再次从高空一跃而下，对命运做出勇敢反击！",
-      "releaseDate": "2026-01-12",
-      "backdropPath": "/yJDFQkTMSzZfdsA4U5ckh8565Zi.jpg",
-      "posterPath": "/4MCXfUEaIDLLZew1JQg817fqyb0.jpg",
-      "rating": 5,
+      "title": "喜欢上“欠欠”的你",
+      "originalTitle": "喜欢上“欠欠”的你",
+      "description": "通过消费获取情绪满足的张若愚（秦霄贤 饰）遇上通过攒钱获取安全感的贾琼（王影璐 饰），一段“你花我拦”的奇妙纠葛就此开启。从互相嫌弃的省钱搭子，到渐生情愫的打趣逗乐，再到因误解而生出的刺痛猜疑……这段“欠欠”又“暖暖”的感情又将走向怎样的结局？",
+      "releaseDate": "2026-02-14",
+      "backdropPath": "/ykT38Me2FXg2e6C1xxDWpXCKNpZ.jpg",
+      "posterPath": "/e8Vxgpke2CJlyaiN0Nmb0aUBNdY.jpg",
+      "rating": 1,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -218,7 +205,7 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/5BeOSbwt6BR7q2Fax70lF4AIshD.jpg",
       "posterPath": "/uDG1nVCEByCNZngai4X2ewmZHN2.jpg",
-      "rating": 7.612,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -236,30 +223,17 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 1614368,
+      "id": 313369,
       "type": "tmdb",
-      "title": "喜欢上“欠欠”的你",
-      "originalTitle": "喜欢上“欠欠”的你",
-      "description": "通过消费获取情绪满足的张若愚（秦霄贤 饰）遇上通过攒钱获取安全感的贾琼（王影璐 饰），一段“你花我拦”的奇妙纠葛就此开启。从互相嫌弃的省钱搭子，到渐生情愫的打趣逗乐，再到因误解而生出的刺痛猜疑……这段“欠欠”又“暖暖”的感情又将走向怎样的结局？",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/ykT38Me2FXg2e6C1xxDWpXCKNpZ.jpg",
-      "posterPath": "/e8Vxgpke2CJlyaiN0Nmb0aUBNdY.jpg",
-      "rating": 1,
+      "title": "爱乐之城",
+      "originalTitle": "La La Land",
+      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
+      "releaseDate": "2016-12-01",
+      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
+      "rating": 7.899,
       "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 51731,
-      "type": "tmdb",
-      "title": "鹿鼎记II神龙教",
-      "originalTitle": "鹿鼎記 II : 神龍敎",
-      "description": "韦小宝要护送建宁公主嫁到云南，以安抚图谋造反的吴三桂父子。在途中遇到了独臂神尼的刺杀。小宝被抓走后，借口拜神尼为师，其实是想追求其徒弟阿珂。不料韦小宝被神龙教圣女龙儿抓走，想要报之前在王宫里埋下的仇恨，却没想到遭到了平西王的陷害。韦小宝极力相救，龙儿以身相许更把绝世武功传于韦小宝。韦小宝与公主之间的事情被平西王发现了，平西王更提前造反。小宝在独臂神尼、神龙教、天地会、云南王等多方势力角逐中终得化险为夷、还赢得了包括龙儿在内的众多姑娘的芳心。最后制服了吴三桂父子，回到京城受到皇帝赏识，同时，韦小宝天地会的身份被人密告皇帝……",
-      "releaseDate": "1992-09-24",
-      "backdropPath": "/uiTFVCL19OLaPAgrbX9zTvYK5bb.jpg",
-      "posterPath": "/wHUgmng3fCSCVPTwdbYqdZqc3XQ.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "动作, 喜剧"
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 871900,
@@ -273,19 +247,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 313369,
-      "type": "tmdb",
-      "title": "爱乐之城",
-      "originalTitle": "La La Land",
-      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
-      "releaseDate": "2016-12-01",
-      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
-      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.899,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 83533,
@@ -309,74 +270,9 @@
       "releaseDate": "2017-06-16",
       "backdropPath": "/1LtZ3PZiC57fTVKfsUbgxXAYpE5.jpg",
       "posterPath": "/k51M8AtA3mVj0TMcH9a6CjQd3GC.jpg",
-      "rating": 5.5,
+      "rating": 6.333,
       "mediaType": "movie",
       "genreTitle": "纪录"
-    },
-    {
-      "id": 1628728,
-      "type": "tmdb",
-      "title": "替身拳手",
-      "originalTitle": "替身拳手",
-      "description": "电影讲述了出身贫寒的拳击少年田野与父亲田海军靠送水维持生计。在留学中介李倩与富商陈辉夫妇的谋划下，田野被骗成为了富二代陈火炬的拳击比赛替身。被蒙在鼓里的田野与陈火炬意外成为好友，在得知真相后又不得不站在了对立面，两个少年决定用拳击刺破生活的假象，为了共同的理想奋起抗衡的热血故事。",
-      "releaseDate": "2026-02-07",
-      "backdropPath": "/jFlF37hKyhSizLBUBwyy8tv9eF6.jpg",
-      "posterPath": "/ntQR36Imr8WDHJBEkWZmnzusAHm.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 动作"
-    },
-    {
-      "id": 915935,
-      "type": "tmdb",
-      "title": "坠落的审判",
-      "originalTitle": "Anatomie d'une chute",
-      "description": "在贾斯汀·特里耶这部荣获奥斯卡奖的杰作中，我们看得越近，却知得越少。这部诡谲迷人的法庭惊悚片，审视着真实与虚构彼此侵蚀的边界。作家桑德拉·沃伊特（桑德拉·惠勒，摄人心魄的演绎）擅长将自身经历转化为自虚构文学，当她因丈夫坠楼身亡的疑案受审时——这究竟是谋杀还是自杀？——一场审判逐渐揭开一个破碎家庭的层层内幕。特里耶以室内心理剧的极简张力为核心，通过复杂而灵动的剪辑，构筑出一桩悬案；其终极指向并非死亡本身，而是我们每个人隐匿的生存真相。[标准收藏]",
-      "releaseDate": "2023-08-23",
-      "backdropPath": "/kszooR7v1TLFM4pzx6IkKq2jDAN.jpg",
-      "posterPath": "/64sltz8tKvDxpIT7GHhFCyOVBKH.jpg",
-      "rating": 7.53,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 悬疑"
-    },
-    {
-      "id": 1089654,
-      "type": "tmdb",
-      "title": "长安三万里",
-      "originalTitle": "长安三万里",
-      "description": "安史之乱后数年，吐蕃大军压境，战况危机。剑南西川节度使高适奋力抵抗，然孤兵难支，只得退守云山城。夜幕降临，大雪如轮，朝廷却派来程公公持节监军。高适得知对方讯问的正是他“加害李白”的缘由，于是在昏黄的烛光下，缓缓道出了他和李白起于微末时的故事，以及盛唐文坛的一时盛况。遥想当年，父母双亡的高适决心去长安求取功名，途中遇到文采飞扬且乐观傲慢的李白。他们踌躇满志，却发现空有文采和抱负却报国无门。长安之后，李白南下扬州，高适则继续等待晋升的机会。在这一过程中，杜甫、王维、常建、李龟年、吴道子、张旭等群星璀璨，交替登场，共同谱写了大唐盛世最瑰丽的画卷。而高适和李白的友情，也将在历史大潮的背景下跌宕沉浮……",
-      "releaseDate": "2023-07-02",
-      "backdropPath": "/m4sS3YPOu6OPHzwJcPKjMH1TyRA.jpg",
-      "posterPath": "/7wxk8Ka5AGUIjCpEPg4vBOwSSul.jpg",
-      "rating": 7.581,
-      "mediaType": "movie",
-      "genreTitle": "动画, 历史"
-    },
-    {
-      "id": 839803,
-      "type": "tmdb",
-      "title": "雄狮少年",
-      "originalTitle": "雄狮少年",
-      "description": "阿娟（大昕 配音）的父母在大城市打工养家，他留守在故乡，因为孱弱的体格和怯懦的性格常常遭到旁人的欺负。一次偶然中，阿娟邂逅了和自己同名的舞狮少女（秋木 配音），少女飒爽的英姿和如雷贯耳的话语激起了阿娟对舞狮这项传统活动的兴趣，他打算参加舞狮大赛来证明自己的能力，很快，阿娟的好友阿猫（大雄 配音）和阿狗（郭浩 配音）也加入了这个计划之中。\r 　　可是，舞狮哪有这么容易学，为了拜师，阿娟一行人找到了开鱼铺的咸鱼强（李盟 配音）。咸鱼强虽然现在活得窝囊，但曾经却是舞狮比赛的冠军，三个少年蓬勃的朝气和真挚的眼神打动了咸鱼强，重新唤醒了他对于舞狮的热爱。",
-      "releaseDate": "2021-12-11",
-      "backdropPath": "/9O5XXzZiXuuog4KLHhBefzJ70HO.jpg",
-      "posterPath": "/gGz3wZ5xj2WM03l06NaNa0utWyd.jpg",
-      "rating": 7.247,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1599013,
-      "type": "tmdb",
-      "title": "情缘曹雪芹",
-      "originalTitle": "情缘曹雪芹",
-      "description": "影片聚焦于文学巨匠曹雪芹丰富而深邃的情感世界，从其生命经历中撷取动人篇章。电影不仅通过曹雪芹与生命中三位重要女性——芳青、荷香、云妹的动人情感交织，细腻展现了他的深情与胸怀；也刻画了他与敦诚、敦敏、于景廉、徐环等友人之间真挚而深刻的友谊。这些源自现实生活的深切关怀与命运共鸣，最终凝聚为他“为闺阁增光”的宏大志向，成为其呕心沥血创作《红楼梦》的初心与动力，生动诠释了一种超越个人情爱、为天下女子立传的“大情大爱”。",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/vOb07QqTkMroELd5VmtuCS6d4v8.jpg",
-      "posterPath": "/pBhRGhbgkVOgk5FF4o7u26ntxE5.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 98344,
@@ -392,17 +288,17 @@
       "genreTitle": "剧情, 动作"
     },
     {
-      "id": 795607,
+      "id": 1599013,
       "type": "tmdb",
-      "title": "白蛇2：青蛇劫起",
-      "originalTitle": "白蛇2：青蛇劫起",
-      "description": "南宋末年，小白为救许仙水漫金山，终被法海压在雷峰塔下。小青则意外被法海打入诡异的修罗城幻境。几次危机中小青被神秘蒙面少年所救，小青带着出去救出小白的执念历经劫难与成长，同蒙面少年一起寻找离开的办法。",
-      "releaseDate": "2021-07-23",
-      "backdropPath": "/rhJgHS28BVc5o2rBWVwZa3aMJCF.jpg",
-      "posterPath": "/g1d3uFf3eGvVJQ5Coh793Zi1ASq.jpg",
-      "rating": 8.084,
+      "title": "情缘曹雪芹",
+      "originalTitle": "情缘曹雪芹",
+      "description": "影片聚焦于文学巨匠曹雪芹丰富而深邃的情感世界，从其生命经历中撷取动人篇章。电影不仅通过曹雪芹与生命中三位重要女性——芳青、荷香、云妹的动人情感交织，细腻展现了他的深情与胸怀；也刻画了他与敦诚、敦敏、于景廉、徐环等友人之间真挚而深刻的友谊。这些源自现实生活的深切关怀与命运共鸣，最终凝聚为他“为闺阁增光”的宏大志向，成为其呕心沥血创作《红楼梦》的初心与动力，生动诠释了一种超越个人情爱、为天下女子立传的“大情大爱”。",
+      "releaseDate": "2026-01-16",
+      "backdropPath": "/vOb07QqTkMroELd5VmtuCS6d4v8.jpg",
+      "posterPath": "/pBhRGhbgkVOgk5FF4o7u26ntxE5.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 313230,
@@ -416,32 +312,6 @@
       "rating": 8,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
-    },
-    {
-      "id": 1369453,
-      "type": "tmdb",
-      "title": "年年岁岁",
-      "originalTitle": "年年岁岁",
-      "description": "梦境与幻觉不断侵入米寻的现实生活，尘封的往事，隐秘的情感被渐渐揭开，米寻决意以此拍摄一部电影，与父亲重逢与告别。",
-      "releaseDate": "2023-03-16",
-      "backdropPath": "/81wAN1BT7maDqrdTroBvdTevAsK.jpg",
-      "posterPath": "/8smDX9YYebIDBRQGaEqmCr3mHkj.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1338704,
-      "type": "tmdb",
-      "title": "梵高：诗情画意",
-      "originalTitle": "Van Gogh: Poets & Lovers",
-      "description": "开幕200年后，在获得第一批梵高作品一个世纪后，国家美术馆正在举办英国有史以来最大的梵高展览。梵高不仅是有史以来最受喜爱的艺术家之一，也许也是被误解最多的艺术家之一。这部电影是重新审视和更好地了解这位标志性艺术家的机会。《梵高：诗人与恋人》专注于他独特的创作过程，探讨了这位艺术家在法国南部的岁月，在那里他彻底改变了自己的风格。梵高在他的艺术中充满了讲故事的热情，将他周围的世界变成了充满活力、理想化的空间和象征性人物。",
-      "releaseDate": "2024-11-06",
-      "backdropPath": "/xV6S5UkSGc5t5jHZIXpcVUFuchO.jpg",
-      "posterPath": "/q0kCJhEfEajaew4huhWCgYl7Rub.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     },
     {
       "id": 1598997,
@@ -468,6 +338,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1338704,
+      "type": "tmdb",
+      "title": "梵高：诗情画意",
+      "originalTitle": "Van Gogh: Poets & Lovers",
+      "description": "开幕200年后，在获得第一批梵高作品一个世纪后，国家美术馆正在举办英国有史以来最大的梵高展览。梵高不仅是有史以来最受喜爱的艺术家之一，也许也是被误解最多的艺术家之一。这部电影是重新审视和更好地了解这位标志性艺术家的机会。《梵高：诗人与恋人》专注于他独特的创作过程，探讨了这位艺术家在法国南部的岁月，在那里他彻底改变了自己的风格。梵高在他的艺术中充满了讲故事的热情，将他周围的世界变成了充满活力、理想化的空间和象征性人物。",
+      "releaseDate": "2024-11-06",
+      "backdropPath": "/xV6S5UkSGc5t5jHZIXpcVUFuchO.jpg",
+      "posterPath": "/q0kCJhEfEajaew4huhWCgYl7Rub.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 1002640,
