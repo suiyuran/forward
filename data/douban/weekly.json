@@ -1,7 +1,33 @@
 {
-  "time": "2026-03-05T20:25:31.213Z",
+  "time": "2026-03-06T20:18:01.279Z",
   "data": {
     "电影": [
+      {
+        "id": 1119537,
+        "type": "tmdb",
+        "title": "爱的证明",
+        "originalTitle": "Des preuves d'amour",
+        "description": "2014年的法国迎来同性婚姻合法化。当妻子腹中孕育着新生命时，塞琳娜一边为争取收养资格收集证明材料，一边直面内心对母职的认知冲突。",
+        "releaseDate": "2025-11-19",
+        "backdropPath": "/sV76oy9hyVjycnk0On04cpB9uzd.jpg",
+        "posterPath": "/cgE5Oo0qBJ8VAtQaF4vIDFK4OI7.jpg",
+        "rating": 7.9,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 1422404,
+        "type": "tmdb",
+        "title": "东京出租车",
+        "originalTitle": "TOKYOタクシー",
+        "description": "故事围绕的士司机宇佐美浩二（木村拓哉 饰）展开，他每日奔波于都市间工作养家，却因女儿的学费、的士验车费、房屋租金等接踵而至的现实压力而身心俱疲。某日，浩二接到一项特别的委托——接载年迈的高野堇女士（倍赏千惠子 饰）从东京柴又前往神奈川叶山的养老院。“在离开东京之前，想先到几个想去的地方看看”，堇女士淡然请求。随着的士驶过日本的大街小巷，陌生的两人逐渐打开心扉，堇女士也徐徐道出自己跌宕的人生过往。这趟偶然的旅程，不仅触动了他们的心灵，也让二人在平凡的日子中，为彼此的人生留下难忘的美好印记。",
+        "releaseDate": "2025-11-21",
+        "backdropPath": "/1uKSxvt2gt4wtP1HY1ySLVFDCl9.jpg",
+        "posterPath": "/7nzjEZGZpODGLW09frsw9GBQOWN.jpg",
+        "rating": 7.5,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
       {
         "id": 1465563,
         "type": "tmdb",
@@ -16,56 +42,17 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 858024,
+        "id": 1417790,
         "type": "tmdb",
-        "title": "哈姆奈特",
-        "originalTitle": "Hamnet",
-        "description": "16世纪末期，彼时还未成名的威廉·莎士比亚（保罗·麦斯卡 饰）以教授拉丁语为生，为偿还父亲债务而奔波。他与在森林长大、性格奔放不羁的“女巫之女”艾格尼丝（杰西·巴克利 饰）相遇，被对方身上蓬勃的生命力深深吸引，随即陷入热恋。两人深知家族不会认可这段关系，便私下结合，不久后长女苏珊娜（博德希·蕾·布里纳希 饰）降生，他们的婚姻也因此被世俗接纳。后来艾格尼丝怀上双胞胎，却被婆婆要求在室内分娩，被迫切断与自然的联结。最终她顺利诞下儿子哈姆奈特（雅各比·尤佩 饰）与女儿珠迪丝（奥利维娅·莱恩斯 饰）。此后，莎士比亚前往伦敦追寻剧作家的梦想，艾格尼丝则留在家中抚养孩子。不幸的是，哈姆奈特夭折，这给夫妻二人带来沉重打击。莎士比亚将满腔悲痛倾注于创作，写出经典悲剧《哈姆雷特》，还亲自在剧中饰演哈姆雷特父亲的鬼魂；艾格尼丝则在伦敦环球剧院的舞台下，默默宣泄内心的哀伤。",
-        "releaseDate": "2025-11-26",
-        "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
-        "posterPath": "/wFBzZYlOZTorw0I4PRfXkjqttKE.jpg",
-        "rating": 7.728,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 爱情"
-      },
-      {
-        "id": 804370,
-        "type": "tmdb",
-        "title": "时空奇旅",
-        "originalTitle": "Arco",
-        "description": "这个世界始终萦绕着一个终极猜想：若彩虹实为穿越时空的未来观测者，人类历史将如何被重写？公元2932年，十岁少年阿尔科身着虹光太空服开启人生首航，却在时空乱流中意外坠入2075年的过去。同龄女孩艾瑞斯目睹了这场天降奇遇，这个坚信彩虹藏着宇宙秘密的少女，将帮助迷失时空的\"彩虹之子\"踏上惊心动魄的归家之旅......",
-        "releaseDate": "2025-10-22",
-        "backdropPath": "/jFKbhV0uFZuA3K73UJIq1dzisCi.jpg",
-        "posterPath": "/nlFMfaCvlclqgP8yXqB4zfqCZbj.jpg",
-        "rating": 7.6,
-        "mediaType": "movie",
-        "genreTitle": "动画, 冒险"
-      },
-      {
-        "id": 1422404,
-        "type": "tmdb",
-        "title": "东京出租车",
-        "originalTitle": "TOKYOタクシー",
-        "description": "故事围绕的士司机宇佐美浩二（木村拓哉 饰）展开，他每日奔波于都市间工作养家，却因女儿的学费、的士验车费、房屋租金等接踵而至的现实压力而身心俱疲。某日，浩二接到一项特别的委托——接载年迈的高野堇女士（倍赏千惠子 饰）从东京柴又前往神奈川叶山的养老院。“在离开东京之前，想先到几个想去的地方看看”，堇女士淡然请求。随着的士驶过日本的大街小巷，陌生的两人逐渐打开心扉，堇女士也徐徐道出自己跌宕的人生过往。这趟偶然的旅程，不仅触动了他们的心灵，也让二人在平凡的日子中，为彼此的人生留下难忘的美好印记。",
-        "releaseDate": "2025-11-21",
-        "backdropPath": "/1uKSxvt2gt4wtP1HY1ySLVFDCl9.jpg",
-        "posterPath": "/7nzjEZGZpODGLW09frsw9GBQOWN.jpg",
-        "rating": 7.7,
+        "title": "遇见世界",
+        "originalTitle": "ミーツ・ザ・ワールド",
+        "description": "本作改编自金原瞳同名小说，27岁的主角由嘉里，狂热沉迷于拟人化烤肉漫画《Meat Is Mine》，却无法喜欢上自己。看着身边朋友陆续结婚生子、脱离二次元圈，她焦虑之下开始相亲，却在联谊惨败后醉倒歌舞伎町街头，被一位美丽的陪酒女郎“RAI”救下。这次相遇将她带进了一个全新的世界……",
+        "releaseDate": "2025-10-24",
+        "backdropPath": "/bSHwhJvu4kJBeRSe2MHEJFXYKgj.jpg",
+        "posterPath": "/oymKm1yLabt8a4oezYPLIFSjOea.jpg",
+        "rating": 0,
         "mediaType": "movie",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 1602727,
-        "type": "tmdb",
-        "title": "夜王",
-        "originalTitle": "夜王",
-        "description": "2012年，昔日风光一时的东日夜总会被收购，在尖东打滚数十年的大经理欢哥（黄子华 饰）面临时代转变的挑战。公司新任CEO竟是欢哥狠辣的前妻V姐（郑秀文 饰），强迫欢哥及众女公关转型，业绩渐有起色。怎料背后原来是大财团的操控游戏，东日随时关灯不保。为了保住东日，欢哥及V姐联手，誓要与众女公关作最后反扑，企硬尖东！",
-        "releaseDate": "2026-02-14",
-        "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
-        "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
-        "rating": 7.462,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
       },
       {
         "id": 1287782,
@@ -76,9 +63,48 @@
         "releaseDate": "2025-10-09",
         "backdropPath": "/9sKL9wRddO1x24PoM9uEjV6sYta.jpg",
         "posterPath": "/jAFXdnsWQ4Pgfn4c935mFdn3u6R.jpg",
-        "rating": 10,
+        "rating": 8.5,
         "mediaType": "movie",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 1264805,
+        "type": "tmdb",
+        "title": "만약에 우리",
+        "originalTitle": "만약에 우리",
+        "description": "剧情讲述机缘巧合下，身为同乡的男女主角命运般的交缠，在经历了普通情侣都会经历的「热恋」、「分手」、「错过」、「重逢」后再也回不到最初的爱情故事。",
+        "releaseDate": "2025-12-31",
+        "backdropPath": "/5ziZTaQ7zb3IUMkw6IEimFktNMS.jpg",
+        "posterPath": "/tQhOoYRezSxrOne8HKJ8QeqXOWU.jpg",
+        "rating": 7.2,
+        "mediaType": "movie",
+        "genreTitle": "爱情, 剧情"
+      },
+      {
+        "id": 1290424,
+        "type": "tmdb",
+        "title": "新凯旋门",
+        "originalTitle": "L'Inconnu de la Grande Arche",
+        "description": "1982年，法国总统弗朗索瓦·密特朗决定为其任期的旗舰项目——拉德芳斯大拱门发起一场国际建筑竞赛，该项目与卢浮宫和凯旋门对齐。出乎所有人意料，一位在法国鲜为人知的 53 岁丹麦建筑师约翰·奥托·冯·斯普雷克尔森赢得了竞赛。这位建筑师打算完全按照自己的设想建造大拱门，但他的理念很快与实际限制和政治变幻莫测相冲突。这部电影以真实事件为灵感，讲述了这位理想主义的丹麦建筑师如何努力在政治博弈、官僚主义和艺术自由的限制下实现其宏伟愿景的故事。",
+        "releaseDate": "2025-11-05",
+        "backdropPath": "/jCrMCnpQvCJOgEW4stUtbSBm17B.jpg",
+        "posterPath": "/54uFg7nfNYoN81dixlwRcNk9KGS.jpg",
+        "rating": 7.274,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 历史"
+      },
+      {
+        "id": 1429348,
+        "type": "tmdb",
+        "title": "局外人",
+        "originalTitle": "L'Étranger",
+        "description": "",
+        "releaseDate": "2025-10-29",
+        "backdropPath": "/isVOgjdMMWDpJCQEB2mwvg6KLSv.jpg",
+        "posterPath": "/1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
+        "rating": 6.853,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 犯罪"
       },
       {
         "id": 1317288,
@@ -89,48 +115,22 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.527,
+        "rating": 7.529,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
       {
-        "id": 1397364,
+        "id": 1502700,
         "type": "tmdb",
-        "title": "恩典",
-        "originalTitle": "La grazia",
-        "description": "马里亚诺·德·桑蒂斯是意大利共和国总统。此人与现实中的任何总统均无关联，完全是作者虚构的人物。他丧偶多年，且信奉天主教，有一个女儿名叫多罗泰亚——和他一样，女儿也是一名法律学者。任期即将结束之际，在波澜不惊的日常中，两项最后的职责摆在了他面前：就两份敏感的总统特赦申请 做出决定。这些抉择构成了真正的道德困境，并且以看似无法理清的方式，与他的私人生活纠缠在了一起。在疑虑的驱使下，他必须做出抉择。而这位杰出的意大利总统，怀着强烈的责任感，必将履行这份职责。",
-        "releaseDate": "2025-12-05",
-        "backdropPath": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
-        "posterPath": "/d86ctnc1Kl9xZHJ1xBPcwTKmaGa.jpg",
-        "rating": 7.456,
+        "title": "草莓月亮",
+        "originalTitle": "ストロベリームーン 余命半年の恋",
+        "description": "本片改编自同名小说。樱井萌（当真亚美 饰）从小体弱多病，无法上学，也没有朋友，每天独自度过时光。她一直有一个小小的梦想——在自己生日那天，与喜欢的人一起观赏据说能让恋人永远相守的六月满月“草莓月亮”。然而，15岁那年冬天，她被告知生命所剩无几。从医院回家的路上，萌邂逅了命中注定的人，并下定决心进入高中就读。入学典礼当天，她在初次见面的情况下，向同班同学佐藤日向（斋藤润 饰）突然告白，人生第一次恋爱就此开始。终于到了共赏草莓月亮的那一天，但从那天起，萌突然从学校消失，日向再也无法联系上她。而萌离开的真相，以及13年后传来的秘密究竟是什么…",
+        "releaseDate": "2025-10-17",
+        "backdropPath": "/uMVqHc5RVNQZMcov3lBvnrTWZky.jpg",
+        "posterPath": "/7IpE5UMl5BkRy8ujvDOM7Bz68hE.jpg",
+        "rating": 0,
         "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1368166,
-        "type": "tmdb",
-        "title": "家弑服务",
-        "originalTitle": "The Housemaid",
-        "description": "生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-        "releaseDate": "2025-12-18",
-        "backdropPath": "/5Q71GYwh2mOz5rr8tPTcvbeBWtN.jpg",
-        "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
-        "rating": 7.253,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 1570282,
-        "type": "tmdb",
-        "title": "我是春菜爱",
-        "originalTitle": "This is I",
-        "description": "改编自日本传奇跨性别艺人春菜爱的真实经历，讲述其波澜壮阔的前半生。少年贤示自幼饱受性别认同的困扰，即便面对社会偏见与孤立，他仍坚守梦想，渴望成为像松田圣子般闪耀的偶像。在夜总会找到归属感后，贤示因缘际会遇见能改变命运的医生和田耕治，两人生命交会间的温暖与理解，成为彼此追寻真实自我的力量。最终在舞台上，他不再是谁的影子，而是完整的自己：春菜爱。",
-        "releaseDate": "2026-02-10",
-        "backdropPath": "/4FP1VC8igFCrARf7bEpjScVjusy.jpg",
-        "posterPath": "/8ubUiSG0M6zKuGUM1QC0QcU6GCO.jpg",
-        "rating": 6.786,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 音乐"
+        "genreTitle": "爱情, 剧情"
       }
     ],
     "剧集·国内": [
@@ -156,7 +156,7 @@
         "releaseDate": "2026-01-23",
         "backdropPath": "/c5mwcq4lvp96cHPgAWE1uxdwxkR.jpg",
         "posterPath": "/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-        "rating": 8.818,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -262,7 +262,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.473,
+        "rating": 8.468,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/zL3BlyLxr5rrbZYITeOBAW2K5xv.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.54,
+        "rating": 8.511,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
         "posterPath": "/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-01-29",
         "backdropPath": "/iVadPLeLVb97RznIGDkswxtBzi6.jpg",
         "posterPath": "/jfA1G3guanPOFhwUzJsargpmB7F.jpg",
-        "rating": 6.6,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/qM0k20AoDXM5YFTJGD1xA0aWiJ.jpg",
         "posterPath": "/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
-        "rating": 8.9,
+        "rating": 8.929,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
