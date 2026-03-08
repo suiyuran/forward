@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-07T20:11:38.953Z",
+  "time": "2026-03-08T20:12:02.395Z",
   "data": {
     "电影": [
       {
@@ -23,7 +23,7 @@
         "description": "故事围绕的士司机宇佐美浩二（木村拓哉 饰）展开，他每日奔波于都市间工作养家，却因女儿的学费、的士验车费、房屋租金等接踵而至的现实压力而身心俱疲。某日，浩二接到一项特别的委托——接载年迈的高野堇女士（倍赏千惠子 饰）从东京柴又前往神奈川叶山的养老院。“在离开东京之前，想先到几个想去的地方看看”，堇女士淡然请求。随着的士驶过日本的大街小巷，陌生的两人逐渐打开心扉，堇女士也徐徐道出自己跌宕的人生过往。这趟偶然的旅程，不仅触动了他们的心灵，也让二人在平凡的日子中，为彼此的人生留下难忘的美好印记。",
         "releaseDate": "2025-11-21",
         "backdropPath": "/1uKSxvt2gt4wtP1HY1ySLVFDCl9.jpg",
-        "posterPath": "/7nzjEZGZpODGLW09frsw9GBQOWN.jpg",
+        "posterPath": "/ij2wuJrz81eON9sJpFEULHprmuW.jpg",
         "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情"
@@ -89,7 +89,7 @@
         "releaseDate": "2025-11-05",
         "backdropPath": "/jCrMCnpQvCJOgEW4stUtbSBm17B.jpg",
         "posterPath": "/54uFg7nfNYoN81dixlwRcNk9KGS.jpg",
-        "rating": 7.274,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-10-29",
         "backdropPath": "/isVOgjdMMWDpJCQEB2mwvg6KLSv.jpg",
         "posterPath": "/1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
-        "rating": 6.759,
+        "rating": 6.77,
         "mediaType": "movie",
         "genreTitle": "剧情, 犯罪"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.529,
+        "rating": 7.51,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -143,7 +143,7 @@
         "releaseDate": "2026-01-30",
         "backdropPath": "/A0GTs2ESXdVFba0fcw4syEuNjJy.jpg",
         "posterPath": "/ppFUg9nXeJ4FWj0HcuiIFLiJdAg.jpg",
-        "rating": 7.5,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -208,7 +208,7 @@
         "releaseDate": "2026-02-06",
         "backdropPath": "/nz6Pg1RKfTrcw6ddPXCvqZM2M5p.jpg",
         "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-        "rating": 8.125,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -262,7 +262,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.466,
+        "rating": 8.448,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 8.1,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/zL3BlyLxr5rrbZYITeOBAW2K5xv.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.5,
+        "rating": 8.543,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-02-20",
         "backdropPath": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
         "posterPath": "/ad1BV4FnSxpo54TQnVYhhDaoGgK.jpg",
-        "rating": 8.7,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
         "posterPath": "/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
-        "rating": 7.7,
+        "rating": 7.703,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
