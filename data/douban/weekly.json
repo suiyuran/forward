@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-09T20:19:12.420Z",
+  "time": "2026-03-10T20:19:53.671Z",
   "data": {
     "电影": [
       {
@@ -102,7 +102,7 @@
         "releaseDate": "2025-10-29",
         "backdropPath": "/isVOgjdMMWDpJCQEB2mwvg6KLSv.jpg",
         "posterPath": "/xBdHUCS4FUSgEnI38ODCYLNZs5R.jpg",
-        "rating": 6.778,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "剧情, 犯罪"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-12-19",
         "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
         "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.499,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -181,7 +181,7 @@
         "description": "一场盛宴之下的狂欢，让隐藏已久的暗涌浮现，唤醒了所有装睡的人，也触发了GST酒业各层人士的生存危机。一切事关生存，每一步都需格外谨慎。七个深陷其中的主要人物，在事件中扮演了不同的角色，勾勒出人性的复杂和现实的残酷，从而呈现出一个共同的主题——如何在惶惶不安中乐观地活下去！",
         "releaseDate": "2026-01-28",
         "backdropPath": "/z27pWxc4kLdMatQuSnNXOVVXZc6.jpg",
-        "posterPath": "/sd3EIJZQzAvsU5CDroaL9QuIYBq.jpg",
+        "posterPath": "/4vdpiS6KsogtpS9EXyFhPvNuyUh.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -193,8 +193,8 @@
         "originalTitle": "我的妈妈是校花",
         "description": "该剧改编自同名漫画《我的妈妈是校花》，讲述了大学生孔小灿（蒋龙 饰）得知妈妈孔桂芳（刘琳 饰）身患绝症后，毅然决然与外星人做交易，通过“生命能量”互换，让45岁的母亲重拾20岁孔桂芳（邓恩熙 饰）的青春容颜，开启崭新人生旅程的故事。",
         "releaseDate": "2026-02-13",
-        "backdropPath": "/qgfavqEAXz21FZvOMuc0c6mzxm0.jpg",
-        "posterPath": "/wLwfottOSFenAL9tqxazCve21Ve.jpg",
+        "backdropPath": "/wgzEClTkLKxW1yD1tsOP74rNR9a.jpg",
+        "posterPath": "/22wUiGWk89Lmj2I5jHC2AOO4uLM.jpg",
         "rating": 9,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
@@ -262,7 +262,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.453,
+        "rating": 8.456,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-16",
         "backdropPath": "/zL3BlyLxr5rrbZYITeOBAW2K5xv.jpg",
         "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.532,
+        "rating": 8.553,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-02-20",
         "backdropPath": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
         "posterPath": "/ad1BV4FnSxpo54TQnVYhhDaoGgK.jpg",
-        "rating": 9,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
         "posterPath": "/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
-        "rating": 7.703,
+        "rating": 7.684,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
         "posterPath": "/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
-        "rating": 8.886,
+        "rating": 8.646,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/lkmGrZXASDPwXyWf4p8GG83dw5N.jpg",
         "posterPath": "/rjMxWVXM4ckAcaNQMh3ovkyxHwD.jpg",
-        "rating": 7.263,
+        "rating": 7.07,
         "mediaType": "tv",
         "genreTitle": "悬疑, 喜剧"
       }
