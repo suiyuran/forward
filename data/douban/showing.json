@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-09T17:49:07.609Z",
+  "time": "2026-03-11T17:51:23.582Z",
   "data": [
     {
       "id": 1454209,
@@ -10,7 +10,7 @@
       "releaseDate": "2025-09-25",
       "backdropPath": "/gpQwPhKmUmBZxmA9bcBeFDbDgdS.jpg",
       "posterPath": "/smdKDbTCLBuNJg3R5Eu0HakrwFU.jpg",
-      "rating": 6,
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -21,7 +21,7 @@
       "originalTitle": "Crime 101",
       "description": "当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
       "releaseDate": "2026-02-11",
-      "backdropPath": "/xGPb3wI8lhBxAvUbIM2hRtm8S6b.jpg",
+      "backdropPath": "/2t25zHKX3PAUZWppuLD36JGdgCA.jpg",
       "posterPath": "/vzOl0DgvaxuGMPJhncUeOqIxjyi.jpg",
       "rating": 7,
       "mediaType": "movie",
@@ -36,7 +36,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
       "posterPath": "/1pZ3BK2tdODT3cv0SAhXu9VPJSk.jpg",
-      "rating": 6.4,
+      "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "科幻, 恐怖"
     },
@@ -49,7 +49,7 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
       "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-      "rating": 7.333,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -62,7 +62,7 @@
       "releaseDate": "2026-02-14",
       "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
       "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
-      "rating": 7.462,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -132,6 +132,19 @@
       "genreTitle": "喜剧, 动作"
     },
     {
+      "id": 1249173,
+      "type": "tmdb",
+      "title": "我的朋友安德烈",
+      "originalTitle": "我的朋友安德烈",
+      "description": "性格迥异的李默（刘昊然 饰）与安德烈（董子健 饰）因为足球成为知己，而一场意外却让安德烈跟随年少往事一起消失在了李默的记忆中。多年后，李默在为父亲奔丧路上与安德烈“重逢”，一段尘封的回忆被逐渐揭开……",
+      "releaseDate": "2026-01-17",
+      "backdropPath": "/oSU2icznEh9clWbL5jksJxJHbxu.jpg",
+      "posterPath": "/qDSV1sDGCsBZjhs8EucZqIrw4TO.jpg",
+      "rating": 5.5,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1236153,
       "type": "tmdb",
       "title": "极限审判",
@@ -140,9 +153,35 @@
       "releaseDate": "2026-01-20",
       "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
       "posterPath": "/fq2AqiarysK2Swl7SUQxVMyofh2.jpg",
-      "rating": 7.068,
+      "rating": 7.078,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1290821,
+      "type": "tmdb",
+      "title": "庇护之地",
+      "originalTitle": "Shelter",
+      "description": "隐居孤岛的特工界黄金王牌迈克尔·梅森（杰森·斯坦森 饰）本想就此隔绝过往，一场风暴却让他救下少女杰茜（博德希·蕾·布里纳希 饰），命运的齿轮彻底反转……他们的行踪不慎暴露在严密的监控网络之下，神秘势力的追杀接踵而至，无路可退的梅森被迫重操旧业，携手少女开启生死突围之路。 面对顶尖特工小队和冷血杀手的轮番围剿，梅森一路火力全开：近身肉搏、飞车追逃、枪林弹雨，硬核爽战全程高能！随着追杀不断升级，层层阴谋被逐一揭开，互相防备的两人成为彼此唯一的依靠。当滔天阴谋席卷而来，他们能否冲破死局？这份绝境中的守护，又会成为铠甲还是软肋？",
+      "releaseDate": "2026-01-28",
+      "backdropPath": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "posterPath": "/8ZrDrwXyqsntlSS564yGNhBe75f.jpg",
+      "rating": 6.711,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 1537690,
+      "type": "tmdb",
+      "title": "爆水管",
+      "originalTitle": "爆水管",
+      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/yBeSkhMSCA6FdckEMOQ9ROzibak.jpg",
+      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
+      "rating": 5.286,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 犯罪"
     },
     {
       "id": 1607088,
@@ -158,19 +197,6 @@
       "genreTitle": "喜剧, 奇幻"
     },
     {
-      "id": 1537690,
-      "type": "tmdb",
-      "title": "爆水管",
-      "originalTitle": "爆水管",
-      "description": "一个东南亚小镇中，卷王警察于大海（彭于晏 饰）起早贪黑，努力工作，让小镇连续7年维持0犯罪率。结果因为没有案子，警察将被全员辞退，“铁饭碗”成了“塑料碗”，为保住工作，于大海决定和队友们一起造个大案。与此同时，真正的大案正在发生，前来投奔罗四季（艾伦 饰）盗墓贼罗浩（周游 饰）、牛大轮（闫佩伦 饰）一家人，盯上了传说中藏有宝藏的古墓，而这个古墓就在警局之下......",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/yBeSkhMSCA6FdckEMOQ9ROzibak.jpg",
-      "posterPath": "/kDsSmwtX8N0wmxRRdxjgYHenFNe.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 犯罪"
-    },
-    {
       "id": 694,
       "type": "tmdb",
       "title": "闪灵",
@@ -179,22 +205,9 @@
       "releaseDate": "1980-05-23",
       "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
       "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.205,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 680493,
-      "type": "tmdb",
-      "title": "重返寂静岭",
-      "originalTitle": "Return to Silent Hill",
-      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
-      "releaseDate": "2026-01-21",
-      "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
-      "posterPath": "/bgrECjDxdlO5vjxQZynuDZ0QobA.jpg",
-      "rating": 5.039,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 剧情"
     },
     {
       "id": 1644945,
@@ -210,6 +223,19 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 680493,
+      "type": "tmdb",
+      "title": "重返寂静岭",
+      "originalTitle": "Return to Silent Hill",
+      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
+      "releaseDate": "2026-01-21",
+      "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+      "posterPath": "/bgrECjDxdlO5vjxQZynuDZ0QobA.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 剧情"
+    },
+    {
       "id": 1614368,
       "type": "tmdb",
       "title": "喜欢上“欠欠”的你",
@@ -221,19 +247,6 @@
       "rating": 1,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 1084242,
-      "type": "tmdb",
-      "title": "疯狂动物城2",
-      "originalTitle": "Zootopia 2",
-      "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
-      "releaseDate": "2025-11-26",
-      "backdropPath": "/5BeOSbwt6BR7q2Fax70lF4AIshD.jpg",
-      "posterPath": "/8dUcTbuYgqUd3Yp88zA7x6w3Zrm.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1497873,
@@ -249,43 +262,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 313369,
+      "id": 1084242,
       "type": "tmdb",
-      "title": "爱乐之城",
-      "originalTitle": "La La Land",
-      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
-      "releaseDate": "2016-12-01",
-      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
-      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.9,
+      "title": "疯狂动物城2",
+      "originalTitle": "Zootopia 2",
+      "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+      "releaseDate": "2025-11-26",
+      "backdropPath": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+      "posterPath": "/8dUcTbuYgqUd3Yp88zA7x6w3Zrm.jpg",
+      "rating": 7.6,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 871900,
-      "type": "tmdb",
-      "title": "藏地情书",
-      "originalTitle": "藏地情书",
-      "description": "毛铭基（屈楚萧 饰）和傅真（邱天 饰）在拉萨相遇，并和子琪（马苏 饰）、李健（张宁江 饰）、达娃（金巴 饰）结伴前往珠峰大本营。历经各种波折后，毛铭基和傅真二人之间产生了纯粹且强烈的爱情，但两人都未在即将结束的旅途前表达爱意，他们最终能否知晓彼此的心意？",
-      "releaseDate": "2026-02-13",
-      "backdropPath": "/rA8mmVQQ0aYMAwBmjGZ1Mv6NVjd.jpg",
-      "posterPath": "/cgdBwVt7COqch2UI4HxSyrivyb3.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 83533,
-      "type": "tmdb",
-      "title": "阿凡达：火与烬",
-      "originalTitle": "Avatar: Fire and Ash",
-      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "releaseDate": "2025-12-17",
-      "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
-      "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1632606,
@@ -301,6 +288,45 @@
       "genreTitle": "动画, 奇幻"
     },
     {
+      "id": 313369,
+      "type": "tmdb",
+      "title": "爱乐之城",
+      "originalTitle": "La La Land",
+      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
+      "releaseDate": "2016-12-01",
+      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
+      "rating": 7.9,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 83533,
+      "type": "tmdb",
+      "title": "阿凡达：火与烬",
+      "originalTitle": "Avatar: Fire and Ash",
+      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "releaseDate": "2025-12-17",
+      "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
+      "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "rating": 7.3,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 冒险"
+    },
+    {
+      "id": 871900,
+      "type": "tmdb",
+      "title": "藏地情书",
+      "originalTitle": "藏地情书",
+      "description": "毛铭基（屈楚萧 饰）和傅真（邱天 饰）在拉萨相遇，并和子琪（马苏 饰）、李健（张宁江 饰）、达娃（金巴 饰）结伴前往珠峰大本营。历经各种波折后，毛铭基和傅真二人之间产生了纯粹且强烈的爱情，但两人都未在即将结束的旅途前表达爱意，他们最终能否知晓彼此的心意？",
+      "releaseDate": "2026-02-13",
+      "backdropPath": "/rA8mmVQQ0aYMAwBmjGZ1Mv6NVjd.jpg",
+      "posterPath": "/cgdBwVt7COqch2UI4HxSyrivyb3.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
       "id": 485289,
       "type": "tmdb",
       "title": "重返·狼群",
@@ -312,6 +338,19 @@
       "rating": 6.333,
       "mediaType": "movie",
       "genreTitle": "纪录"
+    },
+    {
+      "id": 1089654,
+      "type": "tmdb",
+      "title": "长安三万里",
+      "originalTitle": "长安三万里",
+      "description": "安史之乱后数年，吐蕃大军压境，战况危机。剑南西川节度使高适奋力抵抗，然孤兵难支，只得退守云山城。夜幕降临，大雪如轮，朝廷却派来程公公持节监军。高适得知对方讯问的正是他“加害李白”的缘由，于是在昏黄的烛光下，缓缓道出了他和李白起于微末时的故事，以及盛唐文坛的一时盛况。遥想当年，父母双亡的高适决心去长安求取功名，途中遇到文采飞扬且乐观傲慢的李白。他们踌躇满志，却发现空有文采和抱负却报国无门。长安之后，李白南下扬州，高适则继续等待晋升的机会。在这一过程中，杜甫、王维、常建、李龟年、吴道子、张旭等群星璀璨，交替登场，共同谱写了大唐盛世最瑰丽的画卷。而高适和李白的友情，也将在历史大潮的背景下跌宕沉浮……",
+      "releaseDate": "2023-07-02",
+      "backdropPath": "/m4sS3YPOu6OPHzwJcPKjMH1TyRA.jpg",
+      "posterPath": "/7wxk8Ka5AGUIjCpEPg4vBOwSSul.jpg",
+      "rating": 7.581,
+      "mediaType": "movie",
+      "genreTitle": "动画, 历史"
     },
     {
       "id": 1599013,
@@ -327,45 +366,6 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 98344,
-      "type": "tmdb",
-      "title": "赛德克·巴莱（上）",
-      "originalTitle": "賽德克‧巴萊：太陽旗",
-      "description": "本片根据雾社事件史实改编。  　　1895年，《马关条约》割让台湾之后，日本遂即武力接收台湾，宝岛各地纷纷被攻破。而台湾山区因道路不通，原住民生活尚暂未受影响，雾社地区的赛德克人之中，马赫坡年轻一代的莫那鲁道（游大庆 饰）英勇过人，率族群与甘卓万人争斗不休。日人垂涎雾社地区的 丰富资源，试图染指但遭到赛德克人强烈抵抗，伤亡惨重，然终于借原住民族群之间的互相仇杀侵入了雾社。莫那鲁道只得忍辱投降，但心中的火苗从未熄灭。时间推至1930年，日本对于雾社原住民的“文明改造”历经多年，日语等所谓文明并未给予原住民平等的生活，日人的欺压和繁重劳作侵蚀着赛德克人的传统和尊严，多年的愤怒累积，终于在这一年全面喷发！",
-      "releaseDate": "2011-09-09",
-      "backdropPath": "/ucoQdA7OTeGrhgVo0ii7rNEn2le.jpg",
-      "posterPath": "/mrdrts2XXkJHg24I0CqhUWNUh40.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 动作"
-    },
-    {
-      "id": 74796,
-      "type": "tmdb",
-      "title": "Mono: The Sky Remains the Same as Ever",
-      "originalTitle": "Mono: The Sky Remains the Same as Ever",
-      "description": "",
-      "releaseDate": "2008-01-22",
-      "backdropPath": "/3TB4OYJyrVkcYb9FbfVdeN14p3W.jpg",
-      "posterPath": "/dZALbVTs9Vg5e4x1fMbZDcdGycs.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "音乐, 纪录"
-    },
-    {
-      "id": 313230,
-      "type": "tmdb",
-      "title": "赛德克·巴莱（下）",
-      "originalTitle": "賽德克‧巴萊：彩虹橋",
-      "description": "莫那鲁道（林庆台 饰）率领族人在公学斩杀异族血祭祖灵后，拥有了通过彩虹桥的资格，剩下来的，就是在英勇战斗后从容赴死。在日本方面，雾社的消息很快传达各处，陆军少将镰田弥彦率军队与警察组成的联合部队，迅速发起讨伐。马赫坡等社分头行动，利用地形优势和灵活战术给予日军先头部队重大杀伤。山地警小岛（安藤政信 饰）利用个人威望和部族矛盾成功劝说铁木瓦力斯（马志翔 饰）连同部落加入日军阵营，协助围攻莫那鲁道。在开战初期，随部落向密林转移的妇孺为了不拖累战士们，纷纷自尽，在矛盾中痛苦的一郎亦选择了切腹。镰田弥彦对部队的缓慢推进大为光火，不惜使用糜烂性炸弹对付赛德克人。满山火光中，莫那鲁道迎来了最后决战的时刻……",
-      "releaseDate": "2011-09-30",
-      "backdropPath": "/5YbJULkUKodLwtIVInhmiHCZlyt.jpg",
-      "posterPath": "/pSFbOg75xXBkC3stjsiBI2QS7uW.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "动作, 剧情"
-    },
-    {
       "id": 1338704,
       "type": "tmdb",
       "title": "梵高：诗情画意",
@@ -379,6 +379,19 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 1588137,
+      "type": "tmdb",
+      "title": "遥远的普若岗日",
+      "originalTitle": "遥远的普若岗日",
+      "description": "天湖县各族干部，在海拔5000米以上的“人类生存极限试验场”，为了1.3万名牧民群众，付出了巨大的牺牲，经过多年奋斗和尝试，在国家极高海拔生态扶贫搬迁的英明决策下，带着全县人民重返人间。",
+      "releaseDate": "2025-12-16",
+      "backdropPath": "/1lbiQoBm116qlMcjCHSOuOmvzdD.jpg",
+      "posterPath": "/f7c7vXhC9WPGTeCcTUnL4CtAA2g.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1002640,
       "type": "tmdb",
       "title": "Secrets of the Sea",
@@ -390,6 +403,19 @@
       "rating": 8,
       "mediaType": "movie",
       "genreTitle": ""
+    },
+    {
+      "id": 1602722,
+      "type": "tmdb",
+      "title": "舒克贝塔之微缩人类",
+      "originalTitle": "舒克贝塔之微缩人类",
+      "description": "鼠王获得了微缩人类技术后建造了梦想岛，企图把魔方市的市民都缩小并囚禁于此并以此夺取魔方市。 舒克贝塔因运送机场的乘客来到梦想岛，卷入了这场阴谋，他们挺身而出，破除了鼠王的阴谋，拯救了魔方市市民。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/gv5T4Y3PwzndEkPONtCT2GOKf2D.jpg",
+      "posterPath": "/f7K95hYV9WjRGV3Qk3e0SmqZxhl.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
     }
   ]
 }
