@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-10T20:19:53.671Z",
+  "time": "2026-03-11T20:21:01.066Z",
   "data": {
     "电影": [
       {
@@ -74,7 +74,7 @@
         "originalTitle": "만약에 우리",
         "description": "剧情讲述机缘巧合下，身为同乡的男女主角命运般的交缠，在经历了普通情侣都会经历的「热恋」、「分手」、「错过」、「重逢」后再也回不到最初的爱情故事。",
         "releaseDate": "2025-12-31",
-        "backdropPath": "/zveSRqx1nYUodeZgI8Y2qu2XoAL.jpg",
+        "backdropPath": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
         "posterPath": "/tQhOoYRezSxrOne8HKJ8QeqXOWU.jpg",
         "rating": 7.2,
         "mediaType": "movie",
@@ -187,17 +187,30 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 273124,
+        "id": 281495,
         "type": "tmdb",
-        "title": "我的妈妈是校花",
-        "originalTitle": "我的妈妈是校花",
-        "description": "该剧改编自同名漫画《我的妈妈是校花》，讲述了大学生孔小灿（蒋龙 饰）得知妈妈孔桂芳（刘琳 饰）身患绝症后，毅然决然与外星人做交易，通过“生命能量”互换，让45岁的母亲重拾20岁孔桂芳（邓恩熙 饰）的青春容颜，开启崭新人生旅程的故事。",
-        "releaseDate": "2026-02-13",
-        "backdropPath": "/wgzEClTkLKxW1yD1tsOP74rNR9a.jpg",
-        "posterPath": "/22wUiGWk89Lmj2I5jHC2AOO4uLM.jpg",
-        "rating": 9,
+        "title": "除恶",
+        "originalTitle": "除恶",
+        "description": "一个偏僻闭塞的沿海小镇，被一袋消失的毒品打破沉寂，一场“自杀式拯救”正式拉开序幕。一个是意外卷入毒品交易现场的女刑警胡文静（任素汐 饰），一个是为救女儿不计代价的普通父亲程恳（王骁 饰），一个是一心想要逃离小镇生活的野心家李晓雅（蔡文静 饰），一个是被毒品吞噬而走向异途的姐弟王萍（董晴 饰）王安（朱嘉琦 饰）。欲望与贪念交织成的茧细细密密困住了每一个人，无人能够全身而退。",
+        "releaseDate": "2026-02-23",
+        "backdropPath": "/gc9ySDlKwKnwlEw6km6KUXM44Yq.jpg",
+        "posterPath": "/ky9Eit4aA3BFLQdrulRuDNdvWLS.jpg",
+        "rating": 8.5,
         "mediaType": "tv",
-        "genreTitle": "喜剧, Sci-Fi & Fantasy"
+        "genreTitle": "犯罪, 悬疑"
+      },
+      {
+        "id": 287760,
+        "type": "tmdb",
+        "title": "纯真年代的爱情",
+        "originalTitle": "纯真年代的爱情",
+        "description": "二十世纪七十年代，积极上进的纺织厂女工费霓一心想上大学靠知识改变命运。费霓的初中同学方穆扬因救人受伤成为了见义勇为的英雄，费霓主动提出照顾他，想要做好事评先进而被推荐上大学，但希望却屡次落空。现实的压力接踵而至，为了帮哥哥解决婚房的难题，费霓向方穆扬提出假结婚分房。几经波折二人终于有了自己的房子，成为了睡上下铺的小夫妻，他们共同面对困难，鼓励彼此追梦，虽磕磕绊绊，却也在平淡温馨的生活中滋长了情投意合的浪漫。最终费霓终于如愿上了大学，方穆扬也实现了自己的画家梦想，他们在幸福生活和美好未来的路上继续前行。",
+        "releaseDate": "2026-02-21",
+        "backdropPath": "/ufgYAZofbUE7x7MGHaJ5wKj7Or8.jpg",
+        "posterPath": "/oeKrr631Dvn582LoTTnvRWm3AlY.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": 280632,
@@ -209,6 +222,19 @@
         "backdropPath": "/jORlLpVpmYGWriuEHZIBhxSxvDh.jpg",
         "posterPath": "/prP2NN1JJVTmS1cJNhl8zdya64y.jpg",
         "rating": 8.4,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 278127,
+        "type": "tmdb",
+        "title": "唐宫奇案之青雾风鸣",
+        "originalTitle": "唐宫奇案之青雾风鸣",
+        "description": "上元佳节，宁远公主在夜宴上离奇身亡，内谒局李佩仪和太史局太史丞萧怀瑾奉命调查。李佩仪武力顶尖又善洞悉人心，面冷心善一心索骥真相，查案对她来说不只是探究真相，更是与凶手的智斗和较量。在和思维缜密萧怀瑾的默契配合下，抽丝剥茧，通过跋扈的权贵之女和身负秘密的金吾卫羽林郎将，最终探明真相找出真凶。随后一系列错综复杂的发生在大唐内廷中的宫闱秘史、诡异奇案接踵而至：“壁上花”、“血色天资”、“吉时秘闻”、“七星错”等一桩桩牵扯出后宫各类女子命运的案件中，李萧二人探索大唐奇景，感受人间奇情，并在破案过程中，逐渐查清了十五年前李家灭门案背后的真相，最终揭露出幕后黑手的阴谋。李佩仪不仅为父亲洗脱冤屈，还在追寻真相的过程中，收获了并肩作伴的伙伴，得到了救赎！",
+        "releaseDate": "2026-02-05",
+        "backdropPath": "/1mLSH6ssXakJXj9bIQh4GAg5eO.jpg",
+        "posterPath": "/t9uq0A7luhtnbzLcp0jCQu8f6Ii.jpg",
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -226,30 +252,17 @@
         "genreTitle": "喜剧, 悬疑"
       },
       {
-        "id": 283950,
+        "id": 273124,
         "type": "tmdb",
-        "title": "女神蒙上眼",
-        "originalTitle": "女神蒙上眼",
-        "description": "雷厉风行的律师唐盈盈，将职场视为战场，全力以赴追求不败战绩。一桩捍卫女性权益的案件使唐盈盈声名大噪，但她特立独行的工作作风也在业内饱受争议。精英律师康俊空降律所，成为唐盈盈上司。二人在工作中屡生过节，关系势同水火。但也是在与康俊的“较量”中，她逐步消除自身的傲慢与偏见，以律师本心洞悉案件真相，脱胎换骨，重塑自我。在一桩桩案件的经办过程中，唐盈盈愈加深刻地体味到人性的善恶交织以及通往公平正义之路的幽微曲折。与此同时，律所前辈戴佩琳、助理律师林小云各自遭遇人生危机，唐盈盈披甲上阵，与她们比肩而行，以法律武器决绝捍卫女性合法权益。最终，在理想与现实交锋、道德与欲望纠葛的职业征途中，唐盈盈完成了人生的“第二次成长”。",
-        "releaseDate": "2026-01-25",
-        "backdropPath": "/bSFkPYtOPoI1xEZucMfxYoFx58k.jpg",
-        "posterPath": "/u8cZ69HBzkSDE5K3t5eJlL1TWVB.jpg",
-        "rating": 8.5,
+        "title": "我的妈妈是校花",
+        "originalTitle": "我的妈妈是校花",
+        "description": "该剧改编自同名漫画《我的妈妈是校花》，讲述了大学生孔小灿（蒋龙 饰）得知妈妈孔桂芳（刘琳 饰）身患绝症后，毅然决然与外星人做交易，通过“生命能量”互换，让45岁的母亲重拾20岁孔桂芳（邓恩熙 饰）的青春容颜，开启崭新人生旅程的故事。",
+        "releaseDate": "2026-02-13",
+        "backdropPath": "/wgzEClTkLKxW1yD1tsOP74rNR9a.jpg",
+        "posterPath": "/22wUiGWk89Lmj2I5jHC2AOO4uLM.jpg",
+        "rating": 9,
         "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 278882,
-        "type": "tmdb",
-        "title": "年少有为",
-        "originalTitle": "年少有为",
-        "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
-        "releaseDate": "2026-01-31",
-        "backdropPath": "/s78UEFOxRRFlM7B0cP0JVkJKW7s.jpg",
-        "posterPath": "/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
-        "rating": 8.8,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
+        "genreTitle": "喜剧, Sci-Fi & Fantasy"
       }
     ],
     "剧集·国外": [
@@ -262,7 +275,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.456,
+        "rating": 8.458,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -280,30 +293,30 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 229891,
+        "id": 305986,
         "type": "tmdb",
-        "title": "爱情怎么翻译？",
-        "originalTitle": "이 사랑 통역 되나요?",
-        "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
-        "releaseDate": "2026-01-16",
-        "backdropPath": "/zL3BlyLxr5rrbZYITeOBAW2K5xv.jpg",
-        "posterPath": "/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
-        "rating": 8.553,
+        "title": "钟表馆事件",
+        "originalTitle": "時計館の殺人",
+        "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
+        "releaseDate": "2026-02-27",
+        "backdropPath": "/8H0UU19gWdlumau0CsajTuMcroN.jpg",
+        "posterPath": "/5oWf1afgT21KVi2B5vhBlTxR9vv.jpg",
+        "rating": 8.5,
         "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
+        "genreTitle": ""
       },
       {
-        "id": 106379,
+        "id": 201834,
         "type": "tmdb",
-        "title": "辐射",
-        "originalTitle": "Fallout",
-        "description": "第二季将延续第一季结局的故事，带领观众穿越莫哈韦荒原，到达世界末日后的城市新维加斯。",
-        "releaseDate": "2025-12-16",
-        "backdropPath": "/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
-        "posterPath": "/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
-        "rating": 6.8,
+        "title": "泰迪熊",
+        "originalTitle": "ted",
+        "description": "1994年，口无遮拦的泰迪熊和他挚友——外向却笨拙的约翰·贝内特正经历着高中最后一年。这对好友与约翰的父母（马蒂和苏珊）及表妹（布莱尔）同住波士顿一户蓝领家庭。马蒂是个爱吹牛的波士顿蓝领，自诩为家中无可争议的主子，尤其反感有人挑战他，尤其是他那思想开明的侄女。苏珊则温柔无私，照顾家人时近乎病态地甜言蜜语。布莱尔是位直言不讳的大学生，常与更保守的亲戚们产生分歧。",
+        "releaseDate": "2026-03-05",
+        "backdropPath": "/xaiKpxuf9YGuTsqpdK5HSbD8M8f.jpg",
+        "posterPath": "/7I1qtZbsU4Tuklef5SHjmFjrHEP.jpg",
+        "rating": 8,
         "mediaType": "tv",
-        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
+        "genreTitle": "喜剧"
       },
       {
         "id": 233833,
@@ -319,6 +332,19 @@
         "genreTitle": "悬疑, 剧情"
       },
       {
+        "id": 281016,
+        "type": "tmdb",
+        "title": "订阅男友",
+        "originalTitle": "월간남친",
+        "description": "徐未来被工作压得喘不过气，谈恋爱？根本没空去想。一项虚拟约会服务却意外唤醒她的恋爱细胞，也许这就是真爱的开始。",
+        "releaseDate": "2026-03-06",
+        "backdropPath": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
+        "posterPath": "/eKXpgaizikUIRuHs84THxoLvpCK.jpg",
+        "rating": 8.485,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, Sci-Fi & Fantasy"
+      },
+      {
         "id": 273977,
         "type": "tmdb",
         "title": "莎拉的真伪人生",
@@ -327,35 +353,9 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
         "posterPath": "/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
-        "rating": 7.684,
+        "rating": 7.692,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
-      },
-      {
-        "id": 91239,
-        "type": "tmdb",
-        "title": "布里杰顿家族",
-        "originalTitle": "Bridgerton",
-        "description": "尽管家族女家长维奥莱特·布里杰顿夫人一再劝说，自由不羁的次子本尼迪克特·布里杰顿拒绝安定下来。然而，在维奥莱特举办的化装舞会上，本尼迪克特被一位神秘的银装淑女深深吸引。在妹妹埃洛伊斯不情愿的帮助下，本尼迪克特开始在社交圈中挖掘这位年轻女士的真实身份。然而，他的心上人并不在上流社会，她是一位聪明机智的女仆，名为索菲·白，效力于令人敬畏的女主人阿拉明塔·具。",
-        "releaseDate": "2026-01-29",
-        "backdropPath": "/iVadPLeLVb97RznIGDkswxtBzi6.jpg",
-        "posterPath": "/jfA1G3guanPOFhwUzJsargpmB7F.jpg",
-        "rating": 6.7,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 129552,
-        "type": "tmdb",
-        "title": "暗夜情报员",
-        "originalTitle": "The Night Agent",
-        "description": "在第二季的爆炸性事件之后，暗夜特工彼得·萨瑟兰接到一项新任务：追踪一名年轻的财政部特工。这名特工在杀害自己的上司后，携带敏感情报逃往伊斯坦布尔。由此引发了一系列事件：彼得一边调查一个黑金网络，一边躲避其雇佣的杀手，同时还与一名不屈不挠的记者狭路相逢。两人联手合作，揭开了被掩埋的秘密和积怨已久的恩怨——这些秘密足以让政府摇摇欲坠，也会让他们两人在这个过程中命悬一线。",
-        "releaseDate": "2026-02-18",
-        "backdropPath": "/gklrevVndG98GHGDwfm8y8kxESo.jpg",
-        "posterPath": "/rlynV9kbfDPrPCTHlYadtdizxHb.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, 剧情"
       },
       {
         "id": 131142,
@@ -366,9 +366,22 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
         "posterPath": "/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
-        "rating": 8.646,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 293608,
+        "type": "tmdb",
+        "title": "卧底洪小姐",
+        "originalTitle": "언더커버 미쓰홍",
+        "description": "因IMF而混乱的90年代末，锲而不舍的调查员洪金宝（朴信惠 饰）利用天生的\"童颜外貌\"潜入一间证券公司，准备揭发贪腐情事，没想到新上任的代表竟是自己的前男友申正宇（高庚杓 饰），这场任务开始节外生枝。",
+        "releaseDate": "2026-01-17",
+        "backdropPath": "/awldlWlTkCeuohxZMGKhQwyydGA.jpg",
+        "posterPath": "/nJ0gSaXfoiPFngy1ulCCuxsKt0q.jpg",
+        "rating": 8.1,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 喜剧"
       },
       {
         "id": 233079,
