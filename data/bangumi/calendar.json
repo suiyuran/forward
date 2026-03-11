@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-10T16:53:22.455Z",
+  "time": "2026-03-11T16:46:48.174Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2023-04-01",
         "backdropPath": "/vjiIuR3XGpoGSumQ7DziPAmxIYR.jpg",
         "posterPath": "/jfPqPQy2EiS8TwDlbvU9hgyxCdF.jpg",
-        "rating": 8.157,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -167,7 +167,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/6vaxQIDlAGtELnfyBMC9toTYMuX.jpg",
         "posterPath": "/bjgqOgkOxWphCaq1CG1jPhDq1dI.jpg",
-        "rating": 7,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -189,11 +189,11 @@
         "type": "tmdb",
         "title": "暗芝居",
         "originalTitle": "闇芝居",
-        "description": "《暗芝居》是以“昭和纸芝居×都市传说×恐怖故事”为主题制作的TV动画。2017年1月开播。本作通过昭和风格的纸芝居讲述日本的都市传说，是一部面向成年人的独特“数码恐怖纸芝居动画”。它并不是普通的恐怖动画，而是通过现代数码技术让观众在电视上欣赏到传统的纸芝居。",
+        "description": "本作是以周遭的诡异都市传说为主题，将现今变得弥足珍贵的纸芝居通过数位方式来呈现的充满昭和风味的新式惊悚动画短片。第一季于2013年7月播出后，取得了巨大反响，在后续又推出了数季与衍生作品。",
         "releaseDate": "2013-07-15",
         "backdropPath": "/upkcoee5VhPeTTbLdPERtCVhy4N.jpg",
         "posterPath": "/h0oETPVpnpFsQgBNWqlsFmRfmnl.jpg",
-        "rating": 7.381,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画"
       }
@@ -286,7 +286,7 @@
         "releaseDate": "2019-10-08",
         "backdropPath": "/tbHQDtoDZGJsfe7Kx6BEShcrZAa.jpg",
         "posterPath": "/cZ8JUIwS9K4kttelRq6eP0mVhjK.jpg",
-        "rating": 8.621,
+        "rating": 8.622,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       }
@@ -366,7 +366,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/fikx5FofgLjNvyGORxdB4R2wxsE.jpg",
         "posterPath": "/gTJXC84z3pq9VxVGjbStvMP0I2g.jpg",
-        "rating": 9.3,
+        "rating": 8.857,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
@@ -381,7 +381,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.725,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -513,7 +513,7 @@
         "releaseDate": "2020-10-03",
         "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
         "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-        "rating": 8.6,
+        "rating": 8.557,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -710,7 +710,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/gf62V8UBVBMFPpD9yI0UFvkFvq2.jpg",
         "posterPath": "/8ORt29GnG4gFNrQDUUSE1ZQP9Vm.jpg",
-        "rating": 9.75,
+        "rating": 9.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
