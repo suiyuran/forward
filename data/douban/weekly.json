@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-12T20:20:47.233Z",
+  "time": "2026-03-13T20:19:44.850Z",
   "data": {
     "电影": [
       {
@@ -42,19 +42,6 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 1417790,
-        "type": "tmdb",
-        "title": "遇见世界",
-        "originalTitle": "ミーツ・ザ・ワールド",
-        "description": "本作改编自金原瞳同名小说，27岁的主角由嘉里，狂热沉迷于拟人化烤肉漫画《Meat Is Mine》，却无法喜欢上自己。看着身边朋友陆续结婚生子、脱离二次元圈，她焦虑之下开始相亲，却在联谊惨败后醉倒歌舞伎町街头，被一位美丽的陪酒女郎“RAI”救下。这次相遇将她带进了一个全新的世界……",
-        "releaseDate": "2025-10-24",
-        "backdropPath": "/bSHwhJvu4kJBeRSe2MHEJFXYKgj.jpg",
-        "posterPath": "/oymKm1yLabt8a4oezYPLIFSjOea.jpg",
-        "rating": 0,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 1287782,
         "type": "tmdb",
         "title": "好孩子",
@@ -68,17 +55,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 1264805,
+        "id": 1417790,
         "type": "tmdb",
-        "title": "만약에 우리",
-        "originalTitle": "만약에 우리",
-        "description": "剧情讲述机缘巧合下，身为同乡的男女主角命运般的交缠，在经历了普通情侣都会经历的「热恋」、「分手」、「错过」、「重逢」后再也回不到最初的爱情故事。",
-        "releaseDate": "2025-12-31",
-        "backdropPath": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
-        "posterPath": "/tQhOoYRezSxrOne8HKJ8QeqXOWU.jpg",
-        "rating": 7.2,
+        "title": "遇见世界",
+        "originalTitle": "ミーツ・ザ・ワールド",
+        "description": "本作改编自金原瞳同名小说，27岁的主角由嘉里，狂热沉迷于拟人化烤肉漫画《Meat Is Mine》，却无法喜欢上自己。看着身边朋友陆续结婚生子、脱离二次元圈，她焦虑之下开始相亲，却在联谊惨败后醉倒歌舞伎町街头，被一位美丽的陪酒女郎“RAI”救下。这次相遇将她带进了一个全新的世界……",
+        "releaseDate": "2025-10-24",
+        "backdropPath": "/bSHwhJvu4kJBeRSe2MHEJFXYKgj.jpg",
+        "posterPath": "/oymKm1yLabt8a4oezYPLIFSjOea.jpg",
+        "rating": 0,
         "mediaType": "movie",
-        "genreTitle": "爱情, 剧情"
+        "genreTitle": "剧情"
       },
       {
         "id": 1290424,
@@ -94,6 +81,19 @@
         "genreTitle": "剧情, 历史"
       },
       {
+        "id": 1264805,
+        "type": "tmdb",
+        "title": "만약에 우리",
+        "originalTitle": "만약에 우리",
+        "description": "剧情讲述机缘巧合下，身为同乡的男女主角命运般的交缠，在经历了普通情侣都会经历的「热恋」、「分手」、「错过」、「重逢」后再也回不到最初的爱情故事。",
+        "releaseDate": "2025-12-31",
+        "backdropPath": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
+        "posterPath": "/tQhOoYRezSxrOne8HKJ8QeqXOWU.jpg",
+        "rating": 7.2,
+        "mediaType": "movie",
+        "genreTitle": "爱情, 剧情"
+      },
+      {
         "id": 1429348,
         "type": "tmdb",
         "title": "局外人",
@@ -107,28 +107,28 @@
         "genreTitle": "剧情, 犯罪"
       },
       {
-        "id": 1317288,
+        "id": 1119449,
         "type": "tmdb",
-        "title": "至尊马蒂",
-        "originalTitle": "Marty Supreme",
-        "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-        "releaseDate": "2025-12-19",
-        "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
-        "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-        "rating": 7.5,
+        "title": "团战之夜",
+        "originalTitle": "Good Luck, Have Fun, Don't Die",
+        "description": "故事围绕着一个“来自未来的人”展开，他来到洛杉矶的一家小餐馆，在那里他必须招募一群心怀不满的顾客，与他一起完成一个为期一晚、跨越六个街区的任务，以拯救世界免受流氓人工智能的终极威胁。",
+        "releaseDate": "2026-02-13",
+        "backdropPath": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+        "posterPath": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+        "rating": 7.186,
         "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "动作, 科幻"
       },
       {
-        "id": 1502700,
+        "id": 1268609,
         "type": "tmdb",
-        "title": "草莓月亮",
-        "originalTitle": "ストロベリームーン 余命半年の恋",
-        "description": "本片改编自同名小说。樱井萌（当真亚美 饰）从小体弱多病，无法上学，也没有朋友，每天独自度过时光。她一直有一个小小的梦想——在自己生日那天，与喜欢的人一起观赏据说能让恋人永远相守的六月满月“草莓月亮”。然而，15岁那年冬天，她被告知生命所剩无几。从医院回家的路上，萌邂逅了命中注定的人，并下定决心进入高中就读。入学典礼当天，她在初次见面的情况下，向同班同学佐藤日向（斋藤润 饰）突然告白，人生第一次恋爱就此开始。终于到了共赏草莓月亮的那一天，但从那天起，萌突然从学校消失，日向再也无法联系上她。而萌离开的真相，以及13年后传来的秘密究竟是什么…",
-        "releaseDate": "2025-10-17",
-        "backdropPath": "/uMVqHc5RVNQZMcov3lBvnrTWZky.jpg",
-        "posterPath": "/7IpE5UMl5BkRy8ujvDOM7Bz68hE.jpg",
-        "rating": 0,
+        "title": "孔雀舞曲",
+        "originalTitle": "파반느",
+        "description": "三个独来独往的陌生人因为同在一家百货公司工作而彼此结识，在互相陪伴的过程中找到了慰藉，并开始探索羁绊与爱情的本质。",
+        "releaseDate": "2026-02-19",
+        "backdropPath": "/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
+        "posterPath": "/urMjy6nS4xzIZIlXxiejh3xXPts.jpg",
+        "rating": 6.86,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       }
@@ -275,14 +275,14 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.5,
+        "rating": 8.459,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
         "id": 250307,
         "type": "tmdb",
-        "title": "匹兹堡医护前线",
+        "title": "匹兹堡",
         "originalTitle": "The Pitt",
         "description": "第二季故事发生在第一季结局的10个月后，时间线为一个美国独立纪念日的周末。",
         "releaseDate": "2026-01-08",
@@ -340,7 +340,7 @@
         "releaseDate": "2026-03-06",
         "backdropPath": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
         "posterPath": "/eKXpgaizikUIRuHs84THxoLvpCK.jpg",
-        "rating": 8.5,
+        "rating": 8.457,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-01-17",
         "backdropPath": "/awldlWlTkCeuohxZMGKhQwyydGA.jpg",
         "posterPath": "/nJ0gSaXfoiPFngy1ulCCuxsKt0q.jpg",
-        "rating": 8.1,
+        "rating": 8.059,
         "mediaType": "tv",
         "genreTitle": "犯罪, 喜剧"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/lkmGrZXASDPwXyWf4p8GG83dw5N.jpg",
         "posterPath": "/rjMxWVXM4ckAcaNQMh3ovkyxHwD.jpg",
-        "rating": 7.07,
+        "rating": 7.045,
         "mediaType": "tv",
         "genreTitle": "悬疑, 喜剧"
       }
