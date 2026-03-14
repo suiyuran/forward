@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-13T20:19:44.850Z",
+  "time": "2026-03-14T20:13:49.396Z",
   "data": {
     "电影": [
       {
@@ -89,7 +89,7 @@
         "releaseDate": "2025-12-31",
         "backdropPath": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
         "posterPath": "/tQhOoYRezSxrOne8HKJ8QeqXOWU.jpg",
-        "rating": 7.2,
+        "rating": 7.25,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-10-29",
         "backdropPath": "/isVOgjdMMWDpJCQEB2mwvg6KLSv.jpg",
         "posterPath": "/xBdHUCS4FUSgEnI38ODCYLNZs5R.jpg",
-        "rating": 6.763,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "剧情, 犯罪"
       },
@@ -115,9 +115,9 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
         "posterPath": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-        "rating": 7.186,
+        "rating": 6.952,
         "mediaType": "movie",
-        "genreTitle": "动作, 科幻"
+        "genreTitle": "科幻, 动作"
       },
       {
         "id": 1268609,
@@ -207,7 +207,7 @@
         "description": "二十世纪七十年代，积极上进的纺织厂女工费霓一心想上大学靠知识改变命运。费霓的初中同学方穆扬因救人受伤成为了见义勇为的英雄，费霓主动提出照顾他，想要做好事评先进而被推荐上大学，但希望却屡次落空。现实的压力接踵而至，为了帮哥哥解决婚房的难题，费霓向方穆扬提出假结婚分房。几经波折二人终于有了自己的房子，成为了睡上下铺的小夫妻，他们共同面对困难，鼓励彼此追梦，虽磕磕绊绊，却也在平淡温馨的生活中滋长了情投意合的浪漫。最终费霓终于如愿上了大学，方穆扬也实现了自己的画家梦想，他们在幸福生活和美好未来的路上继续前行。",
         "releaseDate": "2026-02-21",
         "backdropPath": "/ufgYAZofbUE7x7MGHaJ5wKj7Or8.jpg",
-        "posterPath": "/oeKrr631Dvn582LoTTnvRWm3AlY.jpg",
+        "posterPath": "/7m8LvKcwj39PhqKrpnh8XdqV5Dp.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -282,7 +282,7 @@
       {
         "id": 250307,
         "type": "tmdb",
-        "title": "匹兹堡",
+        "title": "匹兹堡医护前线",
         "originalTitle": "The Pitt",
         "description": "第二季故事发生在第一季结局的10个月后，时间线为一个美国独立纪念日的周末。",
         "releaseDate": "2026-01-08",
@@ -340,7 +340,7 @@
         "releaseDate": "2026-03-06",
         "backdropPath": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
         "posterPath": "/eKXpgaizikUIRuHs84THxoLvpCK.jpg",
-        "rating": 8.457,
+        "rating": 8.579,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
         "posterPath": "/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
-        "rating": 8.6,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-01-17",
         "backdropPath": "/awldlWlTkCeuohxZMGKhQwyydGA.jpg",
         "posterPath": "/nJ0gSaXfoiPFngy1ulCCuxsKt0q.jpg",
-        "rating": 8.059,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "犯罪, 喜剧"
       },
