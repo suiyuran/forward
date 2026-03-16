@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-14T20:13:49.396Z",
+  "time": "2026-03-16T20:25:27.481Z",
   "data": {
     "电影": [
       {
@@ -63,7 +63,7 @@
         "releaseDate": "2025-10-24",
         "backdropPath": "/bSHwhJvu4kJBeRSe2MHEJFXYKgj.jpg",
         "posterPath": "/oymKm1yLabt8a4oezYPLIFSjOea.jpg",
-        "rating": 0,
+        "rating": 6,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-12-31",
         "backdropPath": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
         "posterPath": "/tQhOoYRezSxrOne8HKJ8QeqXOWU.jpg",
-        "rating": 7.25,
+        "rating": 7.318,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
         "posterPath": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-        "rating": 6.952,
+        "rating": 6.928,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-02-19",
         "backdropPath": "/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
         "posterPath": "/urMjy6nS4xzIZIlXxiejh3xXPts.jpg",
-        "rating": 6.86,
+        "rating": 6.796,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       }
@@ -156,7 +156,7 @@
         "releaseDate": "2026-01-23",
         "backdropPath": "/c5mwcq4lvp96cHPgAWE1uxdwxkR.jpg",
         "posterPath": "/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-        "rating": 8.8,
+        "rating": 8.917,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -180,8 +180,8 @@
         "originalTitle": "夜色正浓",
         "description": "一场盛宴之下的狂欢，让隐藏已久的暗涌浮现，唤醒了所有装睡的人，也触发了GST酒业各层人士的生存危机。一切事关生存，每一步都需格外谨慎。七个深陷其中的主要人物，在事件中扮演了不同的角色，勾勒出人性的复杂和现实的残酷，从而呈现出一个共同的主题——如何在惶惶不安中乐观地活下去！",
         "releaseDate": "2026-01-28",
-        "backdropPath": "/z27pWxc4kLdMatQuSnNXOVVXZc6.jpg",
-        "posterPath": "/4vdpiS6KsogtpS9EXyFhPvNuyUh.jpg",
+        "backdropPath": "/emfrogWyGQNdQdnemu5dDnK7tIL.jpg",
+        "posterPath": "/sd3EIJZQzAvsU5CDroaL9QuIYBq.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -195,7 +195,7 @@
         "releaseDate": "2026-02-23",
         "backdropPath": "/gc9ySDlKwKnwlEw6km6KUXM44Yq.jpg",
         "posterPath": "/ky9Eit4aA3BFLQdrulRuDNdvWLS.jpg",
-        "rating": 8.5,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
@@ -207,7 +207,7 @@
         "description": "二十世纪七十年代，积极上进的纺织厂女工费霓一心想上大学靠知识改变命运。费霓的初中同学方穆扬因救人受伤成为了见义勇为的英雄，费霓主动提出照顾他，想要做好事评先进而被推荐上大学，但希望却屡次落空。现实的压力接踵而至，为了帮哥哥解决婚房的难题，费霓向方穆扬提出假结婚分房。几经波折二人终于有了自己的房子，成为了睡上下铺的小夫妻，他们共同面对困难，鼓励彼此追梦，虽磕磕绊绊，却也在平淡温馨的生活中滋长了情投意合的浪漫。最终费霓终于如愿上了大学，方穆扬也实现了自己的画家梦想，他们在幸福生活和美好未来的路上继续前行。",
         "releaseDate": "2026-02-21",
         "backdropPath": "/ufgYAZofbUE7x7MGHaJ5wKj7Or8.jpg",
-        "posterPath": "/7m8LvKcwj39PhqKrpnh8XdqV5Dp.jpg",
+        "posterPath": "/8fjVJxa6uEWRzMIDLTjExPGf0Nj.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -275,7 +275,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.459,
+        "rating": 8.458,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 8.1,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-02-20",
         "backdropPath": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
         "posterPath": "/ad1BV4FnSxpo54TQnVYhhDaoGgK.jpg",
-        "rating": 7.8,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-03-06",
         "backdropPath": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
         "posterPath": "/eKXpgaizikUIRuHs84THxoLvpCK.jpg",
-        "rating": 8.579,
+        "rating": 8.479,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
         "posterPath": "/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
-        "rating": 7.7,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
         "posterPath": "/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
-        "rating": 8.7,
+        "rating": 8.673,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-01-17",
         "backdropPath": "/awldlWlTkCeuohxZMGKhQwyydGA.jpg",
         "posterPath": "/nJ0gSaXfoiPFngy1ulCCuxsKt0q.jpg",
-        "rating": 8.1,
+        "rating": 8.25,
         "mediaType": "tv",
         "genreTitle": "犯罪, 喜剧"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/lkmGrZXASDPwXyWf4p8GG83dw5N.jpg",
         "posterPath": "/rjMxWVXM4ckAcaNQMh3ovkyxHwD.jpg",
-        "rating": 7.045,
+        "rating": 7.109,
         "mediaType": "tv",
         "genreTitle": "悬疑, 喜剧"
       }
