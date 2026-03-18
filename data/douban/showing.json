@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-18T02:33:12.744Z",
+  "time": "2026-03-18T18:01:05.634Z",
   "data": [
     {
       "id": 1316092,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.3,
+      "rating": 6.347,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -36,7 +36,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
       "posterPath": "/vEgqZxbDavexla2Trjg9emiiMn6.jpg",
-      "rating": 7.6,
+      "rating": 7.586,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -49,7 +49,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
       "posterPath": "/cMilCixwsrrTmAjYGP6OQvSMVaU.jpg",
-      "rating": 7.064,
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
     },
@@ -114,7 +114,7 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/rLHFufd3gALwHay1Sxl3MjbGQ7E.jpg",
       "posterPath": "/cL5vAK6bUHYWTOnypi34mzzWI8X.jpg",
-      "rating": 7.067,
+      "rating": 7.125,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -140,7 +140,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
       "posterPath": "/1pZ3BK2tdODT3cv0SAhXu9VPJSk.jpg",
-      "rating": 6.257,
+      "rating": 6.279,
       "mediaType": "movie",
       "genreTitle": "科幻, 恐怖"
     },
@@ -184,19 +184,6 @@
       "genreTitle": "动作, 犯罪"
     },
     {
-      "id": 1236153,
-      "type": "tmdb",
-      "title": "极限审判",
-      "originalTitle": "Mercy",
-      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "releaseDate": "2026-01-20",
-      "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
-      "posterPath": "/fq2AqiarysK2Swl7SUQxVMyofh2.jpg",
-      "rating": 7.085,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
-    },
-    {
       "id": 1607088,
       "type": "tmdb",
       "title": "熊出没·年年有熊",
@@ -208,6 +195,19 @@
       "rating": 4,
       "mediaType": "movie",
       "genreTitle": "喜剧, 奇幻"
+    },
+    {
+      "id": 1236153,
+      "type": "tmdb",
+      "title": "极限审判",
+      "originalTitle": "Mercy",
+      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
+      "releaseDate": "2026-01-20",
+      "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
+      "posterPath": "/fq2AqiarysK2Swl7SUQxVMyofh2.jpg",
+      "rating": 7.075,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
     },
     {
       "id": 694,
@@ -223,19 +223,6 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 680493,
-      "type": "tmdb",
-      "title": "重返寂静岭",
-      "originalTitle": "Return to Silent Hill",
-      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
-      "releaseDate": "2026-01-21",
-      "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
-      "posterPath": "/bgrECjDxdlO5vjxQZynuDZ0QobA.jpg",
-      "rating": 5.041,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 剧情"
-    },
-    {
       "id": 1650266,
       "type": "tmdb",
       "title": "神头岭1938",
@@ -247,6 +234,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 历史"
+    },
+    {
+      "id": 680493,
+      "type": "tmdb",
+      "title": "重返寂静岭",
+      "originalTitle": "Return to Silent Hill",
+      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
+      "releaseDate": "2026-01-21",
+      "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+      "posterPath": "/bgrECjDxdlO5vjxQZynuDZ0QobA.jpg",
+      "rating": 5.029,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 剧情"
     },
     {
       "id": 1084242,
@@ -262,19 +262,6 @@
       "genreTitle": "动画, 喜剧"
     },
     {
-      "id": 1614368,
-      "type": "tmdb",
-      "title": "喜欢上“欠欠”的你",
-      "originalTitle": "喜欢上“欠欠”的你",
-      "description": "通过消费获取情绪满足的张若愚（秦霄贤 饰）遇上通过攒钱获取安全感的贾琼（王影璐 饰），一段“你花我拦”的奇妙纠葛就此开启。从互相嫌弃的省钱搭子，到渐生情愫的打趣逗乐，再到因误解而生出的刺痛猜疑……这段“欠欠”又“暖暖”的感情又将走向怎样的结局？",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/ykT38Me2FXg2e6C1xxDWpXCKNpZ.jpg",
-      "posterPath": "/e8Vxgpke2CJlyaiN0Nmb0aUBNdY.jpg",
-      "rating": 1,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
-    },
-    {
       "id": 313369,
       "type": "tmdb",
       "title": "爱乐之城",
@@ -288,6 +275,19 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
+      "id": 1614368,
+      "type": "tmdb",
+      "title": "喜欢上“欠欠”的你",
+      "originalTitle": "喜欢上“欠欠”的你",
+      "description": "通过消费获取情绪满足的张若愚（秦霄贤 饰）遇上通过攒钱获取安全感的贾琼（王影璐 饰），一段“你花我拦”的奇妙纠葛就此开启。从互相嫌弃的省钱搭子，到渐生情愫的打趣逗乐，再到因误解而生出的刺痛猜疑……这段“欠欠”又“暖暖”的感情又将走向怎样的结局？",
+      "releaseDate": "2026-02-14",
+      "backdropPath": "/ykT38Me2FXg2e6C1xxDWpXCKNpZ.jpg",
+      "posterPath": "/e8Vxgpke2CJlyaiN0Nmb0aUBNdY.jpg",
+      "rating": 1,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
       "id": 83533,
       "type": "tmdb",
       "title": "阿凡达：火与烬",
@@ -296,7 +296,7 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.263,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -327,19 +327,6 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 1541976,
-      "type": "tmdb",
-      "title": "배달의 영웅 : 캐리와 슈퍼콜라 2",
-      "originalTitle": "배달의 영웅 : 캐리와 슈퍼콜라 2",
-      "description": "",
-      "releaseDate": "2025-10-03",
-      "backdropPath": "/nisRk0PfKd7oOSjYLasBFVkPKk5.jpg",
-      "posterPath": "/mDGf9SdJhU4K6gfYwIzYETHKiut.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
-    },
-    {
       "id": 485289,
       "type": "tmdb",
       "title": "重返·狼群",
@@ -351,6 +338,19 @@
       "rating": 6.333,
       "mediaType": "movie",
       "genreTitle": "纪录"
+    },
+    {
+      "id": 1541976,
+      "type": "tmdb",
+      "title": "배달의 영웅 : 캐리와 슈퍼콜라 2",
+      "originalTitle": "배달의 영웅 : 캐리와 슈퍼콜라 2",
+      "description": "",
+      "releaseDate": "2025-10-03",
+      "backdropPath": "/nisRk0PfKd7oOSjYLasBFVkPKk5.jpg",
+      "posterPath": "/mDGf9SdJhU4K6gfYwIzYETHKiut.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
     },
     {
       "id": 1089654,
@@ -379,17 +379,17 @@
       "genreTitle": "奇幻, 冒险"
     },
     {
-      "id": 559974,
+      "id": 1650358,
       "type": "tmdb",
-      "title": "拆弹专家2",
-      "originalTitle": "拆彈專家2",
-      "description": "香港某处发生爆炸案，前拆弹专家潘乘风因昏迷于现场，被警方怀疑牵涉其中。苏醒后的潘乘风记忆缺损，只能一边逃亡一边查明真相，然而，他的好友董卓文和他的前女友庞玲却给他讲述了一段截然不同的回忆。有计划的爆炸案接二连三发生，真相却越来越扑朔迷离。",
-      "releaseDate": "2020-12-24",
-      "backdropPath": "/nxXfBygLNR22bmcIHRqaf5dit1f.jpg",
-      "posterPath": "/ehUy4cqRy0xLRMq56maGVM8KeGq.jpg",
-      "rating": 7.1,
+      "title": "青云塔三姐妹",
+      "originalTitle": "青云塔三姐妹",
+      "description": "该片讲述三姐妹前往北京打拼事业，三人在不同职场环境中遭遇困境、历经挫折、获得成长，最后决定返乡创业的故事。",
+      "releaseDate": "2026-03-07",
+      "backdropPath": null,
+      "posterPath": "/vffVRRuGWHWPu3Jizr6Az7EzzdW.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
+      "genreTitle": "剧情"
     },
     {
       "id": 795607,
