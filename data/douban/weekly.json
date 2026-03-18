@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-17T20:26:15.358Z",
+  "time": "2026-03-18T20:23:35.172Z",
   "data": {
     "电影": [
       {
@@ -115,7 +115,7 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
         "posterPath": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-        "rating": 6.991,
+        "rating": 7,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -135,19 +135,6 @@
     ],
     "剧集·国内": [
       {
-        "id": 282558,
-        "type": "tmdb",
-        "title": "生命树",
-        "originalTitle": "生命树",
-        "description": "上世纪九十年代，青海高原上的拉曲县高度依赖农牧业，其周边的无人区博拉木拉富含矿产和野生动物资源，大量的盗猎盗采分子为牟取暴利滥采滥杀。拉曲县副县长多杰在县长林培生的支持下成立了巡山队，起初是为脱贫在无人区探矿，眼见藏羚羊被屠杀的惨状后，多杰将一切都倾注在环保上。而巡山队里的青年女警白菊成了多杰命定的变数，她是援藏医生张勤勤收养的遗孤，是白家敢闯敢拼的小女儿。枪法过人的白菊与巡山队队员们成了莫逆之交，与报社记者邵云飞相爱，众志成城以建立自然保护区，却在功成前夕经历了领袖多杰的失踪和巡山队的解散。十多年过去，博拉木拉重获宁静，煤矿盗采问题却让开发和环保的天平再次失衡，白菊与昔日爱人、旧友和手足家人重聚首，在新时代的环保路上一并追查着多杰失踪的真相，最终还英雄以清名，继续守护着青藏高原的绿水蓝天。",
-        "releaseDate": "2026-01-30",
-        "backdropPath": "/A0GTs2ESXdVFba0fcw4syEuNjJy.jpg",
-        "posterPath": "/ppFUg9nXeJ4FWj0HcuiIFLiJdAg.jpg",
-        "rating": 7.6,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 279446,
         "type": "tmdb",
         "title": "太平年",
@@ -157,32 +144,6 @@
         "backdropPath": "/c5mwcq4lvp96cHPgAWE1uxdwxkR.jpg",
         "posterPath": "/76gwCVQG1MoItK25o48opYP7TmG.jpg",
         "rating": 8.9,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 275631,
-        "type": "tmdb",
-        "title": "非常检控观",
-        "originalTitle": "非常檢控觀",
-        "description": "律政司高级助理刑事检控专员包希仁患有罕见的「镜反射触觉症」，具有极致同理心。他以还原案件100%真相为目标，致力让被告认罪，减少受害者面对冗长聆讯的痛苦。希仁与律政书记公孙珀、志同道合的高级督察展熊飞、曾是受害者的秦湘言、实习检控官赵子帧等人通力合作，伸张正义。众人遇到不少阻力，希仁甚至要与身为财团长女的母亲为敌、跟身为大律师的旧情人王颂星对垒……然而，希仁坚守信念，誓要还受害人一个真相和公道！",
-        "releaseDate": "2026-01-19",
-        "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
-        "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 259554,
-        "type": "tmdb",
-        "title": "夜色正浓",
-        "originalTitle": "夜色正浓",
-        "description": "一场盛宴之下的狂欢，让隐藏已久的暗涌浮现，唤醒了所有装睡的人，也触发了GST酒业各层人士的生存危机。一切事关生存，每一步都需格外谨慎。七个深陷其中的主要人物，在事件中扮演了不同的角色，勾勒出人性的复杂和现实的残酷，从而呈现出一个共同的主题——如何在惶惶不安中乐观地活下去！",
-        "releaseDate": "2026-01-28",
-        "backdropPath": "/emfrogWyGQNdQdnemu5dDnK7tIL.jpg",
-        "posterPath": "/sd3EIJZQzAvsU5CDroaL9QuIYBq.jpg",
-        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -213,6 +174,32 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 259554,
+        "type": "tmdb",
+        "title": "夜色正浓",
+        "originalTitle": "夜色正浓",
+        "description": "一场盛宴之下的狂欢，让隐藏已久的暗涌浮现，唤醒了所有装睡的人，也触发了GST酒业各层人士的生存危机。一切事关生存，每一步都需格外谨慎。七个深陷其中的主要人物，在事件中扮演了不同的角色，勾勒出人性的复杂和现实的残酷，从而呈现出一个共同的主题——如何在惶惶不安中乐观地活下去！",
+        "releaseDate": "2026-01-28",
+        "backdropPath": "/emfrogWyGQNdQdnemu5dDnK7tIL.jpg",
+        "posterPath": "/sd3EIJZQzAvsU5CDroaL9QuIYBq.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 275631,
+        "type": "tmdb",
+        "title": "非常检控观",
+        "originalTitle": "非常檢控觀",
+        "description": "律政司高级助理刑事检控专员包希仁患有罕见的「镜反射触觉症」，具有极致同理心。他以还原案件100%真相为目标，致力让被告认罪，减少受害者面对冗长聆讯的痛苦。希仁与律政书记公孙珀、志同道合的高级督察展熊飞、曾是受害者的秦湘言、实习检控官赵子帧等人通力合作，伸张正义。众人遇到不少阻力，希仁甚至要与身为财团长女的母亲为敌、跟身为大律师的旧情人王颂星对垒……然而，希仁坚守信念，誓要还受害人一个真相和公道！",
+        "releaseDate": "2026-01-19",
+        "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
+        "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 280632,
         "type": "tmdb",
         "title": "成何体统",
@@ -226,17 +213,17 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 278127,
+        "id": 273124,
         "type": "tmdb",
-        "title": "唐宫奇案之青雾风鸣",
-        "originalTitle": "唐宫奇案之青雾风鸣",
-        "description": "上元佳节，宁远公主在夜宴上离奇身亡，内谒局李佩仪和太史局太史丞萧怀瑾奉命调查。李佩仪武力顶尖又善洞悉人心，面冷心善一心索骥真相，查案对她来说不只是探究真相，更是与凶手的智斗和较量。在和思维缜密萧怀瑾的默契配合下，抽丝剥茧，通过跋扈的权贵之女和身负秘密的金吾卫羽林郎将，最终探明真相找出真凶。随后一系列错综复杂的发生在大唐内廷中的宫闱秘史、诡异奇案接踵而至：“壁上花”、“血色天资”、“吉时秘闻”、“七星错”等一桩桩牵扯出后宫各类女子命运的案件中，李萧二人探索大唐奇景，感受人间奇情，并在破案过程中，逐渐查清了十五年前李家灭门案背后的真相，最终揭露出幕后黑手的阴谋。李佩仪不仅为父亲洗脱冤屈，还在追寻真相的过程中，收获了并肩作伴的伙伴，得到了救赎！",
-        "releaseDate": "2026-02-05",
-        "backdropPath": "/u9AkHDe9oiw62hZ8muokTUWdB27.jpg",
-        "posterPath": "/t9uq0A7luhtnbzLcp0jCQu8f6Ii.jpg",
-        "rating": 7.7,
+        "title": "我的妈妈是校花",
+        "originalTitle": "我的妈妈是校花",
+        "description": "该剧改编自同名漫画《我的妈妈是校花》，讲述了大学生孔小灿（蒋龙 饰）得知妈妈孔桂芳（刘琳 饰）身患绝症后，毅然决然与外星人做交易，通过“生命能量”互换，让45岁的母亲重拾20岁孔桂芳（邓恩熙 饰）的青春容颜，开启崭新人生旅程的故事。",
+        "releaseDate": "2026-02-13",
+        "backdropPath": "/wgzEClTkLKxW1yD1tsOP74rNR9a.jpg",
+        "posterPath": "/22wUiGWk89Lmj2I5jHC2AOO4uLM.jpg",
+        "rating": 9,
         "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
+        "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
       {
         "id": 312725,
@@ -252,20 +239,72 @@
         "genreTitle": "喜剧, 悬疑"
       },
       {
-        "id": 273124,
+        "id": 278127,
         "type": "tmdb",
-        "title": "我的妈妈是校花",
-        "originalTitle": "我的妈妈是校花",
-        "description": "该剧改编自同名漫画《我的妈妈是校花》，讲述了大学生孔小灿（蒋龙 饰）得知妈妈孔桂芳（刘琳 饰）身患绝症后，毅然决然与外星人做交易，通过“生命能量”互换，让45岁的母亲重拾20岁孔桂芳（邓恩熙 饰）的青春容颜，开启崭新人生旅程的故事。",
-        "releaseDate": "2026-02-13",
-        "backdropPath": "/wgzEClTkLKxW1yD1tsOP74rNR9a.jpg",
-        "posterPath": "/22wUiGWk89Lmj2I5jHC2AOO4uLM.jpg",
-        "rating": 9,
+        "title": "唐宫奇案之青雾风鸣",
+        "originalTitle": "唐宫奇案之青雾风鸣",
+        "description": "上元佳节，宁远公主在夜宴上离奇身亡，内谒局李佩仪和太史局太史丞萧怀瑾奉命调查。李佩仪武力顶尖又善洞悉人心，面冷心善一心索骥真相，查案对她来说不只是探究真相，更是与凶手的智斗和较量。在和思维缜密萧怀瑾的默契配合下，抽丝剥茧，通过跋扈的权贵之女和身负秘密的金吾卫羽林郎将，最终探明真相找出真凶。随后一系列错综复杂的发生在大唐内廷中的宫闱秘史、诡异奇案接踵而至：“壁上花”、“血色天资”、“吉时秘闻”、“七星错”等一桩桩牵扯出后宫各类女子命运的案件中，李萧二人探索大唐奇景，感受人间奇情，并在破案过程中，逐渐查清了十五年前李家灭门案背后的真相，最终揭露出幕后黑手的阴谋。李佩仪不仅为父亲洗脱冤屈，还在追寻真相的过程中，收获了并肩作伴的伙伴，得到了救赎！",
+        "releaseDate": "2026-02-05",
+        "backdropPath": "/u9AkHDe9oiw62hZ8muokTUWdB27.jpg",
+        "posterPath": "/t9uq0A7luhtnbzLcp0jCQu8f6Ii.jpg",
+        "rating": 6.8,
         "mediaType": "tv",
-        "genreTitle": "喜剧, Sci-Fi & Fantasy"
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 278882,
+        "type": "tmdb",
+        "title": "年少有为",
+        "originalTitle": "年少有为",
+        "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
+        "releaseDate": "2026-01-31",
+        "backdropPath": "/s78UEFOxRRFlM7B0cP0JVkJKW7s.jpg",
+        "posterPath": "/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
+        "rating": 8.8,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
       }
     ],
     "剧集·国外": [
+      {
+        "id": 93166,
+        "type": "tmdb",
+        "title": "真相捕捉",
+        "originalTitle": "The Capture",
+        "description": "新一季将延续第二季的故事，自Rachel Carey（荷丽黛·格兰杰 饰）在全国直播中揭露一段伪造的政府部长视频、暴露情报机构秘密操作项目“修正”以来，已过去一年。在对“修正”计划非法使用的调查期间，Carey成为SO15反恐指挥部的代理负责人，试图通过全新的“真相行动”摄像系统重建公众对监控技术的信任。然而，一场精心策划、极其残忍的恐怖袭击突然爆发，直击英国权力核心，仅留下一位目击者。随着Carey深入调查，她被卷入一场不断扩大的地缘政治危机之中，这场危机渗透至英国政坛、安全机构乃至媒体界。一场巨大的阴谋正悄然展开，但幕后黑手究竟是谁？",
+        "releaseDate": "2026-03-08",
+        "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
+        "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
+        "rating": 4.2,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 剧情"
+      },
+      {
+        "id": 111110,
+        "type": "tmdb",
+        "title": "ONE PIECE",
+        "originalTitle": "ONE PIECE",
+        "description": "在罗格镇的风暴中死里逃生后，蒙奇·D·路飞率领草帽一伙正式跨越“颠倒山”，驶入被称为“海贼坟场”的伟大航路。本季聚焦于这支年轻船队在极端自然环境与多方势力博弈下的生存挑战：他们意外救助了身负复国重任的薇薇公主，并决定护送其横跨危机四伏的海域。从神秘的威士忌山峰到充满远古气息的小花园，路飞不仅要带领船员对抗如影随行的巴洛克工作室特工，更要在巨人族传承百年的荣誉决斗中领悟牺牲的真谛。在严寒的磁鼓岛，面对伙伴病重的紧急关头，他们邂逅了背负悲剧过往的天才医生乔巴，并共同卷入了一场关于医疗伦理与暴政对抗的冬岛起义。随着航程向沙漠王国阿拉巴斯坦步步逼近，这群追梦者正逐渐意识到，想要在伟大航路立足，除了热血，更需要面对权力阴谋与人性灰暗的决绝意志。",
+        "releaseDate": "2026-03-10",
+        "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+        "posterPath": "/nSHBJp1ulPxdp7vtUTrhoXjZjfb.jpg",
+        "rating": 6.6,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 303724,
+        "type": "tmdb",
+        "title": "心动代码",
+        "originalTitle": "สืบลับจับใจ",
+        "description": "",
+        "releaseDate": "2026-02-12",
+        "backdropPath": "/sPXZ3of4Lf1D1LXY0PUI1RpsYo6.jpg",
+        "posterPath": "/jQvrRQgHpGqUCc5oT3GxSfvDWqO.jpg",
+        "rating": 8.4,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 动作冒险"
+      },
       {
         "id": 224372,
         "type": "tmdb",
@@ -275,7 +314,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.458,
+        "rating": 8.459,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -293,19 +332,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 305986,
-        "type": "tmdb",
-        "title": "钟表馆事件",
-        "originalTitle": "時計館の殺人",
-        "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
-        "releaseDate": "2026-02-27",
-        "backdropPath": "/8H0UU19gWdlumau0CsajTuMcroN.jpg",
-        "posterPath": "/5oWf1afgT21KVi2B5vhBlTxR9vv.jpg",
-        "rating": 8.5,
-        "mediaType": "tv",
-        "genreTitle": ""
-      },
-      {
         "id": 201834,
         "type": "tmdb",
         "title": "泰迪熊",
@@ -315,6 +341,19 @@
         "backdropPath": "/xaiKpxuf9YGuTsqpdK5HSbD8M8f.jpg",
         "posterPath": "/7I1qtZbsU4Tuklef5SHjmFjrHEP.jpg",
         "rating": 8.1,
+        "mediaType": "tv",
+        "genreTitle": "喜剧"
+      },
+      {
+        "id": 313902,
+        "type": "tmdb",
+        "title": "被女孩子逆推不行吗？",
+        "originalTitle": "女の子が抱いちゃダメですか？",
+        "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
+        "releaseDate": "2026-03-06",
+        "backdropPath": "/tZ7XJ4ORrBbZf8AJquw1cS0XVpY.jpg",
+        "posterPath": "/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
+        "rating": 0,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
@@ -332,6 +371,19 @@
         "genreTitle": "悬疑, 剧情"
       },
       {
+        "id": 313298,
+        "type": "tmdb",
+        "title": "恐龙时代：你不知道的故事",
+        "originalTitle": "The Dinosaurs",
+        "description": "从最早到最后的恐龙，这部史诗级纪录片剧集深入探索了它们在地球上长达 1.65 亿年的历程及其进化的动力。",
+        "releaseDate": "2026-03-06",
+        "backdropPath": "/8X2R9uLys3SmkRuQAmSI96xxJAF.jpg",
+        "posterPath": "/2PqiAWN4VEFZ6yYeUVxP202opTr.jpg",
+        "rating": 7.9,
+        "mediaType": "tv",
+        "genreTitle": "纪录"
+      },
+      {
         "id": 281016,
         "type": "tmdb",
         "title": "订阅男友",
@@ -340,61 +392,9 @@
         "releaseDate": "2026-03-06",
         "backdropPath": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
         "posterPath": "/eKXpgaizikUIRuHs84THxoLvpCK.jpg",
-        "rating": 8.48,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 273977,
-        "type": "tmdb",
-        "title": "莎拉的真伪人生",
-        "originalTitle": "레이디 두아",
-        "description": "金莎拉憧憬打造奢华的形象，即使满口谎言也在所不惜；刑警朴雾炅则锲而不舍地追寻真相，准备拆穿她的假面具。",
-        "releaseDate": "2026-02-13",
-        "backdropPath": "/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
-        "posterPath": "/uscHW6nzmnd9gLyWbDWUUot1wcZ.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 悬疑"
-      },
-      {
-        "id": 131142,
-        "type": "tmdb",
-        "title": "爱情故事：小约翰·肯尼迪与卡罗琳·贝塞特",
-        "originalTitle": "Love Story",
-        "description": "一部收录了众多轰动一时的真实爱情故事的合集，这些故事曾引起全世界的关注。",
-        "releaseDate": "2026-02-12",
-        "backdropPath": "/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
-        "posterPath": "/vn7GUb30iI6hj1O1sRJkJlEP8K7.jpg",
-        "rating": 8.673,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 293608,
-        "type": "tmdb",
-        "title": "卧底洪小姐",
-        "originalTitle": "Undercover miss Hong",
-        "description": "因IMF而混乱的90年代末，锲而不舍的调查员洪金宝（朴信惠 饰）利用天生的\"童颜外貌\"潜入一间证券公司，准备揭发贪腐情事，没想到新上任的代表竟是自己的前男友申正宇（高庚杓 饰），这场任务开始节外生枝。",
-        "releaseDate": "2026-01-17",
-        "backdropPath": "/awldlWlTkCeuohxZMGKhQwyydGA.jpg",
-        "posterPath": "/nJ0gSaXfoiPFngy1ulCCuxsKt0q.jpg",
-        "rating": 8.25,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 喜剧"
-      },
-      {
-        "id": 233079,
-        "type": "tmdb",
-        "title": "如何从贝尔法斯特去天堂",
-        "originalTitle": "How to Get to Heaven from Belfast",
-        "description": "三个一生的挚友踏上乱糟糟的旅程，试图揭开一位老朋友的死亡之谜，同时隐瞒自己的黑暗秘密。",
-        "releaseDate": "2026-02-12",
-        "backdropPath": "/lkmGrZXASDPwXyWf4p8GG83dw5N.jpg",
-        "posterPath": "/rjMxWVXM4ckAcaNQMh3ovkyxHwD.jpg",
-        "rating": 7.109,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 喜剧"
       }
     ]
   }
