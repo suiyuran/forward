@@ -131,13 +131,15 @@ export async function getDoubanMatchedTMDBResult(
         console.log(`    TMDB ID: ${onlyResult.id}`);
         return onlyResult;
       }
-      const details = await getTMDBTVSeriesDetails(onlyResult.id);
-      const season = details.seasons.find((s) => s.releaseDate === releaseDate);
+      if (type === "tv") {
+        const details = await getTMDBTVSeriesDetails(onlyResult.id);
+        const season = details.seasons.find((s) => s.releaseDate === releaseDate);
 
-      if (season) {
-        console.log(`    TMDB ID: ${onlyResult.id}`);
-        const { seasonNumber: _, ...seasonWithoutNumber } = season;
-        return { ...onlyResult, ...seasonWithoutNumber };
+        if (season) {
+          console.log(`    TMDB ID: ${onlyResult.id}`);
+          const { seasonNumber: _, ...seasonWithoutNumber } = season;
+          return { ...onlyResult, ...seasonWithoutNumber };
+        }
       }
     }
   } else {
