@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-18T20:23:35.172Z",
+  "time": "2026-03-19T20:23:59.913Z",
   "data": {
     "电影": [
       {
@@ -115,7 +115,7 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
         "posterPath": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-        "rating": 7,
+        "rating": 6.9,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-02-19",
         "backdropPath": "/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
         "posterPath": "/urMjy6nS4xzIZIlXxiejh3xXPts.jpg",
-        "rating": 6.796,
+        "rating": 6.768,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       }
@@ -207,8 +207,8 @@
         "description": "讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
         "releaseDate": "2026-02-06",
         "backdropPath": "/myJLWz2Rk0e8YHSSw3caCrOEETT.jpg",
-        "posterPath": "/prP2NN1JJVTmS1cJNhl8zdya64y.jpg",
-        "rating": 8.5,
+        "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
+        "rating": 8.462,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
         "posterPath": "/nSHBJp1ulPxdp7vtUTrhoXjZjfb.jpg",
-        "rating": 6.6,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.459,
+        "rating": 8.46,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-03-06",
         "backdropPath": "/8X2R9uLys3SmkRuQAmSI96xxJAF.jpg",
         "posterPath": "/2PqiAWN4VEFZ6yYeUVxP202opTr.jpg",
-        "rating": 7.9,
+        "rating": 7.913,
         "mediaType": "tv",
         "genreTitle": "纪录"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-03-06",
         "backdropPath": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
         "posterPath": "/eKXpgaizikUIRuHs84THxoLvpCK.jpg",
-        "rating": 8.5,
+        "rating": 8.539,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       }
