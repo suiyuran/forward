@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-19T17:53:47.569Z",
+  "time": "2026-03-20T17:37:32.462Z",
   "data": [
     {
       "id": 1316092,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.349,
+      "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -23,22 +23,9 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/bdjbTVK55RSBq4jNEdifcIBlSI3.jpg",
-      "rating": 8.403,
+      "rating": 8.316,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 1357815,
-      "type": "tmdb",
-      "title": "时间旅馆",
-      "originalTitle": "时间旅馆",
-      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
-      "releaseDate": "2026-03-20",
-      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
-      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1454209,
@@ -54,6 +41,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1327819,
+      "type": "tmdb",
+      "title": "河狸变身计划",
+      "originalTitle": "Hoppers",
+      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
+      "releaseDate": "2026-03-04",
+      "backdropPath": "/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
+      "posterPath": "/7iPj1Bj03lX1RJaVdRmKs5N7Nrz.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
       "id": 1171145,
       "type": "tmdb",
       "title": "洛杉矶劫案",
@@ -62,22 +62,9 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
       "posterPath": "/cMilCixwsrrTmAjYGP6OQvSMVaU.jpg",
-      "rating": 7,
+      "rating": 7.022,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
-    },
-    {
-      "id": 1297842,
-      "type": "tmdb",
-      "title": "奇迹梦之队",
-      "originalTitle": "GOAT",
-      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
-      "posterPath": "/vEgqZxbDavexla2Trjg9emiiMn6.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1317288,
@@ -93,17 +80,17 @@
       "genreTitle": "剧情, 惊悚"
     },
     {
-      "id": 1327819,
+      "id": 1297842,
       "type": "tmdb",
-      "title": "河狸变身计划",
-      "originalTitle": "Hoppers",
-      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
-      "releaseDate": "2026-03-04",
-      "backdropPath": "/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
-      "posterPath": "/7iPj1Bj03lX1RJaVdRmKs5N7Nrz.jpg",
-      "rating": 7.7,
+      "title": "奇迹梦之队",
+      "originalTitle": "GOAT",
+      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
+      "posterPath": "/vEgqZxbDavexla2Trjg9emiiMn6.jpg",
+      "rating": 7.5,
       "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1650257,
@@ -119,6 +106,19 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
+      "id": 1602727,
+      "type": "tmdb",
+      "title": "夜王",
+      "originalTitle": "夜王",
+      "description": "2012年，昔日风光一时的东日夜总会被收购，在尖东打滚数十年的大经理欢哥（黄子华 饰）面临时代转变的挑战。公司新任CEO竟是欢哥狠辣的前妻V姐（郑秀文 饰），强迫欢哥及众女公关转型，业绩渐有起色。怎料背后原来是大财团的操控游戏，东日随时关灯不保。为了保住东日，欢哥及V姐联手，誓要与众女公关作最后反扑，企硬尖东！",
+      "releaseDate": "2026-02-14",
+      "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
+      "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
       "id": 1305781,
       "type": "tmdb",
       "title": "镖人：风起大漠",
@@ -127,7 +127,7 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
       "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-      "rating": 7.367,
+      "rating": 7.226,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -145,17 +145,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1602727,
+      "id": 682012,
       "type": "tmdb",
-      "title": "夜王",
-      "originalTitle": "夜王",
-      "description": "2012年，昔日风光一时的东日夜总会被收购，在尖东打滚数十年的大经理欢哥（黄子华 饰）面临时代转变的挑战。公司新任CEO竟是欢哥狠辣的前妻V姐（郑秀文 饰），强迫欢哥及众女公关转型，业绩渐有起色。怎料背后原来是大财团的操控游戏，东日随时关灯不保。为了保住东日，欢哥及V姐联手，誓要与众女公关作最后反扑，企硬尖东！",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
-      "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
-      "rating": 7.5,
+      "title": "你好，爱美丽",
+      "originalTitle": "Amélie et la métaphysique des tubes",
+      "description": "对于爱美丽来说，世界是一个令人困惑又安宁的谜团，直到一次与巧克力的奇妙邂逅点燃了她强烈的好奇心。随着她对家中女佣西尾小姐产生深厚依恋，爱美丽不仅发现了大自然的奇迹，也窥见了这个外国人家庭在战后日本田园诗般生活表象之下隐藏的情感真相。",
+      "releaseDate": "2025-06-25",
+      "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
+      "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
+      "rating": 8,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "动画, 剧情"
     },
     {
       "id": 1462229,
@@ -169,19 +169,6 @@
       "rating": 7.125,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 682012,
-      "type": "tmdb",
-      "title": "你好，爱美丽",
-      "originalTitle": "Amélie et la métaphysique des tubes",
-      "description": "对于爱美丽来说，世界是一个令人困惑又安宁的谜团，直到一次与巧克力的奇妙邂逅点燃了她强烈的好奇心。随着她对家中女佣西尾小姐产生深厚依恋，爱美丽不仅发现了大自然的奇迹，也窥见了这个外国人家庭在战后日本田园诗般生活表象之下隐藏的情感真相。",
-      "releaseDate": "2025-06-25",
-      "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
-      "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "动画, 剧情"
     },
     {
       "id": 1447971,
@@ -205,9 +192,22 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
       "posterPath": "/1pZ3BK2tdODT3cv0SAhXu9VPJSk.jpg",
-      "rating": 6.3,
+      "rating": 6.304,
       "mediaType": "movie",
       "genreTitle": "科幻, 恐怖"
+    },
+    {
+      "id": 1357815,
+      "type": "tmdb",
+      "title": "时间旅馆",
+      "originalTitle": "时间旅馆",
+      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
+      "releaseDate": "2026-03-20",
+      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
+      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1421552,
@@ -223,6 +223,19 @@
       "genreTitle": "喜剧, 动作"
     },
     {
+      "id": 1607088,
+      "type": "tmdb",
+      "title": "熊出没·年年有熊",
+      "originalTitle": "熊出没·年年有熊",
+      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
+      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 奇幻"
+    },
+    {
       "id": 1618784,
       "type": "tmdb",
       "title": "东北警察故事3",
@@ -234,58 +247,6 @@
       "rating": 6.364,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 1607088,
-      "type": "tmdb",
-      "title": "熊出没·年年有熊",
-      "originalTitle": "熊出没·年年有熊",
-      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
-      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
-      "rating": 4,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 奇幻"
-    },
-    {
-      "id": 1236153,
-      "type": "tmdb",
-      "title": "极限审判",
-      "originalTitle": "Mercy",
-      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
-      "releaseDate": "2026-01-20",
-      "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
-      "posterPath": "/fq2AqiarysK2Swl7SUQxVMyofh2.jpg",
-      "rating": 7.078,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
-    },
-    {
-      "id": 694,
-      "type": "tmdb",
-      "title": "闪灵",
-      "originalTitle": "The Shining",
-      "description": "杰克是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂就发现这里气氛诡异，杰克的儿子丹尼经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
-      "releaseDate": "1980-05-23",
-      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
-      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.2,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1650266,
-      "type": "tmdb",
-      "title": "神头岭1938",
-      "originalTitle": "神头岭1938",
-      "description": "电影围绕主角靳万福展开，以“神头岭伏击战”为蓝本，再现那段波澜壮阔的抗战历史，将对深入挖掘革命老区红色资源，激励广大人民群众从红色资源中汲取精神滋养和前进力量起到积极的推动作用。",
-      "releaseDate": "2026-03-13",
-      "backdropPath": "/pLGkR6RjyD5ezoOTTmq3aNlcVBK.jpg",
-      "posterPath": "/q7yOS4mNBQQ4eTziZaW1EdUFZIE.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 历史"
     },
     {
       "id": 455714,
@@ -301,6 +262,45 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
+      "id": 694,
+      "type": "tmdb",
+      "title": "闪灵",
+      "originalTitle": "The Shining",
+      "description": "杰克是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂就发现这里气氛诡异，杰克的儿子丹尼经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
+      "releaseDate": "1980-05-23",
+      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
+      "rating": 8.205,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1236153,
+      "type": "tmdb",
+      "title": "极限审判",
+      "originalTitle": "Mercy",
+      "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
+      "releaseDate": "2026-01-20",
+      "backdropPath": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
+      "posterPath": "/fq2AqiarysK2Swl7SUQxVMyofh2.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1650266,
+      "type": "tmdb",
+      "title": "神头岭1938",
+      "originalTitle": "神头岭1938",
+      "description": "电影围绕主角靳万福展开，以“神头岭伏击战”为蓝本，再现那段波澜壮阔的抗战历史，将对深入挖掘革命老区红色资源，激励广大人民群众从红色资源中汲取精神滋养和前进力量起到积极的推动作用。",
+      "releaseDate": "2026-03-13",
+      "backdropPath": "/pLGkR6RjyD5ezoOTTmq3aNlcVBK.jpg",
+      "posterPath": "/q7yOS4mNBQQ4eTziZaW1EdUFZIE.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 历史"
+    },
+    {
       "id": 1084242,
       "type": "tmdb",
       "title": "疯狂动物城2",
@@ -309,22 +309,9 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
       "posterPath": "/8dUcTbuYgqUd3Yp88zA7x6w3Zrm.jpg",
-      "rating": 7.605,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 680493,
-      "type": "tmdb",
-      "title": "重返寂静岭",
-      "originalTitle": "Return to Silent Hill",
-      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
-      "releaseDate": "2026-01-21",
-      "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
-      "posterPath": "/bgrECjDxdlO5vjxQZynuDZ0QobA.jpg",
-      "rating": 5.029,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 剧情"
     },
     {
       "id": 313369,
@@ -335,9 +322,22 @@
       "releaseDate": "2016-12-01",
       "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
       "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.898,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 680493,
+      "type": "tmdb",
+      "title": "重返寂静岭",
+      "originalTitle": "Return to Silent Hill",
+      "description": "James在与爱人分开后伤心欲绝，而此时，他被一封神秘的信件召唤回了寂静岭去寻找她，却发现自己曾经熟悉的小镇已经被未知的邪恶占据。面对着各种熟悉和陌生的可怕人事物，James开始质疑自己的理智和对现实的认知，但他必须坚持下去，拯救自己失落的爱人。",
+      "releaseDate": "2026-01-21",
+      "backdropPath": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+      "posterPath": "/bgrECjDxdlO5vjxQZynuDZ0QobA.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 剧情"
     },
     {
       "id": 1614368,
@@ -361,9 +361,22 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.26,
+      "rating": 7.261,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
+    },
+    {
+      "id": 1294706,
+      "type": "tmdb",
+      "title": "巴黎夏日",
+      "originalTitle": "Le Rendez-vous de l'été",
+      "description": "2024年巴黎奥运会期间，30岁的布兰丁（ 布兰迪尼·马德克 饰）专程从诺曼底赶来观看游泳赛事。这座城市的繁华与快节奏让她感到无所适从，仿佛所有事情都在与她作对。在巴黎的喧嚣中穿行时，她意外地迎来了一次久别重逢。",
+      "releaseDate": "2025-06-11",
+      "backdropPath": "/iRAQwlMZ5L2TfQ4kx0YUg69VEdW.jpg",
+      "posterPath": "/vot22JtGpSEVeXbCV77mtWbjxei.jpg",
+      "rating": 6.3,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1632606,
@@ -377,6 +390,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1294698,
+      "type": "tmdb",
+      "title": "137号案件",
+      "originalTitle": "Dossier 137",
+      "description": "对于斯特凡妮（Stéphanie）——法国国家警察总督察署（IGPN，即监管警察的机构）的一名调查员来说，第137号案件起初似乎只是又一个普通案件。然而，一个意外因素将困扰斯特凡妮，并使这个案件从一个简单的编号演变为更具深意的存在。",
+      "releaseDate": "2025-11-19",
+      "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
+      "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 剧情"
     },
     {
       "id": 485289,
@@ -418,6 +444,58 @@
       "genreTitle": "动画, 历史"
     },
     {
+      "id": 1290436,
+      "type": "tmdb",
+      "title": "Ma frère",
+      "originalTitle": "Ma frère",
+      "description": "",
+      "releaseDate": "2026-01-07",
+      "backdropPath": "/7kqzjKKFLvOEMAkWjjpihScZSe2.jpg",
+      "posterPath": "/j4p4TaoK4LrlLgCK0m0pBUT5CcB.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
+    },
+    {
+      "id": 52628,
+      "type": "tmdb",
+      "title": "枕边的男人",
+      "originalTitle": "L'Homme de Chevet",
+      "description": "雷奥（克里斯多弗·兰伯特 Christopher Lambert 饰）曾经是一名出尽风头的拳击手，退役后来到加勒比海边的小城卡塔赫纳定居。然而告别了辉煌的职业生涯，他突然对生活茫然无措，只终日混迹酒吧颓废度日。直到有一天，他迫于生计应聘了一个护工工作，负责照看一个因车祸导致全身瘫痪的女人莫伊尔（苏菲·玛索 Sophie Marceau 饰）。曾经干练好胜的女强人莫伊尔，自从车祸无情地夺走她的行动能力后，似乎也夺走了她全部的生机，虽家赀巨万，她却再也无法感受到昨日春光，温柔海浪。仿佛被生活掏空的莫伊尔只能天天躺着消磨余下岁月，并对雷奥的照顾吹毛求疵。然而，两个灵魂在摩擦的同时似乎也在磨合，渐渐地，雷奥不仅没被莫伊尔的挑剔吓跑，反而重新找回了生活的魅力，而一天清晨，莫伊尔竟也从雷奥的鼾声中又一次触碰到了生命的意义……",
+      "releaseDate": "2009-11-18",
+      "backdropPath": "/yKS1FhezmyFsrAGe6g5wK1L7aSD.jpg",
+      "posterPath": "/ynUhEYaAWuJ0UPIrsIQ8nIKEveW.jpg",
+      "rating": 5.594,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1532477,
+      "type": "tmdb",
+      "title": "En nous",
+      "originalTitle": "En nous",
+      "description": "",
+      "releaseDate": "2025-09-19",
+      "backdropPath": "/4J4OlqCWFF6b9F4HuMxWmWlneBF.jpg",
+      "posterPath": "/brmX2NEBDcfmR3t4CW2JzlY9fWU.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1313229,
+      "type": "tmdb",
+      "title": "尼诺",
+      "originalTitle": "Nino",
+      "description": "距离人生重大考验只剩三天，尼诺却要先完成医生布置的两项关乎存亡的使命。这场穿越巴黎的救赎之旅，迫使他重新系紧与世界的羁绊，更要直面内心深渊。",
+      "releaseDate": "2025-09-17",
+      "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
+      "posterPath": "/7RaBzFvNuzeYPaBwblu3sV4TVol.jpg",
+      "rating": 7.12,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 10191,
       "type": "tmdb",
       "title": "驯龙高手",
@@ -431,17 +509,69 @@
       "genreTitle": "奇幻, 冒险"
     },
     {
-      "id": 1650358,
+      "id": 1313144,
       "type": "tmdb",
-      "title": "青云塔三姐妹",
-      "originalTitle": "青云塔三姐妹",
-      "description": "该片讲述三姐妹前往北京打拼事业，三人在不同职场环境中遭遇困境、历经挫折、获得成长，最后决定返乡创业的故事。",
-      "releaseDate": "2026-03-07",
-      "backdropPath": null,
-      "posterPath": "/vffVRRuGWHWPu3Jizr6Az7EzzdW.jpg",
-      "rating": 0,
+      "title": "钢琴事故",
+      "originalTitle": "L'Accident de piano",
+      "description": "玛佳莉体质特异，不但感受不到痛觉，受伤更能快速痊愈。她利用这项天赋来拍摄网络短片，从被刀砍、被火烧，逐步升级成被拳击手暴揍、被大卡车辗过，人体奇观吸引巨量粉丝，短短数年内跃身顶级网红。好不容易想到全新刺激噱头，一场无法挽回的钢琴意外，却让她的网红之路面临空前危机，更被迫接受一名资深记者的灵魂拷问⋯⋯",
+      "releaseDate": "2025-07-02",
+      "backdropPath": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
+      "posterPath": "/euF099slkcbX6CoYvUvfIp0uHdP.jpg",
+      "rating": 6.244,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
+    },
+    {
+      "id": 587391,
+      "type": "tmdb",
+      "title": "花园编舟记",
+      "originalTitle": "Slocum et moi",
+      "description": "",
+      "releaseDate": "2025-01-29",
+      "backdropPath": "/nWczpYTDQMcC49E26BpQS59OqHU.jpg",
+      "posterPath": "/lpJBdc1yTRvcfKpbQbLHWwSpgHV.jpg",
+      "rating": 6.3,
+      "mediaType": "movie",
+      "genreTitle": "动画, 剧情"
+    },
+    {
+      "id": 1001434,
+      "type": "tmdb",
+      "title": "我这一辈子",
+      "originalTitle": "Ma vie Ma gueule",
+      "description": "",
+      "releaseDate": "2024-09-18",
+      "backdropPath": "/nAdT75EE7I6IzOSUwChnlYpT5Or.jpg",
+      "posterPath": "/iUssfYUO82DRcnFhDIQY6abhOWf.jpg",
+      "rating": 5.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1020829,
+      "type": "tmdb",
+      "title": "狐步",
+      "originalTitle": "La Danse des renards",
+      "description": "在一所体育专科寄宿学校里，年轻的拳击新星卡米尔刚夺得法国冠军头衔，却在一次致命事故中被挚友马泰奥惊险救下。随着焦虑逐渐侵蚀内心，他开始质疑自己对拳击的热爱，以及与马泰奥的亲密友谊。",
+      "releaseDate": "2026-03-18",
+      "backdropPath": "/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg",
+      "posterPath": "/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 168259,
+      "type": "tmdb",
+      "title": "速度与激情7",
+      "originalTitle": "Furious 7",
+      "description": "经历了紧张刺激的伦敦大战，多米尼克·托莱多（范·迪塞尔 Vin Diesel 饰）和他的伙伴们重新回归平静的生活，但是江湖的恩恩怨怨却决不允许他们轻易抽身而去。棘手的死对头欧文·肖瘫在医院，不得动弹，他的哥哥戴克·肖（杰森·斯坦森 Jason Stantham 饰）则发誓要为弟弟复仇。戴克曾是英国特种部队的王牌杀手，不仅身怀绝技，而且心狠手辣。他干掉了远在东京的韩，还几乎把探长卢克·霍布斯（道恩·强森 Dwayne Johnson 饰）送到另一个世界，甚至多米尼克那世外桃源般的家也被对方炸毁。复仇的利刃已经架在脖子上，多米尼克再也没有选择，他找到长久以来最为信赖的团队，与来势汹汹的戴克展开生死对决……",
+      "releaseDate": "2015-04-01",
+      "backdropPath": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+      "posterPath": "/pJkdjrBbZd4C83JJDgB1tMqyWsu.jpg",
+      "rating": 7.219,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 795607,
@@ -483,6 +613,19 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 1599013,
+      "type": "tmdb",
+      "title": "情缘曹雪芹",
+      "originalTitle": "情缘曹雪芹",
+      "description": "影片聚焦于文学巨匠曹雪芹丰富而深邃的情感世界，从其生命经历中撷取动人篇章。电影不仅通过曹雪芹与生命中三位重要女性——芳青、荷香、云妹的动人情感交织，细腻展现了他的深情与胸怀；也刻画了他与敦诚、敦敏、于景廉、徐环等友人之间真挚而深刻的友谊。这些源自现实生活的深切关怀与命运共鸣，最终凝聚为他“为闺阁增光”的宏大志向，成为其呕心沥血创作《红楼梦》的初心与动力，生动诠释了一种超越个人情爱、为天下女子立传的“大情大爱”。",
+      "releaseDate": "2026-01-16",
+      "backdropPath": "/vOb07QqTkMroELd5VmtuCS6d4v8.jpg",
+      "posterPath": "/pBhRGhbgkVOgk5FF4o7u26ntxE5.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
       "id": 1002640,
       "type": "tmdb",
       "title": "Secrets of the Sea",
@@ -496,32 +639,6 @@
       "genreTitle": ""
     },
     {
-      "id": 1593221,
-      "type": "tmdb",
-      "title": "宇宙护卫队：百变流星",
-      "originalTitle": "宇宙护卫队：百变流星",
-      "description": "达尔文星球的晴天霹雳解封曾企图占领地球的恐龙三人组，组成超甲恐龙队，从赤道的热带雨林开始冰冻地球。护卫队收到总部指示，阻止超甲恐龙队。关键时刻，队员流星又遇到了困境，这次他能拯救同伴，保护地球吗？",
-      "releaseDate": "2026-01-24",
-      "backdropPath": "/dyJZF6h4sTjKgK2SxDTTjhAUpA1.jpg",
-      "posterPath": "/fu0gDFPZfgJJ4G3nMISiMmEOXe2.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 科幻"
-    },
-    {
-      "id": 1532477,
-      "type": "tmdb",
-      "title": "En nous",
-      "originalTitle": "En nous",
-      "description": "",
-      "releaseDate": "2025-09-19",
-      "backdropPath": "/4J4OlqCWFF6b9F4HuMxWmWlneBF.jpg",
-      "posterPath": "/brmX2NEBDcfmR3t4CW2JzlY9fWU.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 876907,
       "type": "tmdb",
       "title": "没问题",
@@ -533,19 +650,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 1599013,
-      "type": "tmdb",
-      "title": "情缘曹雪芹",
-      "originalTitle": "情缘曹雪芹",
-      "description": "影片聚焦于文学巨匠曹雪芹丰富而深邃的情感世界，从其生命经历中撷取动人篇章。电影不仅通过曹雪芹与生命中三位重要女性——芳青、荷香、云妹的动人情感交织，细腻展现了他的深情与胸怀；也刻画了他与敦诚、敦敏、于景廉、徐环等友人之间真挚而深刻的友谊。这些源自现实生活的深切关怀与命运共鸣，最终凝聚为他“为闺阁增光”的宏大志向，成为其呕心沥血创作《红楼梦》的初心与动力，生动诠释了一种超越个人情爱、为天下女子立传的“大情大爱”。",
-      "releaseDate": "2026-01-16",
-      "backdropPath": "/vOb07QqTkMroELd5VmtuCS6d4v8.jpg",
-      "posterPath": "/pBhRGhbgkVOgk5FF4o7u26ntxE5.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     }
   ]
 }
