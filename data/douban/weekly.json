@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-21T20:12:23.259Z",
+  "time": "2026-03-22T20:12:42.473Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
         "posterPath": "/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
-        "rating": 7.6,
+        "rating": 7.54,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
         "posterPath": "/yeHm0aIsAMFt0E8b12KhJ70wQKF.jpg",
-        "rating": 0,
+        "rating": 6.854,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-12-10",
         "backdropPath": "/icKqDHdwMjwC15OJSYNjeGCWttO.jpg",
         "posterPath": "/4F3lAOngHzNZtXiJ4zSB0CqXOZ.jpg",
-        "rating": 6.2,
+        "rating": 6.357,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-02-11",
         "backdropPath": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
         "posterPath": "/cMilCixwsrrTmAjYGP6OQvSMVaU.jpg",
-        "rating": 7,
+        "rating": 7.02,
         "mediaType": "movie",
         "genreTitle": "犯罪, 惊悚"
       },
@@ -113,9 +113,9 @@
         "originalTitle": "Peaky Blinders: The Immortal Man",
         "description": "1940年的伯明翰，在第二次世界大战的混乱中，因疏远已久的儿子卷入一场纳粹阴谋，已离开江湖的黑帮老大托马斯·谢尔比不得不重返伯明翰，拯救家人和国家。",
         "releaseDate": "2026-03-05",
-        "backdropPath": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+        "backdropPath": "/aouxo2EaR7QSGBBUNTITuW0lj4z.jpg",
         "posterPath": "/r1QSrP7xTqA4roGeAUt8a3Gwiy4.jpg",
-        "rating": 7.116,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2025-11-15",
         "backdropPath": "/af7mgiKiFRdlsv01F18AP5rHEz6.jpg",
         "posterPath": "/qurd8tG5E2T20QihO0ysaJCzAjL.jpg",
-        "rating": 5.167,
+        "rating": 5.143,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       }
@@ -275,7 +275,7 @@
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
         "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
-        "rating": 4.2,
+        "rating": 3.8,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
         "posterPath": "/nSHBJp1ulPxdp7vtUTrhoXjZjfb.jpg",
-        "rating": 6.8,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.47,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 7.2,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-02-20",
         "backdropPath": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
         "posterPath": "/ad1BV4FnSxpo54TQnVYhhDaoGgK.jpg",
-        "rating": 8.286,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-03-06",
         "backdropPath": "/8X2R9uLys3SmkRuQAmSI96xxJAF.jpg",
         "posterPath": "/2PqiAWN4VEFZ6yYeUVxP202opTr.jpg",
-        "rating": 8,
+        "rating": 7.941,
         "mediaType": "tv",
         "genreTitle": "纪录"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-03-06",
         "backdropPath": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
         "posterPath": "/eKXpgaizikUIRuHs84THxoLvpCK.jpg",
-        "rating": 8.5,
+        "rating": 8.508,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       }
