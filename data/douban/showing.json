@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-22T17:28:47.064Z",
+  "time": "2026-03-23T17:53:20.630Z",
   "data": [
     {
       "id": 687163,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/bdjbTVK55RSBq4jNEdifcIBlSI3.jpg",
-      "rating": 8.274,
+      "rating": 8.246,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -21,9 +21,9 @@
       "originalTitle": "Hoppers",
       "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
       "releaseDate": "2026-03-04",
-      "backdropPath": "/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
+      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "posterPath": "/7iPj1Bj03lX1RJaVdRmKs5N7Nrz.jpg",
-      "rating": 7.624,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -36,7 +36,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.364,
+      "rating": 6.4,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -49,7 +49,7 @@
       "releaseDate": "2025-12-19",
       "backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
       "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.47,
+      "rating": 7.459,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -88,7 +88,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
       "posterPath": "/cMilCixwsrrTmAjYGP6OQvSMVaU.jpg",
-      "rating": 7.02,
+      "rating": 7.022,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
     },
@@ -119,19 +119,6 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 1357815,
-      "type": "tmdb",
-      "title": "时间旅馆",
-      "originalTitle": "时间旅馆",
-      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
-      "releaseDate": "2026-03-20",
-      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
-      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
       "id": 1602727,
       "type": "tmdb",
       "title": "夜王",
@@ -153,7 +140,7 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/rLHFufd3gALwHay1Sxl3MjbGQ7E.jpg",
       "posterPath": "/cL5vAK6bUHYWTOnypi34mzzWI8X.jpg",
-      "rating": 7.125,
+      "rating": 7.2,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -184,6 +171,19 @@
       "genreTitle": "犯罪, 惊悚"
     },
     {
+      "id": 1357815,
+      "type": "tmdb",
+      "title": "时间旅馆",
+      "originalTitle": "时间旅馆",
+      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
+      "releaseDate": "2026-03-20",
+      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
+      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
       "id": 1249668,
       "type": "tmdb",
       "title": "拼桌",
@@ -205,7 +205,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
       "posterPath": "/1pZ3BK2tdODT3cv0SAhXu9VPJSk.jpg",
-      "rating": 6.288,
+      "rating": 6.28,
       "mediaType": "movie",
       "genreTitle": "科幻, 恐怖"
     },
@@ -236,19 +236,6 @@
       "genreTitle": "喜剧, 奇幻"
     },
     {
-      "id": 1421552,
-      "type": "tmdb",
-      "title": "熊猫计划之部落奇遇记",
-      "originalTitle": "熊猫计划之部落奇遇记",
-      "description": "熊猫“糊糊”即将搬进全新熊猫馆，突发遭遇国际劫匪，大哥在和劫匪搏斗过程中坠入山崖，醒来后却意外发现置身神奇部落。大家为了能够回到熊猫馆，这个有趣的“组合”帮助部落解决种种难题...",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/bnXeBvYaurIqP0ESAAHUIZjIB0o.jpg",
-      "posterPath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
-      "rating": 5.75,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动作"
-    },
-    {
       "id": 313369,
       "type": "tmdb",
       "title": "爱乐之城",
@@ -262,6 +249,19 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
+      "id": 1421552,
+      "type": "tmdb",
+      "title": "熊猫计划之部落奇遇记",
+      "originalTitle": "熊猫计划之部落奇遇记",
+      "description": "熊猫“糊糊”即将搬进全新熊猫馆，突发遭遇国际劫匪，大哥在和劫匪搏斗过程中坠入山崖，醒来后却意外发现置身神奇部落。大家为了能够回到熊猫馆，这个有趣的“组合”帮助部落解决种种难题...",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/bnXeBvYaurIqP0ESAAHUIZjIB0o.jpg",
+      "posterPath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
+      "rating": 5.75,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动作"
+    },
+    {
       "id": 1084242,
       "type": "tmdb",
       "title": "疯狂动物城2",
@@ -270,7 +270,7 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
       "posterPath": "/8dUcTbuYgqUd3Yp88zA7x6w3Zrm.jpg",
-      "rating": 7.612,
+      "rating": 7.608,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -301,19 +301,6 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 840464,
-      "type": "tmdb",
-      "title": "末日逃生2：迁移",
-      "originalTitle": "Greenland 2: Migration",
-      "description": "由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
-      "releaseDate": "2026-01-07",
-      "backdropPath": "/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
-      "posterPath": "/yCOqrQxlh8M8O4PV19SXATHEIK5.jpg",
-      "rating": 6.4,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 惊悚"
-    },
-    {
       "id": 83533,
       "type": "tmdb",
       "title": "阿凡达：火与烬",
@@ -322,22 +309,9 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.263,
+      "rating": 7.266,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 1294706,
-      "type": "tmdb",
-      "title": "巴黎夏日",
-      "originalTitle": "Le Rendez-vous de l'été",
-      "description": "2024年巴黎奥运会期间，30岁的布兰丁（ 布兰迪尼·马德克 饰）专程从诺曼底赶来观看游泳赛事。这座城市的繁华与快节奏让她感到无所适从，仿佛所有事情都在与她作对。在巴黎的喧嚣中穿行时，她意外地迎来了一次久别重逢。",
-      "releaseDate": "2025-06-11",
-      "backdropPath": "/iRAQwlMZ5L2TfQ4kx0YUg69VEdW.jpg",
-      "posterPath": "/vot22JtGpSEVeXbCV77mtWbjxei.jpg",
-      "rating": 6.3,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1614368,
@@ -353,6 +327,32 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1294706,
+      "type": "tmdb",
+      "title": "巴黎夏日",
+      "originalTitle": "Le Rendez-vous de l'été",
+      "description": "2024年巴黎奥运会期间，30岁的布兰丁（ 布兰迪尼·马德克 饰）专程从诺曼底赶来观看游泳赛事。这座城市的繁华与快节奏让她感到无所适从，仿佛所有事情都在与她作对。在巴黎的喧嚣中穿行时，她意外地迎来了一次久别重逢。",
+      "releaseDate": "2025-06-11",
+      "backdropPath": "/iRAQwlMZ5L2TfQ4kx0YUg69VEdW.jpg",
+      "posterPath": "/vot22JtGpSEVeXbCV77mtWbjxei.jpg",
+      "rating": 6.3,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1294698,
+      "type": "tmdb",
+      "title": "137号案件",
+      "originalTitle": "Dossier 137",
+      "description": "对于斯特凡妮（Stéphanie）——法国国家警察总督察署（IGPN，即监管警察的机构）的一名调查员来说，第137号案件起初似乎只是又一个普通案件。然而，一个意外因素将困扰斯特凡妮，并使这个案件从一个简单的编号演变为更具深意的存在。",
+      "releaseDate": "2025-11-19",
+      "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
+      "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
+      "rating": 7.039,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 剧情"
+    },
+    {
       "id": 1650266,
       "type": "tmdb",
       "title": "神头岭1938",
@@ -366,30 +366,17 @@
       "genreTitle": "剧情, 历史"
     },
     {
-      "id": 1294698,
+      "id": 1497873,
       "type": "tmdb",
-      "title": "137号案件",
-      "originalTitle": "Dossier 137",
-      "description": "对于斯特凡妮（Stéphanie）——法国国家警察总督察署（IGPN，即监管警察的机构）的一名调查员来说，第137号案件起初似乎只是又一个普通案件。然而，一个意外因素将困扰斯特凡妮，并使这个案件从一个简单的编号演变为更具深意的存在。",
-      "releaseDate": "2025-11-19",
-      "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
-      "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-      "rating": 7.009,
+      "title": "翠湖",
+      "originalTitle": "翠湖",
+      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
+      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+      "rating": 7,
       "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 1632606,
-      "type": "tmdb",
-      "title": "团圆令",
-      "originalTitle": "团圆令",
-      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
-      "releaseDate": "2026-02-28",
-      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
-      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
+      "genreTitle": "剧情"
     },
     {
       "id": 485289,
@@ -405,17 +392,30 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1313229,
+      "id": 1632606,
       "type": "tmdb",
-      "title": "尼诺",
-      "originalTitle": "Nino",
-      "description": "距离人生重大考验只剩三天，尼诺却要先完成医生布置的两项关乎存亡的使命。这场穿越巴黎的救赎之旅，迫使他重新系紧与世界的羁绊，更要直面内心深渊。",
-      "releaseDate": "2025-09-17",
-      "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
-      "posterPath": "/7RaBzFvNuzeYPaBwblu3sV4TVol.jpg",
-      "rating": 7.112,
+      "title": "团圆令",
+      "originalTitle": "团圆令",
+      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
+      "releaseDate": "2026-02-28",
+      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
+      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1541976,
+      "type": "tmdb",
+      "title": "배달의 영웅 : 캐리와 슈퍼콜라 2",
+      "originalTitle": "배달의 영웅 : 캐리와 슈퍼콜라 2",
+      "description": "",
+      "releaseDate": "2025-10-03",
+      "backdropPath": "/nisRk0PfKd7oOSjYLasBFVkPKk5.jpg",
+      "posterPath": "/mDGf9SdJhU4K6gfYwIzYETHKiut.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
     },
     {
       "id": 168259,
@@ -431,17 +431,17 @@
       "genreTitle": "动作, 犯罪"
     },
     {
-      "id": 1541976,
+      "id": 1313229,
       "type": "tmdb",
-      "title": "배달의 영웅 : 캐리와 슈퍼콜라 2",
-      "originalTitle": "배달의 영웅 : 캐리와 슈퍼콜라 2",
-      "description": "",
-      "releaseDate": "2025-10-03",
-      "backdropPath": "/nisRk0PfKd7oOSjYLasBFVkPKk5.jpg",
-      "posterPath": "/mDGf9SdJhU4K6gfYwIzYETHKiut.jpg",
-      "rating": 0,
+      "title": "尼诺",
+      "originalTitle": "Nino",
+      "description": "距离人生重大考验只剩三天，尼诺却要先完成医生布置的两项关乎存亡的使命。这场穿越巴黎的救赎之旅，迫使他重新系紧与世界的羁绊，更要直面内心深渊。",
+      "releaseDate": "2025-09-17",
+      "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
+      "posterPath": "/7RaBzFvNuzeYPaBwblu3sV4TVol.jpg",
+      "rating": 7.029,
       "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
+      "genreTitle": "剧情"
     },
     {
       "id": 52628,
@@ -470,6 +470,19 @@
       "genreTitle": "喜剧"
     },
     {
+      "id": 1313144,
+      "type": "tmdb",
+      "title": "钢琴事故",
+      "originalTitle": "L'Accident de piano",
+      "description": "玛佳莉体质特异，不但感受不到痛觉，受伤更能快速痊愈。她利用这项天赋来拍摄网络短片，从被刀砍、被火烧，逐步升级成被拳击手暴揍、被大卡车辗过，人体奇观吸引巨量粉丝，短短数年内跃身顶级网红。好不容易想到全新刺激噱头，一场无法挽回的钢琴意外，却让她的网红之路面临空前危机，更被迫接受一名资深记者的灵魂拷问⋯⋯",
+      "releaseDate": "2025-07-02",
+      "backdropPath": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
+      "posterPath": "/euF099slkcbX6CoYvUvfIp0uHdP.jpg",
+      "rating": 6.243,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
+    },
+    {
       "id": 1532477,
       "type": "tmdb",
       "title": "En nous",
@@ -481,19 +494,6 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "纪录"
-    },
-    {
-      "id": 1313144,
-      "type": "tmdb",
-      "title": "钢琴事故",
-      "originalTitle": "L'Accident de piano",
-      "description": "玛佳莉体质特异，不但感受不到痛觉，受伤更能快速痊愈。她利用这项天赋来拍摄网络短片，从被刀砍、被火烧，逐步升级成被拳击手暴揍、被大卡车辗过，人体奇观吸引巨量粉丝，短短数年内跃身顶级网红。好不容易想到全新刺激噱头，一场无法挽回的钢琴意外，却让她的网红之路面临空前危机，更被迫接受一名资深记者的灵魂拷问⋯⋯",
-      "releaseDate": "2025-07-02",
-      "backdropPath": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
-      "posterPath": "/euF099slkcbX6CoYvUvfIp0uHdP.jpg",
-      "rating": 6.244,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
     },
     {
       "id": 587391,
@@ -509,6 +509,19 @@
       "genreTitle": "动画, 剧情"
     },
     {
+      "id": 1020829,
+      "type": "tmdb",
+      "title": "狐步",
+      "originalTitle": "La Danse des renards",
+      "description": "在一所体育专科寄宿学校里，年轻的拳击新星卡米尔刚夺得法国冠军头衔，却在一次致命事故中被挚友马泰奥惊险救下。随着焦虑逐渐侵蚀内心，他开始质疑自己对拳击的热爱，以及与马泰奥的亲密友谊。",
+      "releaseDate": "2026-03-18",
+      "backdropPath": "/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg",
+      "posterPath": "/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
+      "rating": 6.5,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1001434,
       "type": "tmdb",
       "title": "我这一辈子",
@@ -520,19 +533,6 @@
       "rating": 5.5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1020829,
-      "type": "tmdb",
-      "title": "狐步",
-      "originalTitle": "La Danse des renards",
-      "description": "在一所体育专科寄宿学校里，年轻的拳击新星卡米尔刚夺得法国冠军头衔，却在一次致命事故中被挚友马泰奥惊险救下。随着焦虑逐渐侵蚀内心，他开始质疑自己对拳击的热爱，以及与马泰奥的亲密友谊。",
-      "releaseDate": "2026-03-18",
-      "backdropPath": "/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg",
-      "posterPath": "/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 10400,
@@ -548,17 +548,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 876907,
+      "id": 1338704,
       "type": "tmdb",
-      "title": "没问题",
-      "originalTitle": "没问题",
-      "description": "东北某市，晨报主任左守权得知与前妻生活多年的女儿，在校组建“问题乐队”，不务正业，恐将被学校处分。老左欲将女儿留在家乡从事铁饭碗工作，左明明却欲南下逐梦。老左苦口婆心劝说不成只好四处托人求助。女儿英语老师吕有容，因儿子转学之事有求于老左，两人化干戈为玉帛，惺惺相惜。由此引发左明明误会其二人有苟且之事，羞怒至极，父女决裂。左明明终日与乐队混迹夜场，几乎放弃学业。老同学牛校长涉嫌违纪，牵连老左被停职。吕老师因和老左的一条醉酒视频丢了工作。关乎女儿学位的英语四级考试，也只剩下最后机会。 为了女儿的未来，老左找来女儿乐队吉他手小马协助，准备孤注一掷……",
-      "releaseDate": "2026-01-31",
-      "backdropPath": "/pkJdwOaxaaFOhEKR7p52FOkrReb.jpg",
-      "posterPath": "/ycqFS0akZOHbxEocU5TKtsUJPvu.jpg",
-      "rating": 0,
+      "title": "梵高：诗情画意",
+      "originalTitle": "Van Gogh: Poets & Lovers",
+      "description": "开幕200年后，在获得第一批梵高作品一个世纪后，国家美术馆正在举办英国有史以来最大的梵高展览。梵高不仅是有史以来最受喜爱的艺术家之一，也许也是被误解最多的艺术家之一。这部电影是重新审视和更好地了解这位标志性艺术家的机会。《梵高：诗人与恋人》专注于他独特的创作过程，探讨了这位艺术家在法国南部的岁月，在那里他彻底改变了自己的风格。梵高在他的艺术中充满了讲故事的热情，将他周围的世界变成了充满活力、理想化的空间和象征性人物。",
+      "releaseDate": "2024-11-06",
+      "backdropPath": "/xV6S5UkSGc5t5jHZIXpcVUFuchO.jpg",
+      "posterPath": "/q0kCJhEfEajaew4huhWCgYl7Rub.jpg",
+      "rating": 8,
       "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
+      "genreTitle": "纪录"
     },
     {
       "id": 1599013,
@@ -574,19 +574,6 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 1338704,
-      "type": "tmdb",
-      "title": "梵高：诗情画意",
-      "originalTitle": "Van Gogh: Poets & Lovers",
-      "description": "开幕200年后，在获得第一批梵高作品一个世纪后，国家美术馆正在举办英国有史以来最大的梵高展览。梵高不仅是有史以来最受喜爱的艺术家之一，也许也是被误解最多的艺术家之一。这部电影是重新审视和更好地了解这位标志性艺术家的机会。《梵高：诗人与恋人》专注于他独特的创作过程，探讨了这位艺术家在法国南部的岁月，在那里他彻底改变了自己的风格。梵高在他的艺术中充满了讲故事的热情，将他周围的世界变成了充满活力、理想化的空间和象征性人物。",
-      "releaseDate": "2024-11-06",
-      "backdropPath": "/xV6S5UkSGc5t5jHZIXpcVUFuchO.jpg",
-      "posterPath": "/q0kCJhEfEajaew4huhWCgYl7Rub.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 1002640,
       "type": "tmdb",
       "title": "Secrets of the Sea",
@@ -598,6 +585,32 @@
       "rating": 8,
       "mediaType": "movie",
       "genreTitle": ""
+    },
+    {
+      "id": 1323410,
+      "type": "tmdb",
+      "title": "月光里的男孩",
+      "originalTitle": "月光里的男孩",
+      "description": "作家扎西因为儿时打瞎了一条与他同名的狗而愧疚多年，可是当他再回到家乡后却得知了事情的真相。",
+      "releaseDate": "2026-01-06",
+      "backdropPath": "/wUgoZzLqH9GXUKBnt2DvPqWbGJV.jpg",
+      "posterPath": "/7D2xwJK5eBMiKXKqeNguPCIDRAc.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 563774,
+      "type": "tmdb",
+      "title": "莫奈的睡莲：水波与光影的魔力",
+      "originalTitle": "Le ninfee di Monet",
+      "description": "该片从印象派大师克劳德·莫奈艺术生涯的起点，法国北部的海港城市勒阿弗尔出发，沿着塞纳河逆流而上，寻访他居住的地方，创作的痕迹。在吉维尼小镇与世隔绝的花园里，莫奈从丧妻的悲痛和挫败的抑郁中恢复过来，“池里的精灵浮现在我眼前，我举起了调色板”，睡莲成了莫奈晚年生涯绘画的主题，一画就是30年。对于这片池塘，莫奈从未丧失新鲜感。透过他留下的上百幅睡莲主题画作，我们看到光影之下隐藏着每一刻不同的惊喜，和他对水波与光影的执着探索。  在生命中最后12年里，莫奈克服了一战对日常生活与心态带来的巨大冲击，在家人去世、视力衰退的老境中坚持作画，倾注了大量时间和精力在巨幅装饰之作《睡莲》上。在莫奈逝世5个月后，他的朋友、法国前总理乔治·克列孟梭为《睡莲》组图专用的橘园美术馆揭幕，今天的人们仍可在莫奈亲自设计的椭圆形展厅里，全方位沉浸于这幅杰作，迷失在宁静祥和的秘境之中。  该片全程由艾莉莎·拉索斯基（Elisa Lasowski，剧集《权力的游戏》、《凡尔赛》）担任特邀解说，观众将在她的带领下前往巴黎，参观马蒙丹美术馆、橘园美术馆、奥赛博物馆以及吉维尼小镇上艺术家色彩绚丽的故居和花园，历史学家和畅销书作家罗斯·金则为本片提供更多灵感。",
+      "releaseDate": "2018-11-26",
+      "backdropPath": "/aOyZDHXGGtHNcUx6wdpIX0dOcal.jpg",
+      "posterPath": "/frUry7pQdu2w7JCdB7Ep50fNeiJ.jpg",
+      "rating": 6.8,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     }
   ]
 }
