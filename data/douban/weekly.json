@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-22T20:12:42.473Z",
+  "time": "2026-03-23T20:26:25.341Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
         "posterPath": "/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
-        "rating": 7.54,
+        "rating": 7.591,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
         "posterPath": "/yeHm0aIsAMFt0E8b12KhJ70wQKF.jpg",
-        "rating": 6.854,
+        "rating": 6.929,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-02-11",
         "backdropPath": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
         "posterPath": "/cMilCixwsrrTmAjYGP6OQvSMVaU.jpg",
-        "rating": 7.02,
+        "rating": 7.027,
         "mediaType": "movie",
         "genreTitle": "犯罪, 惊悚"
       },
@@ -113,9 +113,9 @@
         "originalTitle": "Peaky Blinders: The Immortal Man",
         "description": "1940年的伯明翰，在第二次世界大战的混乱中，因疏远已久的儿子卷入一场纳粹阴谋，已离开江湖的黑帮老大托马斯·谢尔比不得不重返伯明翰，拯救家人和国家。",
         "releaseDate": "2026-03-05",
-        "backdropPath": "/aouxo2EaR7QSGBBUNTITuW0lj4z.jpg",
+        "backdropPath": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
         "posterPath": "/r1QSrP7xTqA4roGeAUt8a3Gwiy4.jpg",
-        "rating": 7.3,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -208,7 +208,7 @@
         "releaseDate": "2026-02-06",
         "backdropPath": "/myJLWz2Rk0e8YHSSw3caCrOEETT.jpg",
         "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-        "rating": 8.462,
+        "rating": 8.286,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
         "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
-        "rating": 3.8,
+        "rating": 5.4,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
         "posterPath": "/nSHBJp1ulPxdp7vtUTrhoXjZjfb.jpg",
-        "rating": 6.7,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/sPXZ3of4Lf1D1LXY0PUI1RpsYo6.jpg",
         "posterPath": "/jQvrRQgHpGqUCc5oT3GxSfvDWqO.jpg",
-        "rating": 8.833,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-01-18",
         "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
         "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.5,
+        "rating": 8.468,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 7.3,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-03-05",
         "backdropPath": "/xaiKpxuf9YGuTsqpdK5HSbD8M8f.jpg",
         "posterPath": "/7I1qtZbsU4Tuklef5SHjmFjrHEP.jpg",
-        "rating": 8,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-03-06",
         "backdropPath": "/8X2R9uLys3SmkRuQAmSI96xxJAF.jpg",
         "posterPath": "/2PqiAWN4VEFZ6yYeUVxP202opTr.jpg",
-        "rating": 7.941,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "纪录"
       },
@@ -390,9 +390,9 @@
         "originalTitle": "월간남친",
         "description": "徐未来被工作压得喘不过气，谈恋爱？根本没空去想。一项虚拟约会服务却意外唤醒她的恋爱细胞，也许这就是真爱的开始。",
         "releaseDate": "2026-03-06",
-        "backdropPath": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
+        "backdropPath": "/nUdKI6Orw6W5RBchQDCMFS5Elug.jpg",
         "posterPath": "/eKXpgaizikUIRuHs84THxoLvpCK.jpg",
-        "rating": 8.508,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       }
