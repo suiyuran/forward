@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-23T17:53:20.630Z",
+  "time": "2026-03-24T17:58:03.299Z",
   "data": [
     {
       "id": 687163,
@@ -9,8 +9,8 @@
       "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "posterPath": "/bdjbTVK55RSBq4jNEdifcIBlSI3.jpg",
-      "rating": 8.246,
+      "posterPath": "/kHAZpYjUautSvjzDOZ0l5GMMMuM.jpg",
+      "rating": 8.196,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -49,7 +49,7 @@
       "releaseDate": "2025-12-19",
       "backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
       "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.459,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -62,7 +62,7 @@
       "releaseDate": "2025-09-25",
       "backdropPath": "/gpQwPhKmUmBZxmA9bcBeFDbDgdS.jpg",
       "posterPath": "/smdKDbTCLBuNJg3R5Eu0HakrwFU.jpg",
-      "rating": 7,
+      "rating": 7.667,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -87,8 +87,8 @@
       "description": "当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
       "releaseDate": "2026-02-11",
       "backdropPath": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
-      "posterPath": "/cMilCixwsrrTmAjYGP6OQvSMVaU.jpg",
-      "rating": 7.022,
+      "posterPath": "/l8dW6J5X8oDXBxz7tgBh9Km0loa.jpg",
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
     },
@@ -101,7 +101,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
       "posterPath": "/vEgqZxbDavexla2Trjg9emiiMn6.jpg",
-      "rating": 7.5,
+      "rating": 7.567,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -145,19 +145,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1650257,
-      "type": "tmdb",
-      "title": "哀牢山",
-      "originalTitle": "哀牢山",
-      "description": "哀牢山灵异事件轰动一时，来自六名露营的高校学生，前往云南哀牢山原始森林。谁也没有想到一次平常的露营探险任务，竟然成了一次诡异的死亡序曲。他们进入哀牢山地带仅仅过去几天，就全部无人生还。比较离奇的是，当搜救者发现这几位遇难者时，有两位遇难者的死状非常诡异！",
-      "releaseDate": "2026-03-13",
-      "backdropPath": null,
-      "posterPath": "/WxFFMxkAUplYMjbcYntEUsZewk.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
-    },
-    {
       "id": 1447971,
       "type": "tmdb",
       "title": "惊蛰无声",
@@ -166,22 +153,9 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/tNfhsO5CdMRzThEx3XlkTEp808Q.jpg",
       "posterPath": "/cPdZiwjdLel5DD7Nm99FcSsXuSr.jpg",
-      "rating": 6.5,
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
-    },
-    {
-      "id": 1357815,
-      "type": "tmdb",
-      "title": "时间旅馆",
-      "originalTitle": "时间旅馆",
-      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
-      "releaseDate": "2026-03-20",
-      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
-      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1249668,
@@ -205,9 +179,48 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
       "posterPath": "/1pZ3BK2tdODT3cv0SAhXu9VPJSk.jpg",
-      "rating": 6.28,
+      "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "科幻, 恐怖"
+    },
+    {
+      "id": 1650257,
+      "type": "tmdb",
+      "title": "哀牢山",
+      "originalTitle": "哀牢山",
+      "description": "哀牢山灵异事件轰动一时，来自六名露营的高校学生，前往云南哀牢山原始森林。谁也没有想到一次平常的露营探险任务，竟然成了一次诡异的死亡序曲。他们进入哀牢山地带仅仅过去几天，就全部无人生还。比较离奇的是，当搜救者发现这几位遇难者时，有两位遇难者的死状非常诡异！",
+      "releaseDate": "2026-03-13",
+      "backdropPath": null,
+      "posterPath": "/WxFFMxkAUplYMjbcYntEUsZewk.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 惊悚"
+    },
+    {
+      "id": 1357815,
+      "type": "tmdb",
+      "title": "时间旅馆",
+      "originalTitle": "时间旅馆",
+      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
+      "releaseDate": "2026-03-20",
+      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
+      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 313369,
+      "type": "tmdb",
+      "title": "爱乐之城",
+      "originalTitle": "La La Land",
+      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
+      "releaseDate": "2016-12-01",
+      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
+      "rating": 7.897,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1618784,
@@ -236,19 +249,6 @@
       "genreTitle": "喜剧, 奇幻"
     },
     {
-      "id": 313369,
-      "type": "tmdb",
-      "title": "爱乐之城",
-      "originalTitle": "La La Land",
-      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
-      "releaseDate": "2016-12-01",
-      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
-      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.898,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
       "id": 1421552,
       "type": "tmdb",
       "title": "熊猫计划之部落奇遇记",
@@ -270,7 +270,7 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
       "posterPath": "/8dUcTbuYgqUd3Yp88zA7x6w3Zrm.jpg",
-      "rating": 7.608,
+      "rating": 7.612,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -288,19 +288,6 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 455714,
-      "type": "tmdb",
-      "title": "天才枪手",
-      "originalTitle": "ฉลาดเกมส์โกง",
-      "description": "影片根据2014年轰动一时的亚洲考场作弊案改编，讲述了天才学霸利用高智商考场作弊牟取暴利的故事。出生平凡的天才少女Lynn（茱蒂蒙·琼查容苏因 饰）在进入贵族学校后，结识了富二代同学Grace（依莎亚·贺苏汪饰）与Pat（披纳若·苏潘平佑饰），从此开始了考场作弊生涯，与此同时，另一名记忆力极佳的天才学霸Bank（查侬·散顶腾古 饰）发现了Lynn不为人知的“交易”。经过多场险象环生的“作弊战争”后，Lynn接下最后一单在国际考场上为富家子弟作弊的天价委托。一场横跨两大洲的完美作弊方案横空出世，然而一切并不像他们想的那么简单……",
-      "releaseDate": "2017-05-03",
-      "backdropPath": "/6qTpufRgDkl0M2zRPewozYD1g5y.jpg",
-      "posterPath": "/aHcC4iI4WFAB2sgSjVwcEXaeWE.jpg",
-      "rating": 7.861,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
-    },
-    {
       "id": 83533,
       "type": "tmdb",
       "title": "阿凡达：火与烬",
@@ -312,19 +299,6 @@
       "rating": 7.266,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 1614368,
-      "type": "tmdb",
-      "title": "喜欢上“欠欠”的你",
-      "originalTitle": "喜欢上“欠欠”的你",
-      "description": "通过消费获取情绪满足的张若愚（秦霄贤 饰）遇上通过攒钱获取安全感的贾琼（王影璐 饰），一段“你花我拦”的奇妙纠葛就此开启。从互相嫌弃的省钱搭子，到渐生情愫的打趣逗乐，再到因误解而生出的刺痛猜疑……这段“欠欠”又“暖暖”的感情又将走向怎样的结局？",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/ykT38Me2FXg2e6C1xxDWpXCKNpZ.jpg",
-      "posterPath": "/e8Vxgpke2CJlyaiN0Nmb0aUBNdY.jpg",
-      "rating": 1,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1294706,
@@ -340,6 +314,19 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
+      "id": 1351168,
+      "type": "tmdb",
+      "title": "蓝海",
+      "originalTitle": "蓝海",
+      "description": "在一个安静的海边小村里，活泼好动的小女孩小葵有很多梦想，她既渴望和朋友们玩耍，又渴望帮助母亲红菊表演“茂腔”戏。由于小葵的父亲从海上失踪，红菊独自承担起支撑家庭的重担。她最闪亮的一刻就是登上舞台，成为一名茂腔演员。但现在，由于很少有人对传统戏剧感兴趣，加上小葵生病，他们的生活突然陷入动荡。虽然这部电影描绘了不可避免的痛苦和失落时刻，但它的真正主题是恢复力--我们如何从这样的时刻中恢复过来。就像飘浮在村庄周围的气球，希望出海的人能平安归来，痛苦在他们的生活中无处不在，但彼此对幸福的美好祝愿也是如此。《蓝海》是一部充满这种善意的诗意新现实主义浪漫派暖心电影。",
+      "releaseDate": "2026-03-25",
+      "backdropPath": "/hUtb0S3xSiYDFvmbUp2dP0iDjX5.jpg",
+      "posterPath": "/v3oGyxua3Ne5TNtCICbgtysSfrk.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1294698,
       "type": "tmdb",
       "title": "137号案件",
@@ -348,9 +335,35 @@
       "releaseDate": "2025-11-19",
       "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
       "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-      "rating": 7.039,
+      "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 455714,
+      "type": "tmdb",
+      "title": "天才枪手",
+      "originalTitle": "ฉลาดเกมส์โกง",
+      "description": "影片根据2014年轰动一时的亚洲考场作弊案改编，讲述了天才学霸利用高智商考场作弊牟取暴利的故事。出生平凡的天才少女Lynn（茱蒂蒙·琼查容苏因 饰）在进入贵族学校后，结识了富二代同学Grace（依莎亚·贺苏汪饰）与Pat（披纳若·苏潘平佑饰），从此开始了考场作弊生涯，与此同时，另一名记忆力极佳的天才学霸Bank（查侬·散顶腾古 饰）发现了Lynn不为人知的“交易”。经过多场险象环生的“作弊战争”后，Lynn接下最后一单在国际考场上为富家子弟作弊的天价委托。一场横跨两大洲的完美作弊方案横空出世，然而一切并不像他们想的那么简单……",
+      "releaseDate": "2017-05-03",
+      "backdropPath": "/6qTpufRgDkl0M2zRPewozYD1g5y.jpg",
+      "posterPath": "/aHcC4iI4WFAB2sgSjVwcEXaeWE.jpg",
+      "rating": 7.861,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
+    },
+    {
+      "id": 1614368,
+      "type": "tmdb",
+      "title": "喜欢上“欠欠”的你",
+      "originalTitle": "喜欢上“欠欠”的你",
+      "description": "通过消费获取情绪满足的张若愚（秦霄贤 饰）遇上通过攒钱获取安全感的贾琼（王影璐 饰），一段“你花我拦”的奇妙纠葛就此开启。从互相嫌弃的省钱搭子，到渐生情愫的打趣逗乐，再到因误解而生出的刺痛猜疑……这段“欠欠”又“暖暖”的感情又将走向怎样的结局？",
+      "releaseDate": "2026-02-14",
+      "backdropPath": "/ykT38Me2FXg2e6C1xxDWpXCKNpZ.jpg",
+      "posterPath": "/e8Vxgpke2CJlyaiN0Nmb0aUBNdY.jpg",
+      "rating": 1,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1650266,
@@ -366,71 +379,6 @@
       "genreTitle": "剧情, 历史"
     },
     {
-      "id": 1497873,
-      "type": "tmdb",
-      "title": "翠湖",
-      "originalTitle": "翠湖",
-      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
-      "releaseDate": "2026-01-24",
-      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
-      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 485289,
-      "type": "tmdb",
-      "title": "重返·狼群",
-      "originalTitle": "重返·狼群",
-      "description": "美女画家李微漪在一次草原采风中意外收养了狼王遗孤，为其取名格林，并带回成都喂养。但繁华的都市无法容纳一匹野性的草原狼，李微漪带着格林重返草原，一路追寻狼群的踪迹，历经严寒酷雪，终于目送它成功地重返狼群。",
-      "releaseDate": "2017-06-16",
-      "backdropPath": "/1LtZ3PZiC57fTVKfsUbgxXAYpE5.jpg",
-      "posterPath": "/k51M8AtA3mVj0TMcH9a6CjQd3GC.jpg",
-      "rating": 6.333,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1632606,
-      "type": "tmdb",
-      "title": "团圆令",
-      "originalTitle": "团圆令",
-      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
-      "releaseDate": "2026-02-28",
-      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
-      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 1541976,
-      "type": "tmdb",
-      "title": "배달의 영웅 : 캐리와 슈퍼콜라 2",
-      "originalTitle": "배달의 영웅 : 캐리와 슈퍼콜라 2",
-      "description": "",
-      "releaseDate": "2025-10-03",
-      "backdropPath": "/nisRk0PfKd7oOSjYLasBFVkPKk5.jpg",
-      "posterPath": "/mDGf9SdJhU4K6gfYwIzYETHKiut.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 168259,
-      "type": "tmdb",
-      "title": "速度与激情7",
-      "originalTitle": "Furious 7",
-      "description": "经历了紧张刺激的伦敦大战，多米尼克·托莱多（范·迪塞尔 Vin Diesel 饰）和他的伙伴们重新回归平静的生活，但是江湖的恩恩怨怨却决不允许他们轻易抽身而去。棘手的死对头欧文·肖瘫在医院，不得动弹，他的哥哥戴克·肖（杰森·斯坦森 Jason Stantham 饰）则发誓要为弟弟复仇。戴克曾是英国特种部队的王牌杀手，不仅身怀绝技，而且心狠手辣。他干掉了远在东京的韩，还几乎把探长卢克·霍布斯（道恩·强森 Dwayne Johnson 饰）送到另一个世界，甚至多米尼克那世外桃源般的家也被对方炸毁。复仇的利刃已经架在脖子上，多米尼克再也没有选择，他找到长久以来最为信赖的团队，与来势汹汹的戴克展开生死对决……",
-      "releaseDate": "2015-04-01",
-      "backdropPath": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
-      "posterPath": "/pJkdjrBbZd4C83JJDgB1tMqyWsu.jpg",
-      "rating": 7.218,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1313229,
       "type": "tmdb",
       "title": "尼诺",
@@ -438,23 +386,10 @@
       "description": "距离人生重大考验只剩三天，尼诺却要先完成医生布置的两项关乎存亡的使命。这场穿越巴黎的救赎之旅，迫使他重新系紧与世界的羁绊，更要直面内心深渊。",
       "releaseDate": "2025-09-17",
       "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
-      "posterPath": "/7RaBzFvNuzeYPaBwblu3sV4TVol.jpg",
-      "rating": 7.029,
+      "posterPath": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 52628,
-      "type": "tmdb",
-      "title": "枕边的男人",
-      "originalTitle": "L'Homme de Chevet",
-      "description": "雷奥（克里斯多弗·兰伯特 Christopher Lambert 饰）曾经是一名出尽风头的拳击手，退役后来到加勒比海边的小城卡塔赫纳定居。然而告别了辉煌的职业生涯，他突然对生活茫然无措，只终日混迹酒吧颓废度日。直到有一天，他迫于生计应聘了一个护工工作，负责照看一个因车祸导致全身瘫痪的女人莫伊尔（苏菲·玛索 Sophie Marceau 饰）。曾经干练好胜的女强人莫伊尔，自从车祸无情地夺走她的行动能力后，似乎也夺走了她全部的生机，虽家赀巨万，她却再也无法感受到昨日春光，温柔海浪。仿佛被生活掏空的莫伊尔只能天天躺着消磨余下岁月，并对雷奥的照顾吹毛求疵。然而，两个灵魂在摩擦的同时似乎也在磨合，渐渐地，雷奥不仅没被莫伊尔的挑剔吓跑，反而重新找回了生活的魅力，而一天清晨，莫伊尔竟也从雷奥的鼾声中又一次触碰到了生命的意义……",
-      "releaseDate": "2009-11-18",
-      "backdropPath": "/yKS1FhezmyFsrAGe6g5wK1L7aSD.jpg",
-      "posterPath": "/ynUhEYaAWuJ0UPIrsIQ8nIKEveW.jpg",
-      "rating": 5.594,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1290436,
@@ -470,30 +405,69 @@
       "genreTitle": "喜剧"
     },
     {
-      "id": 1313144,
+      "id": 1632606,
       "type": "tmdb",
-      "title": "钢琴事故",
-      "originalTitle": "L'Accident de piano",
-      "description": "玛佳莉体质特异，不但感受不到痛觉，受伤更能快速痊愈。她利用这项天赋来拍摄网络短片，从被刀砍、被火烧，逐步升级成被拳击手暴揍、被大卡车辗过，人体奇观吸引巨量粉丝，短短数年内跃身顶级网红。好不容易想到全新刺激噱头，一场无法挽回的钢琴意外，却让她的网红之路面临空前危机，更被迫接受一名资深记者的灵魂拷问⋯⋯",
-      "releaseDate": "2025-07-02",
-      "backdropPath": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
-      "posterPath": "/euF099slkcbX6CoYvUvfIp0uHdP.jpg",
-      "rating": 6.243,
+      "title": "团圆令",
+      "originalTitle": "团圆令",
+      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
+      "releaseDate": "2026-02-28",
+      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
+      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧"
+      "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 1532477,
+      "id": 51731,
       "type": "tmdb",
-      "title": "En nous",
-      "originalTitle": "En nous",
-      "description": "",
-      "releaseDate": "2025-09-19",
-      "backdropPath": "/4J4OlqCWFF6b9F4HuMxWmWlneBF.jpg",
-      "posterPath": "/brmX2NEBDcfmR3t4CW2JzlY9fWU.jpg",
-      "rating": 7,
+      "title": "鹿鼎记II：神龙教",
+      "originalTitle": "鹿鼎記 II : 神龍敎",
+      "description": "韦小宝要护送建宁公主嫁到云南，以安抚图谋造反的吴三桂父子。在途中遇到了独臂神尼的刺杀。小宝被抓走后，借口拜神尼为师，其实是想追求其徒弟阿珂。不料韦小宝被神龙教圣女龙儿抓走，想要报之前在王宫里埋下的仇恨，却没想到遭到了平西王的陷害。韦小宝极力相救，龙儿以身相许更把绝世武功传于韦小宝。韦小宝与公主之间的事情被平西王发现了，平西王更提前造反。小宝在独臂神尼、神龙教、天地会、云南王等多方势力角逐中终得化险为夷、还赢得了包括龙儿在内的众多姑娘的芳心。最后制服了吴三桂父子，回到京城受到皇帝赏识，同时，韦小宝天地会的身份被人密告皇帝……",
+      "releaseDate": "1992-09-24",
+      "backdropPath": "/uiTFVCL19OLaPAgrbX9zTvYK5bb.jpg",
+      "posterPath": "/wHUgmng3fCSCVPTwdbYqdZqc3XQ.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "动作, 喜剧"
+    },
+    {
+      "id": 52628,
+      "type": "tmdb",
+      "title": "枕边的男人",
+      "originalTitle": "L'Homme de Chevet",
+      "description": "雷奥（克里斯多弗·兰伯特 Christopher Lambert 饰）曾经是一名出尽风头的拳击手，退役后来到加勒比海边的小城卡塔赫纳定居。然而告别了辉煌的职业生涯，他突然对生活茫然无措，只终日混迹酒吧颓废度日。直到有一天，他迫于生计应聘了一个护工工作，负责照看一个因车祸导致全身瘫痪的女人莫伊尔（苏菲·玛索 Sophie Marceau 饰）。曾经干练好胜的女强人莫伊尔，自从车祸无情地夺走她的行动能力后，似乎也夺走了她全部的生机，虽家赀巨万，她却再也无法感受到昨日春光，温柔海浪。仿佛被生活掏空的莫伊尔只能天天躺着消磨余下岁月，并对雷奥的照顾吹毛求疵。然而，两个灵魂在摩擦的同时似乎也在磨合，渐渐地，雷奥不仅没被莫伊尔的挑剔吓跑，反而重新找回了生活的魅力，而一天清晨，莫伊尔竟也从雷奥的鼾声中又一次触碰到了生命的意义……",
+      "releaseDate": "2009-11-18",
+      "backdropPath": "/yKS1FhezmyFsrAGe6g5wK1L7aSD.jpg",
+      "posterPath": "/ynUhEYaAWuJ0UPIrsIQ8nIKEveW.jpg",
+      "rating": 5.594,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 485289,
+      "type": "tmdb",
+      "title": "重返·狼群",
+      "originalTitle": "重返·狼群",
+      "description": "美女画家李微漪在一次草原采风中意外收养了狼王遗孤，为其取名格林，并带回成都喂养。但繁华的都市无法容纳一匹野性的草原狼，李微漪带着格林重返草原，一路追寻狼群的踪迹，历经严寒酷雪，终于目送它成功地重返狼群。",
+      "releaseDate": "2017-06-16",
+      "backdropPath": "/1LtZ3PZiC57fTVKfsUbgxXAYpE5.jpg",
+      "posterPath": "/k51M8AtA3mVj0TMcH9a6CjQd3GC.jpg",
+      "rating": 6.333,
       "mediaType": "movie",
       "genreTitle": "纪录"
+    },
+    {
+      "id": 1497873,
+      "type": "tmdb",
+      "title": "翠湖",
+      "originalTitle": "翠湖",
+      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
+      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 587391,
@@ -509,17 +483,17 @@
       "genreTitle": "动画, 剧情"
     },
     {
-      "id": 1020829,
+      "id": 1313144,
       "type": "tmdb",
-      "title": "狐步",
-      "originalTitle": "La Danse des renards",
-      "description": "在一所体育专科寄宿学校里，年轻的拳击新星卡米尔刚夺得法国冠军头衔，却在一次致命事故中被挚友马泰奥惊险救下。随着焦虑逐渐侵蚀内心，他开始质疑自己对拳击的热爱，以及与马泰奥的亲密友谊。",
-      "releaseDate": "2026-03-18",
-      "backdropPath": "/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg",
-      "posterPath": "/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
-      "rating": 6.5,
+      "title": "钢琴事故",
+      "originalTitle": "L'Accident de piano",
+      "description": "玛佳莉体质特异，不但感受不到痛觉，受伤更能快速痊愈。她利用这项天赋来拍摄网络短片，从被刀砍、被火烧，逐步升级成被拳击手暴揍、被大卡车辗过，人体奇观吸引巨量粉丝，短短数年内跃身顶级网红。好不容易想到全新刺激噱头，一场无法挽回的钢琴意外，却让她的网红之路面临空前危机，更被迫接受一名资深记者的灵魂拷问⋯⋯",
+      "releaseDate": "2025-07-02",
+      "backdropPath": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
+      "posterPath": "/euF099slkcbX6CoYvUvfIp0uHdP.jpg",
+      "rating": 6.3,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "喜剧"
     },
     {
       "id": 1001434,
@@ -535,17 +509,69 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 10400,
+      "id": 1532477,
       "type": "tmdb",
-      "title": "飓风",
-      "originalTitle": "The Hurricane",
-      "description": "一个黑人毛头小伙莱斯（维斯罗斯•雷恩•香农 Vicellous Reon Shannon 饰）在旧书市无意中淘到了拳王“飓风”鲁本•卡特（丹泽尔•华盛顿 Denzel Washington 饰）在狱中写的自传，并开始了对他的故事产生了兴趣。鲁本出生于贫寒家庭，幼年时嫉恶如仇，因此与当地的白人警察结怨。后来，他因为出色的身手，名震拳坛，绰号“飓风”。此后，他参加了越战成为荣誉军官，并在某舞会偶然结识了后来的妻子。当生活进入美满轨道的时候，一次新泽西酒吧杀人案彻底毁掉了他美好希望。莱斯与鲁本通信，了解到他蒙受不白之冤，便说服了朋友们，一起查找证据，希望揭开真相，令他重获自由，然而种族歧视的恶势力却在暗中百般刁难，意图把飓风困死在牢房……",
-      "releaseDate": "1999-09-17",
-      "backdropPath": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
-      "posterPath": "/iH7zKvZRD9GjLgUIZSOnFCPyFAl.jpg",
-      "rating": 7.431,
+      "title": "En nous",
+      "originalTitle": "En nous",
+      "description": "",
+      "releaseDate": "2025-09-19",
+      "backdropPath": "/4J4OlqCWFF6b9F4HuMxWmWlneBF.jpg",
+      "posterPath": "/brmX2NEBDcfmR3t4CW2JzlY9fWU.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1020829,
+      "type": "tmdb",
+      "title": "狐步",
+      "originalTitle": "La Danse des renards",
+      "description": "在一所体育专科寄宿学校里，年轻的拳击新星卡米尔刚夺得法国冠军头衔，却在一次致命事故中被挚友马泰奥惊险救下。随着焦虑逐渐侵蚀内心，他开始质疑自己对拳击的热爱，以及与马泰奥的亲密友谊。",
+      "releaseDate": "2026-03-18",
+      "backdropPath": "/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg",
+      "posterPath": "/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1089654,
+      "type": "tmdb",
+      "title": "长安三万里",
+      "originalTitle": "长安三万里",
+      "description": "安史之乱后数年，吐蕃大军压境，战况危机。剑南西川节度使高适奋力抵抗，然孤兵难支，只得退守云山城。夜幕降临，大雪如轮，朝廷却派来程公公持节监军。高适得知对方讯问的正是他“加害李白”的缘由，于是在昏黄的烛光下，缓缓道出了他和李白起于微末时的故事，以及盛唐文坛的一时盛况。遥想当年，父母双亡的高适决心去长安求取功名，途中遇到文采飞扬且乐观傲慢的李白。他们踌躇满志，却发现空有文采和抱负却报国无门。长安之后，李白南下扬州，高适则继续等待晋升的机会。在这一过程中，杜甫、王维、常建、李龟年、吴道子、张旭等群星璀璨，交替登场，共同谱写了大唐盛世最瑰丽的画卷。而高适和李白的友情，也将在历史大潮的背景下跌宕沉浮……",
+      "releaseDate": "2023-07-02",
+      "backdropPath": "/m4sS3YPOu6OPHzwJcPKjMH1TyRA.jpg",
+      "posterPath": "/7wxk8Ka5AGUIjCpEPg4vBOwSSul.jpg",
+      "rating": 7.619,
+      "mediaType": "movie",
+      "genreTitle": "动画, 历史"
+    },
+    {
+      "id": 168259,
+      "type": "tmdb",
+      "title": "速度与激情7",
+      "originalTitle": "Furious 7",
+      "description": "经历了紧张刺激的伦敦大战，多米尼克·托莱多（范·迪塞尔 Vin Diesel 饰）和他的伙伴们重新回归平静的生活，但是江湖的恩恩怨怨却决不允许他们轻易抽身而去。棘手的死对头欧文·肖瘫在医院，不得动弹，他的哥哥戴克·肖（杰森·斯坦森 Jason Stantham 饰）则发誓要为弟弟复仇。戴克曾是英国特种部队的王牌杀手，不仅身怀绝技，而且心狠手辣。他干掉了远在东京的韩，还几乎把探长卢克·霍布斯（道恩·强森 Dwayne Johnson 饰）送到另一个世界，甚至多米尼克那世外桃源般的家也被对方炸毁。复仇的利刃已经架在脖子上，多米尼克再也没有选择，他找到长久以来最为信赖的团队，与来势汹汹的戴克展开生死对决……",
+      "releaseDate": "2015-04-01",
+      "backdropPath": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+      "posterPath": "/pJkdjrBbZd4C83JJDgB1tMqyWsu.jpg",
+      "rating": 7.218,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 795607,
+      "type": "tmdb",
+      "title": "白蛇2：青蛇劫起",
+      "originalTitle": "白蛇2：青蛇劫起",
+      "description": "南宋末年，小白为救许仙水漫金山，终被法海压在雷峰塔下。小青则意外被法海打入诡异的修罗城幻境。几次危机中小青被神秘蒙面少年所救，小青带着出去救出小白的执念历经劫难与成长，同蒙面少年一起寻找离开的办法。",
+      "releaseDate": "2021-07-23",
+      "backdropPath": "/rhJgHS28BVc5o2rBWVwZa3aMJCF.jpg",
+      "posterPath": "/g1d3uFf3eGvVJQ5Coh793Zi1ASq.jpg",
+      "rating": 8.083,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1338704,
@@ -561,6 +587,19 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 10400,
+      "type": "tmdb",
+      "title": "飓风",
+      "originalTitle": "The Hurricane",
+      "description": "一个黑人毛头小伙莱斯（维斯罗斯•雷恩•香农 Vicellous Reon Shannon 饰）在旧书市无意中淘到了拳王“飓风”鲁本•卡特（丹泽尔•华盛顿 Denzel Washington 饰）在狱中写的自传，并开始了对他的故事产生了兴趣。鲁本出生于贫寒家庭，幼年时嫉恶如仇，因此与当地的白人警察结怨。后来，他因为出色的身手，名震拳坛，绰号“飓风”。此后，他参加了越战成为荣誉军官，并在某舞会偶然结识了后来的妻子。当生活进入美满轨道的时候，一次新泽西酒吧杀人案彻底毁掉了他美好希望。莱斯与鲁本通信，了解到他蒙受不白之冤，便说服了朋友们，一起查找证据，希望揭开真相，令他重获自由，然而种族歧视的恶势力却在暗中百般刁难，意图把飓风困死在牢房……",
+      "releaseDate": "1999-09-17",
+      "backdropPath": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
+      "posterPath": "/iH7zKvZRD9GjLgUIZSOnFCPyFAl.jpg",
+      "rating": 7.432,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1599013,
       "type": "tmdb",
       "title": "情缘曹雪芹",
@@ -572,19 +611,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1002640,
-      "type": "tmdb",
-      "title": "Secrets of the Sea",
-      "originalTitle": "Secrets of the Sea",
-      "description": "",
-      "releaseDate": "2022-06-08",
-      "backdropPath": null,
-      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": ""
     },
     {
       "id": 1323410,
@@ -600,17 +626,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 563774,
+      "id": 1002640,
       "type": "tmdb",
-      "title": "莫奈的睡莲：水波与光影的魔力",
-      "originalTitle": "Le ninfee di Monet",
-      "description": "该片从印象派大师克劳德·莫奈艺术生涯的起点，法国北部的海港城市勒阿弗尔出发，沿着塞纳河逆流而上，寻访他居住的地方，创作的痕迹。在吉维尼小镇与世隔绝的花园里，莫奈从丧妻的悲痛和挫败的抑郁中恢复过来，“池里的精灵浮现在我眼前，我举起了调色板”，睡莲成了莫奈晚年生涯绘画的主题，一画就是30年。对于这片池塘，莫奈从未丧失新鲜感。透过他留下的上百幅睡莲主题画作，我们看到光影之下隐藏着每一刻不同的惊喜，和他对水波与光影的执着探索。  在生命中最后12年里，莫奈克服了一战对日常生活与心态带来的巨大冲击，在家人去世、视力衰退的老境中坚持作画，倾注了大量时间和精力在巨幅装饰之作《睡莲》上。在莫奈逝世5个月后，他的朋友、法国前总理乔治·克列孟梭为《睡莲》组图专用的橘园美术馆揭幕，今天的人们仍可在莫奈亲自设计的椭圆形展厅里，全方位沉浸于这幅杰作，迷失在宁静祥和的秘境之中。  该片全程由艾莉莎·拉索斯基（Elisa Lasowski，剧集《权力的游戏》、《凡尔赛》）担任特邀解说，观众将在她的带领下前往巴黎，参观马蒙丹美术馆、橘园美术馆、奥赛博物馆以及吉维尼小镇上艺术家色彩绚丽的故居和花园，历史学家和畅销书作家罗斯·金则为本片提供更多灵感。",
-      "releaseDate": "2018-11-26",
-      "backdropPath": "/aOyZDHXGGtHNcUx6wdpIX0dOcal.jpg",
-      "posterPath": "/frUry7pQdu2w7JCdB7Ep50fNeiJ.jpg",
-      "rating": 6.8,
+      "title": "Secrets of the Sea",
+      "originalTitle": "Secrets of the Sea",
+      "description": "",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": ""
     }
   ]
 }
