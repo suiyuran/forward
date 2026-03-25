@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-24T17:58:03.299Z",
+  "time": "2026-03-25T18:00:08.385Z",
   "data": [
     {
       "id": 687163,
@@ -8,9 +8,9 @@
       "originalTitle": "Project Hail Mary",
       "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
       "releaseDate": "2026-03-15",
-      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "posterPath": "/kHAZpYjUautSvjzDOZ0l5GMMMuM.jpg",
-      "rating": 8.196,
+      "backdropPath": "/qL4dBGLkWOVP5vImN7EEoqJQYd8.jpg",
+      "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -23,7 +23,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "posterPath": "/7iPj1Bj03lX1RJaVdRmKs5N7Nrz.jpg",
-      "rating": 7.6,
+      "rating": 7.619,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -41,19 +41,6 @@
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 1317288,
-      "type": "tmdb",
-      "title": "至尊马蒂",
-      "originalTitle": "Marty Supreme",
-      "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "releaseDate": "2025-12-19",
-      "backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
-      "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 惊悚"
-    },
-    {
       "id": 1454209,
       "type": "tmdb",
       "title": "非穷尽列举",
@@ -67,6 +54,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1317288,
+      "type": "tmdb",
+      "title": "至尊马蒂",
+      "originalTitle": "Marty Supreme",
+      "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "releaseDate": "2025-12-19",
+      "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
+      "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
+      "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 惊悚"
+    },
+    {
       "id": 682012,
       "type": "tmdb",
       "title": "你好，爱美丽",
@@ -75,22 +75,9 @@
       "releaseDate": "2025-06-25",
       "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
       "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 8,
+      "rating": 7.958,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
-    },
-    {
-      "id": 1171145,
-      "type": "tmdb",
-      "title": "洛杉矶劫案",
-      "originalTitle": "Crime 101",
-      "description": "当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
-      "posterPath": "/l8dW6J5X8oDXBxz7tgBh9Km0loa.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 惊悚"
     },
     {
       "id": 1297842,
@@ -101,9 +88,22 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
       "posterPath": "/vEgqZxbDavexla2Trjg9emiiMn6.jpg",
-      "rating": 7.567,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
+    },
+    {
+      "id": 1171145,
+      "type": "tmdb",
+      "title": "洛杉矶劫案",
+      "originalTitle": "Crime 101",
+      "description": "当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
+      "posterPath": "/l8dW6J5X8oDXBxz7tgBh9Km0loa.jpg",
+      "rating": 7.019,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 惊悚"
     },
     {
       "id": 1305781,
@@ -114,7 +114,7 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
       "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-      "rating": 7.094,
+      "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -130,6 +130,19 @@
       "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1249668,
+      "type": "tmdb",
+      "title": "拼桌",
+      "originalTitle": "拼桌",
+      "description": "滞销书编辑张嘉怡和失业程序员陆拾谷意外成为了“饭搭子”，随着两人生活变故的不断发生，他们之间轻松单纯的快餐式友谊也渐渐发生了变化。在成长的道路上，他们遵从自己的内心，勇敢的追求属于自己的事业和爱情。",
+      "releaseDate": "2026-03-14",
+      "backdropPath": "/xn6XrlOWp76VQhhghyQMBDbd1pB.jpg",
+      "posterPath": "/9iJpbmb9WgVqrTSPQlpeGKllpDC.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1462229,
@@ -158,19 +171,6 @@
       "genreTitle": "犯罪, 惊悚"
     },
     {
-      "id": 1249668,
-      "type": "tmdb",
-      "title": "拼桌",
-      "originalTitle": "拼桌",
-      "description": "滞销书编辑张嘉怡和失业程序员陆拾谷意外成为了“饭搭子”，随着两人生活变故的不断发生，他们之间轻松单纯的快餐式友谊也渐渐发生了变化。在成长的道路上，他们遵从自己的内心，勇敢的追求属于自己的事业和爱情。",
-      "releaseDate": "2026-03-14",
-      "backdropPath": "/xn6XrlOWp76VQhhghyQMBDbd1pB.jpg",
-      "posterPath": "/9iJpbmb9WgVqrTSPQlpeGKllpDC.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1159831,
       "type": "tmdb",
       "title": "暗黑新娘！",
@@ -197,6 +197,19 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
+      "id": 1653743,
+      "type": "tmdb",
+      "title": "甜咸之间",
+      "originalTitle": "甜咸之间",
+      "description": "在有着170多年历史的杭州“楼外楼”里，传统名菜“西湖醋鱼”串起了这座城市里的动人故事。大厨陆一鸣在录制美食节目时与主持人唐果意外结缘并互生好感，但他性格木讷，始终不敢表白，这道经典的“西湖醋鱼”会成为他们酸酸甜甜的爱情宣言吗？打算退休后周游世界的陆一鸣师父区天明，发现妻子患上了阿尔茨海默症，“西湖醋鱼”的味道能否唤醒她对初恋的记忆呢？外卖小哥陈奋早出晚归地攒钱，只为实现开小饭馆的梦想，巴掌大的后厨成了他们一家人温暖的港湾。单亲妈妈周姐与处于叛逆期的女儿维恩看似相互对抗，实则饱含着母女间天然的真情，女儿人生中做的第一道菜便是对妈妈爱的回报。",
+      "releaseDate": "2026-03-26",
+      "backdropPath": null,
+      "posterPath": "/7sz1cSDjDiA0GnxEmlWPWK94t1Y.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1357815,
       "type": "tmdb",
       "title": "时间旅馆",
@@ -218,22 +231,9 @@
       "releaseDate": "2016-12-01",
       "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
       "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.897,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1618784,
-      "type": "tmdb",
-      "title": "东北警察故事3",
-      "originalTitle": "东北警察故事3",
-      "description": "李红旗要办婚礼了！本想婚礼一切从简，但彪悍热心的丈母娘（林晓杰 饰）坚持做主想大操大办，李红旗不得不飞往海角，落地后却得知飞机邻座女孩昕昕（马千壹 饰）被人贩子拐走。面对凶残狡猾的犯罪团伙，李红旗与当地办案风格迥异的警察孙彪（崔志佳 饰）强强联手，在婚期逼近的倒计时中和人贩子头目秦叶蓉（黄米依 饰）及卖鱼佬（伍允龙 饰）展开殊死搏斗。婚礼筹备笑料百出，办案追凶惊心动魄——红旗不倒，正义不休假！看李红旗如何罪犯、幸福两手抓。",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/AtvnNg6R0kunKDhdNl9tAAGVOdT.jpg",
-      "posterPath": "/f5EoZe8Z256w0tgRhYzV0LAtNuH.jpg",
-      "rating": 6.417,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 1607088,
@@ -249,6 +249,19 @@
       "genreTitle": "喜剧, 奇幻"
     },
     {
+      "id": 1618784,
+      "type": "tmdb",
+      "title": "东北警察故事3",
+      "originalTitle": "东北警察故事3",
+      "description": "李红旗要办婚礼了！本想婚礼一切从简，但彪悍热心的丈母娘（林晓杰 饰）坚持做主想大操大办，李红旗不得不飞往海角，落地后却得知飞机邻座女孩昕昕（马千壹 饰）被人贩子拐走。面对凶残狡猾的犯罪团伙，李红旗与当地办案风格迥异的警察孙彪（崔志佳 饰）强强联手，在婚期逼近的倒计时中和人贩子头目秦叶蓉（黄米依 饰）及卖鱼佬（伍允龙 饰）展开殊死搏斗。婚礼筹备笑料百出，办案追凶惊心动魄——红旗不倒，正义不休假！看李红旗如何罪犯、幸福两手抓。",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/AtvnNg6R0kunKDhdNl9tAAGVOdT.jpg",
+      "posterPath": "/f5EoZe8Z256w0tgRhYzV0LAtNuH.jpg",
+      "rating": 6.417,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
       "id": 1421552,
       "type": "tmdb",
       "title": "熊猫计划之部落奇遇记",
@@ -262,6 +275,19 @@
       "genreTitle": "喜剧, 动作"
     },
     {
+      "id": 83533,
+      "type": "tmdb",
+      "title": "阿凡达：火与烬",
+      "originalTitle": "Avatar: Fire and Ash",
+      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "releaseDate": "2025-12-17",
+      "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
+      "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
+      "rating": 7.3,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 冒险"
+    },
+    {
       "id": 1084242,
       "type": "tmdb",
       "title": "疯狂动物城2",
@@ -270,7 +296,7 @@
       "releaseDate": "2025-11-26",
       "backdropPath": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
       "posterPath": "/8dUcTbuYgqUd3Yp88zA7x6w3Zrm.jpg",
-      "rating": 7.612,
+      "rating": 7.613,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -283,22 +309,9 @@
       "releaseDate": "1980-05-23",
       "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
       "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.205,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 83533,
-      "type": "tmdb",
-      "title": "阿凡达：火与烬",
-      "originalTitle": "Avatar: Fire and Ash",
-      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "releaseDate": "2025-12-17",
-      "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
-      "posterPath": "/bY9hEk4od0ywjCErkwYWkwXuLE0.jpg",
-      "rating": 7.266,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
     },
     {
       "id": 1294706,
@@ -335,7 +348,7 @@
       "releaseDate": "2025-11-19",
       "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
       "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-      "rating": 7.1,
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
@@ -353,19 +366,6 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1614368,
-      "type": "tmdb",
-      "title": "喜欢上“欠欠”的你",
-      "originalTitle": "喜欢上“欠欠”的你",
-      "description": "通过消费获取情绪满足的张若愚（秦霄贤 饰）遇上通过攒钱获取安全感的贾琼（王影璐 饰），一段“你花我拦”的奇妙纠葛就此开启。从互相嫌弃的省钱搭子，到渐生情愫的打趣逗乐，再到因误解而生出的刺痛猜疑……这段“欠欠”又“暖暖”的感情又将走向怎样的结局？",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/ykT38Me2FXg2e6C1xxDWpXCKNpZ.jpg",
-      "posterPath": "/e8Vxgpke2CJlyaiN0Nmb0aUBNdY.jpg",
-      "rating": 1,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
-    },
-    {
       "id": 1650266,
       "type": "tmdb",
       "title": "神头岭1938",
@@ -379,6 +379,45 @@
       "genreTitle": "剧情, 历史"
     },
     {
+      "id": 1614368,
+      "type": "tmdb",
+      "title": "喜欢上“欠欠”的你",
+      "originalTitle": "喜欢上“欠欠”的你",
+      "description": "通过消费获取情绪满足的张若愚（秦霄贤 饰）遇上通过攒钱获取安全感的贾琼（王影璐 饰），一段“你花我拦”的奇妙纠葛就此开启。从互相嫌弃的省钱搭子，到渐生情愫的打趣逗乐，再到因误解而生出的刺痛猜疑……这段“欠欠”又“暖暖”的感情又将走向怎样的结局？",
+      "releaseDate": "2026-02-14",
+      "backdropPath": "/ykT38Me2FXg2e6C1xxDWpXCKNpZ.jpg",
+      "posterPath": "/e8Vxgpke2CJlyaiN0Nmb0aUBNdY.jpg",
+      "rating": 1,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1632606,
+      "type": "tmdb",
+      "title": "团圆令",
+      "originalTitle": "团圆令",
+      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
+      "releaseDate": "2026-02-28",
+      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
+      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1497873,
+      "type": "tmdb",
+      "title": "翠湖",
+      "originalTitle": "翠湖",
+      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
+      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1313229,
       "type": "tmdb",
       "title": "尼诺",
@@ -387,7 +426,7 @@
       "releaseDate": "2025-09-17",
       "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
       "posterPath": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
-      "rating": 7,
+      "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -405,17 +444,17 @@
       "genreTitle": "喜剧"
     },
     {
-      "id": 1632606,
+      "id": 52628,
       "type": "tmdb",
-      "title": "团圆令",
-      "originalTitle": "团圆令",
-      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
-      "releaseDate": "2026-02-28",
-      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
-      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
-      "rating": 0,
+      "title": "枕边的男人",
+      "originalTitle": "L'Homme de Chevet",
+      "description": "雷奥（克里斯多弗·兰伯特 Christopher Lambert 饰）曾经是一名出尽风头的拳击手，退役后来到加勒比海边的小城卡塔赫纳定居。然而告别了辉煌的职业生涯，他突然对生活茫然无措，只终日混迹酒吧颓废度日。直到有一天，他迫于生计应聘了一个护工工作，负责照看一个因车祸导致全身瘫痪的女人莫伊尔（苏菲·玛索 Sophie Marceau 饰）。曾经干练好胜的女强人莫伊尔，自从车祸无情地夺走她的行动能力后，似乎也夺走了她全部的生机，虽家赀巨万，她却再也无法感受到昨日春光，温柔海浪。仿佛被生活掏空的莫伊尔只能天天躺着消磨余下岁月，并对雷奥的照顾吹毛求疵。然而，两个灵魂在摩擦的同时似乎也在磨合，渐渐地，雷奥不仅没被莫伊尔的挑剔吓跑，反而重新找回了生活的魅力，而一天清晨，莫伊尔竟也从雷奥的鼾声中又一次触碰到了生命的意义……",
+      "releaseDate": "2009-11-18",
+      "backdropPath": "/yKS1FhezmyFsrAGe6g5wK1L7aSD.jpg",
+      "posterPath": "/ynUhEYaAWuJ0UPIrsIQ8nIKEveW.jpg",
+      "rating": 5.6,
       "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 51731,
@@ -431,45 +470,6 @@
       "genreTitle": "动作, 喜剧"
     },
     {
-      "id": 52628,
-      "type": "tmdb",
-      "title": "枕边的男人",
-      "originalTitle": "L'Homme de Chevet",
-      "description": "雷奥（克里斯多弗·兰伯特 Christopher Lambert 饰）曾经是一名出尽风头的拳击手，退役后来到加勒比海边的小城卡塔赫纳定居。然而告别了辉煌的职业生涯，他突然对生活茫然无措，只终日混迹酒吧颓废度日。直到有一天，他迫于生计应聘了一个护工工作，负责照看一个因车祸导致全身瘫痪的女人莫伊尔（苏菲·玛索 Sophie Marceau 饰）。曾经干练好胜的女强人莫伊尔，自从车祸无情地夺走她的行动能力后，似乎也夺走了她全部的生机，虽家赀巨万，她却再也无法感受到昨日春光，温柔海浪。仿佛被生活掏空的莫伊尔只能天天躺着消磨余下岁月，并对雷奥的照顾吹毛求疵。然而，两个灵魂在摩擦的同时似乎也在磨合，渐渐地，雷奥不仅没被莫伊尔的挑剔吓跑，反而重新找回了生活的魅力，而一天清晨，莫伊尔竟也从雷奥的鼾声中又一次触碰到了生命的意义……",
-      "releaseDate": "2009-11-18",
-      "backdropPath": "/yKS1FhezmyFsrAGe6g5wK1L7aSD.jpg",
-      "posterPath": "/ynUhEYaAWuJ0UPIrsIQ8nIKEveW.jpg",
-      "rating": 5.594,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 485289,
-      "type": "tmdb",
-      "title": "重返·狼群",
-      "originalTitle": "重返·狼群",
-      "description": "美女画家李微漪在一次草原采风中意外收养了狼王遗孤，为其取名格林，并带回成都喂养。但繁华的都市无法容纳一匹野性的草原狼，李微漪带着格林重返草原，一路追寻狼群的踪迹，历经严寒酷雪，终于目送它成功地重返狼群。",
-      "releaseDate": "2017-06-16",
-      "backdropPath": "/1LtZ3PZiC57fTVKfsUbgxXAYpE5.jpg",
-      "posterPath": "/k51M8AtA3mVj0TMcH9a6CjQd3GC.jpg",
-      "rating": 6.333,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1497873,
-      "type": "tmdb",
-      "title": "翠湖",
-      "originalTitle": "翠湖",
-      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
-      "releaseDate": "2026-01-24",
-      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
-      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 587391,
       "type": "tmdb",
       "title": "花园编舟记",
@@ -483,17 +483,17 @@
       "genreTitle": "动画, 剧情"
     },
     {
-      "id": 1313144,
+      "id": 485289,
       "type": "tmdb",
-      "title": "钢琴事故",
-      "originalTitle": "L'Accident de piano",
-      "description": "玛佳莉体质特异，不但感受不到痛觉，受伤更能快速痊愈。她利用这项天赋来拍摄网络短片，从被刀砍、被火烧，逐步升级成被拳击手暴揍、被大卡车辗过，人体奇观吸引巨量粉丝，短短数年内跃身顶级网红。好不容易想到全新刺激噱头，一场无法挽回的钢琴意外，却让她的网红之路面临空前危机，更被迫接受一名资深记者的灵魂拷问⋯⋯",
-      "releaseDate": "2025-07-02",
-      "backdropPath": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
-      "posterPath": "/euF099slkcbX6CoYvUvfIp0uHdP.jpg",
-      "rating": 6.3,
+      "title": "重返·狼群",
+      "originalTitle": "重返·狼群",
+      "description": "美女画家李微漪在一次草原采风中意外收养了狼王遗孤，为其取名格林，并带回成都喂养。但繁华的都市无法容纳一匹野性的草原狼，李微漪带着格林重返草原，一路追寻狼群的踪迹，历经严寒酷雪，终于目送它成功地重返狼群。",
+      "releaseDate": "2017-06-16",
+      "backdropPath": "/1LtZ3PZiC57fTVKfsUbgxXAYpE5.jpg",
+      "posterPath": "/k51M8AtA3mVj0TMcH9a6CjQd3GC.jpg",
+      "rating": 6.333,
       "mediaType": "movie",
-      "genreTitle": "喜剧"
+      "genreTitle": "纪录"
     },
     {
       "id": 1001434,
@@ -522,17 +522,17 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1020829,
+      "id": 1313144,
       "type": "tmdb",
-      "title": "狐步",
-      "originalTitle": "La Danse des renards",
-      "description": "在一所体育专科寄宿学校里，年轻的拳击新星卡米尔刚夺得法国冠军头衔，却在一次致命事故中被挚友马泰奥惊险救下。随着焦虑逐渐侵蚀内心，他开始质疑自己对拳击的热爱，以及与马泰奥的亲密友谊。",
-      "releaseDate": "2026-03-18",
-      "backdropPath": "/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg",
-      "posterPath": "/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
-      "rating": 6.5,
+      "title": "钢琴事故",
+      "originalTitle": "L'Accident de piano",
+      "description": "玛佳莉体质特异，不但感受不到痛觉，受伤更能快速痊愈。她利用这项天赋来拍摄网络短片，从被刀砍、被火烧，逐步升级成被拳击手暴揍、被大卡车辗过，人体奇观吸引巨量粉丝，短短数年内跃身顶级网红。好不容易想到全新刺激噱头，一场无法挽回的钢琴意外，却让她的网红之路面临空前危机，更被迫接受一名资深记者的灵魂拷问⋯⋯",
+      "releaseDate": "2025-07-02",
+      "backdropPath": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
+      "posterPath": "/euF099slkcbX6CoYvUvfIp0uHdP.jpg",
+      "rating": 6.3,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "喜剧"
     },
     {
       "id": 1089654,
@@ -543,9 +543,22 @@
       "releaseDate": "2023-07-02",
       "backdropPath": "/m4sS3YPOu6OPHzwJcPKjMH1TyRA.jpg",
       "posterPath": "/7wxk8Ka5AGUIjCpEPg4vBOwSSul.jpg",
-      "rating": 7.619,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "动画, 历史"
+    },
+    {
+      "id": 1020829,
+      "type": "tmdb",
+      "title": "狐步",
+      "originalTitle": "La Danse des renards",
+      "description": "在一所体育专科寄宿学校里，年轻的拳击新星卡米尔刚夺得法国冠军头衔，却在一次致命事故中被挚友马泰奥惊险救下。随着焦虑逐渐侵蚀内心，他开始质疑自己对拳击的热爱，以及与马泰奥的亲密友谊。",
+      "releaseDate": "2026-03-18",
+      "backdropPath": "/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg",
+      "posterPath": "/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
+      "rating": 6.7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 168259,
@@ -611,19 +624,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1323410,
-      "type": "tmdb",
-      "title": "月光里的男孩",
-      "originalTitle": "月光里的男孩",
-      "description": "作家扎西因为儿时打瞎了一条与他同名的狗而愧疚多年，可是当他再回到家乡后却得知了事情的真相。",
-      "releaseDate": "2026-01-06",
-      "backdropPath": "/wUgoZzLqH9GXUKBnt2DvPqWbGJV.jpg",
-      "posterPath": "/7D2xwJK5eBMiKXKqeNguPCIDRAc.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1002640,
