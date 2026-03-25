@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-24T20:28:49.233Z",
+  "time": "2026-03-25T20:25:57.317Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
         "posterPath": "/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
-        "rating": 7.591,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
         "posterPath": "/yeHm0aIsAMFt0E8b12KhJ70wQKF.jpg",
-        "rating": 7.022,
+        "rating": 6.917,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-12-10",
         "backdropPath": "/icKqDHdwMjwC15OJSYNjeGCWttO.jpg",
         "posterPath": "/4F3lAOngHzNZtXiJ4zSB0CqXOZ.jpg",
-        "rating": 6.357,
+        "rating": 6.4,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-05",
         "backdropPath": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
         "posterPath": "/r1QSrP7xTqA4roGeAUt8a3Gwiy4.jpg",
-        "rating": 7.436,
+        "rating": 7.461,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -143,7 +143,7 @@
         "releaseDate": "2026-01-23",
         "backdropPath": "/c5mwcq4lvp96cHPgAWE1uxdwxkR.jpg",
         "posterPath": "/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-        "rating": 8.9,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -174,6 +174,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 275631,
+        "type": "tmdb",
+        "title": "非常检控观",
+        "originalTitle": "非常檢控觀",
+        "description": "律政司高级助理刑事检控专员包希仁患有罕见的「镜反射触觉症」，具有极致同理心。他以还原案件100%真相为目标，致力让被告认罪，减少受害者面对冗长聆讯的痛苦。希仁与律政书记公孙珀、志同道合的高级督察展熊飞、曾是受害者的秦湘言、实习检控官赵子帧等人通力合作，伸张正义。众人遇到不少阻力，希仁甚至要与身为财团长女的母亲为敌、跟身为大律师的旧情人王颂星对垒……然而，希仁坚守信念，誓要还受害人一个真相和公道！",
+        "releaseDate": "2026-01-19",
+        "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
+        "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 259554,
         "type": "tmdb",
         "title": "夜色正浓",
@@ -187,17 +200,30 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 275631,
+        "id": 300239,
         "type": "tmdb",
-        "title": "非常检控观",
-        "originalTitle": "非常檢控觀",
-        "description": "律政司高级助理刑事检控专员包希仁患有罕见的「镜反射触觉症」，具有极致同理心。他以还原案件100%真相为目标，致力让被告认罪，减少受害者面对冗长聆讯的痛苦。希仁与律政书记公孙珀、志同道合的高级督察展熊飞、曾是受害者的秦湘言、实习检控官赵子帧等人通力合作，伸张正义。众人遇到不少阻力，希仁甚至要与身为财团长女的母亲为敌、跟身为大律师的旧情人王颂星对垒……然而，希仁坚守信念，誓要还受害人一个真相和公道！",
-        "releaseDate": "2026-01-19",
-        "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
-        "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
-        "rating": 7,
+        "title": "动物园",
+        "originalTitle": "動物園",
+        "description": "任职广告公司的朱欣葵，在职场中磨练出超抗压人格。眼见事业正要起飞，却遭遇各种不顺，先是惹毛了大客户、男友无理取闹，还被公司打入冷宫。此时，寿山动物园公开招标，希望更新品牌形象，这正是她翻身的最后希望，但却没想到条件是要亲身担任实习保育员！过往熟悉的办公室法则全派不上场，面对动物和人类同事们，前辈苏冠州尤其难搞，第一天就想回家的她怀疑，自己真的能在这里存活下来吗？",
+        "releaseDate": "2026-02-20",
+        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
+        "posterPath": "/9VdgDtCNfIRKURWfx6yo3KJ9M5x.jpg",
+        "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 283682,
+        "type": "tmdb",
+        "title": "好好的时光",
+        "originalTitle": "好好的时光",
+        "description": "上世纪70年代末，带着两儿一女的机械厂工人庄先进，迎娶了带着一儿一女的歌舞团演员苏小曼，来自两个家庭的孩子各怀心思，和父母一道演绎了一段三十年的情感大戏。自小当家的大女儿庄好好，是两个重组家庭的“定盘星”，从电车售票员到歌舞厅里的驻唱红歌手，她像高山之巅的野花，和家人们携手并肩心向阳光，顽强生长。庄先进终于实现了为孩子起名“好好学习，天天向上”的梦想，可为之圆梦的庄向上却成为庄好好和苏小曼之间不可说破的“秘密”。庄学习和王元媛本是青梅竹马的同学，却因各自父母的结合，两人只能擦肩而过。庄先进的徒弟刘成追求庄先进的女儿庄好好未果，却娶了苏小曼的女儿。",
+        "releaseDate": "2026-02-23",
+        "backdropPath": "/7947ON9o8of5Cpm03pUbQMfuDNp.jpg",
+        "posterPath": "/1RdBWSjELHNOOkaNdTM3O1CULq8.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 家庭"
       },
       {
         "id": 280632,
@@ -213,43 +239,17 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 273124,
+        "id": 279388,
         "type": "tmdb",
-        "title": "我的妈妈是校花",
-        "originalTitle": "我的妈妈是校花",
-        "description": "该剧改编自同名漫画《我的妈妈是校花》，讲述了大学生孔小灿（蒋龙 饰）得知妈妈孔桂芳（刘琳 饰）身患绝症后，毅然决然与外星人做交易，通过“生命能量”互换，让45岁的母亲重拾20岁孔桂芳（邓恩熙 饰）的青春容颜，开启崭新人生旅程的故事。",
-        "releaseDate": "2026-02-13",
-        "backdropPath": "/wgzEClTkLKxW1yD1tsOP74rNR9a.jpg",
-        "posterPath": "/22wUiGWk89Lmj2I5jHC2AOO4uLM.jpg",
-        "rating": 9,
+        "title": "逐玉",
+        "originalTitle": "逐玉",
+        "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
+        "releaseDate": "2026-03-06",
+        "backdropPath": "/m3pSdwqmMaRziGBsD5q3pbXY8Ni.jpg",
+        "posterPath": "/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
+        "rating": 7.952,
         "mediaType": "tv",
-        "genreTitle": "喜剧, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 312725,
-        "type": "tmdb",
-        "title": "九号秘事之黑帷背后",
-        "originalTitle": "九号秘事之黑帷背后",
-        "description": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体验小人物的故事，绽放人性微光，创造意料之外又情理之中的脑力盛宴，构筑并托举起黑色幽默与无限反转的“九号宇宙”。",
-        "releaseDate": "2026-02-11",
-        "backdropPath": "/hCi6SiRDiCUhNKz97u0U6rDp8EA.jpg",
-        "posterPath": "/9fw7aE5iRvsFCVFO5WgaHWLrK0H.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 悬疑"
-      },
-      {
-        "id": 278127,
-        "type": "tmdb",
-        "title": "唐宫奇案之青雾风鸣",
-        "originalTitle": "唐宫奇案之青雾风鸣",
-        "description": "上元佳节，宁远公主在夜宴上离奇身亡，内谒局李佩仪和太史局太史丞萧怀瑾奉命调查。李佩仪武力顶尖又善洞悉人心，面冷心善一心索骥真相，查案对她来说不只是探究真相，更是与凶手的智斗和较量。在和思维缜密萧怀瑾的默契配合下，抽丝剥茧，通过跋扈的权贵之女和身负秘密的金吾卫羽林郎将，最终探明真相找出真凶。随后一系列错综复杂的发生在大唐内廷中的宫闱秘史、诡异奇案接踵而至：“壁上花”、“血色天资”、“吉时秘闻”、“七星错”等一桩桩牵扯出后宫各类女子命运的案件中，李萧二人探索大唐奇景，感受人间奇情，并在破案过程中，逐渐查清了十五年前李家灭门案背后的真相，最终揭露出幕后黑手的阴谋。李佩仪不仅为父亲洗脱冤屈，还在追寻真相的过程中，收获了并肩作伴的伙伴，得到了救赎！",
-        "releaseDate": "2026-02-05",
-        "backdropPath": "/u9AkHDe9oiw62hZ8muokTUWdB27.jpg",
-        "posterPath": "/t9uq0A7luhtnbzLcp0jCQu8f6Ii.jpg",
-        "rating": 6.8,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
+        "genreTitle": "剧情"
       },
       {
         "id": 278882,
@@ -275,7 +275,7 @@
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
         "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
-        "rating": 5.7,
+        "rating": 5.1,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -301,22 +301,35 @@
         "releaseDate": "2026-02-12",
         "backdropPath": "/sPXZ3of4Lf1D1LXY0PUI1RpsYo6.jpg",
         "posterPath": "/jQvrRQgHpGqUCc5oT3GxSfvDWqO.jpg",
-        "rating": 9,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
       },
       {
-        "id": 224372,
+        "id": 225780,
         "type": "tmdb",
-        "title": "七王国的骑士",
-        "originalTitle": "A Knight of the Seven Kingdoms",
-        "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-        "releaseDate": "2026-01-18",
-        "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
-        "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-        "rating": 8.474,
+        "title": "戴洛克小镇",
+        "originalTitle": "Deadloch",
+        "description": "",
+        "releaseDate": "2026-03-19",
+        "backdropPath": "/n58Py8VN2Z677AslZyfc3Aj3uUI.jpg",
+        "posterPath": "/cVKeISd04YNsiv5mpoRt2BfQoJm.jpg",
+        "rating": 1,
         "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
+        "genreTitle": "喜剧, 犯罪"
+      },
+      {
+        "id": 241860,
+        "type": "tmdb",
+        "title": "权欲之巅 Climax",
+        "originalTitle": "클라이맥스",
+        "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
+        "releaseDate": "2026-03-16",
+        "backdropPath": "/joeWNlosN0XyBkApi215L6asTx6.jpg",
+        "posterPath": "/i4zdPSNgEU1RXR6EuOvOF3Vw373.jpg",
+        "rating": 10,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 剧情"
       },
       {
         "id": 250307,
@@ -327,7 +340,20 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 7.6,
+        "rating": 6.9,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 225891,
+        "type": "tmdb",
+        "title": "麦迪逊河谷",
+        "originalTitle": "The Madison",
+        "description": "该剧是《黄石》宇宙的第一部现代背景衍生剧，故事聚焦一个纽约家庭在蒙大拿州中部麦迪逊河谷地的生活，将对悲伤和人际关系进行真诚的研究和审视。",
+        "releaseDate": "2026-03-14",
+        "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
+        "posterPath": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+        "rating": 8.722,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -339,7 +365,7 @@
         "description": "1994年，口无遮拦的泰迪熊和他挚友——外向却笨拙的约翰·贝内特正经历着高中最后一年。这对好友与约翰的父母（马蒂和苏珊）及表妹（布莱尔）同住波士顿一户蓝领家庭。马蒂是个爱吹牛的波士顿蓝领，自诩为家中无可争议的主子，尤其反感有人挑战他，尤其是他那思想开明的侄女。苏珊则温柔无私，照顾家人时近乎病态地甜言蜜语。布莱尔是位直言不讳的大学生，常与更保守的亲戚们产生分歧。",
         "releaseDate": "2026-03-05",
         "backdropPath": "/xaiKpxuf9YGuTsqpdK5HSbD8M8f.jpg",
-        "posterPath": "/7I1qtZbsU4Tuklef5SHjmFjrHEP.jpg",
+        "posterPath": "/hSSvuealwIWQEnhGzvVJS9DauYm.jpg",
         "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "喜剧"
@@ -358,43 +384,17 @@
         "genreTitle": "喜剧"
       },
       {
-        "id": 233833,
+        "id": 305986,
         "type": "tmdb",
-        "title": "在你灿烂的季节",
-        "originalTitle": "찬란한 너의 계절에",
-        "description": "该剧讲述了因过去伤痛而封闭内心的女设计师宋嘏烂（李圣经饰）与像阳光般明媚却也深陷伤痛的男设计师鲜于灿（蔡钟协饰）命运般重逢，并在互相救赎中治愈彼此的感人故事。",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-        "posterPath": "/ad1BV4FnSxpo54TQnVYhhDaoGgK.jpg",
-        "rating": 8.667,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 剧情"
-      },
-      {
-        "id": 313298,
-        "type": "tmdb",
-        "title": "恐龙时代：你不知道的故事",
-        "originalTitle": "The Dinosaurs",
-        "description": "从最早到最后的恐龙，这部史诗级纪录片剧集深入探索了它们在地球上长达 1.65 亿年的历程及其进化的动力。",
-        "releaseDate": "2026-03-06",
-        "backdropPath": "/8X2R9uLys3SmkRuQAmSI96xxJAF.jpg",
-        "posterPath": "/2PqiAWN4VEFZ6yYeUVxP202opTr.jpg",
-        "rating": 7.9,
-        "mediaType": "tv",
-        "genreTitle": "纪录"
-      },
-      {
-        "id": 281016,
-        "type": "tmdb",
-        "title": "订阅男友",
-        "originalTitle": "월간남친",
-        "description": "徐未来被工作压得喘不过气，谈恋爱？根本没空去想。一项虚拟约会服务却意外唤醒她的恋爱细胞，也许这就是真爱的开始。",
-        "releaseDate": "2026-03-06",
-        "backdropPath": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
-        "posterPath": "/eKXpgaizikUIRuHs84THxoLvpCK.jpg",
+        "title": "钟表馆事件",
+        "originalTitle": "時計館の殺人",
+        "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
+        "releaseDate": "2026-02-27",
+        "backdropPath": "/8H0UU19gWdlumau0CsajTuMcroN.jpg",
+        "posterPath": "/5oWf1afgT21KVi2B5vhBlTxR9vv.jpg",
         "rating": 8.5,
         "mediaType": "tv",
-        "genreTitle": "喜剧, Sci-Fi & Fantasy"
+        "genreTitle": "剧情, 悬疑"
       }
     ]
   }
