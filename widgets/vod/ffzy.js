@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "非凡影视",
   description: "获取非凡影视的 VOD 资源",
   requiredVersion: "0.0.1",
-  version: "1.1.0",
+  version: "1.1.1",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -25,7 +25,7 @@ const CACHE_DURATION = 24 * 60 * 60 * 1000;
 
 async function getIdMapping() {
   try {
-    const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/id-mapping.json";
+    const url = "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/data/id-mapping.json";
     return (await Widget.http.get(url)).data;
   } catch (error) {
     console.error("获取 ID 映射失败: ", error.message);
@@ -35,7 +35,7 @@ async function getIdMapping() {
 
 async function getTitleMapping() {
   try {
-    const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/title-mapping.json";
+    const url = "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/data/title-mapping.json";
     return (await Widget.http.get(url)).data;
   } catch (error) {
     console.error("获取标题映射失败: ", error.message);

@@ -10,43 +10,43 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.2",
       "author": "suiyuran",
-      "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/tmdb.js"
+      "url": "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/widgets/tmdb.js"
     },
     {
       "id": "suiyuran.forward.widgets.douban",
       "title": "豆瓣",
       "description": "获取豆瓣的榜单数据",
       "requiredVersion": "0.0.1",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "author": "suiyuran",
-      "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/douban.js"
+      "url": "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/widgets/douban.js"
     },
     {
       "id": "suiyuran.forward.widgets.bangumi",
       "title": "Bangumi",
       "description": "获取 Bangumi 的动画数据",
       "requiredVersion": "0.0.1",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": "suiyuran",
-      "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/bangumi.js"
+      "url": "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/widgets/bangumi.js"
     },
     {
       "id": "suiyuran.forward.widgets.vod.dytt",
       "title": "电影天堂",
       "description": "获取电影天堂的 VOD 资源",
       "requiredVersion": "0.0.1",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": "suiyuran",
-      "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/vod/dytt.js"
+      "url": "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/widgets/vod/dytt.js"
     },
     {
       "id": "suiyuran.forward.widgets.vod.ffzy",
       "title": "非凡影视",
       "description": "获取非凡影视的 VOD 资源",
       "requiredVersion": "0.0.1",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": "suiyuran",
-      "url": "https://raw.githubusercontent.com/suiyuran/forward/main/widgets/vod/ffzy.js"
+      "url": "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/widgets/vod/ffzy.js"
     }
   ]
 }

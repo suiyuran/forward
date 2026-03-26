@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "豆瓣",
   description: "获取豆瓣的榜单数据",
   requiredVersion: "0.0.1",
-  version: "1.0.4",
+  version: "1.0.5",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -95,7 +95,7 @@ WidgetMetadata = {
 
 async function showing() {
   try {
-    const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/douban/showing.json";
+    const url = "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/data/douban/showing.json";
     return (await Widget.http.get(url)).data.data;
   } catch (error) {
     return [];
@@ -104,7 +104,7 @@ async function showing() {
 
 async function weekly(params) {
   try {
-    const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/douban/weekly.json";
+    const url = "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/data/douban/weekly.json";
     const data = (await Widget.http.get(url)).data.data;
     const type = params.type || "电影";
     const country = type === "电影" ? "" : params.country || "国内";
@@ -117,7 +117,7 @@ async function weekly(params) {
 
 async function theater(params) {
   try {
-    const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/douban/theater.json";
+    const url = "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/data/douban/theater.json";
     const data = (await Widget.http.get(url)).data.data;
     const name = params.name || "爱奇艺·迷雾剧场";
     return data[name] || [];
@@ -128,7 +128,7 @@ async function theater(params) {
 
 async function top250() {
   try {
-    const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/douban/top250.json";
+    const url = "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/data/douban/top250.json";
     return (await Widget.http.get(url)).data.data;
   } catch (error) {
     return [];

@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "Bangumi",
   description: "获取 Bangumi 的动画数据",
   requiredVersion: "0.0.1",
-  version: "1.0.1",
+  version: "1.0.2",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -58,7 +58,7 @@ WidgetMetadata = {
 
 async function calendar(params) {
   try {
-    const url = "https://raw.githubusercontent.com/suiyuran/forward/main/data/bangumi/calendar.json";
+    const url = "https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/data/bangumi/calendar.json";
     const data = (await Widget.http.get(url)).data.data;
     let day = params.day || "today";
 

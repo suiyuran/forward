@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/suiyuran/forward/main/widgets.fwd
+https://raw.githubusercontent.com/suiyuran/forward/refs/heads/main/widgets.fwd
