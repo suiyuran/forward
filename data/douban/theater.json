@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-25T18:49:08.524Z",
+  "time": "2026-03-26T18:57:46.055Z",
   "data": {
     "爱奇艺·迷雾剧场": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-02-23",
         "backdropPath": "/gc9ySDlKwKnwlEw6km6KUXM44Yq.jpg",
         "posterPath": "/ky9Eit4aA3BFLQdrulRuDNdvWLS.jpg",
-        "rating": 8,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2025-10-11",
         "backdropPath": "/lM5xhjqe1tqKoj7zJVtKto1Npg4.jpg",
         "posterPath": "/rDlV8qvLuN27ZqUdqNYj6YFK1Yi.jpg",
-        "rating": 8.3,
+        "rating": 8.182,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-04-03",
         "backdropPath": "/gId0qV04Np9d4zfZ6GdPS92H68o.jpg",
         "posterPath": "/gnaDUFZYlScmjU8vQqfdn4KcFVe.jpg",
-        "rating": 7.545,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -362,7 +362,7 @@
         "releaseDate": "2020-06-16",
         "backdropPath": "/22DU3JT5EJ6fCkCUB8iYgwI8stO.jpg",
         "posterPath": "/zlaml7IKAIPa3NJE9LhRveELD0v.jpg",
-        "rating": 8.438,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
@@ -403,7 +403,7 @@
         "releaseDate": "2025-12-29",
         "backdropPath": "/x6QjTRPtCu0FMtf8FFts7yZSldO.jpg",
         "posterPath": "/yeKMKaSvkZjAzUhrInVCTASqQIs.jpg",
-        "rating": 8.875,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -455,7 +455,7 @@
         "releaseDate": "2025-03-28",
         "backdropPath": "/zTwxipFhyXVxjnLDzg9NfjHjgUt.jpg",
         "posterPath": "/yUJFYkvFgciAMSE4nHqyttenIwc.jpg",
-        "rating": 7.75,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
@@ -507,7 +507,7 @@
         "releaseDate": "2024-08-16",
         "backdropPath": "/zWZJV304xSYKa2KRs73jyhnlz1c.jpg",
         "posterPath": "/fhlimtLNQKYdvgArV3aXCiB49RI.jpg",
-        "rating": 7.481,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -533,7 +533,7 @@
         "releaseDate": "2024-05-06",
         "backdropPath": "/anQDG7v1D6vRKAXIuNbc2PsGnmW.jpg",
         "posterPath": "/fDuC8THHGITyZcKpw3D4GmJYglf.jpg",
-        "rating": 7.125,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -795,7 +795,7 @@
         "releaseDate": "2021-07-19",
         "backdropPath": "/qGr5a2KVIpmNfI0h2DKAIET7QeI.jpg",
         "posterPath": "/s3n3f1FGqsuztzanZm2PFi9ZZvI.jpg",
-        "rating": 7.778,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -862,7 +862,7 @@
         "releaseDate": "2025-03-25",
         "backdropPath": "/zTfV8rTIeZmtEciQI7HJxOyKYoB.jpg",
         "posterPath": "/1Q16z9yXH9tlCq6yz5Td65wsfob.jpg",
-        "rating": 7.35,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
@@ -914,7 +914,7 @@
         "releaseDate": "2023-04-22",
         "backdropPath": "/rCm6BJkkPukfHYWNNx7WkGpCdZH.jpg",
         "posterPath": "/tJLiKDYdfMskFkJXV1HnaQAdpGf.jpg",
-        "rating": 8.853,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       }
