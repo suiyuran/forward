@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-25T20:25:57.317Z",
+  "time": "2026-03-26T20:24:09.585Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
         "posterPath": "/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
-        "rating": 7.6,
+        "rating": 7.507,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
         "posterPath": "/yeHm0aIsAMFt0E8b12KhJ70wQKF.jpg",
-        "rating": 6.917,
+        "rating": 6.474,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-10-24",
         "backdropPath": "/fw2fv7Cn77Xme8c7XD9pZqiG6LO.jpg",
         "posterPath": "/t41GV14N1Nt7128bSbwt0gbkv5v.jpg",
-        "rating": 7.571,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-02-11",
         "backdropPath": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
         "posterPath": "/l8dW6J5X8oDXBxz7tgBh9Km0loa.jpg",
-        "rating": 7.019,
+        "rating": 6.991,
         "mediaType": "movie",
         "genreTitle": "犯罪, 惊悚"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-05",
         "backdropPath": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
         "posterPath": "/r1QSrP7xTqA4roGeAUt8a3Gwiy4.jpg",
-        "rating": 7.461,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2025-11-15",
         "backdropPath": "/af7mgiKiFRdlsv01F18AP5rHEz6.jpg",
         "posterPath": "/qurd8tG5E2T20QihO0ysaJCzAjL.jpg",
-        "rating": 5.143,
+        "rating": 5.1,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       }
@@ -156,7 +156,7 @@
         "releaseDate": "2026-02-23",
         "backdropPath": "/gc9ySDlKwKnwlEw6km6KUXM44Yq.jpg",
         "posterPath": "/ky9Eit4aA3BFLQdrulRuDNdvWLS.jpg",
-        "rating": 8,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
@@ -208,7 +208,7 @@
         "releaseDate": "2026-02-20",
         "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
         "posterPath": "/9VdgDtCNfIRKURWfx6yo3KJ9M5x.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-02-06",
         "backdropPath": "/myJLWz2Rk0e8YHSSw3caCrOEETT.jpg",
         "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-        "rating": 8.286,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -245,9 +245,9 @@
         "originalTitle": "逐玉",
         "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
         "releaseDate": "2026-03-06",
-        "backdropPath": "/m3pSdwqmMaRziGBsD5q3pbXY8Ni.jpg",
+        "backdropPath": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
         "posterPath": "/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
-        "rating": 7.952,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
         "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
-        "rating": 5.1,
+        "rating": 4.5,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -288,16 +288,16 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
         "posterPath": "/nSHBJp1ulPxdp7vtUTrhoXjZjfb.jpg",
-        "rating": 6.8,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
         "id": 303724,
         "type": "tmdb",
-        "title": "心动代码",
+        "title": "心动密码",
         "originalTitle": "สืบลับจับใจ",
-        "description": "",
+        "description": "一位权势显赫的警官之女，在躲过数次暗杀后悄然加入精英训练计划。在这里她邂逅了一位纪律严明、直觉敏锐的军官，两人被迫同住一室，暧昧情愫悄然滋长。然而政治阴谋、未解命案与错综往事即将撕裂这段关系。当一方发现对方的父亲竟与自己家族悲剧有所牵连时，在职责、危险与真相代价的层层考验下，两人不得不在正义和意外降临的爱情间做出抉择。",
         "releaseDate": "2026-02-12",
         "backdropPath": "/sPXZ3of4Lf1D1LXY0PUI1RpsYo6.jpg",
         "posterPath": "/jQvrRQgHpGqUCc5oT3GxSfvDWqO.jpg",
@@ -326,7 +326,7 @@
         "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
         "releaseDate": "2026-03-16",
         "backdropPath": "/joeWNlosN0XyBkApi215L6asTx6.jpg",
-        "posterPath": "/i4zdPSNgEU1RXR6EuOvOF3Vw373.jpg",
+        "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
         "rating": 10,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
@@ -340,7 +340,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 6.9,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-03-14",
         "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
         "posterPath": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-        "rating": 8.722,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -386,13 +386,13 @@
       {
         "id": 305986,
         "type": "tmdb",
-        "title": "钟表馆事件",
+        "title": "钟表馆杀人事件",
         "originalTitle": "時計館の殺人",
-        "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
+        "description": "该剧作为“馆”系列影视化第二部作品，以充满精密时钟的神秘宅邸“钟表馆”为舞台，讲述了编辑江南孝明与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案，推理作家鹿谷门实也介入调查，共同揭开宅邸与过去惨剧的真相。",
         "releaseDate": "2026-02-27",
         "backdropPath": "/8H0UU19gWdlumau0CsajTuMcroN.jpg",
         "posterPath": "/5oWf1afgT21KVi2B5vhBlTxR9vv.jpg",
-        "rating": 8.5,
+        "rating": 6.4,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       }
