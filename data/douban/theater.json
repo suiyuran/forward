@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-26T18:57:46.055Z",
+  "time": "2026-03-27T18:48:16.536Z",
   "data": {
     "爱奇艺·迷雾剧场": [
       {
@@ -193,7 +193,7 @@
         "releaseDate": "2023-12-21",
         "backdropPath": "/8PkKQcA53Zb9fEojItVfpeDLxsX.jpg",
         "posterPath": "/yfR4jBCa8aKrvS90NGsLR15qC1H.jpg",
-        "rating": 8.1,
+        "rating": 8.091,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -323,7 +323,7 @@
         "releaseDate": "2020-09-16",
         "backdropPath": "/hA0gKb3Fx33mnEBVO6uJtbmfg0r.jpg",
         "posterPath": "/wU5L7mZA0Yy764D1WPP2403d0MG.jpg",
-        "rating": 8.5,
+        "rating": 8.484,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -507,7 +507,7 @@
         "releaseDate": "2024-08-16",
         "backdropPath": "/zWZJV304xSYKa2KRs73jyhnlz1c.jpg",
         "posterPath": "/fhlimtLNQKYdvgArV3aXCiB49RI.jpg",
-        "rating": 7.5,
+        "rating": 7.444,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -914,7 +914,7 @@
         "releaseDate": "2023-04-22",
         "backdropPath": "/rCm6BJkkPukfHYWNNx7WkGpCdZH.jpg",
         "posterPath": "/tJLiKDYdfMskFkJXV1HnaQAdpGf.jpg",
-        "rating": 8.9,
+        "rating": 8.845,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       }
