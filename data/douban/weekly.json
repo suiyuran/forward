@@ -1,19 +1,32 @@
 {
-  "time": "2026-03-26T20:24:09.585Z",
+  "time": "2026-03-27T20:22:48.410Z",
   "data": {
     "电影": [
       {
-        "id": 1119537,
+        "id": 687163,
         "type": "tmdb",
-        "title": "爱的证明",
-        "originalTitle": "Des preuves d'amour",
-        "description": "2014年的法国迎来同性婚姻合法化。当妻子腹中孕育着新生命时，塞琳娜一边为争取收养资格收集证明材料，一边直面内心对母职的认知冲突。",
-        "releaseDate": "2025-11-19",
-        "backdropPath": "/sV76oy9hyVjycnk0On04cpB9uzd.jpg",
-        "posterPath": "/cgE5Oo0qBJ8VAtQaF4vIDFK4OI7.jpg",
-        "rating": 7.8,
+        "title": "挽救计划",
+        "originalTitle": "Project Hail Mary",
+        "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
+        "releaseDate": "2026-03-15",
+        "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
+        "rating": 8.178,
         "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
+        "genreTitle": "科幻, 冒险"
+      },
+      {
+        "id": 1327819,
+        "type": "tmdb",
+        "title": "河狸变身计划",
+        "originalTitle": "Hoppers",
+        "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
+        "releaseDate": "2026-03-04",
+        "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+        "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
+        "rating": 7.6,
+        "mediaType": "movie",
+        "genreTitle": "动画, 家庭"
       },
       {
         "id": 1393151,
@@ -24,20 +37,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
         "posterPath": "/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
-        "rating": 7.507,
-        "mediaType": "movie",
-        "genreTitle": "纪录"
-      },
-      {
-        "id": 1633264,
-        "type": "tmdb",
-        "title": "路易斯·泰鲁：解构男性圈",
-        "originalTitle": "Louis Theroux: Inside the Manosphere",
-        "description": "日益壮大的极端男性化网络社区、备受争议的网红 — 获奖纪录片制作人以独家视角毫无保留地展开探索。",
-        "releaseDate": "2026-03-10",
-        "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
-        "posterPath": "/yeHm0aIsAMFt0E8b12KhJ70wQKF.jpg",
-        "rating": 6.474,
+        "rating": 7.521,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -55,6 +55,45 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 1417790,
+        "type": "tmdb",
+        "title": "遇见世界",
+        "originalTitle": "ミーツ・ザ・ワールド",
+        "description": "本作改编自金原瞳同名小说，27岁的主角由嘉里，狂热沉迷于拟人化烤肉漫画《Meat Is Mine》，却无法喜欢上自己。看着身边朋友陆续结婚生子、脱离二次元圈，她焦虑之下开始相亲，却在联谊惨败后醉倒歌舞伎町街头，被一位美丽的陪酒女郎“RAI”救下。这次相遇将她带进了一个全新的世界……",
+        "releaseDate": "2025-10-24",
+        "backdropPath": "/bSHwhJvu4kJBeRSe2MHEJFXYKgj.jpg",
+        "posterPath": "/oymKm1yLabt8a4oezYPLIFSjOea.jpg",
+        "rating": 6,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1294698,
+        "type": "tmdb",
+        "title": "137号案件",
+        "originalTitle": "Dossier 137",
+        "description": "对于斯特凡妮（Stéphanie）——法国国家警察总督察署（IGPN，即监管警察的机构）的一名调查员来说，第137号案件起初似乎只是又一个普通案件。然而，一个意外因素将困扰斯特凡妮，并使这个案件从一个简单的编号演变为更具深意的存在。",
+        "releaseDate": "2025-11-19",
+        "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
+        "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
+        "rating": 7.049,
+        "mediaType": "movie",
+        "genreTitle": "犯罪, 剧情"
+      },
+      {
+        "id": 1423035,
+        "type": "tmdb",
+        "title": "挫败的人生劫案",
+        "originalTitle": "Aontas",
+        "description": "是被过去塑造的囚徒，还是自我命运的缔造者？故事以抢劫失败后的悲剧开场。一位濒临崩溃的偏执女子，带领两名同伙抢劫了爱尔兰农村信用社，但计划漏洞百出。事态不断失控，随着时光倒流，那些无法逃离的记忆如同锁链，不仅将她们拖入深渊，更将身边人卷入致命漩涡。",
+        "releaseDate": "2026-02-13",
+        "backdropPath": "/tosxYPeSTPuvpRDlNG5l56Ae09J.jpg",
+        "posterPath": "/qmP75nlRXg5tyUG0Uf1FXQT4FRM.jpg",
+        "rating": 0,
+        "mediaType": "movie",
+        "genreTitle": "惊悚, 犯罪"
+      },
+      {
         "id": 1000850,
         "type": "tmdb",
         "title": "风来之所",
@@ -68,69 +107,30 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 1466302,
+        "id": 1633264,
         "type": "tmdb",
-        "title": "愚者的身份",
-        "originalTitle": "愚か者の身分",
-        "description": "犯罪集团分子拓矢、阿护与梶谷游走东京，诓骗孑然一身的男子出售身分。 有人万念俱灰、有人力求翻身，贩卖人生成了一笔笔绝佳生意。 随着组织指派的任务越加泯灭人性，拓矢决心脱离、迈向新生活之际，却惨遭上司背叛追缉。 阿护幸免于难却始终心系拓矢，梶谷因任务陷入道德困局。 三人亡命天涯，不堪的过往如影随形，纵有赎罪抵抗的勇气，重获新生又谈何容易？",
-        "releaseDate": "2025-10-24",
-        "backdropPath": "/fw2fv7Cn77Xme8c7XD9pZqiG6LO.jpg",
-        "posterPath": "/t41GV14N1Nt7128bSbwt0gbkv5v.jpg",
-        "rating": 7.6,
+        "title": "路易斯·泰鲁：解构男性圈",
+        "originalTitle": "Louis Theroux: Inside the Manosphere",
+        "description": "日益壮大的极端男性化网络社区、备受争议的网红 — 获奖纪录片制作人以独家视角毫无保留地展开探索。",
+        "releaseDate": "2026-03-10",
+        "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
+        "posterPath": "/yeHm0aIsAMFt0E8b12KhJ70wQKF.jpg",
+        "rating": 6.467,
         "mediaType": "movie",
-        "genreTitle": "犯罪, 剧情"
+        "genreTitle": "纪录"
       },
       {
-        "id": 1290450,
+        "id": 1198994,
         "type": "tmdb",
-        "title": "柔情挚我",
-        "originalTitle": "Love Me Tender",
-        "description": "她离开丈夫与儿子，也离开稳定的律师工作，在泳池、露天咖啡厅与私人公寓自在游走。以写作寄托生活，对儿子的爱未减半分，与丈夫也亲如挚友，直到那日，她向丈夫吐露与女性的亲密关系，完美生活旋即化为一场幻梦。在失去监护权后，她不得不在机构间穿梭，为了见儿子一面奋力一搏，却不知这样的困境，何时能走到尽头？",
-        "releaseDate": "2025-12-10",
-        "backdropPath": "/icKqDHdwMjwC15OJSYNjeGCWttO.jpg",
-        "posterPath": "/4F3lAOngHzNZtXiJ4zSB0CqXOZ.jpg",
-        "rating": 6.4,
+        "title": "请求救援",
+        "originalTitle": "Send Help",
+        "description": "当求生变成猎杀，谁会是最终的幸存者？ 一架飞机失事后，作为同事的两名幸存者被困在荒岛上。他们必须放下过往恩怨、共同求生，但最终演变成一场不安又黑色幽默的意志与智慧对决……",
+        "releaseDate": "2026-01-22",
+        "backdropPath": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
+        "posterPath": "/f8c4HHITyez7RiA7pCLxI5cZQQU.jpg",
+        "rating": 7.058,
         "mediaType": "movie",
-        "genreTitle": "剧情, 历史"
-      },
-      {
-        "id": 1171145,
-        "type": "tmdb",
-        "title": "洛杉矶劫案",
-        "originalTitle": "Crime 101",
-        "description": "当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
-        "releaseDate": "2026-02-11",
-        "backdropPath": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
-        "posterPath": "/l8dW6J5X8oDXBxz7tgBh9Km0loa.jpg",
-        "rating": 6.991,
-        "mediaType": "movie",
-        "genreTitle": "犯罪, 惊悚"
-      },
-      {
-        "id": 875828,
-        "type": "tmdb",
-        "title": "浴血黑帮：不朽传奇",
-        "originalTitle": "Peaky Blinders: The Immortal Man",
-        "description": "1940年的伯明翰，在第二次世界大战的混乱中，因疏远已久的儿子卷入一场纳粹阴谋，已离开江湖的黑帮老大托马斯·谢尔比不得不重返伯明翰，拯救家人和国家。",
-        "releaseDate": "2026-03-05",
-        "backdropPath": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
-        "posterPath": "/r1QSrP7xTqA4roGeAUt8a3Gwiy4.jpg",
-        "rating": 7.4,
-        "mediaType": "movie",
-        "genreTitle": "犯罪, 剧情"
-      },
-      {
-        "id": 1239288,
-        "type": "tmdb",
-        "title": "阿特罗皮亚",
-        "originalTitle": "Atropia",
-        "description": "讲述了一位有抱负的女演员在模拟伊拉克战区的美国军事训练基地工作的故事。",
-        "releaseDate": "2025-11-15",
-        "backdropPath": "/af7mgiKiFRdlsv01F18AP5rHEz6.jpg",
-        "posterPath": "/qurd8tG5E2T20QihO0ysaJCzAjL.jpg",
-        "rating": 5.1,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
+        "genreTitle": "恐怖, 惊悚"
       }
     ],
     "剧集·国内": [
@@ -234,7 +234,7 @@
         "releaseDate": "2026-02-06",
         "backdropPath": "/myJLWz2Rk0e8YHSSw3caCrOEETT.jpg",
         "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-        "rating": 8.3,
+        "rating": 8.357,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -246,8 +246,8 @@
         "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
         "releaseDate": "2026-03-06",
         "backdropPath": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-        "posterPath": "/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
-        "rating": 8,
+        "posterPath": "/r0tun2ibKc9YucnQ57rUUMC8s8j.jpg",
+        "rating": 8.066,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -321,7 +321,7 @@
       {
         "id": 241860,
         "type": "tmdb",
-        "title": "权欲之巅 Climax",
+        "title": "权欲之巅",
         "originalTitle": "클라이맥스",
         "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
         "releaseDate": "2026-03-16",
@@ -340,7 +340,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 6.5,
+        "rating": 6.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-03-14",
         "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
         "posterPath": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-        "rating": 8.7,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
