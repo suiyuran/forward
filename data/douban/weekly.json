@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-28T20:15:42.169Z",
+  "time": "2026-03-29T20:17:49.674Z",
   "data": {
     "电影": [
       {
@@ -9,9 +9,9 @@
         "originalTitle": "Project Hail Mary",
         "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
         "releaseDate": "2026-03-15",
-        "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "backdropPath": "/afHAM9qOTmrVDeaLIU7zfssotUY.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.18,
+        "rating": 8.156,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
         "posterPath": "/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
-        "rating": 7.528,
+        "rating": 7.467,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2025-10-31",
         "backdropPath": "/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
         "posterPath": "/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
-        "rating": 7.08,
+        "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-11-19",
         "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
         "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-        "rating": 7.049,
+        "rating": 7.068,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-09-04",
         "backdropPath": "/sWzG6GFWLO01fxzRHxoDwErEQW7.jpg",
         "posterPath": "/ppViwGpufHCkpFHm8R3tkcGuqOZ.jpg",
-        "rating": 7.8,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
         "posterPath": "/yeHm0aIsAMFt0E8b12KhJ70wQKF.jpg",
-        "rating": 6.477,
+        "rating": 6.5,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-03-14",
         "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
         "posterPath": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-        "rating": 8.485,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
