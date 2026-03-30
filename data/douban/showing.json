@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-29T17:35:10.820Z",
+  "time": "2026-03-30T17:55:01.876Z",
   "data": [
     {
       "id": 687163,
@@ -8,9 +8,9 @@
       "originalTitle": "Project Hail Mary",
       "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
       "releaseDate": "2026-03-15",
-      "backdropPath": "/afHAM9qOTmrVDeaLIU7zfssotUY.jpg",
+      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.156,
+      "rating": 8.167,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -36,7 +36,7 @@
       "releaseDate": "2025-07-23",
       "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
       "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.355,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
@@ -54,19 +54,6 @@
       "genreTitle": "动画, 家庭"
     },
     {
-      "id": 696393,
-      "type": "tmdb",
-      "title": "绿液惊魂",
-      "originalTitle": "Cold Storage",
-      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
-      "releaseDate": "2026-01-22",
-      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
-      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
-      "rating": 6.718,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
-    },
-    {
       "id": 1454209,
       "type": "tmdb",
       "title": "非穷尽列举",
@@ -78,6 +65,19 @@
       "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 696393,
+      "type": "tmdb",
+      "title": "绿液惊魂",
+      "originalTitle": "Cold Storage",
+      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
+      "releaseDate": "2026-01-22",
+      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
+      "rating": 6.736,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 1268630,
@@ -93,19 +93,6 @@
       "genreTitle": "历史, 犯罪"
     },
     {
-      "id": 682012,
-      "type": "tmdb",
-      "title": "你好，爱美丽",
-      "originalTitle": "Amélie et la métaphysique des tubes",
-      "description": "对于爱美丽来说，世界是一个令人困惑又安宁的谜团，直到一次与巧克力的奇妙邂逅点燃了她强烈的好奇心。随着她对家中女佣西尾小姐产生深厚依恋，爱美丽不仅发现了大自然的奇迹，也窥见了这个外国人家庭在战后日本田园诗般生活表象之下隐藏的情感真相。",
-      "releaseDate": "2025-06-25",
-      "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
-      "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "动画, 剧情"
-    },
-    {
       "id": 1316092,
       "type": "tmdb",
       "title": "呼啸山庄",
@@ -119,6 +106,19 @@
       "genreTitle": "爱情, 剧情"
     },
     {
+      "id": 682012,
+      "type": "tmdb",
+      "title": "你好，爱美丽",
+      "originalTitle": "Amélie et la métaphysique des tubes",
+      "description": "对于爱美丽来说，世界是一个令人困惑又安宁的谜团，直到一次与巧克力的奇妙邂逅点燃了她强烈的好奇心。随着她对家中女佣西尾小姐产生深厚依恋，爱美丽不仅发现了大自然的奇迹，也窥见了这个外国人家庭在战后日本田园诗般生活表象之下隐藏的情感真相。",
+      "releaseDate": "2025-06-25",
+      "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
+      "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
+      "rating": 7.97,
+      "mediaType": "movie",
+      "genreTitle": "动画, 剧情"
+    },
+    {
       "id": 1317288,
       "type": "tmdb",
       "title": "至尊马蒂",
@@ -127,7 +127,7 @@
       "releaseDate": "2025-12-19",
       "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
       "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.4,
+      "rating": 7.434,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -140,7 +140,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.749,
+      "rating": 7.8,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -223,6 +223,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1159831,
+      "type": "tmdb",
+      "title": "暗黑新娘！",
+      "originalTitle": "The Bride!",
+      "description": "孤独的科学怪人弗兰肯斯坦（克里斯蒂安·贝尔 饰）来到了1930年代的芝加哥，恳请顶级科学家尤弗洛尼斯博士（安妮特·贝宁 饰）为他创造一位伴侣。两人成功复活了一名遭到谋杀的年轻女子，“新娘”（杰西·巴克利 饰）就此诞生。然而事态发展却远超两人想象：谋杀接踵而至，占有欲疯狂滋生，一场激进的文化运动席卷社会，更有一对亡命鸳鸯，上演一段狂烈炽热的禁忌之恋。",
+      "releaseDate": "2026-03-04",
+      "backdropPath": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
+      "posterPath": "/1pZ3BK2tdODT3cv0SAhXu9VPJSk.jpg",
+      "rating": 6.3,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 恐怖"
+    },
+    {
       "id": 1650257,
       "type": "tmdb",
       "title": "哀牢山",
@@ -234,19 +247,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
-    },
-    {
-      "id": 1159831,
-      "type": "tmdb",
-      "title": "暗黑新娘！",
-      "originalTitle": "The Bride!",
-      "description": "孤独的科学怪人弗兰肯斯坦（克里斯蒂安·贝尔 饰）来到了1930年代的芝加哥，恳请顶级科学家尤弗洛尼斯博士（安妮特·贝宁 饰）为他创造一位伴侣。两人成功复活了一名遭到谋杀的年轻女子，“新娘”（杰西·巴克利 饰）就此诞生。然而事态发展却远超两人想象：谋杀接踵而至，占有欲疯狂滋生，一场激进的文化运动席卷社会，更有一对亡命鸳鸯，上演一段狂烈炽热的禁忌之恋。",
-      "releaseDate": "2026-03-04",
-      "backdropPath": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
-      "posterPath": "/1pZ3BK2tdODT3cv0SAhXu9VPJSk.jpg",
-      "rating": 6.297,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 恐怖"
     },
     {
       "id": 313369,
@@ -262,17 +262,17 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1607088,
+      "id": 83533,
       "type": "tmdb",
-      "title": "熊出没·年年有熊",
-      "originalTitle": "熊出没·年年有熊",
-      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
-      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
-      "rating": 5,
+      "title": "阿凡达：火与烬",
+      "originalTitle": "Avatar: Fire and Ash",
+      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "releaseDate": "2025-12-17",
+      "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+      "posterPath": "/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
+      "rating": 7.3,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 奇幻"
+      "genreTitle": "科幻, 冒险"
     },
     {
       "id": 1294698,
@@ -288,19 +288,6 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 1618784,
-      "type": "tmdb",
-      "title": "东北警察故事3",
-      "originalTitle": "东北警察故事3",
-      "description": "李红旗要办婚礼了！本想婚礼一切从简，但彪悍热心的丈母娘（林晓杰 饰）坚持做主想大操大办，李红旗不得不飞往海角，落地后却得知飞机邻座女孩昕昕（马千壹 饰）被人贩子拐走。面对凶残狡猾的犯罪团伙，李红旗与当地办案风格迥异的警察孙彪（崔志佳 饰）强强联手，在婚期逼近的倒计时中和人贩子头目秦叶蓉（黄米依 饰）及卖鱼佬（伍允龙 饰）展开殊死搏斗。婚礼筹备笑料百出，办案追凶惊心动魄——红旗不倒，正义不休假！看李红旗如何罪犯、幸福两手抓。",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/AtvnNg6R0kunKDhdNl9tAAGVOdT.jpg",
-      "posterPath": "/f5EoZe8Z256w0tgRhYzV0LAtNuH.jpg",
-      "rating": 6.4,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1357815,
       "type": "tmdb",
       "title": "时间旅馆",
@@ -314,17 +301,30 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 83533,
+      "id": 1607088,
       "type": "tmdb",
-      "title": "阿凡达：火与烬",
-      "originalTitle": "Avatar: Fire and Ash",
-      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "releaseDate": "2025-12-17",
-      "backdropPath": "/3Dqievkc7krcTtDE2hjRkIsEzB1.jpg",
-      "posterPath": "/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
-      "rating": 7.259,
+      "title": "熊出没·年年有熊",
+      "originalTitle": "熊出没·年年有熊",
+      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
+      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
+      "rating": 5,
       "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
+      "genreTitle": "喜剧, 奇幻"
+    },
+    {
+      "id": 1618784,
+      "type": "tmdb",
+      "title": "东北警察故事3",
+      "originalTitle": "东北警察故事3",
+      "description": "李红旗要办婚礼了！本想婚礼一切从简，但彪悍热心的丈母娘（林晓杰 饰）坚持做主想大操大办，李红旗不得不飞往海角，落地后却得知飞机邻座女孩昕昕（马千壹 饰）被人贩子拐走。面对凶残狡猾的犯罪团伙，李红旗与当地办案风格迥异的警察孙彪（崔志佳 饰）强强联手，在婚期逼近的倒计时中和人贩子头目秦叶蓉（黄米依 饰）及卖鱼佬（伍允龙 饰）展开殊死搏斗。婚礼筹备笑料百出，办案追凶惊心动魄——红旗不倒，正义不休假！看李红旗如何罪犯、幸福两手抓。",
+      "releaseDate": "2026-01-23",
+      "backdropPath": "/AtvnNg6R0kunKDhdNl9tAAGVOdT.jpg",
+      "posterPath": "/f5EoZe8Z256w0tgRhYzV0LAtNuH.jpg",
+      "rating": 6.4,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 1421552,
@@ -405,19 +405,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1497873,
-      "type": "tmdb",
-      "title": "翠湖",
-      "originalTitle": "翠湖",
-      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
-      "releaseDate": "2026-01-24",
-      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
-      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 51731,
       "type": "tmdb",
       "title": "鹿鼎记II：神龙教",
@@ -457,19 +444,6 @@
       "genreTitle": "剧情, 历史"
     },
     {
-      "id": 1632606,
-      "type": "tmdb",
-      "title": "团圆令",
-      "originalTitle": "团圆令",
-      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
-      "releaseDate": "2026-02-28",
-      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
-      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
-    },
-    {
       "id": 10191,
       "type": "tmdb",
       "title": "驯龙高手",
@@ -483,6 +457,32 @@
       "genreTitle": "奇幻, 冒险"
     },
     {
+      "id": 1632606,
+      "type": "tmdb",
+      "title": "团圆令",
+      "originalTitle": "团圆令",
+      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
+      "releaseDate": "2026-02-28",
+      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
+      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1290436,
+      "type": "tmdb",
+      "title": "Ma frère",
+      "originalTitle": "Ma frère",
+      "description": "",
+      "releaseDate": "2026-01-07",
+      "backdropPath": "/7kqzjKKFLvOEMAkWjjpihScZSe2.jpg",
+      "posterPath": "/j4p4TaoK4LrlLgCK0m0pBUT5CcB.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
+    },
+    {
       "id": 1313229,
       "type": "tmdb",
       "title": "尼诺",
@@ -491,35 +491,9 @@
       "releaseDate": "2025-09-17",
       "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
       "posterPath": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
-      "rating": 7.091,
+      "rating": 7.116,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1532477,
-      "type": "tmdb",
-      "title": "En nous",
-      "originalTitle": "En nous",
-      "description": "",
-      "releaseDate": "2025-09-19",
-      "backdropPath": "/4J4OlqCWFF6b9F4HuMxWmWlneBF.jpg",
-      "posterPath": "/brmX2NEBDcfmR3t4CW2JzlY9fWU.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 587391,
-      "type": "tmdb",
-      "title": "花园编舟记",
-      "originalTitle": "Slocum et moi",
-      "description": "",
-      "releaseDate": "2025-01-29",
-      "backdropPath": "/nWczpYTDQMcC49E26BpQS59OqHU.jpg",
-      "posterPath": "/lpJBdc1yTRvcfKpbQbLHWwSpgHV.jpg",
-      "rating": 6.3,
-      "mediaType": "movie",
-      "genreTitle": "动画, 剧情"
     },
     {
       "id": 52628,
@@ -548,17 +522,17 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1290436,
+      "id": 587391,
       "type": "tmdb",
-      "title": "Ma frère",
-      "originalTitle": "Ma frère",
+      "title": "花园编舟记",
+      "originalTitle": "Slocum et moi",
       "description": "",
-      "releaseDate": "2026-01-07",
-      "backdropPath": "/7kqzjKKFLvOEMAkWjjpihScZSe2.jpg",
-      "posterPath": "/j4p4TaoK4LrlLgCK0m0pBUT5CcB.jpg",
-      "rating": 7.1,
+      "releaseDate": "2025-01-29",
+      "backdropPath": "/nWczpYTDQMcC49E26BpQS59OqHU.jpg",
+      "posterPath": "/lpJBdc1yTRvcfKpbQbLHWwSpgHV.jpg",
+      "rating": 6.3,
       "mediaType": "movie",
-      "genreTitle": "喜剧"
+      "genreTitle": "动画, 剧情"
     },
     {
       "id": 1313144,
@@ -569,9 +543,22 @@
       "releaseDate": "2025-07-02",
       "backdropPath": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
       "posterPath": "/euF099slkcbX6CoYvUvfIp0uHdP.jpg",
-      "rating": 6.259,
+      "rating": 6.263,
       "mediaType": "movie",
       "genreTitle": "喜剧"
+    },
+    {
+      "id": 1532477,
+      "type": "tmdb",
+      "title": "En nous",
+      "originalTitle": "En nous",
+      "description": "",
+      "releaseDate": "2026-06-03",
+      "backdropPath": "/4J4OlqCWFF6b9F4HuMxWmWlneBF.jpg",
+      "posterPath": "/brmX2NEBDcfmR3t4CW2JzlY9fWU.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 1020829,
