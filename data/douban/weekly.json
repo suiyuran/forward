@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-29T20:17:49.674Z",
+  "time": "2026-03-30T20:32:30.202Z",
   "data": {
     "电影": [
       {
@@ -9,9 +9,9 @@
         "originalTitle": "Project Hail Mary",
         "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
         "releaseDate": "2026-03-15",
-        "backdropPath": "/afHAM9qOTmrVDeaLIU7zfssotUY.jpg",
+        "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.156,
+        "rating": 8.167,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.6,
+        "rating": 7.573,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
         "posterPath": "/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
-        "rating": 7.467,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2025-10-31",
         "backdropPath": "/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
         "posterPath": "/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
-        "rating": 7.1,
+        "rating": 7.115,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
         "posterPath": "/yeHm0aIsAMFt0E8b12KhJ70wQKF.jpg",
-        "rating": 6.5,
+        "rating": 6.577,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-01-22",
         "backdropPath": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
         "posterPath": "/f8c4HHITyez7RiA7pCLxI5cZQQU.jpg",
-        "rating": 7.065,
+        "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       }
@@ -169,7 +169,7 @@
         "releaseDate": "2026-02-21",
         "backdropPath": "/ufgYAZofbUE7x7MGHaJ5wKj7Or8.jpg",
         "posterPath": "/8fjVJxa6uEWRzMIDLTjExPGf0Nj.jpg",
-        "rating": 8,
+        "rating": 7.333,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -247,7 +247,7 @@
         "releaseDate": "2026-03-06",
         "backdropPath": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
         "posterPath": "/r0tun2ibKc9YucnQ57rUUMC8s8j.jpg",
-        "rating": 8.1,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
         "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
-        "rating": 4.5,
+        "rating": 4,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
         "posterPath": "/nSHBJp1ulPxdp7vtUTrhoXjZjfb.jpg",
-        "rating": 6.9,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -314,14 +314,14 @@
         "releaseDate": "2026-03-19",
         "backdropPath": "/n58Py8VN2Z677AslZyfc3Aj3uUI.jpg",
         "posterPath": "/cVKeISd04YNsiv5mpoRt2BfQoJm.jpg",
-        "rating": 1,
+        "rating": 2.6,
         "mediaType": "tv",
         "genreTitle": "喜剧, 犯罪"
       },
       {
         "id": 241860,
         "type": "tmdb",
-        "title": "权欲之巅",
+        "title": "权欲之巅 Climax",
         "originalTitle": "클라이맥스",
         "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
         "releaseDate": "2026-03-16",
@@ -340,7 +340,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 6.5,
+        "rating": 6.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-03-14",
         "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
         "posterPath": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-        "rating": 8.5,
+        "rating": 8.618,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
