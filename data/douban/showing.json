@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-30T17:55:01.876Z",
+  "time": "2026-03-31T17:57:08.882Z",
   "data": [
     {
       "id": 687163,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.167,
+      "rating": 8.179,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -28,19 +28,6 @@
       "genreTitle": "爱情, 犯罪"
     },
     {
-      "id": 1220564,
-      "type": "tmdb",
-      "title": "密探",
-      "originalTitle": "O Agente Secreto",
-      "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
-      "releaseDate": "2025-07-23",
-      "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
-      "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
-    },
-    {
       "id": 1327819,
       "type": "tmdb",
       "title": "河狸变身计划",
@@ -49,7 +36,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.6,
+      "rating": 7.564,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -75,22 +62,9 @@
       "releaseDate": "2026-01-22",
       "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
       "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
-      "rating": 6.736,
+      "rating": 6.73,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
-    },
-    {
-      "id": 1268630,
-      "type": "tmdb",
-      "title": "搜查瑠公圳",
-      "originalTitle": "搜查瑠公圳",
-      "description": "不愿受将军父亲庇护的叛逆警探，面对受陷害成为女分尸命案凶手的父亲，携手备受歧视妇幼线女记者，在全民热议与媒体编造报导下追查事件真相，却发现…凶手似乎另有其人？ ！",
-      "releaseDate": "2025-05-22",
-      "backdropPath": "/rd3Q2lQ7YyMGufJhuXlwYYnBblr.jpg",
-      "posterPath": "/dI2GTY54Beqq9JfKc5J8EqyJ1bB.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "历史, 犯罪"
     },
     {
       "id": 1316092,
@@ -119,6 +93,19 @@
       "genreTitle": "动画, 剧情"
     },
     {
+      "id": 1268630,
+      "type": "tmdb",
+      "title": "搜查瑠公圳",
+      "originalTitle": "搜查瑠公圳",
+      "description": "不愿受将军父亲庇护的叛逆警探，面对受陷害成为女分尸命案凶手的父亲，携手备受歧视妇幼线女记者，在全民热议与媒体编造报导下追查事件真相，却发现…凶手似乎另有其人？ ！",
+      "releaseDate": "2025-05-22",
+      "backdropPath": "/rd3Q2lQ7YyMGufJhuXlwYYnBblr.jpg",
+      "posterPath": "/dI2GTY54Beqq9JfKc5J8EqyJ1bB.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "历史, 犯罪"
+    },
+    {
       "id": 1317288,
       "type": "tmdb",
       "title": "至尊马蒂",
@@ -127,7 +114,7 @@
       "releaseDate": "2025-12-19",
       "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
       "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.434,
+      "rating": 7.433,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -140,7 +127,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.8,
+      "rating": 7.743,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -164,24 +151,11 @@
       "originalTitle": "Crime 101",
       "description": "当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
       "releaseDate": "2026-02-11",
-      "backdropPath": "/2t25zHKX3PAUZWppuLD36JGdgCA.jpg",
+      "backdropPath": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
       "posterPath": "/cMilCixwsrrTmAjYGP6OQvSMVaU.jpg",
-      "rating": 7,
+      "rating": 6.996,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
-    },
-    {
-      "id": 1602727,
-      "type": "tmdb",
-      "title": "夜王",
-      "originalTitle": "夜王",
-      "description": "2012年，昔日风光一时的东日夜总会被收购，在尖东打滚数十年的大经理欢哥（黄子华 饰）面临时代转变的挑战。公司新任CEO竟是欢哥狠辣的前妻V姐（郑秀文 饰），强迫欢哥及众女公关转型，业绩渐有起色。怎料背后原来是大财团的操控游戏，东日随时关灯不保。为了保住东日，欢哥及V姐联手，誓要与众女公关作最后反扑，企硬尖东！",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
-      "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1462229,
@@ -197,6 +171,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1602727,
+      "type": "tmdb",
+      "title": "夜王",
+      "originalTitle": "夜王",
+      "description": "2012年，昔日风光一时的东日夜总会被收购，在尖东打滚数十年的大经理欢哥（黄子华 饰）面临时代转变的挑战。公司新任CEO竟是欢哥狠辣的前妻V姐（郑秀文 饰），强迫欢哥及众女公关转型，业绩渐有起色。怎料背后原来是大财团的操控游戏，东日随时关灯不保。为了保住东日，欢哥及V姐联手，誓要与众女公关作最后反扑，企硬尖东！",
+      "releaseDate": "2026-02-14",
+      "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
+      "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
       "id": 1447971,
       "type": "tmdb",
       "title": "惊蛰无声",
@@ -208,6 +195,19 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
+    },
+    {
+      "id": 83533,
+      "type": "tmdb",
+      "title": "阿凡达：火与烬",
+      "originalTitle": "Avatar: Fire and Ash",
+      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
+      "releaseDate": "2025-12-17",
+      "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+      "posterPath": "/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
+      "rating": 7.276,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 冒险"
     },
     {
       "id": 1249668,
@@ -231,7 +231,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
       "posterPath": "/1pZ3BK2tdODT3cv0SAhXu9VPJSk.jpg",
-      "rating": 6.3,
+      "rating": 6.27,
       "mediaType": "movie",
       "genreTitle": "科幻, 恐怖"
     },
@@ -257,22 +257,9 @@
       "releaseDate": "2016-12-01",
       "backdropPath": "/nofXR1TN1vgGjdfnwGQwFaAWBaY.jpg",
       "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.897,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 83533,
-      "type": "tmdb",
-      "title": "阿凡达：火与烬",
-      "originalTitle": "Avatar: Fire and Ash",
-      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "releaseDate": "2025-12-17",
-      "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-      "posterPath": "/hYGXf2kkykFhBny0vHHmbx5G27o.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
     },
     {
       "id": 1294698,
@@ -283,22 +270,9 @@
       "releaseDate": "2025-11-19",
       "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
       "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-      "rating": 7.068,
+      "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 1357815,
-      "type": "tmdb",
-      "title": "时间旅馆",
-      "originalTitle": "时间旅馆",
-      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
-      "releaseDate": "2026-03-20",
-      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
-      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1607088,
@@ -312,19 +286,6 @@
       "rating": 5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 奇幻"
-    },
-    {
-      "id": 1618784,
-      "type": "tmdb",
-      "title": "东北警察故事3",
-      "originalTitle": "东北警察故事3",
-      "description": "李红旗要办婚礼了！本想婚礼一切从简，但彪悍热心的丈母娘（林晓杰 饰）坚持做主想大操大办，李红旗不得不飞往海角，落地后却得知飞机邻座女孩昕昕（马千壹 饰）被人贩子拐走。面对凶残狡猾的犯罪团伙，李红旗与当地办案风格迥异的警察孙彪（崔志佳 饰）强强联手，在婚期逼近的倒计时中和人贩子头目秦叶蓉（黄米依 饰）及卖鱼佬（伍允龙 饰）展开殊死搏斗。婚礼筹备笑料百出，办案追凶惊心动魄——红旗不倒，正义不休假！看李红旗如何罪犯、幸福两手抓。",
-      "releaseDate": "2026-01-23",
-      "backdropPath": "/AtvnNg6R0kunKDhdNl9tAAGVOdT.jpg",
-      "posterPath": "/f5EoZe8Z256w0tgRhYzV0LAtNuH.jpg",
-      "rating": 6.4,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 1421552,
@@ -353,6 +314,19 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
+      "id": 694,
+      "type": "tmdb",
+      "title": "闪灵",
+      "originalTitle": "The Shining",
+      "description": "杰克是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂就发现这里气氛诡异，杰克的儿子丹尼经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
+      "releaseDate": "1980-05-23",
+      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
+      "rating": 8.205,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
       "id": 559974,
       "type": "tmdb",
       "title": "拆弹专家2",
@@ -364,19 +338,6 @@
       "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 694,
-      "type": "tmdb",
-      "title": "闪灵",
-      "originalTitle": "The Shining",
-      "description": "杰克是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂就发现这里气氛诡异，杰克的儿子丹尼经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
-      "releaseDate": "1980-05-23",
-      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
-      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.204,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 455714,
@@ -405,19 +366,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 51731,
-      "type": "tmdb",
-      "title": "鹿鼎记II：神龙教",
-      "originalTitle": "鹿鼎記 II : 神龍敎",
-      "description": "韦小宝要护送建宁公主嫁到云南，以安抚图谋造反的吴三桂父子。在途中遇到了独臂神尼的刺杀。小宝被抓走后，借口拜神尼为师，其实是想追求其徒弟阿珂。不料韦小宝被神龙教圣女龙儿抓走，想要报之前在王宫里埋下的仇恨，却没想到遭到了平西王的陷害。韦小宝极力相救，龙儿以身相许更把绝世武功传于韦小宝。韦小宝与公主之间的事情被平西王发现了，平西王更提前造反。小宝在独臂神尼、神龙教、天地会、云南王等多方势力角逐中终得化险为夷、还赢得了包括龙儿在内的众多姑娘的芳心。最后制服了吴三桂父子，回到京城受到皇帝赏识，同时，韦小宝天地会的身份被人密告皇帝……",
-      "releaseDate": "1992-09-24",
-      "backdropPath": "/uiTFVCL19OLaPAgrbX9zTvYK5bb.jpg",
-      "posterPath": "/wHUgmng3fCSCVPTwdbYqdZqc3XQ.jpg",
-      "rating": 7.093,
-      "mediaType": "movie",
-      "genreTitle": "动作, 喜剧"
-    },
-    {
       "id": 485289,
       "type": "tmdb",
       "title": "重返·狼群",
@@ -444,19 +392,6 @@
       "genreTitle": "剧情, 历史"
     },
     {
-      "id": 10191,
-      "type": "tmdb",
-      "title": "驯龙高手",
-      "originalTitle": "How to Train Your Dragon",
-      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
-      "releaseDate": "2010-03-18",
-      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
-      "rating": 7.856,
-      "mediaType": "movie",
-      "genreTitle": "奇幻, 冒险"
-    },
-    {
       "id": 1632606,
       "type": "tmdb",
       "title": "团圆令",
@@ -470,19 +405,6 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 1290436,
-      "type": "tmdb",
-      "title": "Ma frère",
-      "originalTitle": "Ma frère",
-      "description": "",
-      "releaseDate": "2026-01-07",
-      "backdropPath": "/7kqzjKKFLvOEMAkWjjpihScZSe2.jpg",
-      "posterPath": "/j4p4TaoK4LrlLgCK0m0pBUT5CcB.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
-    },
-    {
       "id": 1313229,
       "type": "tmdb",
       "title": "尼诺",
@@ -491,7 +413,7 @@
       "releaseDate": "2025-09-17",
       "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
       "posterPath": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
-      "rating": 7.116,
+      "rating": 7.105,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -522,19 +444,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 587391,
-      "type": "tmdb",
-      "title": "花园编舟记",
-      "originalTitle": "Slocum et moi",
-      "description": "",
-      "releaseDate": "2025-01-29",
-      "backdropPath": "/nWczpYTDQMcC49E26BpQS59OqHU.jpg",
-      "posterPath": "/lpJBdc1yTRvcfKpbQbLHWwSpgHV.jpg",
-      "rating": 6.3,
-      "mediaType": "movie",
-      "genreTitle": "动画, 剧情"
-    },
-    {
       "id": 1313144,
       "type": "tmdb",
       "title": "钢琴事故",
@@ -543,35 +452,9 @@
       "releaseDate": "2025-07-02",
       "backdropPath": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
       "posterPath": "/euF099slkcbX6CoYvUvfIp0uHdP.jpg",
-      "rating": 6.263,
+      "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "喜剧"
-    },
-    {
-      "id": 1532477,
-      "type": "tmdb",
-      "title": "En nous",
-      "originalTitle": "En nous",
-      "description": "",
-      "releaseDate": "2026-06-03",
-      "backdropPath": "/4J4OlqCWFF6b9F4HuMxWmWlneBF.jpg",
-      "posterPath": "/brmX2NEBDcfmR3t4CW2JzlY9fWU.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1020829,
-      "type": "tmdb",
-      "title": "狐步",
-      "originalTitle": "La Danse des renards",
-      "description": "在一所体育专科寄宿学校里，年轻的拳击新星卡米尔刚夺得法国冠军头衔，却在一次致命事故中被挚友马泰奥惊险救下。随着焦虑逐渐侵蚀内心，他开始质疑自己对拳击的热爱，以及与马泰奥的亲密友谊。",
-      "releaseDate": "2026-03-18",
-      "backdropPath": "/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg",
-      "posterPath": "/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1338704,
@@ -598,19 +481,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1002640,
-      "type": "tmdb",
-      "title": "Secrets of the Sea",
-      "originalTitle": "Secrets of the Sea",
-      "description": "",
-      "releaseDate": "2022-06-08",
-      "backdropPath": null,
-      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": ""
     }
   ]
 }
