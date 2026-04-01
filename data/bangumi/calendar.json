@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-31T16:53:27.482Z",
+  "time": "2026-04-01T16:50:13.836Z",
   "data": {
     "星期日": [
       {
@@ -40,6 +40,19 @@
         "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
+      },
+      {
+        "id": 299134,
+        "type": "tmdb",
+        "title": "女仆小姐的贪吃日常",
+        "originalTitle": "メイドさんは食べるだけ",
+        "description": "原先于英国宅邸担任女仆的雀，基于某些原因来到日本一角的小小公寓展开新生活。尽管有许多需要操心的事情，不过对日本食物充满好奇的雀，潇洒地离开公寓去寻找美食…！\n\n　　由非日常的小女仆所献上的窝心日常，就此开演！",
+        "releaseDate": "2026-04-05",
+        "backdropPath": "/xQbsLlDyPVND2fO47bA7uy84vT4.jpg",
+        "posterPath": "/3HYUZAeE1WrA9ATGv6GjeyL6mOO.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 303796,
@@ -277,7 +290,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.724,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -301,7 +314,7 @@
         "originalTitle": "ガンバレ！中村くん！！",
         "description": "“怎么办 好喜欢 最喜欢了”\n\n　　有些奇怪的高中生，中村同学对同班的广濑同学一见钟情？！明明还不是朋友……却无法止住心动！！新派80年代风的新锐“春泥”所献上的，粘着系男子的单相思暴走的生存☆恋爱喜剧！！",
         "releaseDate": "2026-04-02",
-        "backdropPath": "/pcE3FG6Q4VrvA8Ak0vtNGHShYmg.jpg",
+        "backdropPath": "/go1x4QdXk90i2pHHBfodsOBKn0X.jpg",
         "posterPath": "/rCI8bgsqoq2ho04ZE0gUr36l8Pg.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -350,7 +363,7 @@
         "id": 304820,
         "type": "tmdb",
         "title": "关于虽然逃走的鱼很大、但钓上来的鱼却太大了这件事",
-        "originalTitle": "常にキャッチ!",
+        "originalTitle": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件",
         "description": "公爵千金玛丽伊娅，因为弟弟出生而匆忙地从继承家业的角色上退下。然而，国内出色的贵族子弟们早已有了未婚妻，这样下去就要变成不折不扣的剩女了！就在投奔远房亲戚前往邻国留学并努力开展结婚活动的时候，被第一王子下达了自己都不记得的婚约废弃宣言？！\n\n　　诶，我还没有定下婚约的来着？！？\n\n　　剩女大小姐的结婚活动恋爱喜剧♪",
         "releaseDate": "2026-04-02",
         "backdropPath": "/ak8tHoMgClt1aKDNve2GzE5dkJU.jpg",
@@ -425,6 +438,19 @@
         "rating": 8.535,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
+      },
+      {
+        "id": 303870,
+        "type": "tmdb",
+        "title": "雾尾粉丝后援会",
+        "originalTitle": "霧尾ファンクラブ",
+        "description": "敬启。\n\n　　雾尾同学，我喜欢你。但是，我从未知晓。喜欢上一个人，竟是如此痛苦。最喜欢你了，雾尾同学。想与你一起吃汉堡。想与你共撑一把伞。想与你摔盘子摔个痛快。想与你踏上寻找全身痣的旅程。想将与你相遇的日子定为国民庆祝日日。\n\n　　蓝美与波，谈论着心爱之人的，只属于两人的珍贵时光。曾以为这样的日常，会永远持续下去。单向思念的连锁，正悄然改变着我们的日常。",
+        "releaseDate": "2026-04-03",
+        "backdropPath": null,
+        "posterPath": "/yy9gsBKHX9PHq17mJhhm2yVKh8g.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 273467,
@@ -528,7 +554,7 @@
         "releaseDate": "2020-07-11",
         "backdropPath": "/ullfy98STkno11rDGi44SK6llwx.jpg",
         "posterPath": "/pp1gwYC7Jv36fEWEpPLpbJjuBTG.jpg",
-        "rating": 8.329,
+        "rating": 8.331,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -682,7 +708,7 @@
         "type": "tmdb",
         "title": "一叠间漫画咖啡屋生活！",
         "originalTitle": "一畳間まんきつ暮らし！",
-        "description": "女高中生的漫画咖啡屋生活！\n\n生活在秋田的高中生森田芽衣子，某一天竟被贵族学校「天宫女学院」选为特别插班生！\n\n怀着对憧憬的东京校园生活的期待与不安，芽衣子踏上了前往东京的旅程——\n\n然而，在那里等待着她的，竟然是一家名为「刺猬」的漫画咖啡屋！？\n\n在这件兼作学生宿舍的漫画咖啡屋里，她将与个性十足的舍友们一起生活，还要以志愿服务的形式在店里工作！？\n\n就这样，芽衣子在这仅有一榻榻米大的房间里，开始了有些许不可思议的漫画咖啡屋生活！",
+        "description": "女高中生的漫画咖啡屋生活！\n\n生活在秋田的高中生森田芽衣子，某一天竟被贵族学校「天宫女学院」选为特别插班生！\n\n怀着对憧憬的东京校园生活的期待与不安，芽衣子踏上了前往东京的旅程——\n\n然而，在那里等待着她的，竟然是一家名为「刺猬弹」的漫画咖啡屋！？\n\n在这件兼作学生宿舍的漫画咖啡屋里，她将与个性十足的舍友们一起生活，还要以志愿服务的形式在店里工作！？\n\n就这样，芽衣子在这仅有一榻榻米大的房间里，开始了有些许不可思议的漫画咖啡屋生活！",
         "releaseDate": "2026-04-12",
         "backdropPath": null,
         "posterPath": "/mJzB2PngDGNFqrApfqrvKZmwM6v.jpg",
@@ -751,7 +777,7 @@
         "releaseDate": "2026-04-04",
         "backdropPath": "/8DQlxQHQ6xPe8VkBrXlzkJfMJAa.jpg",
         "posterPath": "/lHGyS1Ks0QdTtqw3aMjsdTbCC6T.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
