@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-31T20:30:32.484Z",
+  "time": "2026-04-01T20:31:48.978Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.177,
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.563,
+        "rating": 7.571,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-06-06",
         "backdropPath": "/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
         "posterPath": "/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
-        "rating": 7.5,
+        "rating": 7.461,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2025-10-31",
         "backdropPath": "/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
         "posterPath": "/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
-        "rating": 7.148,
+        "rating": 7.185,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-11-19",
         "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
         "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-        "rating": 7.1,
+        "rating": 7.075,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
         "posterPath": "/yeHm0aIsAMFt0E8b12KhJ70wQKF.jpg",
-        "rating": 6.583,
+        "rating": 6.6,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -128,48 +128,22 @@
         "releaseDate": "2026-01-22",
         "backdropPath": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
         "posterPath": "/f8c4HHITyez7RiA7pCLxI5cZQQU.jpg",
-        "rating": 7.081,
+        "rating": 7.087,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       }
     ],
     "剧集·国内": [
       {
-        "id": 279446,
+        "id": 277412,
         "type": "tmdb",
-        "title": "太平年",
-        "originalTitle": "太平年",
-        "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
-        "releaseDate": "2026-01-23",
-        "backdropPath": "/c5mwcq4lvp96cHPgAWE1uxdwxkR.jpg",
-        "posterPath": "/76gwCVQG1MoItK25o48opYP7TmG.jpg",
+        "title": "正义女神",
+        "originalTitle": "正義女神",
+        "description": "一宗六岁男童堕楼身亡案，十四岁少年高成彬（刘倬昕 饰）被控谋杀。成彬辩称当时是想救人而非推人，陪审团最终裁定这是一宗不幸意外，成彬无罪释放。高等法院法官言惠知（佘诗曼 饰）翻阅成彬的过往记录时发现，他此前已多次因轻微罪行被带到少年法庭，皆因未满十三岁而获撤销控罪，没有留下案底。\n\n　　看着这份“清白”的记录，言惠知陷入深思——如果早有人在他第一次犯错时及时纠正，是否就能阻止今日的悲剧？她做了一个出人意表的决定：主动申请降职，担任少年法庭的裁判官。\n\n　　正值事业高峰的言惠知，此举不仅令法律界哗然，更导致她与在律政司工作的丈夫邱光正（谭耀文 饰）婚姻破裂。她坚信，只有从源头拯救这些脱轨少年，助他们培养正确的价值观，才能阻止下一个“恶魔少年”的出现。\n\n　　在少年法庭，言惠知的审判作风令主任裁判官洪思义（许绍雄 饰）亦敬畏三分，更与以“最年轻高院法官”为目标的裁判官郑邵文（周嘉洛 饰）形成微妙角力。面对一连串严重的少年案件——校园欺凌、家庭暴力、青少年犯罪——言惠知择善固执，坚持正义，不容有罪者脱身，也不让无辜者受屈，誓要救赎每一位迷途少年的人生。",
+        "releaseDate": "2026-03-16",
+        "backdropPath": "/gSXWB1rETFIuL4NZ4GhO4fDGD61.jpg",
+        "posterPath": "/8hhNIWHBJkXgLxmjvTKmkyvHjdC.jpg",
         "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 281495,
-        "type": "tmdb",
-        "title": "除恶",
-        "originalTitle": "除恶",
-        "description": "一个偏僻闭塞的沿海小镇，被一袋消失的毒品打破沉寂，一场“自杀式拯救”正式拉开序幕。一个是意外卷入毒品交易现场的女刑警胡文静（任素汐 饰），一个是为救女儿不计代价的普通父亲程恳（王骁 饰），一个是一心想要逃离小镇生活的野心家李晓雅（蔡文静 饰），一个是被毒品吞噬而走向异途的姐弟王萍（董晴 饰）王安（朱嘉琦 饰）。欲望与贪念交织成的茧细细密密困住了每一个人，无人能够全身而退。",
-        "releaseDate": "2026-02-23",
-        "backdropPath": "/gc9ySDlKwKnwlEw6km6KUXM44Yq.jpg",
-        "posterPath": "/ky9Eit4aA3BFLQdrulRuDNdvWLS.jpg",
-        "rating": 8.4,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 悬疑"
-      },
-      {
-        "id": 287760,
-        "type": "tmdb",
-        "title": "纯真年代的爱情",
-        "originalTitle": "纯真年代的爱情",
-        "description": "二十世纪七十年代，积极上进的纺织厂女工费霓一心想上大学靠知识改变命运。费霓的初中同学方穆扬因救人受伤成为了见义勇为的英雄，费霓主动提出照顾他，想要做好事评先进而被推荐上大学，但希望却屡次落空。现实的压力接踵而至，为了帮哥哥解决婚房的难题，费霓向方穆扬提出假结婚分房。几经波折二人终于有了自己的房子，成为了睡上下铺的小夫妻，他们共同面对困难，鼓励彼此追梦，虽磕磕绊绊，却也在平淡温馨的生活中滋长了情投意合的浪漫。最终费霓终于如愿上了大学，方穆扬也实现了自己的画家梦想，他们在幸福生活和美好未来的路上继续前行。",
-        "releaseDate": "2026-02-21",
-        "backdropPath": "/ufgYAZofbUE7x7MGHaJ5wKj7Or8.jpg",
-        "posterPath": "/8fjVJxa6uEWRzMIDLTjExPGf0Nj.jpg",
-        "rating": 7.333,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -187,6 +161,45 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 270857,
+        "type": "tmdb",
+        "title": "隐身的名字",
+        "originalTitle": "隐身的名字",
+        "description": "一个随意的名字。一个被偷走的名字。一个不属于她的名字。一个不敢再提起的名字。一个从不曾被忘记的名字。任小名一直很讨厌自己的名字，但即使再讨厌，那也是她在这个世界上存在的证明，是她成为她自己的前提。她要把被偷走的名字抢回来。这个名字不仅仅属于她自己，也属于很多人。那些隐身的名字，湮没在柴米油盐的烟火里，品头论足的批评里，漫长难熬的岁月里，失去了身份。但总有人记得她们，也总有人沿着她们的脚步继续走下去，直到她们的名字被所有人看见。一个关于两代女性的挣扎与救赎的故事。",
+        "releaseDate": "2026-03-18",
+        "backdropPath": "/7eVMRGq6CLYvszBrhPGteRBtzWA.jpg",
+        "posterPath": "/1ZWhG04PRpqaLbHj0oIpnTVZMmu.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 287760,
+        "type": "tmdb",
+        "title": "纯真年代的爱情",
+        "originalTitle": "纯真年代的爱情",
+        "description": "二十世纪七十年代，积极上进的纺织厂女工费霓一心想上大学靠知识改变命运。费霓的初中同学方穆扬因救人受伤成为了见义勇为的英雄，费霓主动提出照顾他，想要做好事评先进而被推荐上大学，但希望却屡次落空。现实的压力接踵而至，为了帮哥哥解决婚房的难题，费霓向方穆扬提出假结婚分房。几经波折二人终于有了自己的房子，成为了睡上下铺的小夫妻，他们共同面对困难，鼓励彼此追梦，虽磕磕绊绊，却也在平淡温馨的生活中滋长了情投意合的浪漫。最终费霓终于如愿上了大学，方穆扬也实现了自己的画家梦想，他们在幸福生活和美好未来的路上继续前行。",
+        "releaseDate": "2026-02-21",
+        "backdropPath": "/ufgYAZofbUE7x7MGHaJ5wKj7Or8.jpg",
+        "posterPath": "/8fjVJxa6uEWRzMIDLTjExPGf0Nj.jpg",
+        "rating": 7.333,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 281495,
+        "type": "tmdb",
+        "title": "除恶",
+        "originalTitle": "除恶",
+        "description": "一个偏僻闭塞的沿海小镇，被一袋消失的毒品打破沉寂，一场“自杀式拯救”正式拉开序幕。一个是意外卷入毒品交易现场的女刑警胡文静（任素汐 饰），一个是为救女儿不计代价的普通父亲程恳（王骁 饰），一个是一心想要逃离小镇生活的野心家李晓雅（蔡文静 饰），一个是被毒品吞噬而走向异途的姐弟王萍（董晴 饰）王安（朱嘉琦 饰）。欲望与贪念交织成的茧细细密密困住了每一个人，无人能够全身而退。",
+        "releaseDate": "2026-02-23",
+        "backdropPath": "/gc9ySDlKwKnwlEw6km6KUXM44Yq.jpg",
+        "posterPath": "/zLm6n7JlMkRB3Z54ZIlCtrjiCWT.jpg",
+        "rating": 8.4,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 悬疑"
+      },
+      {
         "id": 259554,
         "type": "tmdb",
         "title": "夜色正浓",
@@ -198,6 +211,19 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 280632,
+        "type": "tmdb",
+        "title": "成何体统",
+        "originalTitle": "成何体统",
+        "description": "讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
+        "releaseDate": "2026-02-06",
+        "backdropPath": "/myJLWz2Rk0e8YHSSw3caCrOEETT.jpg",
+        "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
+        "rating": 8.333,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
       },
       {
         "id": 300239,
@@ -226,43 +252,17 @@
         "genreTitle": "剧情, 家庭"
       },
       {
-        "id": 280632,
+        "id": 313930,
         "type": "tmdb",
-        "title": "成何体统",
-        "originalTitle": "成何体统",
-        "description": "讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
-        "releaseDate": "2026-02-06",
-        "backdropPath": "/myJLWz2Rk0e8YHSSw3caCrOEETT.jpg",
-        "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-        "rating": 8.357,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 279388,
-        "type": "tmdb",
-        "title": "逐玉",
-        "originalTitle": "逐玉",
-        "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
-        "releaseDate": "2026-03-06",
-        "backdropPath": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-        "posterPath": "/r0tun2ibKc9YucnQ57rUUMC8s8j.jpg",
-        "rating": 8,
+        "title": "卧底娇娃",
+        "originalTitle": "臥底嬌娃",
+        "description": "新兴毒品「粉精灵」流窜市面，卧底潘奕风（马贯东 饰）潜伏多年，终令真正制毒师一权世豪（杜燕歌 饰）被拘捕。但世豪金蝉脱壳获得轻判！奕风为提防世豪出狱后会让「粉精灵」再度肆虐，请求上司批准他组织卧底小组，调查向世豪提供原材料的上线，图能将整条黑暗制毒炼连根拔起。\n\n　　奕风找来三名各擅胜场的卧底娇娃一「女版福尔摩斯」沈佳琪（张曦雯 饰）、「细心敏锐武术通」江妙姿（陈滢 饰）、「百娈行走数据库」童小茹（罗毓仪 饰），以美貌设陷阱、以感性作利刃、以智慧当盔甲，接近目标人物一表面上是慈善商家刘彪（关礼杰 饰）和卡邦妮（邵美琪 饰）夫妇，及其背后的四联商会。四联商会势力庞大，滴水不漏，唯一突破点便是刘氏夫妇的女儿刘宝仪（钟柔美 饰）。\n\n　　奕风此次任务虽然获得直属上司禤步青（黄子雄 饰）鼎力支持，却被邻组警司郭宗南（黄子恒 饰）怀疑他在任卧底期间，早已变节。奕风挺著腹背受敌的压力，却讳莫如深的推动著三名女卧底进行各种危机重重的行动，原来奕风怀著一个自私的目的，想借这次任务，想为受涉而丧命的女友讨回公道。",
+        "releaseDate": "2026-02-23",
+        "backdropPath": "/7TKBpKx76eBknk0zYmtKV07Pznu.jpg",
+        "posterPath": "/1ETDQaUP7DgIxZx4SHW3blrh1Kj.jpg",
+        "rating": 0,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 278882,
-        "type": "tmdb",
-        "title": "年少有为",
-        "originalTitle": "年少有为",
-        "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
-        "releaseDate": "2026-01-31",
-        "backdropPath": "/s78UEFOxRRFlM7B0cP0JVkJKW7s.jpg",
-        "posterPath": "/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
-        "rating": 8.8,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
       }
     ],
     "剧集·国外": [
@@ -280,32 +280,6 @@
         "genreTitle": "犯罪, 剧情"
       },
       {
-        "id": 111110,
-        "type": "tmdb",
-        "title": "ONE PIECE",
-        "originalTitle": "ONE PIECE",
-        "description": "进入伟大航路：在罗格镇的风暴中死里逃生后，蒙奇·D·路飞率领草帽一伙正式跨越“颠倒山”，驶入被称为“海贼坟场”的伟大航路。本季聚焦于这支年轻船队在极端自然环境与多方势力博弈下的生存挑战：他们意外救助了身负复国重任的薇薇公主，并决定护送其横跨危机四伏的海域。从神秘的威士忌山峰到充满远古气息的小花园，路飞不仅要带领船员对抗如影随行的巴洛克工作室特工，更要在巨人族传承百年的荣誉决斗中领悟牺牲的真谛。在严寒的磁鼓岛，面对伙伴病重的紧急关头，他们邂逅了背负悲剧过往的天才医生乔巴，并共同卷入了一场关于医疗伦理与暴政对抗的冬岛起义。随着航程向沙漠王国阿拉巴斯坦步步逼近，这群追梦者正逐渐意识到，想要在伟大航路立足，除了热血，更需要面对权力阴谋与人性灰暗的决绝意志。",
-        "releaseDate": "2026-03-10",
-        "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-        "posterPath": "/nSHBJp1ulPxdp7vtUTrhoXjZjfb.jpg",
-        "rating": 6.9,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 303724,
-        "type": "tmdb",
-        "title": "心动密码",
-        "originalTitle": "สืบลับจับใจ",
-        "description": "一位权势显赫的警官之女，在躲过数次暗杀后悄然加入精英训练计划。在这里她邂逅了一位纪律严明、直觉敏锐的军官，两人被迫同住一室，暧昧情愫悄然滋长。然而政治阴谋、未解命案与错综往事即将撕裂这段关系。当一方发现对方的父亲竟与自己家族悲剧有所牵连时，在职责、危险与真相代价的层层考验下，两人不得不在正义和意外降临的爱情间做出抉择。",
-        "releaseDate": "2026-02-12",
-        "backdropPath": "/sPXZ3of4Lf1D1LXY0PUI1RpsYo6.jpg",
-        "posterPath": "/jQvrRQgHpGqUCc5oT3GxSfvDWqO.jpg",
-        "rating": 9.125,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 动作冒险"
-      },
-      {
         "id": 225780,
         "type": "tmdb",
         "title": "戴洛克小镇",
@@ -314,22 +288,35 @@
         "releaseDate": "2026-03-19",
         "backdropPath": "/n58Py8VN2Z677AslZyfc3Aj3uUI.jpg",
         "posterPath": "/cVKeISd04YNsiv5mpoRt2BfQoJm.jpg",
-        "rating": 3.6,
+        "rating": 3.9,
         "mediaType": "tv",
         "genreTitle": "喜剧, 犯罪"
       },
       {
-        "id": 241860,
+        "id": 202555,
         "type": "tmdb",
-        "title": "权欲之巅 Climax",
-        "originalTitle": "클라이맥스",
-        "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
-        "releaseDate": "2026-03-16",
-        "backdropPath": "/joeWNlosN0XyBkApi215L6asTx6.jpg",
-        "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
-        "rating": 10,
+        "title": "夜魔侠：重生",
+        "originalTitle": "Daredevil: Born Again",
+        "description": "威尔逊·菲斯克市长反转整个纽约市，誓要追捕头号公敌 —— 义警夜魔侠。然而，面具下的马修·默多克将在黑暗中奋起反击，摧毁金并腐败的管治帝国。抵抗、反击、重生。",
+        "releaseDate": "2026-03-24",
+        "backdropPath": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+        "posterPath": "/cHfQQKZqJs4fwLrbn5RgfGsIoWt.jpg",
+        "rating": 7.5,
         "mediaType": "tv",
-        "genreTitle": "悬疑, 剧情"
+        "genreTitle": "剧情, 动作冒险"
+      },
+      {
+        "id": 111110,
+        "type": "tmdb",
+        "title": "ONE PIECE",
+        "originalTitle": "ONE PIECE",
+        "description": "进入伟大航路：在罗格镇的风暴中死里逃生后，蒙奇·D·路飞率领草帽一伙正式跨越“颠倒山”，驶入被称为“海贼坟场”的伟大航路。本季聚焦于这支年轻船队在极端自然环境与多方势力博弈下的生存挑战：他们意外救助了身负复国重任的薇薇公主，并决定护送其横跨危机四伏的海域。从神秘的威士忌山峰到充满远古气息的小花园，路飞不仅要带领船员对抗如影随行的巴洛克工作室特工，更要在巨人族传承百年的荣誉决斗中领悟牺牲的真谛。在严寒的磁鼓岛，面对伙伴病重的紧急关头，他们邂逅了背负悲剧过往的天才医生乔巴，并共同卷入了一场关于医疗伦理与暴政对抗的冬岛起义。随着航程向沙漠王国阿拉巴斯坦步步逼近，这群追梦者正逐渐意识到，想要在伟大航路立足，除了热血，更需要面对权力阴谋与人性灰暗的决绝意志。",
+        "releaseDate": "2026-03-10",
+        "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+        "posterPath": "/nSHBJp1ulPxdp7vtUTrhoXjZjfb.jpg",
+        "rating": 6.8,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
         "id": 250307,
@@ -353,9 +340,35 @@
         "releaseDate": "2026-03-14",
         "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
         "posterPath": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-        "rating": 8.618,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 303724,
+        "type": "tmdb",
+        "title": "心动密码",
+        "originalTitle": "สืบลับจับใจ",
+        "description": "一位权势显赫的警官之女，在躲过数次暗杀后悄然加入精英训练计划。在这里她邂逅了一位纪律严明、直觉敏锐的军官，两人被迫同住一室，暧昧情愫悄然滋长。然而政治阴谋、未解命案与错综往事即将撕裂这段关系。当一方发现对方的父亲竟与自己家族悲剧有所牵连时，在职责、危险与真相代价的层层考验下，两人不得不在正义和意外降临的爱情间做出抉择。",
+        "releaseDate": "2026-02-12",
+        "backdropPath": "/sPXZ3of4Lf1D1LXY0PUI1RpsYo6.jpg",
+        "posterPath": "/jQvrRQgHpGqUCc5oT3GxSfvDWqO.jpg",
+        "rating": 8.8,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 动作冒险"
+      },
+      {
+        "id": 241860,
+        "type": "tmdb",
+        "title": "权欲之巅 Climax",
+        "originalTitle": "클라이맥스",
+        "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
+        "releaseDate": "2026-03-16",
+        "backdropPath": "/joeWNlosN0XyBkApi215L6asTx6.jpg",
+        "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
+        "rating": 10,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 剧情"
       },
       {
         "id": 201834,
@@ -366,35 +379,9 @@
         "releaseDate": "2026-03-05",
         "backdropPath": "/xaiKpxuf9YGuTsqpdK5HSbD8M8f.jpg",
         "posterPath": "/hSSvuealwIWQEnhGzvVJS9DauYm.jpg",
-        "rating": 8.1,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "喜剧"
-      },
-      {
-        "id": 313902,
-        "type": "tmdb",
-        "title": "被女孩子逆推不行吗？",
-        "originalTitle": "女の子が抱いちゃダメですか？",
-        "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
-        "releaseDate": "2026-03-06",
-        "backdropPath": "/tZ7XJ4ORrBbZf8AJquw1cS0XVpY.jpg",
-        "posterPath": "/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "喜剧"
-      },
-      {
-        "id": 305986,
-        "type": "tmdb",
-        "title": "钟表馆杀人事件",
-        "originalTitle": "時計館の殺人",
-        "description": "该剧作为“馆”系列影视化第二部作品，以充满精密时钟的神秘宅邸“钟表馆”为舞台，讲述了编辑江南孝明与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案，推理作家鹿谷门实也介入调查，共同揭开宅邸与过去惨剧的真相。",
-        "releaseDate": "2026-02-27",
-        "backdropPath": "/8H0UU19gWdlumau0CsajTuMcroN.jpg",
-        "posterPath": "/5oWf1afgT21KVi2B5vhBlTxR9vv.jpg",
-        "rating": 6.4,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
       }
     ]
   }
