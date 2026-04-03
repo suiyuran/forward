@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-02T20:22:09.687Z",
+  "time": "2026-04-03T20:21:34.829Z",
   "data": {
     "电影": [
       {
@@ -11,9 +11,22 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.206,
+        "rating": 8.19,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
+      },
+      {
+        "id": 1464883,
+        "type": "tmdb",
+        "title": "总统的蛋糕",
+        "originalTitle": "The President's Cake",
+        "description": "90年代的伊拉克，萨达姆·侯赛因要求全国每所学校都要为他的生日准备一个蛋糕。9岁的拉米娅必须发动她全部的智慧和想象力，以集齐制作蛋糕所需的全部原料。",
+        "releaseDate": "2025-12-26",
+        "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
+        "posterPath": "/fpx5DNWYiXHLLWdV9uGxMnepVvb.jpg",
+        "rating": 7.57,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
       },
       {
         "id": 1327819,
@@ -24,48 +37,22 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.57,
+        "rating": 7.584,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
       {
-        "id": 1393151,
+        "id": 1363090,
         "type": "tmdb",
-        "title": "反对普京的无名先生",
-        "originalTitle": "Mr. Nobody mod Putin",
-        "description": "2022年俄乌战争爆发后，乌拉尔小城教师帕沙目睹母校被军事化、学生家长被征召入伍，他秘密拍摄下这一切。",
-        "releaseDate": "2025-06-06",
-        "backdropPath": "/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
-        "posterPath": "/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
-        "rating": 7.4,
+        "title": "白天是阿波罗，晚上是雅典娜",
+        "originalTitle": "Gündüz Apollon Gece Athena",
+        "description": "德芙尼（Defne）前往古老的地中海城市西戴（Side），在那里遇到了一位革命者、一个妓女、一位女祭司以及其他神秘人物。在他们的指引下，她开始寻找抛弃她的母亲。这部由充满潜力的女导演艾米妮·耶尔迪勒姆（Emine Yildirim）执导的处女作，以西戴为背景。西戴是古希腊的一个殖民地，曾是位于今日安塔利亚附近的繁荣港口城市。电影《日为阿波罗，夜为雅典娜》标题中的两位希腊神祇分别是理性之神太阳神阿波罗和智慧、手工艺及战争女神雅典娜。这部影片是一部充满奇幻色彩的剧情片，讲述了女性与男性、生者与死者的故事。",
+        "releaseDate": "2024-11-02",
+        "backdropPath": "/9otud05pr71WH42e6XKYV47vIGV.jpg",
+        "posterPath": "/iRVkRA3OFqFnoMtkQWS6VmFFFLi.jpg",
+        "rating": 5,
         "mediaType": "movie",
-        "genreTitle": "纪录"
-      },
-      {
-        "id": 1399462,
-        "type": "tmdb",
-        "title": "马拉加街夕阳红",
-        "originalTitle": "Calle Málaga",
-        "description": "79岁的西班牙女子玛丽亚·安赫莱斯独自生活在摩洛哥的丹吉尔，享受着自己的日常生活。然而，当她女儿从马德里赶来，想要卖掉她一直居住的公寓时，她的生活彻底被打乱了。决心留下来的她，竭尽所能想要夺回自己的家与财物，却意外重拾了爱情与感官的愉悦。",
-        "releaseDate": "2025-10-31",
-        "backdropPath": "/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
-        "posterPath": "/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
-        "rating": 7.2,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1417790,
-        "type": "tmdb",
-        "title": "遇见世界",
-        "originalTitle": "ミーツ・ザ・ワールド",
-        "description": "本作改编自金原瞳同名小说，27岁的主角由嘉里，狂热沉迷于拟人化烤肉漫画《Meat Is Mine》，却无法喜欢上自己。看着身边朋友陆续结婚生子、脱离二次元圈，她焦虑之下开始相亲，却在联谊惨败后醉倒歌舞伎町街头，被一位美丽的陪酒女郎“RAI”救下。这次相遇将她带进了一个全新的世界……",
-        "releaseDate": "2025-10-24",
-        "backdropPath": "/bSHwhJvu4kJBeRSe2MHEJFXYKgj.jpg",
-        "posterPath": "/oymKm1yLabt8a4oezYPLIFSjOea.jpg",
-        "rating": 6,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "喜剧, 剧情"
       },
       {
         "id": 1294698,
@@ -81,17 +68,17 @@
         "genreTitle": "犯罪, 剧情"
       },
       {
-        "id": 1423035,
+        "id": 1462735,
         "type": "tmdb",
-        "title": "挫败的人生劫案",
-        "originalTitle": "Aontas",
-        "description": "是被过去塑造的囚徒，还是自我命运的缔造者？故事以抢劫失败后的悲剧开场。一位濒临崩溃的偏执女子，带领两名同伙抢劫了爱尔兰农村信用社，但计划漏洞百出。事态不断失控，随着时光倒流，那些无法逃离的记忆如同锁链，不仅将她们拖入深渊，更将身边人卷入致命漩涡。",
-        "releaseDate": "2026-02-13",
-        "backdropPath": "/tosxYPeSTPuvpRDlNG5l56Ae09J.jpg",
-        "posterPath": "/qmP75nlRXg5tyUG0Uf1FXQT4FRM.jpg",
-        "rating": 0,
+        "title": "旅途中的日子",
+        "originalTitle": "旅と日々",
+        "description": "改编自柘植义春的漫画《海边的抒景》《混沌洞的笨先生》，讲述郁郁不得志的李编剧因缘际会来到一个大雪纷飞的深山中，误打误撞进入了一家破旧的旅馆。屋顶几乎被积雪压塌，旅馆的老板笨造看起来毫无干劲，旅馆里没有暖气，饭菜也马马虎虎，连床铺都得自己铺。然而，笨造似乎藏着什么秘密。某天晚上，笨造带着李踏入了夜晚雪原……",
+        "releaseDate": "2025-11-07",
+        "backdropPath": "/aJM7KIdC5mNPjqKp8NdwvzyHceS.jpg",
+        "posterPath": "/dmFgiPKuwF8gmtAz84LIJmFr03m.jpg",
+        "rating": 7.889,
         "mediaType": "movie",
-        "genreTitle": "惊悚, 犯罪"
+        "genreTitle": "剧情"
       },
       {
         "id": 1000850,
@@ -107,30 +94,43 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 1633264,
+        "id": 1566589,
         "type": "tmdb",
-        "title": "路易斯·泰鲁：解构男性圈",
-        "originalTitle": "Louis Theroux: Inside the Manosphere",
-        "description": "日益壮大的极端男性化网络社区、备受争议的网红 — 获奖纪录片制作人以独家视角毫无保留地展开探索。",
-        "releaseDate": "2026-03-10",
-        "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
-        "posterPath": "/yeHm0aIsAMFt0E8b12KhJ70wQKF.jpg",
-        "rating": 6.589,
+        "title": "蜂蜜的针",
+        "originalTitle": "蜂蜜的针",
+        "description": "性格孤僻的农科院研究员支宁（袁泉 饰），在爱情里四处碰壁。在一次文学讲座上，她对作家寇逸（耿乐 饰）一见钟情，从此陷入偏执爱情的她开始悄悄跟在寇逸身后……在偶然的契机下，支宁应寇逸之邀加入一场旅行。本以为是靠近心意的“爱情”之旅，却没料到途中变故接踵而至，逐渐成为了一场亡命之行。蹊跷的命案接连发生，所有人和事都在朝着完全失控的方向狂奔……  　　以爱之名的潘多拉魔盒已然开启，当爱意被执念裹挟，人究竟会为了守住所谓的“爱”，突破多少不可逾越的边界？",
+        "releaseDate": "2026-03-21",
+        "backdropPath": "/ewXAjwiHEklrVY2gvaFB6HuBWvB.jpg",
+        "posterPath": "/oGKsrIWhoceXLcVlnZlOUTkuev1.jpg",
+        "rating": 6,
         "mediaType": "movie",
-        "genreTitle": "纪录"
+        "genreTitle": "爱情, 犯罪"
       },
       {
-        "id": 1198994,
+        "id": 1297842,
         "type": "tmdb",
-        "title": "请求救援",
-        "originalTitle": "Send Help",
-        "description": "当求生变成猎杀，谁会是最终的幸存者？ 一架飞机失事后，作为同事的两名幸存者被困在荒岛上。他们必须放下过往恩怨、共同求生，但最终演变成一场不安又黑色幽默的意志与智慧对决……",
-        "releaseDate": "2026-01-22",
-        "backdropPath": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
-        "posterPath": "/f8c4HHITyez7RiA7pCLxI5cZQQU.jpg",
-        "rating": 7.08,
+        "title": "奇迹梦之队",
+        "originalTitle": "GOAT",
+        "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+        "releaseDate": "2026-02-11",
+        "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+        "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
+        "rating": 7.805,
         "mediaType": "movie",
-        "genreTitle": "恐怖, 惊悚"
+        "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 1258509,
+        "type": "tmdb",
+        "title": "留存的爱",
+        "originalTitle": "Ástin sem eftir er",
+        "description": "一个年轻家庭在冰岛乡村的一年生活。我们跟随他们经历分离过程中的挣扎与胜利。这是一个关于记忆与遗留爱意的故事。",
+        "releaseDate": "2025-08-14",
+        "backdropPath": "/7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
+        "posterPath": "/gveoShAALiQfdINESmjmsPGb0IC.jpg",
+        "rating": 6.389,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 喜剧"
       }
     ],
     "剧集·国内": [
@@ -301,7 +301,7 @@
         "releaseDate": "2026-03-24",
         "backdropPath": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
         "posterPath": "/cHfQQKZqJs4fwLrbn5RgfGsIoWt.jpg",
-        "rating": 7.7,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-03-10",
         "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
         "posterPath": "/nSHBJp1ulPxdp7vtUTrhoXjZjfb.jpg",
-        "rating": 6.8,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 6.6,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
