@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-02T17:52:15.825Z",
+  "time": "2026-04-03T17:37:09.035Z",
   "data": [
     {
       "id": 687163,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.196,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -28,6 +28,19 @@
       "genreTitle": "爱情, 犯罪"
     },
     {
+      "id": 1546855,
+      "type": "tmdb",
+      "title": "我，许可",
+      "originalTitle": "我，许可",
+      "description": "00后“母单”女孩儿许可（文淇 饰）面临一场迫在眉睫的妇科手术，却因妈妈胡春蓉（秦海璐 饰）的突袭式造访打乱了所有计划。母女同居，冲突乍起。在新旧观念的摩擦中，没想到女儿对妈妈展开了一次又一次反向教育——跟妈谈心，不如带妈蹦迪；给妈上生理课，不如直接送妈小玩具……最终许可能否顺利手术，胡春蓉又能否鼓起勇气开始新生活？这场笑点和泪点齐飞的大戏，又将如何重塑两人之间的母女关系……",
+      "releaseDate": "2026-03-21",
+      "backdropPath": "/sc2Q8HwhUOb49IfbkHHvi8dB7yy.jpg",
+      "posterPath": "/Z4PcigZfdhrU2via1XrdSrEq4G.jpg",
+      "rating": 5.7,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
       "id": 1220564,
       "type": "tmdb",
       "title": "密探",
@@ -41,17 +54,17 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 1454209,
+      "id": 1226863,
       "type": "tmdb",
-      "title": "非穷尽列举",
-      "originalTitle": "National Theatre Live: Inter Alia",
-      "description": "Jessica Parks是一位精明的刑事法庭法官，正处于事业巅峰期。在法袍背后，她是一个卡拉OK发烧友、有爱的妻子和支持孩子的家长。当一起事件有可能让她的生活完全失去平衡时，她能否支撑起自己的家庭？",
-      "releaseDate": "2025-09-25",
-      "backdropPath": "/gpQwPhKmUmBZxmA9bcBeFDbDgdS.jpg",
-      "posterPath": "/smdKDbTCLBuNJg3R5Eu0HakrwFU.jpg",
-      "rating": 7.7,
+      "title": "超级马力欧银河大电影",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+      "releaseDate": "2026-04-01",
+      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
+      "rating": 6.926,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "冒险, 动画"
     },
     {
       "id": 1327819,
@@ -62,7 +75,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.57,
+      "rating": 7.584,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -75,22 +88,22 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.5,
+      "rating": 6.477,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 682012,
+      "id": 1421609,
       "type": "tmdb",
-      "title": "你好，爱美丽",
-      "originalTitle": "Amélie et la métaphysique des tubes",
-      "description": "对于爱美丽来说，世界是一个令人困惑又安宁的谜团，直到一次与巧克力的奇妙邂逅点燃了她强烈的好奇心。随着她对家中女佣西尾小姐产生深厚依恋，爱美丽不仅发现了大自然的奇迹，也窥见了这个外国人家庭在战后日本田园诗般生活表象之下隐藏的情感真相。",
-      "releaseDate": "2025-06-25",
-      "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
-      "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 7.989,
+      "title": "我的妈耶",
+      "originalTitle": "我的妈耶",
+      "description": "十一（黄明昊 饰）从小由父亲张永勋（白客 饰）独自抚养长大，自出生时就离世的妈妈东玉（马思纯 饰）对于他而言则是陌生人般的存在。处于青春叛逆期的十一，在自己18岁生日这天意外发现了一本「妈妈的日记」。在好奇心的驱使下，十一翻开日记，开启了一段“认识妈妈”的旅程——十一跟随着妈妈的成长经历，邂逅了她人生不同阶段的重要人物——霹雳舞学长（梁靖康 饰）、高中闺蜜彩霞（嵇嘉禾 饰）、发小刘皮孩（王天放 饰）、初恋小哥（孙阳 饰）以及老公张永勋。这些人物串联起东玉一生所经历的友谊、爱情与亲情…… 透过这本「日记」，十一看见了东玉短暂却向阳的一生，也终于感受到了她对自己从始至终不曾缺席的爱……",
+      "releaseDate": "2026-04-03",
+      "backdropPath": "/tRg0CIV7HQVKcdd2Jabv4GdhEVF.jpg",
+      "posterPath": "/cE15hXnCv6VfADRCo69n83BRNsS.jpg",
+      "rating": 6,
       "mediaType": "movie",
-      "genreTitle": "动画, 剧情"
+      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 696393,
@@ -101,7 +114,7 @@
       "releaseDate": "2026-01-22",
       "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
       "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
-      "rating": 6.734,
+      "rating": 6.717,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
     },
@@ -112,24 +125,24 @@
       "originalTitle": "搜查瑠公圳",
       "description": "不愿受将军父亲庇护的叛逆警探，面对受陷害成为女分尸命案凶手的父亲，携手备受歧视妇幼线女记者，在全民热议与媒体编造报导下追查事件真相，却发现…凶手似乎另有其人？ ！",
       "releaseDate": "2025-05-22",
-      "backdropPath": "/rd3Q2lQ7YyMGufJhuXlwYYnBblr.jpg",
-      "posterPath": "/dI2GTY54Beqq9JfKc5J8EqyJ1bB.jpg",
+      "backdropPath": "/pyg46sZg60RrO5k8MwWfsQYmokU.jpg",
+      "posterPath": "/4pgaOLGKY9klkPwtOFLQCOse1o7.jpg",
       "rating": 6,
       "mediaType": "movie",
       "genreTitle": "历史, 犯罪"
     },
     {
-      "id": 1171145,
+      "id": 1657534,
       "type": "tmdb",
-      "title": "洛杉矶劫案",
-      "originalTitle": "Crime 101",
-      "description": "当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
-      "posterPath": "/vzOl0DgvaxuGMPJhncUeOqIxjyi.jpg",
-      "rating": 7,
+      "title": "蝴蝶楼·惊魂",
+      "originalTitle": "蝴蝶楼·惊魂",
+      "description": "婚托阿伟派助手李晗接近富家孤女陆瑶，协助自己捕获陆瑶芳心，就在以为即将成为富家女婿之际，陆家别墅内灵异怪象四起，一场阴魂与诡计间的碰撞正在悄然展开……",
+      "releaseDate": "2026-04-03",
+      "backdropPath": null,
+      "posterPath": "/xn3otFb9ARLNkFPUOYjD9Udtp5Y.jpg",
+      "rating": 4,
       "mediaType": "movie",
-      "genreTitle": "犯罪, 惊悚"
+      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1305781,
@@ -153,22 +166,9 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/rLHFufd3gALwHay1Sxl3MjbGQ7E.jpg",
       "posterPath": "/cL5vAK6bUHYWTOnypi34mzzWI8X.jpg",
-      "rating": 7.111,
+      "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 1297842,
-      "type": "tmdb",
-      "title": "奇迹梦之队",
-      "originalTitle": "GOAT",
-      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.735,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1602727,
@@ -182,6 +182,19 @@
       "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1297842,
+      "type": "tmdb",
+      "title": "奇迹梦之队",
+      "originalTitle": "GOAT",
+      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
+      "rating": 7.795,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1447971,
@@ -208,19 +221,6 @@
       "rating": 6.266,
       "mediaType": "movie",
       "genreTitle": "科幻, 恐怖"
-    },
-    {
-      "id": 1249668,
-      "type": "tmdb",
-      "title": "拼桌",
-      "originalTitle": "拼桌",
-      "description": "滞销书编辑张嘉怡和失业程序员陆拾谷意外成为了“饭搭子”，随着两人生活变故的不断发生，他们之间轻松单纯的快餐式友谊也渐渐发生了变化。在成长的道路上，他们遵从自己的内心，勇敢的追求属于自己的事业和爱情。",
-      "releaseDate": "2026-03-14",
-      "backdropPath": "/xn6XrlOWp76VQhhghyQMBDbd1pB.jpg",
-      "posterPath": "/9iJpbmb9WgVqrTSPQlpeGKllpDC.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1650257,
