@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-03T20:21:34.829Z",
+  "time": "2026-04-04T20:16:28.760Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.19,
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.584,
+        "rating": 7.57,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-11-07",
         "backdropPath": "/aJM7KIdC5mNPjqKp8NdwvzyHceS.jpg",
         "posterPath": "/dmFgiPKuwF8gmtAz84LIJmFr03m.jpg",
-        "rating": 7.889,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-02-11",
         "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
         "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-        "rating": 7.805,
+        "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -139,7 +139,7 @@
         "type": "tmdb",
         "title": "正义女神",
         "originalTitle": "正義女神",
-        "description": "一宗六岁男童堕楼身亡案，十四岁少年高成彬（刘倬昕 饰）被控谋杀。成彬辩称当时是想救人而非推人，陪审团最终裁定这是一宗不幸意外，成彬无罪释放。高等法院法官言惠知（佘诗曼 饰）翻阅成彬的过往记录时发现，他此前已多次因轻微罪行被带到少年法庭，皆因未满十三岁而获撤销控罪，没有留下案底。\n\n　　看着这份“清白”的记录，言惠知陷入深思——如果早有人在他第一次犯错时及时纠正，是否就能阻止今日的悲剧？她做了一个出人意表的决定：主动申请降职，担任少年法庭的裁判官。\n\n　　正值事业高峰的言惠知，此举不仅令法律界哗然，更导致她与在律政司工作的丈夫邱光正（谭耀文 饰）婚姻破裂。她坚信，只有从源头拯救这些脱轨少年，助他们培养正确的价值观，才能阻止下一个“恶魔少年”的出现。\n\n　　在少年法庭，言惠知的审判作风令主任裁判官洪思义（许绍雄 饰）亦敬畏三分，更与以“最年轻高院法官”为目标的裁判官郑邵文（周嘉洛 饰）形成微妙角力。面对一连串严重的少年案件——校园欺凌、家庭暴力、青少年犯罪——言惠知择善固执，坚持正义，不容有罪者脱身，也不让无辜者受屈，誓要救赎每一位迷途少年的人生。",
+        "description": "一宗六岁男童堕楼身亡案，十四岁少年高成彬（刘倬昕饰）被控谋杀。成彬辩称当时是想救人而非推人，陪审团最终裁定这是一宗不幸意外，成彬无罪释放。高等法院法官言惠知（佘诗曼饰）翻阅成彬的过往记录时发现，他此前已多次因轻微罪行被带到少年法庭，皆因未满十三岁而获撤销控罪，没有留下案底。  　　看着这份“清白”的记录，言惠知陷入深思——如果早有人在他第一次犯错时及时纠正，是否就能阻止今日的悲剧？她做了一个出人意表的决定：主动申请降职，担任少年法庭的裁判官。正值事业高峰的言惠知，此举不仅令法律界哗然，更导致她与在律政司工作的丈夫邱光正（谭耀文饰）婚姻破裂。她坚信，只有从源头拯救这些脱轨少年，助他们培养正确的价值观，才能阻止下一个“恶魔少年”的出\n\n　　在少年法庭，言惠知的审判作风令主任裁判官洪思义（许绍雄饰）亦敬畏三分，更与以“最年轻高院法官”为目标的裁判官郑邵文（周嘉洛饰）形成微妙角力。面对一连串严重的少年案件——校园欺凌、家庭暴力、青少年犯罪——言惠知择善固执，坚持正义，不容有罪者脱身，也不让无辜者受屈，誓要救赎每一位迷途少年的人生。",
         "releaseDate": "2026-03-16",
         "backdropPath": "/gSXWB1rETFIuL4NZ4GhO4fDGD61.jpg",
         "posterPath": "/8hhNIWHBJkXgLxmjvTKmkyvHjdC.jpg",
@@ -271,7 +271,7 @@
         "type": "tmdb",
         "title": "真相捕捉",
         "originalTitle": "The Capture",
-        "description": "新一季将延续第二季的故事，自Rachel Carey（荷丽黛·格兰杰 饰）在全国直播中揭露一段伪造的政府部长视频、暴露情报机构秘密操作项目“修正”以来，已过去一年。在对“修正”计划非法使用的调查期间，Carey成为SO15反恐指挥部的代理负责人，试图通过全新的“真相行动”摄像系统重建公众对监控技术的信任。然而，一场精心策划、极其残忍的恐怖袭击突然爆发，直击英国权力核心，仅留下一位目击者。随着Carey深入调查，她被卷入一场不断扩大的地缘政治危机之中，这场危机渗透至英国政坛、安全机构乃至媒体界。一场巨大的阴谋正悄然展开，但幕后黑手究竟是谁？",
+        "description": "新一季将延续第二季的故事，自瑞秋.凯里在全国直播中揭露一段伪造的政府部长视频、暴露情报机构秘密操作项目“修正”以来，已过去一年。在对“修正”计划非法使用的调查期间，凯里成为SO15反恐指挥部的代理负责人，试图通过全新的“真相行动”摄像系统重建公众对监控技术的信任。然而，一场精心策划、极其残忍的恐怖袭击突然爆发，直击英国权力核心，仅留下一位目击者。随着凯里深入调查，她被卷入一场不断扩大的地缘政治危机之中，这场危机渗透至英国政坛、安全机构乃至媒体界。一场巨大的阴谋正悄然展开，但幕后黑手究竟是谁？",
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
         "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
@@ -340,7 +340,7 @@
         "releaseDate": "2026-03-14",
         "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
         "posterPath": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-        "rating": 8.5,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -360,13 +360,13 @@
       {
         "id": 241860,
         "type": "tmdb",
-        "title": "权欲之巅 Climax",
+        "title": "权欲之巅",
         "originalTitle": "클라이맥스",
         "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
         "releaseDate": "2026-03-16",
         "backdropPath": "/joeWNlosN0XyBkApi215L6asTx6.jpg",
         "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
-        "rating": 10,
+        "rating": 8.667,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
