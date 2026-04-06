@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-05T20:18:29.793Z",
+  "time": "2026-04-06T20:26:04.992Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.578,
+        "rating": 7.584,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-02-11",
         "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
         "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-        "rating": 7.851,
+        "rating": 7.877,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
         "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
-        "rating": 4.3,
+        "rating": 5.2,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 6.7,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -339,8 +339,8 @@
         "description": "该剧是《黄石》宇宙的第一部现代背景衍生剧，故事聚焦一个纽约家庭在蒙大拿州中部麦迪逊河谷地的生活，将对悲伤和人际关系进行真诚的研究和审视。",
         "releaseDate": "2026-03-14",
         "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
-        "posterPath": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-        "rating": 8.5,
+        "posterPath": "/lRpnGxVYlhWoemkkP4OYgqGrew0.jpg",
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
