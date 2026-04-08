@@ -115,8 +115,9 @@ export async function getDoubanMatchedTMDBResult(
       return findResult;
     }
   }
+  const seasonNumbers = ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十"];
 
-  if (type === "movie" || (type === "tv" && !title.match(/(\d{1})$/))) {
+  if (type === "movie" || (type === "tv" && !title.match(/(\d{1}|第[零一二三四五六七八九十]季)$/))) {
     const searchResults = await searchTMDBResults(type, title, year);
     const searchResult = searchResults.find((result) => result.title === title && result.releaseDate === releaseDate);
 
@@ -137,15 +138,17 @@ export async function getDoubanMatchedTMDBResult(
 
         if (season) {
           console.log(`    TMDB ID: ${onlyResult.id}`);
-          const { seasonNumber: _, ...seasonWithoutNumber } = season;
-          return { ...onlyResult, ...seasonWithoutNumber };
+          const { seasonNumber: _, description, ...restSeasonInfo } = season;
+          return { ...onlyResult, ...restSeasonInfo, ...(description ? { description } : {}) };
         }
       }
     }
   } else {
-    const titleLength = title.length;
-    const seriesTitle = title.slice(0, titleLength - 1);
-    const seasonNumber = parseInt(title.slice(titleLength - 1), 10);
+    const match = title.match(/(.*?)(\d{1}|第[零一二三四五六七八九十]季)$/)!;
+    const seriesTitle = match[1].trim();
+    const seasonNumber = match[2].includes("季")
+      ? seasonNumbers.indexOf(match[2].replace("第", "").replace("季", ""))
+      : parseInt(match[2], 10);
     const searchResults = await searchTMDBResults("tv", seriesTitle, year);
     const searchResult = searchResults.find((result) => result.title === seriesTitle);
 
@@ -155,8 +158,8 @@ export async function getDoubanMatchedTMDBResult(
 
       if (season) {
         console.log(`    TMDB ID: ${searchResult.id}`);
-        const { seasonNumber: _, ...seasonWithoutNumber } = season;
-        return { ...searchResult, ...seasonWithoutNumber };
+        const { seasonNumber: _, description, ...restSeasonInfo } = season;
+        return { ...searchResult, ...restSeasonInfo, ...(description ? { description } : {}) };
       }
     }
   }

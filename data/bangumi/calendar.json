@@ -1,7 +1,20 @@
 {
-  "time": "2026-04-07T16:53:41.737Z",
+  "time": "2026-04-08T09:03:39.023Z",
   "data": {
     "星期日": [
+      {
+        "id": 60761,
+        "type": "tmdb",
+        "title": "钻石王牌",
+        "originalTitle": "ダイヤのA",
+        "description": "故事描述国中时期最后的大赛，率领因为学校整合关系面临废校的赤成中学参赛，却在第一回战中投出暴投，而输掉比赛的投手泽村荣纯，本来决定要与国中时期的朋友一同考入故乡的高中，却被东京的棒球名校青道高中挖角，并在那里遇见了天才捕手御幸一也，就此改变了他的人生…",
+        "releaseDate": "2013-10-06",
+        "backdropPath": "/dfEmmE3RJh3OYxyqOFDBt0qMS0E.jpg",
+        "posterPath": "/dsBaYmBFilGCP4e2jagWbEFYNHR.jpg",
+        "rating": 7.958,
+        "mediaType": "tv",
+        "genreTitle": "动画"
+      },
       {
         "id": 286361,
         "type": "tmdb",
@@ -81,6 +94,19 @@
         "genreTitle": "动画, 动作冒险"
       },
       {
+        "id": 37854,
+        "type": "tmdb",
+        "title": "航海王",
+        "originalTitle": "ワンピース",
+        "description": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+        "releaseDate": "1999-10-20",
+        "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
+        "rating": 8.724,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 喜剧"
+      },
+      {
         "id": 315816,
         "type": "tmdb",
         "title": "茉莉花酱的好感度正在崩坏",
@@ -111,7 +137,7 @@
         "type": "tmdb",
         "title": "淫狱团地",
         "originalTitle": "インゴクダンチ",
-        "description": "那里是危险人妻嚣张跋扈的魔之社区——在受到能够增幅人的欲望的“性欲衣”诱惑的人妻面前，菜鸟管理员吉田的命运将会……？ ​​​​",
+        "description": "从变态人妻的威胁中守护社区的和平吧，新人管理员吉田！ 吉田代替父亲成为了社区的管理员。而等待着他的，竟是因为猥亵的服装「性欲衣」而陷入疯狂的人妻们的袭击。 在吉田因为渡边、一之濑等团地居民的失控而疲于奔命的同时，A级人妻神崎的威胁及阻止事件发生的警察的阴影更是让社区的黑暗愈发深沉。 吉田手持对抗的手段「电流锐爪」挺身迎战，然而在其背后，又有更深层的绝望「驱逐排斥妇女会」的魔掌正逐渐逼近……",
         "releaseDate": "2026-04-06",
         "backdropPath": "/hhi4eb4Rx8gwUcTXbFneFyKK7VG.jpg",
         "posterPath": "/q2YnIH8V09ugX8i9TajYFew5Qsg.jpg",
@@ -139,9 +165,9 @@
         "originalTitle": "日本三國",
         "description": "在文明崩溃后的近未来，一位青年为了再次统一再度化为战国时代的日本而挺身而出。其名为三角青辉。在后世被评价为奇才军师的他的传说，现在开始！！",
         "releaseDate": "2026-04-05",
-        "backdropPath": "/3DU0NOOcghnjSApPzP14yjMeCwW.jpg",
+        "backdropPath": "/m4RWzJwv5xm8K6lIgIOdRBScxhn.jpg",
         "posterPath": "/lGyQoPUOqeTKhtu2HfBnmiojIQe.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
@@ -180,7 +206,7 @@
         "originalTitle": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
         "description": "严格过头的风纪委员樱大门的职务是，在校门口检查学生着装。最让他介意的，是那个染发和穿超短裙的问题少女小日向。然而，认为樱大门很啰嗦的她，却发现他是个“学渣”的惊人事实...",
         "releaseDate": "2026-04-06",
-        "backdropPath": "/z58qZkhvdvr26L1UGlZN3dE3FLW.jpg",
+        "backdropPath": "/8EaA5ffwNJv4uBwmfUWT06WY5ee.jpg",
         "posterPath": "/uBHcmbmC3TccLO6hdrttOpjy4bN.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -195,7 +221,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/jFEd0OnACZRXVQOSf9klgIpOJdp.jpg",
         "posterPath": "/gX3hqZWIFREhvIPAICySe7p9c9t.jpg",
-        "rating": 6.5,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -221,7 +247,7 @@
         "releaseDate": "2023-01-06",
         "backdropPath": "/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
         "posterPath": "/t38KxGkJD7JnCuD4pCgul0mI5RO.jpg",
-        "rating": 7.5,
+        "rating": 7.527,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -232,7 +258,7 @@
         "originalTitle": "LIAR GAME",
         "description": "一天突然收到了一个小包裹。在当中有着写着“恭喜你。你从十万分之一的概率当中，入选了欺诈游戏”的信，以及一亿日圆现金。而那就是欺诈游戏的开始。在30天后的游戏结束日，要归还自身所持的一亿日圆。规则就只有这些。顺利夺走对战对象所持金钱的胜利者就能获得一亿日圆，失败者就要背负一亿日圆的债务……谁是可信的，谁是不可信的……将在巨额金钱面前动摇的，人类的心理描绘得淋漓尽致的问题作！",
         "releaseDate": "2026-04-07",
-        "backdropPath": "/p97Wn9bv4QvJEYlr4uSsRG6HPvh.jpg",
+        "backdropPath": "/Ag6VnSAb1g02YWHYxYFKRUiBtnc.jpg",
         "posterPath": "/tGNeNhXzjNFJ6zaBqV3TKHtZpWy.jpg",
         "rating": 8,
         "mediaType": "tv",
@@ -260,7 +286,7 @@
         "originalTitle": "クラスで２番目に可愛い女の子と友だちになった",
         "description": "连个熟人都没有的我·前原真树，交到的第一个朋友是朝凪海。\n\n　　被男生们说成是“班上第二可爱的”，对天真烂漫的No.1美少女天海照顾有加的朝凪——\n\n　　只在星期五放学后偷偷来我家玩。\n\n　　和电影、游戏、漫画趣味相投的她一起度过了快乐的时光。\n\n　　天真无邪、爱撒娇的素颜，从平时稳重可靠的人的样子来看是无法想象的。\n\n　　“快坐到我旁边，我们一起看漫画。” “这是我的床……” “现在是我的床，你过来吗?”\n\n　　距离不近吗，朝凪小姐?\n\n　　阴暗男子和第二女主角，真人大小的“朋友”爱情喜剧!",
         "releaseDate": "2026-04-07",
-        "backdropPath": "/akIBxIF8wR0qmhvqpMcWtpvxajf.jpg",
+        "backdropPath": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
         "posterPath": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -343,6 +369,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
+      },
+      {
+        "id": 318478,
+        "type": "tmdb",
+        "title": "百鬼夜行抄",
+        "originalTitle": "百鬼夜行抄",
+        "description": "律从已故祖父那里继承了不可思议灵力，以及一位名为蓝风暴的恶魔守护者。某一次，他梦见了童年的往事。在梦中，为了躲避妖魔的觊觎，年幼的律被迫打扮成女孩子的模样，却仍差点遭到一名少女幽灵的袭击。就在不久后的某一天，律亲眼目睹那名幽灵混在母亲茶道教室的学生群中，潜入了家中。正当律试图查明对方的真面目时，却在名为“捉迷藏”的游戏中，被灵体夺走了左眼！？奇怪的事情似乎总是围绕着他们两人发生，而揭开所有这些神秘事件真相的重任就落在了他们身上。每个故事都是独立的，但其中穿插着一些会逐渐熟悉并喜爱的角色，他们各自以不同的方式应对着“非此世之事”。",
+        "releaseDate": "2026-04-07",
+        "backdropPath": "/ekBMDoocqr5u0dBZRK9VFakyVBx.jpg",
+        "posterPath": "/61DBRoCkWnh0uOTSCPoXHu2LOj5.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 悬疑"
       }
     ],
     "星期三": [
@@ -355,7 +394,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.7,
+        "rating": 8.724,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -397,6 +436,19 @@
         "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
+      },
+      {
+        "id": 65942,
+        "type": "tmdb",
+        "title": "Re：从零开始的异世界生活",
+        "originalTitle": "Re:ゼロから始める異世界生活",
+        "description": "在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
+        "releaseDate": "2016-04-04",
+        "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
+        "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
+        "rating": 7.8,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 274671,
@@ -539,7 +591,7 @@
         "releaseDate": "2019-07-05",
         "backdropPath": "/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
         "posterPath": "/7GFo7yLsXmnIH6xOB3blY8KyAMd.jpg",
-        "rating": 8.529,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -620,6 +672,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
+      },
+      {
+        "id": 310921,
+        "type": "tmdb",
+        "title": "吞噬魔物的冒险者～只有我能通过吞噬魔物变强～",
+        "originalTitle": "魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～",
+        "description": "E级冒险者路德。他唯一的技能“异常状态无效化”，在充满瘴气的迷宫中采集药草时，除了采集外几乎毫无用处的鸡肋存在。战斗能力近乎为零，被冒险者同伴们戏称为“瘴气渔夫”。甚至被人讥讽为“饭桶”。为了打破这种现状，路德决定挑战新的迷宫，却遭到同伴背叛而遇险。物资耗尽濒临死亡之际，他毅然决定吞食被视为禁忌的魔物血肉——然而路德不断吞噬魔物获取新技能的“魔物吞噬者”冒险传奇，就此展开！",
+        "releaseDate": "2026-04-03",
+        "backdropPath": "/uKGWyKucpzWHMPSUQXeIf03oxO5.jpg",
+        "posterPath": "/9sfqKo6Xh7vOqYqmjoKPvSgVLCC.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 316973,
@@ -754,17 +819,17 @@
         "genreTitle": "动画, 动作冒险"
       },
       {
-        "id": 218961,
+        "id": 306121,
         "type": "tmdb",
-        "title": "Les Gouttes de Dieu",
-        "originalTitle": "Les Gouttes de Dieu",
-        "description": "当葡萄酒界为亚历山大莱杰之死哀悼时，其失联已久的女儿卡蜜儿获悉父亲的稀世珍藏将归她所有。但她必须跟亚历山大的得意门生一青展开一场感官之战，以竞逐属于自己的遗产。",
-        "releaseDate": "2023-04-21",
-        "backdropPath": "/n1S7wjXldg351ajDMWSgMpfmfyW.jpg",
-        "posterPath": "/nfYVVeSSHIl9t9vSII9xloq3ZuM.jpg",
-        "rating": 7.617,
+        "title": "神之水滴",
+        "originalTitle": "神の雫",
+        "description": "见习侍酒师紫野原，指出了不懂装懂的客人的错误，结果惹怒了对方。不过，和那位客人一起来的神咲雫用完美的醒酒救了场。其实他就是那位世界有名的葡萄酒评论家神咲丰多香的儿子——\n\n　　在能够左右世界的市场价值的葡萄酒评论家神咲丰多香离世后，他留下了时价超过20亿日圆的葡萄酒收藏。而在其中位于最顶点的就是“神之雫”——只有能够正确说出他所选出的12瓶葡萄酒“使徒”与“神之雫”的商标，以及生产年份的人，才能够获得他的这份遗产。其亲生儿子雫与养子一青将开展这场“使徒”对决！",
+        "releaseDate": "2026-04-10",
+        "backdropPath": null,
+        "posterPath": "/A6KiNP7HVFxmRBmsdfCI38hL6nk.jpg",
+        "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "动画, 剧情"
       }
     ],
     "星期六": [
@@ -840,7 +905,7 @@
         "originalTitle": "カナン様はあくまでチョロい",
         "description": "【超可爱恶魔和天然积极人类的初恋喜剧♪】\n\n　　以人类的灵魂为粮食，潜伏在人界里的高中的女恶魔·迦楠。某日锁定了一名男高中生，出于某种原因，意外结下恋人的契约！？\n\n　　千年之间从未谈过恋爱的迦楠，迎来各种未知的情感…！酸酸甜甜的青春闹剧之风！纯情恶魔的超可爱恋爱喜剧开演！",
         "releaseDate": "2026-04-05",
-        "backdropPath": "/n66qRDYmZ2fmyAC9IFzcSZULAAN.jpg",
+        "backdropPath": "/mCJWUo6Np2y5daruzt7fhh5TiIA.jpg",
         "posterPath": "/tL3Hhpqe6KuRw8WKsqtA63U4VQh.jpg",
         "rating": 7,
         "mediaType": "tv",
@@ -944,7 +1009,7 @@
         "originalTitle": "NEEDY GIRL OVERDOSE",
         "description": "描写了一位想要成为最强的主播同时迫切想要得到他人认可的女孩，与辅佐她的“阿P”共同生活的故事。令全世界着迷的“互联网天使”的动画即将拉开帷幕。",
         "releaseDate": "2026-04-05",
-        "backdropPath": "/dot1NI6F5IrLck8xWIOn74ieaDH.jpg",
+        "backdropPath": "/cT46lkGnsqvvjzpBHV0ept28gU.jpg",
         "posterPath": "/gsNEVTYrUgRlBDhynYtQy9u7YYR.jpg",
         "rating": 7.5,
         "mediaType": "tv",

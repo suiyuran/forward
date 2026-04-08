@@ -153,12 +153,12 @@ export async function findTMDBResultsByIMDBId(imdbId: string, type: string) {
     if (response.tv_episode_results.length > 0) {
       const tmdbId = response.tv_episode_results[0].show_id;
       const seasonNumber = response.tv_episode_results[0].season_number;
-      const { seasons, ...withoutSeasons } = await getTMDBTVSeriesDetails(tmdbId);
+      const { seasons, ...details } = await getTMDBTVSeriesDetails(tmdbId);
       const season = seasons.find((s) => s.seasonNumber === seasonNumber);
 
       if (season) {
-        const { seasonNumber: _, ...seasonWithoutNumber } = season;
-        return [{ ...withoutSeasons, ...seasonWithoutNumber, mediaType: type }];
+        const { seasonNumber: _, description, ...restSeasonInfo } = season;
+        return [{ ...details, ...restSeasonInfo, ...(description ? { description } : {}), mediaType: type }];
       }
     }
   }

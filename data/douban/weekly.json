@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-07T20:32:47.713Z",
+  "time": "2026-04-08T08:58:31.299Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.189,
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2025-12-26",
         "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
         "posterPath": "/fpx5DNWYiXHLLWdV9uGxMnepVvb.jpg",
-        "rating": 7.5,
+        "rating": 7.509,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.603,
+        "rating": 7.602,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-11-19",
         "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
         "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-        "rating": 7.053,
+        "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-02-11",
         "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
         "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-        "rating": 7.877,
+        "rating": 7.876,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -148,19 +148,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 275631,
-        "type": "tmdb",
-        "title": "非常检控观",
-        "originalTitle": "非常檢控觀",
-        "description": "律政司高级助理刑事检控专员包希仁患有罕见的「镜反射触觉症」，具有极致同理心。他以还原案件100%真相为目标，致力让被告认罪，减少受害者面对冗长聆讯的痛苦。希仁与律政书记公孙珀、志同道合的高级督察展熊飞、曾是受害者的秦湘言、实习检控官赵子帧等人通力合作，伸张正义。众人遇到不少阻力，希仁甚至要与身为财团长女的母亲为敌、跟身为大律师的旧情人王颂星对垒……然而，希仁坚守信念，誓要还受害人一个真相和公道！",
-        "releaseDate": "2026-01-19",
-        "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
-        "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 270857,
         "type": "tmdb",
         "title": "隐身的名字",
@@ -172,6 +159,19 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 275631,
+        "type": "tmdb",
+        "title": "非常检控观",
+        "originalTitle": "非常檢控觀",
+        "description": "律政司高级助理刑事检控专员包希仁患有罕见的「镜反射触觉症」，具有极致同理心。他以还原案件100%真相为目标，致力让被告认罪，减少受害者面对冗长聆讯的痛苦。希仁与律政书记公孙珀、志同道合的高级督察展熊飞、曾是受害者的秦湘言、实习检控官赵子帧等人通力合作，伸张正义。众人遇到不少阻力，希仁甚至要与身为财团长女的母亲为敌、跟身为大律师的旧情人王颂星对垒……然而，希仁坚守信念，誓要还受害人一个真相和公道！",
+        "releaseDate": "2026-01-19",
+        "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
+        "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": 287760,
@@ -187,19 +187,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 281495,
-        "type": "tmdb",
-        "title": "除恶",
-        "originalTitle": "除恶",
-        "description": "一个偏僻闭塞的沿海小镇，被一袋消失的毒品打破沉寂，一场“自杀式拯救”正式拉开序幕。一个是意外卷入毒品交易现场的女刑警胡文静（任素汐 饰），一个是为救女儿不计代价的普通父亲程恳（王骁 饰），一个是一心想要逃离小镇生活的野心家李晓雅（蔡文静 饰），一个是被毒品吞噬而走向异途的姐弟王萍（董晴 饰）王安（朱嘉琦 饰）。欲望与贪念交织成的茧细细密密困住了每一个人，无人能够全身而退。",
-        "releaseDate": "2026-02-23",
-        "backdropPath": "/gc9ySDlKwKnwlEw6km6KUXM44Yq.jpg",
-        "posterPath": "/zLm6n7JlMkRB3Z54ZIlCtrjiCWT.jpg",
-        "rating": 8.4,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 悬疑"
-      },
-      {
         "id": 259554,
         "type": "tmdb",
         "title": "夜色正浓",
@@ -211,6 +198,19 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 281495,
+        "type": "tmdb",
+        "title": "除恶",
+        "originalTitle": "除恶",
+        "description": "一个偏僻闭塞的沿海小镇，被一袋消失的毒品打破沉寂，一场“自杀式拯救”正式拉开序幕。一个是意外卷入毒品交易现场的女刑警胡文静（任素汐 饰），一个是为救女儿不计代价的普通父亲程恳（王骁 饰），一个是一心想要逃离小镇生活的野心家李晓雅（蔡文静 饰），一个是被毒品吞噬而走向异途的姐弟王萍（董晴 饰）王安（朱嘉琦 饰）。欲望与贪念交织成的茧细细密密困住了每一个人，无人能够全身而退。",
+        "releaseDate": "2026-02-23",
+        "backdropPath": "/gc9ySDlKwKnwlEw6km6KUXM44Yq.jpg",
+        "posterPath": "/zLm6n7JlMkRB3Z54ZIlCtrjiCWT.jpg",
+        "rating": 8.4,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 悬疑"
       },
       {
         "id": 280632,
@@ -239,17 +239,17 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 283682,
+        "id": 244189,
         "type": "tmdb",
-        "title": "好好的时光",
-        "originalTitle": "好好的时光",
-        "description": "上世纪70年代末，带着两儿一女的机械厂工人庄先进，迎娶了带着一儿一女的歌舞团演员苏小曼，来自两个家庭的孩子各怀心思，和父母一道演绎了一段三十年的情感大戏。自小当家的大女儿庄好好，是两个重组家庭的“定盘星”，从电车售票员到歌舞厅里的驻唱红歌手，她像高山之巅的野花，和家人们携手并肩心向阳光，顽强生长。庄先进终于实现了为孩子起名“好好学习，天天向上”的梦想，可为之圆梦的庄向上却成为庄好好和苏小曼之间不可说破的“秘密”。庄学习和王元媛本是青梅竹马的同学，却因各自父母的结合，两人只能擦肩而过。庄先进的徒弟刘成追求庄先进的女儿庄好好未果，却娶了苏小曼的女儿。",
-        "releaseDate": "2026-02-23",
-        "backdropPath": "/7947ON9o8of5Cpm03pUbQMfuDNp.jpg",
-        "posterPath": "/1RdBWSjELHNOOkaNdTM3O1CULq8.jpg",
-        "rating": 9,
+        "title": "向流星许愿的我们",
+        "originalTitle": "向流星許願的我們",
+        "description": "在能以愿望交换现实的星浦屿，绝望的何向永许愿「想消失」，醒来竟变成被世界遗忘的「钟小右」，仅剩挚友李宛哲知情。同时，向永暗恋的皓维带着伤痛返岛，不自觉被小右吸引；而宛哲向流星祈求轰烈爱情，唤来了神秘渔工小海。 当愿望的代价浮现，记忆与身分面临消逝的危机。四人交织出两段命定却危险的爱恋，他们必须在幻影与真实间做出抉择，完成一段关于奇幻与自我救赎的疗愈之旅。",
+        "releaseDate": "2026-03-26",
+        "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
+        "posterPath": "/ldZDkCN294O1twViCCfPZOAGnsY.jpg",
+        "rating": 8,
         "mediaType": "tv",
-        "genreTitle": "剧情, 家庭"
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
         "id": 313930,
@@ -280,30 +280,30 @@
         "genreTitle": "犯罪, 剧情"
       },
       {
+        "id": 250307,
+        "type": "tmdb",
+        "title": "匹兹堡医护前线",
+        "originalTitle": "The Pitt",
+        "description": "第二季故事发生在第一季结局的10个月后，时间线为一个美国独立纪念日的周末。",
+        "releaseDate": "2026-01-08",
+        "backdropPath": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+        "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
+        "rating": 6.8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 225780,
         "type": "tmdb",
         "title": "戴洛克小镇",
         "originalTitle": "Deadloch",
-        "description": "",
+        "description": "本剧是一部澳大利亚黑色喜剧悬疑剧。宁静的澳洲小镇戴洛克突发离奇命案，一名男性教练赤身陈尸海滩，舌头被割。作风稳重的本地女警长杜尔茜，与性格火爆粗犷的外派警探艾迪被迫搭档。随着多名劣迹斑斑的男性接连以相同手法遇害，案件升级为连环凶杀。全镇男性陷入恐慌，小镇暗流涌动的性别矛盾、群体冲突与陈年旧怨接连浮出水面。两位风格迥异的警探在摩擦与合作中逐步追查，最终揭开一场针对“恶男”的有组织复仇真相，悬疑密集且讽刺辛辣。",
         "releaseDate": "2026-03-19",
         "backdropPath": "/n58Py8VN2Z677AslZyfc3Aj3uUI.jpg",
         "posterPath": "/cVKeISd04YNsiv5mpoRt2BfQoJm.jpg",
         "rating": 3.2,
         "mediaType": "tv",
         "genreTitle": "喜剧, 犯罪"
-      },
-      {
-        "id": 202555,
-        "type": "tmdb",
-        "title": "夜魔侠：重生",
-        "originalTitle": "Daredevil: Born Again",
-        "description": "威尔逊·菲斯克市长反转整个纽约市，誓要追捕头号公敌 —— 义警夜魔侠。然而，面具下的马修·默多克将在黑暗中奋起反击，摧毁金并腐败的管治帝国。抵抗、反击、重生。",
-        "releaseDate": "2026-03-24",
-        "backdropPath": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "posterPath": "/cHfQQKZqJs4fwLrbn5RgfGsIoWt.jpg",
-        "rating": 7.9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 动作冒险"
       },
       {
         "id": 111110,
@@ -319,17 +319,43 @@
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
-        "id": 250307,
+        "id": 202555,
         "type": "tmdb",
-        "title": "匹兹堡医护前线",
-        "originalTitle": "The Pitt",
-        "description": "第二季故事发生在第一季结局的10个月后，时间线为一个美国独立纪念日的周末。",
-        "releaseDate": "2026-01-08",
-        "backdropPath": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-        "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 6.7,
+        "title": "夜魔侠：重生",
+        "originalTitle": "Daredevil: Born Again",
+        "description": "威尔逊·菲斯克市长反转整个纽约市，誓要追捕头号公敌 —— 义警夜魔侠。然而，面具下的马修·默多克将在黑暗中奋起反击，摧毁金并腐败的管治帝国。抵抗、反击、重生。",
+        "releaseDate": "2026-03-24",
+        "backdropPath": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+        "posterPath": "/cHfQQKZqJs4fwLrbn5RgfGsIoWt.jpg",
+        "rating": 7.9,
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "剧情, 动作冒险"
+      },
+      {
+        "id": 228079,
+        "type": "tmdb",
+        "title": "马洛谋杀俱乐部",
+        "originalTitle": "The Marlow Murder Club",
+        "description": "退休考古学家朱迪思·波茨（Judith Potts）独自住在宁静的马洛镇一栋褪色的豪宅里，通过为当地报纸做填字游戏来打发时间。 朱迪丝定期在泰晤士河野外游泳，她听到邻居花园里传来枪声，她相信发生了一起残酷的谋杀案。",
+        "releaseDate": "2026-03-18",
+        "backdropPath": "/5LMGwo1ZBMqaMHYuYLrq2m3ipqy.jpg",
+        "posterPath": "/wBfAXQBScnPypY7nJN6PCWjEp0g.jpg",
+        "rating": 6.3,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 剧情"
+      },
+      {
+        "id": 233833,
+        "type": "tmdb",
+        "title": "在你灿烂的季节",
+        "originalTitle": "찬란한 너의 계절에",
+        "description": "该剧讲述了因过去伤痛而封闭内心的女设计师宋嘏烂（李圣经 饰）与像阳光般明媚却也深陷伤痛的男设计师鲜于灿（蔡钟协 饰）命运般重逢，并在互相救赎中治愈彼此的感人故事。",
+        "releaseDate": "2026-02-20",
+        "backdropPath": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
+        "posterPath": "/9QhrWKqeJa5w23nDbBnQ9RFhGWF.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 剧情"
       },
       {
         "id": 225891,
@@ -345,6 +371,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 241860,
+        "type": "tmdb",
+        "title": "权欲之巅",
+        "originalTitle": "클라이맥스",
+        "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
+        "releaseDate": "2026-03-16",
+        "backdropPath": "/joeWNlosN0XyBkApi215L6asTx6.jpg",
+        "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
+        "rating": 8.7,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 剧情"
+      },
+      {
         "id": 303724,
         "type": "tmdb",
         "title": "心动密码",
@@ -356,32 +395,6 @@
         "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
-      },
-      {
-        "id": 241860,
-        "type": "tmdb",
-        "title": "权欲之巅 Climax",
-        "originalTitle": "클라이맥스",
-        "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
-        "releaseDate": "2026-03-16",
-        "backdropPath": "/joeWNlosN0XyBkApi215L6asTx6.jpg",
-        "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
-        "rating": 8.7,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 剧情"
-      },
-      {
-        "id": 201834,
-        "type": "tmdb",
-        "title": "泰迪熊",
-        "originalTitle": "ted",
-        "description": "1994年，口无遮拦的泰迪熊和他挚友——外向却笨拙的约翰·贝内特正经历着高中最后一年。这对好友与约翰的父母（马蒂和苏珊）及表妹（布莱尔）同住波士顿一户蓝领家庭。马蒂是个爱吹牛的波士顿蓝领，自诩为家中无可争议的主子，尤其反感有人挑战他，尤其是他那思想开明的侄女。苏珊则温柔无私，照顾家人时近乎病态地甜言蜜语。布莱尔是位直言不讳的大学生，常与更保守的亲戚们产生分歧。",
-        "releaseDate": "2026-03-05",
-        "backdropPath": "/xaiKpxuf9YGuTsqpdK5HSbD8M8f.jpg",
-        "posterPath": "/hSSvuealwIWQEnhGzvVJS9DauYm.jpg",
-        "rating": 7.9,
-        "mediaType": "tv",
-        "genreTitle": "喜剧"
       }
     ]
   }

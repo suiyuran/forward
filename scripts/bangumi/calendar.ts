@@ -13,7 +13,7 @@ const CONFIG = {
   outputPath: "./data/bangumi/calendar.json",
 };
 const SEASON_REGEXP =
-  /(?<!^)((((3rd|Final) )?(Season|Volume) ?[0-9]*|Prelude)|(第?([0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(终|終))((季|期)|(部分|クール)|(之|ノ)?章|シリーズ|(篇|編))|[0-9]+$)/gi;
+  /(?<!^)((((Second|3rd|4th|Final) )?(Season|Volume) ?[0-9]*|Prelude)|(第?([0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(终|終))((季|期)|(部分|クール)|(之|ノ)?章|シリーズ|(篇|編))|[0-9]+$)/gi;
 const SPECIAL_PARTS = [
   "TV剪辑版",
   "TV Edition",
@@ -25,6 +25,12 @@ const SPECIAL_PARTS = [
   "〜ネクストシャイン！〜",
   "幻真星戦編",
   "幻真星戦編",
+  "act2",
+  "actⅡ",
+  "埃鲁巴夫篇",
+  "エルバフ編",
+  "丧失篇",
+  "喪失編",
 ];
 const TITLE_RECORD: Record<string, string> = {
   航海王: "tt0388629",
@@ -32,6 +38,10 @@ const TITLE_RECORD: Record<string, string> = {
 
 function handleTitle(title: string) {
   return SPECIAL_PARTS.reduce((acc, part) => acc.replace(part, ""), title.replaceAll(SEASON_REGEXP, "")).trim();
+}
+
+function isAnime(result: TMDBTransformedResult) {
+  return result.genreTitle.includes("动画");
 }
 
 async function main() {
@@ -96,7 +106,7 @@ async function main() {
           continue;
         }
         if (availableResults.length > 1) {
-          const sortedResults = results.sort(sortById);
+          const sortedResults = availableResults.filter(isAnime).sort(sortById);
           const firstResult = sortedResults[0];
           data[day].push(firstResult);
           continue;
