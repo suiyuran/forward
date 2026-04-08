@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-07T17:59:01.688Z",
+  "time": "2026-04-08T18:08:04.458Z",
   "data": [
     {
       "id": 1546855,
@@ -23,7 +23,7 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.189,
+      "rating": 8.193,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -54,19 +54,6 @@
       "genreTitle": "家庭, 喜剧"
     },
     {
-      "id": 1226863,
-      "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "releaseDate": "2026-04-01",
-      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-      "rating": 6.953,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
       "id": 1481955,
       "type": "tmdb",
       "title": "阳光女子合唱团",
@@ -78,6 +65,19 @@
       "rating": 7.2,
       "mediaType": "movie",
       "genreTitle": "剧情, 音乐"
+    },
+    {
+      "id": 1226863,
+      "type": "tmdb",
+      "title": "超级马力欧银河大电影",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+      "releaseDate": "2026-04-01",
+      "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
+      "rating": 6.933,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1566589,
@@ -114,7 +114,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.603,
+      "rating": 7.607,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -153,7 +153,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.496,
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -171,19 +171,6 @@
       "genreTitle": "惊悚, 恐怖"
     },
     {
-      "id": 696393,
-      "type": "tmdb",
-      "title": "绿液惊魂",
-      "originalTitle": "Cold Storage",
-      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
-      "releaseDate": "2026-01-22",
-      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
-      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
-      "rating": 6.702,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
-    },
-    {
       "id": 1317288,
       "type": "tmdb",
       "title": "至尊马蒂",
@@ -192,7 +179,7 @@
       "releaseDate": "2025-12-19",
       "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
       "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.4,
+      "rating": 7.412,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -210,6 +197,19 @@
       "genreTitle": "历史, 犯罪"
     },
     {
+      "id": 1171145,
+      "type": "tmdb",
+      "title": "洛杉矶劫案",
+      "originalTitle": "Crime 101",
+      "description": "当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/zvGMwQ1mAFrxSzzMFT9WMEl6hxB.jpg",
+      "posterPath": "/vzOl0DgvaxuGMPJhncUeOqIxjyi.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 惊悚"
+    },
+    {
       "id": 682012,
       "type": "tmdb",
       "title": "你好，爱美丽",
@@ -223,6 +223,19 @@
       "genreTitle": "动画, 剧情"
     },
     {
+      "id": 696393,
+      "type": "tmdb",
+      "title": "绿液惊魂",
+      "originalTitle": "Cold Storage",
+      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
+      "releaseDate": "2026-01-22",
+      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
+      "rating": 6.699,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
+    },
+    {
       "id": 1297842,
       "type": "tmdb",
       "title": "奇迹梦之队",
@@ -231,7 +244,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.877,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -296,22 +309,9 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
       "posterPath": "/d5jW601WKpT1yTwWsJcYvUwl8cB.jpg",
-      "rating": 7.4,
+      "rating": 7.373,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 313369,
-      "type": "tmdb",
-      "title": "爱乐之城",
-      "originalTitle": "La La Land",
-      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
-      "releaseDate": "2016-12-01",
-      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
-      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.9,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1662350,
@@ -340,6 +340,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 313369,
+      "type": "tmdb",
+      "title": "爱乐之城",
+      "originalTitle": "La La Land",
+      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
+      "releaseDate": "2016-12-01",
+      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
+      "rating": 7.9,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
       "id": 1650257,
       "type": "tmdb",
       "title": "哀牢山",
@@ -351,6 +364,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
+    },
+    {
+      "id": 1357815,
+      "type": "tmdb",
+      "title": "时间旅馆",
+      "originalTitle": "时间旅馆",
+      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
+      "releaseDate": "2026-03-20",
+      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
+      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1294698,
@@ -392,19 +418,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1357815,
-      "type": "tmdb",
-      "title": "时间旅馆",
-      "originalTitle": "时间旅馆",
-      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
-      "releaseDate": "2026-03-20",
-      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
-      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
       "id": 1421552,
       "type": "tmdb",
       "title": "熊猫计划之部落奇遇记",
@@ -444,32 +457,6 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 485289,
-      "type": "tmdb",
-      "title": "重返·狼群",
-      "originalTitle": "重返·狼群",
-      "description": "美女画家李微漪在一次草原采风中意外收养了狼王遗孤，为其取名格林，并带回成都喂养。但繁华的都市无法容纳一匹野性的草原狼，李微漪带着格林重返草原，一路追寻狼群的踪迹，历经严寒酷雪，终于目送它成功地重返狼群。",
-      "releaseDate": "2017-06-16",
-      "backdropPath": "/1LtZ3PZiC57fTVKfsUbgxXAYpE5.jpg",
-      "posterPath": "/k51M8AtA3mVj0TMcH9a6CjQd3GC.jpg",
-      "rating": 6.3,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 10191,
-      "type": "tmdb",
-      "title": "驯龙高手",
-      "originalTitle": "How to Train Your Dragon",
-      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
-      "releaseDate": "2010-03-18",
-      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
-      "rating": 7.856,
-      "mediaType": "movie",
-      "genreTitle": "奇幻, 冒险"
-    },
-    {
       "id": 559974,
       "type": "tmdb",
       "title": "拆弹专家2",
@@ -483,6 +470,32 @@
       "genreTitle": "动作, 犯罪"
     },
     {
+      "id": 10191,
+      "type": "tmdb",
+      "title": "驯龙高手",
+      "originalTitle": "How to Train Your Dragon",
+      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
+      "releaseDate": "2010-03-18",
+      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
+      "rating": 7.857,
+      "mediaType": "movie",
+      "genreTitle": "奇幻, 冒险"
+    },
+    {
+      "id": 485289,
+      "type": "tmdb",
+      "title": "重返·狼群",
+      "originalTitle": "重返·狼群",
+      "description": "美女画家李微漪在一次草原采风中意外收养了狼王遗孤，为其取名格林，并带回成都喂养。但繁华的都市无法容纳一匹野性的草原狼，李微漪带着格林重返草原，一路追寻狼群的踪迹，历经严寒酷雪，终于目送它成功地重返狼群。",
+      "releaseDate": "2017-06-16",
+      "backdropPath": "/1LtZ3PZiC57fTVKfsUbgxXAYpE5.jpg",
+      "posterPath": "/k51M8AtA3mVj0TMcH9a6CjQd3GC.jpg",
+      "rating": 6.3,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 1614368,
       "type": "tmdb",
       "title": "喜欢上“欠欠”的你",
@@ -494,6 +507,19 @@
       "rating": 1,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1650266,
+      "type": "tmdb",
+      "title": "神头岭1938",
+      "originalTitle": "神头岭1938",
+      "description": "电影围绕主角靳万福展开，以“神头岭伏击战”为蓝本，再现那段波澜壮阔的抗战历史，将对深入挖掘革命老区红色资源，激励广大人民群众从红色资源中汲取精神滋养和前进力量起到积极的推动作用。",
+      "releaseDate": "2026-03-13",
+      "backdropPath": "/pLGkR6RjyD5ezoOTTmq3aNlcVBK.jpg",
+      "posterPath": "/q7yOS4mNBQQ4eTziZaW1EdUFZIE.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 历史"
     },
     {
       "id": 1290436,
@@ -522,19 +548,6 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 1650266,
-      "type": "tmdb",
-      "title": "神头岭1938",
-      "originalTitle": "神头岭1938",
-      "description": "电影围绕主角靳万福展开，以“神头岭伏击战”为蓝本，再现那段波澜壮阔的抗战历史，将对深入挖掘革命老区红色资源，激励广大人民群众从红色资源中汲取精神滋养和前进力量起到积极的推动作用。",
-      "releaseDate": "2026-03-13",
-      "backdropPath": "/pLGkR6RjyD5ezoOTTmq3aNlcVBK.jpg",
-      "posterPath": "/q7yOS4mNBQQ4eTziZaW1EdUFZIE.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 历史"
-    },
-    {
       "id": 1313229,
       "type": "tmdb",
       "title": "尼诺",
@@ -543,7 +556,7 @@
       "releaseDate": "2025-09-17",
       "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
       "posterPath": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
-      "rating": 7.119,
+      "rating": 7.177,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -561,17 +574,17 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1001434,
+      "id": 587391,
       "type": "tmdb",
-      "title": "我这一辈子",
-      "originalTitle": "Ma vie Ma gueule",
-      "description": "",
-      "releaseDate": "2024-09-18",
-      "backdropPath": "/nAdT75EE7I6IzOSUwChnlYpT5Or.jpg",
-      "posterPath": "/iUssfYUO82DRcnFhDIQY6abhOWf.jpg",
-      "rating": 5.5,
+      "title": "花园编舟记",
+      "originalTitle": "Slocum et moi",
+      "description": "故事发生在20世纪50年代，法国静谧的马恩河畔。男孩弗朗索瓦天性浪漫、热爱幻想，他原本平淡的生活因父亲想在自家花园里建造一艘船的决定，而增添了一份别样的期待——一场属于全家的宏大冒险由此展开，他们共同投入这项近乎疯狂的工程，亲手打造一艘承载梦想、渴望驶向远方的帆船。那既是逃离现实的出口，也是通往幻想的航道，在真实与梦境之间，勾勒出一段关于成长、亲情与自由的诗意旅程。\r 　　法国动画大师让-弗朗索瓦·拉吉奥尼，根据个人童年真实经历书写，历经二十年打磨，以85岁高龄完成个人第七部动画长片，也是这位动画导演职业生涯的最后一部作品。",
+      "releaseDate": "2025-01-29",
+      "backdropPath": "/nWczpYTDQMcC49E26BpQS59OqHU.jpg",
+      "posterPath": "/3h8YAfIpA5BOqpVGJVFgGy6s0Xp.jpg",
+      "rating": 6.3,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "动画, 剧情"
     },
     {
       "id": 1020829,
@@ -587,19 +600,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 587391,
-      "type": "tmdb",
-      "title": "花园编舟记",
-      "originalTitle": "Slocum et moi",
-      "description": "故事发生在20世纪50年代，法国静谧的马恩河畔。男孩弗朗索瓦天性浪漫、热爱幻想，他原本平淡的生活因父亲想在自家花园里建造一艘船的决定，而增添了一份别样的期待——一场属于全家的宏大冒险由此展开，他们共同投入这项近乎疯狂的工程，亲手打造一艘承载梦想、渴望驶向远方的帆船。那既是逃离现实的出口，也是通往幻想的航道，在真实与梦境之间，勾勒出一段关于成长、亲情与自由的诗意旅程。\r 　　法国动画大师让-弗朗索瓦·拉吉奥尼，根据个人童年真实经历书写，历经二十年打磨，以85岁高龄完成个人第七部动画长片，也是这位动画导演职业生涯的最后一部作品。",
-      "releaseDate": "2025-01-29",
-      "backdropPath": "/nWczpYTDQMcC49E26BpQS59OqHU.jpg",
-      "posterPath": "/3h8YAfIpA5BOqpVGJVFgGy6s0Xp.jpg",
-      "rating": 6.3,
-      "mediaType": "movie",
-      "genreTitle": "动画, 剧情"
-    },
-    {
       "id": 1313144,
       "type": "tmdb",
       "title": "钢琴事故",
@@ -613,6 +613,19 @@
       "genreTitle": "喜剧"
     },
     {
+      "id": 1001434,
+      "type": "tmdb",
+      "title": "我这一辈子",
+      "originalTitle": "Ma vie Ma gueule",
+      "description": "",
+      "releaseDate": "2024-09-18",
+      "backdropPath": "/nAdT75EE7I6IzOSUwChnlYpT5Or.jpg",
+      "posterPath": "/iUssfYUO82DRcnFhDIQY6abhOWf.jpg",
+      "rating": 5.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
       "id": 10400,
       "type": "tmdb",
       "title": "飓风",
@@ -621,7 +634,7 @@
       "releaseDate": "1999-09-17",
       "backdropPath": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
       "posterPath": "/iH7zKvZRD9GjLgUIZSOnFCPyFAl.jpg",
-      "rating": 7.434,
+      "rating": 7.437,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
