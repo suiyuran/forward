@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-08T20:29:52.842Z",
+  "time": "2026-04-09T20:38:02.075Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.193,
+        "rating": 8.208,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.607,
+        "rating": 7.599,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-02-11",
         "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
         "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-        "rating": 7.9,
+        "rating": 7.862,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -139,10 +139,10 @@
         "type": "tmdb",
         "title": "正义女神",
         "originalTitle": "正義女神",
-        "description": "一宗六岁男童堕楼身亡案，十四岁少年高成彬（刘倬昕饰）被控谋杀。成彬辩称当时是想救人而非推人，陪审团最终裁定这是一宗不幸意外，成彬无罪释放。高等法院法官言惠知（佘诗曼饰）翻阅成彬的过往记录时发现，他此前已多次因轻微罪行被带到少年法庭，皆因未满十三岁而获撤销控罪，没有留下案底。\n\n　　看着这份“清白”的记录，言惠知陷入深思——如果早有人在他第一次犯错时及时纠正，是否就能阻止今日的悲剧？她做了一个出人意表的决定：主动申请降职，担任少年法庭的裁判官。正值事业高峰的言惠知，此举不仅令法律界哗然，更导致她与在律政司工作的丈夫邱光正（谭耀文饰）婚姻破裂。她坚信，只有从源头拯救这些脱轨少年，助他们培养正确的价值观，才能阻止下一个“恶魔少年”的出现。\n\n　　在少年法庭，言惠知的审判作风令主任裁判官洪思义（许绍雄饰）亦敬畏三分，更与以“最年轻高院法官”为目标的裁判官郑邵文（周嘉洛饰）形成微妙角力。面对一连串严重的少年案件——校园欺凌、家庭暴力、青少年犯罪——言惠知择善固执，坚持正义，不容有罪者脱身，也不让无辜者受屈，誓要救赎每一位迷途少年的人生。",
+        "description": "高等法院法官言惠知正值事业高峰，但一宗案件令她人生逆转！为阻止社会出现更多“恶魔少年”，言惠知不惜放弃前途，主动降职担任少年法庭的法官，面对一宗又一宗严重的少年案件，她择善固执、坚持正义，也要救赎这些脱轨少年的人生。",
         "releaseDate": "2026-03-16",
-        "backdropPath": "/gSXWB1rETFIuL4NZ4GhO4fDGD61.jpg",
-        "posterPath": "/8hhNIWHBJkXgLxmjvTKmkyvHjdC.jpg",
+        "backdropPath": "/wrbCLyF2njQtjGw5Js3JAOV69J5.jpg",
+        "posterPath": "/ueuFQumoj6YDePVSCqErrDxsC9Y.jpg",
         "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -165,7 +165,7 @@
         "type": "tmdb",
         "title": "非常检控观",
         "originalTitle": "非常檢控觀",
-        "description": "律政司高级助理刑事检控专员包希仁患有罕见的「镜反射触觉症」，具有极致同理心。他以还原案件100%真相为目标，致力让被告认罪，减少受害者面对冗长聆讯的痛苦。希仁与律政书记公孙珀、志同道合的高级督察展熊飞、曾是受害者的秦湘言、实习检控官赵子帧等人通力合作，伸张正义。众人遇到不少阻力，希仁甚至要与身为财团长女的母亲为敌、跟身为大律师的旧情人王颂星对垒……然而，希仁坚守信念，誓要还受害人一个真相和公道！",
+        "description": "检控官包希仁因患有镜反射触觉症而拥有极致同理心， 这驱使他为民作主、伸张正义，因而成为大公无私、不畏强权的新时代父母官。他和警察展熊飞贯彻现代司法的警检协作 制度，携手为受害者伸冤，上庭前就做到铁证如山，令被告俯首认罪，成就88%认罪率和99%定罪率的灭罪传奇！",
         "releaseDate": "2026-01-19",
         "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
         "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
@@ -221,7 +221,7 @@
         "releaseDate": "2026-02-06",
         "backdropPath": "/myJLWz2Rk0e8YHSSw3caCrOEETT.jpg",
         "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-        "rating": 8.4,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 6.8,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-03-24",
         "backdropPath": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
         "posterPath": "/cHfQQKZqJs4fwLrbn5RgfGsIoWt.jpg",
-        "rating": 7,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
       },
@@ -336,7 +336,7 @@
         "type": "tmdb",
         "title": "马洛谋杀俱乐部",
         "originalTitle": "The Marlow Murder Club",
-        "description": "退休考古学家朱迪思·波茨（Judith Potts）独自住在宁静的马洛镇一栋褪色的豪宅里，通过为当地报纸做填字游戏来打发时间。 朱迪丝定期在泰晤士河野外游泳，她听到邻居花园里传来枪声，她相信发生了一起残酷的谋杀案。",
+        "description": "作为新上任的侦探塔尼卡·马利克所领导的破案小组中的重要成员，退休考古学家朱迪斯·波茨、遛狗员苏西·哈里斯以及牧师夫人贝克斯·斯塔林再次联手出击，运用他们独特的办案方式来侦破一系列引人注目的谋杀案。从马洛镇上最受民众爱戴的市长突然死亡，到一位知名厨师在其新书发布会现场被杀——当时有半数镇民都在场——这支队伍必须在马洛镇居民的密切监督下开展工作。此外，他们还必须应对一起发生在大学同学会上的离奇案件：在一家阴森的古宅里，贝克斯竟然发现自己成了嫌疑人之一。这场案件会不会威胁到这些业余侦探们作为民间顾问的角色呢？",
         "releaseDate": "2026-03-18",
         "backdropPath": "/5LMGwo1ZBMqaMHYuYLrq2m3ipqy.jpg",
         "posterPath": "/wBfAXQBScnPypY7nJN6PCWjEp0g.jpg",
@@ -353,7 +353,7 @@
         "releaseDate": "2026-02-20",
         "backdropPath": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
         "posterPath": "/9QhrWKqeJa5w23nDbBnQ9RFhGWF.jpg",
-        "rating": 8.227,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
