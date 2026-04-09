@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-08T16:57:22.900Z",
+  "time": "2026-04-09T17:03:27.621Z",
   "data": {
     "星期日": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/nTDL4UmMLDBCeMtYh8F1LZtgmLV.jpg",
         "posterPath": "/ukjJ1nFjdmZwJMlEteWPShB5XH1.jpg",
-        "rating": 9.091,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.724,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/hhi4eb4Rx8gwUcTXbFneFyKK7VG.jpg",
         "posterPath": "/q2YnIH8V09ugX8i9TajYFew5Qsg.jpg",
-        "rating": 8,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -180,9 +180,9 @@
         "originalTitle": "とんがり帽子のアトリエ",
         "description": "生活在一个偏远村庄的少女可可一直渴望成为一名魔法师，但是这个世界只有出生就是魔法师的人才能成为魔法师。在一次偶然事故中，可可不小心看到了魔法师奇夫利施展魔法的过程，发现了魔法的真相。于是可可便临摹起了自己还是孩童时一位自称魔法师的神秘男子卖给她的一本绘本，不料却用出了强大而危险的禁忌魔法，将自己的母亲与房子都变成了石头。发现了自己不小心将魔法真相泄露而返回寻找可可的奇夫利看到禁忌魔法所造成的惨状，决心将她收为自己的徒弟，解开「绘本」之谜，帮助她将自己的母亲恢复原状。",
         "releaseDate": "2026-04-06",
-        "backdropPath": "/A3LWweARdmmkyy6dTkn9BuXvwCM.jpg",
+        "backdropPath": "/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
         "posterPath": "/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-        "rating": 8.2,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -208,7 +208,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/8EaA5ffwNJv4uBwmfUWT06WY5ee.jpg",
         "posterPath": "/uBHcmbmC3TccLO6hdrttOpjy4bN.jpg",
-        "rating": 0,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -220,8 +220,8 @@
         "description": "在克隆人战争之后，摩尔计划在一个未受帝国染指的星球上重建他的犯罪集团。",
         "releaseDate": "2026-04-06",
         "backdropPath": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
-        "posterPath": "/gX3hqZWIFREhvIPAICySe7p9c9t.jpg",
-        "rating": 7.1,
+        "posterPath": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
+        "rating": 7.05,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -282,13 +282,13 @@
       {
         "id": 290019,
         "type": "tmdb",
-        "title": "和班上第二可爱的女孩成为朋友",
+        "title": "和班上第二可爱的女孩子成为了朋友",
         "originalTitle": "クラスで２番目に可愛い女の子と友だちになった",
         "description": "连个熟人都没有的我·前原真树，交到的第一个朋友是朝凪海。\n\n　　被男生们说成是“班上第二可爱的”，对天真烂漫的No.1美少女天海照顾有加的朝凪——\n\n　　只在星期五放学后偷偷来我家玩。\n\n　　和电影、游戏、漫画趣味相投的她一起度过了快乐的时光。\n\n　　天真无邪、爱撒娇的素颜，从平时稳重可靠的人的样子来看是无法想象的。\n\n　　“快坐到我旁边，我们一起看漫画。” “这是我的床……” “现在是我的床，你过来吗?”\n\n　　距离不近吗，朝凪小姐?\n\n　　阴暗男子和第二女主角，真人大小的“朋友”爱情喜剧!",
         "releaseDate": "2026-04-07",
         "backdropPath": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
         "posterPath": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/lmJKqQMBrRYDwm5zCoubnQHl8rH.jpg",
         "posterPath": "/vSMNi73O92Ga4jZKb9cDkhwhxuW.jpg",
-        "rating": 8,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/ekBMDoocqr5u0dBZRK9VFakyVBx.jpg",
         "posterPath": "/61DBRoCkWnh0uOTSCPoXHu2LOj5.jpg",
-        "rating": 0,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       }
@@ -394,7 +394,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.724,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -479,13 +479,13 @@
       {
         "id": 309163,
         "type": "tmdb",
-        "title": "没有辣妹会对阿宅温柔!?",
+        "title": "哪里有温柔对待阿宅的辣妹！？",
         "originalTitle": "オタクに優しいギャルはいない!?",
         "description": "濑尾卓也是名喜欢没法大声说出自己喜欢的“女童向动画”的御宅族。一天，班上的辣妹天音同学和伊地知同学突然缠了过来，总感觉天音同学也有着阿宅的气息……？阿宅遇上辣妹的“喜欢”相交织的校园种姓恋爱喜剧！！",
         "releaseDate": "2026-04-08",
         "backdropPath": "/99lQDI1BvQSuCsZnBs319aF5vy8.jpg",
         "posterPath": "/bUZFEgXZFe26OhGqrsjGNrTxbmf.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -563,7 +563,7 @@
         "originalTitle": "クジマ歌えば家ほろろ",
         "description": "初一的秋天，鸿田新与奇怪的东西相遇了——\n\n　　因为要顾虑即将面临考试的复读生长子，而有些蔓延着紧张空气的鸿田家，因神秘生物“库兹马”而注入新鲜空气的家庭喜剧！！\n\n　　不过这个自称库兹马的生物，能够很正常地说话，吃饭也和人吃的一样（吃虫也可以）。他究竟是从宇宙中来的，还是说………………………？！",
         "releaseDate": "2026-04-09",
-        "backdropPath": null,
+        "backdropPath": "/9NcWNSN3Sj4RLf4ZiwBsoe0MMOI.jpg",
         "posterPath": "/zbqd1zQRlVtDG80K0lf1S2Ru9j.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -611,7 +611,7 @@
       {
         "id": 273467,
         "type": "tmdb",
-        "title": "姬骑士是蛮族的新娘",
+        "title": "女骑士成为蛮族新娘",
         "originalTitle": "姫騎士は蛮族の嫁",
         "description": "等待着在战斗中落败的最强女骑士的，居然是“和敌国的蛮族王结婚”？！原本互为敌人的两人所编织出的真格异世界婚姻故事，开幕！！\n\n　　“咕、杀了我！”塞拉菲娜·德·拉维兰特，是西方最强的女骑士。她在征讨东方的战争中落败，被蛮族给俘虏了！在敌国的寒冷牢狱中，等待着身为战败者的塞拉菲娜是，复仇、拷问，以及凌辱的日子——本这么想，向她提出的，居然是“和蛮族王结婚”——？！原本互为敌人的两人所编织出的真格异世界婚姻故事，开幕！！",
         "releaseDate": "2026-04-09",
@@ -656,7 +656,7 @@
         "releaseDate": "2026-04-03",
         "backdropPath": "/4QRcFqAJq0Jpi5jfQ2ExxVJtWCv.jpg",
         "posterPath": "/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -749,7 +749,7 @@
         "releaseDate": "2023-01-07",
         "backdropPath": "/hZJglA9AC48swSFgzJCHG11B9zV.jpg",
         "posterPath": "/vNslQo6TikLZLXnHDda3PHJ3CG8.jpg",
-        "rating": 7.731,
+        "rating": 7.729,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -799,7 +799,7 @@
         "originalTitle": "スノウボールアース",
         "description": "自宇宙飞来了，未知的生命体——！！\n\n　　将人类从危机中救出的重担，就压到了一位少年流镝马铁男和一台机器人的身上……！！\n\n　　然后地球变成了，一个令人惊愕的世界……？！",
         "releaseDate": "2026-04-03",
-        "backdropPath": "/1QdLK6V9mNBsplrJrztjAJf6QKs.jpg",
+        "backdropPath": "/5Jhaxj3sBDGB5oLj9snBz2bdqBG.jpg",
         "posterPath": "/yQanJjEY9YeklI3O2vfMe6iKyXI.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -855,7 +855,7 @@
         "releaseDate": "2019-10-03",
         "backdropPath": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
         "posterPath": "/eFM6xBaWZa6eiEGEaM7MFX5dAkN.jpg",
-        "rating": 8.1,
+        "rating": 8.077,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -983,7 +983,7 @@
         "originalTitle": "キルアオ",
         "description": "离异有娃的大狼十三，是在幼时被组织收养的传说杀手。在某事件中被神秘生物兵器所蛰中，变成了初中生模样的十三，去读了初中……\n\n　　内心是大叔的中学生的，学园杀手重生喜剧，开始！",
         "releaseDate": "2026-04-11",
-        "backdropPath": "/wvqUN75YWAqFMq6pNzrwaPK76Nq.jpg",
+        "backdropPath": "/2eLo22F76vSWqCkRNTeah2nApiO.jpg",
         "posterPath": "/i1RaaFQUSGfx48CavoBRqeloLYb.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -1009,7 +1009,7 @@
         "originalTitle": "NEEDY GIRL OVERDOSE",
         "description": "描写了一位想要成为最强的主播同时迫切想要得到他人认可的女孩，与辅佐她的“阿P”共同生活的故事。令全世界着迷的“互联网天使”的动画即将拉开帷幕。",
         "releaseDate": "2026-04-05",
-        "backdropPath": "/cT46lkGnsqvvjzpBHV0ept28gU.jpg",
+        "backdropPath": "/dot1NI6F5IrLck8xWIOn74ieaDH.jpg",
         "posterPath": "/gsNEVTYrUgRlBDhynYtQy9u7YYR.jpg",
         "rating": 7.5,
         "mediaType": "tv",
