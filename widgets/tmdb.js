@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "TMDB",
   description: "获取 TMDB 的榜单数据",
   requiredVersion: "0.0.1",
-  version: "1.0.2",
+  version: "1.0.3",
   author: "suiyuran",
   site: "https://github.com/suiyuran/forward",
   modules: [
@@ -482,15 +482,18 @@ async function topRated(params) {
 }
 
 async function categories(params) {
-  const { originCountry, language, page } = params;
-  let { genreId, type } = params;
+  const { language, page } = params;
+  let { genreId, type, originCountry } = params;
 
   const onlyMovieGenreIds = ["28", "53"]; // 动作，惊悚
   const onlyTVGenreIds = ["10762", "10764", "10766"]; // 儿童，真人秀，肥皂剧
 
   // 科幻
-  if (genreId == "878" && type == "tv") {
+  if (genreId === "878" && type === "tv") {
     genreId = "10765"; // Sci-Fi & Fantasy
+  }
+  if (genreId !== "10764") {
+    originCountry = "";
   }
   if (onlyMovieGenreIds.includes(genreId)) {
     type = "movie";
