@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-09T20:38:02.075Z",
+  "time": "2026-04-10T20:22:46.370Z",
   "data": {
     "电影": [
       {
@@ -11,9 +11,22 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.208,
+        "rating": 8.194,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
+      },
+      {
+        "id": 1546855,
+        "type": "tmdb",
+        "title": "我，许可",
+        "originalTitle": "我，许可",
+        "description": "00后“母单”女孩儿许可（文淇 饰）面临一场迫在眉睫的妇科手术，却因妈妈胡春蓉（秦海璐 饰）的突袭式造访打乱了所有计划。母女同居，冲突乍起。在新旧观念的摩擦中，没想到女儿对妈妈展开了一次又一次反向教育——跟妈谈心，不如带妈蹦迪；给妈上生理课，不如直接送妈小玩具……最终许可能否顺利手术，胡春蓉又能否鼓起勇气开始新生活？这场笑点和泪点齐飞的大戏，又将如何重塑两人之间的母女关系……",
+        "releaseDate": "2026-03-21",
+        "backdropPath": "/sc2Q8HwhUOb49IfbkHHvi8dB7yy.jpg",
+        "posterPath": "/Z4PcigZfdhrU2via1XrdSrEq4G.jpg",
+        "rating": 6.6,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 1464883,
@@ -24,7 +37,20 @@
         "releaseDate": "2025-12-26",
         "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
         "posterPath": "/fpx5DNWYiXHLLWdV9uGxMnepVvb.jpg",
-        "rating": 7.5,
+        "rating": 7.509,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1462735,
+        "type": "tmdb",
+        "title": "旅途中的日子",
+        "originalTitle": "旅と日々",
+        "description": "改编自柘植义春的漫画《海边的抒景》《混沌洞的笨先生》，讲述郁郁不得志的李编剧因缘际会来到一个大雪纷飞的深山中，误打误撞进入了一家破旧的旅馆。屋顶几乎被积雪压塌，旅馆的老板笨造看起来毫无干劲，旅馆里没有暖气，饭菜也马马虎虎，连床铺都得自己铺。然而，笨造似乎藏着什么秘密。某天晚上，笨造带着李踏入了夜晚雪原……",
+        "releaseDate": "2025-11-07",
+        "backdropPath": "/aJM7KIdC5mNPjqKp8NdwvzyHceS.jpg",
+        "posterPath": "/dmFgiPKuwF8gmtAz84LIJmFr03m.jpg",
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -37,9 +63,22 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.599,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
+      },
+      {
+        "id": 1464533,
+        "type": "tmdb",
+        "title": "爆弹",
+        "originalTitle": "爆弾",
+        "description": "一个神秘中年男子醉酒后袭击了一台自动售货机和便利店店员，被警方拘留。他声称自己拥有超能力，并预测东京将有炸弹。从秋叶原爆炸事件算起，他预测接下来还会有三次爆炸，间隔一小时。随后，他一边回避着警察的询问，一边问一些有关炸弹的神秘“问题”。",
+        "releaseDate": "2025-10-31",
+        "backdropPath": "/qcqIsy9TUlyibicNgycMookPE04.jpg",
+        "posterPath": "/auMmOTF2zGDtZs9dQtoPQVxygV3.jpg",
+        "rating": 8.818,
+        "mediaType": "movie",
+        "genreTitle": "惊悚, 悬疑"
       },
       {
         "id": 1363090,
@@ -63,74 +102,35 @@
         "releaseDate": "2025-11-19",
         "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
         "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-        "rating": 7.1,
+        "rating": 7.045,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
       {
-        "id": 1462735,
+        "id": 1226863,
         "type": "tmdb",
-        "title": "旅途中的日子",
-        "originalTitle": "旅と日々",
-        "description": "改编自柘植义春的漫画《海边的抒景》《混沌洞的笨先生》，讲述郁郁不得志的李编剧因缘际会来到一个大雪纷飞的深山中，误打误撞进入了一家破旧的旅馆。屋顶几乎被积雪压塌，旅馆的老板笨造看起来毫无干劲，旅馆里没有暖气，饭菜也马马虎虎，连床铺都得自己铺。然而，笨造似乎藏着什么秘密。某天晚上，笨造带着李踏入了夜晚雪原……",
-        "releaseDate": "2025-11-07",
-        "backdropPath": "/aJM7KIdC5mNPjqKp8NdwvzyHceS.jpg",
-        "posterPath": "/dmFgiPKuwF8gmtAz84LIJmFr03m.jpg",
-        "rating": 7.7,
+        "title": "超级马力欧银河大电影",
+        "originalTitle": "The Super Mario Galaxy Movie",
+        "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+        "releaseDate": "2026-04-01",
+        "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+        "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
+        "rating": 6.943,
         "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "家庭, 喜剧"
       },
       {
-        "id": 1000850,
+        "id": 1383289,
         "type": "tmdb",
-        "title": "风来之所",
-        "originalTitle": "وين ياخذنا الريح",
-        "description": "自父亲去世以来，19岁的阿丽莎成了她患有抑郁症的母亲和年幼妹妹的照顾者。她只想逃离自己的责任以及身边的痛苦。她最好的朋友梅赫迪（23岁）性格内向，患有白癜风。尽管他有文凭，却仍然失业，这让他觉得自己对不起家人。两人都用幽默和想象力来逃避艰苦的生活。梅赫迪讲述并绘制超现实主义的故事，而阿丽莎则尽可能地重新塑造自己的现实。当他们得知全国范围内举办的一场绘画比赛可能会改变他们的生活时，他们偷了一辆车，开始了一场疯狂的公路旅行。他们的友谊经受了考验，他们发现了突尼斯最好的一面和最坏的一面。他们的希望破灭了，但他们的旅程改变了他们。三个月后，梅赫迪非法移民离开了，因为阿丽莎无法抛下她的家人。",
-        "releaseDate": "2025-09-04",
-        "backdropPath": "/sWzG6GFWLO01fxzRHxoDwErEQW7.jpg",
-        "posterPath": "/ppViwGpufHCkpFHm8R3tkcGuqOZ.jpg",
-        "rating": 7.375,
+        "title": "风中的洛朗",
+        "originalTitle": "Laurent dans le vent",
+        "description": "9岁的洛朗正在寻找人生的意义。他最终来到一个淡季的废弃滑雪场，很快融入了当地少数居民的奇特生活。当冬季来临游客涌入时，洛朗却发现自已已无法抽身……",
+        "releaseDate": "2025-12-31",
+        "backdropPath": "/frYCn9ZOzloE0t41Etb1X5gcTai.jpg",
+        "posterPath": "/49I0knW1Bromoi2hcwawKvyGye6.jpg",
+        "rating": 6.6,
         "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 1566589,
-        "type": "tmdb",
-        "title": "蜂蜜的针",
-        "originalTitle": "蜂蜜的针",
-        "description": "性格孤僻的农科院研究员支宁（袁泉 饰），在爱情里四处碰壁。在一次文学讲座上，她对作家寇逸（耿乐 饰）一见钟情，从此陷入偏执爱情的她开始悄悄跟在寇逸身后……在偶然的契机下，支宁应寇逸之邀加入一场旅行。本以为是靠近心意的“爱情”之旅，却没料到途中变故接踵而至，逐渐成为了一场亡命之行。蹊跷的命案接连发生，所有人和事都在朝着完全失控的方向狂奔……  　　以爱之名的潘多拉魔盒已然开启，当爱意被执念裹挟，人究竟会为了守住所谓的“爱”，突破多少不可逾越的边界？",
-        "releaseDate": "2026-03-21",
-        "backdropPath": "/ewXAjwiHEklrVY2gvaFB6HuBWvB.jpg",
-        "posterPath": "/oGKsrIWhoceXLcVlnZlOUTkuev1.jpg",
-        "rating": 6,
-        "mediaType": "movie",
-        "genreTitle": "爱情, 犯罪"
-      },
-      {
-        "id": 1297842,
-        "type": "tmdb",
-        "title": "奇迹梦之队",
-        "originalTitle": "GOAT",
-        "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-        "releaseDate": "2026-02-11",
-        "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-        "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-        "rating": 7.862,
-        "mediaType": "movie",
-        "genreTitle": "动画, 喜剧"
-      },
-      {
-        "id": 1258509,
-        "type": "tmdb",
-        "title": "留存的爱",
-        "originalTitle": "Ástin sem eftir er",
-        "description": "一个年轻家庭在冰岛乡村的一年生活。我们跟随他们经历分离过程中的挣扎与胜利。这是一个关于记忆与遗留爱意的故事。",
-        "releaseDate": "2025-08-14",
-        "backdropPath": "/7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
-        "posterPath": "/gveoShAALiQfdINESmjmsPGb0IC.jpg",
-        "rating": 6.4,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
+        "genreTitle": "喜剧, 剧情"
       }
     ],
     "剧集·国内": [
@@ -247,7 +247,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
         "posterPath": "/ldZDkCN294O1twViCCfPZOAGnsY.jpg",
-        "rating": 8,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -256,7 +256,7 @@
         "type": "tmdb",
         "title": "卧底娇娃",
         "originalTitle": "臥底嬌娃",
-        "description": "新兴毒品「粉精灵」流窜市面，卧底潘奕风（马贯东 饰）潜伏多年，终令真正制毒师一权世豪（杜燕歌 饰）被拘捕。但世豪金蝉脱壳获得轻判！奕风为提防世豪出狱后会让「粉精灵」再度肆虐，请求上司批准他组织卧底小组，调查向世豪提供原材料的上线，图能将整条黑暗制毒炼连根拔起。\n\n　　奕风找来三名各擅胜场的卧底娇娃一「女版福尔摩斯」沈佳琪（张曦雯 饰）、「细心敏锐武术通」江妙姿（陈滢 饰）、「百娈行走数据库」童小茹（罗毓仪 饰），以美貌设陷阱、以感性作利刃、以智慧当盔甲，接近目标人物一表面上是慈善商家刘彪（关礼杰 饰）和卡邦妮（邵美琪 饰）夫妇，及其背后的四联商会。四联商会势力庞大，滴水不漏，唯一突破点便是刘氏夫妇的女儿刘宝仪（钟柔美 饰）。\n\n　　奕风此次任务虽然获得直属上司禤步青（黄子雄 饰）鼎力支持，却被邻组警司郭宗南（黄子恒 饰）怀疑他在任卧底期间，早已变节。奕风挺著腹背受敌的压力，却讳莫如深的推动著三名女卧底进行各种危机重重的行动，原来奕风怀著一个自私的目的，想借这次任务，想为受涉而丧命的女友讨回公道。",
+        "description": "剧情围绕卧底警察潘奕风组建三人女团展开，成员包括行为心理学家沈佳琪、武术专家江妙姿和数据分析师童小茹，通过渗透四联商会调查新型毒品“粉精灵”产业链。",
         "releaseDate": "2026-02-23",
         "backdropPath": "/7TKBpKx76eBknk0zYmtKV07Pznu.jpg",
         "posterPath": "/1ETDQaUP7DgIxZx4SHW3blrh1Kj.jpg",
@@ -274,7 +274,7 @@
         "description": "新一季将延续第二季的故事，自瑞秋.凯里在全国直播中揭露一段伪造的政府部长视频、暴露情报机构秘密操作项目“修正”以来，已过去一年。在对“修正”计划非法使用的调查期间，凯里成为SO15反恐指挥部的代理负责人，试图通过全新的“真相行动”摄像系统重建公众对监控技术的信任。然而，一场精心策划、极其残忍的恐怖袭击突然爆发，直击英国权力核心，仅留下一位目击者。随着凯里深入调查，她被卷入一场不断扩大的地缘政治危机之中，这场危机渗透至英国政坛、安全机构乃至媒体界。一场巨大的阴谋正悄然展开，但幕后黑手究竟是谁？",
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
-        "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
+        "posterPath": "/cZDGxykklHc7kXybZZiTdPM2xDW.jpg",
         "rating": 5.2,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 7.3,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-03-24",
         "backdropPath": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
         "posterPath": "/cHfQQKZqJs4fwLrbn5RgfGsIoWt.jpg",
-        "rating": 7.5,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-03-14",
         "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
         "posterPath": "/lRpnGxVYlhWoemkkP4OYgqGrew0.jpg",
-        "rating": 8.298,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
