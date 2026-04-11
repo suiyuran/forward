@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-10T16:45:54.820Z",
+  "time": "2026-04-11T16:32:49.849Z",
   "data": {
     "星期日": [
       {
@@ -102,7 +102,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.724,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -182,7 +182,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
         "posterPath": "/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-        "rating": 8.6,
+        "rating": 8.455,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -221,7 +221,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
         "posterPath": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
-        "rating": 7.1,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2023-07-07",
         "backdropPath": "/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
         "posterPath": "/fLjtutjdnS5jS5ZZ7Oyxf6X011K.jpg",
-        "rating": 8.096,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -394,7 +394,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.724,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -552,7 +552,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/4u7uvGbu1RCZDX8IIFMljG8U9Zb.jpg",
         "posterPath": "/WAbrf6kONFAdXtG5N1s7no4zEw.jpg",
-        "rating": 10,
+        "rating": 9.5,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -730,7 +730,7 @@
       {
         "id": 295357,
         "type": "tmdb",
-        "title": "北斗神拳 -FIST OF THE NORTH STAR-",
+        "title": "北斗神拳",
         "originalTitle": "北斗の拳 -FIST OF THE NORTH STAR-",
         "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
         "releaseDate": "2026-04-11",
@@ -749,7 +749,7 @@
         "releaseDate": "2023-01-07",
         "backdropPath": "/hZJglA9AC48swSFgzJCHG11B9zV.jpg",
         "posterPath": "/vNslQo6TikLZLXnHDda3PHJ3CG8.jpg",
-        "rating": 7.729,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -762,7 +762,7 @@
         "releaseDate": "2018-10-02",
         "backdropPath": "/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
         "posterPath": "/t0dG685BBauz3X687FEjlt8FnMK.jpg",
-        "rating": 8.393,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -786,8 +786,8 @@
         "originalTitle": "上伊那ぼたん、酔へる姿は百合の花",
         "description": "新晋大学生上伊那牡丹，在参观秩父特产市场时，目睹了学姐砺波伊吹独自坐在长椅上喝酒的模样，不由得发出了“看起来好好喝”的感想。\n\n　　从牡丹向伊吹讨酒喝开始，两人不但一起喝酒，还结伴购物、吃饭、旅行，相互间的距离逐渐拉近。",
         "releaseDate": "2026-04-11",
-        "backdropPath": "/hvXDHNfvDTMwQcXFkRJ3NDnlSgr.jpg",
-        "posterPath": "/6qIzYYAMgFdlcHYy4IfJG3VuVlq.jpg",
+        "backdropPath": "/krbKWrBEOjPdUmp1CGRgRVnLsrs.jpg",
+        "posterPath": "/dUgMFhSKHQpmmWyoVsZ4qLvNVZ0.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -855,7 +855,7 @@
         "releaseDate": "2019-10-03",
         "backdropPath": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
         "posterPath": "/eFM6xBaWZa6eiEGEaM7MFX5dAkN.jpg",
-        "rating": 8.077,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -870,7 +870,7 @@
         "posterPath": "/9yethYrSRGDGqAMJPwFAMXyehNn.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "动画"
+        "genreTitle": "动画, 儿童"
       },
       {
         "id": 91801,
@@ -893,7 +893,7 @@
         "description": "新学期。成为升上高二的男高中生阿比仓同学他们班主任的是，传言一旦心情不佳就会诅咒人的俗称“咒恨老师”的，鶸村日和老师！在一天放学后，目击了，这样的“咒恨老师”背后一面的，阿比仓同学他……。意想不到的反差让人扭成蛆！挑起你的保护欲的，弱弱恋爱喜剧开幕！！",
         "releaseDate": "2026-04-11",
         "backdropPath": "/dKA8y1HxEq09M11p896hBkZsku1.jpg",
-        "posterPath": "/tCiicc9WYg51bgR1kSpwgUq2hiE.jpg",
+        "posterPath": "/beGS8grRPmcvW1m1QRBA86XsqTo.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -946,7 +946,7 @@
         "releaseDate": "2026-01-09",
         "backdropPath": "/uLC9tdRSPcKsgvRLth38WEbm8pa.jpg",
         "posterPath": "/lWNtQ6Ju61H1JYca0xdxIztegDV.jpg",
-        "rating": 7,
+        "rating": 6.929,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -983,8 +983,8 @@
         "originalTitle": "キルアオ",
         "description": "离异有娃的大狼十三，是在幼时被组织收养的传说杀手。在某事件中被神秘生物兵器所蛰中，变成了初中生模样的十三，去读了初中……\n\n　　内心是大叔的中学生的，学园杀手重生喜剧，开始！",
         "releaseDate": "2026-04-11",
-        "backdropPath": "/2eLo22F76vSWqCkRNTeah2nApiO.jpg",
-        "posterPath": "/i1RaaFQUSGfx48CavoBRqeloLYb.jpg",
+        "backdropPath": "/veVpU91VITkLsua9EnRqtgNbyVU.jpg",
+        "posterPath": "/1hzamo8nOZmurGQQ7P2uqpsGHek.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
