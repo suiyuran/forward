@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-10T20:22:46.370Z",
+  "time": "2026-04-11T20:18:01.724Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.194,
+        "rating": 8.203,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.6,
+        "rating": 7.567,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-11-19",
         "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
         "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-        "rating": 7.045,
+        "rating": 7.03,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-04-01",
         "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
         "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-        "rating": 6.943,
+        "rating": 6.9,
         "mediaType": "movie",
         "genreTitle": "家庭, 喜剧"
       },
@@ -215,9 +215,9 @@
       {
         "id": 280632,
         "type": "tmdb",
-        "title": "成何体统",
+        "title": "成何體統",
         "originalTitle": "成何体统",
-        "description": "讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
+        "description": "《成何體統》是由愛奇藝出品，由王楚然（《我的人間煙火》《柳舟記》）、丞磊（《雲之羽》《與晉長安》《錦月如歌》）領銜主演，改編自七英俊同名小說的古裝穿越權謀輕喜劇。 職場菜鳥王翠花意外進入一本穿書文的劇情之中，與同是穿越者的張三相遇。 一個是職場菜鳥奮力反抗命運，一個是蟄伏十年深藏功與名的霸道君王。 兩個手拿劇本的人一起為了活下去，開始了一系列的籌謀。",
         "releaseDate": "2026-02-06",
         "backdropPath": "/myJLWz2Rk0e8YHSSw3caCrOEETT.jpg",
         "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
@@ -274,7 +274,7 @@
         "description": "新一季将延续第二季的故事，自瑞秋.凯里在全国直播中揭露一段伪造的政府部长视频、暴露情报机构秘密操作项目“修正”以来，已过去一年。在对“修正”计划非法使用的调查期间，凯里成为SO15反恐指挥部的代理负责人，试图通过全新的“真相行动”摄像系统重建公众对监控技术的信任。然而，一场精心策划、极其残忍的恐怖袭击突然爆发，直击英国权力核心，仅留下一位目击者。随着凯里深入调查，她被卷入一场不断扩大的地缘政治危机之中，这场危机渗透至英国政坛、安全机构乃至媒体界。一场巨大的阴谋正悄然展开，但幕后黑手究竟是谁？",
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
-        "posterPath": "/cZDGxykklHc7kXybZZiTdPM2xDW.jpg",
+        "posterPath": "/DjxYUhhDTP6v2fngW6YR5Ro4J2.jpg",
         "rating": 5.2,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
@@ -288,7 +288,7 @@
         "releaseDate": "2026-01-08",
         "backdropPath": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
         "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 7.5,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-03-24",
         "backdropPath": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
         "posterPath": "/cHfQQKZqJs4fwLrbn5RgfGsIoWt.jpg",
-        "rating": 7.6,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-03-14",
         "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
         "posterPath": "/lRpnGxVYlhWoemkkP4OYgqGrew0.jpg",
-        "rating": 8.3,
+        "rating": 8.245,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
