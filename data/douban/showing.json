@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-11T17:34:49.539Z",
+  "time": "2026-04-12T17:38:21.249Z",
   "data": [
     {
       "id": 1546855,
@@ -23,7 +23,7 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.198,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -41,17 +41,17 @@
       "genreTitle": "家庭, 喜剧"
     },
     {
-      "id": 1249589,
+      "id": 1226863,
       "type": "tmdb",
-      "title": "天才游戏",
-      "originalTitle": "天才游戏",
-      "description": "身份迥异的天才少年刘全龙（彭昱畅饰）与富家少年陈伦（丁禹兮饰），因缘际会下开始了一场人生交换。两个少年的人生镜像，一场命运的冒险游戏，就此开启。GAME START！",
-      "releaseDate": "2026-04-04",
-      "backdropPath": null,
-      "posterPath": "/9hXg73Gosne5bLHbo23Bh0oGR1R.jpg",
-      "rating": 7,
+      "title": "超级马力欧银河大电影",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+      "releaseDate": "2026-04-01",
+      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
+      "rating": 6.889,
       "mediaType": "movie",
-      "genreTitle": "悬疑, 犯罪"
+      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 1481955,
@@ -67,19 +67,6 @@
       "genreTitle": "剧情, 音乐"
     },
     {
-      "id": 1303236,
-      "type": "tmdb",
-      "title": "角头：大桥头",
-      "originalTitle": "角頭－大橋頭",
-      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
-      "releaseDate": "2024-08-16",
-      "backdropPath": "/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
-      "posterPath": "/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
-      "rating": 7.2,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 动作"
-    },
-    {
       "id": 1220564,
       "type": "tmdb",
       "title": "密探",
@@ -88,22 +75,35 @@
       "releaseDate": "2025-07-23",
       "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
       "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.313,
+      "rating": 7.316,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 1226863,
+      "id": 1249589,
       "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "releaseDate": "2026-04-01",
-      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-      "rating": 6.924,
+      "title": "天才游戏",
+      "originalTitle": "天才游戏",
+      "description": "身份迥异的天才少年刘全龙（彭昱畅饰）与富家少年陈伦（丁禹兮饰），因缘际会下开始了一场人生交换。两个少年的人生镜像，一场命运的冒险游戏，就此开启。GAME START！",
+      "releaseDate": "2026-04-04",
+      "backdropPath": null,
+      "posterPath": "/9hXg73Gosne5bLHbo23Bh0oGR1R.jpg",
+      "rating": 7,
       "mediaType": "movie",
-      "genreTitle": "家庭, 喜剧"
+      "genreTitle": "悬疑, 犯罪"
+    },
+    {
+      "id": 1454209,
+      "type": "tmdb",
+      "title": "非穷尽列举",
+      "originalTitle": "National Theatre Live: Inter Alia",
+      "description": "Jessica Parks是一位精明的刑事法庭法官，正处于事业巅峰期。在法袍背后，她是一个卡拉OK发烧友、有爱的妻子和支持孩子的家长。当一起事件有可能让她的生活完全失去平衡时，她能否支撑起自己的家庭？",
+      "releaseDate": "2025-09-25",
+      "backdropPath": "/gpQwPhKmUmBZxmA9bcBeFDbDgdS.jpg",
+      "posterPath": "/smdKDbTCLBuNJg3R5Eu0HakrwFU.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1566589,
@@ -119,17 +119,30 @@
       "genreTitle": "爱情, 犯罪"
     },
     {
-      "id": 1454209,
+      "id": 1303236,
       "type": "tmdb",
-      "title": "非穷尽列举",
-      "originalTitle": "National Theatre Live: Inter Alia",
-      "description": "Jessica Parks是一位精明的刑事法庭法官，正处于事业巅峰期。在法袍背后，她是一个卡拉OK发烧友、有爱的妻子和支持孩子的家长。当一起事件有可能让她的生活完全失去平衡时，她能否支撑起自己的家庭？",
-      "releaseDate": "2025-09-25",
-      "backdropPath": "/gpQwPhKmUmBZxmA9bcBeFDbDgdS.jpg",
-      "posterPath": "/smdKDbTCLBuNJg3R5Eu0HakrwFU.jpg",
-      "rating": 7.7,
+      "title": "角头：大桥头",
+      "originalTitle": "角頭－大橋頭",
+      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
+      "releaseDate": "2024-08-16",
+      "backdropPath": "/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
+      "posterPath": "/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
+      "rating": 7.2,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "犯罪, 动作"
+    },
+    {
+      "id": 1327819,
+      "type": "tmdb",
+      "title": "河狸变身计划",
+      "originalTitle": "Hoppers",
+      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
+      "releaseDate": "2026-03-04",
+      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
+      "rating": 7.58,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
     },
     {
       "id": 1249668,
@@ -153,22 +166,9 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.532,
+      "rating": 6.528,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
-    },
-    {
-      "id": 1327819,
-      "type": "tmdb",
-      "title": "河狸变身计划",
-      "originalTitle": "Hoppers",
-      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
-      "releaseDate": "2026-03-04",
-      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.567,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
     },
     {
       "id": 1657534,
@@ -184,19 +184,6 @@
       "genreTitle": "惊悚, 恐怖"
     },
     {
-      "id": 1317288,
-      "type": "tmdb",
-      "title": "至尊马蒂",
-      "originalTitle": "Marty Supreme",
-      "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "releaseDate": "2025-12-19",
-      "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
-      "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.414,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 惊悚"
-    },
-    {
       "id": 682012,
       "type": "tmdb",
       "title": "你好，爱美丽",
@@ -205,9 +192,22 @@
       "releaseDate": "2025-06-25",
       "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
       "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 8,
+      "rating": 7.965,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
+    },
+    {
+      "id": 1317288,
+      "type": "tmdb",
+      "title": "至尊马蒂",
+      "originalTitle": "Marty Supreme",
+      "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "releaseDate": "2025-12-19",
+      "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
+      "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
+      "rating": 7.409,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 惊悚"
     },
     {
       "id": 1268630,
@@ -244,7 +244,7 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
       "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-      "rating": 7.1,
+      "rating": 7.147,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -262,32 +262,6 @@
       "genreTitle": "恐怖, 科幻"
     },
     {
-      "id": 1297842,
-      "type": "tmdb",
-      "title": "奇迹梦之队",
-      "originalTitle": "GOAT",
-      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.8,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1447971,
-      "type": "tmdb",
-      "title": "惊蛰无声",
-      "originalTitle": "惊蛰无声",
-      "description": "你看不见的地方，谍战从未停止交锋！我国最新战机的涉密信息外泄，国家安全面临威胁，国安小组迅速行动抓捕间谍，在信任与背叛的漩涡中，一场惊心博弈悄然上演……",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/tNfhsO5CdMRzThEx3XlkTEp808Q.jpg",
-      "posterPath": "/cPdZiwjdLel5DD7Nm99FcSsXuSr.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 惊悚"
-    },
-    {
       "id": 1462229,
       "type": "tmdb",
       "title": "飞驰人生3",
@@ -301,17 +275,56 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1297842,
+      "type": "tmdb",
+      "title": "奇迹梦之队",
+      "originalTitle": "GOAT",
+      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
+      "rating": 7.892,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
+    },
+    {
+      "id": 1447971,
+      "type": "tmdb",
+      "title": "惊蛰无声",
+      "originalTitle": "惊蛰无声",
+      "description": "你看不见的地方，谍战从未停止交锋！我国最新战机的涉密信息外泄，国家安全面临威胁，国安小组迅速行动抓捕间谍，在信任与背叛的漩涡中，一场惊心博弈悄然上演……",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/tNfhsO5CdMRzThEx3XlkTEp808Q.jpg",
+      "posterPath": "/cPdZiwjdLel5DD7Nm99FcSsXuSr.jpg",
+      "rating": 6.857,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 惊悚"
+    },
+    {
       "id": 83533,
       "type": "tmdb",
       "title": "阿凡达：火与烬",
       "originalTitle": "Avatar: Fire and Ash",
       "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
       "releaseDate": "2025-12-17",
-      "backdropPath": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+      "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
       "posterPath": "/d5jW601WKpT1yTwWsJcYvUwl8cB.jpg",
       "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
+    },
+    {
+      "id": 313369,
+      "type": "tmdb",
+      "title": "爱乐之城",
+      "originalTitle": "La La Land",
+      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
+      "releaseDate": "2016-12-01",
+      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
+      "rating": 7.899,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 137409,
@@ -327,19 +340,6 @@
       "genreTitle": "动作, 惊悚"
     },
     {
-      "id": 313369,
-      "type": "tmdb",
-      "title": "爱乐之城",
-      "originalTitle": "La La Land",
-      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
-      "releaseDate": "2016-12-01",
-      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
-      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.898,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
       "id": 1650257,
       "type": "tmdb",
       "title": "哀牢山",
@@ -351,19 +351,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
-    },
-    {
-      "id": 416249,
-      "type": "tmdb",
-      "title": "寒战2",
-      "originalTitle": "寒戰 II",
-      "description": "刘杰辉（郭富城饰）荣升警队一哥后，他的妻儿却遭遇了歹徒绑架，对方要求警队以李家俊（彭于晏饰）为交换。虽然费尽心机，但最终被对方得逞，李家俊逃跑，而他也由于违反警队规定擅自行动，遭遇香港司法机关质询。他一心要揪出绑架案的幕后黑手。而引咎辞职的前警务处处长李文彬，受到已退休的前警务处长蔡元祺（张国柱饰）的蛊惑，在质询过程中临阵倒戈，引发了刘杰辉被弹劾的危机。  同时，立法会议员简奥伟（周润发饰），对李文彬的倒戈也充满疑虑，派出自己的侄女欧咏恩调查李文彬的行踪，从而发现了李文彬与逃跑的李家俊以及蔡元祺有接触，后来在跟踪过程中被蔡元祺一伙发现，最终死于车祸。欧咏恩的死激怒了简奥伟，使他也加入到了对李文彬的调查之中。简奥伟通过欧咏恩留下的云端文件，获得了李文彬跟李家俊、蔡元祺密会的照片。而刘杰辉也通过反间谍的方式，发现了警队中李文彬的眼线，并顺藤摸瓜找到了蔡元祺藏匿之前失踪冲锋车的地点，同时通过调查发现了蔡元祺控制香港警队信息系统的证据，并最终一举破坏了蔡元祺的阴谋。而更深层次原因——律政司司长黎永廉（李子雄饰）想要竞选香港特首，进而控制香港政府的政治阴谋，依然藏在水下未被揭开。",
-      "releaseDate": "2016-07-08",
-      "backdropPath": "/7yR2BMksskCgw87Ts04dL2p0pIn.jpg",
-      "posterPath": "/jQoVfFAeuFmEnSTykJLjTa7Kh89.jpg",
-      "rating": 6.3,
-      "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
     },
     {
       "id": 1662350,
@@ -379,6 +366,19 @@
       "genreTitle": "惊悚, 恐怖"
     },
     {
+      "id": 416249,
+      "type": "tmdb",
+      "title": "寒战2",
+      "originalTitle": "寒戰 II",
+      "description": "刘杰辉（郭富城饰）荣升警队一哥后，他的妻儿却遭遇了歹徒绑架，对方要求警队以李家俊（彭于晏饰）为交换。虽然费尽心机，但最终被对方得逞，李家俊逃跑，而他也由于违反警队规定擅自行动，遭遇香港司法机关质询。他一心要揪出绑架案的幕后黑手。而引咎辞职的前警务处处长李文彬，受到已退休的前警务处长蔡元祺（张国柱饰）的蛊惑，在质询过程中临阵倒戈，引发了刘杰辉被弹劾的危机。  同时，立法会议员简奥伟（周润发饰），对李文彬的倒戈也充满疑虑，派出自己的侄女欧咏恩调查李文彬的行踪，从而发现了李文彬与逃跑的李家俊以及蔡元祺有接触，后来在跟踪过程中被蔡元祺一伙发现，最终死于车祸。欧咏恩的死激怒了简奥伟，使他也加入到了对李文彬的调查之中。简奥伟通过欧咏恩留下的云端文件，获得了李文彬跟李家俊、蔡元祺密会的照片。而刘杰辉也通过反间谍的方式，发现了警队中李文彬的眼线，并顺藤摸瓜找到了蔡元祺藏匿之前失踪冲锋车的地点，同时通过调查发现了蔡元祺控制香港警队信息系统的证据，并最终一举破坏了蔡元祺的阴谋。而更深层次原因——律政司司长黎永廉（李子雄饰）想要竞选香港特首，进而控制香港政府的政治阴谋，依然藏在水下未被揭开。",
+      "releaseDate": "2016-07-08",
+      "backdropPath": "/7yR2BMksskCgw87Ts04dL2p0pIn.jpg",
+      "posterPath": "/jQoVfFAeuFmEnSTykJLjTa7Kh89.jpg",
+      "rating": 6.3,
+      "mediaType": "movie",
+      "genreTitle": "动作, 惊悚"
+    },
+    {
       "id": 1653289,
       "type": "tmdb",
       "title": "如父如母",
@@ -387,19 +387,6 @@
       "releaseDate": "2026-04-04",
       "backdropPath": null,
       "posterPath": "/rpvXuRZcakBtcUKbaGop0HlA4Mk.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1666525,
-      "type": "tmdb",
-      "title": "寒·露",
-      "originalTitle": "寒·露",
-      "description": "一连串匿名勒索电话，寄到家里的裸照让强势的医生赵寒雪饱受丈夫的暴力摧残。女儿离家出走，下落不明。赵寒雪能否解决勒索，逃离暴力？又该如何寻回女儿？",
-      "releaseDate": "2026-04-10",
-      "backdropPath": "/vd4GC8P7MDxLCrW2SeUgr6pFVm1.jpg",
-      "posterPath": "/ctNkAlfc4XW1JMF0vEl92nSqlN9.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
@@ -416,6 +403,19 @@
       "rating": 5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 奇幻"
+    },
+    {
+      "id": 1666525,
+      "type": "tmdb",
+      "title": "寒·露",
+      "originalTitle": "寒·露",
+      "description": "一连串匿名勒索电话，寄到家里的裸照让强势的医生赵寒雪饱受丈夫的暴力摧残。女儿离家出走，下落不明。赵寒雪能否解决勒索，逃离暴力？又该如何寻回女儿？",
+      "releaseDate": "2026-04-10",
+      "backdropPath": "/vd4GC8P7MDxLCrW2SeUgr6pFVm1.jpg",
+      "posterPath": "/ctNkAlfc4XW1JMF0vEl92nSqlN9.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 694,
@@ -457,30 +457,17 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 10191,
+      "id": 1497873,
       "type": "tmdb",
-      "title": "驯龙高手",
-      "originalTitle": "How to Train Your Dragon",
-      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
-      "releaseDate": "2010-03-18",
-      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
-      "rating": 7.857,
+      "title": "翠湖",
+      "originalTitle": "翠湖",
+      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
+      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+      "rating": 7,
       "mediaType": "movie",
-      "genreTitle": "奇幻, 冒险"
-    },
-    {
-      "id": 455714,
-      "type": "tmdb",
-      "title": "天才枪手",
-      "originalTitle": "ฉลาดเกมส์โกง",
-      "description": "影片根据2014年轰动一时的亚洲考场作弊案改编，讲述了天才学霸利用高智商考场作弊牟取暴利的故事。出生平凡的天才少女Lynn（茱蒂蒙·琼查容苏因 饰）在进入贵族学校后，结识了富二代同学Grace（依莎亚·贺苏汪饰）与Pat（披纳若·苏潘平佑饰），从此开始了考场作弊生涯，与此同时，另一名记忆力极佳的天才学霸Bank（查侬·散顶腾古 饰）发现了Lynn不为人知的“交易”。经过多场险象环生的“作弊战争”后，Lynn接下最后一单在国际考场上为富家子弟作弊的天价委托。一场横跨两大洲的完美作弊方案横空出世，然而一切并不像他们想的那么简单……",
-      "releaseDate": "2017-05-03",
-      "backdropPath": "/6qTpufRgDkl0M2zRPewozYD1g5y.jpg",
-      "posterPath": "/aHcC4iI4WFAB2sgSjVwcEXaeWE.jpg",
-      "rating": 7.859,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
+      "genreTitle": "剧情"
     },
     {
       "id": 485289,
@@ -509,19 +496,6 @@
       "genreTitle": "动作, 犯罪"
     },
     {
-      "id": 1632606,
-      "type": "tmdb",
-      "title": "团圆令",
-      "originalTitle": "团圆令",
-      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
-      "releaseDate": "2026-02-28",
-      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
-      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
-    },
-    {
       "id": 1650266,
       "type": "tmdb",
       "title": "神头岭1938",
@@ -535,56 +509,17 @@
       "genreTitle": "剧情, 历史"
     },
     {
-      "id": 1614368,
+      "id": 1632606,
       "type": "tmdb",
-      "title": "喜欢上“欠欠”的你",
-      "originalTitle": "喜欢上“欠欠”的你",
-      "description": "通过消费获取情绪满足的张若愚（秦霄贤 饰）遇上通过攒钱获取安全感的贾琼（王影璐 饰），一段“你花我拦”的奇妙纠葛就此开启。从互相嫌弃的省钱搭子，到渐生情愫的打趣逗乐，再到因误解而生出的刺痛猜疑……这段“欠欠”又“暖暖”的感情又将走向怎样的结局？",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/ykT38Me2FXg2e6C1xxDWpXCKNpZ.jpg",
-      "posterPath": "/e8Vxgpke2CJlyaiN0Nmb0aUBNdY.jpg",
-      "rating": 1,
+      "title": "团圆令",
+      "originalTitle": "团圆令",
+      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
+      "releaseDate": "2026-02-28",
+      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
+      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 1313229,
-      "type": "tmdb",
-      "title": "尼诺",
-      "originalTitle": "Nino",
-      "description": "距离人生重大考验只剩三天，尼诺却要先完成医生布置的两项关乎存亡的使命。这场穿越巴黎的救赎之旅，迫使他重新系紧与世界的羁绊，更要直面内心深渊。",
-      "releaseDate": "2025-09-17",
-      "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
-      "posterPath": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
-      "rating": 7.2,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 587391,
-      "type": "tmdb",
-      "title": "花园编舟记",
-      "originalTitle": "Slocum et moi",
-      "description": "故事发生在20世纪50年代，法国静谧的马恩河畔。男孩弗朗索瓦天性浪漫、热爱幻想，他原本平淡的生活因父亲想在自家花园里建造一艘船的决定，而增添了一份别样的期待——一场属于全家的宏大冒险由此展开，他们共同投入这项近乎疯狂的工程，亲手打造一艘承载梦想、渴望驶向远方的帆船。那既是逃离现实的出口，也是通往幻想的航道，在真实与梦境之间，勾勒出一段关于成长、亲情与自由的诗意旅程。\r 　　法国动画大师让-弗朗索瓦·拉吉奥尼，根据个人童年真实经历书写，历经二十年打磨，以85岁高龄完成个人第七部动画长片，也是这位动画导演职业生涯的最后一部作品。",
-      "releaseDate": "2025-01-29",
-      "backdropPath": "/nWczpYTDQMcC49E26BpQS59OqHU.jpg",
-      "posterPath": "/3h8YAfIpA5BOqpVGJVFgGy6s0Xp.jpg",
-      "rating": 6.3,
-      "mediaType": "movie",
-      "genreTitle": "动画, 剧情"
-    },
-    {
-      "id": 1001434,
-      "type": "tmdb",
-      "title": "我这一辈子",
-      "originalTitle": "Ma vie Ma gueule",
-      "description": "",
-      "releaseDate": "2024-09-18",
-      "backdropPath": "/nAdT75EE7I6IzOSUwChnlYpT5Or.jpg",
-      "posterPath": "/iUssfYUO82DRcnFhDIQY6abhOWf.jpg",
-      "rating": 5.5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 49444,
@@ -598,32 +533,6 @@
       "rating": 7.059,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 10400,
-      "type": "tmdb",
-      "title": "飓风",
-      "originalTitle": "The Hurricane",
-      "description": "一个黑人毛头小伙莱斯（维斯罗斯•雷恩•香农 Vicellous Reon Shannon 饰）在旧书市无意中淘到了拳王“飓风”鲁本•卡特（丹泽尔•华盛顿 Denzel Washington 饰）在狱中写的自传，并开始了对他的故事产生了兴趣。鲁本出生于贫寒家庭，幼年时嫉恶如仇，因此与当地的白人警察结怨。后来，他因为出色的身手，名震拳坛，绰号“飓风”。此后，他参加了越战成为荣誉军官，并在某舞会偶然结识了后来的妻子。当生活进入美满轨道的时候，一次新泽西酒吧杀人案彻底毁掉了他美好希望。莱斯与鲁本通信，了解到他蒙受不白之冤，便说服了朋友们，一起查找证据，希望揭开真相，令他重获自由，然而种族歧视的恶势力却在暗中百般刁难，意图把飓风困死在牢房……",
-      "releaseDate": "1999-09-17",
-      "backdropPath": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
-      "posterPath": "/iH7zKvZRD9GjLgUIZSOnFCPyFAl.jpg",
-      "rating": 7.437,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1020829,
-      "type": "tmdb",
-      "title": "狐步",
-      "originalTitle": "La Danse des renards",
-      "description": "在一所体育专科寄宿学校里，年轻的拳击新星卡米尔刚夺得法国冠军头衔，却在一次致命事故中被挚友马泰奥惊险救下。随着焦虑逐渐侵蚀内心，他开始质疑自己对拳击的热爱，以及与马泰奥的亲密友谊。",
-      "releaseDate": "2026-03-18",
-      "backdropPath": "/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg",
-      "posterPath": "/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
-      "rating": 6.5,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1599013,
