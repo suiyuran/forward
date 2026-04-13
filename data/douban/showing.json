@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-12T17:38:21.249Z",
+  "time": "2026-04-13T18:05:07.475Z",
   "data": [
     {
       "id": 1546855,
@@ -28,6 +28,19 @@
       "genreTitle": "科幻, 冒险"
     },
     {
+      "id": 1268919,
+      "type": "tmdb",
+      "title": "植物学家",
+      "originalTitle": "植物学家",
+      "description": "影片讲述中国新疆北部边境的山谷村庄里，孤独的哈萨克族男孩与植物为伴，他在追寻逝去的时光中，逐渐隐入植物世界的梦幻寓言。",
+      "releaseDate": "2026-04-14",
+      "backdropPath": "/f6yYzckSVd3zkh6cAbBonuWcZXl.jpg",
+      "posterPath": "/qcTnfHjFULdt2Ze5SAdlj8zkGPQ.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 奇幻"
+    },
+    {
       "id": 1421609,
       "type": "tmdb",
       "title": "我的妈耶",
@@ -49,7 +62,7 @@
       "releaseDate": "2026-04-01",
       "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-      "rating": 6.889,
+      "rating": 6.826,
       "mediaType": "movie",
       "genreTitle": "家庭, 喜剧"
     },
@@ -75,7 +88,7 @@
       "releaseDate": "2025-07-23",
       "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
       "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.316,
+      "rating": 7.315,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
@@ -119,19 +132,6 @@
       "genreTitle": "爱情, 犯罪"
     },
     {
-      "id": 1303236,
-      "type": "tmdb",
-      "title": "角头：大桥头",
-      "originalTitle": "角頭－大橋頭",
-      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
-      "releaseDate": "2024-08-16",
-      "backdropPath": "/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
-      "posterPath": "/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
-      "rating": 7.2,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 动作"
-    },
-    {
       "id": 1327819,
       "type": "tmdb",
       "title": "河狸变身计划",
@@ -140,7 +140,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.58,
+      "rating": 7.576,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -158,6 +158,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1303236,
+      "type": "tmdb",
+      "title": "角头：大桥头",
+      "originalTitle": "角頭－大橋頭",
+      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
+      "releaseDate": "2024-08-16",
+      "backdropPath": "/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
+      "posterPath": "/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
+      "rating": 7.2,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 动作"
+    },
+    {
       "id": 1316092,
       "type": "tmdb",
       "title": "呼啸山庄",
@@ -166,7 +179,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.528,
+      "rating": 6.526,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -192,7 +205,7 @@
       "releaseDate": "2025-06-25",
       "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
       "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 7.965,
+      "rating": 7.983,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
     },
@@ -205,7 +218,7 @@
       "releaseDate": "2025-12-19",
       "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
       "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.409,
+      "rating": 7.412,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -283,7 +296,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.892,
+      "rating": 7.904,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -309,22 +322,9 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
       "posterPath": "/d5jW601WKpT1yTwWsJcYvUwl8cB.jpg",
-      "rating": 7.4,
+      "rating": 7.37,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 313369,
-      "type": "tmdb",
-      "title": "爱乐之城",
-      "originalTitle": "La La Land",
-      "description": "心怀演员梦想的米娅在试镜间隙为电影明星端送拿铁，而执着于爵士乐的塞巴斯汀则在昏暗酒吧靠弹奏钢琴曲勉强度日。然而当事业渐有起色，两人不得不做出抉择，这些决定逐渐磨损着他们如薄纱般的恋情，那些曾奋力彼此守护的梦想，此刻却可能将彼此撕裂。",
-      "releaseDate": "2016-12-01",
-      "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
-      "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.899,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 137409,
@@ -392,6 +392,32 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 694,
+      "type": "tmdb",
+      "title": "闪灵",
+      "originalTitle": "The Shining",
+      "description": "杰克是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂就发现这里气氛诡异，杰克的儿子丹尼经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
+      "releaseDate": "1980-05-23",
+      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
+      "rating": 8.205,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1357815,
+      "type": "tmdb",
+      "title": "时间旅馆",
+      "originalTitle": "时间旅馆",
+      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
+      "releaseDate": "2026-03-20",
+      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
+      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
       "id": 1607088,
       "type": "tmdb",
       "title": "熊出没·年年有熊",
@@ -418,19 +444,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 694,
-      "type": "tmdb",
-      "title": "闪灵",
-      "originalTitle": "The Shining",
-      "description": "杰克是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂就发现这里气氛诡异，杰克的儿子丹尼经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
-      "releaseDate": "1980-05-23",
-      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
-      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.205,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
       "id": 1421552,
       "type": "tmdb",
       "title": "熊猫计划之部落奇遇记",
@@ -442,19 +455,6 @@
       "rating": 5.8,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动作"
-    },
-    {
-      "id": 1357815,
-      "type": "tmdb",
-      "title": "时间旅馆",
-      "originalTitle": "时间旅馆",
-      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
-      "releaseDate": "2026-03-20",
-      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
-      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1497873,
@@ -509,6 +509,19 @@
       "genreTitle": "剧情, 历史"
     },
     {
+      "id": 49444,
+      "type": "tmdb",
+      "title": "功夫熊猫2",
+      "originalTitle": "Kung Fu Panda 2",
+      "description": "熊猫阿宝功成名就，成为名震四方的神龙大侠。平日里他随同师傅以及盖世五侠：悍娇虎 、猴王、快螳螂、俏小龙、灵鹤在和平谷修炼，生活悠哉游哉。这一日，一伙恶徒闯入山谷抢夺金属材料，在与他们交手中阿宝意外产生幻觉，由此对自己的身世感到疑惑。另一方面，恶徒的魁首白孔雀沈王爷正图谋闯入王宫，称霸全中国。新的正邪大战拉开序幕，阿宝他们面临前所未有的挑战…",
+      "releaseDate": "2011-05-25",
+      "backdropPath": "/7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg",
+      "posterPath": "/nlHxaqtPc0SJgjbCxYbP5t3GQBa.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
       "id": 1632606,
       "type": "tmdb",
       "title": "团圆令",
@@ -522,17 +535,17 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 49444,
+      "id": 1002640,
       "type": "tmdb",
-      "title": "功夫熊猫2",
-      "originalTitle": "Kung Fu Panda 2",
-      "description": "熊猫阿宝功成名就，成为名震四方的神龙大侠。平日里他随同师傅以及盖世五侠：悍娇虎 、猴王、快螳螂、俏小龙、灵鹤在和平谷修炼，生活悠哉游哉。这一日，一伙恶徒闯入山谷抢夺金属材料，在与他们交手中阿宝意外产生幻觉，由此对自己的身世感到疑惑。另一方面，恶徒的魁首白孔雀沈王爷正图谋闯入王宫，称霸全中国。新的正邪大战拉开序幕，阿宝他们面临前所未有的挑战…",
-      "releaseDate": "2011-05-25",
-      "backdropPath": "/7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg",
-      "posterPath": "/nlHxaqtPc0SJgjbCxYbP5t3GQBa.jpg",
-      "rating": 7.059,
+      "title": "Secrets of the Sea",
+      "originalTitle": "Secrets of the Sea",
+      "description": "",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
       "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
+      "genreTitle": ""
     },
     {
       "id": 1599013,
@@ -546,19 +559,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1002640,
-      "type": "tmdb",
-      "title": "Secrets of the Sea",
-      "originalTitle": "Secrets of the Sea",
-      "description": "",
-      "releaseDate": "2022-06-08",
-      "backdropPath": null,
-      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": ""
     }
   ]
 }
