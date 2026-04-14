@@ -1,6 +1,6 @@
-import { writeJsonFile } from "../common.ts";
-import { getDoubanDoulistData } from "../douban.ts";
-import { sortByReleaseDate, TMDBTransformedResult } from "../tmdb.ts";
+import { writeJsonFile } from "../../src/common.ts";
+import { getDoubanDoulistData } from "../../src/douban.ts";
+import { sortByReleaseDate, TMDBTransformedResult } from "../../src/tmdb.ts";
 
 const CONFIG = {
   name: "剧场",

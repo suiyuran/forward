@@ -1,7 +1,6 @@
-import { writeJsonFile } from "../common.ts";
-import { getDoubanSubjectCollectionData } from "../douban.ts";
-import { TMDBTransformedResult } from "../tmdb.ts";
-
+import { writeJsonFile } from "../../src/common.ts";
+import { getDoubanSubjectCollectionData } from "../../src/douban.ts";
+import { TMDBTransformedResult } from "../../src/tmdb.ts";
 const CONFIG = {
   name: "周榜",
   items: [

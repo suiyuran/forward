@@ -1,5 +1,6 @@
 import { DOMParser } from "@b-fuze/deno-dom";
-import { MOBILE_UA, sleep } from "./common.ts";
+import { sleep } from "./common.ts";
+import { MOBILE_UA } from "./constants.ts";
 import { findTMDBResultsByIMDBId, getTMDBTVSeriesDetails, isAvailableTMDBResult, searchTMDBResults } from "./tmdb.ts";
 
 interface DoubanSubjectCollection {

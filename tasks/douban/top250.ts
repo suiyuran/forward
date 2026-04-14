@@ -1,12 +1,12 @@
-import { writeJsonFile } from "../common.ts";
-import { getDoubanSubjectCollectionData } from "../douban.ts";
+import { writeJsonFile } from "../../src/common.ts";
+import { getDoubanSubjectCollectionData } from "../../src/douban.ts";
 
 const CONFIG = {
-  name: "正在上映",
-  subject: "movie_showing",
+  name: "Top250",
+  subject: "movie_top250",
   start: 0,
-  count: 50,
-  outputPath: "./data/douban/showing.json",
+  count: 250,
+  outputPath: "./data/douban/top250.json",
 };
 
 async function update() {

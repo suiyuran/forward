@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-13T17:00:17.936Z",
+  "time": "2026-04-14T05:08:02.666Z",
   "data": {
     "星期日": [
       {
@@ -48,9 +48,9 @@
         "originalTitle": "杖と剣のウィストリア",
         "description": "为了成为独当一面的魔导士，少年「威尔·赛尔佛特」进入魔法学院学习。然而个性努力认真的他，即使想成为魔导士却有个致命性的弱点，那就是「他完全无法使用魔法」。\n\n同学跟老师都用冷漠的眼神看待他，尽管有的时候感到相当挫折，威尔还是坚强地向前迈进。即使无法使用魔杖，他还是持剑在这个魔法至上主义的世界中战斗到底。深信着只有自己具备的力量。也为了守护与最重要的人立下的约定——。\n\n吊车尾少年用剑挑战魔法。杖与剑交会的魔剑谭在此揭开序幕！",
         "releaseDate": "2024-07-07",
-        "backdropPath": "/7sGeLiMVrD0QyKWjhEbLWmZIj2w.jpg",
+        "backdropPath": "/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
         "posterPath": "/7WIhyJawa8BTXQ2fNk2CmrqPxX6.jpg",
-        "rating": 7.557,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.726,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -196,6 +196,19 @@
         "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
+      },
+      {
+        "id": 236534,
+        "type": "tmdb",
+        "title": "牧神记",
+        "originalTitle": "牧神记",
+        "description": "主角秦牧，幼时被一女尸托举至涌江边并被司婆婆捡到，村长根据玉佩上的字为其取名为“秦牧”。被一只母牛哺乳长大，是天生凡体，但被村长骗为霸体，修炼霸体三丹功。后走出大墟闯荡，进入京城，拜入太学院。历经考验成为天魔教教主，并被延康国封为第一任太学博士。秦牧在延康国叛乱之战中引来魔神，掀起浩荡风云，后随武可汗入楼兰黄金宫，一个人打遍圣宫无敌手，麻翻无数大巫，盗走无数珍宝。后返回延康，助国师平叛、入京城斩杀太子、造射日神炮。秦牧得人皇传承成为新一代人皇。机缘巧合下遇到了亲生父亲，揭开了自己的身世，借助道门小玉京等人的帮助，开启了道法神通改革的大世。一步步逐渐成长，作为延康变法三杰之一，为芸芸众生而战。",
+        "releaseDate": "2024-10-27",
+        "backdropPath": "/d4jlYsNCqlO8MPlRj4yLua58Ir0.jpg",
+        "posterPath": "/jPHitNQ1fuKK6aPZ6eCPiFq9XhG.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "动画, Sci-Fi & Fantasy"
       }
     ],
     "星期一": [
@@ -247,7 +260,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
         "posterPath": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
-        "rating": 7.3,
+        "rating": 7.359,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -314,7 +327,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
         "posterPath": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-        "rating": 7,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -420,7 +433,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.726,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -446,7 +459,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/iOWy37LXWOGCuaElNfHWakhsBNn.jpg",
         "posterPath": "/94v7cg3LnULwc5JrjSPl8dQaRCA.jpg",
-        "rating": 8.667,
+        "rating": 8.75,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -459,7 +472,7 @@
         "releaseDate": "2017-07-12",
         "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
         "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
-        "rating": 8.4,
+        "rating": 8.406,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -801,7 +814,7 @@
         "releaseDate": "2018-10-02",
         "backdropPath": "/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
         "posterPath": "/t0dG685BBauz3X687FEjlt8FnMK.jpg",
-        "rating": 8.397,
+        "rating": 8.396,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -933,7 +946,7 @@
         "releaseDate": "2026-04-11",
         "backdropPath": "/dKA8y1HxEq09M11p896hBkZsku1.jpg",
         "posterPath": "/beGS8grRPmcvW1m1QRBA86XsqTo.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },

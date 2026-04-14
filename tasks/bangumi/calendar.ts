@@ -1,19 +1,20 @@
 import { DOMParser } from "@b-fuze/deno-dom";
-import { UA, writeJsonFile } from "../common.ts";
+import { writeJsonFile } from "../../src/common.ts";
+import { UA } from "../../src/constants.ts";
 import {
   findTMDBResultsByIMDBId,
   isAvailableTMDBResult,
   searchTMDBResults,
   sortById,
   TMDBTransformedResult,
-} from "../tmdb.ts";
+} from "../../src/tmdb.ts";
 
 const CONFIG = {
   name: "每日放送",
   outputPath: "./data/bangumi/calendar.json",
 };
 const SEASON_REGEXP =
-  /(?<!^)((((Second|3rd|4th|Final) )?(Season|Volume) ?[0-9]*|Prelude)|(第?([0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(终|終))((季|期)|(部分|クール)|(之|ノ)?章|シリーズ|(篇|編))|[0-9]+$)/gi;
+  /(?<!^)((((Second|3rd|4rd|4th|Final) )?(Season|Volume) ?[0-9]*|Prelude)|(第?([0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(终|終))((季|期)|(部分|クール)|(之|ノ)?章|シリーズ|(篇|編))?|[0-9]+$)/gi;
 const SPECIAL_PARTS = [
   "TV剪辑版",
   "TV Edition",
