@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-14T17:02:04.769Z",
+  "time": "2026-04-15T16:59:18.434Z",
   "data": {
     "星期日": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/nTDL4UmMLDBCeMtYh8F1LZtgmLV.jpg",
         "posterPath": "/ukjJ1nFjdmZwJMlEteWPShB5XH1.jpg",
-        "rating": 8.692,
+        "rating": 8.593,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-04-12",
         "backdropPath": "/tR8AoRgTCLS0y0iI1Eou8vZylfq.jpg",
         "posterPath": "/rH1tLxuyG1Ad6GXswveI7ROIa31.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -193,7 +193,7 @@
         "releaseDate": "2026-04-05",
         "backdropPath": "/m4RWzJwv5xm8K6lIgIOdRBScxhn.jpg",
         "posterPath": "/lGyQoPUOqeTKhtu2HfBnmiojIQe.jpg",
-        "rating": 9.2,
+        "rating": 9.4,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -247,7 +247,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/8EaA5ffwNJv4uBwmfUWT06WY5ee.jpg",
         "posterPath": "/uBHcmbmC3TccLO6hdrttOpjy4bN.jpg",
-        "rating": 7.2,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/4lfbfiNYyiM27U6BwT94taynXXH.jpg",
         "posterPath": "/v2ghoZFANzSNbH4ObmHrI9kVVdp.jpg",
-        "rating": 0,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
         "posterPath": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-        "rating": 8.5,
+        "rating": 8.75,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -349,11 +349,11 @@
         "type": "tmdb",
         "title": "想结束这场“我爱你”的游戏",
         "originalTitle": "愛してるゲームを終わらせたい",
-        "description": "从小就黏在一起的青梅竹马。即使他们注意到了自己的情感，但因太过熟悉而无法坦然面对对方。\n\n　　将两人紧紧连在一起的是从小开始玩的「我爱你」游戏。两人将爱情托付给了这个游戏，如果谁先让对方害羞，谁就获胜！？",
+        "description": "升上同一所高中的浅葱优希也与樱美玖，是一对「彼此暗恋」的青梅竹马。明明已经察觉到自己的心意，却始终无法坦率面对彼此，距离越近，越喜欢对方，也越是说不出口。无法坦率的两人，连系着他们的是从孩提时期就持续到现在的「我爱你游戏」。两人轮流说出「我爱你」，先害羞的人就输了，这般幼稚的游戏，直到现在，这场意气之争仍然持续着。为了摆脱彼此暗恋的关系，倾注所有心意的「恋爱游戏」即将开始！！",
         "releaseDate": "2026-04-14",
         "backdropPath": "/1VeWzVFQjqsPNDext7MHi7nTKHo.jpg",
         "posterPath": "/zyyaIikcX14ezH2lHoKlWue0Dpt.jpg",
-        "rating": 0,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2023-07-07",
         "backdropPath": "/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
         "posterPath": "/fLjtutjdnS5jS5ZZ7Oyxf6X011K.jpg",
-        "rating": 8.1,
+        "rating": 8.129,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/lmJKqQMBrRYDwm5zCoubnQHl8rH.jpg",
         "posterPath": "/vSMNi73O92Ga4jZKb9cDkhwhxuW.jpg",
-        "rating": 7.5,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -446,7 +446,7 @@
         "releaseDate": "2020-01-13",
         "backdropPath": "/sASxGVO6wioRG6jNM2LHOjBAgWu.jpg",
         "posterPath": "/crvf49wBo1NNcGtmpGwVHgL25m0.jpg",
-        "rating": 8.3,
+        "rating": 8.311,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -457,9 +457,9 @@
         "originalTitle": "ガンバレ！中村くん！！",
         "description": "“怎么办 好喜欢 最喜欢了”\n\n　　有些奇怪的高中生，中村同学对同班的广濑同学一见钟情？！明明还不是朋友……却无法止住心动！！新派80年代风的新锐“春泥”所献上的，粘着系男子的单相思暴走的生存☆恋爱喜剧！！",
         "releaseDate": "2026-04-02",
-        "backdropPath": "/iOWy37LXWOGCuaElNfHWakhsBNn.jpg",
+        "backdropPath": "/wpsLsjCcIf3QexYO6pCaLm9PI0Z.jpg",
         "posterPath": "/94v7cg3LnULwc5JrjSPl8dQaRCA.jpg",
-        "rating": 8.75,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -472,7 +472,7 @@
         "releaseDate": "2017-07-12",
         "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
         "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
-        "rating": 8.406,
+        "rating": 8.405,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -498,7 +498,7 @@
         "releaseDate": "2025-04-02",
         "backdropPath": "/epPoqwhas9lhZasJ9yVYJod2GQa.jpg",
         "posterPath": "/2uYmx5q5wILjzXmDZmPdRKD03gs.jpg",
-        "rating": 6.847,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -524,7 +524,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/99lQDI1BvQSuCsZnBs319aF5vy8.jpg",
         "posterPath": "/wQFbXbQ33b2CWx6n1eR4xEJx3Wu.jpg",
-        "rating": 7.333,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -566,6 +566,19 @@
         "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 319732,
+        "type": "tmdb",
+        "title": "청춘 블라썸: 우리의 봄",
+        "originalTitle": "청춘 블라썸: 우리의 봄",
+        "description": "",
+        "releaseDate": "2026-04-15",
+        "backdropPath": null,
+        "posterPath": "/rirhpI3b2Tip0Vc3VVosEZiwJT7.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 动画"
       }
     ],
     "星期四": [
@@ -669,7 +682,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/xVRpdsYlQR6hsapwFbwxVnFXDBH.jpg",
         "posterPath": "/qEVAv7TMtJw9wiuFGVOeoePJWeR.jpg",
-        "rating": 7,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -682,7 +695,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/jtNK9327cHSVOIvFoNkHz6G3TE7.jpg",
         "posterPath": "/cfY8HWNHbbeoGsBPFzc1pBB2UiW.jpg",
-        "rating": 8,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -840,7 +853,7 @@
         "releaseDate": "2026-04-11",
         "backdropPath": "/krbKWrBEOjPdUmp1CGRgRVnLsrs.jpg",
         "posterPath": "/dUgMFhSKHQpmmWyoVsZ4qLvNVZ0.jpg",
-        "rating": 6.5,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -853,7 +866,7 @@
         "releaseDate": "2026-04-03",
         "backdropPath": "/5Jhaxj3sBDGB5oLj9snBz2bdqBG.jpg",
         "posterPath": "/yQanJjEY9YeklI3O2vfMe6iKyXI.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -959,7 +972,7 @@
         "releaseDate": "2026-04-05",
         "backdropPath": "/mCJWUo6Np2y5daruzt7fhh5TiIA.jpg",
         "posterPath": "/tL3Hhpqe6KuRw8WKsqtA63U4VQh.jpg",
-        "rating": 7,
+        "rating": 7.333,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -972,7 +985,7 @@
         "releaseDate": "2026-04-04",
         "backdropPath": "/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
         "posterPath": "/7DwXtgv3ngMM3BDLlK2nHiwLyHp.jpg",
-        "rating": 8.9,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1039,7 +1052,7 @@
         "posterPath": "/1hzamo8nOZmurGQQ7P2uqpsGHek.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "动画, 喜剧"
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 303460,
