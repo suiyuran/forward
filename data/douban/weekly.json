@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-14T20:40:16.988Z",
+  "time": "2026-04-15T20:35:12.388Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.227,
+        "rating": 8.228,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.582,
+        "rating": 7.584,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-04-01",
         "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
         "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-        "rating": 6.8,
+        "rating": 6.81,
         "mediaType": "movie",
         "genreTitle": "家庭, 喜剧"
       },
@@ -134,6 +134,19 @@
       }
     ],
     "剧集·国内": [
+      {
+        "id": 273151,
+        "type": "tmdb",
+        "title": "危险关系",
+        "originalTitle": "危险关系",
+        "description": "单亲妈妈颜聆在调查闺蜜自杀真相的过程中，意外陷入“情感操控（PUA）”陷阱，爱恨纠葛中，颜聆逐渐觉醒并最终重获新生。",
+        "releaseDate": "2026-03-31",
+        "backdropPath": "/cJQXgZErtIeYteJohtubyVEm1Mc.jpg",
+        "posterPath": "/vNvboIOnzxL3pkI11TQDn21grUY.jpg",
+        "rating": 6.7,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
       {
         "id": 277412,
         "type": "tmdb",
@@ -174,32 +187,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 287760,
-        "type": "tmdb",
-        "title": "纯真年代的爱情",
-        "originalTitle": "纯真年代的爱情",
-        "description": "二十世纪七十年代，积极上进的纺织厂女工费霓一心想上大学靠知识改变命运。费霓的初中同学方穆扬因救人受伤成为了见义勇为的英雄，费霓主动提出照顾他，想要做好事评先进而被推荐上大学，但希望却屡次落空。现实的压力接踵而至，为了帮哥哥解决婚房的难题，费霓向方穆扬提出假结婚分房。几经波折二人终于有了自己的房子，成为了睡上下铺的小夫妻，他们共同面对困难，鼓励彼此追梦，虽磕磕绊绊，却也在平淡温馨的生活中滋长了情投意合的浪漫。最终费霓终于如愿上了大学，方穆扬也实现了自己的画家梦想，他们在幸福生活和美好未来的路上继续前行。",
-        "releaseDate": "2026-02-21",
-        "backdropPath": "/ufgYAZofbUE7x7MGHaJ5wKj7Or8.jpg",
-        "posterPath": "/8fjVJxa6uEWRzMIDLTjExPGf0Nj.jpg",
-        "rating": 7.333,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 259554,
-        "type": "tmdb",
-        "title": "夜色正浓",
-        "originalTitle": "夜色正浓",
-        "description": "一场盛宴之下的狂欢，让隐藏已久的暗涌浮现，唤醒了所有装睡的人，也触发了GST酒业各层人士的生存危机。一切事关生存，每一步都需格外谨慎。七个深陷其中的主要人物，在事件中扮演了不同的角色，勾勒出人性的复杂和现实的残酷，从而呈现出一个共同的主题——如何在惶惶不安中乐观地活下去！",
-        "releaseDate": "2026-01-28",
-        "backdropPath": "/emfrogWyGQNdQdnemu5dDnK7tIL.jpg",
-        "posterPath": "/sd3EIJZQzAvsU5CDroaL9QuIYBq.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 281495,
         "type": "tmdb",
         "title": "除恶",
@@ -211,19 +198,6 @@
         "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
-      },
-      {
-        "id": 280632,
-        "type": "tmdb",
-        "title": "成何体统",
-        "originalTitle": "成何体统",
-        "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
-        "releaseDate": "2026-02-06",
-        "backdropPath": "/myJLWz2Rk0e8YHSSw3caCrOEETT.jpg",
-        "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-        "rating": 8.471,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
       },
       {
         "id": 300239,
@@ -239,6 +213,32 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
+        "id": 261675,
+        "type": "tmdb",
+        "title": "家事法庭",
+        "originalTitle": "家事法庭",
+        "description": "由最高人民法院影视中心全程指导，案例丰富基础扎实。该剧讲述了青年法官沈谢秩从刑庭调至家事庭，与热心律师秦睿不期而遇，二人同家事庭的多位法官深入基层工作，为人民群众解决亲子矛盾、婚姻困境等纷繁的社会、家庭问题。在一桩桩案件中，以赤诚之心剖解百态，不忘初心传递法治温度。",
+        "releaseDate": "2026-03-25",
+        "backdropPath": "/tyk6lS8hxQ1T8eE8Vy9AtuAr7io.jpg",
+        "posterPath": "/8sxttf1E82L6A7FxCAP4PQ1gc9s.jpg",
+        "rating": 6.5,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 317717,
+        "type": "tmdb",
+        "title": "果实",
+        "originalTitle": "果實",
+        "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
+        "releaseDate": "2026-03-27",
+        "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
+        "posterPath": "/kxHncGyYf8NutSD88AHGdwPMs1s.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 244189,
         "type": "tmdb",
         "title": "向流星许愿的我们",
@@ -252,20 +252,72 @@
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
-        "id": 313930,
+        "id": 280822,
         "type": "tmdb",
-        "title": "卧底娇娃",
-        "originalTitle": "臥底嬌娃",
-        "description": "剧情围绕卧底警察潘奕风组建三人女团展开，成员包括行为心理学家沈佳琪、武术专家江妙姿和数据分析师童小茹，通过渗透四联商会调查新型毒品“粉精灵”产业链。",
-        "releaseDate": "2026-02-23",
-        "backdropPath": "/7TKBpKx76eBknk0zYmtKV07Pznu.jpg",
-        "posterPath": "/1ETDQaUP7DgIxZx4SHW3blrh1Kj.jpg",
-        "rating": 0,
+        "title": "你好1983",
+        "originalTitle": "你好1983",
+        "description": "36岁的现代女高管夏晓兰陷入了公司暴雷要她顶缸的绝境，绝望之余她迷迷糊糊之际穿越成了18岁的美貌村妞！无钱无权无依靠，可有颜有妈有青春。灵活的头脑，总是能创造绝境逢生的奇迹。夏晓兰一步一步向前走，她要拼命寻找求学机会，深知“知识改变命运”是经年不变的途径，她通过自己的努力，克服重重困难考上了心仪的大学。她还开启创业模式，从卖鸭蛋、卖油饼这种无本生意起步，倒卖服装、进军房地产……迅速盘起生意经。 一手是学习，一手是生意，在这个过程中，她也遇到了酸甜如杨梅冰般的爱情。这个时空中的夏晓兰，一改从前的软弱退缩，主动拥抱命运。她身边有最好的爱人，身后有至亲的亲人和朋友，有非血亲却疼爱她的长辈和恩师。还有热爱的事业、创业奋斗而来的财富、有回报社会的初心。夏晓兰的重生，是一场脱胎换骨的涅槃，是一次在商海快意恩仇的冒险。是历经时代变迁、命运起伏后懂得，无论从前或现在，只有决心和勇气才是真正的金手指。无畏挑战，昂首向前，终将得偿所愿。",
+        "releaseDate": "2026-03-17",
+        "backdropPath": "/d9s5SlGLnOWqWy2DHmdFoG4ZUKm.jpg",
+        "posterPath": "/j8rOn9MSKJ8tAuqOjTOzLsa0oqu.jpg",
+        "rating": 8.2,
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "喜剧, 剧情"
       }
     ],
     "剧集·国外": [
+      {
+        "id": 76479,
+        "type": "tmdb",
+        "title": "黑袍纠察队",
+        "originalTitle": "The Boys",
+        "description": "祖国人通过法西斯式的恐怖手段掌控美国，将持不同政见者关押在自由营里。而布彻尔、休伊、安妮和英雄克星则奋起反抗，尽管面临难以克服的重重困难，他们仍竭尽全力，试图阻止他的暴政统治。",
+        "releaseDate": "2026-04-08",
+        "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
+        "rating": 8.1,
+        "mediaType": "tv",
+        "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
+      },
+      {
+        "id": 124101,
+        "type": "tmdb",
+        "title": "绝望写手",
+        "originalTitle": "Hacks",
+        "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
+        "releaseDate": "2026-04-09",
+        "backdropPath": "/dDEj2qS9RGiY6P3Bkzc0EEMaKpR.jpg",
+        "posterPath": "/77q82tMWRYbV2DTcR8Z3KrOfG3I.jpg",
+        "rating": 1,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 278573,
+        "type": "tmdb",
+        "title": "21世纪大君夫人",
+        "originalTitle": "21세기 대군부인",
+        "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
+        "releaseDate": "2026-04-10",
+        "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+        "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
+        "rating": 9.7,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 287527,
+        "type": "tmdb",
+        "title": "证词",
+        "originalTitle": "The Testaments",
+        "description": "《证词》是《使女的故事》续章，一部以基列国为背景，扣人心弦的成长故事，聚焦在两位少女身上：恪守本分、虔诚至极的艾格妮丝，以及从外地加入基列国的黛西。她们进入莉迪亚嬷嬷为培养未来妻子而成立的婚前预备学院，在这座金碧辉煌的殿堂，嬷嬷们透过残忍的手段以及以神圣为理由，灌输服从的观念。艾格妮丝与黛西两人之间的情谊将成为一股催化剂，彻底颠覆她们的过去、现在与未来。",
+        "releaseDate": "2026-04-08",
+        "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
+        "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
+        "rating": 6.5,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
       {
         "id": 93166,
         "type": "tmdb",
@@ -280,30 +332,17 @@
         "genreTitle": "犯罪, 剧情"
       },
       {
-        "id": 250307,
+        "id": 85552,
         "type": "tmdb",
-        "title": "匹兹堡医护前线",
-        "originalTitle": "The Pitt",
-        "description": "第二季故事发生在第一季结局的10个月后，时间线为一个美国独立纪念日的周末。",
-        "releaseDate": "2026-01-08",
-        "backdropPath": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-        "posterPath": "/ohKJ1hbzPSt7AHnR7hplo6cu4sK.jpg",
-        "rating": 7.7,
+        "title": "亢奋",
+        "originalTitle": "Euphoria",
+        "description": "一群高中生在一个充满毒品、性爱、创伤与社群媒体的世界，探索爱与友谊。",
+        "releaseDate": "2026-04-12",
+        "backdropPath": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
+        "posterPath": "/2ZMxjpyRvqfNYOXedrfeYn2Bsui.jpg",
+        "rating": 6.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 225780,
-        "type": "tmdb",
-        "title": "戴洛克小镇",
-        "originalTitle": "Deadloch",
-        "description": "本剧是一部澳大利亚黑色喜剧悬疑剧。宁静的澳洲小镇戴洛克突发离奇命案，一名男性教练赤身陈尸海滩，舌头被割。作风稳重的本地女警长杜尔茜，与性格火爆粗犷的外派警探艾迪被迫搭档。随着多名劣迹斑斑的男性接连以相同手法遇害，案件升级为连环凶杀。全镇男性陷入恐慌，小镇暗流涌动的性别矛盾、群体冲突与陈年旧怨接连浮出水面。两位风格迥异的警探在摩擦与合作中逐步追查，最终揭开一场针对“恶男”的有组织复仇真相，悬疑密集且讽刺辛辣。",
-        "releaseDate": "2026-03-19",
-        "backdropPath": "/n58Py8VN2Z677AslZyfc3Aj3uUI.jpg",
-        "posterPath": "/cfZNI9QGriwvwj45Jxy1w8WFRKe.jpg",
-        "rating": 3.2,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 犯罪"
       },
       {
         "id": 111110,
@@ -319,56 +358,17 @@
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
-        "id": 202555,
+        "id": 225780,
         "type": "tmdb",
-        "title": "夜魔侠：重生",
-        "originalTitle": "Daredevil: Born Again",
-        "description": "威尔逊·菲斯克市长反转整个纽约市，誓要追捕头号公敌 —— 义警夜魔侠。然而，面具下的马修·默多克将在黑暗中奋起反击，摧毁金并腐败的管治帝国。抵抗、反击、重生。",
-        "releaseDate": "2026-03-24",
-        "backdropPath": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "posterPath": "/cHfQQKZqJs4fwLrbn5RgfGsIoWt.jpg",
-        "rating": 8.2,
+        "title": "戴洛克小镇",
+        "originalTitle": "Deadloch",
+        "description": "本剧是一部澳大利亚黑色喜剧悬疑剧。宁静的澳洲小镇戴洛克突发离奇命案，一名男性教练赤身陈尸海滩，舌头被割。作风稳重的本地女警长杜尔茜，与性格火爆粗犷的外派警探艾迪被迫搭档。随着多名劣迹斑斑的男性接连以相同手法遇害，案件升级为连环凶杀。全镇男性陷入恐慌，小镇暗流涌动的性别矛盾、群体冲突与陈年旧怨接连浮出水面。两位风格迥异的警探在摩擦与合作中逐步追查，最终揭开一场针对“恶男”的有组织复仇真相，悬疑密集且讽刺辛辣。",
+        "releaseDate": "2026-03-19",
+        "backdropPath": "/n58Py8VN2Z677AslZyfc3Aj3uUI.jpg",
+        "posterPath": "/cfZNI9QGriwvwj45Jxy1w8WFRKe.jpg",
+        "rating": 3.2,
         "mediaType": "tv",
-        "genreTitle": "剧情, 动作冒险"
-      },
-      {
-        "id": 228079,
-        "type": "tmdb",
-        "title": "马洛谋杀俱乐部",
-        "originalTitle": "The Marlow Murder Club",
-        "description": "作为新上任的侦探塔尼卡·马利克所领导的破案小组中的重要成员，退休考古学家朱迪斯·波茨、遛狗员苏西·哈里斯以及牧师夫人贝克斯·斯塔林再次联手出击，运用他们独特的办案方式来侦破一系列引人注目的谋杀案。从马洛镇上最受民众爱戴的市长突然死亡，到一位知名厨师在其新书发布会现场被杀——当时有半数镇民都在场——这支队伍必须在马洛镇居民的密切监督下开展工作。此外，他们还必须应对一起发生在大学同学会上的离奇案件：在一家阴森的古宅里，贝克斯竟然发现自己成了嫌疑人之一。这场案件会不会威胁到这些业余侦探们作为民间顾问的角色呢？",
-        "releaseDate": "2026-03-18",
-        "backdropPath": "/5LMGwo1ZBMqaMHYuYLrq2m3ipqy.jpg",
-        "posterPath": "/wBfAXQBScnPypY7nJN6PCWjEp0g.jpg",
-        "rating": 6.3,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 剧情"
-      },
-      {
-        "id": 233833,
-        "type": "tmdb",
-        "title": "在你灿烂的季节",
-        "originalTitle": "찬란한 너의 계절에",
-        "description": "该剧讲述了因过去伤痛而封闭内心的女设计师宋嘏烂（李圣经 饰）与像阳光般明媚却也深陷伤痛的男设计师鲜于灿（蔡钟协 饰）命运般重逢，并在互相救赎中治愈彼此的感人故事。",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-        "posterPath": "/9QhrWKqeJa5w23nDbBnQ9RFhGWF.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 剧情"
-      },
-      {
-        "id": 225891,
-        "type": "tmdb",
-        "title": "麦迪逊河谷",
-        "originalTitle": "The Madison",
-        "description": "该剧是《黄石》宇宙的第一部现代背景衍生剧，故事聚焦一个纽约家庭在蒙大拿州中部麦迪逊河谷地的生活，将对悲伤和人际关系进行真诚的研究和审视。",
-        "releaseDate": "2026-03-14",
-        "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
-        "posterPath": "/6EXDfhfR2nNNK385rA49RY92qGt.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "喜剧, 犯罪"
       },
       {
         "id": 241860,
@@ -379,22 +379,9 @@
         "releaseDate": "2026-03-16",
         "backdropPath": "/joeWNlosN0XyBkApi215L6asTx6.jpg",
         "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
-        "rating": 8.7,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
-      },
-      {
-        "id": 303724,
-        "type": "tmdb",
-        "title": "心动密码",
-        "originalTitle": "สืบลับจับใจ",
-        "description": "一位权势显赫的警官之女，在躲过数次暗杀后悄然加入精英训练计划。在这里她邂逅了一位纪律严明、直觉敏锐的军官，两人被迫同住一室，暧昧情愫悄然滋长。然而政治阴谋、未解命案与错综往事即将撕裂这段关系。当一方发现对方的父亲竟与自己家族悲剧有所牵连时，在职责、危险与真相代价的层层考验下，两人不得不在正义和意外降临的爱情间做出抉择。",
-        "releaseDate": "2026-02-12",
-        "backdropPath": "/sPXZ3of4Lf1D1LXY0PUI1RpsYo6.jpg",
-        "posterPath": "/jQvrRQgHpGqUCc5oT3GxSfvDWqO.jpg",
-        "rating": 8.6,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 动作冒险"
       }
     ]
   }
