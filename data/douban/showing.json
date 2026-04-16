@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-15T18:06:30.662Z",
+  "time": "2026-04-16T18:08:23.230Z",
   "data": [
     {
       "id": 1546855,
@@ -23,9 +23,22 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.226,
+      "rating": 8.215,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
+    },
+    {
+      "id": 1124566,
+      "type": "tmdb",
+      "title": "情感价值",
+      "originalTitle": "Affeksjonsverdi",
+      "description": "Nora和Agnes与疏远的父亲——魅力非凡的导演Gustav重聚。这位昔日名导试图让舞台剧演员Nora参演自己寄予厚望的复出之作，却遭女儿拒绝。Nora很快发现，父亲已将她的角色转给了一位野心勃勃的好莱坞新星。突如其来的变故迫使两姐妹直面与父亲的复杂纠葛，而这位美国明星的加入，更让本就微妙的家庭关系陷入新的波澜。",
+      "releaseDate": "2025-08-20",
+      "backdropPath": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
+      "posterPath": "/1FXbo86BoKBCL1Upovi8k0SPcWh.jpg",
+      "rating": 7.493,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1268919,
@@ -60,24 +73,11 @@
       "originalTitle": "天才游戏",
       "description": "身份迥异的天才少年刘全龙（彭昱畅饰）与富家少年陈伦（丁禹兮饰），因缘际会下开始了一场人生交换。两个少年的人生镜像，一场命运的冒险游戏，就此开启。GAME START！",
       "releaseDate": "2026-04-04",
-      "backdropPath": null,
+      "backdropPath": "/hYj6z0w2fJd4VCrwwTerwtpR3i2.jpg",
       "posterPath": "/9hXg73Gosne5bLHbo23Bh0oGR1R.jpg",
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "悬疑, 犯罪"
-    },
-    {
-      "id": 1226863,
-      "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "releaseDate": "2026-04-01",
-      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-      "rating": 6.824,
-      "mediaType": "movie",
-      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 1481955,
@@ -99,11 +99,24 @@
       "originalTitle": "O Agente Secreto",
       "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
       "releaseDate": "2025-07-23",
-      "backdropPath": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
+      "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
       "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
       "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 1226863,
+      "type": "tmdb",
+      "title": "超级马力欧银河大电影",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+      "releaseDate": "2026-04-01",
+      "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
+      "rating": 6.8,
+      "mediaType": "movie",
+      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 1454209,
@@ -153,7 +166,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.528,
+      "rating": 6.533,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -166,7 +179,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.584,
+      "rating": 7.581,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -184,6 +197,19 @@
       "genreTitle": "惊悚, 恐怖"
     },
     {
+      "id": 1317288,
+      "type": "tmdb",
+      "title": "至尊马蒂",
+      "originalTitle": "Marty Supreme",
+      "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "releaseDate": "2025-12-19",
+      "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
+      "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
+      "rating": 7.409,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 惊悚"
+    },
+    {
       "id": 1303236,
       "type": "tmdb",
       "title": "角头：大桥头",
@@ -197,19 +223,6 @@
       "genreTitle": "犯罪, 动作"
     },
     {
-      "id": 1317288,
-      "type": "tmdb",
-      "title": "至尊马蒂",
-      "originalTitle": "Marty Supreme",
-      "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "releaseDate": "2025-12-19",
-      "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
-      "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.407,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 惊悚"
-    },
-    {
       "id": 682012,
       "type": "tmdb",
       "title": "你好，爱美丽",
@@ -218,9 +231,22 @@
       "releaseDate": "2025-06-25",
       "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
       "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 8,
+      "rating": 7.997,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
+    },
+    {
+      "id": 696393,
+      "type": "tmdb",
+      "title": "绿液惊魂",
+      "originalTitle": "Cold Storage",
+      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
+      "releaseDate": "2026-01-22",
+      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
+      "rating": 6.7,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 1268630,
@@ -244,22 +270,22 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
       "posterPath": "/X8oYS7jRagGIAPfYARvpQWY8pv.jpg",
-      "rating": 6.236,
+      "rating": 6.25,
       "mediaType": "movie",
       "genreTitle": "科幻, 恐怖"
     },
     {
-      "id": 696393,
+      "id": 1447971,
       "type": "tmdb",
-      "title": "绿液惊魂",
-      "originalTitle": "Cold Storage",
-      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
-      "releaseDate": "2026-01-22",
-      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
-      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
-      "rating": 6.72,
+      "title": "惊蛰无声",
+      "originalTitle": "惊蛰无声",
+      "description": "你看不见的地方，谍战从未停止交锋！我国最新战机的涉密信息外泄，国家安全面临威胁，国安小组迅速行动抓捕间谍，在信任与背叛的漩涡中，一场惊心博弈悄然上演……",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/tNfhsO5CdMRzThEx3XlkTEp808Q.jpg",
+      "posterPath": "/cPdZiwjdLel5DD7Nm99FcSsXuSr.jpg",
+      "rating": 6.857,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
+      "genreTitle": "犯罪, 惊悚"
     },
     {
       "id": 1602727,
@@ -288,19 +314,6 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 1447971,
-      "type": "tmdb",
-      "title": "惊蛰无声",
-      "originalTitle": "惊蛰无声",
-      "description": "你看不见的地方，谍战从未停止交锋！我国最新战机的涉密信息外泄，国家安全面临威胁，国安小组迅速行动抓捕间谍，在信任与背叛的漩涡中，一场惊心博弈悄然上演……",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/tNfhsO5CdMRzThEx3XlkTEp808Q.jpg",
-      "posterPath": "/cPdZiwjdLel5DD7Nm99FcSsXuSr.jpg",
-      "rating": 6.857,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 惊悚"
-    },
-    {
       "id": 1297842,
       "type": "tmdb",
       "title": "奇迹梦之队",
@@ -309,7 +322,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.927,
+      "rating": 7.943,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -335,9 +348,22 @@
       "releaseDate": "2025-12-17",
       "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
       "posterPath": "/d5jW601WKpT1yTwWsJcYvUwl8cB.jpg",
-      "rating": 7.373,
+      "rating": 7.375,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
+    },
+    {
+      "id": 1475606,
+      "type": "tmdb",
+      "title": "祭屋",
+      "originalTitle": "祭屋",
+      "description": "方程程陪同未婚夫苏醒来到诡异的老宅见未来公婆，却发现只在半夜三更出现的苏母竟然已去世多年，且从未举办过葬礼。而苏父明明活着，却非要给自己举办一场死亡祭祀……",
+      "releaseDate": "2026-04-17",
+      "backdropPath": "/1bMwCcp7iMr2QZZjjTDj6L7x0Wv.jpg",
+      "posterPath": "/v8sxF0qXfhf5qncrYRpYYWfUzCI.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1653289,
@@ -366,19 +392,6 @@
       "genreTitle": "动作, 惊悚"
     },
     {
-      "id": 1662350,
-      "type": "tmdb",
-      "title": "午夜电梯",
-      "originalTitle": "午夜电梯",
-      "description": "影片《午夜电梯》由郑来志导演，朱晚荞、高宏森担任出品人并担任总制片人，王德意、陈媛媛担任制片人，刘博、赵帅领衔主演的恐怖惊悚电影，影片讲述了饱受精神分裂症困扰的女作家李心凌，遇见了神秘的郑承阳之后，经历一番离奇而奇特的恐怖冒险。",
-      "releaseDate": "2026-04-04",
-      "backdropPath": null,
-      "posterPath": "/8DkkS0o2dmOWLaOlAOng5svKkrr.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
-    },
-    {
       "id": 416249,
       "type": "tmdb",
       "title": "寒战2",
@@ -390,6 +403,19 @@
       "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
+    },
+    {
+      "id": 1662350,
+      "type": "tmdb",
+      "title": "午夜电梯",
+      "originalTitle": "午夜电梯",
+      "description": "影片《午夜电梯》由郑来志导演，朱晚荞、高宏森担任出品人并担任总制片人，王德意、陈媛媛担任制片人，刘博、赵帅领衔主演的恐怖惊悚电影，影片讲述了饱受精神分裂症困扰的女作家李心凌，遇见了神秘的郑承阳之后，经历一番离奇而奇特的恐怖冒险。",
+      "releaseDate": "2026-04-04",
+      "backdropPath": null,
+      "posterPath": "/8DkkS0o2dmOWLaOlAOng5svKkrr.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1650257,
@@ -413,7 +439,7 @@
       "releaseDate": "1980-05-23",
       "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
       "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.2,
+      "rating": 8.205,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -431,19 +457,6 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 1666525,
-      "type": "tmdb",
-      "title": "寒·露",
-      "originalTitle": "寒·露",
-      "description": "一连串匿名勒索电话，寄到家里的裸照让强势的医生赵寒雪饱受丈夫的暴力摧残。女儿离家出走，下落不明。赵寒雪能否解决勒索，逃离暴力？又该如何寻回女儿？",
-      "releaseDate": "2026-04-10",
-      "backdropPath": "/vd4GC8P7MDxLCrW2SeUgr6pFVm1.jpg",
-      "posterPath": "/ctNkAlfc4XW1JMF0vEl92nSqlN9.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1497873,
       "type": "tmdb",
       "title": "翠湖",
@@ -453,6 +466,19 @@
       "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
       "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
       "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1666525,
+      "type": "tmdb",
+      "title": "寒·露",
+      "originalTitle": "寒·露",
+      "description": "一连串匿名勒索电话，寄到家里的裸照让强势的医生赵寒雪饱受丈夫的暴力摧残。女儿离家出走，下落不明。赵寒雪能否解决勒索，逃离暴力？又该如何寻回女儿？",
+      "releaseDate": "2026-04-10",
+      "backdropPath": "/vd4GC8P7MDxLCrW2SeUgr6pFVm1.jpg",
+      "posterPath": "/ctNkAlfc4XW1JMF0vEl92nSqlN9.jpg",
+      "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -470,19 +496,6 @@
       "genreTitle": "喜剧, 奇幻"
     },
     {
-      "id": 1421552,
-      "type": "tmdb",
-      "title": "熊猫计划之部落奇遇记",
-      "originalTitle": "熊猫计划之部落奇遇记",
-      "description": "熊猫“糊糊”即将搬进全新熊猫馆，突发遭遇国际劫匪，大哥在和劫匪搏斗过程中坠入山崖，醒来后却意外发现置身神奇部落。大家为了能够回到熊猫馆，这个有趣的“组合”帮助部落解决种种难题...",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/bnXeBvYaurIqP0ESAAHUIZjIB0o.jpg",
-      "posterPath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
-      "rating": 5.8,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动作"
-    },
-    {
       "id": 485289,
       "type": "tmdb",
       "title": "重返·狼群",
@@ -494,6 +507,19 @@
       "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "纪录"
+    },
+    {
+      "id": 1421552,
+      "type": "tmdb",
+      "title": "熊猫计划之部落奇遇记",
+      "originalTitle": "熊猫计划之部落奇遇记",
+      "description": "熊猫“糊糊”即将搬进全新熊猫馆，突发遭遇国际劫匪，大哥在和劫匪搏斗过程中坠入山崖，醒来后却意外发现置身神奇部落。大家为了能够回到熊猫馆，这个有趣的“组合”帮助部落解决种种难题...",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/bnXeBvYaurIqP0ESAAHUIZjIB0o.jpg",
+      "posterPath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
+      "rating": 5.8,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动作"
     },
     {
       "id": 559974,
