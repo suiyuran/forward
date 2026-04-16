@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-15T20:35:12.388Z",
+  "time": "2026-04-16T20:36:27.338Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.228,
+        "rating": 8.215,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-12-26",
         "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
         "posterPath": "/fpx5DNWYiXHLLWdV9uGxMnepVvb.jpg",
-        "rating": 7.484,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-03-04",
         "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.584,
+        "rating": 7.581,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -113,9 +113,9 @@
         "originalTitle": "The Super Mario Galaxy Movie",
         "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
         "releaseDate": "2026-04-01",
-        "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+        "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
         "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-        "rating": 6.81,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "家庭, 喜剧"
       },
@@ -169,7 +169,7 @@
         "releaseDate": "2026-03-18",
         "backdropPath": "/7eVMRGq6CLYvszBrhPGteRBtzWA.jpg",
         "posterPath": "/1ZWhG04PRpqaLbHj0oIpnTVZMmu.jpg",
-        "rating": 8,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
-        "rating": 8.1,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -286,7 +286,7 @@
         "originalTitle": "Hacks",
         "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
         "releaseDate": "2026-04-09",
-        "backdropPath": "/dDEj2qS9RGiY6P3Bkzc0EEMaKpR.jpg",
+        "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/77q82tMWRYbV2DTcR8Z3KrOfG3I.jpg",
         "rating": 1,
         "mediaType": "tv",
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 9.7,
+        "rating": 9.3,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -373,11 +373,11 @@
       {
         "id": 241860,
         "type": "tmdb",
-        "title": "权欲之巅 Climax",
+        "title": "权欲之巅",
         "originalTitle": "클라이맥스",
         "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
         "releaseDate": "2026-03-16",
-        "backdropPath": "/joeWNlosN0XyBkApi215L6asTx6.jpg",
+        "backdropPath": "/ynixwhYEcDrYRr5Jft0LNqAQERQ.jpg",
         "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
         "rating": 7.8,
         "mediaType": "tv",
