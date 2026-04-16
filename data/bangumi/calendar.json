@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-15T16:59:18.434Z",
+  "time": "2026-04-16T17:10:46.495Z",
   "data": {
     "星期日": [
       {
@@ -260,7 +260,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
         "posterPath": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
-        "rating": 7.3,
+        "rating": 7.414,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
         "posterPath": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-        "rating": 8.75,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2023-07-07",
         "backdropPath": "/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
         "posterPath": "/fLjtutjdnS5jS5ZZ7Oyxf6X011K.jpg",
-        "rating": 8.129,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/lmJKqQMBrRYDwm5zCoubnQHl8rH.jpg",
         "posterPath": "/vSMNi73O92Ga4jZKb9cDkhwhxuW.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -524,7 +524,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/99lQDI1BvQSuCsZnBs319aF5vy8.jpg",
         "posterPath": "/wQFbXbQ33b2CWx6n1eR4xEJx3Wu.jpg",
-        "rating": 7.8,
+        "rating": 7.875,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -544,15 +544,28 @@
       {
         "id": 312383,
         "type": "tmdb",
-        "title": "キャンディーカリエス",
+        "title": "Candy Caries 蛀在糖糖里",
         "originalTitle": "キャンディーカリエス",
-        "description": "",
+        "description": "超爱吃甜食的小朋友——糖糖，她的嘴里住着一个叫『凯莉丝』的蛀牙！\n\n凯莉丝称呼糖糖为「妈妈」，不仅会把牙齿当家具，还会控制糖糖的身体，而糖糖总是拿她没辙，被耍得团团转。\n\n「我才不是你的妈妈！」\n\n「就是妈妈呀♡ 你准备了房间给我住，还总是吃甜食把我养大嘛」\n\n糖糖与凯莉丝，这对有点怪异的母女组合!? 将带来一连串的慌乱日常喜剧！",
         "releaseDate": "2026-04-15",
         "backdropPath": "/7UywPXaiCJ43zysmaq82RKoGIEi.jpg",
         "posterPath": "/a7sm6GnT2NfO9l7N4e8JGpYw7eN.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 313395,
+        "type": "tmdb",
+        "title": "大贤者利多尔的时间逆行",
+        "originalTitle": "大賢者リドルの時間逆行",
+        "description": "在“第二轮的人生”中，夺回曾失去的一切！神秘组织“恶意之箱”夺走了青年里德尔的伙伴与世界。失去生存意义的他，在绝望边缘迎来最后的灵光一现：如果能回到一切尚未崩坏之前的时间呢？历经千年的苟延残喘、甚至因岁月侵蚀而化为异形的里德尔，终于成功施展“时间逆行”。“这一次……我一定要阻止一切！”带着千年的智慧与经验，重回年轻的身躯——大贤者里德尔的时间逆行之旅，正式展开！",
+        "releaseDate": "2026-04-01",
+        "backdropPath": "/wwYoyiPWgYiVQU36vHeIqgsiTTG.jpg",
+        "posterPath": "/qoKRbr6jZGk7Fnn0J1IYCMryfHV.jpg",
+        "rating": 10,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 224839,
@@ -756,11 +769,11 @@
         "type": "tmdb",
         "title": "蒲公英",
         "originalTitle": "だんでらいおん",
-        "description": "以天使丹波铁男和黑铁美咲为中心的故事。\n\n他们隶属于天使联盟接送部·蒲公英组，每日繁忙工作。他们的任务是将那些因留恋尘世而无法离开现世的灵魂们送回彼岸。由于地缚灵基本上都会四处逃窜，所以他们大部分时间都在进行追踪。\n\n一个充满人情味与幽默，令人笑中带泪的故事。",
+        "description": "日本天使联盟送迎部负责追踪留恋人间的亡灵，温柔地将他们送往来世。天使每天疲于奔命，但第 21 班蒲公英组的丹波铁男和组长黑铁美咲，决定走出自己的步调。他们不急于办案，而是花时间与亡灵相处、倾听悔恨，化解他们心中的罣碍。有天，他们发现一个年迈的亡灵正全力冲刺，亟欲逃离……",
         "releaseDate": "2026-04-16",
         "backdropPath": "/wBT1pkBkZk9jkytbxUghIDWEq8T.jpg",
         "posterPath": "/defMsGyon7Zhnt9iIDfhxDnakDK.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -840,7 +853,7 @@
         "releaseDate": "2020-07-11",
         "backdropPath": "/ullfy98STkno11rDGi44SK6llwx.jpg",
         "posterPath": "/pp1gwYC7Jv36fEWEpPLpbJjuBTG.jpg",
-        "rating": 8.332,
+        "rating": 8.324,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -972,7 +985,7 @@
         "releaseDate": "2026-04-05",
         "backdropPath": "/mCJWUo6Np2y5daruzt7fhh5TiIA.jpg",
         "posterPath": "/tL3Hhpqe6KuRw8WKsqtA63U4VQh.jpg",
-        "rating": 7.333,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1011,7 +1024,7 @@
         "releaseDate": "2026-01-09",
         "backdropPath": "/uLC9tdRSPcKsgvRLth38WEbm8pa.jpg",
         "posterPath": "/lWNtQ6Ju61H1JYca0xdxIztegDV.jpg",
-        "rating": 6.929,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
