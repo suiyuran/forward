@@ -1,20 +1,7 @@
 {
-  "time": "2026-04-16T20:36:27.338Z",
+  "time": "2026-04-17T20:32:26.495Z",
   "data": {
     "电影": [
-      {
-        "id": 687163,
-        "type": "tmdb",
-        "title": "挽救计划",
-        "originalTitle": "Project Hail Mary",
-        "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
-        "releaseDate": "2026-03-15",
-        "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-        "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.215,
-        "mediaType": "movie",
-        "genreTitle": "科幻, 冒险"
-      },
       {
         "id": 1546855,
         "type": "tmdb",
@@ -27,6 +14,19 @@
         "rating": 6.6,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 687163,
+        "type": "tmdb",
+        "title": "挽救计划",
+        "originalTitle": "Project Hail Mary",
+        "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
+        "releaseDate": "2026-03-15",
+        "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
+        "rating": 8.2,
+        "mediaType": "movie",
+        "genreTitle": "科幻, 冒险"
       },
       {
         "id": 1464883,
@@ -42,30 +42,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 1462735,
+        "id": 1294698,
         "type": "tmdb",
-        "title": "旅途中的日子",
-        "originalTitle": "旅と日々",
-        "description": "改编自柘植义春的漫画《海边的抒景》《混沌洞的笨先生》，讲述郁郁不得志的李编剧因缘际会来到一个大雪纷飞的深山中，误打误撞进入了一家破旧的旅馆。屋顶几乎被积雪压塌，旅馆的老板笨造看起来毫无干劲，旅馆里没有暖气，饭菜也马马虎虎，连床铺都得自己铺。然而，笨造似乎藏着什么秘密。某天晚上，笨造带着李踏入了夜晚雪原……",
-        "releaseDate": "2025-11-07",
-        "backdropPath": "/aJM7KIdC5mNPjqKp8NdwvzyHceS.jpg",
-        "posterPath": "/dmFgiPKuwF8gmtAz84LIJmFr03m.jpg",
-        "rating": 7.7,
+        "title": "137号案件",
+        "originalTitle": "Dossier 137",
+        "description": "对于斯特凡妮（Stéphanie）——法国国家警察总督察署（IGPN，即监管警察的机构）的一名调查员来说，第137号案件起初似乎只是又一个普通案件。然而，一个意外因素将困扰斯特凡妮，并使这个案件从一个简单的编号演变为更具深意的存在。",
+        "releaseDate": "2025-11-19",
+        "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
+        "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
+        "rating": 7,
         "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1327819,
-        "type": "tmdb",
-        "title": "河狸变身计划",
-        "originalTitle": "Hoppers",
-        "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
-        "releaseDate": "2026-03-04",
-        "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-        "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-        "rating": 7.581,
-        "mediaType": "movie",
-        "genreTitle": "动画, 家庭"
+        "genreTitle": "犯罪, 剧情"
       },
       {
         "id": 1464533,
@@ -81,56 +68,69 @@
         "genreTitle": "惊悚, 悬疑"
       },
       {
-        "id": 1363090,
+        "id": 1462735,
         "type": "tmdb",
-        "title": "白天是阿波罗，晚上是雅典娜",
-        "originalTitle": "Gündüz Apollon Gece Athena",
-        "description": "德芙尼（Defne）前往古老的地中海城市西戴（Side），在那里遇到了一位革命者、一个妓女、一位女祭司以及其他神秘人物。在他们的指引下，她开始寻找抛弃她的母亲。这部由充满潜力的女导演艾米妮·耶尔迪勒姆（Emine Yildirim）执导的处女作，以西戴为背景。西戴是古希腊的一个殖民地，曾是位于今日安塔利亚附近的繁荣港口城市。电影《日为阿波罗，夜为雅典娜》标题中的两位希腊神祇分别是理性之神太阳神阿波罗和智慧、手工艺及战争女神雅典娜。这部影片是一部充满奇幻色彩的剧情片，讲述了女性与男性、生者与死者的故事。",
-        "releaseDate": "2024-11-02",
-        "backdropPath": "/9otud05pr71WH42e6XKYV47vIGV.jpg",
-        "posterPath": "/iRVkRA3OFqFnoMtkQWS6VmFFFLi.jpg",
-        "rating": 5,
+        "title": "旅途中的日子",
+        "originalTitle": "旅と日々",
+        "description": "改编自柘植义春的漫画《海边的抒景》《混沌洞的笨先生》，讲述郁郁不得志的李编剧因缘际会来到一个大雪纷飞的深山中，误打误撞进入了一家破旧的旅馆。屋顶几乎被积雪压塌，旅馆的老板笨造看起来毫无干劲，旅馆里没有暖气，饭菜也马马虎虎，连床铺都得自己铺。然而，笨造似乎藏着什么秘密。某天晚上，笨造带着李踏入了夜晚雪原……",
+        "releaseDate": "2025-11-07",
+        "backdropPath": "/aJM7KIdC5mNPjqKp8NdwvzyHceS.jpg",
+        "posterPath": "/dmFgiPKuwF8gmtAz84LIJmFr03m.jpg",
+        "rating": 7.7,
         "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
+        "genreTitle": "剧情"
       },
       {
-        "id": 1294698,
+        "id": 1432605,
         "type": "tmdb",
-        "title": "137号案件",
-        "originalTitle": "Dossier 137",
-        "description": "对于斯特凡妮（Stéphanie）——法国国家警察总督察署（IGPN，即监管警察的机构）的一名调查员来说，第137号案件起初似乎只是又一个普通案件。然而，一个意外因素将困扰斯特凡妮，并使这个案件从一个简单的编号演变为更具深意的存在。",
-        "releaseDate": "2025-11-19",
-        "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
-        "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-        "rating": 7,
+        "title": "父影之下",
+        "originalTitle": "My Father's Shadow",
+        "description": "1993年尼日利亚选举危机期间，一对年幼的兄弟随疏离的父亲穿行拉各斯，既目睹了这座城市的庞杂面貌，也亲历父亲在政治动荡中为带他们返乡而陷入的日常挣扎。",
+        "releaseDate": "2025-09-19",
+        "backdropPath": "/sv12y5tWaE4seAy53tMbCapvSE3.jpg",
+        "posterPath": "/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
+        "rating": 7.759,
         "mediaType": "movie",
-        "genreTitle": "犯罪, 剧情"
+        "genreTitle": "剧情"
       },
       {
-        "id": 1226863,
+        "id": 1154538,
         "type": "tmdb",
-        "title": "超级马力欧银河大电影",
-        "originalTitle": "The Super Mario Galaxy Movie",
-        "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-        "releaseDate": "2026-04-01",
-        "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-        "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-        "rating": 6.8,
+        "title": "尼瓦那乐队秀：电影版",
+        "originalTitle": "Nirvanna the Band the Show the Movie",
+        "description": "马特和杰原计划在里沃利剧院演出，但演出搞砸了。意外的是，他们竟因此穿越时空，回到了2008年。面对这突如其来的时空错位，两人在熟悉又陌生的2008年开启了一段奇妙旅程，而这段经历也让他们对生活有了全新感悟。",
+        "releaseDate": "2026-02-13",
+        "backdropPath": "/cQtR06YrlSbg9w7vTFFFc3A6mgv.jpg",
+        "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+        "rating": 7.7,
         "mediaType": "movie",
-        "genreTitle": "家庭, 喜剧"
+        "genreTitle": "喜剧, 科幻"
       },
       {
-        "id": 1383289,
+        "id": 1313229,
         "type": "tmdb",
-        "title": "风中的洛朗",
-        "originalTitle": "Laurent dans le vent",
-        "description": "9岁的洛朗正在寻找人生的意义。他最终来到一个淡季的废弃滑雪场，很快融入了当地少数居民的奇特生活。当冬季来临游客涌入时，洛朗却发现自已已无法抽身……",
-        "releaseDate": "2025-12-31",
-        "backdropPath": "/frYCn9ZOzloE0t41Etb1X5gcTai.jpg",
-        "posterPath": "/49I0knW1Bromoi2hcwawKvyGye6.jpg",
-        "rating": 6.6,
+        "title": "尼诺",
+        "originalTitle": "Nino",
+        "description": "距离人生重大考验只剩三天，尼诺却要先完成医生布置的两项关乎存亡的使命。这场穿越巴黎的救赎之旅，迫使他重新系紧与世界的羁绊，更要直面内心深渊。",
+        "releaseDate": "2025-09-17",
+        "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
+        "posterPath": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
+        "rating": 7.2,
         "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1449863,
+        "type": "tmdb",
+        "title": "佐藤女士与佐藤先生",
+        "originalTitle": "佐藤さんと佐藤さん",
+        "description": "佐藤保和佐藤幸性格截然不同却莫名投缘，一路从相识交往走到结婚生子。保曾多次参加司法考试却屡屡落榜，没想到陪他备考的幸却先通过了考试，成为了职业律师。一边是邋遢的律师妻子，一边是被育儿压得喘不过气的落榜丈夫——这对夫妻之间维持着微妙的平衡，在欢笑与心酸中勾勒出一段真实的爱情故事。本片主演为凭借《惠子，凝视》获得第77届每日电影最佳女主角的岸井雪乃，以及凭借《利己主义者》获得第78届每日电影最佳男配角的宫泽冰鱼。两人的默契演绎为影片注入真实的情感张力，折射出现代社会中人与人之间的沟通困境，探讨了人们与“他人”之间的理解与妥协。",
+        "releaseDate": "2025-11-28",
+        "backdropPath": "/vO0YxmF987FPpRTBeEviOKF4RBZ.jpg",
+        "posterPath": "/vJNZqmzBLRpQPsLCTK7JfdSDSG9.jpg",
+        "rating": 6,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 爱情"
       }
     ],
     "剧集·国内": [
@@ -274,7 +274,7 @@
         "description": "祖国人通过法西斯式的恐怖手段掌控美国，将持不同政见者关押在自由营里。而布彻尔、休伊、安妮和英雄克星则奋起反抗，尽管面临难以克服的重重困难，他们仍竭尽全力，试图阻止他的暴政统治。",
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
+        "posterPath": "/kyjEoVvSxdJjaB9WeJPBExz1unI.jpg",
         "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 9.3,
+        "rating": 8.056,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.5,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -326,7 +326,7 @@
         "description": "新一季将延续第二季的故事，自瑞秋.凯里在全国直播中揭露一段伪造的政府部长视频、暴露情报机构秘密操作项目“修正”以来，已过去一年。在对“修正”计划非法使用的调查期间，凯里成为SO15反恐指挥部的代理负责人，试图通过全新的“真相行动”摄像系统重建公众对监控技术的信任。然而，一场精心策划、极其残忍的恐怖袭击突然爆发，直击英国权力核心，仅留下一位目击者。随着凯里深入调查，她被卷入一场不断扩大的地缘政治危机之中，这场危机渗透至英国政坛、安全机构乃至媒体界。一场巨大的阴谋正悄然展开，但幕后黑手究竟是谁？",
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
-        "posterPath": "/DjxYUhhDTP6v2fngW6YR5Ro4J2.jpg",
+        "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
         "rating": 4.8,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
@@ -339,7 +339,7 @@
         "description": "一群高中生在一个充满毒品、性爱、创伤与社群媒体的世界，探索爱与友谊。",
         "releaseDate": "2026-04-12",
         "backdropPath": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
-        "posterPath": "/2ZMxjpyRvqfNYOXedrfeYn2Bsui.jpg",
+        "posterPath": "/2fQXV9wqD63IrZlfNqMkFzx2pkT.jpg",
         "rating": 6.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
