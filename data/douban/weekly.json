@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-17T20:32:26.495Z",
+  "time": "2026-04-18T20:22:04.675Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.2,
+        "rating": 8.214,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/sv12y5tWaE4seAy53tMbCapvSE3.jpg",
         "posterPath": "/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
-        "rating": 7.759,
+        "rating": 7.733,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -115,14 +115,14 @@
         "releaseDate": "2025-09-17",
         "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
         "posterPath": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
-        "rating": 7.2,
+        "rating": 7.265,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
       {
         "id": 1449863,
         "type": "tmdb",
-        "title": "佐藤女士与佐藤先生",
+        "title": "佐藤妻夫物语",
         "originalTitle": "佐藤さんと佐藤さん",
         "description": "佐藤保和佐藤幸性格截然不同却莫名投缘，一路从相识交往走到结婚生子。保曾多次参加司法考试却屡屡落榜，没想到陪他备考的幸却先通过了考试，成为了职业律师。一边是邋遢的律师妻子，一边是被育儿压得喘不过气的落榜丈夫——这对夫妻之间维持着微妙的平衡，在欢笑与心酸中勾勒出一段真实的爱情故事。本片主演为凭借《惠子，凝视》获得第77届每日电影最佳女主角的岸井雪乃，以及凭借《利己主义者》获得第78届每日电影最佳男配角的宫泽冰鱼。两人的默契演绎为影片注入真实的情感张力，折射出现代社会中人与人之间的沟通困境，探讨了人们与“他人”之间的理解与妥协。",
         "releaseDate": "2025-11-28",
@@ -141,7 +141,7 @@
         "originalTitle": "危险关系",
         "description": "单亲妈妈颜聆在调查闺蜜自杀真相的过程中，意外陷入“情感操控（PUA）”陷阱，爱恨纠葛中，颜聆逐渐觉醒并最终重获新生。",
         "releaseDate": "2026-03-31",
-        "backdropPath": "/cJQXgZErtIeYteJohtubyVEm1Mc.jpg",
+        "backdropPath": "/ioXEfNRd9PaOVhTzgrBs3S5bwaK.jpg",
         "posterPath": "/vNvboIOnzxL3pkI11TQDn21grUY.jpg",
         "rating": 6.7,
         "mediaType": "tv",
@@ -233,7 +233,7 @@
         "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
         "releaseDate": "2026-03-27",
         "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
-        "posterPath": "/kxHncGyYf8NutSD88AHGdwPMs1s.jpg",
+        "posterPath": "/pmx5zZSxr85OL1yOryabM2aqoBs.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -274,8 +274,8 @@
         "description": "祖国人通过法西斯式的恐怖手段掌控美国，将持不同政见者关押在自由营里。而布彻尔、休伊、安妮和英雄克星则奋起反抗，尽管面临难以克服的重重困难，他们仍竭尽全力，试图阻止他的暴政统治。",
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "posterPath": "/kyjEoVvSxdJjaB9WeJPBExz1unI.jpg",
-        "rating": 8.3,
+        "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.056,
+        "rating": 9.111,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-12",
         "backdropPath": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
         "posterPath": "/2fQXV9wqD63IrZlfNqMkFzx2pkT.jpg",
-        "rating": 6.4,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -373,7 +373,7 @@
       {
         "id": 241860,
         "type": "tmdb",
-        "title": "权欲之巅",
+        "title": "权欲之巅 Climax",
         "originalTitle": "클라이맥스",
         "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
         "releaseDate": "2026-03-16",
