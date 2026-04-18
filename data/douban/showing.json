@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-17T17:52:17.779Z",
+  "time": "2026-04-18T17:38:57.785Z",
   "data": [
     {
       "id": 1546855,
@@ -15,6 +15,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1124566,
+      "type": "tmdb",
+      "title": "情感价值",
+      "originalTitle": "Affeksjonsverdi",
+      "description": "Nora和Agnes与疏远的父亲——魅力非凡的导演Gustav重聚。这位昔日名导试图让舞台剧演员Nora参演自己寄予厚望的复出之作，却遭女儿拒绝。Nora很快发现，父亲已将她的角色转给了一位野心勃勃的好莱坞新星。突如其来的变故迫使两姐妹直面与父亲的复杂纠葛，而这位美国明星的加入，更让本就微妙的家庭关系陷入新的波澜。",
+      "releaseDate": "2025-08-20",
+      "backdropPath": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
+      "posterPath": "/1FXbo86BoKBCL1Upovi8k0SPcWh.jpg",
+      "rating": 7.497,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 687163,
       "type": "tmdb",
       "title": "挽救计划",
@@ -23,22 +36,9 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.2,
+      "rating": 8.211,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 1005985,
-      "type": "tmdb",
-      "title": "器子",
-      "originalTitle": "器子",
-      "description": "女儿在三个月大时失踪，疑似被贩婴集团偷走，妻子过度自责后自戕，他为追查真相反被诬陷入狱，出狱后查出女儿是落入活摘器官集团，成为被取走心脏的「器子」。他悲愤难当，对犯罪集团连翻展开以暴制暴的复仇行动，全力营救作为「器子」的女儿。",
-      "releaseDate": "2025-04-11",
-      "backdropPath": "/o0n8l6Itc3vjf9svwHGzC3uuQhZ.jpg",
-      "posterPath": "/prmdcWDzvhKiHKp6naKwADj9KU7.jpg",
-      "rating": 6.074,
-      "mediaType": "movie",
-      "genreTitle": "动作, 剧情"
     },
     {
       "id": 1268919,
@@ -75,22 +75,9 @@
       "releaseDate": "2025-07-23",
       "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
       "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.311,
+      "rating": 7.308,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 1124566,
-      "type": "tmdb",
-      "title": "情感价值",
-      "originalTitle": "Affeksjonsverdi",
-      "description": "Nora和Agnes与疏远的父亲——魅力非凡的导演Gustav重聚。这位昔日名导试图让舞台剧演员Nora参演自己寄予厚望的复出之作，却遭女儿拒绝。Nora很快发现，父亲已将她的角色转给了一位野心勃勃的好莱坞新星。突如其来的变故迫使两姐妹直面与父亲的复杂纠葛，而这位美国明星的加入，更让本就微妙的家庭关系陷入新的波澜。",
-      "releaseDate": "2025-08-20",
-      "backdropPath": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
-      "posterPath": "/1FXbo86BoKBCL1Upovi8k0SPcWh.jpg",
-      "rating": 7.497,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1481955,
@@ -106,6 +93,19 @@
       "genreTitle": "剧情, 音乐"
     },
     {
+      "id": 1226863,
+      "type": "tmdb",
+      "title": "超级马力欧银河大电影",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+      "releaseDate": "2026-04-01",
+      "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
+      "rating": 6.809,
+      "mediaType": "movie",
+      "genreTitle": "家庭, 喜剧"
+    },
+    {
       "id": 1249589,
       "type": "tmdb",
       "title": "天才游戏",
@@ -117,19 +117,6 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "悬疑, 犯罪"
-    },
-    {
-      "id": 1226863,
-      "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "releaseDate": "2026-04-01",
-      "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-      "rating": 6.8,
-      "mediaType": "movie",
-      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 1454209,
@@ -145,6 +132,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1005985,
+      "type": "tmdb",
+      "title": "器子",
+      "originalTitle": "器子",
+      "description": "女儿在三个月大时失踪，疑似被贩婴集团偷走，妻子过度自责后自戕，他为追查真相反被诬陷入狱，出狱后查出女儿是落入活摘器官集团，成为被取走心脏的「器子」。他悲愤难当，对犯罪集团连翻展开以暴制暴的复仇行动，全力营救作为「器子」的女儿。",
+      "releaseDate": "2025-04-11",
+      "backdropPath": "/o0n8l6Itc3vjf9svwHGzC3uuQhZ.jpg",
+      "posterPath": "/prmdcWDzvhKiHKp6naKwADj9KU7.jpg",
+      "rating": 6.074,
+      "mediaType": "movie",
+      "genreTitle": "动作, 剧情"
+    },
+    {
       "id": 1566589,
       "type": "tmdb",
       "title": "蜂蜜的针",
@@ -158,6 +158,19 @@
       "genreTitle": "爱情, 犯罪"
     },
     {
+      "id": 1327819,
+      "type": "tmdb",
+      "title": "河狸变身计划",
+      "originalTitle": "Hoppers",
+      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
+      "releaseDate": "2026-03-04",
+      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
+      "rating": 7.6,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
       "id": 1316092,
       "type": "tmdb",
       "title": "呼啸山庄",
@@ -166,7 +179,7 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.531,
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -182,19 +195,6 @@
       "rating": 5.7,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1327819,
-      "type": "tmdb",
-      "title": "河狸变身计划",
-      "originalTitle": "Hoppers",
-      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
-      "releaseDate": "2026-03-04",
-      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.583,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
     },
     {
       "id": 1657534,
@@ -218,7 +218,7 @@
       "releaseDate": "2026-04-18",
       "backdropPath": "/4QUGnUtYdw7KHkVAWUcH7zjZ3Pm.jpg",
       "posterPath": "/3Y17MhSIdIvg4Q1NUOuB52aIprt.jpg",
-      "rating": 0,
+      "rating": 2,
       "mediaType": "movie",
       "genreTitle": "爱情"
     },
@@ -231,9 +231,22 @@
       "releaseDate": "2025-12-19",
       "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
       "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.404,
+      "rating": 7.405,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
+    },
+    {
+      "id": 1475606,
+      "type": "tmdb",
+      "title": "祭屋",
+      "originalTitle": "祭屋",
+      "description": "方程程陪同未婚夫苏醒来到诡异的老宅见未来公婆，却发现只在半夜三更出现的苏母竟然已去世多年，且从未举办过葬礼。而苏父明明活着，却非要给自己举办一场死亡祭祀……",
+      "releaseDate": "2026-04-17",
+      "backdropPath": "/1bMwCcp7iMr2QZZjjTDj6L7x0Wv.jpg",
+      "posterPath": "/v8sxF0qXfhf5qncrYRpYYWfUzCI.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1303236,
@@ -257,22 +270,9 @@
       "releaseDate": "2025-06-25",
       "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
       "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 8.003,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
-    },
-    {
-      "id": 696393,
-      "type": "tmdb",
-      "title": "绿液惊魂",
-      "originalTitle": "Cold Storage",
-      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
-      "releaseDate": "2026-01-22",
-      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
-      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
-      "rating": 6.729,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 1268630,
@@ -288,6 +288,19 @@
       "genreTitle": "历史, 犯罪"
     },
     {
+      "id": 696393,
+      "type": "tmdb",
+      "title": "绿液惊魂",
+      "originalTitle": "Cold Storage",
+      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
+      "releaseDate": "2026-01-22",
+      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
+      "rating": 6.732,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
+    },
+    {
       "id": 1602727,
       "type": "tmdb",
       "title": "夜王",
@@ -299,19 +312,6 @@
       "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1475606,
-      "type": "tmdb",
-      "title": "祭屋",
-      "originalTitle": "祭屋",
-      "description": "方程程陪同未婚夫苏醒来到诡异的老宅见未来公婆，却发现只在半夜三更出现的苏母竟然已去世多年，且从未举办过葬礼。而苏父明明活着，却非要给自己举办一场死亡祭祀……",
-      "releaseDate": "2026-04-17",
-      "backdropPath": "/1bMwCcp7iMr2QZZjjTDj6L7x0Wv.jpg",
-      "posterPath": "/v8sxF0qXfhf5qncrYRpYYWfUzCI.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1297842,
@@ -366,19 +366,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 83533,
-      "type": "tmdb",
-      "title": "阿凡达：火与烬",
-      "originalTitle": "Avatar: Fire and Ash",
-      "description": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
-      "releaseDate": "2025-12-17",
-      "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-      "posterPath": "/d5jW601WKpT1yTwWsJcYvUwl8cB.jpg",
-      "rating": 7.37,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
-    },
-    {
       "id": 137409,
       "type": "tmdb",
       "title": "寒战",
@@ -405,19 +392,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1662350,
-      "type": "tmdb",
-      "title": "午夜电梯",
-      "originalTitle": "午夜电梯",
-      "description": "影片《午夜电梯》由郑来志导演，朱晚荞、高宏森担任出品人并担任总制片人，王德意、陈媛媛担任制片人，刘博、赵帅领衔主演的恐怖惊悚电影，影片讲述了饱受精神分裂症困扰的女作家李心凌，遇见了神秘的郑承阳之后，经历一番离奇而奇特的恐怖冒险。",
-      "releaseDate": "2026-04-04",
-      "backdropPath": null,
-      "posterPath": "/8DkkS0o2dmOWLaOlAOng5svKkrr.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
-    },
-    {
       "id": 416249,
       "type": "tmdb",
       "title": "寒战2",
@@ -429,6 +403,19 @@
       "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
+    },
+    {
+      "id": 1662350,
+      "type": "tmdb",
+      "title": "午夜电梯",
+      "originalTitle": "午夜电梯",
+      "description": "影片《午夜电梯》由郑来志导演，朱晚荞、高宏森担任出品人并担任总制片人，王德意、陈媛媛担任制片人，刘博、赵帅领衔主演的恐怖惊悚电影，影片讲述了饱受精神分裂症困扰的女作家李心凌，遇见了神秘的郑承阳之后，经历一番离奇而奇特的恐怖冒险。",
+      "releaseDate": "2026-04-04",
+      "backdropPath": null,
+      "posterPath": "/8DkkS0o2dmOWLaOlAOng5svKkrr.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1650257,
@@ -455,19 +442,6 @@
       "rating": 8.205,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1497873,
-      "type": "tmdb",
-      "title": "翠湖",
-      "originalTitle": "翠湖",
-      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
-      "releaseDate": "2026-01-24",
-      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
-      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1357815,
@@ -509,17 +483,17 @@
       "genreTitle": "喜剧, 奇幻"
     },
     {
-      "id": 485289,
+      "id": 1421552,
       "type": "tmdb",
-      "title": "重返·狼群",
-      "originalTitle": "重返·狼群",
-      "description": "美女画家李微漪在一次草原采风中意外收养了狼王遗孤，为其取名格林，并带回成都喂养。但繁华的都市无法容纳一匹野性的草原狼，李微漪带着格林重返草原，一路追寻狼群的踪迹，历经严寒酷雪，终于目送它成功地重返狼群。",
-      "releaseDate": "2017-06-16",
-      "backdropPath": "/1LtZ3PZiC57fTVKfsUbgxXAYpE5.jpg",
-      "posterPath": "/k51M8AtA3mVj0TMcH9a6CjQd3GC.jpg",
-      "rating": 6.3,
+      "title": "熊猫计划之部落奇遇记",
+      "originalTitle": "熊猫计划之部落奇遇记",
+      "description": "熊猫“糊糊”即将搬进全新熊猫馆，突发遭遇国际劫匪，大哥在和劫匪搏斗过程中坠入山崖，醒来后却意外发现置身神奇部落。大家为了能够回到熊猫馆，这个有趣的“组合”帮助部落解决种种难题...",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/bnXeBvYaurIqP0ESAAHUIZjIB0o.jpg",
+      "posterPath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
+      "rating": 5.8,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "喜剧, 动作"
     },
     {
       "id": 10191,
@@ -533,19 +507,6 @@
       "rating": 7.857,
       "mediaType": "movie",
       "genreTitle": "奇幻, 冒险"
-    },
-    {
-      "id": 1421552,
-      "type": "tmdb",
-      "title": "熊猫计划之部落奇遇记",
-      "originalTitle": "熊猫计划之部落奇遇记",
-      "description": "熊猫“糊糊”即将搬进全新熊猫馆，突发遭遇国际劫匪，大哥在和劫匪搏斗过程中坠入山崖，醒来后却意外发现置身神奇部落。大家为了能够回到熊猫馆，这个有趣的“组合”帮助部落解决种种难题...",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/bnXeBvYaurIqP0ESAAHUIZjIB0o.jpg",
-      "posterPath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
-      "rating": 5.8,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动作"
     },
     {
       "id": 559974,
@@ -569,22 +530,9 @@
       "releaseDate": "2011-05-25",
       "backdropPath": "/7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg",
       "posterPath": "/nlHxaqtPc0SJgjbCxYbP5t3GQBa.jpg",
-      "rating": 7.059,
+      "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1632606,
-      "type": "tmdb",
-      "title": "团圆令",
-      "originalTitle": "团圆令",
-      "description": "因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
-      "releaseDate": "2026-02-28",
-      "backdropPath": "/2iLo3T05HP0G9kRGp5PY1VVDuXV.jpg",
-      "posterPath": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
     }
   ]
 }
