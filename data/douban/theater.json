@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-19T18:39:28.629Z",
+  "time": "2026-04-20T18:56:44.247Z",
   "data": {
     "爱奇艺·迷雾剧场": [
       {
@@ -72,7 +72,7 @@
         "type": "tmdb",
         "title": "暗潮缉凶",
         "originalTitle": "暗潮缉凶",
-        "description": "曾经的国营大厂旭日厂内，一具断足女尸在废弃污水池中被意外发现，死者是职工子女沈小舟。外丧内热的中年刑警连海平和毛躁热血的菜鸟警察石强锋意外成为搭档，虽互有嫌隙但须联手寻找真凶。随着一个个嫌疑人进入调查视野，二人发现，原来在外表白衣胜雪的大学生受害者背后，竟触及到了许多出人意料的社会层面。与此同时，一桩与两人牵绊至深的陈年旧案也逐渐浮出水面，连海平与石强锋的关系因“一桩旧案”、“一段往事”变得扑朔迷离。案件悬而未决之际，断足女尸案接连发生，给往日充满了烟火气的旭日厂蒙上了一层阴影。连海平也警觉地发现有一股势力在刻意引导着警方的调查方向，迷雾似见光明，暗潮早已涌动。",
+        "description": "曾经朝气蓬勃的国营大厂旭日厂内，一具断足女尸在废弃污水池中被意外发现，死者是厂职工子女、品学兼优的大学生沈小舟（杨肸子 饰）。外丧内热的中年刑警连海平（陈建斌 饰）与毛躁热血的“菜鸟”警察石强锋（陈若轩 饰）意外成为搭档，虽互有嫌隙但须联手寻找真凶。\n\n随着一个个嫌疑人进入调查视野，二人发现，在外表白衣胜雪的大学生受害者背后，竟触及到了违规排污、整容贷骗局、网络暴力等诸多出人意料的社会层面。与此同时，一桩与两人牵绊至深的陈年旧案也逐渐浮出水面——石强锋怀疑连海平当年抛弃了其母亲，二人的关系因“一桩旧案”“一段往事”变得扑朔迷离。\n\n案件悬而未决之际，断足女尸案接连发生，给往日充满了烟火气的旭日厂蒙上了一层阴影。连海平也警觉地发现有一股势力在刻意引导着警方的调查方向。迷雾似见光明，暗潮早已涌动……",
         "releaseDate": "2025-07-31",
         "backdropPath": "/aFBgDwXLxdbkb1ULUG2FZiuqtj1.jpg",
         "posterPath": "/8rWLq4ri7j0Z86ALmlZz74XgEmo.jpg",
@@ -494,7 +494,7 @@
         "releaseDate": "2024-09-03",
         "backdropPath": "/w63L1IOedvSv19Oq61ohJlrPDTJ.jpg",
         "posterPath": "/pcJQmbSk5xwXYTj4M9A8xa5vm9p.jpg",
-        "rating": 8.375,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
@@ -507,7 +507,7 @@
         "releaseDate": "2024-08-16",
         "backdropPath": "/zWZJV304xSYKa2KRs73jyhnlz1c.jpg",
         "posterPath": "/fhlimtLNQKYdvgArV3aXCiB49RI.jpg",
-        "rating": 7.444,
+        "rating": 7.321,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -533,7 +533,7 @@
         "releaseDate": "2024-05-06",
         "backdropPath": "/anQDG7v1D6vRKAXIuNbc2PsGnmW.jpg",
         "posterPath": "/fDuC8THHGITyZcKpw3D4GmJYglf.jpg",
-        "rating": 7.1,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -836,7 +836,7 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/cA8pX6GhKBvgdo1tAiyetEMDMCk.jpg",
         "posterPath": "/oj688ZRAnYQrcqk59euex7laL10.jpg",
-        "rating": 4.8,
+        "rating": 5.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
