@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-20T03:29:18.306Z",
+  "time": "2026-04-20T20:33:14.765Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-03-21",
         "backdropPath": "/sc2Q8HwhUOb49IfbkHHvi8dB7yy.jpg",
         "posterPath": "/Z4PcigZfdhrU2via1XrdSrEq4G.jpg",
-        "rating": 6.6,
+        "rating": 6.833,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.215,
+        "rating": 8.222,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-12-26",
         "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
         "posterPath": "/fpx5DNWYiXHLLWdV9uGxMnepVvb.jpg",
-        "rating": 7.484,
+        "rating": 7.469,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -127,7 +127,7 @@
         "description": "佐藤保和佐藤幸性格截然不同却莫名投缘，一路从相识交往走到结婚生子。保曾多次参加司法考试却屡屡落榜，没想到陪他备考的幸却先通过了考试，成为了职业律师。一边是邋遢的律师妻子，一边是被育儿压得喘不过气的落榜丈夫——这对夫妻之间维持着微妙的平衡，在欢笑与心酸中勾勒出一段真实的爱情故事。本片主演为凭借《惠子，凝视》获得第77届每日电影最佳女主角的岸井雪乃，以及凭借《利己主义者》获得第78届每日电影最佳男配角的宫泽冰鱼。两人的默契演绎为影片注入真实的情感张力，折射出现代社会中人与人之间的沟通困境，探讨了人们与“他人”之间的理解与妥协。",
         "releaseDate": "2025-11-28",
         "backdropPath": "/vO0YxmF987FPpRTBeEviOKF4RBZ.jpg",
-        "posterPath": "/vJNZqmzBLRpQPsLCTK7JfdSDSG9.jpg",
+        "posterPath": "/uDs91HbqiLNOITxBQhkFZjzdWCM.jpg",
         "rating": 6,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
@@ -156,7 +156,7 @@
         "releaseDate": "2026-03-16",
         "backdropPath": "/wrbCLyF2njQtjGw5Js3JAOV69J5.jpg",
         "posterPath": "/ueuFQumoj6YDePVSCqErrDxsC9Y.jpg",
-        "rating": 9,
+        "rating": 8.75,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
-        "rating": 8.2,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/77q82tMWRYbV2DTcR8Z3KrOfG3I.jpg",
-        "rating": 3.1,
+        "rating": 4.9,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 9.111,
+        "rating": 9.091,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
         "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
-        "rating": 4.8,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-12",
         "backdropPath": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
         "posterPath": "/2fQXV9wqD63IrZlfNqMkFzx2pkT.jpg",
-        "rating": 6.7,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
