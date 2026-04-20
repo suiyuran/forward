@@ -116,9 +116,31 @@ export async function getDoubanMatchedTMDBResult(
       return findResult;
     }
   }
-  const seasonNumbers = ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十"];
+  const seasonNumbers = [
+    "零",
+    "一",
+    "二",
+    "三",
+    "四",
+    "五",
+    "六",
+    "七",
+    "八",
+    "九",
+    "十",
+    "十一",
+    "十二",
+    "十三",
+    "十四",
+    "十五",
+    "十六",
+    "十七",
+    "十八",
+    "十九",
+    "二十",
+  ];
 
-  if (type === "movie" || (type === "tv" && !title.match(/(\d{1}|第[零一二三四五六七八九十]季)$/))) {
+  if (type === "movie" || (type === "tv" && !title.match(/(\d{1}|第[零一二三四五六七八九十]+季)$/))) {
     const searchResults = await searchTMDBResults(type, title, year);
     const searchResult = searchResults.find((result) => result.title === title && result.releaseDate === releaseDate);
 
@@ -145,7 +167,7 @@ export async function getDoubanMatchedTMDBResult(
       }
     }
   } else {
-    const match = title.match(/(.*?)(\d{1}|第[零一二三四五六七八九十]季)$/)!;
+    const match = title.match(/(.*?)(\d{1}|第[零一二三四五六七八九十]+季)$/)!;
     const seriesTitle = match[1].trim();
     const seasonNumber = match[2].includes("季")
       ? seasonNumbers.indexOf(match[2].replace("第", "").replace("季", ""))

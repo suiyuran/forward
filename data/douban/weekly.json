@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-19T20:23:12.564Z",
+  "time": "2026-04-20T03:29:18.306Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.222,
+        "rating": 8.215,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-09-17",
         "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
         "posterPath": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
-        "rating": 7.265,
+        "rating": 7.306,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
-        "rating": 8.1,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/77q82tMWRYbV2DTcR8Z3KrOfG3I.jpg",
-        "rating": 1,
+        "rating": 3.1,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -371,15 +371,28 @@
         "genreTitle": "喜剧, 犯罪"
       },
       {
+        "id": 55582,
+        "type": "tmdb",
+        "title": "孤独的美食家",
+        "originalTitle": "孤独のグルメ",
+        "description": "本次是继 2022 年 10 月播出的第 10 季后，时隔约 3 年半推出的全新常规季！五郎究竟会在怎样的街头，与怎样的店铺、人物，以及怎样的极品美食相遇？",
+        "releaseDate": "2026-04-03",
+        "backdropPath": "/n61sgsYJj02oO4AWFWLrGq9toqe.jpg",
+        "posterPath": "/uFuLv8Ta9XyXomfFphDSHZWwirp.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 241860,
         "type": "tmdb",
-        "title": "权欲之巅 Climax",
+        "title": "权欲之巅",
         "originalTitle": "클라이맥스",
         "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
         "releaseDate": "2026-03-16",
         "backdropPath": "/ynixwhYEcDrYRr5Jft0LNqAQERQ.jpg",
         "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
-        "rating": 7.857,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       }
