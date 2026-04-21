@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-20T18:00:16.431Z",
+  "time": "2026-04-21T17:59:51.636Z",
   "data": [
     {
       "id": 687163,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.2,
+      "rating": 8.226,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
     },
@@ -23,7 +23,7 @@
       "releaseDate": "2026-03-21",
       "backdropPath": "/sc2Q8HwhUOb49IfbkHHvi8dB7yy.jpg",
       "posterPath": "/Z4PcigZfdhrU2via1XrdSrEq4G.jpg",
-      "rating": 6.6,
+      "rating": 6.833,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -32,7 +32,7 @@
       "type": "tmdb",
       "title": "情感价值",
       "originalTitle": "Affeksjonsverdi",
-      "description": "Nora和Agnes与疏远的父亲——魅力非凡的导演Gustav重聚。这位昔日名导试图让舞台剧演员Nora参演自己寄予厚望的复出之作，却遭女儿拒绝。Nora很快发现，父亲已将她的角色转给了一位野心勃勃的好莱坞新星。突如其来的变故迫使两姐妹直面与父亲的复杂纠葛，而这位美国明星的加入，更让本就微妙的家庭关系陷入新的波澜。",
+      "description": "舞台剧演员诺拉（雷娜特·赖因斯夫 饰）在母亲离世后，突然迎来了生命中长期缺席的父亲古斯塔夫（斯特兰·斯卡斯加德 饰）。这位知名导演携带着自诩为“生涯最佳”的剧本不请自来，不仅执意邀请诺拉担任新片女主角，更坚持要在承载着家族记忆的北欧老宅取景。那栋宛如童话般梦幻的建筑，正是诺拉与妹妹阿格尼丝（英加·伊布斯多特·利勒亚斯 饰）的成长之地。面对这位早已抛弃家庭的父亲，诺拉斩钉截铁地表示拒绝。对她而言，二人之间没有和解的余地。直到仰慕古斯塔夫的好莱坞明星蕾切尔（艾丽·范宁 饰）代替她出演片中主角，事情逐渐往意想不到的方向发展：这个破碎家庭的“情感价值”开始以一种微妙的方式进行“重估” 。",
       "releaseDate": "2025-08-20",
       "backdropPath": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "posterPath": "/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
@@ -88,22 +88,9 @@
       "releaseDate": "2025-07-23",
       "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
       "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.298,
+      "rating": 7.292,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 1226863,
-      "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "releaseDate": "2026-04-01",
-      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-      "rating": 6.8,
-      "mediaType": "movie",
-      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 1481955,
@@ -119,6 +106,19 @@
       "genreTitle": "剧情, 音乐"
     },
     {
+      "id": 1226863,
+      "type": "tmdb",
+      "title": "超级马力欧银河大电影",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+      "releaseDate": "2026-04-01",
+      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
+      "rating": 6.756,
+      "mediaType": "movie",
+      "genreTitle": "家庭, 喜剧"
+    },
+    {
       "id": 1249589,
       "type": "tmdb",
       "title": "天才游戏",
@@ -132,17 +132,17 @@
       "genreTitle": "悬疑, 犯罪"
     },
     {
-      "id": 1327819,
+      "id": 1316092,
       "type": "tmdb",
-      "title": "河狸变身计划",
-      "originalTitle": "Hoppers",
-      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
-      "releaseDate": "2026-03-04",
-      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.585,
+      "title": "呼啸山庄",
+      "originalTitle": "\"Wuthering Heights\"",
+      "description": "故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
+      "rating": 6.532,
       "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
+      "genreTitle": "爱情, 剧情"
     },
     {
       "id": 1566589,
@@ -158,6 +158,19 @@
       "genreTitle": "爱情, 犯罪"
     },
     {
+      "id": 1327819,
+      "type": "tmdb",
+      "title": "河狸变身计划",
+      "originalTitle": "Hoppers",
+      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
+      "releaseDate": "2026-03-04",
+      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
+      "rating": 7.581,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
       "id": 1657534,
       "type": "tmdb",
       "title": "蝴蝶楼·惊魂",
@@ -169,19 +182,6 @@
       "rating": 4,
       "mediaType": "movie",
       "genreTitle": "惊悚, 恐怖"
-    },
-    {
-      "id": 1316092,
-      "type": "tmdb",
-      "title": "呼啸山庄",
-      "originalTitle": "\"Wuthering Heights\"",
-      "description": "故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.5,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 剧情"
     },
     {
       "id": 1470918,
@@ -231,7 +231,7 @@
       "releaseDate": "2025-12-19",
       "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
       "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.403,
+      "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -244,22 +244,9 @@
       "releaseDate": "2025-06-25",
       "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
       "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 8,
+      "rating": 7.971,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
-    },
-    {
-      "id": 1475606,
-      "type": "tmdb",
-      "title": "祭屋",
-      "originalTitle": "祭屋",
-      "description": "方程程陪同未婚夫苏醒来到诡异的老宅见未来公婆，却发现只在半夜三更出现的苏母竟然已去世多年，且从未举办过葬礼。而苏父明明活着，却非要给自己举办一场死亡祭祀……",
-      "releaseDate": "2026-04-17",
-      "backdropPath": "/1bMwCcp7iMr2QZZjjTDj6L7x0Wv.jpg",
-      "posterPath": "/v8sxF0qXfhf5qncrYRpYYWfUzCI.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1303236,
@@ -275,6 +262,19 @@
       "genreTitle": "犯罪, 动作"
     },
     {
+      "id": 1475606,
+      "type": "tmdb",
+      "title": "祭屋",
+      "originalTitle": "祭屋",
+      "description": "方程程陪同未婚夫苏醒来到诡异的老宅见未来公婆，却发现只在半夜三更出现的苏母竟然已去世多年，且从未举办过葬礼。而苏父明明活着，却非要给自己举办一场死亡祭祀……",
+      "releaseDate": "2026-04-17",
+      "backdropPath": "/1bMwCcp7iMr2QZZjjTDj6L7x0Wv.jpg",
+      "posterPath": "/v8sxF0qXfhf5qncrYRpYYWfUzCI.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
+    },
+    {
       "id": 1268630,
       "type": "tmdb",
       "title": "搜查瑠公圳",
@@ -286,19 +286,6 @@
       "rating": 5,
       "mediaType": "movie",
       "genreTitle": "历史, 犯罪"
-    },
-    {
-      "id": 696393,
-      "type": "tmdb",
-      "title": "绿液惊魂",
-      "originalTitle": "Cold Storage",
-      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
-      "releaseDate": "2026-01-22",
-      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
-      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
-      "rating": 6.75,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 1602727,
@@ -314,43 +301,17 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1305781,
+      "id": 696393,
       "type": "tmdb",
-      "title": "镖人：风起大漠",
-      "originalTitle": "镖人：风起大漠",
-      "description": "大漠之上，镖人、官府、西域五大家族等多方势力盘根错节、暗潮涌动。“天字第二号逃犯”刀马接下特殊押镖任务，和同伴一起从西域护镖远赴长安。不料，他们的护送对象竟是“天字第一号逃犯”知世郎……天下熙熙皆为利来，各方势力闻风入局，抢镖厮杀接连上演……",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
-      "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-      "rating": 7.2,
+      "title": "绿液惊魂",
+      "originalTitle": "Cold Storage",
+      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
+      "releaseDate": "2026-01-22",
+      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
+      "rating": 6.769,
       "mediaType": "movie",
-      "genreTitle": "动作, 剧情"
-    },
-    {
-      "id": 1297842,
-      "type": "tmdb",
-      "title": "奇迹梦之队",
-      "originalTitle": "GOAT",
-      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.913,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1462229,
-      "type": "tmdb",
-      "title": "飞驰人生3",
-      "originalTitle": "飞驰人生3",
-      "description": "巴音布鲁克最后一站收官后，张驰（沈腾 饰）受邀作为车队主教练征战全新赛事“沐尘100拉力赛”，“野生车手”走上国际舞台！面对高手如云的全新赛道，孙宇强（尹正 饰）、记星（张本煜 饰）一如既往协同作战，林臻东（黄景瑜 饰）等实力车手应邀强势集结，一支凝聚了顶配速度与信念的车队就此成立！然而，张驰发现真正的挑战仿佛并非来自比赛本身，赛场之外暗流涌动，让他们飞驰之路充满变数……",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/rLHFufd3gALwHay1Sxl3MjbGQ7E.jpg",
-      "posterPath": "/cL5vAK6bUHYWTOnypi34mzzWI8X.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
+      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 1653289,
@@ -366,6 +327,45 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1305781,
+      "type": "tmdb",
+      "title": "镖人：风起大漠",
+      "originalTitle": "镖人：风起大漠",
+      "description": "大漠之上，镖人、官府、西域五大家族等多方势力盘根错节、暗潮涌动。“天字第二号逃犯”刀马接下特殊押镖任务，和同伴一起从西域护镖远赴长安。不料，他们的护送对象竟是“天字第一号逃犯”知世郎……天下熙熙皆为利来，各方势力闻风入局，抢镖厮杀接连上演……",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+      "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
+      "rating": 7.2,
+      "mediaType": "movie",
+      "genreTitle": "动作, 剧情"
+    },
+    {
+      "id": 1462229,
+      "type": "tmdb",
+      "title": "飞驰人生3",
+      "originalTitle": "飞驰人生3",
+      "description": "巴音布鲁克最后一站收官后，张驰（沈腾 饰）受邀作为车队主教练征战全新赛事“沐尘100拉力赛”，“野生车手”走上国际舞台！面对高手如云的全新赛道，孙宇强（尹正 饰）、记星（张本煜 饰）一如既往协同作战，林臻东（黄景瑜 饰）等实力车手应邀强势集结，一支凝聚了顶配速度与信念的车队就此成立！然而，张驰发现真正的挑战仿佛并非来自比赛本身，赛场之外暗流涌动，让他们飞驰之路充满变数……",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/rLHFufd3gALwHay1Sxl3MjbGQ7E.jpg",
+      "posterPath": "/cL5vAK6bUHYWTOnypi34mzzWI8X.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1297842,
+      "type": "tmdb",
+      "title": "奇迹梦之队",
+      "originalTitle": "GOAT",
+      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
+      "rating": 7.903,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
+    },
+    {
       "id": 1447971,
       "type": "tmdb",
       "title": "惊蛰无声",
@@ -379,17 +379,30 @@
       "genreTitle": "犯罪, 惊悚"
     },
     {
-      "id": 1662350,
+      "id": 1678020,
       "type": "tmdb",
-      "title": "午夜电梯",
-      "originalTitle": "午夜电梯",
-      "description": "影片《午夜电梯》由郑来志导演，朱晚荞、高宏森担任出品人并担任总制片人，王德意、陈媛媛担任制片人，刘博、赵帅领衔主演的恐怖惊悚电影，影片讲述了饱受精神分裂症困扰的女作家李心凌，遇见了神秘的郑承阳之后，经历一番离奇而奇特的恐怖冒险。",
-      "releaseDate": "2026-04-04",
-      "backdropPath": null,
-      "posterPath": "/8DkkS0o2dmOWLaOlAOng5svKkrr.jpg",
+      "title": "这，就是青春",
+      "originalTitle": "这，就是青春",
+      "description": "影片根据“七一勋章”获得者、时代楷模、全国优秀共产党员黄文秀在长治学院求学期间典型事迹改编，讲述了她寻梦太行、成长成才、信仰养成的故事，生动再现了她从青涩学子成长为优秀共产党员的精神蜕变轨迹。",
+      "releaseDate": "2026-04-20",
+      "backdropPath": "/bt8RNc1I4DefGmwhEI4JGNkKtO9.jpg",
+      "posterPath": "/dzIOhRs8ufEfdWbfmBbuHWgbUOB.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1662256,
+      "type": "tmdb",
+      "title": "勇者无疆",
+      "originalTitle": "勇者无疆",
+      "description": "影片根据“100位新中国成立以来感动中国人物”之一，“最美奋斗者”罗盛教的真实事迹改编。 参与抗美援朝战争的罗盛教是侦察连的一位文书，紧张的战斗期间，他和抗美援朝的各位志愿军战士不仅要面对敌军的猛烈攻击，还要在物资匮乏、环境恶劣的情况下克服种种困难，在修筑机场的过程当中，他和志愿军战士用乐观坚韧的精神一次又一次的抵抗敌军的侵略，为抗美援朝战争做出了巨大贡献。在一次日常训练时，罗盛教发现一名不慎跌入冰窟的孩童，面对-20℃的天气，罗盛教想都没想便跳入了冰窟当中，用自己的全身力气将孩童托起，最终因体力耗尽英勇牺牲。 每一位志愿军战士都在保家卫国的道路上付出了巨大的努力和牺牲，他们的事迹和精神永远激励着每一个人！",
+      "releaseDate": "2026-04-22",
+      "backdropPath": "/fArULAIfPBG6mRMX6yXjslK1kWP.jpg",
+      "posterPath": "/5ENxl6xf3YUpcoUFVz4AebdHVi4.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 战争"
     },
     {
       "id": 694,
@@ -405,17 +418,17 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 1650257,
+      "id": 1662350,
       "type": "tmdb",
-      "title": "哀牢山",
-      "originalTitle": "哀牢山",
-      "description": "哀牢山灵异事件轰动一时，来自六名露营的高校学生，前往云南哀牢山原始森林。谁也没有想到一次平常的露营探险任务，竟然成了一次诡异的死亡序曲。他们进入哀牢山地带仅仅过去几天，就全部无人生还。比较离奇的是，当搜救者发现这几位遇难者时，有两位遇难者的死状非常诡异！",
-      "releaseDate": "2026-03-13",
+      "title": "午夜电梯",
+      "originalTitle": "午夜电梯",
+      "description": "影片《午夜电梯》由郑来志导演，朱晚荞、高宏森担任出品人并担任总制片人，王德意、陈媛媛担任制片人，刘博、赵帅领衔主演的恐怖惊悚电影，影片讲述了饱受精神分裂症困扰的女作家李心凌，遇见了神秘的郑承阳之后，经历一番离奇而奇特的恐怖冒险。",
+      "releaseDate": "2026-04-04",
       "backdropPath": null,
-      "posterPath": "/WxFFMxkAUplYMjbcYntEUsZewk.jpg",
+      "posterPath": "/8DkkS0o2dmOWLaOlAOng5svKkrr.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
+      "genreTitle": "惊悚, 恐怖"
     },
     {
       "id": 1497873,
@@ -431,17 +444,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1607088,
+      "id": 1650257,
       "type": "tmdb",
-      "title": "熊出没·年年有熊",
-      "originalTitle": "熊出没·年年有熊",
-      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
-      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
-      "rating": 5,
+      "title": "哀牢山",
+      "originalTitle": "哀牢山",
+      "description": "哀牢山灵异事件轰动一时，来自六名露营的高校学生，前往云南哀牢山原始森林。谁也没有想到一次平常的露营探险任务，竟然成了一次诡异的死亡序曲。他们进入哀牢山地带仅仅过去几天，就全部无人生还。比较离奇的是，当搜救者发现这几位遇难者时，有两位遇难者的死状非常诡异！",
+      "releaseDate": "2026-03-13",
+      "backdropPath": null,
+      "posterPath": "/WxFFMxkAUplYMjbcYntEUsZewk.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 奇幻"
+      "genreTitle": "悬疑, 惊悚"
     },
     {
       "id": 10191,
@@ -455,19 +468,6 @@
       "rating": 7.857,
       "mediaType": "movie",
       "genreTitle": "奇幻, 冒险"
-    },
-    {
-      "id": 1357815,
-      "type": "tmdb",
-      "title": "时间旅馆",
-      "originalTitle": "时间旅馆",
-      "description": "小说家李唐（张本煜 饰）接到昔日恋人高丽（王佳佳 饰）的电话，被告知她要来他所在的城市出差三天。在这三天里，他们一起回到了过去，体验了当下，演绎了未来。在他们即将告别时，高丽带着李唐来到玄武湖，她讲述起一件往事，李唐对此错愕无言，恍然间不知当下是何时……",
-      "releaseDate": "2026-03-20",
-      "backdropPath": "/qqAZlGWYcuRIv5Ty4HJx0praYsX.jpg",
-      "posterPath": "/gEXH8EQPaAhADjoKreM68CL28hP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 559974,
@@ -496,17 +496,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1351168,
+      "id": 1607088,
       "type": "tmdb",
-      "title": "蓝海",
-      "originalTitle": "蓝海",
-      "description": "在一个安静的海边小村里，活泼好动的小女孩小葵有很多梦想，她既渴望和朋友们玩耍，又渴望帮助母亲红菊表演“茂腔”戏。由于小葵的父亲从海上失踪，红菊独自承担起支撑家庭的重担。她最闪亮的一刻就是登上舞台，成为一名茂腔演员。但现在，由于很少有人对传统戏剧感兴趣，加上小葵生病，他们的生活突然陷入动荡。虽然这部电影描绘了不可避免的痛苦和失落时刻，但它的真正主题是恢复力--我们如何从这样的时刻中恢复过来。就像飘浮在村庄周围的气球，希望出海的人能平安归来，痛苦在他们的生活中无处不在，但彼此对幸福的美好祝愿也是如此。《蓝海》是一部充满这种善意的诗意新现实主义浪漫派暖心电影。",
-      "releaseDate": "2026-03-25",
-      "backdropPath": "/hUtb0S3xSiYDFvmbUp2dP0iDjX5.jpg",
-      "posterPath": "/v3oGyxua3Ne5TNtCICbgtysSfrk.jpg",
-      "rating": 7,
+      "title": "熊出没·年年有熊",
+      "originalTitle": "熊出没·年年有熊",
+      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
+      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
+      "rating": 5,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "喜剧, 奇幻"
     },
     {
       "id": 1632606,
@@ -520,6 +520,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1650266,
+      "type": "tmdb",
+      "title": "神头岭1938",
+      "originalTitle": "神头岭1938",
+      "description": "电影围绕主角靳万福展开，以“神头岭伏击战”为蓝本，再现那段波澜壮阔的抗战历史，将对深入挖掘革命老区红色资源，激励广大人民群众从红色资源中汲取精神滋养和前进力量起到积极的推动作用。",
+      "releaseDate": "2026-03-13",
+      "backdropPath": "/pLGkR6RjyD5ezoOTTmq3aNlcVBK.jpg",
+      "posterPath": "/q7yOS4mNBQQ4eTziZaW1EdUFZIE.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 历史"
     },
     {
       "id": 1002640,
