@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-20T20:33:14.765Z",
+  "time": "2026-04-21T20:37:46.667Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.222,
+        "rating": 8.226,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-12-26",
         "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
         "posterPath": "/fpx5DNWYiXHLLWdV9uGxMnepVvb.jpg",
-        "rating": 7.469,
+        "rating": 7.516,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-10-31",
         "backdropPath": "/qcqIsy9TUlyibicNgycMookPE04.jpg",
         "posterPath": "/auMmOTF2zGDtZs9dQtoPQVxygV3.jpg",
-        "rating": 8.8,
+        "rating": 8.583,
         "mediaType": "movie",
         "genreTitle": "惊悚, 悬疑"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/sv12y5tWaE4seAy53tMbCapvSE3.jpg",
         "posterPath": "/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
-        "rating": 7.733,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 9.091,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-12",
         "backdropPath": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
         "posterPath": "/2fQXV9wqD63IrZlfNqMkFzx2pkT.jpg",
-        "rating": 6.8,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -386,7 +386,7 @@
       {
         "id": 241860,
         "type": "tmdb",
-        "title": "权欲之巅",
+        "title": "权欲之巅 Climax",
         "originalTitle": "클라이맥스",
         "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
         "releaseDate": "2026-03-16",
