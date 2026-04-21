@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-20T18:56:44.247Z",
+  "time": "2026-04-21T19:03:34.260Z",
   "data": {
     "爱奇艺·迷雾剧场": [
       {
@@ -21,7 +21,7 @@
         "title": "有罪之身",
         "originalTitle": "有罪之身",
         "description": "1999年，政法大学学生陆鸣（魏大勋 饰）、夏雪（孙千 饰）与发小林华（高至霆 饰）回到家乡楠平市。暑假期间，船厂老板马德荣（吴刚 饰）之子马科（扈天翼 饰）纠缠夏雪未果，竟在情人峰对夏雪实施侵害。陆鸣与林华赶到后与马科发生冲突，混乱中夏雪失手将马科打死。三人惊慌埋尸之际，山下的船厂突发爆炸，夏雪父亲夏钢（石文中 饰）在事故中丧生，而爆炸产生的无名尸体恰好被误认为马科，命案暂时得以掩盖。然而，记录杀人过程的摄像机落入马科手下手中，三人从此被勒索、威胁，人生轨迹彻底偏离。\n\n　　十八年间，陆鸣为守护夏雪放弃前程，在灰色地带游走；夏雪为换取二人安全，被迫与马德荣达成交易，嫁给秘书侯军（王龙正 饰），隐忍抚养女儿；林华则自我囚禁于海边灯塔，守护着当年的秘密。2010年，夏雪女儿侯珊珊（卢雅熙 饰）遭人绑架，尘封旧案重新浮出水面。随着警方调查深入，矿难黑幕、权力庇护、人性挣扎层层剥开——原来当年的爆炸案背后另有真凶，而所有人都在这场跨越十八年的罪与罚中，成为无法逃脱的“有罪之身”。",
-        "releaseDate": "2026-01-28",
+        "releaseDate": "2026-01-27",
         "backdropPath": "/6Vr1InH5TksuRSvEGjP2e1oV5ea.jpg",
         "posterPath": "/2XVSrurMxtdPWHLxYuoZsfuftVi.jpg",
         "rating": 8.3,
@@ -37,7 +37,7 @@
         "releaseDate": "2025-11-01",
         "backdropPath": "/cunN5mAX79YuJbvlckRftcoIe62.jpg",
         "posterPath": "/2ilIbodMYijMA0XnyfH852mth10.jpg",
-        "rating": 7.333,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -381,6 +381,19 @@
       }
     ],
     "优酷·白夜剧场": [
+      {
+        "id": 254498,
+        "type": "tmdb",
+        "title": "黑夜告白",
+        "originalTitle": "黑夜告白",
+        "description": "1997年，一桩电梯失踪案，将刑警何远航（潘粤明 饰）、冉方旭（王鹤棣 饰）卷入迷雾。经历波折，两人也曾陷入迷茫与怀疑，最终揭开真相。岁月流转，治愈人生迷惘，坚守正义，以乐观坚韧化解磨难。",
+        "releaseDate": "2026-04-26",
+        "backdropPath": "/fPQljDQuMsFO4BkcGb4s0459Lbr.jpg",
+        "posterPath": "/qUhPr2XpczJpnQnXIqJjYaCxOli.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "犯罪"
+      },
       {
         "id": 262957,
         "type": "tmdb",
