@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-20T17:00:38.236Z",
+  "time": "2026-04-21T16:56:24.865Z",
   "data": {
     "星期日": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/nTDL4UmMLDBCeMtYh8F1LZtgmLV.jpg",
         "posterPath": "/ukjJ1nFjdmZwJMlEteWPShB5XH1.jpg",
-        "rating": 8.6,
+        "rating": 8.593,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -113,7 +113,7 @@
         "originalTitle": "ワンピース",
         "description": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
         "releaseDate": "1999-10-20",
-        "backdropPath": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+        "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
         "rating": 8.7,
         "mediaType": "tv",
@@ -193,7 +193,7 @@
         "releaseDate": "2026-04-05",
         "backdropPath": "/m4RWzJwv5xm8K6lIgIOdRBScxhn.jpg",
         "posterPath": "/lGyQoPUOqeTKhtu2HfBnmiojIQe.jpg",
-        "rating": 8.375,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -221,7 +221,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
         "posterPath": "/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-        "rating": 8.588,
+        "rating": 8.667,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -260,7 +260,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
         "posterPath": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
-        "rating": 7.625,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -299,9 +299,22 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/Ag6VnSAb1g02YWHYxYFKRUiBtnc.jpg",
         "posterPath": "/1bBCTwdIDdau06vQaNWc7bHErqq.jpg",
-        "rating": 8.667,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
+      },
+      {
+        "id": 255760,
+        "type": "tmdb",
+        "title": "凯文",
+        "originalTitle": "Kevin",
+        "description": "由联合创作者奥布里·普拉扎创作的《凯文》是一个关于寻找自己归属的幽默又温馨的故事。在人类主人意外分手后，可爱且神经质的家猫凯文（由杰森·施瓦茨曼饰演）搬进了当地的宠物救助中心，一群混乱的怪兽帮助凯文了解真正的自我和他想要的生活。",
+        "releaseDate": "2026-04-20",
+        "backdropPath": "/uTjjlqLdhRppddN4eCjMZlp387z.jpg",
+        "posterPath": "/ryvkioE754XooFO16s9SZyHZulu.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
       }
     ],
     "星期二": [
@@ -327,7 +340,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
         "posterPath": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-        "rating": 7.875,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -364,7 +377,7 @@
         "originalTitle": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。",
         "description": "“要是……我成了最差劲的女王，记得杀了我喔。”主角“普莱朵·罗耶尔·艾比”是一位八岁的公主。她察觉到自己前世是个出生在日本普通家庭，随处可见的平凡少女。而现在的她则是女性向游戏中作恶多端的最后头目女王……她转生到的是女性向游戏——《你与一线光芒》的世界。在游戏的故事中，普莱朵会成为最恶劣的女王，折磨国家与人民。她注意到自己是这种最后头目后，靠着沉迷游玩游戏的记忆，努力达成只有自己能办到的“避免悲剧”。避免今后即将发生的悲剧、以所有登场角色都能幸福的世界为目标，为了国家与人民竭尽全力，一流反派公主避免成为最后头目的奇幻故事登场！",
         "releaseDate": "2023-07-07",
-        "backdropPath": "/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+        "backdropPath": "/jbxYoxP2CB0X8OAnzydOFDObebq.jpg",
         "posterPath": "/fLjtutjdnS5jS5ZZ7Oyxf6X011K.jpg",
         "rating": 8.1,
         "mediaType": "tv",
@@ -431,7 +444,7 @@
         "originalTitle": "ワンピース",
         "description": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
         "releaseDate": "1999-10-20",
-        "backdropPath": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+        "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
         "rating": 8.7,
         "mediaType": "tv",
@@ -459,7 +472,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/wpsLsjCcIf3QexYO6pCaLm9PI0Z.jpg",
         "posterPath": "/94v7cg3LnULwc5JrjSPl8dQaRCA.jpg",
-        "rating": 8.4,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -472,7 +485,7 @@
         "releaseDate": "2017-07-12",
         "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
         "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
-        "rating": 8.405,
+        "rating": 8.404,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -524,7 +537,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/99lQDI1BvQSuCsZnBs319aF5vy8.jpg",
         "posterPath": "/wQFbXbQ33b2CWx6n1eR4xEJx3Wu.jpg",
-        "rating": 8.071,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -786,7 +799,7 @@
         "releaseDate": "2026-04-16",
         "backdropPath": "/wBT1pkBkZk9jkytbxUghIDWEq8T.jpg",
         "posterPath": "/defMsGyon7Zhnt9iIDfhxDnakDK.jpg",
-        "rating": 8.5,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -799,7 +812,7 @@
         "releaseDate": "2025-11-06",
         "backdropPath": "/pXdkJvhBcPf8oEj831ASMkLPXKT.jpg",
         "posterPath": "/vWULYz6Pp5vDevVVBawVDZcgKJh.jpg",
-        "rating": 6.6,
+        "rating": 6.611,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -933,7 +946,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8,
+        "rating": 7.999,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -1011,7 +1024,7 @@
         "releaseDate": "2026-04-04",
         "backdropPath": "/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
         "posterPath": "/7DwXtgv3ngMM3BDLlK2nHiwLyHp.jpg",
-        "rating": 8.867,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1024,7 +1037,7 @@
         "releaseDate": "2026-04-12",
         "backdropPath": "/4z5e2mW2W2qo5F0GyqDcWAhZfVU.jpg",
         "posterPath": "/mJzB2PngDGNFqrApfqrvKZmwM6v.jpg",
-        "rating": 5.333,
+        "rating": 5.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1102,7 +1115,7 @@
         "releaseDate": "2026-04-05",
         "backdropPath": "/dot1NI6F5IrLck8xWIOn74ieaDH.jpg",
         "posterPath": "/z0BUpIh50GCN0EytvodWdkHTWZ.jpg",
-        "rating": 7.667,
+        "rating": 7.25,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
