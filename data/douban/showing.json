@@ -1,19 +1,6 @@
 {
-  "time": "2026-04-21T17:59:51.636Z",
+  "time": "2026-04-22T18:01:41.639Z",
   "data": [
-    {
-      "id": 687163,
-      "type": "tmdb",
-      "title": "挽救计划",
-      "originalTitle": "Project Hail Mary",
-      "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
-      "releaseDate": "2026-03-15",
-      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.226,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
-    },
     {
       "id": 1546855,
       "type": "tmdb",
@@ -28,6 +15,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 687163,
+      "type": "tmdb",
+      "title": "挽救计划",
+      "originalTitle": "Project Hail Mary",
+      "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
+      "releaseDate": "2026-03-15",
+      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
+      "rating": 8.2,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 冒险"
+    },
+    {
       "id": 1124566,
       "type": "tmdb",
       "title": "情感价值",
@@ -36,7 +36,7 @@
       "releaseDate": "2025-08-20",
       "backdropPath": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "posterPath": "/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
-      "rating": 7.5,
+      "rating": 7.496,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -88,7 +88,7 @@
       "releaseDate": "2025-07-23",
       "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
       "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.292,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
@@ -114,7 +114,7 @@
       "releaseDate": "2026-04-01",
       "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-      "rating": 6.756,
+      "rating": 6.749,
       "mediaType": "movie",
       "genreTitle": "家庭, 喜剧"
     },
@@ -140,9 +140,22 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.532,
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
+    },
+    {
+      "id": 1327819,
+      "type": "tmdb",
+      "title": "河狸变身计划",
+      "originalTitle": "Hoppers",
+      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
+      "releaseDate": "2026-03-04",
+      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
+      "rating": 7.585,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
     },
     {
       "id": 1566589,
@@ -158,19 +171,6 @@
       "genreTitle": "爱情, 犯罪"
     },
     {
-      "id": 1327819,
-      "type": "tmdb",
-      "title": "河狸变身计划",
-      "originalTitle": "Hoppers",
-      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
-      "releaseDate": "2026-03-04",
-      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.581,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
-    },
-    {
       "id": 1657534,
       "type": "tmdb",
       "title": "蝴蝶楼·惊魂",
@@ -184,19 +184,6 @@
       "genreTitle": "惊悚, 恐怖"
     },
     {
-      "id": 1470918,
-      "type": "tmdb",
-      "title": "不能错过的只有你2",
-      "originalTitle": "不能错过的只有你2",
-      "description": "主要讲述了主人公余晚空在他的旅途中偶然遇到了一个境遇相似的女子，并决定与她一起前往美丽的大凉山。在相处的过程中，他们不仅解决了彼此之间的问题，还为家乡带来了积极的影响",
-      "releaseDate": "2026-04-18",
-      "backdropPath": "/4QUGnUtYdw7KHkVAWUcH7zjZ3Pm.jpg",
-      "posterPath": "/3Y17MhSIdIvg4Q1NUOuB52aIprt.jpg",
-      "rating": 2,
-      "mediaType": "movie",
-      "genreTitle": "爱情"
-    },
-    {
       "id": 1249668,
       "type": "tmdb",
       "title": "拼桌",
@@ -208,6 +195,19 @@
       "rating": 5.7,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1470918,
+      "type": "tmdb",
+      "title": "不能错过的只有你2",
+      "originalTitle": "不能错过的只有你2",
+      "description": "主要讲述了主人公余晚空在他的旅途中偶然遇到了一个境遇相似的女子，并决定与她一起前往美丽的大凉山。在相处的过程中，他们不仅解决了彼此之间的问题，还为家乡带来了积极的影响",
+      "releaseDate": "2026-04-18",
+      "backdropPath": "/4QUGnUtYdw7KHkVAWUcH7zjZ3Pm.jpg",
+      "posterPath": "/3Y17MhSIdIvg4Q1NUOuB52aIprt.jpg",
+      "rating": 2,
+      "mediaType": "movie",
+      "genreTitle": "爱情"
     },
     {
       "id": 1454209,
@@ -231,7 +231,7 @@
       "releaseDate": "2025-12-19",
       "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
       "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.4,
+      "rating": 7.399,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -262,6 +262,32 @@
       "genreTitle": "犯罪, 动作"
     },
     {
+      "id": 1268630,
+      "type": "tmdb",
+      "title": "搜查瑠公圳",
+      "originalTitle": "搜查瑠公圳",
+      "description": "不愿受将军父亲庇护的叛逆警探，面对受陷害成为女分尸命案凶手的父亲，携手备受歧视妇幼线女记者，在全民热议与媒体编造报导下追查事件真相，却发现…凶手似乎另有其人？ ！",
+      "releaseDate": "2025-05-22",
+      "backdropPath": "/pyg46sZg60RrO5k8MwWfsQYmokU.jpg",
+      "posterPath": "/4pgaOLGKY9klkPwtOFLQCOse1o7.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "历史, 犯罪"
+    },
+    {
+      "id": 696393,
+      "type": "tmdb",
+      "title": "绿液惊魂",
+      "originalTitle": "Cold Storage",
+      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
+      "releaseDate": "2026-01-22",
+      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
+      "rating": 6.8,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
+    },
+    {
       "id": 1475606,
       "type": "tmdb",
       "title": "祭屋",
@@ -275,17 +301,17 @@
       "genreTitle": "惊悚, 恐怖"
     },
     {
-      "id": 1268630,
+      "id": 1497873,
       "type": "tmdb",
-      "title": "搜查瑠公圳",
-      "originalTitle": "搜查瑠公圳",
-      "description": "不愿受将军父亲庇护的叛逆警探，面对受陷害成为女分尸命案凶手的父亲，携手备受歧视妇幼线女记者，在全民热议与媒体编造报导下追查事件真相，却发现…凶手似乎另有其人？ ！",
-      "releaseDate": "2025-05-22",
-      "backdropPath": "/pyg46sZg60RrO5k8MwWfsQYmokU.jpg",
-      "posterPath": "/4pgaOLGKY9klkPwtOFLQCOse1o7.jpg",
-      "rating": 5,
+      "title": "翠湖",
+      "originalTitle": "翠湖",
+      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
+      "releaseDate": "2026-01-24",
+      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
+      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+      "rating": 7,
       "mediaType": "movie",
-      "genreTitle": "历史, 犯罪"
+      "genreTitle": "剧情"
     },
     {
       "id": 1602727,
@@ -301,17 +327,17 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 696393,
+      "id": 1305781,
       "type": "tmdb",
-      "title": "绿液惊魂",
-      "originalTitle": "Cold Storage",
-      "description": "两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
-      "releaseDate": "2026-01-22",
-      "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
-      "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
-      "rating": 6.769,
+      "title": "镖人：风起大漠",
+      "originalTitle": "镖人：风起大漠",
+      "description": "大漠之上，镖人、官府、西域五大家族等多方势力盘根错节、暗潮涌动。“天字第二号逃犯”刀马接下特殊押镖任务，和同伴一起从西域护镖远赴长安。不料，他们的护送对象竟是“天字第一号逃犯”知世郎……天下熙熙皆为利来，各方势力闻风入局，抢镖厮杀接连上演……",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+      "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
+      "rating": 7.2,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
+      "genreTitle": "动作, 剧情"
     },
     {
       "id": 1653289,
@@ -327,19 +353,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1305781,
-      "type": "tmdb",
-      "title": "镖人：风起大漠",
-      "originalTitle": "镖人：风起大漠",
-      "description": "大漠之上，镖人、官府、西域五大家族等多方势力盘根错节、暗潮涌动。“天字第二号逃犯”刀马接下特殊押镖任务，和同伴一起从西域护镖远赴长安。不料，他们的护送对象竟是“天字第一号逃犯”知世郎……天下熙熙皆为利来，各方势力闻风入局，抢镖厮杀接连上演……",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
-      "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-      "rating": 7.2,
-      "mediaType": "movie",
-      "genreTitle": "动作, 剧情"
-    },
-    {
       "id": 1462229,
       "type": "tmdb",
       "title": "飞驰人生3",
@@ -353,19 +366,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1297842,
-      "type": "tmdb",
-      "title": "奇迹梦之队",
-      "originalTitle": "GOAT",
-      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.903,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
-    },
-    {
       "id": 1447971,
       "type": "tmdb",
       "title": "惊蛰无声",
@@ -374,9 +374,22 @@
       "releaseDate": "2026-02-17",
       "backdropPath": "/tNfhsO5CdMRzThEx3XlkTEp808Q.jpg",
       "posterPath": "/cPdZiwjdLel5DD7Nm99FcSsXuSr.jpg",
-      "rating": 6.857,
+      "rating": 6.9,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
+    },
+    {
+      "id": 1297842,
+      "type": "tmdb",
+      "title": "奇迹梦之队",
+      "originalTitle": "GOAT",
+      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
+      "rating": 7.9,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1678020,
@@ -418,32 +431,6 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 1662350,
-      "type": "tmdb",
-      "title": "午夜电梯",
-      "originalTitle": "午夜电梯",
-      "description": "影片《午夜电梯》由郑来志导演，朱晚荞、高宏森担任出品人并担任总制片人，王德意、陈媛媛担任制片人，刘博、赵帅领衔主演的恐怖惊悚电影，影片讲述了饱受精神分裂症困扰的女作家李心凌，遇见了神秘的郑承阳之后，经历一番离奇而奇特的恐怖冒险。",
-      "releaseDate": "2026-04-04",
-      "backdropPath": null,
-      "posterPath": "/8DkkS0o2dmOWLaOlAOng5svKkrr.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
-    },
-    {
-      "id": 1497873,
-      "type": "tmdb",
-      "title": "翠湖",
-      "originalTitle": "翠湖",
-      "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
-      "releaseDate": "2026-01-24",
-      "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
-      "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1650257,
       "type": "tmdb",
       "title": "哀牢山",
@@ -457,6 +444,19 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
+      "id": 1662350,
+      "type": "tmdb",
+      "title": "午夜电梯",
+      "originalTitle": "午夜电梯",
+      "description": "影片《午夜电梯》由郑来志导演，朱晚荞、高宏森担任出品人并担任总制片人，王德意、陈媛媛担任制片人，刘博、赵帅领衔主演的恐怖惊悚电影，影片讲述了饱受精神分裂症困扰的女作家李心凌，遇见了神秘的郑承阳之后，经历一番离奇而奇特的恐怖冒险。",
+      "releaseDate": "2026-04-04",
+      "backdropPath": null,
+      "posterPath": "/8DkkS0o2dmOWLaOlAOng5svKkrr.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
+    },
+    {
       "id": 10191,
       "type": "tmdb",
       "title": "驯龙高手",
@@ -468,6 +468,19 @@
       "rating": 7.857,
       "mediaType": "movie",
       "genreTitle": "奇幻, 冒险"
+    },
+    {
+      "id": 1607088,
+      "type": "tmdb",
+      "title": "熊出没·年年有熊",
+      "originalTitle": "熊出没·年年有熊",
+      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
+      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 奇幻"
     },
     {
       "id": 559974,
@@ -496,19 +509,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1607088,
-      "type": "tmdb",
-      "title": "熊出没·年年有熊",
-      "originalTitle": "熊出没·年年有熊",
-      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
-      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 奇幻"
-    },
-    {
       "id": 1632606,
       "type": "tmdb",
       "title": "团圆令",
@@ -520,19 +520,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 1650266,
-      "type": "tmdb",
-      "title": "神头岭1938",
-      "originalTitle": "神头岭1938",
-      "description": "电影围绕主角靳万福展开，以“神头岭伏击战”为蓝本，再现那段波澜壮阔的抗战历史，将对深入挖掘革命老区红色资源，激励广大人民群众从红色资源中汲取精神滋养和前进力量起到积极的推动作用。",
-      "releaseDate": "2026-03-13",
-      "backdropPath": "/pLGkR6RjyD5ezoOTTmq3aNlcVBK.jpg",
-      "posterPath": "/q7yOS4mNBQQ4eTziZaW1EdUFZIE.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 历史"
     },
     {
       "id": 1002640,
