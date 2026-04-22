@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-21T16:56:24.865Z",
+  "time": "2026-04-22T16:55:06.619Z",
   "data": {
     "星期日": [
       {
@@ -76,7 +76,7 @@
         "releaseDate": "2026-04-12",
         "backdropPath": "/tR8AoRgTCLS0y0iI1Eou8vZylfq.jpg",
         "posterPath": "/rH1tLxuyG1Ad6GXswveI7ROIa31.jpg",
-        "rating": 8.667,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -179,7 +179,7 @@
         "description": "打开镜之契约盒，凭妆容与穿搭，华丽变身时尚亮眼的我！\n\n这就是偶像公主・爱噗哩！\n\n刚搬到许愿镇的好实祈，是个超热爱能歌善舞的「爱噗哩」的初一女生！\n\n「请给我成为爱噗哩的机会吧！」\n\n就在祈对着广场的女神像许愿时，偶然邂逅了当红人气爱噗哩小葵，还有玩偶般软萌的福啾。\n\n小葵说，她正在寻找能帮福啾实现愿望的爱噗哩。\n\n打开小葵赠予的专属镜之契约盒……祈，终于迎来了梦寐以求的爱噗哩出道！\n\n小葵和福啾说，她们在祈的身上感受到了命运的羁绊……今后，在爱噗哩的世界里，会有怎样的邂逅在等待着她呢？\n\n在你心底的最深处，那道熠熠闪光的「心愿」，是什么呢？\n\n就让我们用闪耀的舞台演出，实现大家所有的心愿吧！",
         "releaseDate": "2026-04-05",
         "backdropPath": null,
-        "posterPath": "/xC6fvTM9flhnXli8eyANelbm5gh.jpg",
+        "posterPath": "/jLmoLyNogj8EoZoX263391UYHS.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
@@ -198,17 +198,17 @@
         "genreTitle": "动画, 剧情"
       },
       {
-        "id": 236534,
+        "id": 76806,
         "type": "tmdb",
-        "title": "牧神记",
-        "originalTitle": "牧神记",
-        "description": "主角秦牧，幼时被一女尸托举至涌江边并被司婆婆捡到，村长根据玉佩上的字为其取名为“秦牧”。被一只母牛哺乳长大，是天生凡体，但被村长骗为霸体，修炼霸体三丹功。后走出大墟闯荡，进入京城，拜入太学院。历经考验成为天魔教教主，并被延康国封为第一任太学博士。秦牧在延康国叛乱之战中引来魔神，掀起浩荡风云，后随武可汗入楼兰黄金宫，一个人打遍圣宫无敌手，麻翻无数大巫，盗走无数珍宝。后返回延康，助国师平叛、入京城斩杀太子、造射日神炮。秦牧得人皇传承成为新一代人皇。机缘巧合下遇到了亲生父亲，揭开了自己的身世，借助道门小玉京等人的帮助，开启了道法神通改革的大世。一步步逐渐成长，作为延康变法三杰之一，为芸芸众生而战。",
-        "releaseDate": "2024-10-27",
-        "backdropPath": "/d4jlYsNCqlO8MPlRj4yLua58Ir0.jpg",
-        "posterPath": "/jPHitNQ1fuKK6aPZ6eCPiFq9XhG.jpg",
-        "rating": 8.2,
+        "title": "妖神记",
+        "originalTitle": "妖神记",
+        "description": "妖神重生，谁与争锋。这是一个妖灵的世界，人们猎杀妖兽，获取妖灵，将妖灵融入灵魂海中，就可以获得强大的力量",
+        "releaseDate": "2017-05-09",
+        "backdropPath": "/h0JkZDewPtKylxrWyyKg5LfbsCN.jpg",
+        "posterPath": "/1YzVxVFGGskTPNm31Je266Mtrne.jpg",
+        "rating": 8.4,
         "mediaType": "tv",
-        "genreTitle": "动画, Sci-Fi & Fantasy"
+        "genreTitle": "动画, 动作冒险"
       }
     ],
     "星期一": [
@@ -221,7 +221,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
         "posterPath": "/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-        "rating": 8.667,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -286,7 +286,7 @@
         "releaseDate": "2023-01-06",
         "backdropPath": "/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
         "posterPath": "/t38KxGkJD7JnCuD4pCgul0mI5RO.jpg",
-        "rating": 7.553,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -312,7 +312,7 @@
         "releaseDate": "2026-04-20",
         "backdropPath": "/uTjjlqLdhRppddN4eCjMZlp387z.jpg",
         "posterPath": "/ryvkioE754XooFO16s9SZyHZulu.jpg",
-        "rating": 8,
+        "rating": 6.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -392,7 +392,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/lmJKqQMBrRYDwm5zCoubnQHl8rH.jpg",
         "posterPath": "/vSMNi73O92Ga4jZKb9cDkhwhxuW.jpg",
-        "rating": 8.333,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -485,7 +485,7 @@
         "releaseDate": "2017-07-12",
         "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
         "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
-        "rating": 8.404,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -498,7 +498,7 @@
         "releaseDate": "2016-04-04",
         "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
         "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
-        "rating": 7.846,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -511,7 +511,7 @@
         "releaseDate": "2025-04-02",
         "backdropPath": "/epPoqwhas9lhZasJ9yVYJod2GQa.jpg",
         "posterPath": "/2uYmx5q5wILjzXmDZmPdRKD03gs.jpg",
-        "rating": 6.847,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -708,7 +708,7 @@
         "releaseDate": "2026-04-03",
         "backdropPath": "/5XnCFHGrBCDsZCH4Aihr4PsNXBe.jpg",
         "posterPath": "/yy9gsBKHX9PHq17mJhhm2yVKh8g.jpg",
-        "rating": 6,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -866,7 +866,7 @@
         "releaseDate": "2018-10-02",
         "backdropPath": "/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
         "posterPath": "/t0dG685BBauz3X687FEjlt8FnMK.jpg",
-        "rating": 8.4,
+        "rating": 8.402,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -1076,7 +1076,7 @@
         "releaseDate": "2026-04-04",
         "backdropPath": "/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
         "posterPath": "/n9DzK2EKckkkNrPVw5xlgt9nt9V.jpg",
-        "rating": 9,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1102,7 +1102,7 @@
         "releaseDate": "2026-04-04",
         "backdropPath": "/lM6zDzORMUFQgvYVbPWj5LxtR8W.jpg",
         "posterPath": "/lHGyS1Ks0QdTtqw3aMjsdTbCC6T.jpg",
-        "rating": 8.333,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1115,7 +1115,7 @@
         "releaseDate": "2026-04-05",
         "backdropPath": "/dot1NI6F5IrLck8xWIOn74ieaDH.jpg",
         "posterPath": "/z0BUpIh50GCN0EytvodWdkHTWZ.jpg",
-        "rating": 7.25,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
