@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-21T20:37:46.667Z",
+  "time": "2026-04-22T20:40:45.895Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.226,
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-12-26",
         "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
         "posterPath": "/fpx5DNWYiXHLLWdV9uGxMnepVvb.jpg",
-        "rating": 7.516,
+        "rating": 7.523,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2025-11-19",
         "backdropPath": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
         "posterPath": "/yeq4WtyPk4tSPp0EAOw1pMCy9LI.jpg",
-        "rating": 7,
+        "rating": 6.997,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -100,7 +100,7 @@
         "originalTitle": "Nirvanna the Band the Show the Movie",
         "description": "马特和杰原计划在里沃利剧院演出，但演出搞砸了。意外的是，他们竟因此穿越时空，回到了2008年。面对这突如其来的时空错位，两人在熟悉又陌生的2008年开启了一段奇妙旅程，而这段经历也让他们对生活有了全新感悟。",
         "releaseDate": "2026-02-13",
-        "backdropPath": "/cQtR06YrlSbg9w7vTFFFc3A6mgv.jpg",
+        "backdropPath": "/gYxOlYtLvGNrzYm6kQBcY5mqKja.jpg",
         "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
         "rating": 7.7,
         "mediaType": "movie",
@@ -161,58 +161,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 270857,
-        "type": "tmdb",
-        "title": "隐身的名字",
-        "originalTitle": "隐身的名字",
-        "description": "一个随意的名字。一个被偷走的名字。一个不属于她的名字。一个不敢再提起的名字。一个从不曾被忘记的名字。任小名一直很讨厌自己的名字，但即使再讨厌，那也是她在这个世界上存在的证明，是她成为她自己的前提。她要把被偷走的名字抢回来。这个名字不仅仅属于她自己，也属于很多人。那些隐身的名字，湮没在柴米油盐的烟火里，品头论足的批评里，漫长难熬的岁月里，失去了身份。但总有人记得她们，也总有人沿着她们的脚步继续走下去，直到她们的名字被所有人看见。一个关于两代女性的挣扎与救赎的故事。",
-        "releaseDate": "2026-03-18",
-        "backdropPath": "/7eVMRGq6CLYvszBrhPGteRBtzWA.jpg",
-        "posterPath": "/1ZWhG04PRpqaLbHj0oIpnTVZMmu.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 275631,
-        "type": "tmdb",
-        "title": "非常检控观",
-        "originalTitle": "非常檢控觀",
-        "description": "检控官包希仁因患有镜反射触觉症而拥有极致同理心， 这驱使他为民作主、伸张正义，因而成为大公无私、不畏强权的新时代父母官。他和警察展熊飞贯彻现代司法的警检协作 制度，携手为受害者伸冤，上庭前就做到铁证如山，令被告俯首认罪，成就88%认罪率和99%定罪率的灭罪传奇！",
-        "releaseDate": "2026-01-19",
-        "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
-        "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 281495,
-        "type": "tmdb",
-        "title": "除恶",
-        "originalTitle": "除恶",
-        "description": "一个偏僻闭塞的沿海小镇，被一袋消失的毒品打破沉寂，一场“自杀式拯救”正式拉开序幕。一个是意外卷入毒品交易现场的女刑警胡文静（任素汐 饰），一个是为救女儿不计代价的普通父亲程恳（王骁 饰），一个是一心想要逃离小镇生活的野心家李晓雅（蔡文静 饰），一个是被毒品吞噬而走向异途的姐弟王萍（董晴 饰）王安（朱嘉琦 饰）。欲望与贪念交织成的茧细细密密困住了每一个人，无人能够全身而退。",
-        "releaseDate": "2026-02-23",
-        "backdropPath": "/gc9ySDlKwKnwlEw6km6KUXM44Yq.jpg",
-        "posterPath": "/zLm6n7JlMkRB3Z54ZIlCtrjiCWT.jpg",
-        "rating": 8.4,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 悬疑"
-      },
-      {
-        "id": 300239,
-        "type": "tmdb",
-        "title": "动物园",
-        "originalTitle": "動物園",
-        "description": "任职广告公司的朱欣葵，在职场中磨练出超抗压人格。眼见事业正要起飞，却遭遇各种不顺，先是惹毛了大客户、男友无理取闹，还被公司打入冷宫。此时，寿山动物园公开招标，希望更新品牌形象，这正是她翻身的最后希望，但却没想到条件是要亲身担任实习保育员！过往熟悉的办公室法则全派不上场，面对动物和人类同事们，前辈苏冠州尤其难搞，第一天就想回家的她怀疑，自己真的能在这里存活下来吗？",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
-        "posterPath": "/9VdgDtCNfIRKURWfx6yo3KJ9M5x.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
         "id": 261675,
         "type": "tmdb",
         "title": "家事法庭",
@@ -239,6 +187,71 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 275631,
+        "type": "tmdb",
+        "title": "非常检控观",
+        "originalTitle": "非常檢控觀",
+        "description": "检控官包希仁因患有镜反射触觉症而拥有极致同理心， 这驱使他为民作主、伸张正义，因而成为大公无私、不畏强权的新时代父母官。他和警察展熊飞贯彻现代司法的警检协作 制度，携手为受害者伸冤，上庭前就做到铁证如山，令被告俯首认罪，成就88%认罪率和99%定罪率的灭罪传奇！",
+        "releaseDate": "2026-01-19",
+        "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
+        "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 300239,
+        "type": "tmdb",
+        "title": "动物园",
+        "originalTitle": "動物園",
+        "description": "任职广告公司的朱欣葵，在职场中磨练出超抗压人格。眼见事业正要起飞，却遭遇各种不顺，先是惹毛了大客户、男友无理取闹，还被公司打入冷宫。此时，寿山动物园公开招标，希望更新品牌形象，这正是她翻身的最后希望，但却没想到条件是要亲身担任实习保育员！过往熟悉的办公室法则全派不上场，面对动物和人类同事们，前辈苏冠州尤其难搞，第一天就想回家的她怀疑，自己真的能在这里存活下来吗？",
+        "releaseDate": "2026-02-20",
+        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
+        "posterPath": "/9VdgDtCNfIRKURWfx6yo3KJ9M5x.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 283961,
+        "type": "tmdb",
+        "title": "你是迟来的欢喜",
+        "originalTitle": "你是迟来的欢喜",
+        "description": "阮喻放弃稳定的工作以自己的情感经历为原型创作小说并发布在网上，但没想到被网友指出有抄袭嫌疑。阮喻决定维权但合作的律师正好是她高中的暗恋对象、也是自己小说男主的原型许淮颂。两人因案子重逢，在相处过程中再次相互吸引，这段多年沉淀的感情在回忆下发酵，也在现实的考验中更加坚定。面对各自事业上的新挑战，两人并肩作战，相互鼓励，最终迎来了事业与爱情上“迟来的欢喜”。",
+        "releaseDate": "2026-03-26",
+        "backdropPath": "/cWs510A3RhRL8KiUhSgIaDTCyIx.jpg",
+        "posterPath": "/yWD7slh3uKb9LZNKokSo84zD7xa.jpg",
+        "rating": 6.5,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 270857,
+        "type": "tmdb",
+        "title": "隐身的名字",
+        "originalTitle": "隐身的名字",
+        "description": "一个随意的名字。一个被偷走的名字。一个不属于她的名字。一个不敢再提起的名字。一个从不曾被忘记的名字。任小名一直很讨厌自己的名字，但即使再讨厌，那也是她在这个世界上存在的证明，是她成为她自己的前提。她要把被偷走的名字抢回来。这个名字不仅仅属于她自己，也属于很多人。那些隐身的名字，湮没在柴米油盐的烟火里，品头论足的批评里，漫长难熬的岁月里，失去了身份。但总有人记得她们，也总有人沿着她们的脚步继续走下去，直到她们的名字被所有人看见。一个关于两代女性的挣扎与救赎的故事。",
+        "releaseDate": "2026-03-18",
+        "backdropPath": "/7eVMRGq6CLYvszBrhPGteRBtzWA.jpg",
+        "posterPath": "/1ZWhG04PRpqaLbHj0oIpnTVZMmu.jpg",
+        "rating": 7.5,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 281392,
+        "type": "tmdb",
+        "title": "钢铁森林",
+        "originalTitle": "钢铁森林",
+        "description": "海州市通河岸边，五年前“8·17”大案的全新线索浮出水面。南城公安分局侦查员周瑾（蔡文静 饰）因其兄周川是该案中不幸殉职的两名特警之一，主动请缨投入追查。在犯罪心理学教授江寒声（井柏然 饰）的帮助下，警方锁定了以神秘人“老蝎”为首的犯罪集团。与此同时，执行“藏锋行动”长达五年之久的卧底民警蒋诚（秦俊杰 饰），也已摸进敌人核心，距“老蝎”仅有一步之遥。\n\n为了将犯罪集团一网打尽，周瑾、江寒声、蒋诚三个曾在栀子巷中一起长大的年轻人，在各自岗位上竭尽所能，与不法分子斗智斗勇，凭借正义、勇气和智慧战胜邪恶。在这场跨越时间与谜团的重重阻碍中，三人被迫卷入以情感为筹码、以人心为赌注的危险博弈，埋藏心底的隐痛与难解的命运谜题也在案件推进中逐步揭开。",
+        "releaseDate": "2026-04-03",
+        "backdropPath": "/6p2BAwHKgIQfkoRdqVf3apf9ON9.jpg",
+        "posterPath": "/abKwcuNbavcIGEFGTtLV11GT0dZ.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 犯罪"
+      },
+      {
         "id": 244189,
         "type": "tmdb",
         "title": "向流星许愿的我们",
@@ -250,19 +263,6 @@
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 280822,
-        "type": "tmdb",
-        "title": "你好1983",
-        "originalTitle": "你好1983",
-        "description": "36岁的现代女高管夏晓兰陷入了公司暴雷要她顶缸的绝境，绝望之余她迷迷糊糊之际穿越成了18岁的美貌村妞！无钱无权无依靠，可有颜有妈有青春。灵活的头脑，总是能创造绝境逢生的奇迹。夏晓兰一步一步向前走，她要拼命寻找求学机会，深知“知识改变命运”是经年不变的途径，她通过自己的努力，克服重重困难考上了心仪的大学。她还开启创业模式，从卖鸭蛋、卖油饼这种无本生意起步，倒卖服装、进军房地产……迅速盘起生意经。 一手是学习，一手是生意，在这个过程中，她也遇到了酸甜如杨梅冰般的爱情。这个时空中的夏晓兰，一改从前的软弱退缩，主动拥抱命运。她身边有最好的爱人，身后有至亲的亲人和朋友，有非血亲却疼爱她的长辈和恩师。还有热爱的事业、创业奋斗而来的财富、有回报社会的初心。夏晓兰的重生，是一场脱胎换骨的涅槃，是一次在商海快意恩仇的冒险。是历经时代变迁、命运起伏后懂得，无论从前或现在，只有决心和勇气才是真正的金手指。无畏挑战，昂首向前，终将得偿所愿。",
-        "releaseDate": "2026-03-17",
-        "backdropPath": "/d9s5SlGLnOWqWy2DHmdFoG4ZUKm.jpg",
-        "posterPath": "/j8rOn9MSKJ8tAuqOjTOzLsa0oqu.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
       }
     ],
     "剧集·国外": [
@@ -275,7 +275,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
-        "rating": 8.1,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -293,19 +293,6 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 278573,
-        "type": "tmdb",
-        "title": "21世纪大君夫人",
-        "originalTitle": "21세기 대군부인",
-        "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
-        "releaseDate": "2026-04-10",
-        "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-        "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 9.1,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
         "id": 287527,
         "type": "tmdb",
         "title": "证词",
@@ -314,7 +301,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.7,
+        "rating": 6.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -332,6 +319,32 @@
         "genreTitle": "犯罪, 剧情"
       },
       {
+        "id": 289424,
+        "type": "tmdb",
+        "title": "努力克服自卑的我们",
+        "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
+        "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
+        "releaseDate": "2026-04-18",
+        "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
+        "rating": 9.2,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 278573,
+        "type": "tmdb",
+        "title": "21世纪大君夫人",
+        "originalTitle": "21세기 대군부인",
+        "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
+        "releaseDate": "2026-04-10",
+        "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+        "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
+        "rating": 9.1,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
         "id": 85552,
         "type": "tmdb",
         "title": "亢奋",
@@ -343,19 +356,6 @@
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 111110,
-        "type": "tmdb",
-        "title": "ONE PIECE",
-        "originalTitle": "ONE PIECE",
-        "description": "进入伟大航路：在罗格镇的风暴中死里逃生后，蒙奇·D·路飞率领草帽一伙正式跨越“颠倒山”，驶入被称为“海贼坟场”的伟大航路。本季聚焦于这支年轻船队在极端自然环境与多方势力博弈下的生存挑战：他们意外救助了身负复国重任的薇薇公主，并决定护送其横跨危机四伏的海域。从神秘的威士忌山峰到充满远古气息的小花园，路飞不仅要带领船员对抗如影随行的巴洛克工作室特工，更要在巨人族传承百年的荣誉决斗中领悟牺牲的真谛。在严寒的磁鼓岛，面对伙伴病重的紧急关头，他们邂逅了背负悲剧过往的天才医生乔巴，并共同卷入了一场关于医疗伦理与暴政对抗的冬岛起义。随着航程向沙漠王国阿拉巴斯坦步步逼近，这群追梦者正逐渐意识到，想要在伟大航路立足，除了热血，更需要面对权力阴谋与人性灰暗的决绝意志。",
-        "releaseDate": "2026-03-10",
-        "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-        "posterPath": "/nSHBJp1ulPxdp7vtUTrhoXjZjfb.jpg",
-        "rating": 7.1,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
         "id": 225780,
