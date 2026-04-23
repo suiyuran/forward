@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-22T20:40:45.895Z",
+  "time": "2026-04-23T20:41:09.308Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-03-21",
         "backdropPath": "/sc2Q8HwhUOb49IfbkHHvi8dB7yy.jpg",
         "posterPath": "/Z4PcigZfdhrU2via1XrdSrEq4G.jpg",
-        "rating": 6.833,
+        "rating": 6.857,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
         "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-        "rating": 8.2,
+        "rating": 8.219,
         "mediaType": "movie",
         "genreTitle": "科幻, 冒险"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-09-17",
         "backdropPath": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
         "posterPath": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
-        "rating": 7.306,
+        "rating": 7.297,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.4,
+        "rating": 6.435,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -326,7 +326,7 @@
         "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
+        "posterPath": "/ovNzwYGIXVeb7hdcDzlDqC0FVRa.jpg",
         "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-12",
         "backdropPath": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
         "posterPath": "/2fQXV9wqD63IrZlfNqMkFzx2pkT.jpg",
-        "rating": 7,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
