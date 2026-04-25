@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-24T20:33:10.733Z",
+  "time": "2026-04-25T20:24:39.841Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-01-15",
         "backdropPath": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
         "posterPath": "/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-        "rating": 8.1,
+        "rating": 7.867,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/gYxOlYtLvGNrzYm6kQBcY5mqKja.jpg",
         "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-        "rating": 7.7,
+        "rating": 7.695,
         "mediaType": "movie",
         "genreTitle": "喜剧, 科幻"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
-        "rating": 7.7,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/77q82tMWRYbV2DTcR8Z3KrOfG3I.jpg",
-        "rating": 3.6,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.2,
+        "rating": 6.154,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
         "posterPath": "/ovNzwYGIXVeb7hdcDzlDqC0FVRa.jpg",
-        "rating": 9.286,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.4,
+        "rating": 8.071,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -351,9 +351,9 @@
         "originalTitle": "Euphoria",
         "description": "一群高中生在一个充满毒品、性爱、创伤与社群媒体的世界，探索爱与友谊。",
         "releaseDate": "2026-04-12",
-        "backdropPath": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
+        "backdropPath": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
         "posterPath": "/2fQXV9wqD63IrZlfNqMkFzx2pkT.jpg",
-        "rating": 7.1,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
