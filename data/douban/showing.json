@@ -1,6 +1,19 @@
 {
-  "time": "2026-04-25T17:39:56.907Z",
+  "time": "2026-04-26T17:41:21.608Z",
   "data": [
+    {
+      "id": 1168719,
+      "type": "tmdb",
+      "title": "寂静的朋友",
+      "originalTitle": "Stiller Freund",
+      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
+      "releaseDate": "2026-01-15",
+      "backdropPath": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
+      "posterPath": "/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
+      "rating": 7.867,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 历史"
+    },
     {
       "id": 936075,
       "type": "tmdb",
@@ -10,7 +23,7 @@
       "releaseDate": "2026-04-22",
       "backdropPath": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "posterPath": "/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
-      "rating": 7.3,
+      "rating": 7.519,
       "mediaType": "movie",
       "genreTitle": "音乐, 剧情"
     },
@@ -28,6 +41,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 687163,
+      "type": "tmdb",
+      "title": "挽救计划",
+      "originalTitle": "Project Hail Mary",
+      "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
+      "releaseDate": "2026-03-15",
+      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
+      "rating": 8.211,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 冒险"
+    },
+    {
       "id": 1645455,
       "type": "tmdb",
       "title": "登月(第一部)",
@@ -41,32 +67,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 687163,
-      "type": "tmdb",
-      "title": "挽救计划",
-      "originalTitle": "Project Hail Mary",
-      "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
-      "releaseDate": "2026-03-15",
-      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.218,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 1168719,
-      "type": "tmdb",
-      "title": "寂静的朋友",
-      "originalTitle": "Stiller Freund",
-      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
-      "releaseDate": "2026-01-15",
-      "backdropPath": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
-      "posterPath": "/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-      "rating": 7.867,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 历史"
-    },
-    {
       "id": 1124566,
       "type": "tmdb",
       "title": "情感价值",
@@ -75,9 +75,22 @@
       "releaseDate": "2025-08-20",
       "backdropPath": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "posterPath": "/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
-      "rating": 7.493,
+      "rating": 7.496,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1220564,
+      "type": "tmdb",
+      "title": "密探",
+      "originalTitle": "O Agente Secreto",
+      "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
+      "releaseDate": "2025-07-23",
+      "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
+      "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
+      "rating": 7.307,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 剧情"
     },
     {
       "id": 1005985,
@@ -91,19 +104,6 @@
       "rating": 6.014,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
-    },
-    {
-      "id": 1220564,
-      "type": "tmdb",
-      "title": "密探",
-      "originalTitle": "O Agente Secreto",
-      "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
-      "releaseDate": "2025-07-23",
-      "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
-      "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.299,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
     },
     {
       "id": 1421609,
@@ -132,6 +132,19 @@
       "genreTitle": "剧情, 奇幻"
     },
     {
+      "id": 1226863,
+      "type": "tmdb",
+      "title": "超级马力欧银河大电影",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+      "releaseDate": "2026-04-01",
+      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
+      "rating": 6.8,
+      "mediaType": "movie",
+      "genreTitle": "家庭, 喜剧"
+    },
+    {
       "id": 1481955,
       "type": "tmdb",
       "title": "阳光女子合唱团",
@@ -143,19 +156,6 @@
       "rating": 7.2,
       "mediaType": "movie",
       "genreTitle": "剧情, 音乐"
-    },
-    {
-      "id": 1226863,
-      "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "releaseDate": "2026-04-01",
-      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-      "rating": 6.765,
-      "mediaType": "movie",
-      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 1657534,
@@ -171,6 +171,19 @@
       "genreTitle": "惊悚, 恐怖"
     },
     {
+      "id": 1327819,
+      "type": "tmdb",
+      "title": "河狸变身计划",
+      "originalTitle": "Hoppers",
+      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
+      "releaseDate": "2026-03-04",
+      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
+      "rating": 7.57,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
       "id": 1566589,
       "type": "tmdb",
       "title": "蜂蜜的针",
@@ -182,19 +195,6 @@
       "rating": 6,
       "mediaType": "movie",
       "genreTitle": "爱情, 犯罪"
-    },
-    {
-      "id": 1327819,
-      "type": "tmdb",
-      "title": "河狸变身计划",
-      "originalTitle": "Hoppers",
-      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
-      "releaseDate": "2026-03-04",
-      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.575,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
     },
     {
       "id": 1249589,
@@ -218,22 +218,9 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.5,
+      "rating": 6.522,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
-    },
-    {
-      "id": 1470918,
-      "type": "tmdb",
-      "title": "不能错过的只有你2",
-      "originalTitle": "不能错过的只有你2",
-      "description": "主要讲述了主人公余晚空在他的旅途中偶然遇到了一个境遇相似的女子，并决定与她一起前往美丽的大凉山。在相处的过程中，他们不仅解决了彼此之间的问题，还为家乡带来了积极的影响",
-      "releaseDate": "2026-04-18",
-      "backdropPath": "/4QUGnUtYdw7KHkVAWUcH7zjZ3Pm.jpg",
-      "posterPath": "/3Y17MhSIdIvg4Q1NUOuB52aIprt.jpg",
-      "rating": 2,
-      "mediaType": "movie",
-      "genreTitle": "爱情"
     },
     {
       "id": 1249668,
@@ -262,6 +249,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1470918,
+      "type": "tmdb",
+      "title": "不能错过的只有你2",
+      "originalTitle": "不能错过的只有你2",
+      "description": "主要讲述了主人公余晚空在他的旅途中偶然遇到了一个境遇相似的女子，并决定与她一起前往美丽的大凉山。在相处的过程中，他们不仅解决了彼此之间的问题，还为家乡带来了积极的影响",
+      "releaseDate": "2026-04-18",
+      "backdropPath": "/4QUGnUtYdw7KHkVAWUcH7zjZ3Pm.jpg",
+      "posterPath": "/3Y17MhSIdIvg4Q1NUOuB52aIprt.jpg",
+      "rating": 2,
+      "mediaType": "movie",
+      "genreTitle": "爱情"
+    },
+    {
       "id": 1317288,
       "type": "tmdb",
       "title": "至尊马蒂",
@@ -270,7 +270,7 @@
       "releaseDate": "2025-12-19",
       "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
       "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.396,
+      "rating": 7.393,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -283,9 +283,22 @@
       "releaseDate": "2025-06-25",
       "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
       "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 7.925,
+      "rating": 7.913,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
+    },
+    {
+      "id": 1297842,
+      "type": "tmdb",
+      "title": "奇迹梦之队",
+      "originalTitle": "GOAT",
+      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
+      "rating": 7.914,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1303236,
@@ -309,35 +322,9 @@
       "releaseDate": "2026-01-22",
       "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
       "posterPath": "/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
-      "rating": 6.767,
+      "rating": 6.761,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
-    },
-    {
-      "id": 1662256,
-      "type": "tmdb",
-      "title": "勇者无疆",
-      "originalTitle": "勇者无疆",
-      "description": "影片根据“100位新中国成立以来感动中国人物”之一，“最美奋斗者”罗盛教的真实事迹改编。 参与抗美援朝战争的罗盛教是侦察连的一位文书，紧张的战斗期间，他和抗美援朝的各位志愿军战士不仅要面对敌军的猛烈攻击，还要在物资匮乏、环境恶劣的情况下克服种种困难，在修筑机场的过程当中，他和志愿军战士用乐观坚韧的精神一次又一次的抵抗敌军的侵略，为抗美援朝战争做出了巨大贡献。在一次日常训练时，罗盛教发现一名不慎跌入冰窟的孩童，面对-20℃的天气，罗盛教想都没想便跳入了冰窟当中，用自己的全身力气将孩童托起，最终因体力耗尽英勇牺牲。 每一位志愿军战士都在保家卫国的道路上付出了巨大的努力和牺牲，他们的事迹和精神永远激励着每一个人！",
-      "releaseDate": "2026-04-22",
-      "backdropPath": "/fArULAIfPBG6mRMX6yXjslK1kWP.jpg",
-      "posterPath": "/5ENxl6xf3YUpcoUFVz4AebdHVi4.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
-    },
-    {
-      "id": 1268630,
-      "type": "tmdb",
-      "title": "搜查瑠公圳",
-      "originalTitle": "搜查瑠公圳",
-      "description": "不愿受将军父亲庇护的叛逆警探，面对受陷害成为女分尸命案凶手的父亲，携手备受歧视妇幼线女记者，在全民热议与媒体编造报导下追查事件真相，却发现…凶手似乎另有其人？ ！",
-      "releaseDate": "2025-05-22",
-      "backdropPath": "/pyg46sZg60RrO5k8MwWfsQYmokU.jpg",
-      "posterPath": "/4pgaOLGKY9klkPwtOFLQCOse1o7.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "历史, 犯罪"
     },
     {
       "id": 1305781,
@@ -353,6 +340,19 @@
       "genreTitle": "动作, 剧情"
     },
     {
+      "id": 1602727,
+      "type": "tmdb",
+      "title": "夜王",
+      "originalTitle": "夜王",
+      "description": "2012年，昔日风光一时的东日夜总会被收购，在尖东打滚数十年的大经理欢哥（黄子华 饰）面临时代转变的挑战。公司新任CEO竟是欢哥狠辣的前妻V姐（郑秀文 饰），强迫欢哥及众女公关转型，业绩渐有起色。怎料背后原来是大财团的操控游戏，东日随时关灯不保。为了保住东日，欢哥及V姐联手，誓要与众女公关作最后反扑，企硬尖东！",
+      "releaseDate": "2026-02-14",
+      "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
+      "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
+      "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
       "id": 1462229,
       "type": "tmdb",
       "title": "飞驰人生3",
@@ -366,17 +366,17 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1602727,
+      "id": 1268630,
       "type": "tmdb",
-      "title": "夜王",
-      "originalTitle": "夜王",
-      "description": "2012年，昔日风光一时的东日夜总会被收购，在尖东打滚数十年的大经理欢哥（黄子华 饰）面临时代转变的挑战。公司新任CEO竟是欢哥狠辣的前妻V姐（郑秀文 饰），强迫欢哥及众女公关转型，业绩渐有起色。怎料背后原来是大财团的操控游戏，东日随时关灯不保。为了保住东日，欢哥及V姐联手，誓要与众女公关作最后反扑，企硬尖东！",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
-      "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
-      "rating": 7.5,
+      "title": "搜查瑠公圳",
+      "originalTitle": "搜查瑠公圳",
+      "description": "不愿受将军父亲庇护的叛逆警探，面对受陷害成为女分尸命案凶手的父亲，携手备受歧视妇幼线女记者，在全民热议与媒体编造报导下追查事件真相，却发现…凶手似乎另有其人？ ！",
+      "releaseDate": "2025-05-22",
+      "backdropPath": "/pyg46sZg60RrO5k8MwWfsQYmokU.jpg",
+      "posterPath": "/4pgaOLGKY9klkPwtOFLQCOse1o7.jpg",
+      "rating": 5,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "历史, 犯罪"
     },
     {
       "id": 1475606,
@@ -392,6 +392,19 @@
       "genreTitle": "惊悚, 恐怖"
     },
     {
+      "id": 1662256,
+      "type": "tmdb",
+      "title": "勇者无疆",
+      "originalTitle": "勇者无疆",
+      "description": "影片根据“100位新中国成立以来感动中国人物”之一，“最美奋斗者”罗盛教的真实事迹改编。 参与抗美援朝战争的罗盛教是侦察连的一位文书，紧张的战斗期间，他和抗美援朝的各位志愿军战士不仅要面对敌军的猛烈攻击，还要在物资匮乏、环境恶劣的情况下克服种种困难，在修筑机场的过程当中，他和志愿军战士用乐观坚韧的精神一次又一次的抵抗敌军的侵略，为抗美援朝战争做出了巨大贡献。在一次日常训练时，罗盛教发现一名不慎跌入冰窟的孩童，面对-20℃的天气，罗盛教想都没想便跳入了冰窟当中，用自己的全身力气将孩童托起，最终因体力耗尽英勇牺牲。 每一位志愿军战士都在保家卫国的道路上付出了巨大的努力和牺牲，他们的事迹和精神永远激励着每一个人！",
+      "releaseDate": "2026-04-22",
+      "backdropPath": "/fArULAIfPBG6mRMX6yXjslK1kWP.jpg",
+      "posterPath": "/5ENxl6xf3YUpcoUFVz4AebdHVi4.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 战争"
+    },
+    {
       "id": 1447971,
       "type": "tmdb",
       "title": "惊蛰无声",
@@ -403,32 +416,6 @@
       "rating": 6.9,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
-    },
-    {
-      "id": 1297842,
-      "type": "tmdb",
-      "title": "奇迹梦之队",
-      "originalTitle": "GOAT",
-      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.894,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1653289,
-      "type": "tmdb",
-      "title": "如父如母",
-      "originalTitle": "如父如母",
-      "description": "父亲车祸成植物人，儿子被迫成长。周旋于生母/养母的复杂亲情与两位恋人之间，在相似与迥异中完成成人礼。",
-      "releaseDate": "2026-04-04",
-      "backdropPath": null,
-      "posterPath": "/rpvXuRZcakBtcUKbaGop0HlA4Mk.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 694,
@@ -444,27 +431,14 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 1662350,
+      "id": 1653289,
       "type": "tmdb",
-      "title": "午夜电梯",
-      "originalTitle": "午夜电梯",
-      "description": "影片《午夜电梯》由郑来志导演，朱晚荞、高宏森担任出品人并担任总制片人，王德意、陈媛媛担任制片人，刘博、赵帅领衔主演的恐怖惊悚电影，影片讲述了饱受精神分裂症困扰的女作家李心凌，遇见了神秘的郑承阳之后，经历一番离奇而奇特的恐怖冒险。",
+      "title": "如父如母",
+      "originalTitle": "如父如母",
+      "description": "父亲车祸成植物人，儿子被迫成长。周旋于生母/养母的复杂亲情与两位恋人之间，在相似与迥异中完成成人礼。",
       "releaseDate": "2026-04-04",
       "backdropPath": null,
-      "posterPath": "/8DkkS0o2dmOWLaOlAOng5svKkrr.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
-    },
-    {
-      "id": 1678020,
-      "type": "tmdb",
-      "title": "这，就是青春",
-      "originalTitle": "这，就是青春",
-      "description": "影片根据“七一勋章”获得者、时代楷模、全国优秀共产党员黄文秀在长治学院求学期间典型事迹改编，讲述了她寻梦太行、成长成才、信仰养成的故事，生动再现了她从青涩学子成长为优秀共产党员的精神蜕变轨迹。",
-      "releaseDate": "2026-04-20",
-      "backdropPath": "/bt8RNc1I4DefGmwhEI4JGNkKtO9.jpg",
-      "posterPath": "/dzIOhRs8ufEfdWbfmBbuHWgbUOB.jpg",
+      "posterPath": "/rpvXuRZcakBtcUKbaGop0HlA4Mk.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
@@ -483,6 +457,19 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
+      "id": 1662350,
+      "type": "tmdb",
+      "title": "午夜电梯",
+      "originalTitle": "午夜电梯",
+      "description": "影片《午夜电梯》由郑来志导演，朱晚荞、高宏森担任出品人并担任总制片人，王德意、陈媛媛担任制片人，刘博、赵帅领衔主演的恐怖惊悚电影，影片讲述了饱受精神分裂症困扰的女作家李心凌，遇见了神秘的郑承阳之后，经历一番离奇而奇特的恐怖冒险。",
+      "releaseDate": "2026-04-04",
+      "backdropPath": null,
+      "posterPath": "/8DkkS0o2dmOWLaOlAOng5svKkrr.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
+    },
+    {
       "id": 1607088,
       "type": "tmdb",
       "title": "熊出没·年年有熊",
@@ -496,17 +483,17 @@
       "genreTitle": "喜剧, 奇幻"
     },
     {
-      "id": 10191,
+      "id": 1678020,
       "type": "tmdb",
-      "title": "驯龙高手",
-      "originalTitle": "How to Train Your Dragon",
-      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
-      "releaseDate": "2010-03-18",
-      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
-      "rating": 7.857,
+      "title": "这，就是青春",
+      "originalTitle": "这，就是青春",
+      "description": "影片根据“七一勋章”获得者、时代楷模、全国优秀共产党员黄文秀在长治学院求学期间典型事迹改编，讲述了她寻梦太行、成长成才、信仰养成的故事，生动再现了她从青涩学子成长为优秀共产党员的精神蜕变轨迹。",
+      "releaseDate": "2026-04-20",
+      "backdropPath": "/bt8RNc1I4DefGmwhEI4JGNkKtO9.jpg",
+      "posterPath": "/dzIOhRs8ufEfdWbfmBbuHWgbUOB.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "奇幻, 冒险"
+      "genreTitle": "剧情"
     },
     {
       "id": 559974,
@@ -557,6 +544,19 @@
       "backdropPath": null,
       "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
       "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 1002640,
+      "type": "tmdb",
+      "title": "Secrets of the Sea",
+      "originalTitle": "Secrets of the Sea",
+      "description": "",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": ""
     },
