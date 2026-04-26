@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-25T20:24:39.841Z",
+  "time": "2026-04-26T20:25:32.757Z",
   "data": {
     "电影": [
       {
@@ -102,7 +102,7 @@
         "releaseDate": "2025-11-27",
         "backdropPath": "/hZA81b0mSIZWQPIqYwvPHg11rTT.jpg",
         "posterPath": "/fLiU0gSq24B8IqXw2fXEo6T3BT8.jpg",
-        "rating": 7.667,
+        "rating": 7.25,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -181,7 +181,7 @@
         "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
         "releaseDate": "2026-03-27",
         "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
-        "posterPath": "/pmx5zZSxr85OL1yOryabM2aqoBs.jpg",
+        "posterPath": "/vdB6e9slprXFhaeClQpfVw6FYOE.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -207,7 +207,7 @@
         "description": "任职广告公司的朱欣葵，在职场中磨练出超抗压人格。眼见事业正要起飞，却遭遇各种不顺，先是惹毛了大客户、男友无理取闹，还被公司打入冷宫。此时，寿山动物园公开招标，希望更新品牌形象，这正是她翻身的最后希望，但却没想到条件是要亲身担任实习保育员！过往熟悉的办公室法则全派不上场，面对动物和人类同事们，前辈苏冠州尤其难搞，第一天就想回家的她怀疑，自己真的能在这里存活下来吗？",
         "releaseDate": "2026-02-20",
         "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
-        "posterPath": "/9VdgDtCNfIRKURWfx6yo3KJ9M5x.jpg",
+        "posterPath": "/xixw0uzoEnk2523Y7OgrNcuF9l1.jpg",
         "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
@@ -259,7 +259,7 @@
         "description": "在能以愿望交换现实的星浦屿，绝望的何向永许愿「想消失」，醒来竟变成被世界遗忘的「钟小右」，仅剩挚友李宛哲知情。同时，向永暗恋的皓维带着伤痛返岛，不自觉被小右吸引；而宛哲向流星祈求轰烈爱情，唤来了神秘渔工小海。 当愿望的代价浮现，记忆与身分面临消逝的危机。四人交织出两段命定却危险的爱恋，他们必须在幻影与真实间做出抉择，完成一段关于奇幻与自我救赎的疗愈之旅。",
         "releaseDate": "2026-03-26",
         "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
-        "posterPath": "/ldZDkCN294O1twViCCfPZOAGnsY.jpg",
+        "posterPath": "/h24N0obh83475hufeu6sex4ZE18.jpg",
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
@@ -287,7 +287,7 @@
         "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
-        "posterPath": "/77q82tMWRYbV2DTcR8Z3KrOfG3I.jpg",
+        "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
         "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.154,
+        "rating": 6.036,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.071,
+        "rating": 0,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
