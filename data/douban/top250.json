@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-19T19:33:55.350Z",
+  "time": "2026-04-26T19:38:32.959Z",
   "data": [
     {
       "id": 278,
@@ -23,7 +23,7 @@
       "releaseDate": "1993-01-01",
       "backdropPath": "/bBiZN1epQTu3F8iFLBuMhc4TRzr.jpg",
       "posterPath": "/vOEkLofQ8N1OdbGs5L87m7Plpw2.jpg",
-      "rating": 7.889,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -49,7 +49,7 @@
       "releaseDate": "1994-06-23",
       "backdropPath": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
       "posterPath": "/pplybKImR7LKzSVzRylK6Cl4dzm.jpg",
-      "rating": 8.464,
+      "rating": 8.463,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -127,7 +127,7 @@
       "releaseDate": "1998-06-04",
       "backdropPath": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
       "posterPath": "/nAnzFcqORitpwvRQPceIt4mcm8G.jpg",
-      "rating": 8.152,
+      "rating": 8.151,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -140,7 +140,7 @@
       "releaseDate": "1993-12-15",
       "backdropPath": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
       "posterPath": "/7cDI6MrIi12uQxfipiNIeJPYljy.jpg",
-      "rating": 8.568,
+      "rating": 8.567,
       "mediaType": "movie",
       "genreTitle": "剧情, 历史"
     },
@@ -153,7 +153,7 @@
       "releaseDate": "2009-06-08",
       "backdropPath": "/a5pOEjOLvr04Hr8qktIDM75OZi0.jpg",
       "posterPath": "/bJY4HwYR7rrWBqY4t1XofjhGnVh.jpg",
-      "rating": 8.005,
+      "rating": 8.006,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -192,7 +192,7 @@
       "releaseDate": "2009-12-23",
       "backdropPath": "/8gT3UKtglLVpu0YfccwbmXZ5Eis.jpg",
       "posterPath": "/3Kdkci7FE36fWcsuoeGFYApBBE1.jpg",
-      "rating": 8,
+      "rating": 7.996,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -203,7 +203,7 @@
       "originalTitle": "WALL·E",
       "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
       "releaseDate": "2008-06-22",
-      "backdropPath": "/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
+      "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/hg2Z4rD1CkplEZENYEMDBsMWcxK.jpg",
       "rating": 8.11,
       "mediaType": "movie",
@@ -231,7 +231,7 @@
       "releaseDate": "2002-12-12",
       "backdropPath": "/iiDGA97Kqt2dVU1deXQF06USBRu.jpg",
       "posterPath": "/ybmGHs0ZAOy9kRAxfWfdeC6gtoN.jpg",
-      "rating": 7.802,
+      "rating": 7.801,
       "mediaType": "movie",
       "genreTitle": "剧情, 动作"
     },
@@ -257,7 +257,7 @@
       "releaseDate": "2017-10-27",
       "backdropPath": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
       "posterPath": "/zrhUypo2z3aRX9htuzGpoVWE4jo.jpg",
-      "rating": 8.197,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "家庭, 动画"
     },
@@ -283,7 +283,7 @@
       "releaseDate": "2011-09-22",
       "backdropPath": "/e5MvOQIIouSgQcBHCMNA6Rsbwnd.jpg",
       "posterPath": "/kRx2QJ1Q5k863AbYgPkj23BbxK8.jpg",
-      "rating": 8.147,
+      "rating": 8.15,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -309,7 +309,7 @@
       "releaseDate": "1972-03-14",
       "backdropPath": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
       "posterPath": "/y03tzUKvkRCYwJ5NWys4W4bnS9m.jpg",
-      "rating": 8.687,
+      "rating": 8.686,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -322,7 +322,7 @@
       "releaseDate": "1987-10-04",
       "backdropPath": "/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
       "posterPath": "/f1gDRukoKvHwitvF0HvrBiX2V58.jpg",
-      "rating": 7.586,
+      "rating": 7.584,
       "mediaType": "movie",
       "genreTitle": "剧情, 历史"
     },
@@ -348,7 +348,7 @@
       "releaseDate": "2006-12-14",
       "backdropPath": "/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg",
       "posterPath": "/vxj2k0168d7K3pih7Aw6kqvvLcN.jpg",
-      "rating": 7.886,
+      "rating": 7.885,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -361,7 +361,7 @@
       "releaseDate": "1988-04-16",
       "backdropPath": "/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
       "posterPath": "/okAv5Q1ad2WMt7hxsXUyolfE6zA.jpg",
-      "rating": 8.062,
+      "rating": 8.063,
       "mediaType": "movie",
       "genreTitle": "奇幻, 动画"
     },
@@ -374,7 +374,7 @@
       "releaseDate": "1994-05-18",
       "backdropPath": "/s7xVB5OPWw6GO40VBeEJcX9EwNt.jpg",
       "posterPath": "/h45Jc1URohpgUxmfEXB5MqUlHJW.jpg",
-      "rating": 8.065,
+      "rating": 8.064,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -387,7 +387,7 @@
       "releaseDate": "2010-08-06",
       "backdropPath": "/xBSwwkAYl9h8QVG2OxNpSaSgJwr.jpg",
       "posterPath": "/4Nu5blbEXzNm58UKVVZ9qhe3O3y.jpg",
-      "rating": 8.006,
+      "rating": 8.005,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -413,7 +413,7 @@
       "releaseDate": "2003-12-17",
       "backdropPath": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
       "posterPath": "/kKUgYEOVebuu21N0KnQiGpIStiN.jpg",
-      "rating": 8.497,
+      "rating": 8.496,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -439,7 +439,7 @@
       "releaseDate": "1939-12-15",
       "backdropPath": "/4FHcxMtVruMr7ltU2cItWssLjTP.jpg",
       "posterPath": "/3F2AYTFHjcygEdlRWEFaTGK8W9M.jpg",
-      "rating": 7.9,
+      "rating": 7.917,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -465,7 +465,7 @@
       "releaseDate": "2010-12-20",
       "backdropPath": "/k1ziDzX0u8HgrAYshMb082nvtrF.jpg",
       "posterPath": "/vUvrjRRmC1BeI8QyMaRBdtIqHHn.jpg",
-      "rating": 7.779,
+      "rating": 7.8,
       "mediaType": "movie",
       "genreTitle": "动作, 喜剧"
     },
@@ -478,7 +478,7 @@
       "releaseDate": "2004-09-09",
       "backdropPath": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
       "posterPath": "/nOi7yf4NLfFj72MsjtBGn6Thq1q.jpg",
-      "rating": 8.388,
+      "rating": 8.386,
       "mediaType": "movie",
       "genreTitle": "奇幻, 动画"
     },
@@ -491,7 +491,7 @@
       "releaseDate": "1957-04-10",
       "backdropPath": "/w4bTBXcqXc2TUyS5Fc4h67uWbPn.jpg",
       "posterPath": "/ztYF7nf1SBJYMWPMzjWv52U6T41.jpg",
-      "rating": 8.56,
+      "rating": 8.6,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -517,7 +517,7 @@
       "releaseDate": "2013-10-02",
       "backdropPath": "/4Nx40jwpoTHPjCWNGoaZ6kaoGxa.jpg",
       "posterPath": "/bnpEj2PGKzaeQfkhi9JRC4wkyRZ.jpg",
-      "rating": 8.394,
+      "rating": 8.391,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -530,7 +530,7 @@
       "releaseDate": "2002-12-16",
       "backdropPath": "/ggC3Brchf4RqPitEh7cROFoeAWn.jpg",
       "posterPath": "/8gVelCmO4TifM6rcBfTTOYyspak.jpg",
-      "rating": 7.978,
+      "rating": 7.977,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -543,7 +543,7 @@
       "releaseDate": "1986-08-02",
       "backdropPath": "/z6OZ2Q4FYELeGoBj9tVDWCvevkj.jpg",
       "posterPath": "/nCpXBPravHiEzjv6cCGp2lt2E28.jpg",
-      "rating": 7.972,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -569,7 +569,7 @@
       "releaseDate": "2016-12-21",
       "backdropPath": "/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
       "posterPath": "/j5M6e55pAhzPWUTP5k0Qyg6o876.jpg",
-      "rating": 7.9,
+      "rating": 7.884,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -582,7 +582,7 @@
       "releaseDate": "2012-11-20",
       "backdropPath": "/8oeXbjMtaYYGgjJl9RJNe7umkuS.jpg",
       "posterPath": "/eDUzhpGbIjIcdzsstlbEksn1n7A.jpg",
-      "rating": 7.408,
+      "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "冒险, 剧情"
     },
@@ -595,7 +595,7 @@
       "releaseDate": "2002-09-17",
       "backdropPath": "/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg",
       "posterPath": "/4KRvUM24smLLZYUOJ7QQmBN1FXY.jpg",
-      "rating": 8.375,
+      "rating": 8.374,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -660,7 +660,7 @@
       "releaseDate": "2018-09-20",
       "backdropPath": "/sEW8q9al73rtow257dXAusD9yS7.jpg",
       "posterPath": "/4vUTHM1dlRpWBvTB0IrB9hbrhSx.jpg",
-      "rating": 8.139,
+      "rating": 8.14,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -699,7 +699,7 @@
       "releaseDate": "1999-03-31",
       "backdropPath": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
       "posterPath": "/vsTC6jddyfy25GirpCVtZ7GOB7A.jpg",
-      "rating": 8.242,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "动作, 科幻"
     },
@@ -712,7 +712,7 @@
       "releaseDate": "2001-12-18",
       "backdropPath": "/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
       "posterPath": "/dvNHlWMxba5f9r8xS9tILLUig8m.jpg",
-      "rating": 8.432,
+      "rating": 8.4,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -725,7 +725,7 @@
       "releaseDate": "1953-08-26",
       "backdropPath": "/n0MyuZW9WJBGCYhzhfCI3d4zlRo.jpg",
       "posterPath": "/aeBMNasmLkeegbIVQYCmSVZMgRc.jpg",
-      "rating": 7.891,
+      "rating": 7.889,
       "mediaType": "movie",
       "genreTitle": "爱情, 喜剧"
     },
@@ -738,7 +738,7 @@
       "releaseDate": "1974-12-20",
       "backdropPath": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
       "posterPath": "/4J8jUmjgKPggRPJqqdkjWCj2k0D.jpg",
-      "rating": 8.572,
+      "rating": 8.571,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -751,7 +751,7 @@
       "releaseDate": "1994-06-15",
       "backdropPath": "/6GF9uJs7AnbcJvyfoZyjZv063Oo.jpg",
       "posterPath": "/eFtJyNhv339OHknjFNq76bkxPlw.jpg",
-      "rating": 8.252,
+      "rating": 8.253,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -764,7 +764,7 @@
       "releaseDate": "1988-11-17",
       "backdropPath": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
       "posterPath": "/myeMOuOLu9Z7MwRF9HU7p5L4cYB.jpg",
-      "rating": 8.426,
+      "rating": 8.425,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -777,7 +777,7 @@
       "releaseDate": "1994-08-03",
       "backdropPath": "/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
       "posterPath": "/zqGWLZbHdsBgLuSLGXlvvrrpTKw.jpg",
-      "rating": 7.631,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -842,7 +842,7 @@
       "releaseDate": "2008-05-07",
       "backdropPath": "/A63giQFJP4ABqNk4sLzegVeqVdl.jpg",
       "posterPath": "/33iFmb2fs1o9jZT1YMXchJZYjb3.jpg",
-      "rating": 7.816,
+      "rating": 7.8,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -855,7 +855,7 @@
       "releaseDate": "2011-07-12",
       "backdropPath": "/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
       "posterPath": "/8o2IcBnrwLS4XM0TxxnYwRxEVTX.jpg",
-      "rating": 8.081,
+      "rating": 8.08,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -868,7 +868,7 @@
       "releaseDate": "1995-03-25",
       "backdropPath": "/j0H799tVVLesjskDbL5FKcV5Nfr.jpg",
       "posterPath": "/xLY3Lcf11HTmw9m3HYxHEaEtlDm.jpg",
-      "rating": 7.81,
+      "rating": 7.8,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -881,7 +881,7 @@
       "releaseDate": "1998-08-28",
       "backdropPath": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
       "posterPath": "/eQyTSkFaixt9KWY2LloamCWvWRz.jpg",
-      "rating": 8.096,
+      "rating": 8.095,
       "mediaType": "movie",
       "genreTitle": "喜剧, 犯罪"
     },
@@ -907,7 +907,7 @@
       "releaseDate": "1965-03-29",
       "backdropPath": "/y9M9xO78SHf43pK5TOgfOeQRHXj.jpg",
       "posterPath": "/6DKMWqCivb22X6NBhk04lhare85.jpg",
-      "rating": 7.731,
+      "rating": 7.73,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -938,19 +938,6 @@
       "genreTitle": "冒险, 奇幻"
     },
     {
-      "id": 10867,
-      "type": "tmdb",
-      "title": "西西里的美丽传说",
-      "originalTitle": "Malèna",
-      "description": "二战时期西西里岛上宁静的小镇，美艳动人的妇人玛莲娜，撩着波浪长发，穿着时髦的短裙丝袜，踏着诱惑的高跟鞋，烟视媚行，征服了镇上所有男人，也包括年仅13岁的维利图，他悄悄地成为她的小跟班，如影随形地跟踪、窥视她的生活。她摇曳的倩影、她聆听的和音乐、她贴身的衣物…都成为这个被荷尔蒙淹没的少年，最真实、最美好的情欲幻想…",
-      "releaseDate": "2000-10-27",
-      "backdropPath": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
-      "posterPath": "/dzDomGKtXBSpsXbwfI5Ujn2rQvm.jpg",
-      "rating": 7.428,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 19995,
       "type": "tmdb",
       "title": "阿凡达",
@@ -959,9 +946,22 @@
       "releaseDate": "2009-12-16",
       "backdropPath": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
       "posterPath": "/bwKhj6tHlm8hiw9QjhpooJjQWgG.jpg",
-      "rating": 7.602,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 10867,
+      "type": "tmdb",
+      "title": "西西里的美丽传说",
+      "originalTitle": "Malèna",
+      "description": "二战时期西西里岛上宁静的小镇，美艳动人的妇人玛莲娜，撩着波浪长发，穿着时髦的短裙丝袜，踏着诱惑的高跟鞋，烟视媚行，征服了镇上所有男人，也包括年仅13岁的维利图，他悄悄地成为她的小跟班，如影随形地跟踪、窥视她的生活。她摇曳的倩影、她聆听的和音乐、她贴身的衣物…都成为这个被荷尔蒙淹没的少年，最真实、最美好的情欲幻想…",
+      "releaseDate": "2000-10-27",
+      "backdropPath": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+      "posterPath": "/dzDomGKtXBSpsXbwfI5Ujn2rQvm.jpg",
+      "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 411088,
@@ -972,7 +972,7 @@
       "releaseDate": "2017-01-06",
       "backdropPath": "/1ZSWFzAP4AZuFCigZZoib2RdcUO.jpg",
       "posterPath": "/xh32R4QAARCgazSQUgVd0NdrnIk.jpg",
-      "rating": 8.1,
+      "rating": 8.081,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
     },
@@ -998,7 +998,7 @@
       "releaseDate": "1991-02-14",
       "backdropPath": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
       "posterPath": "/guKREBLV4nSzT52rKAjHFjSjhsL.jpg",
-      "rating": 8.346,
+      "rating": 8.3,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
     },
@@ -1024,7 +1024,7 @@
       "releaseDate": "2014-02-26",
       "backdropPath": "/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
       "posterPath": "/be8eTb9JeEjIDzJorbxLuuHDCCq.jpg",
-      "rating": 8.031,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -1050,7 +1050,7 @@
       "releaseDate": "1975-11-19",
       "backdropPath": "/6Oa3zTiluBz2W8D2ou1MY16dUiF.jpg",
       "posterPath": "/cTlE3BxHbJL05UrisIUkS9usdOW.jpg",
-      "rating": 8.413,
+      "rating": 8.412,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1063,7 +1063,7 @@
       "releaseDate": "2023-10-26",
       "backdropPath": "/fNXUCk54vGcoKr34olN14ohUSFY.jpg",
       "posterPath": "/x8JiIrpQlUiqnTZLHkKfm45pXPU.jpg",
-      "rating": 8.078,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -1089,7 +1089,7 @@
       "releaseDate": "1997-12-05",
       "backdropPath": "/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
       "posterPath": "/6GtC5kaLrtk2YhAfvPqQrgbRQKR.jpg",
-      "rating": 8.159,
+      "rating": 8.16,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1099,7 +1099,7 @@
       "title": "致命魔术",
       "originalTitle": "The Prestige",
       "description": "19世纪末，人们对科学文明的认知还不太清楚，于是，安吉尔和伯登凭借魔术，成为了伦敦城内的神奇人物。安吉尔出身贵族，魔术手段华丽丰富，是富人圈子里的表演常客。而伯登即使出身平平，争强好胜的心智和充满创造力的魔术技巧，却也令他有了名气。两人自小便是要好的伙伴，然而，现在魔术界二人各有领地，并且都有野心想成为顶级魔术师，一番明争暗斗如箭在弦上。伯登掌握了精彩的分身术，叫座又叫好。而安吉尔见情势不妙，搬来科学家助阵——他发明的交流电有无穷魔力，保证让观众目瞪口呆。二人出招接招，一来一往，争斗在剧烈升级，友谊和道德都被抛诸脑后，一场血案在悄悄酝酿。",
-      "releaseDate": "2006-10-17",
+      "releaseDate": "2006-10-19",
       "backdropPath": "/z3br1ub7spqGMkxgjgJSdM4DC21.jpg",
       "posterPath": "/5DMDkeRfgISRqwxgrX9McAYwu6A.jpg",
       "rating": 8.206,
@@ -1115,22 +1115,9 @@
       "releaseDate": "1994-09-10",
       "backdropPath": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
       "posterPath": "/WZW5PCtCbtyKfojdLlPCi89DNx.jpg",
-      "rating": 8.486,
+      "rating": 8.5,
       "mediaType": "movie",
       "genreTitle": "惊悚, 犯罪"
-    },
-    {
-      "id": 74308,
-      "type": "tmdb",
-      "title": "超脱",
-      "originalTitle": "Detachment",
-      "description": "亨利·巴赫特来到社区学校担任代课老师。学校因学生反叛、经营不善而濒临绝境，多丽丝为首的一批教师备受煎熬。亨利的第一堂课就遭遇了顽劣学生的挑衅，但是被他巧妙地化解。他赢得了女教师萨沙的好感。同时，他的教学方式引起了同学们的兴趣，其中就包括因肥胖而苦闷的梅丽迪斯。她一直默默地承受着因体重带来的各种责骂与嘲笑。但是因为老师，她似乎又找到了一切的理由…… 但是，亨利其实内心也有很大的压力，他的爷爷处于弥留之际，他的母亲自杀阴影始终在脑海中萦绕。某天夜里，他在公车上黯然神伤，独自流泪。这情形被一个刚收到嫖客凌辱的雏妓艾瑞卡看到了。她尾随他，希望获得他的帮助。他起初拒绝了她的要求，后来他还是把她带回了单身公寓……",
-      "releaseDate": "2011-04-24",
-      "backdropPath": "/iJwtR94Yq9U83ET0TzirsGWTewH.jpg",
-      "posterPath": "/111jlbz8CyqADlHZTPg9giZl02I.jpg",
-      "rating": 7.626,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 672,
@@ -1141,9 +1128,22 @@
       "releaseDate": "2002-11-13",
       "backdropPath": "/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
       "posterPath": "/p6e7HSfWcrPCerEF23lin8bKuQ0.jpg",
-      "rating": 7.703,
+      "rating": 7.702,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
+    },
+    {
+      "id": 74308,
+      "type": "tmdb",
+      "title": "超脱",
+      "originalTitle": "Detachment",
+      "description": "亨利·巴赫特来到社区学校担任代课老师。学校因学生反叛、经营不善而濒临绝境，多丽丝为首的一批教师备受煎熬。亨利的第一堂课就遭遇了顽劣学生的挑衅，但是被他巧妙地化解。他赢得了女教师萨沙的好感。同时，他的教学方式引起了同学们的兴趣，其中就包括因肥胖而苦闷的梅丽迪斯。她一直默默地承受着因体重带来的各种责骂与嘲笑。但是因为老师，她似乎又找到了一切的理由…… 但是，亨利其实内心也有很大的压力，他的爷爷处于弥留之际，他的母亲自杀阴影始终在脑海中萦绕。某天夜里，他在公车上黯然神伤，独自流泪。这情形被一个刚收到嫖客凌辱的雏妓艾瑞卡看到了。她尾随他，希望获得他的帮助。他起初拒绝了她的要求，后来他还是把她带回了单身公寓……",
+      "releaseDate": "2011-04-24",
+      "backdropPath": "/iJwtR94Yq9U83ET0TzirsGWTewH.jpg",
+      "posterPath": "/111jlbz8CyqADlHZTPg9giZl02I.jpg",
+      "rating": 7.623,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 25538,
@@ -1154,7 +1154,7 @@
       "releaseDate": "2000-09-20",
       "backdropPath": "/x903dx8Km6XNLFEmvbXc98vePSV.jpg",
       "posterPath": "/7MoGJEkaVFEtcgc3HiB6VCrkAIW.jpg",
-      "rating": 7.947,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1180,7 +1180,7 @@
       "releaseDate": "2003-04-25",
       "backdropPath": "/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg",
       "posterPath": "/hJMdZcNqm4l7Rv72Ak12QytdGi9.jpg",
-      "rating": 8.057,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
@@ -1206,7 +1206,7 @@
       "releaseDate": "1936-02-05",
       "backdropPath": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
       "posterPath": "/3OR9kt3TIjGoiMtv7OGwM6LGavC.jpg",
-      "rating": 8.281,
+      "rating": 8.279,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -1219,7 +1219,7 @@
       "releaseDate": "1997-05-30",
       "backdropPath": "/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg",
       "posterPath": "/dAyUTgO1BGuEZhF3f2G8V9d8sXM.jpg",
-      "rating": 7.569,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -1232,7 +1232,7 @@
       "releaseDate": "2003-07-09",
       "backdropPath": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
       "posterPath": "/wjtVlVdF7KQ9pnnTDHbZaFayzcf.jpg",
-      "rating": 7.821,
+      "rating": 7.82,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -1258,7 +1258,7 @@
       "releaseDate": "1984-05-23",
       "backdropPath": "/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg",
       "posterPath": "/mYvSMWFsZnKYLWomUIbbVSoKsL.jpg",
-      "rating": 8.384,
+      "rating": 8.383,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -1271,7 +1271,7 @@
       "releaseDate": "2006-10-01",
       "backdropPath": "/zfbuY4A9X5sTJ2bzTt84rtiDK9t.jpg",
       "posterPath": "/A2FxDzK0To90Iw2gQxCkyeSYO3u.jpg",
-      "rating": 7.815,
+      "rating": 7.813,
       "mediaType": "movie",
       "genreTitle": "科幻, 惊悚"
     },
@@ -1297,7 +1297,7 @@
       "releaseDate": "1993-07-01",
       "backdropPath": "/nDS52dELAW6mHuXtyur6QkbMBLl.jpg",
       "posterPath": "/bwraKL2xO66M1mTIf2Oo7HPaXws.jpg",
-      "rating": 7.49,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -1323,7 +1323,7 @@
       "releaseDate": "1997-07-12",
       "backdropPath": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
       "posterPath": "/mgxuL4rDqAHdcZvO3fXRhrcifpv.jpg",
-      "rating": 8.325,
+      "rating": 8.324,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -1347,7 +1347,7 @@
       "originalTitle": "기생충",
       "description": "这部定义时代精神的惊世之作，将全球范围内对阶级不平等的审视浓缩为一场流行电影的反叛风暴。奉俊昊导演以这部打破类型桎梏的黑色喜剧惊悚片，奠定了其世界顶尖电影作者的地位。故事聚焦首尔的两个家庭——一户在低洼社区潮湿半地下室里挣扎求生的底层家庭，另一户则居住于可俯瞰城市的现代建筑奇观中尽享奢华。当两家人的命运因危险关系交织在一起时，资本主义的黑暗裂隙以惊人之势被彻底撕裂。影片凭借导演精心构建的戏剧场景、出色的群像演绎与震撼的视觉设计，成为一部技艺卓绝的典范之作。从戛纳到奥斯卡，横扫几乎所有国际至高奖项，更以首部非英语片问鼎最佳影片的历史性突破，宣告韩国新电影已成为不可忽视的世界力量。",
       "releaseDate": "2019-05-30",
-      "backdropPath": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+      "backdropPath": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
       "posterPath": "/nwTQE4vWe6NoFSEgxGu4hO9J4Tv.jpg",
       "rating": 8.494,
       "mediaType": "movie",
@@ -1440,7 +1440,7 @@
       "releaseDate": "1995-01-27",
       "backdropPath": "/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg",
       "posterPath": "/5gisRHtmLULKXHthDvez9DxdlYm.jpg",
-      "rating": 8,
+      "rating": 7.973,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -1451,7 +1451,7 @@
       "originalTitle": "Before Sunset",
       "description": "九年前，杰西（伊桑·霍克 饰）与席琳（朱莉·德尔佩 饰）在火车上不期而遇，怦然心动。在维也纳渡过疯狂而又浪漫的一夜后，他们在日出前分手，并相约在维也纳重逢。\r 九年之后，杰西已成为畅销书作家，而席琳则是法国环保组织成员。杰西在新书里娓娓道来的，正是九年前的浪漫夜晚。在巴黎促销新书时，杰西与席琳在书店相遇，然而他们只有一下午的时光相处，日落之前，杰西要乘飞机赶回美国。两人在午后的巴黎街头散步，在美丽的护城河上泛舟，无所不谈，兴致勃勃。可是就像命运的捉弄，快乐的时光像烟花一样醉人却短暂。",
       "releaseDate": "2004-06-16",
-      "backdropPath": "/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg",
+      "backdropPath": "/vMI8oOEQbhaCQnBFM9mXvJGyEKc.jpg",
       "posterPath": "/yxfBGNZBSnqIu4GoIxPcP7EwuV3.jpg",
       "rating": 7.8,
       "mediaType": "movie",
@@ -1479,7 +1479,7 @@
       "releaseDate": "2015-06-17",
       "backdropPath": "/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg",
       "posterPath": "/gN3qUaxucFWNTBDsaxkyCQSbox2.jpg",
-      "rating": 7.91,
+      "rating": 7.909,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -1492,7 +1492,7 @@
       "releaseDate": "2005-11-16",
       "backdropPath": "/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg",
       "posterPath": "/wFWTByIUYjtB113HTriXJXTN13S.jpg",
-      "rating": 7.8,
+      "rating": 7.801,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -1505,7 +1505,7 @@
       "releaseDate": "1998-02-28",
       "backdropPath": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
       "posterPath": "/6A2jXiDptJExIxX6fNTg0K1GMzx.jpg",
-      "rating": 8.303,
+      "rating": 8.3,
       "mediaType": "movie",
       "genreTitle": "动画, 惊悚"
     },
@@ -1518,7 +1518,7 @@
       "releaseDate": "1994-07-14",
       "backdropPath": "/vuglA60RqvpHK9rIcG8sXaiWw1L.jpg",
       "posterPath": "/ejkczWHjQoNAPUmTU26tU3aRkr8.jpg",
-      "rating": 7.963,
+      "rating": 7.965,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -1531,7 +1531,7 @@
       "releaseDate": "2010-07-16",
       "backdropPath": "/7Z7WVzJsSReG8B0CaPk0bvWD7tK.jpg",
       "posterPath": "/r2lsQVIBF911YzJ51cRXDHNelJe.jpg",
-      "rating": 7.669,
+      "rating": 7.667,
       "mediaType": "movie",
       "genreTitle": "奇幻, 动画"
     },
@@ -1544,7 +1544,7 @@
       "releaseDate": "1999-06-05",
       "backdropPath": "/rn7i9XrcKtOU6RGhYPukaZTkGNN.jpg",
       "posterPath": "/nctLwV78fJNfXtBgoaJgWYtRyK8.jpg",
-      "rating": 7.51,
+      "rating": 7.509,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -1557,7 +1557,7 @@
       "releaseDate": "2008-09-13",
       "backdropPath": "/AoWW2J4PoDe0IPuCVQOk50QFS4D.jpg",
       "posterPath": "/pBAtPYWkbif3rJccwAawbngKvvu.jpg",
-      "rating": 7.855,
+      "rating": 7.853,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1596,7 +1596,7 @@
       "releaseDate": "1995-05-24",
       "backdropPath": "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
       "posterPath": "/6lKfw0XNf8AUv76DZPxvoDGdfwl.jpg",
-      "rating": 7.942,
+      "rating": 7.943,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -1609,7 +1609,7 @@
       "releaseDate": "2013-09-04",
       "backdropPath": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
       "posterPath": "/szxBVXajhvjvOC4tbH6hygdumcs.jpg",
-      "rating": 7.907,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -1635,7 +1635,7 @@
       "releaseDate": "2014-10-01",
       "backdropPath": "/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
       "posterPath": "/rbs1LbLCIYhLyiTggRztnWFWfbp.jpg",
-      "rating": 7.889,
+      "rating": 7.89,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
     },
@@ -1648,7 +1648,7 @@
       "releaseDate": "2004-08-07",
       "backdropPath": "/gCD0eMZW1pUitLzH93WYWJYQgGk.jpg",
       "posterPath": "/lGXFIayUVRMkFhUS6mj1YGfrTpC.jpg",
-      "rating": 7.982,
+      "rating": 7.99,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1674,7 +1674,7 @@
       "releaseDate": "2005-09-16",
       "backdropPath": "/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
       "posterPath": "/2RD0e28s7IFPbxWkBUaPfvwcdWB.jpg",
-      "rating": 8.049,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -1700,7 +1700,7 @@
       "releaseDate": "2000-09-29",
       "backdropPath": "/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
       "posterPath": "/1Z32pKrmWW2nkLFYGoc79MzJin6.jpg",
-      "rating": 8.089,
+      "rating": 8.088,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -1726,7 +1726,7 @@
       "releaseDate": "2015-12-25",
       "backdropPath": "/aWNknDl5kGZTgjqfeIKxdZaKGmm.jpg",
       "posterPath": "/2K2EyM560GW8DdwtAPwuD0oMJd8.jpg",
-      "rating": 7.606,
+      "rating": 7.604,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -1739,7 +1739,7 @@
       "releaseDate": "1993-11-24",
       "backdropPath": "/bbHziUiIFiSFYNnPfD1pPfRvyFe.jpg",
       "posterPath": "/wt4YoYgNaMGMHDR6McEnpb8UZRZ.jpg",
-      "rating": 7.491,
+      "rating": 7.489,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -1752,7 +1752,7 @@
       "releaseDate": "2007-09-24",
       "backdropPath": "/lU1fQews2gye23PocVE48CsTmOQ.jpg",
       "posterPath": "/7v32qseAVpm7aBpemya9MvotbCz.jpg",
-      "rating": 7.262,
+      "rating": 7.26,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -1778,7 +1778,7 @@
       "releaseDate": "2001-11-01",
       "backdropPath": "/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
       "posterPath": "/fc5SCUbpO3aVBuzPpugoFPQ8K1n.jpg",
-      "rating": 7.849,
+      "rating": 7.848,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -1791,7 +1791,7 @@
       "releaseDate": "2014-08-30",
       "backdropPath": "/1bAE9YexmEfAanXKaO1d9Ms4qKm.jpg",
       "posterPath": "/AkLBZ8dsDxaeBsrf1xzusp0LqT0.jpg",
-      "rating": 7.7,
+      "rating": 7.754,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1817,7 +1817,7 @@
       "releaseDate": "2001-04-25",
       "backdropPath": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
       "posterPath": "/d6G9n2kaBoTar1oCBm20mmSOz1J.jpg",
-      "rating": 7.919,
+      "rating": 7.918,
       "mediaType": "movie",
       "genreTitle": "喜剧, 爱情"
     },
@@ -1830,7 +1830,7 @@
       "releaseDate": "1995-07-15",
       "backdropPath": "/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
       "posterPath": "/hPFcJ5S9KxZKN8u0FJ7OYvbQWaL.jpg",
-      "rating": 8,
+      "rating": 7.948,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
     },
@@ -1882,7 +1882,7 @@
       "releaseDate": "2017-10-01",
       "backdropPath": "/fwf4L3r2ZU9ptOB9nOo5nuVLo1i.jpg",
       "posterPath": "/7EDfu9QbGBBlPz1U0w4q0u8CeWT.jpg",
-      "rating": 8.093,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -1895,7 +1895,7 @@
       "releaseDate": "2004-06-17",
       "backdropPath": "/zywtNiaZ9r7azrcNdl2j0jOgrkw.jpg",
       "posterPath": "/8xtRXHmdaYp0LeddTf6pok34uiL.jpg",
-      "rating": 7.351,
+      "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -1908,7 +1908,7 @@
       "releaseDate": "2016-07-20",
       "backdropPath": "/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
       "posterPath": "/a31aMXYw3u2rfmzq4RDGvRtIMr1.jpg",
-      "rating": 7.749,
+      "rating": 7.748,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -1923,7 +1923,7 @@
       "posterPath": "/wQ2dOndyH5Xq7kzJvv5haIFEahZ.jpg",
       "rating": 7.256,
       "mediaType": "movie",
-      "genreTitle": "家庭, 喜剧"
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 336026,
@@ -1960,7 +1960,7 @@
       "releaseDate": "2011-09-17",
       "backdropPath": "/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg",
       "posterPath": "/tHol7EhS02JRe1IKh0BWXGTxqPw.jpg",
-      "rating": 8.253,
+      "rating": 8.3,
       "mediaType": "movie",
       "genreTitle": "爱情, 动画"
     },
@@ -1973,7 +1973,7 @@
       "releaseDate": "2010-06-04",
       "backdropPath": "/sT7f721Zvb9Feo11sbhvkk2JLHi.jpg",
       "posterPath": "/5zMc9ggvMIvEOwH9rj4ojMLaBFG.jpg",
-      "rating": 7.6,
+      "rating": 7.574,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -1986,7 +1986,7 @@
       "releaseDate": "2009-04-09",
       "backdropPath": "/8UxYHvKBNFnoyfHjgjMwzj4zOuy.jpg",
       "posterPath": "/dsWOucd7A2keJQYhyv827ir2zLy.jpg",
-      "rating": 7.873,
+      "rating": 7.872,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -1999,7 +1999,7 @@
       "releaseDate": "1954-04-26",
       "backdropPath": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
       "posterPath": "/trW7LvPSPzLzXjmuc05KNWYw0yf.jpg",
-      "rating": 8.452,
+      "rating": 8.451,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -2038,7 +2038,7 @@
       "releaseDate": "1960-06-22",
       "backdropPath": "/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
       "posterPath": "/ocbBnQ7kYPJHSIlFmSg6LwxFrh2.jpg",
-      "rating": 8.415,
+      "rating": 8.416,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -2064,7 +2064,7 @@
       "releaseDate": "2020-12-25",
       "backdropPath": "/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
       "posterPath": "/yhyY94umEO1XkaxJAZJSMJk9hgt.jpg",
-      "rating": 8.092,
+      "rating": 8.093,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -2077,7 +2077,7 @@
       "releaseDate": "2023-12-06",
       "backdropPath": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
       "posterPath": "/wb2zm2m71l8Wg7eDPo9t9e8ySjB.jpg",
-      "rating": 7.977,
+      "rating": 7.971,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
     },
@@ -2129,7 +2129,7 @@
       "releaseDate": "2016-08-26",
       "backdropPath": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
       "posterPath": "/vRQ7wpxpHt2aV8RnOkwHlOQAMKe.jpg",
-      "rating": 8.478,
+      "rating": 8.476,
       "mediaType": "movie",
       "genreTitle": "动画, 爱情"
     },
@@ -2142,7 +2142,7 @@
       "releaseDate": "2001-12-28",
       "backdropPath": "/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
       "posterPath": "/8lVQXVhKBvAD4dwGvioBInC45HB.jpg",
-      "rating": 7.564,
+      "rating": 7.565,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -2155,7 +2155,7 @@
       "releaseDate": "2011-05-04",
       "backdropPath": "/eTmS7bpv7zaq5igfcxcKv64uydg.jpg",
       "posterPath": "/hgbCqAda7xugBEZ0PiiSRYdb12D.jpg",
-      "rating": 7.839,
+      "rating": 7.8,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -2177,11 +2177,11 @@
       "type": "tmdb",
       "title": "黑客帝国3：矩阵革命",
       "originalTitle": "The Matrix Revolutions",
-      "description": "第二集中，尼奥没有能从摧毁内部“母体”，他的身体在真实世界的飞船上陷于昏迷，思想却被困在介于“母体”和真实世界的中间地带，这个地方由“火车人”控制。墨菲斯和崔妮蒂等人知道了尼奥的情况，在守护天使的带领下，找到了“火车人”的控制者梅罗纹奇，经过一番激斗，将尼奥救了出来。此时，电子乌贼部队对锡安发起了猛烈的攻击，人类组织所有机甲战士展开顽强的抵抗，形势危在旦夕；尼奥和崔妮蒂驾驶了一艘飞船克服重重困难，到达机器城市，尼奥终于见到了机器世界的统治者“机器大帝”，双发谈判并达成了协议：尼奥除掉不受“母体”控制的史密斯，以换取锡安的和平。在“母体”中，尼奥和史密斯展开了关系人类生死存亡的最后决斗。",
+      "description": "在前一部中，尼奥没有能从摧毁内部“母体”，他的身体在真实世界的飞船上陷于昏迷，思想却被困在介于“母体”和真实世界的中间地带，这个地方由“火车人”控制。墨菲斯和崔妮蒂等人知道了尼奥的情况，在守护天使的带领下，找到了“火车人”的控制者梅罗纹加，经过一番激斗，将尼奥救了出来。此时，电子乌贼部队对锡安发起了猛烈的攻击，人类组织所有机甲战士展开顽强的抵抗，形势危在旦夕。尼奥和崔妮蒂驾驶了一艘飞船克服重重困难，到达机器城市，尼奥终于见到了机器世界的统治者“机器大帝”，双方谈判并达成了协议：尼奥除掉不受“母体”控制的史密斯，以换取锡安的和平。在“母体”中，尼奥和史密斯展开了关系人类生死存亡的最后决斗。",
       "releaseDate": "2003-11-05",
       "backdropPath": "/kJYPag1YrA4PsXIftFdq3QEaanV.jpg",
       "posterPath": "/m8Jh9GFuo27pI4JbpekywFwKUd1.jpg",
-      "rating": 6.749,
+      "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -2194,7 +2194,7 @@
       "releaseDate": "1991-05-24",
       "backdropPath": "/eA15zhxnhQSg4k5MUbbTERIU23Z.jpg",
       "posterPath": "/gcg7uU1pfszTcukhfFTTfQNJrL0.jpg",
-      "rating": 7.601,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -2212,17 +2212,17 @@
       "genreTitle": "犯罪, 惊悚"
     },
     {
-      "id": 359940,
+      "id": 258424,
       "type": "tmdb",
-      "title": "三块广告牌",
-      "originalTitle": "Three Billboards Outside Ebbing, Missouri",
-      "description": "本片是奥斯卡奖提名者马丁·麦克唐纳执导的一部黑色喜剧犯罪剧情片。在女儿遇害案悬置数月仍未破获后，米尔德丽德·海斯采取了一项大胆之举：她租下通往小镇路上的三块广告牌，牌上直指当地德高望重的警察局长比尔·威洛比的尖锐标语掀起轩然大波。而当威洛比麾下警员杰森·迪克森——一个沉迷酒精与暴力的不成熟妈宝男——卷入冲突后，米尔德丽德与埃宾镇执法部门之间的对抗愈演愈烈。[福克斯探照灯影业]",
-      "releaseDate": "2017-12-01",
-      "backdropPath": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
-      "posterPath": "/5WO5B3lGxGPhwvrgrYLqgWIb6hR.jpg",
-      "rating": 8.059,
+      "title": "高山下的花环",
+      "originalTitle": "高山下的花环",
+      "description": "影片跟随一支解放军连队从训练、参加1979年对越自卫反击战到战后余波的全过程，聚焦军队内部因特权现象激发的矛盾与反思。",
+      "releaseDate": "1984-10-01",
+      "backdropPath": "/2sLCc6i73v1pZLasmjf2iolnIxp.jpg",
+      "posterPath": "/pZVM4fvH5d7AOlj41jh04UGQWBf.jpg",
+      "rating": 8.3,
       "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
+      "genreTitle": "剧情, 战争"
     },
     {
       "id": 2503,
@@ -2238,17 +2238,17 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 258424,
+      "id": 359940,
       "type": "tmdb",
-      "title": "高山下的花环",
-      "originalTitle": "高山下的花环",
-      "description": "影片跟随一支解放军连队从训练、参加1979年对越自卫反击战到战后余波的全过程，聚焦军队内部因特权现象激发的矛盾与反思。",
-      "releaseDate": "1984-10-01",
-      "backdropPath": "/2sLCc6i73v1pZLasmjf2iolnIxp.jpg",
-      "posterPath": "/pZVM4fvH5d7AOlj41jh04UGQWBf.jpg",
-      "rating": 8.3,
+      "title": "三块广告牌",
+      "originalTitle": "Three Billboards Outside Ebbing, Missouri",
+      "description": "本片是奥斯卡奖提名者马丁·麦克唐纳执导的一部黑色喜剧犯罪剧情片。在女儿遇害案悬置数月仍未破获后，米尔德丽德·海斯采取了一项大胆之举：她租下通往小镇路上的三块广告牌，牌上直指当地德高望重的警察局长比尔·威洛比的尖锐标语掀起轩然大波。而当威洛比麾下警员杰森·迪克森——一个沉迷酒精与暴力的不成熟妈宝男——卷入冲突后，米尔德丽德与埃宾镇执法部门之间的对抗愈演愈烈。[福克斯探照灯影业]",
+      "releaseDate": "2017-12-01",
+      "backdropPath": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+      "posterPath": "/fQzCvF2R4P9YkPQK7gO9LNLcnlD.jpg",
+      "rating": 8.059,
       "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
+      "genreTitle": "犯罪, 剧情"
     },
     {
       "id": 176,
@@ -2272,7 +2272,7 @@
       "releaseDate": "2003-10-01",
       "backdropPath": "/j0bK5l5Wo4XvUUrKp1FckLvbse9.jpg",
       "posterPath": "/5xRCFetYT8cHlcIFjuWL5uyNjy.jpg",
-      "rating": 7.3,
+      "rating": 7.301,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -2285,7 +2285,7 @@
       "releaseDate": "2013-11-01",
       "backdropPath": "/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
       "posterPath": "/5KBwiHtGOqb4Moeti89IKvyNfpy.jpg",
-      "rating": 7.917,
+      "rating": 7.916,
       "mediaType": "movie",
       "genreTitle": "剧情, 历史"
     },
@@ -2298,7 +2298,7 @@
       "releaseDate": "2013-03-15",
       "backdropPath": "/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
       "posterPath": "/l4RBdhwowZLrCBqXjsQdA4rXtt6.jpg",
-      "rating": 6.9,
+      "rating": 6.934,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -2346,11 +2346,11 @@
       "type": "tmdb",
       "title": "雨中曲",
       "originalTitle": "Singin' in the Rain",
-      "description": "一家默片制作公司及其演员团队在向有声时代艰难转型。",
+      "description": "1927年，由唐·洛克伍德（吉恩·凯利 饰）和丽娜·雷蒙德（简·哈根 饰）主演的《皇家流氓》在好莱坞首映。由于丽娜刺耳的嗓音无法匹配其夺目的外貌，为了维护明星形象，宣传部只得安排唐一人讲话。首映后，由于钢琴师科斯莫·布朗（唐纳德·奥康纳 饰）的汽车爆胎，为了躲避疯狂的影迷，唐意外结识了能歌善舞的凯西·塞尔登（黛比·雷诺斯 饰），并被其深深吸引。数周后，首部有声电影《爵士歌手》爆红，唐与丽娜的新片《决斗骑士》不得不临时改变拍摄方式，而凯西也成为歌舞片演员。因预映口碑极差，科斯莫提议将《决斗骑士》改为歌舞片，由凯西为丽娜配音，凯西积极附议。与凯西吻别后，唐心花怒放，在雨中载歌载舞。科斯莫的计划能否奏效？幕后的凯西能否走到台前接受观众的掌声？",
       "releaseDate": "1952-04-10",
       "backdropPath": "/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
       "posterPath": "/7XRfsgxWPUbCwe4w3EHYTfSmadR.jpg",
-      "rating": 8.134,
+      "rating": 8.135,
       "mediaType": "movie",
       "genreTitle": "喜剧, 爱情"
     },
@@ -2363,7 +2363,7 @@
       "releaseDate": "1968-04-02",
       "backdropPath": "/30XRuUQGk5P9XB6mlfEF1eoWFgq.jpg",
       "posterPath": "/bO7J2LmtDYLyyBoOBeioYjp0VPl.jpg",
-      "rating": 8.054,
+      "rating": 8.053,
       "mediaType": "movie",
       "genreTitle": "科幻, 悬疑"
     },
@@ -2374,7 +2374,7 @@
       "originalTitle": "海街diary",
       "description": "在风光旖旎、阳光明媚的古都镰仓，城市一隅生活着香田家的三姐妹。长女幸（绫濑遥 饰）是某民营医院的护士，在妹妹面前有绝对的权威；次女佳乃（长泽雅美 饰）靓丽时尚，现供职于镰仓八幡信用金库，经常醉酒之际结交陌生男朋友；三女千佳（夏帆 饰）我行我素，搞怪不断，目前在某体育用品商店打工，时不时被二姐骂作宅女。15年前入赘到香田家的父亲和她们的母亲离婚，据外婆说是因为债务和女人的关系，但对年龄尚小的佳乃和千佳来说，童年的记忆早已模糊不清。母亲离婚后另行改嫁，撇下三姐妹跟随外婆过活。及至外婆过世后，她们变成了这间老旧却有着浓浓温情的住宅的唯一主人。在一个蝉鸣凄切的夏天，三姐妹突然接到父亲去世的噩耗。当年父亲和相熟的女人移居山形县，早和姐妹们失去了联系。在幸的命令下，佳乃和千佳启程参加父亲的葬礼，在那里她们不仅见到早已停止了呼吸的父亲，也邂逅了从未谋面的异母妹妹浅野玲（广濑丝丝 饰）。玲的母亲阳子（中村优子 饰）泣不成声，这个年仅13岁的女孩则选择坚强，从容沉稳地应对葬礼上的一切。她带着两个姐姐以及随后赶来的幸登上了山形的山顶，眺望父亲当年最为迷恋的风景。只有在这个无人的角落，她才能放声大哭，宣泄着心中的悲哀、不舍以及无法轻易道出的情愫。而香田三姐妹似乎也发掘到早已被深埋在时间尘埃中的美好记忆，关于父亲的碎片令女孩们的泪水夺眶而出。在离别的站台上，幸向玲发出邀请，希望这个小妹妹能搬到镰仓居住。以此为契机，玲的命运发生转变，她的脚步被引领到这个陌生同时蕴藏着熟悉痕迹的城市中来。小小的餐桌，四姐妹团团而坐，伴随着四季的流转，咀嚼品味人生路上的喜怒哀乐。在外婆去世的七周年忌上，久别的母亲（大竹忍 饰）姗姗而至，她的出现让幸、佳乃、千佳以及玲内心的秘密渐次浮现。不能原谅父母的长女，祈愿姐姐幸福的次女，并不了解父亲的三女，无法宽恕自己的四女，种种情绪交错碰撞，四姐妹的生活骤起波澜…",
       "releaseDate": "2015-06-13",
-      "backdropPath": "/ae08YRDvPW50LjnKhiX7QfaQw9q.jpg",
+      "backdropPath": "/b0Xdh15XGZbKON9CbFVB5sTqrSJ.jpg",
       "posterPath": "/cd78ie8CrDkLpXVP4R1N6Gy8IrD.jpg",
       "rating": 7.6,
       "mediaType": "movie",
@@ -2389,7 +2389,7 @@
       "releaseDate": "1984-03-11",
       "backdropPath": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
       "posterPath": "/i5f77wo5ubimRI5Dvy1cY1zMxKX.jpg",
-      "rating": 7.949,
+      "rating": 7.948,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -2428,7 +2428,7 @@
       "releaseDate": "1986-08-02",
       "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
       "posterPath": "/xdy2aw0MwO5ZilPHDbZzpGhq2v5.jpg",
-      "rating": 7.4,
+      "rating": 7.383,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -2441,7 +2441,7 @@
       "releaseDate": "2000-10-11",
       "backdropPath": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "posterPath": "/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
-      "rating": 8.2,
+      "rating": 8.177,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
     },
@@ -2467,7 +2467,7 @@
       "releaseDate": "2012-11-01",
       "backdropPath": "/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
       "posterPath": "/fOdS0JZsWvxtyYwZRS0MZDyEvk8.jpg",
-      "rating": 7.356,
+      "rating": 7.355,
       "mediaType": "movie",
       "genreTitle": "家庭, 动画"
     },
@@ -2480,22 +2480,22 @@
       "releaseDate": "2004-12-22",
       "backdropPath": "/jkvvXaN7FPVKGlk8oj9PL0FHNtj.jpg",
       "posterPath": "/7okrglkcWenBy9SpScYvusmTyan.jpg",
-      "rating": 7.72,
+      "rating": 7.719,
       "mediaType": "movie",
       "genreTitle": "剧情, 历史"
     },
     {
-      "id": 13398,
+      "id": 26466,
       "type": "tmdb",
-      "title": "东京教父",
-      "originalTitle": "東京ゴッドファーザーズ",
-      "description": "圣诞夜，退役自行车选手Gin，跨性别者花，离家出走的少女美由纪三人在东京的雪夜中无所事事。这是，他们发现垃圾堆中有一位哭泣的弃婴。孩子的襁褓中仅有一个酒吧的名片与照片。婴儿的父母身份成了谜团。花想收留孩子，并将孩子取名清子。但另外2人表示反对。于是三人开始了寻找清子的父母的旅程。圣诞夜幸福的气氛，伴随的却是怀中清子的哭泣。无家可归的三个人，开始为同样无家可归的清子找寻属于她的家。这一队流浪者，在一夜经历了诸多奇妙的事件。他们能找到清子的父母吗？",
-      "releaseDate": "2003-12-05",
-      "backdropPath": "/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
-      "posterPath": "/mnW3DcMh63tUcwHOwpNfE0KPhii.jpg",
-      "rating": 7.927,
+      "title": "恐怖游轮",
+      "originalTitle": "Triangle",
+      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
+      "releaseDate": "2009-10-16",
+      "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
+      "posterPath": "/14kVk9BDrBOLb6xomJRyt915xCe.jpg",
+      "rating": 6.924,
       "mediaType": "movie",
-      "genreTitle": "动画, 剧情"
+      "genreTitle": "恐怖"
     },
     {
       "id": 15804,
@@ -2506,22 +2506,22 @@
       "releaseDate": "1991-07-27",
       "backdropPath": "/hypv7bDxzqdhJfEpjRKf1aQbdc.jpg",
       "posterPath": "/g5gMOcn0vFUITufKSxxL2WCyBIU.jpg",
-      "rating": 8.3,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 26466,
+      "id": 13398,
       "type": "tmdb",
-      "title": "恐怖游轮",
-      "originalTitle": "Triangle",
-      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
-      "releaseDate": "2009-10-16",
-      "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
-      "posterPath": "/eQsMVK15NHLMFPPaWW2Oq70ZdJV.jpg",
-      "rating": 6.9,
+      "title": "东京教父",
+      "originalTitle": "東京ゴッドファーザーズ",
+      "description": "圣诞夜，退役自行车选手Gin，跨性别者花，离家出走的少女美由纪三人在东京的雪夜中无所事事。这是，他们发现垃圾堆中有一位哭泣的弃婴。孩子的襁褓中仅有一个酒吧的名片与照片。婴儿的父母身份成了谜团。花想收留孩子，并将孩子取名清子。但另外2人表示反对。于是三人开始了寻找清子的父母的旅程。圣诞夜幸福的气氛，伴随的却是怀中清子的哭泣。无家可归的三个人，开始为同样无家可归的清子找寻属于她的家。这一队流浪者，在一夜经历了诸多奇妙的事件。他们能找到清子的父母吗？",
+      "releaseDate": "2003-12-05",
+      "backdropPath": "/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
+      "posterPath": "/mnW3DcMh63tUcwHOwpNfE0KPhii.jpg",
+      "rating": 7.9,
       "mediaType": "movie",
-      "genreTitle": "恐怖"
+      "genreTitle": "动画, 剧情"
     },
     {
       "id": 505192,
@@ -2532,7 +2532,7 @@
       "releaseDate": "2018-06-02",
       "backdropPath": "/k49RhOmaKfoybjR3vBSaOJrIGmc.jpg",
       "posterPath": "/kaX3NJ5umSF4CJqDthyXtpDAMsX.jpg",
-      "rating": 7.8,
+      "rating": 7.841,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -2545,7 +2545,7 @@
       "releaseDate": "1989-07-29",
       "backdropPath": "/h5pAEVma835u8xoE60kmLVopLct.jpg",
       "posterPath": "/oFouL0QtqVjGP6JutSCYpY4AM5b.jpg",
-      "rating": 7.834,
+      "rating": 7.8,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -2558,7 +2558,7 @@
       "releaseDate": "2002-03-14",
       "backdropPath": "/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
       "posterPath": "/pfC2zftvTWljvwiB3uvZ55Vedb7.jpg",
-      "rating": 7.37,
+      "rating": 7.369,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -2636,7 +2636,7 @@
       "releaseDate": "2017-10-13",
       "backdropPath": "/bwDPtZ2UOQqS2L6TPXoNRlCMF5o.jpg",
       "posterPath": "/xKlaoz24hGaYhWEFZ1IQFpean3s.jpg",
-      "rating": 7.914,
+      "rating": 7.906,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -2649,7 +2649,7 @@
       "releaseDate": "2011-03-30",
       "backdropPath": "/s2Cu1y9Al9RbwRU5blAH8wMCrBI.jpg",
       "posterPath": "/4wb3Qn8NFkT0YoP6eoK04jaOHtl.jpg",
-      "rating": 7.309,
+      "rating": 7.31,
       "mediaType": "movie",
       "genreTitle": "惊悚, 科幻"
     },
@@ -2662,7 +2662,7 @@
       "releaseDate": "2021-01-29",
       "backdropPath": "/893hqH2OLQo1Vv0dwHtQmrfP3fT.jpg",
       "posterPath": "/nvStCqSfgtEAUMv31iXAE99pzEp.jpg",
-      "rating": 7.739,
+      "rating": 7.723,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -2674,8 +2674,8 @@
       "description": "沃特·密提 是一名在《生活》杂志工作了16年的胶片洗印经理。他性格内向，甚至无法跟心仪的同事谢莉尔 开口搭讪。面对生活他像个旁观者，时常“放空”做白日英雄梦。直到有一天公司被并购，杂志需要做最后一期的封面，而封面成功与否的关键是能否找到狂野摄影师尚恩 的一卷胶片。沃特终于开口搭讪谢莉尔，并在她和母亲 的鼓励下踏上真正的冒险之旅。 冰原、大海、喜马拉雅山……沃特的白日梦远不及现实壮丽。",
       "releaseDate": "2013-12-18",
       "backdropPath": "/pzMrxeP9XkKOtQVUBPTq5yk4ck5.jpg",
-      "posterPath": "/i2uL7cpQvrKoHkelXjICdud6ZIA.jpg",
-      "rating": 7.218,
+      "posterPath": "/xUvcmKgDFRy79LqTibh7bpu1R5r.jpg",
+      "rating": 7.2,
       "mediaType": "movie",
       "genreTitle": "冒险, 喜剧"
     },
@@ -2753,7 +2753,7 @@
       "releaseDate": "2018-10-24",
       "backdropPath": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
       "posterPath": "/yNFB3w856i8HcHld5xeeT0avTFt.jpg",
-      "rating": 7.958,
+      "rating": 7.957,
       "mediaType": "movie",
       "genreTitle": "音乐, 剧情"
     },
@@ -2766,7 +2766,7 @@
       "releaseDate": "1931-02-06",
       "backdropPath": "/qhKMAWxuu4TXCJCWVMqfveqanMP.jpg",
       "posterPath": "/hGUhhcC0YxhVuo36SvaRmDDM7o5.jpg",
-      "rating": 8.3,
+      "rating": 8.252,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -2805,7 +2805,7 @@
       "releaseDate": "1994-09-17",
       "backdropPath": "/smtzZRpE8hQkQNnhQg2TIRfcWcj.jpg",
       "posterPath": "/jGbc7RFWqeKt9WMm0EE87jaILKb.jpg",
-      "rating": 7.05,
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情, 动作"
     },
@@ -2818,7 +2818,7 @@
       "releaseDate": "2010-11-17",
       "backdropPath": "/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg",
       "posterPath": "/AuUYSqCVdGNezYU1dcl1dNpod0k.jpg",
-      "rating": 7.735,
+      "rating": 7.734,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -2831,7 +2831,7 @@
       "releaseDate": "2009-08-02",
       "backdropPath": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
       "posterPath": "/5j2CTOn2uggMAxPUg9JsxHmqCIU.jpg",
-      "rating": 8.2,
+      "rating": 8.217,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -2857,7 +2857,7 @@
       "releaseDate": "1991-12-18",
       "backdropPath": "/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
       "posterPath": "/c8e6H3G3RNRsBQrSPv3yxUhblXZ.jpg",
-      "rating": 7.915,
+      "rating": 7.916,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -2883,7 +2883,7 @@
       "releaseDate": "1992-08-22",
       "backdropPath": "/kQBEHIcFrUPIudjIlsULhglRQzc.jpg",
       "posterPath": "/asdeRApjcwPmOmEIkpVOx9004uK.jpg",
-      "rating": 7.282,
+      "rating": 7.28,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -2896,7 +2896,7 @@
       "releaseDate": "2010-08-12",
       "backdropPath": "/qQRpC4S36cyqZPwDGnbc9pMgVo7.jpg",
       "posterPath": "/ivhjxKcFPY8ZVSQVGi1acx545vJ.jpg",
-      "rating": 7.8,
+      "rating": 7.767,
       "mediaType": "movie",
       "genreTitle": "喜剧, 爱情"
     },
@@ -2909,7 +2909,7 @@
       "releaseDate": "1997-07-09",
       "backdropPath": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
       "posterPath": "/pKtirbfjgx9myanD7ERNvsFYvJU.jpg",
-      "rating": 7.6,
+      "rating": 7.564,
       "mediaType": "movie",
       "genreTitle": "惊悚, 科幻"
     },
@@ -2922,7 +2922,7 @@
       "releaseDate": "2001-06-29",
       "backdropPath": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
       "posterPath": "/gcg2f4ALMs5ohU4ksjf1XofNvSm.jpg",
-      "rating": 7.056,
+      "rating": 7.055,
       "mediaType": "movie",
       "genreTitle": "剧情, 科幻"
     },
@@ -2935,7 +2935,7 @@
       "releaseDate": "2008-07-19",
       "backdropPath": "/shqLeIkqPAAXM8iT6wVDiXUYz1p.jpg",
       "posterPath": "/cgGsTfcTSBzqcpyl1DWKDCJzxl3.jpg",
-      "rating": 7.754,
+      "rating": 7.8,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
     },
@@ -2948,7 +2948,7 @@
       "releaseDate": "1988-12-12",
       "backdropPath": "/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg",
       "posterPath": "/n3s3ZP6p4bKsKhnXmfb5ArL1g1P.jpg",
-      "rating": 7.751,
+      "rating": 7.75,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -2961,7 +2961,7 @@
       "releaseDate": "1966-12-08",
       "backdropPath": "/bodTQ7K68AopK2uQumsrSVT9g4A.jpg",
       "posterPath": "/49XBrMc1LkoMtkPK1b17Yhb0xh.jpg",
-      "rating": 7.923,
+      "rating": 7.921,
       "mediaType": "movie",
       "genreTitle": "喜剧, 战争"
     },
@@ -2987,7 +2987,7 @@
       "releaseDate": "2014-04-06",
       "backdropPath": "/cvGE73s935bXEAVt2W0zADPPegG.jpg",
       "posterPath": "/7zQE3Dx96FDfu82cIqJHl1dCV3J.jpg",
-      "rating": 7.213,
+      "rating": 7.214,
       "mediaType": "movie",
       "genreTitle": "惊悚, 科幻"
     },
@@ -3000,7 +3000,7 @@
       "releaseDate": "1950-08-26",
       "backdropPath": "/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
       "posterPath": "/7S5ut0iDmuevbGc0hDBxFJLthEd.jpg",
-      "rating": 8.04,
+      "rating": 8.041,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
@@ -3013,7 +3013,7 @@
       "releaseDate": "2016-11-17",
       "backdropPath": "/fjk4eE8Ypke4YLv5A3ArDH4GzYH.jpg",
       "posterPath": "/tZ3cAEoLRJp4ebVzIef7y8xzHlx.jpg",
-      "rating": 7.553,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -3065,7 +3065,7 @@
       "releaseDate": "2003-05-15",
       "backdropPath": "/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
       "posterPath": "/aVAGoj2P0NVcnjKy2dxCCEh5Zza.jpg",
-      "rating": 7.071,
+      "rating": 7.072,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -3078,7 +3078,7 @@
       "releaseDate": "2013-11-20",
       "backdropPath": "/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
       "posterPath": "/vMBtfmxa9KN8ituT6Y4m8xRP1kt.jpg",
-      "rating": 7.248,
+      "rating": 7.247,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -3091,7 +3091,7 @@
       "releaseDate": "2008-06-28",
       "backdropPath": "/lvSB0bnLzuxwrfTlI2l13gctWRn.jpg",
       "posterPath": "/8M0PBJYX8s04u81XeZn3BXGj54U.jpg",
-      "rating": 7.776,
+      "rating": 7.779,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -3117,9 +3117,9 @@
       "releaseDate": "2002-09-14",
       "backdropPath": "/jZW391Kknf4YiIaZ1XHyVjnJaKe.jpg",
       "posterPath": "/DapAI24FrLj2TdwA1TUVtTkkl3.jpg",
-      "rating": 7.842,
+      "rating": 7.8,
       "mediaType": "movie",
-      "genreTitle": "剧情, 动画"
+      "genreTitle": "动画, 剧情"
     },
     {
       "id": 1830,
@@ -3130,7 +3130,7 @@
       "releaseDate": "2005-09-16",
       "backdropPath": "/nkC2qbZooCzb0koMq03MuQ1YqKo.jpg",
       "posterPath": "/s9G6AFTi6tzzpzekijKECUB1ayW.jpg",
-      "rating": 7.343,
+      "rating": 7.344,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
@@ -3182,7 +3182,7 @@
       "releaseDate": "2006-12-08",
       "backdropPath": "/vffPZUYScdWtGU0UrccFIRX4LbV.jpg",
       "posterPath": "/tGzefmrMBGAKSjrCa1nQu9jWOlb.jpg",
-      "rating": 7.556,
+      "rating": 7.555,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -3195,7 +3195,7 @@
       "releaseDate": "2016-06-01",
       "backdropPath": "/3upEZ0ltY7WwOSFVXrtiP34D48p.jpg",
       "posterPath": "/4XSCTGx7qAkvcrFXMjrM1SpGPu0.jpg",
-      "rating": 8.189,
+      "rating": 8.188,
       "mediaType": "movie",
       "genreTitle": "惊悚, 剧情"
     },
@@ -3234,7 +3234,7 @@
       "releaseDate": "1940-05-17",
       "backdropPath": "/7hVg5V8SVIRNyAkivKkOC5LbKIG.jpg",
       "posterPath": "/d8KZh9o4XDGXz1oLFN3nD5RAOLC.jpg",
-      "rating": 7.5,
+      "rating": 7.503,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
