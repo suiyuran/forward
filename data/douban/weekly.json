@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-26T20:25:32.757Z",
+  "time": "2026-04-27T20:46:58.376Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-01-15",
         "backdropPath": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
         "posterPath": "/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-        "rating": 7.867,
+        "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-02-13",
         "backdropPath": "/gYxOlYtLvGNrzYm6kQBcY5mqKja.jpg",
         "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-        "rating": 7.695,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "喜剧, 科幻"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-11-27",
         "backdropPath": "/hZA81b0mSIZWQPIqYwvPHg11rTT.jpg",
         "posterPath": "/fLiU0gSq24B8IqXw2fXEo6T3BT8.jpg",
-        "rating": 7.25,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
-        "rating": 7.8,
+        "rating": 6.4,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 7.7,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.036,
+        "rating": 6.241,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,19 +314,19 @@
         "releaseDate": "2026-03-08",
         "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
         "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
-        "rating": 5,
+        "rating": 5.7,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
       {
         "id": 289424,
         "type": "tmdb",
-        "title": "努力克服自卑的我们",
+        "title": "所有人都在与自身的无价值感斗争",
         "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
         "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "posterPath": "/ovNzwYGIXVeb7hdcDzlDqC0FVRa.jpg",
+        "posterPath": "/AfOAORRd0ZV9vW3vQs1GSuVik4e.jpg",
         "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 0,
+        "rating": 8.25,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-12",
         "backdropPath": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
         "posterPath": "/2fQXV9wqD63IrZlfNqMkFzx2pkT.jpg",
-        "rating": 7.2,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-03",
         "backdropPath": "/n61sgsYJj02oO4AWFWLrGq9toqe.jpg",
         "posterPath": "/uFuLv8Ta9XyXomfFphDSHZWwirp.jpg",
-        "rating": 0,
+        "rating": 2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-03-16",
         "backdropPath": "/ynixwhYEcDrYRr5Jft0LNqAQERQ.jpg",
         "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
-        "rating": 7.9,
+        "rating": 6.611,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       }
