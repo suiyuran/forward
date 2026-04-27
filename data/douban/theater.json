@@ -1,7 +1,20 @@
 {
-  "time": "2026-04-26T18:42:26.671Z",
+  "time": "2026-04-27T19:09:17.653Z",
   "data": {
     "爱奇艺·迷雾剧场": [
+      {
+        "id": 272432,
+        "type": "tmdb",
+        "title": "擒贼记",
+        "originalTitle": "擒贼记",
+        "description": "脱离一线刑侦几年的警察张一昂（王骁 饰），因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣（王传君 饰）团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
+        "releaseDate": "2026-04-28",
+        "backdropPath": null,
+        "posterPath": "/egOAcZCXECsQV1c4mhg5vEYzveV.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
       {
         "id": 281495,
         "type": "tmdb",
@@ -390,7 +403,7 @@
         "releaseDate": "2026-04-26",
         "backdropPath": "/fPQljDQuMsFO4BkcGb4s0459Lbr.jpg",
         "posterPath": "/qUhPr2XpczJpnQnXIqJjYaCxOli.jpg",
-        "rating": 8,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "犯罪"
       },
