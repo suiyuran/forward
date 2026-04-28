@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-27T20:46:58.376Z",
+  "time": "2026-04-28T20:55:38.621Z",
   "data": {
     "电影": [
       {
@@ -19,7 +19,7 @@
         "id": 1168719,
         "type": "tmdb",
         "title": "寂静的朋友",
-        "originalTitle": "Stiller Freund",
+        "originalTitle": "Silent Friend",
         "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
         "releaseDate": "2026-01-15",
         "backdropPath": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
@@ -50,7 +50,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/sv12y5tWaE4seAy53tMbCapvSE3.jpg",
         "posterPath": "/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
-        "rating": 7.7,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-11-27",
         "backdropPath": "/hZA81b0mSIZWQPIqYwvPHg11rTT.jpg",
         "posterPath": "/fLiU0gSq24B8IqXw2fXEo6T3BT8.jpg",
-        "rating": 7.5,
+        "rating": 7.917,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2025-11-28",
         "backdropPath": "/vO0YxmF987FPpRTBeEviOKF4RBZ.jpg",
         "posterPath": "/uDs91HbqiLNOITxBQhkFZjzdWCM.jpg",
-        "rating": 6,
+        "rating": 7.25,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -321,13 +321,13 @@
       {
         "id": 289424,
         "type": "tmdb",
-        "title": "所有人都在与自身的无价值感斗争",
+        "title": "努力克服自卑的我们",
         "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
         "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
         "posterPath": "/AfOAORRd0ZV9vW3vQs1GSuVik4e.jpg",
-        "rating": 9.2,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.25,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -390,9 +390,9 @@
         "originalTitle": "클라이맥스",
         "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
         "releaseDate": "2026-03-16",
-        "backdropPath": "/ynixwhYEcDrYRr5Jft0LNqAQERQ.jpg",
+        "backdropPath": "/qlAXmUpplaH6ysM8Hujg7keWP7V.jpg",
         "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
-        "rating": 6.611,
+        "rating": 6.6,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       }
