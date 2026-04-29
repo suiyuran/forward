@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-28T20:55:38.621Z",
+  "time": "2026-04-29T20:48:08.783Z",
   "data": {
     "电影": [
       {
@@ -19,7 +19,7 @@
         "id": 1168719,
         "type": "tmdb",
         "title": "寂静的朋友",
-        "originalTitle": "Silent Friend",
+        "originalTitle": "Stille Freundin",
         "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
         "releaseDate": "2026-01-15",
         "backdropPath": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
@@ -128,7 +128,7 @@
         "releaseDate": "2026-02-19",
         "backdropPath": "/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
         "posterPath": "/urMjy6nS4xzIZIlXxiejh3xXPts.jpg",
-        "rating": 7,
+        "rating": 6.976,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       }
@@ -174,19 +174,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 317717,
-        "type": "tmdb",
-        "title": "果实",
-        "originalTitle": "果實",
-        "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
-        "releaseDate": "2026-03-27",
-        "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
-        "posterPath": "/vdB6e9slprXFhaeClQpfVw6FYOE.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 275631,
         "type": "tmdb",
         "title": "非常检控观",
@@ -213,6 +200,19 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
+        "id": 281392,
+        "type": "tmdb",
+        "title": "钢铁森林",
+        "originalTitle": "钢铁森林",
+        "description": "海州市通河岸边，五年前“8·17”大案的全新线索浮出水面。南城公安分局侦查员周瑾（蔡文静 饰）因其兄周川是该案中不幸殉职的两名特警之一，主动请缨投入追查。在犯罪心理学教授江寒声（井柏然 饰）的帮助下，警方锁定了以神秘人“老蝎”为首的犯罪集团。与此同时，执行“藏锋行动”长达五年之久的卧底民警蒋诚（秦俊杰 饰），也已摸进敌人核心，距“老蝎”仅有一步之遥。\n\n为了将犯罪集团一网打尽，周瑾、江寒声、蒋诚三个曾在栀子巷中一起长大的年轻人，在各自岗位上竭尽所能，与不法分子斗智斗勇，凭借正义、勇气和智慧战胜邪恶。在这场跨越时间与谜团的重重阻碍中，三人被迫卷入以情感为筹码、以人心为赌注的危险博弈，埋藏心底的隐痛与难解的命运谜题也在案件推进中逐步揭开。",
+        "releaseDate": "2026-04-03",
+        "backdropPath": "/6p2BAwHKgIQfkoRdqVf3apf9ON9.jpg",
+        "posterPath": "/abKwcuNbavcIGEFGTtLV11GT0dZ.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 犯罪"
+      },
+      {
         "id": 283961,
         "type": "tmdb",
         "title": "你是迟来的欢喜",
@@ -222,6 +222,19 @@
         "backdropPath": "/cWs510A3RhRL8KiUhSgIaDTCyIx.jpg",
         "posterPath": "/yWD7slh3uKb9LZNKokSo84zD7xa.jpg",
         "rating": 6.7,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 317717,
+        "type": "tmdb",
+        "title": "果实",
+        "originalTitle": "果實",
+        "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
+        "releaseDate": "2026-03-27",
+        "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
+        "posterPath": "/vdB6e9slprXFhaeClQpfVw6FYOE.jpg",
+        "rating": 0,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -237,19 +250,6 @@
         "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 281392,
-        "type": "tmdb",
-        "title": "钢铁森林",
-        "originalTitle": "钢铁森林",
-        "description": "海州市通河岸边，五年前“8·17”大案的全新线索浮出水面。南城公安分局侦查员周瑾（蔡文静 饰）因其兄周川是该案中不幸殉职的两名特警之一，主动请缨投入追查。在犯罪心理学教授江寒声（井柏然 饰）的帮助下，警方锁定了以神秘人“老蝎”为首的犯罪集团。与此同时，执行“藏锋行动”长达五年之久的卧底民警蒋诚（秦俊杰 饰），也已摸进敌人核心，距“老蝎”仅有一步之遥。\n\n为了将犯罪集团一网打尽，周瑾、江寒声、蒋诚三个曾在栀子巷中一起长大的年轻人，在各自岗位上竭尽所能，与不法分子斗智斗勇，凭借正义、勇气和智慧战胜邪恶。在这场跨越时间与谜团的重重阻碍中，三人被迫卷入以情感为筹码、以人心为赌注的危险博弈，埋藏心底的隐痛与难解的命运谜题也在案件推进中逐步揭开。",
-        "releaseDate": "2026-04-03",
-        "backdropPath": "/6p2BAwHKgIQfkoRdqVf3apf9ON9.jpg",
-        "posterPath": "/abKwcuNbavcIGEFGTtLV11GT0dZ.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 犯罪"
       },
       {
         "id": 244189,
@@ -275,9 +275,22 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
-        "rating": 6.4,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
+      },
+      {
+        "id": 95557,
+        "type": "tmdb",
+        "title": "无敌少侠",
+        "originalTitle": "INVINCIBLE",
+        "description": "当世界仍在从全球灾难中恢复之际，已发生变化的马克因内疚而痛苦不堪。他在全力保护家园和挚爱之人时，与一股强大的新威胁正面交锋，这股威胁足以永远改变人类的命运。",
+        "releaseDate": "2026-03-18",
+        "backdropPath": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+        "posterPath": "/qKGKemIogTDTfZoGZEt79V7HUGX.jpg",
+        "rating": 7.6,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
       },
       {
         "id": 124101,
@@ -291,6 +304,32 @@
         "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 289424,
+        "type": "tmdb",
+        "title": "所有人都在与自身的无价值斗争",
+        "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
+        "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
+        "releaseDate": "2026-04-18",
+        "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+        "posterPath": "/AfOAORRd0ZV9vW3vQs1GSuVik4e.jpg",
+        "rating": 9.1,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 285838,
+        "type": "tmdb",
+        "title": "Girigo：夺命许愿",
+        "originalTitle": "기리고",
+        "description": "一款神秘的应用程序承诺能实现愿望，却紧接着启动死亡倒计时。一群青少年因此卷入其中，他们必须打破这条致命连锁才能活下去。",
+        "releaseDate": "2026-04-24",
+        "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+        "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
+        "rating": 8.019,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 剧情"
       },
       {
         "id": 287527,
@@ -319,19 +358,6 @@
         "genreTitle": "犯罪, 剧情"
       },
       {
-        "id": 289424,
-        "type": "tmdb",
-        "title": "努力克服自卑的我们",
-        "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
-        "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
-        "releaseDate": "2026-04-18",
-        "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "posterPath": "/AfOAORRd0ZV9vW3vQs1GSuVik4e.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 278573,
         "type": "tmdb",
         "title": "21世纪大君夫人",
@@ -343,19 +369,6 @@
         "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 85552,
-        "type": "tmdb",
-        "title": "亢奋",
-        "originalTitle": "Euphoria",
-        "description": "一群高中生在一个充满毒品、性爱、创伤与社群媒体的世界，探索爱与友谊。",
-        "releaseDate": "2026-04-12",
-        "backdropPath": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "posterPath": "/2fQXV9wqD63IrZlfNqMkFzx2pkT.jpg",
-        "rating": 7.3,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       },
       {
         "id": 225780,
@@ -382,19 +395,6 @@
         "rating": 2,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 241860,
-        "type": "tmdb",
-        "title": "权欲之巅 Climax",
-        "originalTitle": "클라이맥스",
-        "description": "剧情聚焦检察官「方泰燮」（朱智勋 饰），为了登上韩国政坛顶峰而潜入权力集团，与曾是韩国顶级女星的「秋尚雅」（河智苑 饰）结婚后，一夜​​之间成为炙手可热的「明星检察官」。 河智苑在剧中饰演婚后事业急速下滑、被外界视为过气女星的秋尚雅，展开一段在野心与名利夹击下的高张力关系。",
-        "releaseDate": "2026-03-16",
-        "backdropPath": "/qlAXmUpplaH6ysM8Hujg7keWP7V.jpg",
-        "posterPath": "/ruld5xeOsfDrqRD5aP8iWeuxRKw.jpg",
-        "rating": 6.6,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 剧情"
       }
     ]
   }
