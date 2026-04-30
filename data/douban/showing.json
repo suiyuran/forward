@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-29T18:13:45.432Z",
+  "time": "2026-04-30T18:12:02.177Z",
   "data": [
     {
       "id": 1168719,
@@ -23,9 +23,35 @@
       "releaseDate": "2026-04-22",
       "backdropPath": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "posterPath": "/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
-      "rating": 7.613,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "音乐, 剧情"
+    },
+    {
+      "id": 1549824,
+      "type": "tmdb",
+      "title": "门牙",
+      "originalTitle": "门牙",
+      "description": "李未阳（章宇 饰）骑摩托被撞，导致女友沈青（陈昊宇 饰）失去两颗门牙。他没钱，但一定要为女友装上两颗最好的门牙。为了这笔钱，他开始与肇事者，保险公司进行周旋。伤者与肇事者拮据但平静的生活被这场突发意外打乱。",
+      "releaseDate": "2026-05-01",
+      "backdropPath": "/dZfmcyMpYPxY5RXW6P2JOAeXKeA.jpg",
+      "posterPath": "/sm7TQZlGilRKNvpYREd7iNeQVGY.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1499071,
+      "type": "tmdb",
+      "title": "寒战1994",
+      "originalTitle": "寒戰1994",
+      "description": "1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
+      "releaseDate": "2026-05-01",
+      "backdropPath": "/izha2mBeBHfCIniJCibpJIUovy0.jpg",
+      "posterPath": "/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 剧情"
     },
     {
       "id": 1314481,
@@ -36,7 +62,7 @@
       "releaseDate": "2026-04-29",
       "backdropPath": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "posterPath": "/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
-      "rating": 8.1,
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -54,17 +80,17 @@
       "genreTitle": "剧情, 家庭"
     },
     {
-      "id": 1418531,
+      "id": 1492501,
       "type": "tmdb",
-      "title": "燃比娃",
-      "originalTitle": "燃比娃",
-      "description": "影片故事源自羌族神话，讲述了一只被人类抚养长大的猴子，追寻母亲阿勿巴吉（周迅 配音）的足迹，踏上神山探寻“温暖”之谜的旅程。他在“恐惧之兽”口中夺取火种，烈焰焚身，褪去毛发，涅槃成人。",
-      "releaseDate": "2026-04-28",
-      "backdropPath": "/uzJxjBo7jp1eFOUnNFKMShiQtRo.jpg",
-      "posterPath": "/345iQbrsk9GPUrk8toAuhxcacss.jpg",
+      "title": "10间敢死队",
+      "originalTitle": "10间敢死队",
+      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
+      "releaseDate": "2026-04-25",
+      "backdropPath": "/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
+      "posterPath": "/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
+      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1546855,
@@ -78,6 +104,58 @@
       "rating": 6.857,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1418531,
+      "type": "tmdb",
+      "title": "燃比娃",
+      "originalTitle": "燃比娃",
+      "description": "影片故事源自羌族神话，讲述了一只被人类抚养长大的猴子，追寻母亲阿勿巴吉（周迅 配音）的足迹，踏上神山探寻“温暖”之谜的旅程。他在“恐惧之兽”口中夺取火种，烈焰焚身，褪去毛发，涅槃成人。",
+      "releaseDate": "2026-04-28",
+      "backdropPath": "/uzJxjBo7jp1eFOUnNFKMShiQtRo.jpg",
+      "posterPath": "/345iQbrsk9GPUrk8toAuhxcacss.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
+      "id": 687163,
+      "type": "tmdb",
+      "title": "挽救计划",
+      "originalTitle": "Project Hail Mary",
+      "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
+      "releaseDate": "2026-03-15",
+      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
+      "rating": 8.208,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 冒险"
+    },
+    {
+      "id": 1658653,
+      "type": "tmdb",
+      "title": "消失的人",
+      "originalTitle": "消失的人",
+      "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
+      "releaseDate": "2026-05-01",
+      "backdropPath": null,
+      "posterPath": "/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
+    },
+    {
+      "id": 1124566,
+      "type": "tmdb",
+      "title": "情感价值",
+      "originalTitle": "Affeksjonsverdi",
+      "description": "舞台剧演员诺拉（雷娜特·赖因斯夫 饰）在母亲离世后，突然迎来了生命中长期缺席的父亲古斯塔夫（斯特兰·斯卡斯加德 饰）。这位知名导演携带着自诩为“生涯最佳”的剧本不请自来，不仅执意邀请诺拉担任新片女主角，更坚持要在承载着家族记忆的北欧老宅取景。那栋宛如童话般梦幻的建筑，正是诺拉与妹妹阿格尼丝（英加·伊布斯多特·利勒亚斯 饰）的成长之地。面对这位早已抛弃家庭的父亲，诺拉斩钉截铁地表示拒绝。对她而言，二人之间没有和解的余地。直到仰慕古斯塔夫的好莱坞明星蕾切尔（艾丽·范宁 饰）代替她出演片中主角，事情逐渐往意想不到的方向发展：这个破碎家庭的“情感价值”开始以一种微妙的方式进行“重估” 。",
+      "releaseDate": "2025-08-20",
+      "backdropPath": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
+      "posterPath": "/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
+      "rating": 7.493,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1645455,
@@ -127,9 +205,22 @@
       "releaseDate": "2026-04-01",
       "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-      "rating": 6.731,
+      "rating": 6.726,
       "mediaType": "movie",
       "genreTitle": "家庭, 喜剧"
+    },
+    {
+      "id": 1327819,
+      "type": "tmdb",
+      "title": "河狸变身计划",
+      "originalTitle": "Hoppers",
+      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
+      "releaseDate": "2026-03-04",
+      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
+      "rating": 7.678,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动画"
     },
     {
       "id": 1481955,
@@ -145,19 +236,6 @@
       "genreTitle": "剧情, 音乐"
     },
     {
-      "id": 1327819,
-      "type": "tmdb",
-      "title": "河狸变身计划",
-      "originalTitle": "Hoppers",
-      "description": "梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
-      "releaseDate": "2026-03-04",
-      "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "posterPath": "/fAKE5cezL6eOezlNCz8U2coDd86.jpg",
-      "rating": 7.651,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动画"
-    },
-    {
       "id": 1657534,
       "type": "tmdb",
       "title": "蝴蝶楼·惊魂",
@@ -169,6 +247,58 @@
       "rating": 4,
       "mediaType": "movie",
       "genreTitle": "惊悚, 恐怖"
+    },
+    {
+      "id": 1268919,
+      "type": "tmdb",
+      "title": "植物学家",
+      "originalTitle": "植物学家",
+      "description": "影片讲述中国新疆北部边境的山谷村庄里，孤独的哈萨克族男孩与植物为伴，他在追寻逝去的时光中，逐渐隐入植物世界的梦幻寓言。",
+      "releaseDate": "2026-04-14",
+      "backdropPath": "/f6yYzckSVd3zkh6cAbBonuWcZXl.jpg",
+      "posterPath": "/qcTnfHjFULdt2Ze5SAdlj8zkGPQ.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 奇幻"
+    },
+    {
+      "id": 1666325,
+      "type": "tmdb",
+      "title": "万桐书",
+      "originalTitle": "万桐书",
+      "description": "影片通过讲述万桐书抢救性保护维吾尔十二木卡姆的艺术人生，展示了党和国家高度重视少数民族地区文化事业，大力开展少数民族地区传统文化抢救工作的史实，以及为筑牢中华民族共同体意识而奋斗的伟绩。",
+      "releaseDate": "2026-04-30",
+      "backdropPath": "/ndKgXGsgbTZOVbHxByXlxFDCDbM.jpg",
+      "posterPath": "/8WkWqkSSrnEEvBOBsrX0L9lCGqo.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1316092,
+      "type": "tmdb",
+      "title": "呼啸山庄",
+      "originalTitle": "\"Wuthering Heights\"",
+      "description": "故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
+      "rating": 6.536,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 剧情"
+    },
+    {
+      "id": 1658136,
+      "type": "tmdb",
+      "title": "猪猪侠大电影之竞速小英雄",
+      "originalTitle": "猪猪侠大电影之竞速小英雄",
+      "description": "猪猪侠与星航携手穿越时空，以赛车为武器，拯救被神秘物质“P型剂”影响的车神银河。",
+      "releaseDate": "2026-05-01",
+      "backdropPath": "/4xlI7YMHe3UmtRireGoJ0ZUCjUO.jpg",
+      "posterPath": "/lpc1z69ycoQ8ond8PXmsal7MMfQ.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动作"
     },
     {
       "id": 1249589,
@@ -184,15 +314,15 @@
       "genreTitle": "悬疑, 犯罪"
     },
     {
-      "id": 1666325,
+      "id": 1454209,
       "type": "tmdb",
-      "title": "万桐书",
-      "originalTitle": "万桐书",
-      "description": "影片通过讲述万桐书抢救性保护维吾尔十二木卡姆的艺术人生，展示了党和国家高度重视少数民族地区文化事业，大力开展少数民族地区传统文化抢救工作的史实，以及为筑牢中华民族共同体意识而奋斗的伟绩。",
-      "releaseDate": "2026-04-30",
-      "backdropPath": null,
-      "posterPath": "/8WkWqkSSrnEEvBOBsrX0L9lCGqo.jpg",
-      "rating": 0,
+      "title": "非穷尽列举",
+      "originalTitle": "National Theatre Live: Inter Alia",
+      "description": "Jessica Parks是一位精明的刑事法庭法官，正处于事业巅峰期。在法袍背后，她是一个卡拉OK发烧友、有爱的妻子和支持孩子的家长。当一起事件有可能让她的生活完全失去平衡时，她能否支撑起自己的家庭？",
+      "releaseDate": "2025-09-25",
+      "backdropPath": "/gpQwPhKmUmBZxmA9bcBeFDbDgdS.jpg",
+      "posterPath": "/smdKDbTCLBuNJg3R5Eu0HakrwFU.jpg",
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -210,6 +340,19 @@
       "genreTitle": "爱情"
     },
     {
+      "id": 1317288,
+      "type": "tmdb",
+      "title": "至尊马蒂",
+      "originalTitle": "Marty Supreme",
+      "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "releaseDate": "2025-12-19",
+      "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
+      "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
+      "rating": 7.391,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 惊悚"
+    },
+    {
       "id": 1462229,
       "type": "tmdb",
       "title": "飞驰人生3",
@@ -221,6 +364,19 @@
       "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 682012,
+      "type": "tmdb",
+      "title": "你好，爱美丽",
+      "originalTitle": "Amélie et la métaphysique des tubes",
+      "description": "对于爱美丽来说，世界是一个令人困惑又安宁的谜团，直到一次与巧克力的奇妙邂逅点燃了她强烈的好奇心。随着她对家中女佣西尾小姐产生深厚依恋，爱美丽不仅发现了大自然的奇迹，也窥见了这个外国人家庭在战后日本田园诗般生活表象之下隐藏的情感真相。",
+      "releaseDate": "2025-06-25",
+      "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
+      "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
+      "rating": 7.927,
+      "mediaType": "movie",
+      "genreTitle": "动画, 剧情"
     },
     {
       "id": 1305781,
@@ -236,17 +392,43 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 1475606,
+      "id": 1303236,
       "type": "tmdb",
-      "title": "祭屋",
-      "originalTitle": "祭屋",
-      "description": "方程程陪同未婚夫苏醒来到诡异的老宅见未来公婆，却发现只在半夜三更出现的苏母竟然已去世多年，且从未举办过葬礼。而苏父明明活着，却非要给自己举办一场死亡祭祀……",
-      "releaseDate": "2026-04-17",
-      "backdropPath": "/1bMwCcp7iMr2QZZjjTDj6L7x0Wv.jpg",
-      "posterPath": "/v8sxF0qXfhf5qncrYRpYYWfUzCI.jpg",
-      "rating": 0,
+      "title": "角头：大桥头",
+      "originalTitle": "角頭－大橋頭",
+      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
+      "releaseDate": "2024-08-16",
+      "backdropPath": "/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
+      "posterPath": "/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
+      "rating": 7.2,
       "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
+      "genreTitle": "犯罪, 动作"
+    },
+    {
+      "id": 1602727,
+      "type": "tmdb",
+      "title": "夜王",
+      "originalTitle": "夜王",
+      "description": "2012年，昔日风光一时的东日夜总会被收购，在尖东打滚数十年的大经理欢哥（黄子华 饰）面临时代转变的挑战。公司新任CEO竟是欢哥狠辣的前妻V姐（郑秀文 饰），强迫欢哥及众女公关转型，业绩渐有起色。怎料背后原来是大财团的操控游戏，东日随时关灯不保。为了保住东日，欢哥及V姐联手，誓要与众女公关作最后反扑，企硬尖东！",
+      "releaseDate": "2026-02-14",
+      "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
+      "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
+      "rating": 7.438,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1297842,
+      "type": "tmdb",
+      "title": "奇迹梦之队",
+      "originalTitle": "GOAT",
+      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
+      "rating": 7.913,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1447971,
@@ -260,6 +442,149 @@
       "rating": 6.9,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
+    },
+    {
+      "id": 1475606,
+      "type": "tmdb",
+      "title": "祭屋",
+      "originalTitle": "祭屋",
+      "description": "方程程陪同未婚夫苏醒来到诡异的老宅见未来公婆，却发现只在半夜三更出现的苏母竟然已去世多年，且从未举办过葬礼。而苏父明明活着，却非要给自己举办一场死亡祭祀……",
+      "releaseDate": "2026-04-17",
+      "backdropPath": "/1bMwCcp7iMr2QZZjjTDj6L7x0Wv.jpg",
+      "posterPath": "/v8sxF0qXfhf5qncrYRpYYWfUzCI.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
+    },
+    {
+      "id": 1683639,
+      "type": "tmdb",
+      "title": "怖偶惊情",
+      "originalTitle": "怖偶惊情",
+      "description": "暗夜深山，鬼雾迷森，阴宅老屋，邪灵诡偶。 血月之夜，人形玩偶时而发出诡异笑声，时而默默落泪，甚至会随着猫头鹰的叫声而移动到位置。 被诅咒的人形诡偶充满怨念的凝视。她是谁的替身，还是谁的宿魂？ 传闻，人形诡偶越是被主人珍惜，就越加容易被灵魂附身。被附身的诡偶娃娃，头发会持续生长。只有火葬，才能熄灭它们的怨念。 不然，她将会在午夜苏醒，开始古老的邪术献祭。 而你将会成为，她的下一个收藏品。",
+      "releaseDate": "2026-04-30",
+      "backdropPath": "/fAj9Nm9RoOVO4oBgThUCuhwsAdQ.jpg",
+      "posterPath": "/6OaThuWPmamergMyVNK8AaQ2kPx.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1653289,
+      "type": "tmdb",
+      "title": "如父如母",
+      "originalTitle": "如父如母",
+      "description": "父亲车祸成植物人，儿子被迫成长。周旋于生母/养母的复杂亲情与两位恋人之间，在相似与迥异中完成成人礼。",
+      "releaseDate": "2026-04-04",
+      "backdropPath": null,
+      "posterPath": "/rpvXuRZcakBtcUKbaGop0HlA4Mk.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 694,
+      "type": "tmdb",
+      "title": "闪灵",
+      "originalTitle": "The Shining",
+      "description": "杰克是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂就发现这里气氛诡异，杰克的儿子丹尼经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！",
+      "releaseDate": "1980-05-23",
+      "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
+      "rating": 8.205,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1678020,
+      "type": "tmdb",
+      "title": "这，就是青春",
+      "originalTitle": "这，就是青春",
+      "description": "影片根据“七一勋章”获得者、时代楷模、全国优秀共产党员黄文秀在长治学院求学期间典型事迹改编，讲述了她寻梦太行、成长成才、信仰养成的故事，生动再现了她从青涩学子成长为优秀共产党员的精神蜕变轨迹。",
+      "releaseDate": "2026-04-20",
+      "backdropPath": "/bt8RNc1I4DefGmwhEI4JGNkKtO9.jpg",
+      "posterPath": "/dzIOhRs8ufEfdWbfmBbuHWgbUOB.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1607088,
+      "type": "tmdb",
+      "title": "熊出没·年年有熊",
+      "originalTitle": "熊出没·年年有熊",
+      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
+      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 奇幻"
+    },
+    {
+      "id": 1002640,
+      "type": "tmdb",
+      "title": "Secrets of the Sea",
+      "originalTitle": "Secrets of the Sea",
+      "description": "",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 921937,
+      "type": "tmdb",
+      "title": "穆桂英挂帅(京剧)",
+      "originalTitle": "穆桂英挂帅(京剧)",
+      "description": "西夏王造反，佘太君差杨文广、杨金花进京打探。杨文广校场比武，刀劈王伦。宋王赐印命其母穆桂英挂帅出征。穆桂英先不愿挂帅，经佘太君劝勉，念及国家危亡，抛弃私愤，顿然振奋，慷慨誓师整肃军纪，率领大军出征。",
+      "releaseDate": "2017-04-21",
+      "backdropPath": null,
+      "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 956215,
+      "type": "tmdb",
+      "title": "龙凤呈祥(京剧)",
+      "originalTitle": "龙凤呈祥(京剧)",
+      "description": "孙权（安平 饰）因刘备(耿其昌 饰)久占荆州，屡讨不还，遂与周瑜（叶少兰 饰）定计，假称以妹孙尚香（李维康 饰）许配刘备，诓其过江留质，以换荆州。诸葛亮识破计谋，将计就计，使赵云（王平 饰）保护刘备同往，并先拜谒周瑜岳丈——太尉乔玄（冯志孝 饰）。乔玄即以其事奏于孙母吴国太（赵葆秀 饰），国太决定在甘露寺相亲。乔玄从孙刘联合抗曹的大局出发极力撮合，终于弄假成真。  周瑜见美人计失败，又以声色羁縻之，刘备果然乐不思归。赵云复用诸葛亮锦囊之计，佯报曹操袭取荆州。刘备惊慌欲走，告于尚香。尚香拜别国太，随其潜逃。周瑜遣将追赶，皆为尚香斥退，继而率兵亲至，时诸葛亮已用船迎接刘备脱险。周瑜反受张飞（杨赤 饰）之辱。",
+      "releaseDate": "2015-04-23",
+      "backdropPath": null,
+      "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 1316352,
+      "type": "tmdb",
+      "title": "状元媒(京剧)",
+      "originalTitle": "状元媒(京剧)",
+      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
+      "releaseDate": "2015-04-23",
+      "backdropPath": null,
+      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 916971,
+      "type": "tmdb",
+      "title": "赵氏孤儿(京剧)",
+      "originalTitle": "赵氏孤儿(京剧)",
+      "description": "春秋晋国，屠岸贾侍宠杀害赵盾与全家三百余口。赵盾儿媳庄姬公主深宫产子，为救孤儿，程婴献子替孤。十五年后，程婴与魏绛联手杀死屠岸贾，报了赵家仇恨。  　　这幕悲剧是因屠岸贾、晋灵公在绛霄楼弹打百姓取乐而引发的……",
+      "releaseDate": "2017-04-21",
+      "backdropPath": null,
+      "posterPath": "/5zPq9KLq367E8WZFgltKM8N7urk.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "电视电影"
     }
   ]
 }
