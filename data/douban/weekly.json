@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-29T20:48:08.783Z",
+  "time": "2026-04-30T20:46:49.166Z",
   "data": {
     "电影": [
       {
@@ -275,7 +275,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
-        "rating": 7.4,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-03-18",
         "backdropPath": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
         "posterPath": "/qKGKemIogTDTfZoGZEt79V7HUGX.jpg",
-        "rating": 7.6,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 7.8,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -321,13 +321,13 @@
       {
         "id": 285838,
         "type": "tmdb",
-        "title": "Girigo：夺命许愿",
+        "title": "夺命许愿",
         "originalTitle": "기리고",
         "description": "一款神秘的应用程序承诺能实现愿望，却紧接着启动死亡倒计时。一群青少年因此卷入其中，他们必须打破这条致命连锁才能活下去。",
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 8.019,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.241,
+        "rating": 6.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -366,14 +366,14 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.2,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
       {
         "id": 225780,
         "type": "tmdb",
-        "title": "戴洛克小镇",
+        "title": "戴洛奇小镇",
         "originalTitle": "Deadloch",
         "description": "本剧是一部澳大利亚黑色喜剧悬疑剧。宁静的澳洲小镇戴洛克突发离奇命案，一名男性教练赤身陈尸海滩，舌头被割。作风稳重的本地女警长杜尔茜，与性格火爆粗犷的外派警探艾迪被迫搭档。随着多名劣迹斑斑的男性接连以相同手法遇害，案件升级为连环凶杀。全镇男性陷入恐慌，小镇暗流涌动的性别矛盾、群体冲突与陈年旧怨接连浮出水面。两位风格迥异的警探在摩擦与合作中逐步追查，最终揭开一场针对“恶男”的有组织复仇真相，悬疑密集且讽刺辛辣。",
         "releaseDate": "2026-03-19",
