@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-29T17:24:11.561Z",
+  "time": "2026-04-30T17:16:46.314Z",
   "data": {
     "星期日": [
       {
@@ -115,7 +115,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.725,
+        "rating": 8.724,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -193,7 +193,7 @@
         "releaseDate": "2026-04-05",
         "backdropPath": "/m4RWzJwv5xm8K6lIgIOdRBScxhn.jpg",
         "posterPath": "/lGyQoPUOqeTKhtu2HfBnmiojIQe.jpg",
-        "rating": 7.8,
+        "rating": 7.682,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -221,7 +221,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
         "posterPath": "/eBWVcJmzpjxndjd6lN8vU7AFuUe.jpg",
-        "rating": 8.7,
+        "rating": 8.636,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
         "posterPath": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-        "rating": 7.8,
+        "rating": 7.556,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-14",
         "backdropPath": "/1VeWzVFQjqsPNDext7MHi7nTKHo.jpg",
         "posterPath": "/zyyaIikcX14ezH2lHoKlWue0Dpt.jpg",
-        "rating": 5.667,
+        "rating": 5.75,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
       },
@@ -431,7 +431,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/ekBMDoocqr5u0dBZRK9VFakyVBx.jpg",
         "posterPath": "/61DBRoCkWnh0uOTSCPoXHu2LOj5.jpg",
-        "rating": 4.5,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       }
@@ -446,7 +446,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.725,
+        "rating": 8.724,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -459,7 +459,7 @@
         "releaseDate": "2020-01-13",
         "backdropPath": "/sASxGVO6wioRG6jNM2LHOjBAgWu.jpg",
         "posterPath": "/doVJ6DsoJuRvys9e4wZVmLRqfFa.jpg",
-        "rating": 8.304,
+        "rating": 8.308,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -498,7 +498,7 @@
         "releaseDate": "2016-04-04",
         "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
         "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
-        "rating": 7.844,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -537,7 +537,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/99lQDI1BvQSuCsZnBs319aF5vy8.jpg",
         "posterPath": "/wQFbXbQ33b2CWx6n1eR4xEJx3Wu.jpg",
-        "rating": 7.65,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -721,7 +721,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/xVRpdsYlQR6hsapwFbwxVnFXDBH.jpg",
         "posterPath": "/qEVAv7TMtJw9wiuFGVOeoePJWeR.jpg",
-        "rating": 6.6,
+        "rating": 6.625,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -745,9 +745,9 @@
         "originalTitle": "Stranger Things: Tales from '85",
         "description": "1985 年冬，霍金斯。欢迎回到这座充满秘密的小镇 — 在这里，备受喜爱的主角团将面临新的谜团以及全新的怪奇。",
         "releaseDate": "2026-04-23",
-        "backdropPath": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+        "backdropPath": "/rclsLNvqaoqatO2O0S5ajlmk6yf.jpg",
         "posterPath": "/yFXcUqN3nQCxWklI35DwffOMNZz.jpg",
-        "rating": 7.141,
+        "rating": 7.162,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -763,6 +763,19 @@
         "rating": 6.667,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 80867,
+        "type": "tmdb",
+        "title": "一脸嫌弃表情的妹子给你看胖次",
+        "originalTitle": "嫌な顔されながらおパンツ見せてもらいたい",
+        "description": "在被女仆、明星和高中生鄙视的同时，我说出了“请给我看胖次吧”这样的奖励。于是故事从第一人称视角展开了。",
+        "releaseDate": "2018-07-14",
+        "backdropPath": "/rniGk0uIxTtZkoQGTnp3nJeYSXX.jpg",
+        "posterPath": "/v5NusnWRHIG4YOXMwBwJbdsgX4q.jpg",
+        "rating": 6.4,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
       },
       {
         "id": 312293,
@@ -786,7 +799,7 @@
         "releaseDate": "2026-04-03",
         "backdropPath": "/uKGWyKucpzWHMPSUQXeIf03oxO5.jpg",
         "posterPath": "/9sfqKo6Xh7vOqYqmjoKPvSgVLCC.jpg",
-        "rating": 9,
+        "rating": 8.25,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -799,7 +812,7 @@
         "releaseDate": "2026-04-16",
         "backdropPath": "/wBT1pkBkZk9jkytbxUghIDWEq8T.jpg",
         "posterPath": "/defMsGyon7Zhnt9iIDfhxDnakDK.jpg",
-        "rating": 8.286,
+        "rating": 8.143,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -866,7 +879,7 @@
         "releaseDate": "2023-01-07",
         "backdropPath": "/hZJglA9AC48swSFgzJCHG11B9zV.jpg",
         "posterPath": "/vNslQo6TikLZLXnHDda3PHJ3CG8.jpg",
-        "rating": 7.715,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1089,7 +1102,7 @@
         "releaseDate": "2026-04-04",
         "backdropPath": "/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
         "posterPath": "/n9DzK2EKckkkNrPVw5xlgt9nt9V.jpg",
-        "rating": 8.5,
+        "rating": 8.583,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
