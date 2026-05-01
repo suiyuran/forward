@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-30T17:16:46.314Z",
+  "time": "2026-05-01T16:54:04.540Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2024-07-07",
         "backdropPath": "/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
         "posterPath": "/7WIhyJawa8BTXQ2fNk2CmrqPxX6.jpg",
-        "rating": 7.618,
+        "rating": 7.641,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -78,7 +78,7 @@
         "posterPath": "/rH1tLxuyG1Ad6GXswveI7ROIa31.jpg",
         "rating": 7.5,
         "mediaType": "tv",
-        "genreTitle": "动画, Sci-Fi & Fantasy"
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 299134,
@@ -115,7 +115,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.724,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -221,7 +221,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
         "posterPath": "/eBWVcJmzpjxndjd6lN8vU7AFuUe.jpg",
-        "rating": 8.636,
+        "rating": 8.75,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -418,7 +418,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/zheGPQDo6pOM4Dg1sE6GB246Usp.jpg",
         "posterPath": "/2mKPAVGjFoO6gp3Hdv5ckrhFu0m.jpg",
-        "rating": 6.3,
+        "rating": 7.25,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
       },
@@ -446,7 +446,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.724,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -472,20 +472,20 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/wpsLsjCcIf3QexYO6pCaLm9PI0Z.jpg",
         "posterPath": "/94v7cg3LnULwc5JrjSPl8dQaRCA.jpg",
-        "rating": 8.091,
+        "rating": 8.385,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
       {
         "id": 72517,
         "type": "tmdb",
-        "title": "欢迎来到实力至上主义的教室",
+        "title": "欢迎来到实力至上主义教室",
         "originalTitle": "ようこそ実力至上主義の教室へ",
         "description": "这个社会是否平等呢。真正的“实力”是什么？东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
         "releaseDate": "2017-07-12",
         "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
         "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
-        "rating": 8.4,
+        "rating": 8.408,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -511,7 +511,7 @@
         "releaseDate": "2025-04-02",
         "backdropPath": "/epPoqwhas9lhZasJ9yVYJod2GQa.jpg",
         "posterPath": "/2uYmx5q5wILjzXmDZmPdRKD03gs.jpg",
-        "rating": 6.721,
+        "rating": 6.702,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -537,7 +537,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/99lQDI1BvQSuCsZnBs319aF5vy8.jpg",
         "posterPath": "/wQFbXbQ33b2CWx6n1eR4xEJx3Wu.jpg",
-        "rating": 7.7,
+        "rating": 7.864,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -628,8 +628,8 @@
         "originalTitle": "盘龙",
         "description": "玉兰大陆，一个充满神奇生物与绚丽魔法的魔幻世界。一天，乌山镇的没落贵族少年林雷·巴鲁克，踏入布满灰尘的祖屋当中，无意中得到一枚看似普通的戒指一一盘龙戒指，从此他的人生发生了转变。在戒灵德林·柯沃特的帮助下，林雷开启了自己的传奇之旅，一个伟大魔法师由此诞生。从小镇走出的少年凭着其拼搏奋斗、自强不息的精神，不断迈向更高境界，在一次次游走于生死之间的磨砺中，一步步走向强者巅峰。",
         "releaseDate": "2026-04-30",
-        "backdropPath": "/oLMQKby7OrEIlJbpgem5JR9o1JV.jpg",
-        "posterPath": "/7pN2Q1xP5CVmrCraWxCrVjLPOMX.jpg",
+        "backdropPath": "/pGU5bKDalGb1QG7z6TkT8LKWIEK.jpg",
+        "posterPath": "/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
@@ -656,7 +656,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/4u7uvGbu1RCZDX8IIFMljG8U9Zb.jpg",
         "posterPath": "/WAbrf6kONFAdXtG5N1s7no4zEw.jpg",
-        "rating": 8.333,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -721,7 +721,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/xVRpdsYlQR6hsapwFbwxVnFXDBH.jpg",
         "posterPath": "/qEVAv7TMtJw9wiuFGVOeoePJWeR.jpg",
-        "rating": 6.625,
+        "rating": 6.6,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -745,9 +745,9 @@
         "originalTitle": "Stranger Things: Tales from '85",
         "description": "1985 年冬，霍金斯。欢迎回到这座充满秘密的小镇 — 在这里，备受喜爱的主角团将面临新的谜团以及全新的怪奇。",
         "releaseDate": "2026-04-23",
-        "backdropPath": "/rclsLNvqaoqatO2O0S5ajlmk6yf.jpg",
+        "backdropPath": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
         "posterPath": "/yFXcUqN3nQCxWklI35DwffOMNZz.jpg",
-        "rating": 7.162,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -799,7 +799,7 @@
         "releaseDate": "2026-04-03",
         "backdropPath": "/uKGWyKucpzWHMPSUQXeIf03oxO5.jpg",
         "posterPath": "/9sfqKo6Xh7vOqYqmjoKPvSgVLCC.jpg",
-        "rating": 8.25,
+        "rating": 8.833,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -853,7 +853,7 @@
         "releaseDate": "2026-04-11",
         "backdropPath": "/mVH9xKyA0ETdejTrCLKQI0mGJay.jpg",
         "posterPath": "/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
-        "rating": 7.8,
+        "rating": 8.143,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -1102,7 +1102,7 @@
         "releaseDate": "2026-04-04",
         "backdropPath": "/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
         "posterPath": "/n9DzK2EKckkkNrPVw5xlgt9nt9V.jpg",
-        "rating": 8.583,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1128,7 +1128,7 @@
         "releaseDate": "2026-04-04",
         "backdropPath": "/lM6zDzORMUFQgvYVbPWj5LxtR8W.jpg",
         "posterPath": "/lHGyS1Ks0QdTtqw3aMjsdTbCC6T.jpg",
-        "rating": 8.5,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1144,6 +1144,19 @@
         "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
+      },
+      {
+        "id": 117120,
+        "type": "tmdb",
+        "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "originalTitle": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+        "description": "",
+        "releaseDate": "2026-07-07",
+        "backdropPath": null,
+        "posterPath": "/6zC4Jnicxa5X5E3ux4rSQF6IUDS.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
       }
     ]
   }
