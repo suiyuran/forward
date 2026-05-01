@@ -1,17 +1,17 @@
 {
-  "time": "2026-04-30T20:46:49.166Z",
+  "time": "2026-05-01T20:38:53.856Z",
   "data": {
     "电影": [
       {
-        "id": 1464883,
+        "id": 1317512,
         "type": "tmdb",
-        "title": "总统的蛋糕",
-        "originalTitle": "The President's Cake",
-        "description": "90年代的伊拉克，萨达姆·侯赛因要求全国每所学校都要为他的生日准备一个蛋糕。9岁的拉米娅必须发动她全部的智慧和想象力，以集齐制作蛋糕所需的全部原料。",
-        "releaseDate": "2025-12-26",
-        "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
-        "posterPath": "/fpx5DNWYiXHLLWdV9uGxMnepVvb.jpg",
-        "rating": 7.5,
+        "title": "世界的主人",
+        "originalTitle": "세계의 주인",
+        "description": "18岁的优等生‌李主人（徐秀彬 饰）是班长、模范生兼校园风云人物，但恋爱是她最大的兴趣。某日，当全班同学响应朋友‌姜秀浩（金正植‌ 饰）发起的联署活动时，唯独‌李主人拒绝签字，并声称“只有李主人有权决定是否同意”。‌姜秀浩试图说服‌李主人，但两人争执逐渐升级为激烈争吵。愤怒的‌李主人脱口而出的一句话引发全校混乱。随后，匿名指控‌李主人的纸条开始出现。",
+        "releaseDate": "2025-10-22",
+        "backdropPath": "/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
+        "posterPath": "/quVvQFzi1h2GfaZ8ym5ydWP1nQ4.jpg",
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -29,43 +29,43 @@
         "genreTitle": "剧情, 历史"
       },
       {
+        "id": 1433339,
+        "type": "tmdb",
+        "title": "三声再见",
+        "originalTitle": "Tre ciotole",
+        "description": "岁月无声，平淡如水。因小事吵闹令多年恋情告终，她复要面对身体突如其来的噩耗。有恨无人省，心底的哀伤、焦虑与寂寞，只能独对在街角检拾回来的纸板韩星，轻声倾诉。夕阳余晖，仿佛骤然点亮了寻常忽略的景致，令她重新感悟人间的和煦。西班牙导演伊莎贝拉库谢以优雅与温柔，将小说家麦可娜·穆尔嘉的遗作化为翩翩光影，凝留于艾芭诺宜娃查倩影丽容，是一阕寛怀的生命诗篇；在最后的时光，与人生、与凡尘好好告别，让放下自在的微光，温润世上所爱之人。",
+        "releaseDate": "2025-10-09",
+        "backdropPath": "/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
+        "posterPath": "/dGQGNtA4f7OVFyYXaafzpYl09IO.jpg",
+        "rating": 7.1,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 爱情"
+      },
+      {
+        "id": 1497873,
+        "type": "tmdb",
+        "title": "翠湖",
+        "originalTitle": "翠湖",
+        "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
+        "releaseDate": "2026-01-24",
+        "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
+        "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+        "rating": 7,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 1178620,
         "type": "tmdb",
         "title": "蒙特利尔，我的美人",
         "originalTitle": "Montréal, ma belle",
         "description": "一位53岁的中国移民凤霞和家人们住在蒙特利尔，她一生都在履行家庭身份、文化冲突和没有爱的婚姻带来的职责。直到她遇到Camille，一个充满活力的年轻魁北克人，埋藏已久的欲望被唤醒了。在温暖而欢乐的蒙特利尔夏天，凤霞踏上了禁忌之爱和自我发现之旅。",
         "releaseDate": "2026-02-13",
-        "backdropPath": "/zlY45buWoMeod4Ktf3amu9nTtOC.jpg",
+        "backdropPath": "/tyPl9khvcjJl5RNT7EEuYkuwiu.jpg",
         "posterPath": "/xgJqnAfbI7IlSre1zEdMFxrkRD5.jpg",
         "rating": 6.7,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
-      },
-      {
-        "id": 1432605,
-        "type": "tmdb",
-        "title": "父影之下",
-        "originalTitle": "My Father's Shadow",
-        "description": "1993年尼日利亚选举危机期间，一对年幼的兄弟随疏离的父亲穿行拉各斯，既目睹了这座城市的庞杂面貌，也亲历父亲在政治动荡中为带他们返乡而陷入的日常挣扎。",
-        "releaseDate": "2025-09-19",
-        "backdropPath": "/sv12y5tWaE4seAy53tMbCapvSE3.jpg",
-        "posterPath": "/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
-        "rating": 7.6,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1546855,
-        "type": "tmdb",
-        "title": "我，许可",
-        "originalTitle": "我，许可",
-        "description": "00后“母单”女孩儿许可（文淇 饰）面临一场迫在眉睫的妇科手术，却因妈妈胡春蓉（秦海璐 饰）的突袭式造访打乱了所有计划。母女同居，冲突乍起。在新旧观念的摩擦中，没想到女儿对妈妈展开了一次又一次反向教育——跟妈谈心，不如带妈蹦迪；给妈上生理课，不如直接送妈小玩具……最终许可能否顺利手术，胡春蓉又能否鼓起勇气开始新生活？这场笑点和泪点齐飞的大戏，又将如何重塑两人之间的母女关系……",
-        "releaseDate": "2026-03-21",
-        "backdropPath": "/sc2Q8HwhUOb49IfbkHHvi8dB7yy.jpg",
-        "posterPath": "/Z4PcigZfdhrU2via1XrdSrEq4G.jpg",
-        "rating": 6.857,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 1359916,
@@ -81,17 +81,17 @@
         "genreTitle": "爱情, 剧情"
       },
       {
-        "id": 1154538,
+        "id": 1426965,
         "type": "tmdb",
-        "title": "尼瓦那乐队秀：电影版",
-        "originalTitle": "Nirvanna the Band the Show the Movie",
-        "description": "马特和杰原计划在里沃利剧院演出，但演出搞砸了。意外的是，他们竟因此穿越时空，回到了2008年。面对这突如其来的时空错位，两人在熟悉又陌生的2008年开启了一段奇妙旅程，而这段经历也让他们对生活有了全新感悟。",
-        "releaseDate": "2026-02-13",
-        "backdropPath": "/gYxOlYtLvGNrzYm6kQBcY5mqKja.jpg",
-        "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-        "rating": 7.7,
+        "title": "桑格豪森的渴望",
+        "originalTitle": "Sehnsucht in Sangerhausen",
+        "description": "一位心碎的东德女服务员和一位手臂受伤的伊朗YouTuber在山中的鬼魂搜寻之旅中寻找孤独的慰藉。这是一场关于不太可能的友谊以及对另一种生活的渴望的浪漫冒险。",
+        "releaseDate": "2025-11-27",
+        "backdropPath": "/utBbZY6P0OjSjZbMB0ffm86Hbv5.jpg",
+        "posterPath": "/aUIAVkvVPCZKSwXHehfoh3qAlD8.jpg",
+        "rating": 7,
         "mediaType": "movie",
-        "genreTitle": "喜剧, 科幻"
+        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 1245532,
@@ -107,30 +107,30 @@
         "genreTitle": "爱情, 剧情"
       },
       {
-        "id": 1449863,
+        "id": 1292695,
         "type": "tmdb",
-        "title": "佐藤妻夫物语",
-        "originalTitle": "佐藤さんと佐藤さん",
-        "description": "佐藤保和佐藤幸性格截然不同却莫名投缘，一路从相识交往走到结婚生子。保曾多次参加司法考试却屡屡落榜，没想到陪他备考的幸却先通过了考试，成为了职业律师。一边是邋遢的律师妻子，一边是被育儿压得喘不过气的落榜丈夫——这对夫妻之间维持着微妙的平衡，在欢笑与心酸中勾勒出一段真实的爱情故事。本片主演为凭借《惠子，凝视》获得第77届每日电影最佳女主角的岸井雪乃，以及凭借《利己主义者》获得第78届每日电影最佳男配角的宫泽冰鱼。两人的默契演绎为影片注入真实的情感张力，折射出现代社会中人与人之间的沟通困境，探讨了人们与“他人”之间的理解与妥协。",
-        "releaseDate": "2025-11-28",
-        "backdropPath": "/vO0YxmF987FPpRTBeEviOKF4RBZ.jpg",
-        "posterPath": "/uDs91HbqiLNOITxBQhkFZjzdWCM.jpg",
-        "rating": 7.25,
+        "title": "杀的就是你",
+        "originalTitle": "They Will Kill You",
+        "description": "艾莎·里夫斯（莎姬·贝兹 饰）接受了一份神秘的家政工作，地点位于纽约市一座奢华却阴森的高层建筑“维吉尔大厦”。她很快发现，这座大楼竟是崇拜撒旦的邪教殿堂，而居住其中的富豪精英们计划将她作为祭品，以换取自己的永生。\r 维吉尔的居民们并不知道，艾莎此行实为营救疏远的妹妹玛丽亚（米哈拉·赫罗德 饰）而来，她身怀绝技、装备精良。当艾莎意识到玛丽亚已深陷这栋大楼的黑暗秘密时，两人必须周旋于致命的住户之间，在狂热崇拜恶魔的租户与员工的疯狂袭击中求生，并为生存而战。誓要一举终结维吉尔大厦的血腥统治。",
+        "releaseDate": "2026-03-25",
+        "backdropPath": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+        "posterPath": "/y1yW93zX633WxLjm3W51PjwXmIg.jpg",
+        "rating": 6.58,
         "mediaType": "movie",
-        "genreTitle": "剧情, 爱情"
+        "genreTitle": "动作, 喜剧"
       },
       {
-        "id": 1268609,
+        "id": 1411577,
         "type": "tmdb",
-        "title": "孔雀舞曲",
-        "originalTitle": "파반느",
-        "description": "三个独来独往的陌生人因为同在一家百货公司工作而彼此结识，在互相陪伴的过程中找到了慰藉，并开始探索羁绊与爱情的本质。",
-        "releaseDate": "2026-02-19",
-        "backdropPath": "/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
-        "posterPath": "/urMjy6nS4xzIZIlXxiejh3xXPts.jpg",
-        "rating": 6.976,
+        "title": "美味倒数",
+        "originalTitle": "넘버원",
+        "description": "每当夏民品尝母亲亲手煮的饭，眼前总会浮现一组莫名的数字︰每吃一餐，数字便会随之减一，当倒数至零，便是母亲撒手人寰之时。为了守护母亲余下岁月，夏民狠心逃避妈妈的饭。母子人生像受了诅咒，相依为命却渐行渐远。女友不忍孤独的妈，决意修补破碎一家，到底是好心做坏事，抑或换个角度，不幸也有出路？",
+        "releaseDate": "2026-02-11",
+        "backdropPath": "/or89P4LOBh450EygOzUffbJ9M07.jpg",
+        "posterPath": "/usynA8KwU8fBx6ZoIAxPKoFarM0.jpg",
+        "rating": 5.75,
         "mediaType": "movie",
-        "genreTitle": "爱情, 剧情"
+        "genreTitle": "奇幻, 剧情"
       }
     ],
     "剧集·国内": [
@@ -156,7 +156,7 @@
         "releaseDate": "2026-03-16",
         "backdropPath": "/wrbCLyF2njQtjGw5Js3JAOV69J5.jpg",
         "posterPath": "/ueuFQumoj6YDePVSCqErrDxsC9Y.jpg",
-        "rating": 8.8,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -221,7 +221,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/cWs510A3RhRL8KiUhSgIaDTCyIx.jpg",
         "posterPath": "/yWD7slh3uKb9LZNKokSo84zD7xa.jpg",
-        "rating": 6.7,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/f3okM5FrqlvBB4dOLSO1rRC32qJ.jpg",
-        "rating": 7.7,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -301,20 +301,20 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 8.1,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
       {
         "id": 289424,
         "type": "tmdb",
-        "title": "所有人都在与自身的无价值斗争",
+        "title": "努力克服自卑的我们",
         "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
         "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
         "posterPath": "/AfOAORRd0ZV9vW3vQs1GSuVik4e.jpg",
-        "rating": 9.1,
+        "rating": 9.167,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 7.7,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.4,
+        "rating": 6.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
