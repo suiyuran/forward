@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-01T20:38:53.856Z",
+  "time": "2026-05-02T20:28:30.879Z",
   "data": {
     "电影": [
       {
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-25",
         "backdropPath": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
         "posterPath": "/y1yW93zX633WxLjm3W51PjwXmIg.jpg",
-        "rating": 6.58,
+        "rating": 6.643,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 5,
+        "rating": 5.2,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -313,8 +313,8 @@
         "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "posterPath": "/AfOAORRd0ZV9vW3vQs1GSuVik4e.jpg",
-        "rating": 9.167,
+        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 7.9,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.3,
+        "rating": 6.364,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 7.8,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
