@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-02T20:28:30.879Z",
+  "time": "2026-05-03T20:29:13.267Z",
   "data": {
     "电影": [
       {
@@ -114,8 +114,8 @@
         "description": "艾莎·里夫斯（莎姬·贝兹 饰）接受了一份神秘的家政工作，地点位于纽约市一座奢华却阴森的高层建筑“维吉尔大厦”。她很快发现，这座大楼竟是崇拜撒旦的邪教殿堂，而居住其中的富豪精英们计划将她作为祭品，以换取自己的永生。\r 维吉尔的居民们并不知道，艾莎此行实为营救疏远的妹妹玛丽亚（米哈拉·赫罗德 饰）而来，她身怀绝技、装备精良。当艾莎意识到玛丽亚已深陷这栋大楼的黑暗秘密时，两人必须周旋于致命的住户之间，在狂热崇拜恶魔的租户与员工的疯狂袭击中求生，并为生存而战。誓要一举终结维吉尔大厦的血腥统治。",
         "releaseDate": "2026-03-25",
         "backdropPath": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
-        "posterPath": "/y1yW93zX633WxLjm3W51PjwXmIg.jpg",
-        "rating": 6.643,
+        "posterPath": "/xIKj45UHX7y8JxsYzt6Z9i74UH2.jpg",
+        "rating": 6.632,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 8.1,
+        "rating": 7.979,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -338,9 +338,9 @@
         "originalTitle": "The Testaments",
         "description": "《证词》是《使女的故事》续章，一部以基列国为背景，扣人心弦的成长故事，聚焦在两位少女身上：恪守本分、虔诚至极的艾格妮丝，以及从外地加入基列国的黛西。她们进入莉迪亚嬷嬷为培养未来妻子而成立的婚前预备学院，在这座金碧辉煌的殿堂，嬷嬷们透过残忍的手段以及以神圣为理由，灌输服从的观念。艾格妮丝与黛西两人之间的情谊将成为一股催化剂，彻底颠覆她们的过去、现在与未来。",
         "releaseDate": "2026-04-08",
-        "backdropPath": "/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
+        "backdropPath": "/uCndE341njionskk1pK9SbHqwZh.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.364,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.4,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
