@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-03T20:29:13.267Z",
+  "time": "2026-05-04T20:55:10.674Z",
   "data": {
     "电影": [
       {
@@ -10,7 +10,7 @@
         "description": "18岁的优等生‌李主人（徐秀彬 饰）是班长、模范生兼校园风云人物，但恋爱是她最大的兴趣。某日，当全班同学响应朋友‌姜秀浩（金正植‌ 饰）发起的联署活动时，唯独‌李主人拒绝签字，并声称“只有李主人有权决定是否同意”。‌姜秀浩试图说服‌李主人，但两人争执逐渐升级为激烈争吵。愤怒的‌李主人脱口而出的一句话引发全校混乱。随后，匿名指控‌李主人的纸条开始出现。",
         "releaseDate": "2025-10-22",
         "backdropPath": "/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
-        "posterPath": "/quVvQFzi1h2GfaZ8ym5ydWP1nQ4.jpg",
+        "posterPath": "/AbFQgIp26cnvdPbSWRkOb4wHJW1.jpg",
         "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "剧情"
@@ -19,7 +19,7 @@
         "id": 1168719,
         "type": "tmdb",
         "title": "寂静的朋友",
-        "originalTitle": "Stille Freundin",
+        "originalTitle": "Silent Friend",
         "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
         "releaseDate": "2026-01-15",
         "backdropPath": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
@@ -76,7 +76,7 @@
         "releaseDate": "2025-10-10",
         "backdropPath": "/weaC7O3FYci8VxV5AR11sta9Q31.jpg",
         "posterPath": "/A0UBg4O1YVNdqO5hK9yjiIk0CR9.jpg",
-        "rating": 8.1,
+        "rating": 7.692,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-25",
         "backdropPath": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
         "posterPath": "/xIKj45UHX7y8JxsYzt6Z9i74UH2.jpg",
-        "rating": 6.632,
+        "rating": 6.7,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-02-11",
         "backdropPath": "/or89P4LOBh450EygOzUffbJ9M07.jpg",
         "posterPath": "/usynA8KwU8fBx6ZoIAxPKoFarM0.jpg",
-        "rating": 5.75,
+        "rating": 5.8,
         "mediaType": "movie",
         "genreTitle": "奇幻, 剧情"
       }
@@ -288,7 +288,7 @@
         "releaseDate": "2026-03-18",
         "backdropPath": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
         "posterPath": "/qKGKemIogTDTfZoGZEt79V7HUGX.jpg",
-        "rating": 7.7,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 5.2,
+        "rating": 5.4,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -313,7 +313,7 @@
         "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
+        "posterPath": "/ovNzwYGIXVeb7hdcDzlDqC0FVRa.jpg",
         "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 7.979,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
