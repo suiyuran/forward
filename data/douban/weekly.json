@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-04T20:55:10.674Z",
+  "time": "2026-05-05T20:49:18.116Z",
   "data": {
     "电影": [
       {
@@ -76,7 +76,7 @@
         "releaseDate": "2025-10-10",
         "backdropPath": "/weaC7O3FYci8VxV5AR11sta9Q31.jpg",
         "posterPath": "/A0UBg4O1YVNdqO5hK9yjiIk0CR9.jpg",
-        "rating": 7.692,
+        "rating": 7.857,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -113,9 +113,9 @@
         "originalTitle": "They Will Kill You",
         "description": "艾莎·里夫斯（莎姬·贝兹 饰）接受了一份神秘的家政工作，地点位于纽约市一座奢华却阴森的高层建筑“维吉尔大厦”。她很快发现，这座大楼竟是崇拜撒旦的邪教殿堂，而居住其中的富豪精英们计划将她作为祭品，以换取自己的永生。\r 维吉尔的居民们并不知道，艾莎此行实为营救疏远的妹妹玛丽亚（米哈拉·赫罗德 饰）而来，她身怀绝技、装备精良。当艾莎意识到玛丽亚已深陷这栋大楼的黑暗秘密时，两人必须周旋于致命的住户之间，在狂热崇拜恶魔的租户与员工的疯狂袭击中求生，并为生存而战。誓要一举终结维吉尔大厦的血腥统治。",
         "releaseDate": "2026-03-25",
-        "backdropPath": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+        "backdropPath": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
         "posterPath": "/xIKj45UHX7y8JxsYzt6Z9i74UH2.jpg",
-        "rating": 6.7,
+        "rating": 6.679,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -156,7 +156,7 @@
         "releaseDate": "2026-03-16",
         "backdropPath": "/wrbCLyF2njQtjGw5Js3JAOV69J5.jpg",
         "posterPath": "/ueuFQumoj6YDePVSCqErrDxsC9Y.jpg",
-        "rating": 7.667,
+        "rating": 7.571,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/uCndE341njionskk1pK9SbHqwZh.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.5,
+        "rating": 6.571,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.2,
+        "rating": 8.15,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-03-19",
         "backdropPath": "/n58Py8VN2Z677AslZyfc3Aj3uUI.jpg",
         "posterPath": "/cfZNI9QGriwvwj45Jxy1w8WFRKe.jpg",
-        "rating": 3.2,
+        "rating": 3.3,
         "mediaType": "tv",
         "genreTitle": "喜剧, 犯罪"
       },
