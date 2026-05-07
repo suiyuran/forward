@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-06T20:59:48.118Z",
+  "time": "2026-05-07T20:54:23.719Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-01-15",
         "backdropPath": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
         "posterPath": "/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-        "rating": 7.9,
+        "rating": 7.333,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-10-09",
         "backdropPath": "/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
         "posterPath": "/dGQGNtA4f7OVFyYXaafzpYl09IO.jpg",
-        "rating": 7.1,
+        "rating": 7.084,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -74,9 +74,9 @@
         "originalTitle": "秒速5センチメートル",
         "description": "改编自新海诚创作的同名动画电影，讲述了一段跨越时间与距离的青涩爱情与成长故事。1991 年春天，贵树与明里在小学相识，即使分隔两地，也藉由信件延续彼此的情感。然而两人最后交换的是一个再会的约定。时光飞逝，来到 2008 年，在未能交会的命运中，两人过着各自的生活。永不褪色的记忆、对约定之日的预感，跨越时间与距离，当时说的话仍静静飘荡。这是一段关于命运般的相遇，既恬淡又平静的誓言故事。",
         "releaseDate": "2025-10-10",
-        "backdropPath": "/weaC7O3FYci8VxV5AR11sta9Q31.jpg",
+        "backdropPath": "/gqYbnmXBjwraSEEr4NQrSsYy3md.jpg",
         "posterPath": "/A0UBg4O1YVNdqO5hK9yjiIk0CR9.jpg",
-        "rating": 7.857,
+        "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-25",
         "backdropPath": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
         "posterPath": "/xIKj45UHX7y8JxsYzt6Z9i74UH2.jpg",
-        "rating": 6.687,
+        "rating": 6.696,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
-        "rating": 7.6,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 5.4,
+        "rating": 5.5,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -347,13 +347,13 @@
       {
         "id": 285838,
         "type": "tmdb",
-        "title": "夺命许愿",
+        "title": "Girigo：夺命许愿",
         "originalTitle": "기리고",
         "description": "一款神秘的应用程序承诺能实现愿望，却紧接着启动死亡倒计时。一群青少年因此卷入其中，他们必须打破这条致命连锁才能活下去。",
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 7.984,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
         "posterPath": "/5Yl86ZnGyVY3uEGHHKslpixA53X.jpg",
-        "rating": 8.2,
+        "rating": 7.615,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.238,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/uCndE341njionskk1pK9SbHqwZh.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.417,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
