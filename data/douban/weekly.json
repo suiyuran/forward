@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-07T20:54:23.719Z",
+  "time": "2026-05-08T20:43:30.298Z",
   "data": {
     "电影": [
       {
@@ -11,22 +11,22 @@
         "releaseDate": "2025-10-22",
         "backdropPath": "/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
         "posterPath": "/AbFQgIp26cnvdPbSWRkOb4wHJW1.jpg",
-        "rating": 8.2,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
       {
-        "id": 1168719,
+        "id": 1671548,
         "type": "tmdb",
-        "title": "寂静的朋友",
-        "originalTitle": "Silent Friend",
-        "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
-        "releaseDate": "2026-01-15",
-        "backdropPath": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
-        "posterPath": "/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-        "rating": 7.333,
+        "title": "给阿嬷的情书",
+        "originalTitle": "给阿嬷的情书",
+        "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
+        "releaseDate": "2026-04-30",
+        "backdropPath": "/oZURKlzlwdRfZ40D61v1vLF5eVD.jpg",
+        "posterPath": "/ePIAxow5xpinDIdwWELS3GtxpSD.jpg",
+        "rating": 8.5,
         "mediaType": "movie",
-        "genreTitle": "剧情, 历史"
+        "genreTitle": "剧情, 家庭"
       },
       {
         "id": 1433339,
@@ -42,17 +42,56 @@
         "genreTitle": "剧情, 爱情"
       },
       {
-        "id": 1497873,
+        "id": 1658653,
         "type": "tmdb",
-        "title": "翠湖",
-        "originalTitle": "翠湖",
-        "description": "影片讲述了昆明翠湖畔的一段家庭往事。老人树文在丧妻后想要重启人生新的情感阶段，却与女儿们爆发冲突，在这场冲突中让他看清自己在家庭里的“缺位”，也促使他重新承担起家长的责任，在直面三代人，三个家庭之间深藏的遗憾与隐痛的过程中，展开了一段寻求和解的温情旅程。",
-        "releaseDate": "2026-01-24",
-        "backdropPath": "/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
-        "posterPath": "/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+        "title": "消失的人",
+        "originalTitle": "消失的人",
+        "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
+        "releaseDate": "2026-05-01",
+        "backdropPath": null,
+        "posterPath": "/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
         "rating": 7,
         "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "悬疑, 惊悚"
+      },
+      {
+        "id": 1321179,
+        "type": "tmdb",
+        "title": "与王生活的男人",
+        "originalTitle": "왕과 사는 남자",
+        "description": "1457年，为了生活困苦的村民们，村长严兴道致力将清泠浦变成流放地，而就在村里迎来了惨遭流放的年幼君王李弘𬀩后，严兴道才发现这件事不如起初所想的那么简单……",
+        "releaseDate": "2026-02-04",
+        "backdropPath": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
+        "posterPath": "/iFsXq79j6AetUAxvQJqyJvicsib.jpg",
+        "rating": 7.1,
+        "mediaType": "movie",
+        "genreTitle": "历史, 剧情"
+      },
+      {
+        "id": 1007757,
+        "type": "tmdb",
+        "title": "奇幻变身大冒险",
+        "originalTitle": "Swapped",
+        "description": "森林中的一个小生物和一只高贵的鸟突然互换了身体，他们不得不结伴而行，共同应对此生最疯狂的冒险。",
+        "releaseDate": "2026-05-01",
+        "backdropPath": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
+        "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
+        "rating": 7.9,
+        "mediaType": "movie",
+        "genreTitle": "冒险, 动画"
+      },
+      {
+        "id": 1499071,
+        "type": "tmdb",
+        "title": "寒战1994",
+        "originalTitle": "寒戰1994",
+        "description": "1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
+        "releaseDate": "2026-05-01",
+        "backdropPath": "/izha2mBeBHfCIniJCibpJIUovy0.jpg",
+        "posterPath": "/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
+        "rating": 6.2,
+        "mediaType": "movie",
+        "genreTitle": "犯罪, 剧情"
       },
       {
         "id": 1178620,
@@ -68,69 +107,30 @@
         "genreTitle": "剧情, 爱情"
       },
       {
-        "id": 1359916,
+        "id": 1382513,
         "type": "tmdb",
-        "title": "秒速5厘米",
-        "originalTitle": "秒速5センチメートル",
-        "description": "改编自新海诚创作的同名动画电影，讲述了一段跨越时间与距离的青涩爱情与成长故事。1991 年春天，贵树与明里在小学相识，即使分隔两地，也藉由信件延续彼此的情感。然而两人最后交换的是一个再会的约定。时光飞逝，来到 2008 年，在未能交会的命运中，两人过着各自的生活。永不褪色的记忆、对约定之日的预感，跨越时间与距离，当时说的话仍静静飘荡。这是一段关于命运般的相遇，既恬淡又平静的誓言故事。",
-        "releaseDate": "2025-10-10",
-        "backdropPath": "/gqYbnmXBjwraSEEr4NQrSsYy3md.jpg",
-        "posterPath": "/A0UBg4O1YVNdqO5hK9yjiIk0CR9.jpg",
-        "rating": 7.9,
+        "title": "母鸡",
+        "originalTitle": "Κότα",
+        "description": "讲述了一只母鸡从养鸡场逃脱后，在一家破败餐馆的院子里寻求庇护的故事。在这里，它不仅邂逅了爱情，还要面对鸡群中森严的等级秩序，更要奋力守护自己的蛋，不让贪婪的餐馆老板得逞。",
+        "releaseDate": "2026-02-20",
+        "backdropPath": "/jeQnkrXy95nmjNZcLhRNXXIsjZv.jpg",
+        "posterPath": "/kDLrHCScCA07qIFQFcwHUGw5mE0.jpg",
+        "rating": 10,
         "mediaType": "movie",
-        "genreTitle": "爱情, 剧情"
+        "genreTitle": "冒险, 剧情"
       },
       {
-        "id": 1426965,
+        "id": 1325734,
         "type": "tmdb",
-        "title": "桑格豪森的渴望",
-        "originalTitle": "Sehnsucht in Sangerhausen",
-        "description": "一位心碎的东德女服务员和一位手臂受伤的伊朗YouTuber在山中的鬼魂搜寻之旅中寻找孤独的慰藉。这是一场关于不太可能的友谊以及对另一种生活的渴望的浪漫冒险。",
-        "releaseDate": "2025-11-27",
-        "backdropPath": "/utBbZY6P0OjSjZbMB0ffm86Hbv5.jpg",
-        "posterPath": "/aUIAVkvVPCZKSwXHehfoh3qAlD8.jpg",
-        "rating": 7,
+        "title": "爱情抓马",
+        "originalTitle": "The Drama",
+        "description": "艾玛（赞达亚 饰）和查理（罗伯特·帕丁森 饰）是一对即将完婚的情侣，然而婚礼前夕忽然发生了让人意想不到的抓马故事，两人的感情面临前所未有的考验。",
+        "releaseDate": "2026-03-26",
+        "backdropPath": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
+        "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
+        "rating": 7.002,
         "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 1245532,
-        "type": "tmdb",
-        "title": "像我这样的爱情",
-        "originalTitle": "像我這樣的愛情",
-        "description": "我们这样，是爱吗？阿妹天生患有脑性麻痹，性格却异常跳脱乐观，闲时会约朋友踩板吹水，画画作乐，二十多年来一直努力不被身体耽误。可是过度保护的母亲坚决安排她进行子宫切除手术，阿妹努力建立的生活再次失去平衡，她的身体永远是不由自主的。在朋友推荐下，阿妹找到了一个专为残疾人士提供性服务的自发组织，并认识了义工Ken。这无私的相遇仿佛抚慰了两个受伤的灵魂，那日渐累积的情愫冲淡了道德与身体的羁绊，这样的关系，是爱吗？  　　谭惠贞继《以青春的名义》（第14届开幕电影）后第二部长片作品，将爱情元素和身障者性权益议题融合，成就一个道德探索与自我寻找的故事。",
-        "releaseDate": "2025-11-27",
-        "backdropPath": "/hZA81b0mSIZWQPIqYwvPHg11rTT.jpg",
-        "posterPath": "/fLiU0gSq24B8IqXw2fXEo6T3BT8.jpg",
-        "rating": 7.917,
-        "mediaType": "movie",
-        "genreTitle": "爱情, 剧情"
-      },
-      {
-        "id": 1292695,
-        "type": "tmdb",
-        "title": "杀的就是你",
-        "originalTitle": "They Will Kill You",
-        "description": "艾莎·里夫斯（莎姬·贝兹 饰）接受了一份神秘的家政工作，地点位于纽约市一座奢华却阴森的高层建筑“维吉尔大厦”。她很快发现，这座大楼竟是崇拜撒旦的邪教殿堂，而居住其中的富豪精英们计划将她作为祭品，以换取自己的永生。\r 维吉尔的居民们并不知道，艾莎此行实为营救疏远的妹妹玛丽亚（米哈拉·赫罗德 饰）而来，她身怀绝技、装备精良。当艾莎意识到玛丽亚已深陷这栋大楼的黑暗秘密时，两人必须周旋于致命的住户之间，在狂热崇拜恶魔的租户与员工的疯狂袭击中求生，并为生存而战。誓要一举终结维吉尔大厦的血腥统治。",
-        "releaseDate": "2026-03-25",
-        "backdropPath": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
-        "posterPath": "/xIKj45UHX7y8JxsYzt6Z9i74UH2.jpg",
-        "rating": 6.696,
-        "mediaType": "movie",
-        "genreTitle": "动作, 喜剧"
-      },
-      {
-        "id": 1411577,
-        "type": "tmdb",
-        "title": "美味倒数",
-        "originalTitle": "넘버원",
-        "description": "每当夏民品尝母亲亲手煮的饭，眼前总会浮现一组莫名的数字︰每吃一餐，数字便会随之减一，当倒数至零，便是母亲撒手人寰之时。为了守护母亲余下岁月，夏民狠心逃避妈妈的饭。母子人生像受了诅咒，相依为命却渐行渐远。女友不忍孤独的妈，决意修补破碎一家，到底是好心做坏事，抑或换个角度，不幸也有出路？",
-        "releaseDate": "2026-02-11",
-        "backdropPath": "/or89P4LOBh450EygOzUffbJ9M07.jpg",
-        "posterPath": "/usynA8KwU8fBx6ZoIAxPKoFarM0.jpg",
-        "rating": 5.8,
-        "mediaType": "movie",
-        "genreTitle": "奇幻, 剧情"
+        "genreTitle": "爱情, 喜剧"
       }
     ],
     "剧集·国内": [
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
-        "rating": 7.7,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 5.5,
+        "rating": 4.4,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 8,
+        "rating": 8.015,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
         "posterPath": "/5Yl86ZnGyVY3uEGHHKslpixA53X.jpg",
-        "rating": 7.615,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
