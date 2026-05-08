@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-07T18:26:29.107Z",
+  "time": "2026-05-08T18:12:08.825Z",
   "data": [
     {
       "id": 1671548,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-04-30",
       "backdropPath": "/oZURKlzlwdRfZ40D61v1vLF5eVD.jpg",
       "posterPath": "/ePIAxow5xpinDIdwWELS3GtxpSD.jpg",
-      "rating": 8,
+      "rating": 8.5,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -26,32 +26,6 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
-    },
-    {
-      "id": 1500148,
-      "type": "tmdb",
-      "title": "青铜葵花",
-      "originalTitle": "青銅葵花",
-      "description": "曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
-      "releaseDate": "2026-05-08",
-      "backdropPath": "/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
-      "posterPath": "/gSSdAbeggQS0HHSxcCQXBM9aAAV.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 931285,
-      "type": "tmdb",
-      "title": "真人快打2",
-      "originalTitle": "Mortal Kombat II",
-      "description": "守护者们被卷入毫无规则可言的终极搏杀，他们在血肉激战中对抗大反派绍康的黑暗统治，这场对决关乎着地球界的生死存亡。",
-      "releaseDate": "2026-05-06",
-      "backdropPath": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "posterPath": "/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "动作, 奇幻"
     },
     {
       "id": 1499071,
@@ -75,22 +49,22 @@
       "releaseDate": "2026-04-29",
       "backdropPath": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "posterPath": "/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
-      "rating": 6.758,
+      "rating": 6.761,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1492501,
+      "id": 47423,
       "type": "tmdb",
-      "title": "10间敢死队",
-      "originalTitle": "10间敢死队",
-      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
-      "releaseDate": "2026-04-25",
-      "backdropPath": "/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
-      "posterPath": "/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
-      "rating": 6.5,
+      "title": "纵横四海",
+      "originalTitle": "縱橫四海",
+      "description": "钵仔糕/阿海（周润发 饰）、阿占（张国荣 饰）与红豆（锺楚红 饰）都是孤儿，从小被养父（曾江 饰）培养成国际艺术品大盗，专为他盗取名画赚钱。与此同时，他们亦认了一名警察（朱江 饰）作干爹。\r 　　法国巴黎博物馆内，名画《赫林之女仆》突然失窃。不久，阿海、阿占与红豆联手盗得另一幅名画，在与法国买家交易时，得知《赫林之女仆》正藏于一座神秘古堡中。三人受养父指示前往盗画，成功后却遭养父与法国买家联手设局，派出杀手追杀灭口。逃亡途中，阿海驾车与杀手快艇相撞，生死未卜；阿占则带着红豆侥幸逃脱。\r 　　几年后，三人在香港重逢。阿海因车祸“跛脚”，暂住干爹家中；阿占与红豆已结为夫妻。此时养父再次现身，逼迫阿占盗回《赫林之女仆》。阿海在红豆的恳求下决定重组团队，并暗中布局向养父复仇。两人取回画作后，在与养父交易时爆发枪战，阿海亦揭晓自己假扮跛脚以躲避追杀的计谋。最终干爹将养父逮捕归案，《赫林之女仆》物归原主，三人则一同前往美国开始了新的生活。",
+      "releaseDate": "1991-02-02",
+      "backdropPath": "/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
+      "posterPath": "/5RY3c5m7lElGAWHUbkJJXQtgKEQ.jpg",
+      "rating": 6.812,
       "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
+      "genreTitle": "动作, 喜剧"
     },
     {
       "id": 1168719,
@@ -106,17 +80,30 @@
       "genreTitle": "剧情, 历史"
     },
     {
-      "id": 1549824,
+      "id": 1492501,
       "type": "tmdb",
-      "title": "门牙",
-      "originalTitle": "门牙",
-      "description": "李未阳（章宇 饰）骑摩托被撞，导致女友沈青（陈昊宇 饰）失去两颗门牙。他没钱，但一定要为女友装上两颗最好的门牙。为了这笔钱，他开始与肇事者，保险公司进行周旋。伤者与肇事者拮据但平静的生活被这场突发意外打乱。",
-      "releaseDate": "2026-05-01",
-      "backdropPath": "/dZfmcyMpYPxY5RXW6P2JOAeXKeA.jpg",
-      "posterPath": "/sm7TQZlGilRKNvpYREd7iNeQVGY.jpg",
-      "rating": 6,
+      "title": "10间敢死队",
+      "originalTitle": "10间敢死队",
+      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
+      "releaseDate": "2026-04-25",
+      "backdropPath": "/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
+      "posterPath": "/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 931285,
+      "type": "tmdb",
+      "title": "真人快打2",
+      "originalTitle": "Mortal Kombat II",
+      "description": "过气好莱坞演员强尼·凯奇（卡尔·厄本 饰）被意外选中，加入一场决定地球命运的真人快打。吉塔娜（阿德莱恩·鲁道夫 饰）、刀锋索尼娅（杰西卡·麦克娜美 饰）、卡诺（约什·劳森 饰）、刘康（林路迪 饰）、贾克斯（麦卡德·布鲁克斯 饰）、尚宗（黄经汉 饰）、雷电（浅野忠信 饰）、避寒（乔·塔斯利姆 饰）、蝎子（真田广之 饰）等角色也将各显身手，开启血浆狂飙的格斗厮杀。",
+      "releaseDate": "2026-05-06",
+      "backdropPath": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "posterPath": "/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
+      "rating": 7.3,
+      "mediaType": "movie",
+      "genreTitle": "动作, 奇幻"
     },
     {
       "id": 1546855,
@@ -140,22 +127,22 @@
       "releaseDate": "2026-04-22",
       "backdropPath": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "posterPath": "/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
-      "rating": 7.546,
+      "rating": 7.562,
       "mediaType": "movie",
       "genreTitle": "音乐, 剧情"
     },
     {
-      "id": 47423,
+      "id": 1549824,
       "type": "tmdb",
-      "title": "纵横四海",
-      "originalTitle": "縱橫四海",
-      "description": "钵仔糕/阿海（周润发 饰）、阿占（张国荣 饰）与红豆（锺楚红 饰）都是孤儿，从小被养父（曾江 饰）培养成国际艺术品大盗，专为他盗取名画赚钱。与此同时，他们亦认了一名警察（朱江 饰）作干爹。\r 　　法国巴黎博物馆内，名画《赫林之女仆》突然失窃。不久，阿海、阿占与红豆联手盗得另一幅名画，在与法国买家交易时，得知《赫林之女仆》正藏于一座神秘古堡中。三人受养父指示前往盗画，成功后却遭养父与法国买家联手设局，派出杀手追杀灭口。逃亡途中，阿海驾车与杀手快艇相撞，生死未卜；阿占则带着红豆侥幸逃脱。\r 　　几年后，三人在香港重逢。阿海因车祸“跛脚”，暂住干爹家中；阿占与红豆已结为夫妻。此时养父再次现身，逼迫阿占盗回《赫林之女仆》。阿海在红豆的恳求下决定重组团队，并暗中布局向养父复仇。两人取回画作后，在与养父交易时爆发枪战，阿海亦揭晓自己假扮跛脚以躲避追杀的计谋。最终干爹将养父逮捕归案，《赫林之女仆》物归原主，三人则一同前往美国开始了新的生活。",
-      "releaseDate": "1991-02-02",
-      "backdropPath": "/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
-      "posterPath": "/5RY3c5m7lElGAWHUbkJJXQtgKEQ.jpg",
-      "rating": 6.812,
+      "title": "门牙",
+      "originalTitle": "门牙",
+      "description": "李未阳（章宇 饰）骑摩托被撞，导致女友沈青（陈昊宇 饰）失去两颗门牙。他没钱，但一定要为女友装上两颗最好的门牙。为了这笔钱，他开始与肇事者，保险公司进行周旋。伤者与肇事者拮据但平静的生活被这场突发意外打乱。",
+      "releaseDate": "2026-05-01",
+      "backdropPath": "/dZfmcyMpYPxY5RXW6P2JOAeXKeA.jpg",
+      "posterPath": "/sm7TQZlGilRKNvpYREd7iNeQVGY.jpg",
+      "rating": 6,
       "mediaType": "movie",
-      "genreTitle": "动作, 喜剧"
+      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 687163,
@@ -166,9 +153,35 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.208,
+      "rating": 8.205,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
+    },
+    {
+      "id": 1500148,
+      "type": "tmdb",
+      "title": "青铜葵花",
+      "originalTitle": "青銅葵花",
+      "description": "曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
+      "releaseDate": "2026-05-08",
+      "backdropPath": "/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
+      "posterPath": "/tQB9biQwL1blSHkT9sJhQxnUS4P.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1124566,
+      "type": "tmdb",
+      "title": "情感价值",
+      "originalTitle": "Affeksjonsverdi",
+      "description": "舞台剧演员诺拉（雷娜特·赖因斯夫 饰）在母亲离世后，突然迎来了生命中长期缺席的父亲古斯塔夫（斯特兰·斯卡斯加德 饰）。这位知名导演携带着自诩为“生涯最佳”的剧本不请自来，不仅执意邀请诺拉担任新片女主角，更坚持要在承载着家族记忆的北欧老宅取景。那栋宛如童话般梦幻的建筑，正是诺拉与妹妹阿格尼丝（英加·伊布斯多特·利勒亚斯 饰）的成长之地。面对这位早已抛弃家庭的父亲，诺拉斩钉截铁地表示拒绝。对她而言，二人之间没有和解的余地。直到仰慕古斯塔夫的好莱坞明星蕾切尔（艾丽·范宁 饰）代替她出演片中主角，事情逐渐往意想不到的方向发展：这个破碎家庭的“情感价值”开始以一种微妙的方式进行“重估” 。",
+      "releaseDate": "2025-08-20",
+      "backdropPath": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
+      "posterPath": "/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
+      "rating": 7.492,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1418531,
@@ -184,17 +197,17 @@
       "genreTitle": "动画, 家庭"
     },
     {
-      "id": 1124566,
+      "id": 1226863,
       "type": "tmdb",
-      "title": "情感价值",
-      "originalTitle": "Affeksjonsverdi",
-      "description": "舞台剧演员诺拉（雷娜特·赖因斯夫 饰）在母亲离世后，突然迎来了生命中长期缺席的父亲古斯塔夫（斯特兰·斯卡斯加德 饰）。这位知名导演携带着自诩为“生涯最佳”的剧本不请自来，不仅执意邀请诺拉担任新片女主角，更坚持要在承载着家族记忆的北欧老宅取景。那栋宛如童话般梦幻的建筑，正是诺拉与妹妹阿格尼丝（英加·伊布斯多特·利勒亚斯 饰）的成长之地。面对这位早已抛弃家庭的父亲，诺拉斩钉截铁地表示拒绝。对她而言，二人之间没有和解的余地。直到仰慕古斯塔夫的好莱坞明星蕾切尔（艾丽·范宁 饰）代替她出演片中主角，事情逐渐往意想不到的方向发展：这个破碎家庭的“情感价值”开始以一种微妙的方式进行“重估” 。",
-      "releaseDate": "2025-08-20",
-      "backdropPath": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
-      "posterPath": "/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
-      "rating": 7.494,
+      "title": "超级马力欧银河大电影",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+      "releaseDate": "2026-04-01",
+      "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+      "posterPath": "/wt1hPXzpM60YCsp23OUbTwI8Gwe.jpg",
+      "rating": 6.731,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 1462229,
@@ -210,17 +223,17 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1226863,
+      "id": 1666325,
       "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "releaseDate": "2026-04-01",
-      "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-      "posterPath": "/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
-      "rating": 6.734,
+      "title": "万桐书",
+      "originalTitle": "万桐书",
+      "description": "影片通过讲述万桐书抢救性保护维吾尔十二木卡姆的艺术人生，展示了党和国家高度重视少数民族地区文化事业，大力开展少数民族地区传统文化抢救工作的史实，以及为筑牢中华民族共同体意识而奋斗的伟绩。",
+      "releaseDate": "2026-04-30",
+      "backdropPath": "/ndKgXGsgbTZOVbHxByXlxFDCDbM.jpg",
+      "posterPath": "/8WkWqkSSrnEEvBOBsrX0L9lCGqo.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "家庭, 喜剧"
+      "genreTitle": "剧情"
     },
     {
       "id": 1481955,
@@ -236,32 +249,6 @@
       "genreTitle": "剧情, 音乐"
     },
     {
-      "id": 1268919,
-      "type": "tmdb",
-      "title": "植物学家",
-      "originalTitle": "植物学家",
-      "description": "影片讲述中国新疆北部边境的山谷村庄里，孤独的哈萨克族男孩与植物为伴，他在追寻逝去的时光中，逐渐隐入植物世界的梦幻寓言。",
-      "releaseDate": "2026-04-14",
-      "backdropPath": "/f6yYzckSVd3zkh6cAbBonuWcZXl.jpg",
-      "posterPath": "/qcTnfHjFULdt2Ze5SAdlj8zkGPQ.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 奇幻"
-    },
-    {
-      "id": 1666325,
-      "type": "tmdb",
-      "title": "万桐书",
-      "originalTitle": "万桐书",
-      "description": "影片通过讲述万桐书抢救性保护维吾尔十二木卡姆的艺术人生，展示了党和国家高度重视少数民族地区文化事业，大力开展少数民族地区传统文化抢救工作的史实，以及为筑牢中华民族共同体意识而奋斗的伟绩。",
-      "releaseDate": "2026-04-30",
-      "backdropPath": "/ndKgXGsgbTZOVbHxByXlxFDCDbM.jpg",
-      "posterPath": "/8WkWqkSSrnEEvBOBsrX0L9lCGqo.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1220564,
       "type": "tmdb",
       "title": "密探",
@@ -270,7 +257,7 @@
       "releaseDate": "2025-07-23",
       "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
       "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.296,
+      "rating": 7.297,
       "mediaType": "movie",
       "genreTitle": "惊悚, 剧情"
     },
@@ -283,7 +270,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "posterPath": "/7iPj1Bj03lX1RJaVdRmKs5N7Nrz.jpg",
-      "rating": 7.7,
+      "rating": 7.743,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -301,6 +288,19 @@
       "genreTitle": "惊悚, 恐怖"
     },
     {
+      "id": 1268919,
+      "type": "tmdb",
+      "title": "植物学家",
+      "originalTitle": "植物学家",
+      "description": "影片讲述中国新疆北部边境的山谷村庄里，孤独的哈萨克族男孩与植物为伴，他在追寻逝去的时光中，逐渐隐入植物世界的梦幻寓言。",
+      "releaseDate": "2026-04-14",
+      "backdropPath": "/f6yYzckSVd3zkh6cAbBonuWcZXl.jpg",
+      "posterPath": "/qcTnfHjFULdt2Ze5SAdlj8zkGPQ.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 奇幻"
+    },
+    {
       "id": 1421609,
       "type": "tmdb",
       "title": "我的妈耶",
@@ -312,19 +312,6 @@
       "rating": 5.5,
       "mediaType": "movie",
       "genreTitle": "家庭, 喜剧"
-    },
-    {
-      "id": 1645455,
-      "type": "tmdb",
-      "title": "登月(第一部)",
-      "originalTitle": "登月(第一部)",
-      "description": "38万公里，53天，中国探月工程嫦娥六号任务完成了人类首次月背采样返回——从那个永远背对地球、充满未知的世界带了一捧月壤回来。 2024年5月，海南文昌，长征五号火箭静立雨中，等待着那个不可错失的发射窗口。指挥大厅里，倒计时声与心跳声交织，数字跳动，屏息凝视。没有人能确定，这是否会成为本次征途的终点。 月背之上，一场人类从未尝试过的“挖土”，正在进行…… 你看到的每一秒历史，都曾有人为此奋斗一生。影片首次深入“嫦娥六号任务”幕后那群隐于视野之外的航天人，他们是普通的中国人，却共同承担着人类探索星辰的使命。他们用一生、用双手，把“星辰”从梦想变成了现实。他们的故事，也是每一个认真生活、默默前行的“我们”的故事。",
-      "releaseDate": "2026-04-08",
-      "backdropPath": "/4hOnfpVCu2MM7n7QKmi0zARASxb.jpg",
-      "posterPath": "/p76KuTVKM2BDMFK1Cgggyz3Cuc.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     },
     {
       "id": 1658136,
@@ -340,19 +327,6 @@
       "genreTitle": "喜剧, 动作"
     },
     {
-      "id": 1316092,
-      "type": "tmdb",
-      "title": "呼啸山庄",
-      "originalTitle": "\"Wuthering Heights\"",
-      "description": "故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.537,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 剧情"
-    },
-    {
       "id": 1305781,
       "type": "tmdb",
       "title": "镖人：风起大漠",
@@ -364,6 +338,32 @@
       "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
+    },
+    {
+      "id": 1316092,
+      "type": "tmdb",
+      "title": "呼啸山庄",
+      "originalTitle": "\"Wuthering Heights\"",
+      "description": "故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
+      "rating": 6.5,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 剧情"
+    },
+    {
+      "id": 1317288,
+      "type": "tmdb",
+      "title": "至尊马蒂",
+      "originalTitle": "Marty Supreme",
+      "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+      "releaseDate": "2025-12-19",
+      "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
+      "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
+      "rating": 7.381,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 惊悚"
     },
     {
       "id": 1249589,
@@ -379,17 +379,17 @@
       "genreTitle": "悬疑, 犯罪"
     },
     {
-      "id": 1470918,
+      "id": 1645455,
       "type": "tmdb",
-      "title": "不能错过的只有你2",
-      "originalTitle": "不能错过的只有你2",
-      "description": "主要讲述了主人公余晚空在他的旅途中偶然遇到了一个境遇相似的女子，并决定与她一起前往美丽的大凉山。在相处的过程中，他们不仅解决了彼此之间的问题，还为家乡带来了积极的影响",
-      "releaseDate": "2026-04-18",
-      "backdropPath": "/4QUGnUtYdw7KHkVAWUcH7zjZ3Pm.jpg",
-      "posterPath": "/3Y17MhSIdIvg4Q1NUOuB52aIprt.jpg",
-      "rating": 2,
+      "title": "登月(第一部)",
+      "originalTitle": "登月(第一部)",
+      "description": "38万公里，53天，中国探月工程嫦娥六号任务完成了人类首次月背采样返回——从那个永远背对地球、充满未知的世界带了一捧月壤回来。 2024年5月，海南文昌，长征五号火箭静立雨中，等待着那个不可错失的发射窗口。指挥大厅里，倒计时声与心跳声交织，数字跳动，屏息凝视。没有人能确定，这是否会成为本次征途的终点。 月背之上，一场人类从未尝试过的“挖土”，正在进行…… 你看到的每一秒历史，都曾有人为此奋斗一生。影片首次深入“嫦娥六号任务”幕后那群隐于视野之外的航天人，他们是普通的中国人，却共同承担着人类探索星辰的使命。他们用一生、用双手，把“星辰”从梦想变成了现实。他们的故事，也是每一个认真生活、默默前行的“我们”的故事。",
+      "releaseDate": "2026-04-08",
+      "backdropPath": "/4hOnfpVCu2MM7n7QKmi0zARASxb.jpg",
+      "posterPath": "/p76KuTVKM2BDMFK1Cgggyz3Cuc.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "爱情"
+      "genreTitle": "纪录"
     },
     {
       "id": 1602727,
@@ -418,17 +418,17 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 682012,
+      "id": 1470918,
       "type": "tmdb",
-      "title": "你好，爱美丽",
-      "originalTitle": "Amélie et la métaphysique des tubes",
-      "description": "对于爱美丽来说，世界是一个令人困惑又安宁的谜团，直到一次与巧克力的奇妙邂逅点燃了她强烈的好奇心。随着她对家中女佣西尾小姐产生深厚依恋，爱美丽不仅发现了大自然的奇迹，也窥见了这个外国人家庭在战后日本田园诗般生活表象之下隐藏的情感真相。",
-      "releaseDate": "2025-06-25",
-      "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
-      "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 7.9,
+      "title": "不能错过的只有你2",
+      "originalTitle": "不能错过的只有你2",
+      "description": "主要讲述了主人公余晚空在他的旅途中偶然遇到了一个境遇相似的女子，并决定与她一起前往美丽的大凉山。在相处的过程中，他们不仅解决了彼此之间的问题，还为家乡带来了积极的影响",
+      "releaseDate": "2026-04-18",
+      "backdropPath": "/4QUGnUtYdw7KHkVAWUcH7zjZ3Pm.jpg",
+      "posterPath": "/3Y17MhSIdIvg4Q1NUOuB52aIprt.jpg",
+      "rating": 2,
       "mediaType": "movie",
-      "genreTitle": "动画, 剧情"
+      "genreTitle": "爱情"
     },
     {
       "id": 1447971,
@@ -470,6 +470,19 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
+      "id": 682012,
+      "type": "tmdb",
+      "title": "你好，爱美丽",
+      "originalTitle": "Amélie et la métaphysique des tubes",
+      "description": "对于爱美丽来说，世界是一个令人困惑又安宁的谜团，直到一次与巧克力的奇妙邂逅点燃了她强烈的好奇心。随着她对家中女佣西尾小姐产生深厚依恋，爱美丽不仅发现了大自然的奇迹，也窥见了这个外国人家庭在战后日本田园诗般生活表象之下隐藏的情感真相。",
+      "releaseDate": "2025-06-25",
+      "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
+      "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
+      "rating": 7.9,
+      "mediaType": "movie",
+      "genreTitle": "动画, 剧情"
+    },
+    {
       "id": 1303236,
       "type": "tmdb",
       "title": "角头：大桥头",
@@ -496,19 +509,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1475606,
-      "type": "tmdb",
-      "title": "祭屋",
-      "originalTitle": "祭屋",
-      "description": "方程程陪同未婚夫苏醒来到诡异的老宅见未来公婆，却发现只在半夜三更出现的苏母竟然已去世多年，且从未举办过葬礼。而苏父明明活着，却非要给自己举办一场死亡祭祀……",
-      "releaseDate": "2026-04-17",
-      "backdropPath": "/1bMwCcp7iMr2QZZjjTDj6L7x0Wv.jpg",
-      "posterPath": "/v8sxF0qXfhf5qncrYRpYYWfUzCI.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
-    },
-    {
       "id": 694,
       "type": "tmdb",
       "title": "闪灵",
@@ -517,22 +517,9 @@
       "releaseDate": "1980-05-23",
       "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
       "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.2,
+      "rating": 8.204,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1297842,
-      "type": "tmdb",
-      "title": "奇迹梦之队",
-      "originalTitle": "GOAT",
-      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.9,
-      "mediaType": "movie",
-      "genreTitle": "动画, 喜剧"
     },
     {
       "id": 1662256,
@@ -548,6 +535,32 @@
       "genreTitle": "剧情, 战争"
     },
     {
+      "id": 1475606,
+      "type": "tmdb",
+      "title": "祭屋",
+      "originalTitle": "祭屋",
+      "description": "方程程陪同未婚夫苏醒来到诡异的老宅见未来公婆，却发现只在半夜三更出现的苏母竟然已去世多年，且从未举办过葬礼。而苏父明明活着，却非要给自己举办一场死亡祭祀……",
+      "releaseDate": "2026-04-17",
+      "backdropPath": "/1bMwCcp7iMr2QZZjjTDj6L7x0Wv.jpg",
+      "posterPath": "/v8sxF0qXfhf5qncrYRpYYWfUzCI.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 恐怖"
+    },
+    {
+      "id": 1297842,
+      "type": "tmdb",
+      "title": "奇迹梦之队",
+      "originalTitle": "GOAT",
+      "description": "主角威尔是只梦想成为职业球手的小山羊，面对向来由猛兽主宰的凶险赛场，队友对他嗤之以鼻，他能否打破偏见，用实力证明小个子也能称霸球场？",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
+      "rating": 7.949,
+      "mediaType": "movie",
+      "genreTitle": "动画, 喜剧"
+    },
+    {
       "id": 1607088,
       "type": "tmdb",
       "title": "熊出没·年年有熊",
@@ -559,6 +572,19 @@
       "rating": 5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 奇幻"
+    },
+    {
+      "id": 10191,
+      "type": "tmdb",
+      "title": "驯龙高手",
+      "originalTitle": "How to Train Your Dragon",
+      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
+      "releaseDate": "2010-03-18",
+      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
+      "rating": 7.858,
+      "mediaType": "movie",
+      "genreTitle": "奇幻, 冒险"
     },
     {
       "id": 1650257,
@@ -587,6 +613,19 @@
       "genreTitle": ""
     },
     {
+      "id": 1316352,
+      "type": "tmdb",
+      "title": "状元媒(京剧)",
+      "originalTitle": "状元媒(京剧)",
+      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
+      "releaseDate": "2015-04-23",
+      "backdropPath": null,
+      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
       "id": 1002640,
       "type": "tmdb",
       "title": "Secrets of the Sea",
@@ -608,19 +647,6 @@
       "releaseDate": "2015-04-23",
       "backdropPath": null,
       "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
-      "id": 1316352,
-      "type": "tmdb",
-      "title": "状元媒(京剧)",
-      "originalTitle": "状元媒(京剧)",
-      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
-      "releaseDate": "2015-04-23",
-      "backdropPath": null,
-      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
