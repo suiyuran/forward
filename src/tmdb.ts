@@ -144,7 +144,9 @@ export async function searchTMDBResultsResponse(type: string, query: string, yea
     Accept: "application/json",
     Authorization: `Bearer ${TMDB_API_KEY}`,
   };
-  return (await fetch(url, { headers })).json();
+  const response = await fetch(url, { headers });
+  const text = await response.text();
+  return JSON.parse(text);
 }
 
 export async function searchTMDBResults(type: string, query: string, year: string) {
