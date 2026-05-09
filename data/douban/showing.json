@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-08T18:12:08.825Z",
+  "time": "2026-05-09T17:52:14.425Z",
   "data": [
     {
       "id": 1671548,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-04-30",
       "backdropPath": "/oZURKlzlwdRfZ40D61v1vLF5eVD.jpg",
       "posterPath": "/ePIAxow5xpinDIdwWELS3GtxpSD.jpg",
-      "rating": 8.5,
+      "rating": 8.667,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -28,6 +28,19 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
+      "id": 931285,
+      "type": "tmdb",
+      "title": "真人快打2",
+      "originalTitle": "Mortal Kombat II",
+      "description": "过气好莱坞演员强尼·凯奇（卡尔·厄本 饰）被意外选中，加入一场决定地球命运的真人快打。吉塔娜（阿德莱恩·鲁道夫 饰）、刀锋索尼娅（杰西卡·麦克娜美 饰）、卡诺（约什·劳森 饰）、刘康（林路迪 饰）、贾克斯（麦卡德·布鲁克斯 饰）、尚宗（黄经汉 饰）、雷电（浅野忠信 饰）、避寒（乔·塔斯利姆 饰）、蝎子（真田广之 饰）等角色也将各显身手，开启血浆狂飙的格斗厮杀。",
+      "releaseDate": "2026-05-06",
+      "backdropPath": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "posterPath": "/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
+      "rating": 7.27,
+      "mediaType": "movie",
+      "genreTitle": "动作, 奇幻"
+    },
+    {
       "id": 1499071,
       "type": "tmdb",
       "title": "寒战1994",
@@ -41,17 +54,17 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 1314481,
+      "id": 1500148,
       "type": "tmdb",
-      "title": "穿普拉达的女王2",
-      "originalTitle": "The Devil Wears Prada 2",
-      "description": "随着传统出版业的式微，时尚女王米兰达在职业生涯中迎来新挑战。她不得不与手握广告预算的曾经的助理，如今已是奢侈品牌集团高管的艾米莉正面交锋。两人在行业变局中展开了一场关乎权力与生存的较量。",
-      "releaseDate": "2026-04-29",
-      "backdropPath": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-      "posterPath": "/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
-      "rating": 6.761,
+      "title": "青铜葵花",
+      "originalTitle": "青銅葵花",
+      "description": "曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
+      "releaseDate": "2026-05-08",
+      "backdropPath": "/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
+      "posterPath": "/tQB9biQwL1blSHkT9sJhQxnUS4P.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 47423,
@@ -62,9 +75,22 @@
       "releaseDate": "1991-02-02",
       "backdropPath": "/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
       "posterPath": "/5RY3c5m7lElGAWHUbkJJXQtgKEQ.jpg",
-      "rating": 6.812,
+      "rating": 6.8,
       "mediaType": "movie",
       "genreTitle": "动作, 喜剧"
+    },
+    {
+      "id": 1314481,
+      "type": "tmdb",
+      "title": "穿普拉达的女王2",
+      "originalTitle": "The Devil Wears Prada 2",
+      "description": "随着传统出版业的式微，时尚女王米兰达在职业生涯中迎来新挑战。她不得不与手握广告预算的曾经的助理，如今已是奢侈品牌集团高管的艾米莉正面交锋。两人在行业变局中展开了一场关乎权力与生存的较量。",
+      "releaseDate": "2026-04-29",
+      "backdropPath": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+      "posterPath": "/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
+      "rating": 6.74,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1168719,
@@ -73,11 +99,11 @@
       "originalTitle": "Silent Friend",
       "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
       "releaseDate": "2026-01-15",
-      "backdropPath": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
+      "backdropPath": "/sa8xMTPHkAMPeiiIFZImBKjO49b.jpg",
       "posterPath": "/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-      "rating": 7.333,
+      "rating": 7.2,
       "mediaType": "movie",
-      "genreTitle": "剧情, 历史"
+      "genreTitle": "剧情"
     },
     {
       "id": 1492501,
@@ -91,19 +117,6 @@
       "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 931285,
-      "type": "tmdb",
-      "title": "真人快打2",
-      "originalTitle": "Mortal Kombat II",
-      "description": "过气好莱坞演员强尼·凯奇（卡尔·厄本 饰）被意外选中，加入一场决定地球命运的真人快打。吉塔娜（阿德莱恩·鲁道夫 饰）、刀锋索尼娅（杰西卡·麦克娜美 饰）、卡诺（约什·劳森 饰）、刘康（林路迪 饰）、贾克斯（麦卡德·布鲁克斯 饰）、尚宗（黄经汉 饰）、雷电（浅野忠信 饰）、避寒（乔·塔斯利姆 饰）、蝎子（真田广之 饰）等角色也将各显身手，开启血浆狂飙的格斗厮杀。",
-      "releaseDate": "2026-05-06",
-      "backdropPath": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "posterPath": "/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "动作, 奇幻"
     },
     {
       "id": 1546855,
@@ -127,7 +140,7 @@
       "releaseDate": "2026-04-22",
       "backdropPath": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "posterPath": "/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
-      "rating": 7.562,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "音乐, 剧情"
     },
@@ -153,22 +166,9 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.205,
+      "rating": 8.202,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
-    },
-    {
-      "id": 1500148,
-      "type": "tmdb",
-      "title": "青铜葵花",
-      "originalTitle": "青銅葵花",
-      "description": "曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
-      "releaseDate": "2026-05-08",
-      "backdropPath": "/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
-      "posterPath": "/tQB9biQwL1blSHkT9sJhQxnUS4P.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1124566,
@@ -179,9 +179,22 @@
       "releaseDate": "2025-08-20",
       "backdropPath": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "posterPath": "/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
-      "rating": 7.492,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1226863,
+      "type": "tmdb",
+      "title": "超级马力欧银河大电影",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+      "releaseDate": "2026-04-01",
+      "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+      "posterPath": "/wt1hPXzpM60YCsp23OUbTwI8Gwe.jpg",
+      "rating": 6.723,
+      "mediaType": "movie",
+      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 1418531,
@@ -195,19 +208,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1226863,
-      "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "releaseDate": "2026-04-01",
-      "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-      "posterPath": "/wt1hPXzpM60YCsp23OUbTwI8Gwe.jpg",
-      "rating": 6.731,
-      "mediaType": "movie",
-      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 1462229,
@@ -236,6 +236,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1220564,
+      "type": "tmdb",
+      "title": "密探",
+      "originalTitle": "O Agente Secreto",
+      "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
+      "releaseDate": "2025-07-23",
+      "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
+      "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
+      "rating": 7.301,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 剧情"
+    },
+    {
       "id": 1481955,
       "type": "tmdb",
       "title": "阳光女子合唱团",
@@ -249,19 +262,6 @@
       "genreTitle": "剧情, 音乐"
     },
     {
-      "id": 1220564,
-      "type": "tmdb",
-      "title": "密探",
-      "originalTitle": "O Agente Secreto",
-      "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
-      "releaseDate": "2025-07-23",
-      "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
-      "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.297,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 剧情"
-    },
-    {
       "id": 1327819,
       "type": "tmdb",
       "title": "河狸变身计划",
@@ -270,7 +270,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "posterPath": "/7iPj1Bj03lX1RJaVdRmKs5N7Nrz.jpg",
-      "rating": 7.743,
+      "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -314,17 +314,17 @@
       "genreTitle": "家庭, 喜剧"
     },
     {
-      "id": 1658136,
+      "id": 1645455,
       "type": "tmdb",
-      "title": "猪猪侠大电影之竞速小英雄",
-      "originalTitle": "猪猪侠大电影之竞速小英雄",
-      "description": "猪猪侠与星航携手穿越时空，以赛车为武器，拯救被神秘物质“P型剂”影响的车神银河。",
-      "releaseDate": "2026-05-01",
-      "backdropPath": "/4xlI7YMHe3UmtRireGoJ0ZUCjUO.jpg",
-      "posterPath": "/lpc1z69ycoQ8ond8PXmsal7MMfQ.jpg",
+      "title": "登月(第一部)",
+      "originalTitle": "登月(第一部)",
+      "description": "38万公里，53天，中国探月工程嫦娥六号任务完成了人类首次月背采样返回——从那个永远背对地球、充满未知的世界带了一捧月壤回来。 2024年5月，海南文昌，长征五号火箭静立雨中，等待着那个不可错失的发射窗口。指挥大厅里，倒计时声与心跳声交织，数字跳动，屏息凝视。没有人能确定，这是否会成为本次征途的终点。 月背之上，一场人类从未尝试过的“挖土”，正在进行…… 你看到的每一秒历史，都曾有人为此奋斗一生。影片首次深入“嫦娥六号任务”幕后那群隐于视野之外的航天人，他们是普通的中国人，却共同承担着人类探索星辰的使命。他们用一生、用双手，把“星辰”从梦想变成了现实。他们的故事，也是每一个认真生活、默默前行的“我们”的故事。",
+      "releaseDate": "2026-04-08",
+      "backdropPath": "/4hOnfpVCu2MM7n7QKmi0zARASxb.jpg",
+      "posterPath": "/p76KuTVKM2BDMFK1Cgggyz3Cuc.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 动作"
+      "genreTitle": "纪录"
     },
     {
       "id": 1305781,
@@ -340,32 +340,6 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 1316092,
-      "type": "tmdb",
-      "title": "呼啸山庄",
-      "originalTitle": "\"Wuthering Heights\"",
-      "description": "故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
-      "releaseDate": "2026-02-11",
-      "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.5,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 剧情"
-    },
-    {
-      "id": 1317288,
-      "type": "tmdb",
-      "title": "至尊马蒂",
-      "originalTitle": "Marty Supreme",
-      "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-      "releaseDate": "2025-12-19",
-      "backdropPath": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
-      "posterPath": "/zzeTarZ1E75NH651MO8ULF6KcdP.jpg",
-      "rating": 7.381,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 惊悚"
-    },
-    {
       "id": 1249589,
       "type": "tmdb",
       "title": "天才游戏",
@@ -379,17 +353,30 @@
       "genreTitle": "悬疑, 犯罪"
     },
     {
-      "id": 1645455,
+      "id": 1316092,
       "type": "tmdb",
-      "title": "登月(第一部)",
-      "originalTitle": "登月(第一部)",
-      "description": "38万公里，53天，中国探月工程嫦娥六号任务完成了人类首次月背采样返回——从那个永远背对地球、充满未知的世界带了一捧月壤回来。 2024年5月，海南文昌，长征五号火箭静立雨中，等待着那个不可错失的发射窗口。指挥大厅里，倒计时声与心跳声交织，数字跳动，屏息凝视。没有人能确定，这是否会成为本次征途的终点。 月背之上，一场人类从未尝试过的“挖土”，正在进行…… 你看到的每一秒历史，都曾有人为此奋斗一生。影片首次深入“嫦娥六号任务”幕后那群隐于视野之外的航天人，他们是普通的中国人，却共同承担着人类探索星辰的使命。他们用一生、用双手，把“星辰”从梦想变成了现实。他们的故事，也是每一个认真生活、默默前行的“我们”的故事。",
-      "releaseDate": "2026-04-08",
-      "backdropPath": "/4hOnfpVCu2MM7n7QKmi0zARASxb.jpg",
-      "posterPath": "/p76KuTVKM2BDMFK1Cgggyz3Cuc.jpg",
+      "title": "呼啸山庄",
+      "originalTitle": "\"Wuthering Heights\"",
+      "description": "故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
+      "releaseDate": "2026-02-11",
+      "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
+      "rating": 6.5,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 剧情"
+    },
+    {
+      "id": 1658136,
+      "type": "tmdb",
+      "title": "猪猪侠大电影之竞速小英雄",
+      "originalTitle": "猪猪侠大电影之竞速小英雄",
+      "description": "猪猪侠与星航携手穿越时空，以赛车为武器，拯救被神秘物质“P型剂”影响的车神银河。",
+      "releaseDate": "2026-05-01",
+      "backdropPath": "/4xlI7YMHe3UmtRireGoJ0ZUCjUO.jpg",
+      "posterPath": "/lpc1z69ycoQ8ond8PXmsal7MMfQ.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "喜剧, 动作"
     },
     {
       "id": 1602727,
@@ -403,6 +390,19 @@
       "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1447971,
+      "type": "tmdb",
+      "title": "惊蛰无声",
+      "originalTitle": "惊蛰无声",
+      "description": "你看不见的地方，谍战从未停止交锋！我国最新战机的涉密信息外泄，国家安全面临威胁，国安小组迅速行动抓捕间谍，在信任与背叛的漩涡中，一场惊心博弈悄然上演……",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/tNfhsO5CdMRzThEx3XlkTEp808Q.jpg",
+      "posterPath": "/cPdZiwjdLel5DD7Nm99FcSsXuSr.jpg",
+      "rating": 6.9,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 惊悚"
     },
     {
       "id": 1005985,
@@ -429,19 +429,6 @@
       "rating": 2,
       "mediaType": "movie",
       "genreTitle": "爱情"
-    },
-    {
-      "id": 1447971,
-      "type": "tmdb",
-      "title": "惊蛰无声",
-      "originalTitle": "惊蛰无声",
-      "description": "你看不见的地方，谍战从未停止交锋！我国最新战机的涉密信息外泄，国家安全面临威胁，国安小组迅速行动抓捕间谍，在信任与背叛的漩涡中，一场惊心博弈悄然上演……",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/tNfhsO5CdMRzThEx3XlkTEp808Q.jpg",
-      "posterPath": "/cPdZiwjdLel5DD7Nm99FcSsXuSr.jpg",
-      "rating": 6.9,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 惊悚"
     },
     {
       "id": 1454209,
@@ -478,35 +465,9 @@
       "releaseDate": "2025-06-25",
       "backdropPath": "/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
       "posterPath": "/uSDivMwl8EPKfUFx2YpUfPSxb9R.jpg",
-      "rating": 7.9,
+      "rating": 7.922,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
-    },
-    {
-      "id": 1303236,
-      "type": "tmdb",
-      "title": "角头：大桥头",
-      "originalTitle": "角頭－大橋頭",
-      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
-      "releaseDate": "2024-08-16",
-      "backdropPath": "/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
-      "posterPath": "/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
-      "rating": 7.2,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 动作"
-    },
-    {
-      "id": 1653289,
-      "type": "tmdb",
-      "title": "如父如母",
-      "originalTitle": "如父如母",
-      "description": "父亲车祸成植物人，儿子被迫成长。周旋于生母/养母的复杂亲情与两位恋人之间，在相似与迥异中完成成人礼。",
-      "releaseDate": "2026-04-04",
-      "backdropPath": null,
-      "posterPath": "/rpvXuRZcakBtcUKbaGop0HlA4Mk.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 694,
@@ -517,7 +478,7 @@
       "releaseDate": "1980-05-23",
       "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
       "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.204,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -533,6 +494,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
+    },
+    {
+      "id": 1653289,
+      "type": "tmdb",
+      "title": "如父如母",
+      "originalTitle": "如父如母",
+      "description": "父亲车祸成植物人，儿子被迫成长。周旋于生母/养母的复杂亲情与两位恋人之间，在相似与迥异中完成成人礼。",
+      "releaseDate": "2026-04-04",
+      "backdropPath": null,
+      "posterPath": "/rpvXuRZcakBtcUKbaGop0HlA4Mk.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1475606,
@@ -556,22 +530,9 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.949,
+      "rating": 7.957,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 1607088,
-      "type": "tmdb",
-      "title": "熊出没·年年有熊",
-      "originalTitle": "熊出没·年年有熊",
-      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
-      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 奇幻"
     },
     {
       "id": 10191,
@@ -585,6 +546,19 @@
       "rating": 7.858,
       "mediaType": "movie",
       "genreTitle": "奇幻, 冒险"
+    },
+    {
+      "id": 1607088,
+      "type": "tmdb",
+      "title": "熊出没·年年有熊",
+      "originalTitle": "熊出没·年年有熊",
+      "description": "熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/hXSA2wWdRO1KfJWC0wY7HfjUKzt.jpg",
+      "posterPath": "/qt32OrO5CkfAKCwJUfU5m3qmhg0.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 奇幻"
     },
     {
       "id": 1650257,
@@ -608,6 +582,19 @@
       "releaseDate": "2017-04-21",
       "backdropPath": null,
       "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 956215,
+      "type": "tmdb",
+      "title": "龙凤呈祥(京剧)",
+      "originalTitle": "龙凤呈祥(京剧)",
+      "description": "孙权（安平 饰）因刘备(耿其昌 饰)久占荆州，屡讨不还，遂与周瑜（叶少兰 饰）定计，假称以妹孙尚香（李维康 饰）许配刘备，诓其过江留质，以换荆州。诸葛亮识破计谋，将计就计，使赵云（王平 饰）保护刘备同往，并先拜谒周瑜岳丈——太尉乔玄（冯志孝 饰）。乔玄即以其事奏于孙母吴国太（赵葆秀 饰），国太决定在甘露寺相亲。乔玄从孙刘联合抗曹的大局出发极力撮合，终于弄假成真。  周瑜见美人计失败，又以声色羁縻之，刘备果然乐不思归。赵云复用诸葛亮锦囊之计，佯报曹操袭取荆州。刘备惊慌欲走，告于尚香。尚香拜别国太，随其潜逃。周瑜遣将追赶，皆为尚香斥退，继而率兵亲至，时诸葛亮已用船迎接刘备脱险。周瑜反受张飞（杨赤 饰）之辱。",
+      "releaseDate": "2015-04-23",
+      "backdropPath": null,
+      "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
@@ -639,19 +626,6 @@
       "genreTitle": ""
     },
     {
-      "id": 956215,
-      "type": "tmdb",
-      "title": "龙凤呈祥(京剧)",
-      "originalTitle": "龙凤呈祥(京剧)",
-      "description": "孙权（安平 饰）因刘备(耿其昌 饰)久占荆州，屡讨不还，遂与周瑜（叶少兰 饰）定计，假称以妹孙尚香（李维康 饰）许配刘备，诓其过江留质，以换荆州。诸葛亮识破计谋，将计就计，使赵云（王平 饰）保护刘备同往，并先拜谒周瑜岳丈——太尉乔玄（冯志孝 饰）。乔玄即以其事奏于孙母吴国太（赵葆秀 饰），国太决定在甘露寺相亲。乔玄从孙刘联合抗曹的大局出发极力撮合，终于弄假成真。  周瑜见美人计失败，又以声色羁縻之，刘备果然乐不思归。赵云复用诸葛亮锦囊之计，佯报曹操袭取荆州。刘备惊慌欲走，告于尚香。尚香拜别国太，随其潜逃。周瑜遣将追赶，皆为尚香斥退，继而率兵亲至，时诸葛亮已用船迎接刘备脱险。周瑜反受张飞（杨赤 饰）之辱。",
-      "releaseDate": "2015-04-23",
-      "backdropPath": null,
-      "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
       "id": 916971,
       "type": "tmdb",
       "title": "赵氏孤儿(京剧)",
@@ -663,6 +637,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
+    },
+    {
+      "id": 1682697,
+      "type": "tmdb",
+      "title": "鲁西儿女",
+      "originalTitle": "鲁西儿女",
+      "description": "本电影讲述鲁西地区抗日武装队伍在冠县东三里村成立，他们坚守抗日救国，为国除奸为民除害并收编改造土匪绿林的故事。展现了在党的领导下，鲁西青年知识分子为抗日救国，创建和壮大鲁西地区抗日武装的历程。",
+      "releaseDate": "2026-04-25",
+      "backdropPath": "/303fdUAMJRRmf9yTpiwZh5NXEkE.jpg",
+      "posterPath": "/lBrCBVNDhl7EPt7qbkG39X8ABVm.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 战争"
     }
   ]
 }
