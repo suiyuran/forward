@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-08T20:43:30.298Z",
+  "time": "2026-05-09T20:31:31.977Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/oZURKlzlwdRfZ40D61v1vLF5eVD.jpg",
         "posterPath": "/ePIAxow5xpinDIdwWELS3GtxpSD.jpg",
-        "rating": 8.5,
+        "rating": 8.667,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -127,8 +127,8 @@
         "description": "艾玛（赞达亚 饰）和查理（罗伯特·帕丁森 饰）是一对即将完婚的情侣，然而婚礼前夕忽然发生了让人意想不到的抓马故事，两人的感情面临前所未有的考验。",
         "releaseDate": "2026-03-26",
         "backdropPath": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
-        "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
-        "rating": 7.002,
+        "posterPath": "/sUNGNCNYpAGJ3wBoolBFEdinIS0.jpg",
+        "rating": 6.98,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       }
@@ -156,7 +156,7 @@
         "releaseDate": "2026-03-16",
         "backdropPath": "/wrbCLyF2njQtjGw5Js3JAOV69J5.jpg",
         "posterPath": "/ueuFQumoj6YDePVSCqErrDxsC9Y.jpg",
-        "rating": 7.571,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 8.015,
+        "rating": 8.043,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.2,
+        "rating": 8.318,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
