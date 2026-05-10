@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-09T17:52:14.425Z",
+  "time": "2026-05-10T17:53:46.653Z",
   "data": [
     {
       "id": 1671548,
@@ -8,9 +8,9 @@
       "originalTitle": "给阿嬷的情书",
       "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
       "releaseDate": "2026-04-30",
-      "backdropPath": "/oZURKlzlwdRfZ40D61v1vLF5eVD.jpg",
-      "posterPath": "/ePIAxow5xpinDIdwWELS3GtxpSD.jpg",
-      "rating": 8.667,
+      "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
+      "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
+      "rating": 9,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -36,7 +36,7 @@
       "releaseDate": "2026-05-06",
       "backdropPath": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "posterPath": "/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
-      "rating": 7.27,
+      "rating": 7.2,
       "mediaType": "movie",
       "genreTitle": "动作, 奇幻"
     },
@@ -52,19 +52,6 @@
       "rating": 6.2,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 1500148,
-      "type": "tmdb",
-      "title": "青铜葵花",
-      "originalTitle": "青銅葵花",
-      "description": "曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
-      "releaseDate": "2026-05-08",
-      "backdropPath": "/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
-      "posterPath": "/tQB9biQwL1blSHkT9sJhQxnUS4P.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 47423,
@@ -88,7 +75,7 @@
       "releaseDate": "2026-04-29",
       "backdropPath": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "posterPath": "/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
-      "rating": 6.74,
+      "rating": 6.78,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -106,17 +93,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1492501,
+      "id": 1500148,
       "type": "tmdb",
-      "title": "10间敢死队",
-      "originalTitle": "10间敢死队",
-      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
-      "releaseDate": "2026-04-25",
-      "backdropPath": "/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
-      "posterPath": "/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
-      "rating": 6.5,
+      "title": "青铜葵花",
+      "originalTitle": "青銅葵花",
+      "description": "曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
+      "releaseDate": "2026-05-08",
+      "backdropPath": "/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
+      "posterPath": "/tQB9biQwL1blSHkT9sJhQxnUS4P.jpg",
+      "rating": 6,
       "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1546855,
@@ -127,6 +114,19 @@
       "releaseDate": "2026-03-21",
       "backdropPath": "/sc2Q8HwhUOb49IfbkHHvi8dB7yy.jpg",
       "posterPath": "/Z4PcigZfdhrU2via1XrdSrEq4G.jpg",
+      "rating": 6.5,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1492501,
+      "type": "tmdb",
+      "title": "10间敢死队",
+      "originalTitle": "10间敢死队",
+      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
+      "releaseDate": "2026-04-25",
+      "backdropPath": "/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
+      "posterPath": "/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
       "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
@@ -145,6 +145,19 @@
       "genreTitle": "音乐, 剧情"
     },
     {
+      "id": 687163,
+      "type": "tmdb",
+      "title": "挽救计划",
+      "originalTitle": "Project Hail Mary",
+      "description": "中学科学老师瑞恩·格雷斯在一艘距离家园数光年外的飞船上醒来，完全不记得自己是谁，也不记得如何来到这里。随着记忆逐渐恢复，他开始揭开自己的使命：解开导致太阳逐渐熄灭的神秘物质的谜团。他必须借助自己的科学知识与非常规思路，拯救地球万物免于灭绝……但一段意想不到的友谊意味着他也许不必独自承担这一切。[亚马逊米高梅影业]",
+      "releaseDate": "2026-03-15",
+      "backdropPath": "/xQRNN12LePQqqIbhP6xP5X212HG.jpg",
+      "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
+      "rating": 8.2,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 冒险"
+    },
+    {
       "id": 1549824,
       "type": "tmdb",
       "title": "门牙",
@@ -156,19 +169,6 @@
       "rating": 6,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 687163,
-      "type": "tmdb",
-      "title": "挽救计划",
-      "originalTitle": "Project Hail Mary",
-      "description": "太阳即将熄灭，地球命悬一线，对太空一窍不通的中学老师瑞恩（瑞恩·高斯林 饰）竟成为全人类的希望。被迫成为宇航员的他，踏上有去无回的太空孤旅。他能否力挽狂澜，为人类带来新的黎明？\r 　　影片改编自安迪·威尔的同名畅销科幻小说。",
-      "releaseDate": "2026-03-15",
-      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.202,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
     },
     {
       "id": 1124566,
@@ -190,24 +190,11 @@
       "originalTitle": "The Super Mario Galaxy Movie",
       "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
       "releaseDate": "2026-04-01",
-      "backdropPath": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "posterPath": "/wt1hPXzpM60YCsp23OUbTwI8Gwe.jpg",
-      "rating": 6.723,
+      "rating": 6.726,
       "mediaType": "movie",
       "genreTitle": "家庭, 喜剧"
-    },
-    {
-      "id": 1418531,
-      "type": "tmdb",
-      "title": "燃比娃",
-      "originalTitle": "燃比娃",
-      "description": "影片故事源自羌族神话，讲述了一只被人类抚养长大的猴子，追寻母亲阿勿巴吉（周迅 配音）的足迹，踏上神山探寻“温暖”之谜的旅程。他在“恐惧之兽”口中夺取火种，烈焰焚身，褪去毛发，涅槃成人。",
-      "releaseDate": "2026-04-28",
-      "backdropPath": "/uzJxjBo7jp1eFOUnNFKMShiQtRo.jpg",
-      "posterPath": "/345iQbrsk9GPUrk8toAuhxcacss.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
     },
     {
       "id": 1462229,
@@ -223,6 +210,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1418531,
+      "type": "tmdb",
+      "title": "燃比娃",
+      "originalTitle": "燃比娃",
+      "description": "影片故事源自羌族神话，讲述了一只被人类抚养长大的猴子，追寻母亲阿勿巴吉（周迅 配音）的足迹，踏上神山探寻“温暖”之谜的旅程。他在“恐惧之兽”口中夺取火种，烈焰焚身，褪去毛发，涅槃成人。",
+      "releaseDate": "2026-04-28",
+      "backdropPath": "/uzJxjBo7jp1eFOUnNFKMShiQtRo.jpg",
+      "posterPath": "/345iQbrsk9GPUrk8toAuhxcacss.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
       "id": 1666325,
       "type": "tmdb",
       "title": "万桐书",
@@ -234,19 +234,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1220564,
-      "type": "tmdb",
-      "title": "密探",
-      "originalTitle": "O Agente Secreto",
-      "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
-      "releaseDate": "2025-07-23",
-      "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
-      "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "rating": 7.301,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 剧情"
     },
     {
       "id": 1481955,
@@ -262,6 +249,19 @@
       "genreTitle": "剧情, 音乐"
     },
     {
+      "id": 1220564,
+      "type": "tmdb",
+      "title": "密探",
+      "originalTitle": "O Agente Secreto",
+      "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
+      "releaseDate": "2025-07-23",
+      "backdropPath": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
+      "posterPath": "/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
+      "rating": 7.302,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 剧情"
+    },
+    {
       "id": 1327819,
       "type": "tmdb",
       "title": "河狸变身计划",
@@ -270,7 +270,7 @@
       "releaseDate": "2026-03-04",
       "backdropPath": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "posterPath": "/7iPj1Bj03lX1RJaVdRmKs5N7Nrz.jpg",
-      "rating": 7.7,
+      "rating": 7.798,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -314,6 +314,32 @@
       "genreTitle": "家庭, 喜剧"
     },
     {
+      "id": 1305781,
+      "type": "tmdb",
+      "title": "镖人：风起大漠",
+      "originalTitle": "镖人：风起大漠",
+      "description": "大漠之上，镖人、官府、西域五大家族等多方势力盘根错节、暗潮涌动。“天字第二号逃犯”刀马接下特殊押镖任务，和同伴一起从西域护镖远赴长安。不料，他们的护送对象竟是“天字第一号逃犯”知世郎……天下熙熙皆为利来，各方势力闻风入局，抢镖厮杀接连上演……",
+      "releaseDate": "2026-02-17",
+      "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+      "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "动作, 剧情"
+    },
+    {
+      "id": 1658136,
+      "type": "tmdb",
+      "title": "猪猪侠大电影之竞速小英雄",
+      "originalTitle": "猪猪侠大电影之竞速小英雄",
+      "description": "猪猪侠与星航携手穿越时空，以赛车为武器，拯救被神秘物质“P型剂”影响的车神银河。",
+      "releaseDate": "2026-05-01",
+      "backdropPath": "/4xlI7YMHe3UmtRireGoJ0ZUCjUO.jpg",
+      "posterPath": "/lpc1z69ycoQ8ond8PXmsal7MMfQ.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动作"
+    },
+    {
       "id": 1645455,
       "type": "tmdb",
       "title": "登月(第一部)",
@@ -327,17 +353,17 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1305781,
+      "id": 1602727,
       "type": "tmdb",
-      "title": "镖人：风起大漠",
-      "originalTitle": "镖人：风起大漠",
-      "description": "大漠之上，镖人、官府、西域五大家族等多方势力盘根错节、暗潮涌动。“天字第二号逃犯”刀马接下特殊押镖任务，和同伴一起从西域护镖远赴长安。不料，他们的护送对象竟是“天字第一号逃犯”知世郎……天下熙熙皆为利来，各方势力闻风入局，抢镖厮杀接连上演……",
-      "releaseDate": "2026-02-17",
-      "backdropPath": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
-      "posterPath": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-      "rating": 7.1,
+      "title": "夜王",
+      "originalTitle": "夜王",
+      "description": "2012年，昔日风光一时的东日夜总会被收购，在尖东打滚数十年的大经理欢哥（黄子华 饰）面临时代转变的挑战。公司新任CEO竟是欢哥狠辣的前妻V姐（郑秀文 饰），强迫欢哥及众女公关转型，业绩渐有起色。怎料背后原来是大财团的操控游戏，东日随时关灯不保。为了保住东日，欢哥及V姐联手，誓要与众女公关作最后反扑，企硬尖东！",
+      "releaseDate": "2026-02-14",
+      "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
+      "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
+      "rating": 7.4,
       "mediaType": "movie",
-      "genreTitle": "动作, 剧情"
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1249589,
@@ -361,35 +387,9 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.5,
+      "rating": 6.551,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
-    },
-    {
-      "id": 1658136,
-      "type": "tmdb",
-      "title": "猪猪侠大电影之竞速小英雄",
-      "originalTitle": "猪猪侠大电影之竞速小英雄",
-      "description": "猪猪侠与星航携手穿越时空，以赛车为武器，拯救被神秘物质“P型剂”影响的车神银河。",
-      "releaseDate": "2026-05-01",
-      "backdropPath": "/4xlI7YMHe3UmtRireGoJ0ZUCjUO.jpg",
-      "posterPath": "/lpc1z69ycoQ8ond8PXmsal7MMfQ.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动作"
-    },
-    {
-      "id": 1602727,
-      "type": "tmdb",
-      "title": "夜王",
-      "originalTitle": "夜王",
-      "description": "2012年，昔日风光一时的东日夜总会被收购，在尖东打滚数十年的大经理欢哥（黄子华 饰）面临时代转变的挑战。公司新任CEO竟是欢哥狠辣的前妻V姐（郑秀文 饰），强迫欢哥及众女公关转型，业绩渐有起色。怎料背后原来是大财团的操控游戏，东日随时关灯不保。为了保住东日，欢哥及V姐联手，誓要与众女公关作最后反扑，企硬尖东！",
-      "releaseDate": "2026-02-14",
-      "backdropPath": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
-      "posterPath": "/mYGhDzTRB8n45En5BQZVXcvE2p.jpg",
-      "rating": 7.4,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1447971,
@@ -418,19 +418,6 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 1470918,
-      "type": "tmdb",
-      "title": "不能错过的只有你2",
-      "originalTitle": "不能错过的只有你2",
-      "description": "主要讲述了主人公余晚空在他的旅途中偶然遇到了一个境遇相似的女子，并决定与她一起前往美丽的大凉山。在相处的过程中，他们不仅解决了彼此之间的问题，还为家乡带来了积极的影响",
-      "releaseDate": "2026-04-18",
-      "backdropPath": "/4QUGnUtYdw7KHkVAWUcH7zjZ3Pm.jpg",
-      "posterPath": "/3Y17MhSIdIvg4Q1NUOuB52aIprt.jpg",
-      "rating": 2,
-      "mediaType": "movie",
-      "genreTitle": "爱情"
-    },
-    {
       "id": 1454209,
       "type": "tmdb",
       "title": "非穷尽列举",
@@ -442,6 +429,19 @@
       "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1470918,
+      "type": "tmdb",
+      "title": "不能错过的只有你2",
+      "originalTitle": "不能错过的只有你2",
+      "description": "主要讲述了主人公余晚空在他的旅途中偶然遇到了一个境遇相似的女子，并决定与她一起前往美丽的大凉山。在相处的过程中，他们不仅解决了彼此之间的问题，还为家乡带来了积极的影响",
+      "releaseDate": "2026-04-18",
+      "backdropPath": "/4QUGnUtYdw7KHkVAWUcH7zjZ3Pm.jpg",
+      "posterPath": "/3Y17MhSIdIvg4Q1NUOuB52aIprt.jpg",
+      "rating": 2,
+      "mediaType": "movie",
+      "genreTitle": "爱情"
     },
     {
       "id": 1683639,
@@ -478,7 +478,7 @@
       "releaseDate": "1980-05-23",
       "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
       "posterPath": "/zXKCwVNVsvYeg2XapKXszm5x9tZ.jpg",
-      "rating": 8.2,
+      "rating": 8.204,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -509,19 +509,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1475606,
-      "type": "tmdb",
-      "title": "祭屋",
-      "originalTitle": "祭屋",
-      "description": "方程程陪同未婚夫苏醒来到诡异的老宅见未来公婆，却发现只在半夜三更出现的苏母竟然已去世多年，且从未举办过葬礼。而苏父明明活着，却非要给自己举办一场死亡祭祀……",
-      "releaseDate": "2026-04-17",
-      "backdropPath": "/1bMwCcp7iMr2QZZjjTDj6L7x0Wv.jpg",
-      "posterPath": "/v8sxF0qXfhf5qncrYRpYYWfUzCI.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 恐怖"
-    },
-    {
       "id": 1297842,
       "type": "tmdb",
       "title": "奇迹梦之队",
@@ -530,22 +517,9 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "posterPath": "/nODMNLnqlyusqGr8l4R0IzIN49D.jpg",
-      "rating": 7.957,
+      "rating": 7.966,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
-    },
-    {
-      "id": 10191,
-      "type": "tmdb",
-      "title": "驯龙高手",
-      "originalTitle": "How to Train Your Dragon",
-      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
-      "releaseDate": "2010-03-18",
-      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
-      "rating": 7.858,
-      "mediaType": "movie",
-      "genreTitle": "奇幻, 冒险"
     },
     {
       "id": 1607088,
@@ -561,6 +535,19 @@
       "genreTitle": "喜剧, 奇幻"
     },
     {
+      "id": 10191,
+      "type": "tmdb",
+      "title": "驯龙高手",
+      "originalTitle": "How to Train Your Dragon",
+      "description": "维京岛国的少年小嗝嗝（杰伊•巴鲁切尔 Jay Baruchel 配音）是部落统领伟大的斯托里克（杰拉德·巴特勒 Gerard Butler 配音）的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒增烦恼。在一次对抗飞龙的战斗中，希卡普偷偷用射龙器击伤了一只最神秘的“夜之怒龙”，并背着族人放生、豢养，甚至驯服了这只龙，还给它起名“无牙”。希卡普的神秘行径引起了一同训练屠龙技巧的女孩阿斯特丽德（亚美莉卡·费雷拉 America Ferrera 配音）的怀疑。阿斯特丽德发现了希卡普的秘密，却同时被身骑“无牙”御风而飞的美妙体验所震撼。格雷决定在屠龙成人礼上向远征归来的斯托里克和族人讲明真相，说服大家放弃屠龙，却偏偏弄巧成拙，害得“无牙”被俘，一场更大的灾难就在眼前……",
+      "releaseDate": "2010-03-18",
+      "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+      "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
+      "rating": 7.857,
+      "mediaType": "movie",
+      "genreTitle": "奇幻, 冒险"
+    },
+    {
       "id": 1650257,
       "type": "tmdb",
       "title": "哀牢山",
@@ -574,6 +561,19 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
+      "id": 1682697,
+      "type": "tmdb",
+      "title": "鲁西儿女",
+      "originalTitle": "鲁西儿女",
+      "description": "本电影讲述鲁西地区抗日武装队伍在冠县东三里村成立，他们坚守抗日救国，为国除奸为民除害并收编改造土匪绿林的故事。展现了在党的领导下，鲁西青年知识分子为抗日救国，创建和壮大鲁西地区抗日武装的历程。",
+      "releaseDate": "2026-04-25",
+      "backdropPath": "/303fdUAMJRRmf9yTpiwZh5NXEkE.jpg",
+      "posterPath": "/lBrCBVNDhl7EPt7qbkG39X8ABVm.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 战争"
+    },
+    {
       "id": 921937,
       "type": "tmdb",
       "title": "穆桂英挂帅(京剧)",
@@ -583,6 +583,19 @@
       "backdropPath": null,
       "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
       "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 1002640,
+      "type": "tmdb",
+      "title": "Secrets of the Sea",
+      "originalTitle": "Secrets of the Sea",
+      "description": "",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": ""
     },
@@ -613,19 +626,6 @@
       "genreTitle": ""
     },
     {
-      "id": 1002640,
-      "type": "tmdb",
-      "title": "Secrets of the Sea",
-      "originalTitle": "Secrets of the Sea",
-      "description": "",
-      "releaseDate": "2022-06-08",
-      "backdropPath": null,
-      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
       "id": 916971,
       "type": "tmdb",
       "title": "赵氏孤儿(京剧)",
@@ -637,19 +637,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
-    },
-    {
-      "id": 1682697,
-      "type": "tmdb",
-      "title": "鲁西儿女",
-      "originalTitle": "鲁西儿女",
-      "description": "本电影讲述鲁西地区抗日武装队伍在冠县东三里村成立，他们坚守抗日救国，为国除奸为民除害并收编改造土匪绿林的故事。展现了在党的领导下，鲁西青年知识分子为抗日救国，创建和壮大鲁西地区抗日武装的历程。",
-      "releaseDate": "2026-04-25",
-      "backdropPath": "/303fdUAMJRRmf9yTpiwZh5NXEkE.jpg",
-      "posterPath": "/lBrCBVNDhl7EPt7qbkG39X8ABVm.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
     }
   ]
 }
