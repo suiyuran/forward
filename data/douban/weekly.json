@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-09T20:31:31.977Z",
+  "time": "2026-05-10T20:34:27.826Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2025-10-22",
         "backdropPath": "/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
         "posterPath": "/AbFQgIp26cnvdPbSWRkOb4wHJW1.jpg",
-        "rating": 8,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -22,9 +22,9 @@
         "originalTitle": "给阿嬷的情书",
         "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
         "releaseDate": "2026-04-30",
-        "backdropPath": "/oZURKlzlwdRfZ40D61v1vLF5eVD.jpg",
-        "posterPath": "/ePIAxow5xpinDIdwWELS3GtxpSD.jpg",
-        "rating": 8.667,
+        "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
+        "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
+        "rating": 9,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 7.9,
+        "rating": 8.694,
         "mediaType": "movie",
         "genreTitle": "冒险, 动画"
       },
@@ -127,8 +127,8 @@
         "description": "艾玛（赞达亚 饰）和查理（罗伯特·帕丁森 饰）是一对即将完婚的情侣，然而婚礼前夕忽然发生了让人意想不到的抓马故事，两人的感情面临前所未有的考验。",
         "releaseDate": "2026-03-26",
         "backdropPath": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
-        "posterPath": "/sUNGNCNYpAGJ3wBoolBFEdinIS0.jpg",
-        "rating": 6.98,
+        "posterPath": "/m1UeQyd265vL6HcWnfaZmim23gg.jpg",
+        "rating": 6.985,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       }
@@ -288,7 +288,7 @@
         "releaseDate": "2026-04-27",
         "backdropPath": "/xsJDVNFmOg9N9uKZmPZh9tzyynl.jpg",
         "posterPath": "/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-        "rating": 7.5,
+        "rating": 7.583,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
-        "rating": 7.8,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 8.043,
+        "rating": 8.093,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
         "posterPath": "/5Yl86ZnGyVY3uEGHHKslpixA53X.jpg",
-        "rating": 7.6,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.318,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/uCndE341njionskk1pK9SbHqwZh.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.5,
+        "rating": 6.886,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
