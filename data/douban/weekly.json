@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-10T20:34:27.826Z",
+  "time": "2026-05-11T21:07:05.367Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2025-10-09",
         "backdropPath": "/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
         "posterPath": "/dGQGNtA4f7OVFyYXaafzpYl09IO.jpg",
-        "rating": 7.084,
+        "rating": 7.089,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -74,9 +74,9 @@
         "originalTitle": "Swapped",
         "description": "森林中的一个小生物和一只高贵的鸟突然互换了身体，他们不得不结伴而行，共同应对此生最疯狂的冒险。",
         "releaseDate": "2026-05-01",
-        "backdropPath": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
+        "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.694,
+        "rating": 8.924,
         "mediaType": "movie",
         "genreTitle": "冒险, 动画"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
         "posterPath": "/m1UeQyd265vL6HcWnfaZmim23gg.jpg",
-        "rating": 6.985,
+        "rating": 7,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       }
@@ -286,9 +286,9 @@
         "originalTitle": "地獄に堕ちるわよ",
         "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
         "releaseDate": "2026-04-27",
-        "backdropPath": "/xsJDVNFmOg9N9uKZmPZh9tzyynl.jpg",
+        "backdropPath": "/38LmBc9U8VhbOXgS14p8B01xrEJ.jpg",
         "posterPath": "/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-        "rating": 7.583,
+        "rating": 7.538,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
-        "rating": 7.5,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 4.4,
+        "rating": 4.8,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 8.093,
+        "rating": 8.03,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
         "posterPath": "/5Yl86ZnGyVY3uEGHHKslpixA53X.jpg",
-        "rating": 8.1,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.4,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/uCndE341njionskk1pK9SbHqwZh.jpg",
         "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 6.886,
+        "rating": 7.275,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
