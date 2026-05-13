@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-12T21:07:26.830Z",
+  "time": "2026-05-13T21:12:52.960Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2025-10-09",
         "backdropPath": "/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
         "posterPath": "/dGQGNtA4f7OVFyYXaafzpYl09IO.jpg",
-        "rating": 7.089,
+        "rating": 7.082,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -76,9 +76,9 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.945,
+        "rating": 8.986,
         "mediaType": "movie",
-        "genreTitle": "冒险, 动画"
+        "genreTitle": "动画, 家庭"
       },
       {
         "id": 1499071,
@@ -89,7 +89,7 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/izha2mBeBHfCIniJCibpJIUovy0.jpg",
         "posterPath": "/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
-        "rating": 6.333,
+        "rating": 6.286,
         "mediaType": "movie",
         "genreTitle": "犯罪, 剧情"
       },
@@ -124,11 +124,11 @@
         "type": "tmdb",
         "title": "爱情抓马",
         "originalTitle": "The Drama",
-        "description": "艾玛（赞达亚 饰）和查理（罗伯特·帕丁森 饰）是一对即将完婚的情侣，然而婚礼前夕忽然发生了让人意想不到的抓马故事，两人的感情面临前所未有的考验。",
+        "description": "来自波士顿的情侣艾玛·哈伍德（赞达亚·科尔曼 饰）和查理·汤普森（罗伯特·帕丁森 饰）既美丽又迷人，有着高雅而知性的气质，而且彼此深爱着对方。虽然他们恋爱的初期有些尴尬，比如查理在追求艾玛时犯了不少错，但这些都不过是浪漫故事中的有趣插曲罢了。他们即将步入婚姻的殿堂。但还有些最后的准备工作要做，比如确定婚礼菜单、撰写婚誓等等。可要想获得幸福的婚姻并不容易。他们的矛盾源于一场看似轻松愉快的派对游戏。艾玛和查理喝醉了，他们还想再喝一杯酒。他们的挚友瑞秋（阿拉娜·哈伊姆 饰）和她的丈夫迈克（马莫多·阿西 饰）也参与了这次聚会。瑞秋怂恿大家说出自己做过的最糟糕的事，这样就能让大家的心灵得到净化，为艾玛和查理的下一步行动铺平道路。迈克犯下的最糟糕的错误是缺乏绅士风度；瑞秋则回忆起了自己童年时犯下的小恶行；查理的经历则是一段比较无伤大雅的网络闹剧；而艾玛所揭露的内容却让众人震惊。",
         "releaseDate": "2026-03-26",
         "backdropPath": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
-        "posterPath": "/m1UeQyd265vL6HcWnfaZmim23gg.jpg",
-        "rating": 7,
+        "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
+        "rating": 6.965,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       }
@@ -161,19 +161,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 261675,
-        "type": "tmdb",
-        "title": "家事法庭",
-        "originalTitle": "家事法庭",
-        "description": "由最高人民法院影视中心全程指导，案例丰富基础扎实。该剧讲述了青年法官沈谢秩从刑庭调至家事庭，与热心律师秦睿不期而遇，二人同家事庭的多位法官深入基层工作，为人民群众解决亲子矛盾、婚姻困境等纷繁的社会、家庭问题。在一桩桩案件中，以赤诚之心剖解百态，不忘初心传递法治温度。",
-        "releaseDate": "2026-03-25",
-        "backdropPath": "/tyk6lS8hxQ1T8eE8Vy9AtuAr7io.jpg",
-        "posterPath": "/8sxttf1E82L6A7FxCAP4PQ1gc9s.jpg",
-        "rating": 6.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 275631,
         "type": "tmdb",
         "title": "非常检控观",
@@ -183,71 +170,6 @@
         "backdropPath": "/uFgnJzuffcZhkQAbAhzMGTFQif4.jpg",
         "posterPath": "/bLpB80mZqkEFxUi0DKWozPaUfCv.jpg",
         "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 283961,
-        "type": "tmdb",
-        "title": "你是迟来的欢喜",
-        "originalTitle": "你是迟来的欢喜",
-        "description": "阮喻放弃稳定的工作以自己的情感经历为原型创作小说并发布在网上，但没想到被网友指出有抄袭嫌疑。阮喻决定维权但合作的律师正好是她高中的暗恋对象、也是自己小说男主的原型许淮颂。两人因案子重逢，在相处过程中再次相互吸引，这段多年沉淀的感情在回忆下发酵，也在现实的考验中更加坚定。面对各自事业上的新挑战，两人并肩作战，相互鼓励，最终迎来了事业与爱情上“迟来的欢喜”。",
-        "releaseDate": "2026-03-26",
-        "backdropPath": "/cWs510A3RhRL8KiUhSgIaDTCyIx.jpg",
-        "posterPath": "/yWD7slh3uKb9LZNKokSo84zD7xa.jpg",
-        "rating": 6.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 281392,
-        "type": "tmdb",
-        "title": "钢铁森林",
-        "originalTitle": "钢铁森林",
-        "description": "海州市通河岸边，五年前“8·17”大案的全新线索浮出水面。南城公安分局侦查员周瑾（蔡文静 饰）因其兄周川是该案中不幸殉职的两名特警之一，主动请缨投入追查。在犯罪心理学教授江寒声（井柏然 饰）的帮助下，警方锁定了以神秘人“老蝎”为首的犯罪集团。与此同时，执行“藏锋行动”长达五年之久的卧底民警蒋诚（秦俊杰 饰），也已摸进敌人核心，距“老蝎”仅有一步之遥。\n\n为了将犯罪集团一网打尽，周瑾、江寒声、蒋诚三个曾在栀子巷中一起长大的年轻人，在各自岗位上竭尽所能，与不法分子斗智斗勇，凭借正义、勇气和智慧战胜邪恶。在这场跨越时间与谜团的重重阻碍中，三人被迫卷入以情感为筹码、以人心为赌注的危险博弈，埋藏心底的隐痛与难解的命运谜题也在案件推进中逐步揭开。",
-        "releaseDate": "2026-04-03",
-        "backdropPath": "/6p2BAwHKgIQfkoRdqVf3apf9ON9.jpg",
-        "posterPath": "/abKwcuNbavcIGEFGTtLV11GT0dZ.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 犯罪"
-      },
-      {
-        "id": 300239,
-        "type": "tmdb",
-        "title": "动物园",
-        "originalTitle": "動物園",
-        "description": "任职广告公司的朱欣葵，在职场中磨练出超抗压人格。眼见事业正要起飞，却遭遇各种不顺，先是惹毛了大客户、男友无理取闹，还被公司打入冷宫。此时，寿山动物园公开招标，希望更新品牌形象，这正是她翻身的最后希望，但却没想到条件是要亲身担任实习保育员！过往熟悉的办公室法则全派不上场，面对动物和人类同事们，前辈苏冠州尤其难搞，第一天就想回家的她怀疑，自己真的能在这里存活下来吗？",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
-        "posterPath": "/xixw0uzoEnk2523Y7OgrNcuF9l1.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 270857,
-        "type": "tmdb",
-        "title": "隐身的名字",
-        "originalTitle": "隐身的名字",
-        "description": "一个随意的名字。一个被偷走的名字。一个不属于她的名字。一个不敢再提起的名字。一个从不曾被忘记的名字。任小名一直很讨厌自己的名字，但即使再讨厌，那也是她在这个世界上存在的证明，是她成为她自己的前提。她要把被偷走的名字抢回来。这个名字不仅仅属于她自己，也属于很多人。那些隐身的名字，湮没在柴米油盐的烟火里，品头论足的批评里，漫长难熬的岁月里，失去了身份。但总有人记得她们，也总有人沿着她们的脚步继续走下去，直到她们的名字被所有人看见。一个关于两代女性的挣扎与救赎的故事。",
-        "releaseDate": "2026-03-18",
-        "backdropPath": "/7eVMRGq6CLYvszBrhPGteRBtzWA.jpg",
-        "posterPath": "/1ZWhG04PRpqaLbHj0oIpnTVZMmu.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 317717,
-        "type": "tmdb",
-        "title": "果实",
-        "originalTitle": "果實",
-        "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
-        "releaseDate": "2026-03-27",
-        "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
-        "posterPath": "/vdB6e9slprXFhaeClQpfVw6FYOE.jpg",
-        "rating": 0,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -263,6 +185,84 @@
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 300239,
+        "type": "tmdb",
+        "title": "动物园",
+        "originalTitle": "動物園",
+        "description": "任职广告公司的朱欣葵，在职场中磨练出超抗压人格。眼见事业正要起飞，却遭遇各种不顺，先是惹毛了大客户、男友无理取闹，还被公司打入冷宫。此时，寿山动物园公开招标，希望更新品牌形象，这正是她翻身的最后希望，但却没想到条件是要亲身担任实习保育员！过往熟悉的办公室法则全派不上场，面对动物和人类同事们，前辈苏冠州尤其难搞，第一天就想回家的她怀疑，自己真的能在这里存活下来吗？",
+        "releaseDate": "2026-02-20",
+        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
+        "posterPath": "/xixw0uzoEnk2523Y7OgrNcuF9l1.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 243691,
+        "type": "tmdb",
+        "title": "何百芮的地狱毒白",
+        "originalTitle": "何百芮的地獄毒白",
+        "description": "本剧改编自网红“宅女小红”的真实故事，讲述经历着爱情事业两头空的30岁平凡OL何百芮，通过用Instagram上的毒辣图文创作，化身“地狱来的前女友”在网上展开爆笑反击，结果竟引发广大网友回响，帮助心力交瘁的她重新站起来，踏上意料之外的旅程！",
+        "releaseDate": "2026-01-04",
+        "backdropPath": "/dVsSFADPIc13arqR30fhl8FhHOK.jpg",
+        "posterPath": "/9ZGuNavgUvjC6duXuKkeB2e0HeU.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 281392,
+        "type": "tmdb",
+        "title": "钢铁森林",
+        "originalTitle": "钢铁森林",
+        "description": "海州市通河岸边，五年前“8·17”大案的全新线索浮出水面。南城公安分局侦查员周瑾（蔡文静 饰）因其兄周川是该案中不幸殉职的两名特警之一，主动请缨投入追查。在犯罪心理学教授江寒声（井柏然 饰）的帮助下，警方锁定了以神秘人“老蝎”为首的犯罪集团。与此同时，执行“藏锋行动”长达五年之久的卧底民警蒋诚（秦俊杰 饰），也已摸进敌人核心，距“老蝎”仅有一步之遥。\n\n为了将犯罪集团一网打尽，周瑾、江寒声、蒋诚三个曾在栀子巷中一起长大的年轻人，在各自岗位上竭尽所能，与不法分子斗智斗勇，凭借正义、勇气和智慧战胜邪恶。在这场跨越时间与谜团的重重阻碍中，三人被迫卷入以情感为筹码、以人心为赌注的危险博弈，埋藏心底的隐痛与难解的命运谜题也在案件推进中逐步揭开。",
+        "releaseDate": "2026-04-03",
+        "backdropPath": "/6p2BAwHKgIQfkoRdqVf3apf9ON9.jpg",
+        "posterPath": "/abKwcuNbavcIGEFGTtLV11GT0dZ.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 犯罪"
+      },
+      {
+        "id": 278868,
+        "type": "tmdb",
+        "title": "方圆八百米",
+        "originalTitle": "方圆八百米",
+        "description": "故事聚焦上世纪九十年代末的丰阳小镇矿区。一具无名女尸的出现，打破了表面的平静，小镇内的违禁药品贩卖网络随之浮出水面。警察陈红兵（丁勇岱 饰）紧跟线索，却步步逼近亲生儿子陈辉（许凯 饰）。在方圆八百米的小天地里，父子间的对抗、职责与亲情的纠结、法律与人性的交缠，让这个家庭与小城一同面临善恶的抉择与考验。",
+        "releaseDate": "2026-04-17",
+        "backdropPath": "/cA8pX6GhKBvgdo1tAiyetEMDMCk.jpg",
+        "posterPath": "/oj688ZRAnYQrcqk59euex7laL10.jpg",
+        "rating": 5.2,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 317717,
+        "type": "tmdb",
+        "title": "果实",
+        "originalTitle": "果實",
+        "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
+        "releaseDate": "2026-03-27",
+        "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
+        "posterPath": "/vdB6e9slprXFhaeClQpfVw6FYOE.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 270857,
+        "type": "tmdb",
+        "title": "隐身的名字",
+        "originalTitle": "隐身的名字",
+        "description": "一个随意的名字。一个被偷走的名字。一个不属于她的名字。一个不敢再提起的名字。一个从不曾被忘记的名字。任小名一直很讨厌自己的名字，但即使再讨厌，那也是她在这个世界上存在的证明，是她成为她自己的前提。她要把被偷走的名字抢回来。这个名字不仅仅属于她自己，也属于很多人。那些隐身的名字，湮没在柴米油盐的烟火里，品头论足的批评里，漫长难熬的岁月里，失去了身份。但总有人记得她们，也总有人沿着她们的脚步继续走下去，直到她们的名字被所有人看见。一个关于两代女性的挣扎与救赎的故事。",
+        "releaseDate": "2026-03-18",
+        "backdropPath": "/7eVMRGq6CLYvszBrhPGteRBtzWA.jpg",
+        "posterPath": "/1ZWhG04PRpqaLbHj0oIpnTVZMmu.jpg",
+        "rating": 7.5,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
       }
     ],
     "剧集·国外": [
@@ -280,32 +280,6 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 300529,
-        "type": "tmdb",
-        "title": "地狱占星师",
-        "originalTitle": "地獄に堕ちるわよ",
-        "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
-        "releaseDate": "2026-04-27",
-        "backdropPath": "/38LmBc9U8VhbOXgS14p8B01xrEJ.jpg",
-        "posterPath": "/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-        "rating": 7.429,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 76479,
-        "type": "tmdb",
-        "title": "黑袍纠察队",
-        "originalTitle": "The Boys",
-        "description": "祖国人通过法西斯式的恐怖手段掌控美国，将持不同政见者关押在自由营里。而布彻尔、休伊、安妮和英雄克星则奋起反抗，尽管面临难以克服的重重困难，他们仍竭尽全力，试图阻止他的暴政统治。",
-        "releaseDate": "2026-04-07",
-        "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
-        "rating": 7.6,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
-      },
-      {
         "id": 124101,
         "type": "tmdb",
         "title": "绝望写手",
@@ -319,17 +293,17 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 95557,
+        "id": 76479,
         "type": "tmdb",
-        "title": "无敌少侠",
-        "originalTitle": "INVINCIBLE",
-        "description": "当世界仍在从全球灾难中恢复之际，已发生变化的马克因内疚而痛苦不堪。他在全力保护家园和挚爱之人时，与一股强大的新威胁正面交锋，这股威胁足以永远改变人类的命运。",
-        "releaseDate": "2026-03-18",
-        "backdropPath": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
-        "posterPath": "/qKGKemIogTDTfZoGZEt79V7HUGX.jpg",
-        "rating": 7.6,
+        "title": "黑袍纠察队",
+        "originalTitle": "The Boys",
+        "description": "祖国人通过法西斯式的恐怖手段掌控美国，将持不同政见者关押在自由营里。而布彻尔、休伊、安妮和英雄克星则奋起反抗，尽管面临难以克服的重重困难，他们仍竭尽全力，试图阻止他的暴政统治。",
+        "releaseDate": "2026-04-07",
+        "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
+        "rating": 7.7,
         "mediaType": "tv",
-        "genreTitle": "动画, 剧情"
+        "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
       {
         "id": 289424,
@@ -345,6 +319,45 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 300529,
+        "type": "tmdb",
+        "title": "地狱占星师",
+        "originalTitle": "地獄に堕ちるわよ",
+        "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
+        "releaseDate": "2026-04-27",
+        "backdropPath": "/38LmBc9U8VhbOXgS14p8B01xrEJ.jpg",
+        "posterPath": "/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
+        "rating": 7.75,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 95557,
+        "type": "tmdb",
+        "title": "无敌少侠",
+        "originalTitle": "INVINCIBLE",
+        "description": "当世界仍在从全球灾难中恢复之际，已发生变化的马克因内疚而痛苦不堪。他在全力保护家园和挚爱之人时，与一股强大的新威胁正面交锋，这股威胁足以永远改变人类的命运。",
+        "releaseDate": "2026-03-18",
+        "backdropPath": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+        "posterPath": "/qKGKemIogTDTfZoGZEt79V7HUGX.jpg",
+        "rating": 7.6,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
+      },
+      {
+        "id": 289219,
+        "type": "tmdb",
+        "title": "星球大战：摩尔-暗影之王",
+        "originalTitle": "Star Wars: Maul - Shadow Lord",
+        "description": "在克隆人战争之后，摩尔计划在一个未受帝国染指的星球上重建他的犯罪集团。",
+        "releaseDate": "2026-04-06",
+        "backdropPath": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
+        "posterPath": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
+        "rating": 8.41,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 动画"
+      },
+      {
         "id": 285838,
         "type": "tmdb",
         "title": "Girigo：夺命许愿",
@@ -353,22 +366,9 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 8.153,
+        "rating": 8.085,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
-      },
-      {
-        "id": 257994,
-        "type": "tmdb",
-        "title": "半个男人",
-        "originalTitle": "Half Man",
-        "description": "讲述一对非血缘兄弟之间的复杂关系。两人在青少年时期结下了深厚的羁绊，并在此后的30年岁月中，历经聚散，共同应对人生的起伏。",
-        "releaseDate": "2026-04-28",
-        "backdropPath": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
-        "posterPath": "/5Yl86ZnGyVY3uEGHHKslpixA53X.jpg",
-        "rating": 8.3,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
       },
       {
         "id": 278573,
@@ -379,22 +379,22 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.4,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 287527,
+        "id": 257994,
         "type": "tmdb",
-        "title": "证词",
-        "originalTitle": "The Testaments",
-        "description": "《证词》是《使女的故事》续章，一部以基列国为背景，扣人心弦的成长故事，聚焦在两位少女身上：恪守本分、虔诚至极的艾格妮丝，以及从外地加入基列国的黛西。她们进入莉迪亚嬷嬷为培养未来妻子而成立的婚前预备学院，在这座金碧辉煌的殿堂，嬷嬷们透过残忍的手段以及以神圣为理由，灌输服从的观念。艾格妮丝与黛西两人之间的情谊将成为一股催化剂，彻底颠覆她们的过去、现在与未来。",
-        "releaseDate": "2026-04-08",
-        "backdropPath": "/uCndE341njionskk1pK9SbHqwZh.jpg",
-        "posterPath": "/fqj1hW5Ca6PQ5EoCSLe8gfzmwkV.jpg",
-        "rating": 7.375,
+        "title": "半个男人",
+        "originalTitle": "Half Man",
+        "description": "讲述一对非血缘兄弟之间的复杂关系。两人在青少年时期结下了深厚的羁绊，并在此后的30年岁月中，历经聚散，共同应对人生的起伏。",
+        "releaseDate": "2026-04-28",
+        "backdropPath": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
+        "posterPath": "/5Yl86ZnGyVY3uEGHHKslpixA53X.jpg",
+        "rating": 8.429,
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "剧情, 悬疑"
       }
     ]
   }
