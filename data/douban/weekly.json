@@ -1,20 +1,7 @@
 {
-  "time": "2026-05-14T21:01:02.033Z",
+  "time": "2026-05-15T20:46:53.627Z",
   "data": {
     "电影": [
-      {
-        "id": 1317512,
-        "type": "tmdb",
-        "title": "世界的主人",
-        "originalTitle": "세계의 주인",
-        "description": "18岁的优等生‌李主人（徐秀彬 饰）是班长、模范生兼校园风云人物，但恋爱是她最大的兴趣。某日，当全班同学响应朋友‌姜秀浩（金正植‌ 饰）发起的联署活动时，唯独‌李主人拒绝签字，并声称“只有李主人有权决定是否同意”。‌姜秀浩试图说服‌李主人，但两人争执逐渐升级为激烈争吵。愤怒的‌李主人脱口而出的一句话引发全校混乱。随后，匿名指控‌李主人的纸条开始出现。",
-        "releaseDate": "2025-10-22",
-        "backdropPath": "/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
-        "posterPath": "/AbFQgIp26cnvdPbSWRkOb4wHJW1.jpg",
-        "rating": 7.714,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
       {
         "id": 1671548,
         "type": "tmdb",
@@ -29,43 +16,30 @@
         "genreTitle": "剧情, 家庭"
       },
       {
-        "id": 1433339,
+        "id": 1317512,
         "type": "tmdb",
-        "title": "三声再见",
-        "originalTitle": "Tre ciotole",
-        "description": "岁月无声，平淡如水。因小事吵闹令多年恋情告终，她复要面对身体突如其来的噩耗。有恨无人省，心底的哀伤、焦虑与寂寞，只能独对在街角检拾回来的纸板韩星，轻声倾诉。夕阳余晖，仿佛骤然点亮了寻常忽略的景致，令她重新感悟人间的和煦。西班牙导演伊莎贝拉库谢以优雅与温柔，将小说家麦可娜·穆尔嘉的遗作化为翩翩光影，凝留于艾芭诺宜娃查倩影丽容，是一阕寛怀的生命诗篇；在最后的时光，与人生、与凡尘好好告别，让放下自在的微光，温润世上所爱之人。",
-        "releaseDate": "2025-10-09",
-        "backdropPath": "/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
-        "posterPath": "/dGQGNtA4f7OVFyYXaafzpYl09IO.jpg",
-        "rating": 7.082,
+        "title": "世界的主人",
+        "originalTitle": "세계의 주인",
+        "description": "18岁的优等生‌李主人（徐秀彬 饰）是班长、模范生兼校园风云人物，但恋爱是她最大的兴趣。某日，当全班同学响应朋友‌姜秀浩（金正植‌ 饰）发起的联署活动时，唯独‌李主人拒绝签字，并声称“只有李主人有权决定是否同意”。‌姜秀浩试图说服‌李主人，但两人争执逐渐升级为激烈争吵。愤怒的‌李主人脱口而出的一句话引发全校混乱。随后，匿名指控‌李主人的纸条开始出现。",
+        "releaseDate": "2025-10-22",
+        "backdropPath": "/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
+        "posterPath": "/AbFQgIp26cnvdPbSWRkOb4wHJW1.jpg",
+        "rating": 7.867,
         "mediaType": "movie",
-        "genreTitle": "剧情, 爱情"
+        "genreTitle": "剧情"
       },
       {
-        "id": 1658653,
+        "id": 1532395,
         "type": "tmdb",
-        "title": "消失的人",
-        "originalTitle": "消失的人",
-        "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
-        "releaseDate": "2026-05-01",
-        "backdropPath": null,
-        "posterPath": "/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
-        "rating": 6.7,
+        "title": "万事顺利",
+        "originalTitle": "万事快調〈オール・グリーンズ〉",
+        "description": "本片改编自第28届松本清张赏受赏作品。要告别这个可恶的乡下，就得花钱！总之要钱！那就在学校屋顶上种大麻吧！背景是位于北关东胡同的乡下高中。为了各自的目的，三个女高中生和一个宅男开始在学校的屋顶上培育偶然得到的大麻种子。它的名字就是大麻栽培联谊会＜ALL・GREENS＞。把对平凡日常的不满和苦闷藏在心中，用大麻做梦想的三人和一人，未来会怎样！？",
+        "releaseDate": "2026-01-16",
+        "backdropPath": "/bjxeug8RRFXJGX9QXNXpBpy6gOt.jpg",
+        "posterPath": "/yo6eLG1F2tC8ecdkXcYLlfu72bl.jpg",
+        "rating": 7.2,
         "mediaType": "movie",
-        "genreTitle": "悬疑, 惊悚"
-      },
-      {
-        "id": 1321179,
-        "type": "tmdb",
-        "title": "与王生活的男人",
-        "originalTitle": "왕과 사는 남자",
-        "description": "1457年，为了生活困苦的村民们，村长严兴道致力将清泠浦变成流放地，而就在村里迎来了惨遭流放的年幼君王李弘𬀩后，严兴道才发现这件事不如起初所想的那么简单……",
-        "releaseDate": "2026-02-04",
-        "backdropPath": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
-        "posterPath": "/iFsXq79j6AetUAxvQJqyJvicsib.jpg",
-        "rating": 7.1,
-        "mediaType": "movie",
-        "genreTitle": "历史, 剧情"
+        "genreTitle": "喜剧, 剧情"
       },
       {
         "id": 1007757,
@@ -76,35 +50,9 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.99,
+        "rating": 9.002,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
-      },
-      {
-        "id": 1499071,
-        "type": "tmdb",
-        "title": "寒战1994",
-        "originalTitle": "寒戰1994",
-        "description": "1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
-        "releaseDate": "2026-05-01",
-        "backdropPath": "/izha2mBeBHfCIniJCibpJIUovy0.jpg",
-        "posterPath": "/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "犯罪, 剧情"
-      },
-      {
-        "id": 1178620,
-        "type": "tmdb",
-        "title": "蒙特利尔，我的美人",
-        "originalTitle": "Montréal, ma belle",
-        "description": "一位53岁的中国移民凤霞和家人们住在蒙特利尔，她一生都在履行家庭身份、文化冲突和没有爱的婚姻带来的职责。直到她遇到Camille，一个充满活力的年轻魁北克人，埋藏已久的欲望被唤醒了。在温暖而欢乐的蒙特利尔夏天，凤霞踏上了禁忌之爱和自我发现之旅。",
-        "releaseDate": "2026-02-13",
-        "backdropPath": "/tyPl9khvcjJl5RNT7EEuYkuwiu.jpg",
-        "posterPath": "/xgJqnAfbI7IlSre1zEdMFxrkRD5.jpg",
-        "rating": 6.7,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 爱情"
       },
       {
         "id": 1382513,
@@ -120,6 +68,19 @@
         "genreTitle": "冒险, 剧情"
       },
       {
+        "id": 1392396,
+        "type": "tmdb",
+        "title": "平场之月",
+        "originalTitle": "平場の月",
+        "description": "本作改编自朝仓霞同名小说，讲述了一对时隔35年重逢的同学彼此心灵相通的爱情故事。青砥健将与妻子离婚后，回到老家的印刷公司重新就业，过着平静的生活。某天，他与中学时代暗恋的须藤叶子重逢。彼此都单身，积累了各种人生经验的2人意气相投，逐渐弥补了分离的岁月。",
+        "releaseDate": "2025-11-14",
+        "backdropPath": "/vRsiiSrLRvoj2Nnz5dsiOGCoqm4.jpg",
+        "posterPath": "/oAMhLm4djlhN9U0RGmEIKIpVBBA.jpg",
+        "rating": 8.3,
+        "mediaType": "movie",
+        "genreTitle": ""
+      },
+      {
         "id": 1325734,
         "type": "tmdb",
         "title": "爱情抓马",
@@ -128,9 +89,48 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
         "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
-        "rating": 6.952,
+        "rating": 6.95,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
+      },
+      {
+        "id": 1290436,
+        "type": "tmdb",
+        "title": "夏日躁动",
+        "originalTitle": "Ma frère",
+        "description": "巴黎第19区的一个工人街区，19岁的莎伊和杰内巴是从小一起长大的好姐妹。一个被令人窒息的家庭所困扰，另一个则深陷孤独的泥沼。某个夏天，她们远离成长的高楼阴影，成为夏令营的辅导员，负责照看一群6到10岁的孩子。站在成年的门槛上，她们必须做出选择，在成长中重新定义彼此的友谊。",
+        "releaseDate": "2026-01-07",
+        "backdropPath": "/7kqzjKKFLvOEMAkWjjpihScZSe2.jpg",
+        "posterPath": "/xOgEHI9GTLhKQCQ2BL8c2biUIzp.jpg",
+        "rating": 7.2,
+        "mediaType": "movie",
+        "genreTitle": "喜剧"
+      },
+      {
+        "id": 1319520,
+        "type": "tmdb",
+        "title": "最后的KPI",
+        "originalTitle": "พนักงานใหม่ (โปรดรับไว้พิจารณา)",
+        "description": "在一家制度严苛的大公司从事人力资源工作的弗伦，日复一日面试新员工，观察他们的生活轨迹。与此同时，她隐瞒了自己刚怀孕的事实，在是否将孩子带入这个不确定世界的挣扎中，逐渐面对内心的恐惧与矛盾。",
+        "releaseDate": "2026-01-29",
+        "backdropPath": "/nyjtKo3D4avnkqUI9LXd7WeVfV.jpg",
+        "posterPath": "/nDfToR5Qp5xt0Xyzx9ausfAXvKL.jpg",
+        "rating": 6.3,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1461775,
+        "type": "tmdb",
+        "title": "把哥哥变成可以携带的尺寸",
+        "originalTitle": "兄を持ち運べるサイズに",
+        "description": "村井理子（柴崎幸 饰）突然接到警方的电话，得知多年未见的哥哥（小田切让 饰）去世。发现尸体的是与哥哥同住的儿子良一，理子下定决心：“得赶紧把哥哥变成可以携带的尺寸。”于是她前往东北，时隔七年在警察局再次见到了哥哥的前妻加奈子（满岛光 饰）以及他们的女儿满里奈（青山姫乃 饰）。\r 　　三人一同整理哥哥住过、早已变成垃圾屋的公寓，发现了一张贴在墙上的全家福照片，照片中有年幼的理子与哥哥，还有哥哥、加奈子、满里奈与良一的合影。在为哥哥处理后事的过程中，理子不断吐槽哥哥，而曾被哥哥连累的加奈子却对她说：“也许理子你，并不了解他全部的一面。”四个角色重新面对“家庭”的混乱四天就此开始。",
+        "releaseDate": "2025-11-28",
+        "backdropPath": "/jgNRXM69ygunAnLHNMuI0RBpGiA.jpg",
+        "posterPath": "/bJRpVBQZBYU8vXT3ZPEj6xF7BD4.jpg",
+        "rating": 7,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
       }
     ],
     "剧集·国内": [
@@ -288,7 +288,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 4.6,
+        "rating": 5.4,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-27",
         "backdropPath": "/38LmBc9U8VhbOXgS14p8B01xrEJ.jpg",
         "posterPath": "/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-        "rating": 7.75,
+        "rating": 7.706,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
         "posterPath": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
-        "rating": 8.424,
+        "rating": 8.458,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 8.14,
+        "rating": 8.154,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.32,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -390,7 +390,7 @@
         "originalTitle": "Half Man",
         "description": "讲述一对非血缘兄弟之间的复杂关系。两人在青少年时期结下了深厚的羁绊，并在此后的30年岁月中，历经聚散，共同应对人生的起伏。",
         "releaseDate": "2026-04-28",
-        "backdropPath": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
+        "backdropPath": "/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
         "posterPath": "/5Yl86ZnGyVY3uEGHHKslpixA53X.jpg",
         "rating": 8.4,
         "mediaType": "tv",
