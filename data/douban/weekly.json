@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-16T20:35:41.013Z",
+  "time": "2026-05-17T20:36:57.034Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
         "posterPath": "/ePIAxow5xpinDIdwWELS3GtxpSD.jpg",
-        "rating": 9,
+        "rating": 9.1,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2025-10-22",
         "backdropPath": "/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
         "posterPath": "/AbFQgIp26cnvdPbSWRkOb4wHJW1.jpg",
-        "rating": 7.813,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.998,
+        "rating": 8.978,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -76,9 +76,9 @@
         "releaseDate": "2025-11-14",
         "backdropPath": "/vRsiiSrLRvoj2Nnz5dsiOGCoqm4.jpg",
         "posterPath": "/oAMhLm4djlhN9U0RGmEIKIpVBBA.jpg",
-        "rating": 8.3,
+        "rating": 8.2,
         "mediaType": "movie",
-        "genreTitle": ""
+        "genreTitle": "剧情, 爱情"
       },
       {
         "id": 1325734,
@@ -87,9 +87,9 @@
         "originalTitle": "The Drama",
         "description": "来自波士顿的情侣艾玛·哈伍德（赞达亚·科尔曼 饰）和查理·汤普森（罗伯特·帕丁森 饰）既美丽又迷人，有着高雅而知性的气质，而且彼此深爱着对方。虽然他们恋爱的初期有些尴尬，比如查理在追求艾玛时犯了不少错，但这些都不过是浪漫故事中的有趣插曲罢了。他们即将步入婚姻的殿堂。但还有些最后的准备工作要做，比如确定婚礼菜单、撰写婚誓等等。可要想获得幸福的婚姻并不容易。他们的矛盾源于一场看似轻松愉快的派对游戏。艾玛和查理喝醉了，他们还想再喝一杯酒。他们的挚友瑞秋（阿拉娜·哈伊姆 饰）和她的丈夫迈克（马莫多·阿西 饰）也参与了这次聚会。瑞秋怂恿大家说出自己做过的最糟糕的事，这样就能让大家的心灵得到净化，为艾玛和查理的下一步行动铺平道路。迈克犯下的最糟糕的错误是缺乏绅士风度；瑞秋则回忆起了自己童年时犯下的小恶行；查理的经历则是一段比较无伤大雅的网络闹剧；而艾玛所揭露的内容却让众人震惊。",
         "releaseDate": "2026-03-26",
-        "backdropPath": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
+        "backdropPath": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
         "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
-        "rating": 6.9,
+        "rating": 6.925,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/cA8pX6GhKBvgdo1tAiyetEMDMCk.jpg",
         "posterPath": "/oj688ZRAnYQrcqk59euex7laL10.jpg",
-        "rating": 5.2,
+        "rating": 5.167,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
-        "rating": 7.3,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-03-18",
         "backdropPath": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
         "posterPath": "/qKGKemIogTDTfZoGZEt79V7HUGX.jpg",
-        "rating": 7.6,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
         "posterPath": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
-        "rating": 8.469,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 8.2,
+        "rating": 8.07,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 7.6,
+        "rating": 7.724,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
         "posterPath": "/5Yl86ZnGyVY3uEGHHKslpixA53X.jpg",
-        "rating": 8.375,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       }
