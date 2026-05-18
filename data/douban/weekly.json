@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-17T20:36:57.034Z",
+  "time": "2026-05-18T20:59:01.853Z",
   "data": {
     "电影": [
       {
@@ -10,8 +10,8 @@
         "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
         "releaseDate": "2026-04-30",
         "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
-        "posterPath": "/ePIAxow5xpinDIdwWELS3GtxpSD.jpg",
-        "rating": 9.1,
+        "posterPath": "/7OZB0IdMIohRd4BPyDZChOpzbrW.jpg",
+        "rating": 9.2,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.978,
+        "rating": 8.993,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-11-14",
         "backdropPath": "/vRsiiSrLRvoj2Nnz5dsiOGCoqm4.jpg",
         "posterPath": "/oAMhLm4djlhN9U0RGmEIKIpVBBA.jpg",
-        "rating": 8.2,
+        "rating": 8.214,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
         "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
-        "rating": 6.925,
+        "rating": 6.926,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-04-13",
         "backdropPath": "/4TJG9k0u1WZfs9iwhLpHshnryaR.jpg",
         "posterPath": "/qZhd7J9rNUhe2TKd4QJ66AjZ5bc.jpg",
-        "rating": 0,
+        "rating": 9.6,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 4.9,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
-        "rating": 7.4,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -353,20 +353,20 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
         "posterPath": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
-        "rating": 8.5,
+        "rating": 8.503,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
       {
         "id": 285838,
         "type": "tmdb",
-        "title": "Girigo：夺命许愿",
+        "title": "夺命许愿",
         "originalTitle": "기리고",
         "description": "一款神秘的应用程序承诺能实现愿望，却紧接着启动死亡倒计时。一群青少年因此卷入其中，他们必须打破这条致命连锁才能活下去。",
         "releaseDate": "2026-04-24",
         "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "posterPath": "/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
-        "rating": 8.07,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 7.724,
+        "rating": 7.695,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -390,11 +390,11 @@
         "originalTitle": "Half Man",
         "description": "讲述一对非血缘兄弟之间的复杂关系。两人在青少年时期结下了深厚的羁绊，并在此后的30年岁月中，历经聚散，共同应对人生的起伏。",
         "releaseDate": "2026-04-28",
-        "backdropPath": "/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
+        "backdropPath": "/mTRxKRDBH9HSV81eOGDhYbG5BHR.jpg",
         "posterPath": "/5Yl86ZnGyVY3uEGHHKslpixA53X.jpg",
-        "rating": 8.5,
+        "rating": 8.655,
         "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
+        "genreTitle": "剧情"
       }
     ]
   }
