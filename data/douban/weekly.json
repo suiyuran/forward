@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-20T21:26:49.638Z",
+  "time": "2026-05-21T21:19:33.310Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
         "posterPath": "/yHhQlFDhesO1UcTmZ4BUt0hxro7.jpg",
-        "rating": 9.1,
+        "rating": 9.2,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.982,
+        "rating": 8.981,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
         "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
-        "rating": 6.933,
+        "rating": 6.9,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -141,7 +141,7 @@
         "originalTitle": "低智商犯罪",
         "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
         "releaseDate": "2026-05-04",
-        "backdropPath": "/6yd4BP7Mt2zpt63z2z6dizg6QMo.jpg",
+        "backdropPath": "/eFcPBI0tEnFRiJaNHQ74ZcSNQCg.jpg",
         "posterPath": "/xwEFuUmwHhjqPGnBwbuz2Yu76r8.jpg",
         "rating": 8.1,
         "mediaType": "tv",
@@ -288,7 +288,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 5.1,
+        "rating": 6.2,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.95,
+        "rating": 9.011,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
         "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
-        "rating": 7.4,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
