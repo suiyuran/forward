@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-21T21:19:33.310Z",
+  "time": "2026-05-22T21:01:26.146Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
         "posterPath": "/yHhQlFDhesO1UcTmZ4BUt0hxro7.jpg",
-        "rating": 9.2,
+        "rating": 9.158,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -24,9 +24,22 @@
         "releaseDate": "2025-10-22",
         "backdropPath": "/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
         "posterPath": "/AbFQgIp26cnvdPbSWRkOb4wHJW1.jpg",
-        "rating": 7.778,
+        "rating": 7.684,
         "mediaType": "movie",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 1330021,
+        "type": "tmdb",
+        "title": "幸运有八只触手",
+        "originalTitle": "Remarkably Bright Creatures",
+        "description": "在这部感人的剧情片中，一名寡妇在小镇的水族馆上夜班时，与一只聪明的章鱼以及一个迷茫的年轻小伙子建立了深厚羁绊。改编自畅销书。",
+        "releaseDate": "2026-05-07",
+        "backdropPath": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "posterPath": "/qJPkSzyZPvDn3BsILd7po25uLdV.jpg",
+        "rating": 8.574,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 悬疑"
       },
       {
         "id": 1532395,
@@ -50,48 +63,9 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.981,
+        "rating": 8.975,
         "mediaType": "movie",
-        "genreTitle": "动画, 家庭"
-      },
-      {
-        "id": 1382513,
-        "type": "tmdb",
-        "title": "母鸡",
-        "originalTitle": "Κότα",
-        "description": "讲述了一只母鸡从养鸡场逃脱后，在一家破败餐馆的院子里寻求庇护的故事。在这里，它不仅邂逅了爱情，还要面对鸡群中森严的等级秩序，更要奋力守护自己的蛋，不让贪婪的餐馆老板得逞。",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/jeQnkrXy95nmjNZcLhRNXXIsjZv.jpg",
-        "posterPath": "/kDLrHCScCA07qIFQFcwHUGw5mE0.jpg",
-        "rating": 10,
-        "mediaType": "movie",
-        "genreTitle": "冒险, 剧情"
-      },
-      {
-        "id": 1392396,
-        "type": "tmdb",
-        "title": "平场之月",
-        "originalTitle": "平場の月",
-        "description": "本作改编自朝仓霞同名小说，讲述了一对时隔35年重逢的同学彼此心灵相通的爱情故事。青砥健将与妻子离婚后，回到老家的印刷公司重新就业，过着平静的生活。某天，他与中学时代暗恋的须藤叶子重逢。彼此都单身，积累了各种人生经验的2人意气相投，逐渐弥补了分离的岁月。",
-        "releaseDate": "2025-11-14",
-        "backdropPath": "/vRsiiSrLRvoj2Nnz5dsiOGCoqm4.jpg",
-        "posterPath": "/oAMhLm4djlhN9U0RGmEIKIpVBBA.jpg",
-        "rating": 8.188,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 爱情"
-      },
-      {
-        "id": 1325734,
-        "type": "tmdb",
-        "title": "爱情抓马",
-        "originalTitle": "The Drama",
-        "description": "来自波士顿的情侣艾玛·哈伍德（赞达亚·科尔曼 饰）和查理·汤普森（罗伯特·帕丁森 饰）既美丽又迷人，有着高雅而知性的气质，而且彼此深爱着对方。虽然他们恋爱的初期有些尴尬，比如查理在追求艾玛时犯了不少错，但这些都不过是浪漫故事中的有趣插曲罢了。他们即将步入婚姻的殿堂。但还有些最后的准备工作要做，比如确定婚礼菜单、撰写婚誓等等。可要想获得幸福的婚姻并不容易。他们的矛盾源于一场看似轻松愉快的派对游戏。艾玛和查理喝醉了，他们还想再喝一杯酒。他们的挚友瑞秋（阿拉娜·哈伊姆 饰）和她的丈夫迈克（马莫多·阿西 饰）也参与了这次聚会。瑞秋怂恿大家说出自己做过的最糟糕的事，这样就能让大家的心灵得到净化，为艾玛和查理的下一步行动铺平道路。迈克犯下的最糟糕的错误是缺乏绅士风度；瑞秋则回忆起了自己童年时犯下的小恶行；查理的经历则是一段比较无伤大雅的网络闹剧；而艾玛所揭露的内容却让众人震惊。",
-        "releaseDate": "2026-03-26",
-        "backdropPath": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-        "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
-        "rating": 6.9,
-        "mediaType": "movie",
-        "genreTitle": "爱情, 喜剧"
+        "genreTitle": "冒险, 动画"
       },
       {
         "id": 1290436,
@@ -107,6 +81,45 @@
         "genreTitle": "喜剧"
       },
       {
+        "id": 1392396,
+        "type": "tmdb",
+        "title": "平场之月",
+        "originalTitle": "平場の月",
+        "description": "本作改编自朝仓霞同名小说，讲述了一对时隔35年重逢的同学彼此心灵相通的爱情故事。青砥健将与妻子离婚后，回到老家的印刷公司重新就业，过着平静的生活。某天，他与中学时代暗恋的须藤叶子重逢。彼此都单身，积累了各种人生经验的2人意气相投，逐渐弥补了分离的岁月。",
+        "releaseDate": "2025-11-14",
+        "backdropPath": "/vRsiiSrLRvoj2Nnz5dsiOGCoqm4.jpg",
+        "posterPath": "/oAMhLm4djlhN9U0RGmEIKIpVBBA.jpg",
+        "rating": 8.188,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 爱情"
+      },
+      {
+        "id": 1510335,
+        "type": "tmdb",
+        "title": "利摩日阳台",
+        "originalTitle": "Un balcon à Limoges",
+        "description": "格拉迪丝是一位五十多岁的女性，生活在社会的边缘，没有住所、没有医保卡、没有银行账户。对她来说，一切都无关紧要，甚至对于性、酒精或跳舞的享受也都不重要。一天早上，她偶然遇到了尤金妮，一位高中时的朋友。尤金妮试图违背她的意愿去帮助她。",
+        "releaseDate": "2026-04-29",
+        "backdropPath": "/bXrX36bWUnEtHUBIWOin8ouA31u.jpg",
+        "posterPath": "/eFZtWUiM2b4CMCsM37iLosNCFwK.jpg",
+        "rating": 6.5,
+        "mediaType": "movie",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 1325734,
+        "type": "tmdb",
+        "title": "爱情抓马",
+        "originalTitle": "The Drama",
+        "description": "来自波士顿的情侣艾玛·哈伍德（赞达亚·科尔曼 饰）和查理·汤普森（罗伯特·帕丁森 饰）既美丽又迷人，有着高雅而知性的气质，而且彼此深爱着对方。虽然他们恋爱的初期有些尴尬，比如查理在追求艾玛时犯了不少错，但这些都不过是浪漫故事中的有趣插曲罢了。他们即将步入婚姻的殿堂。但还有些最后的准备工作要做，比如确定婚礼菜单、撰写婚誓等等。可要想获得幸福的婚姻并不容易。他们的矛盾源于一场看似轻松愉快的派对游戏。艾玛和查理喝醉了，他们还想再喝一杯酒。他们的挚友瑞秋（阿拉娜·哈伊姆 饰）和她的丈夫迈克（马莫多·阿西 饰）也参与了这次聚会。瑞秋怂恿大家说出自己做过的最糟糕的事，这样就能让大家的心灵得到净化，为艾玛和查理的下一步行动铺平道路。迈克犯下的最糟糕的错误是缺乏绅士风度；瑞秋则回忆起了自己童年时犯下的小恶行；查理的经历则是一段比较无伤大雅的网络闹剧；而艾玛所揭露的内容却让众人震惊。",
+        "releaseDate": "2026-03-26",
+        "backdropPath": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+        "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
+        "rating": 6.928,
+        "mediaType": "movie",
+        "genreTitle": "爱情, 喜剧"
+      },
+      {
         "id": 1319520,
         "type": "tmdb",
         "title": "最后的KPI",
@@ -116,19 +129,6 @@
         "backdropPath": "/nyjtKo3D4avnkqUI9LXd7WeVfV.jpg",
         "posterPath": "/nDfToR5Qp5xt0Xyzx9ausfAXvKL.jpg",
         "rating": 6.3,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1461775,
-        "type": "tmdb",
-        "title": "把哥哥变成可以携带的尺寸",
-        "originalTitle": "兄を持ち運べるサイズに",
-        "description": "村井理子（柴崎幸 饰）突然接到警方的电话，得知多年未见的哥哥（小田切让 饰）去世。发现尸体的是与哥哥同住的儿子良一，理子下定决心：“得赶紧把哥哥变成可以携带的尺寸。”于是她前往东北，时隔七年在警察局再次见到了哥哥的前妻加奈子（满岛光 饰）以及他们的女儿满里奈（青山姫乃 饰）。\r 　　三人一同整理哥哥住过、早已变成垃圾屋的公寓，发现了一张贴在墙上的全家福照片，照片中有年幼的理子与哥哥，还有哥哥、加奈子、满里奈与良一的合影。在为哥哥处理后事的过程中，理子不断吐槽哥哥，而曾被哥哥连累的加奈子却对她说：“也许理子你，并不了解他全部的一面。”四个角色重新面对“家庭”的混乱四天就此开始。",
-        "releaseDate": "2025-11-28",
-        "backdropPath": "/jgNRXM69ygunAnLHNMuI0RBpGiA.jpg",
-        "posterPath": "/bJRpVBQZBYU8vXT3ZPEj6xF7BD4.jpg",
-        "rating": 7,
         "mediaType": "movie",
         "genreTitle": "剧情"
       }
@@ -288,7 +288,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 6.2,
+        "rating": 4.5,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 9.011,
+        "rating": 8.997,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -339,8 +339,8 @@
         "description": "祖国人通过法西斯式的恐怖手段掌控美国，将持不同政见者关押在自由营里。而布彻尔、休伊、安妮和英雄克星则奋起反抗，尽管面临难以克服的重重困难，他们仍竭尽全力，试图阻止他的暴政统治。",
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
-        "rating": 7,
+        "posterPath": "/2OekGQPRI9BkdPn8iUz5CsUmHbC.jpg",
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-27",
         "backdropPath": "/38LmBc9U8VhbOXgS14p8B01xrEJ.jpg",
         "posterPath": "/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-        "rating": 7.706,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 7.9,
+        "rating": 7.958,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
