@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-22T21:01:26.146Z",
+  "time": "2026-05-23T20:36:58.696Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-05-07",
         "backdropPath": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
         "posterPath": "/qJPkSzyZPvDn3BsILd7po25uLdV.jpg",
-        "rating": 8.574,
+        "rating": 8.525,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.975,
+        "rating": 8.98,
         "mediaType": "movie",
         "genreTitle": "冒险, 动画"
       },
@@ -182,7 +182,7 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/cA8pX6GhKBvgdo1tAiyetEMDMCk.jpg",
         "posterPath": "/oj688ZRAnYQrcqk59euex7laL10.jpg",
-        "rating": 5.167,
+        "rating": 6.375,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.997,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -339,7 +339,7 @@
         "description": "祖国人通过法西斯式的恐怖手段掌控美国，将持不同政见者关押在自由营里。而布彻尔、休伊、安妮和英雄克星则奋起反抗，尽管面临难以克服的重重困难，他们仍竭尽全力，试图阻止他的暴政统治。",
         "releaseDate": "2026-04-08",
         "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "posterPath": "/2OekGQPRI9BkdPn8iUz5CsUmHbC.jpg",
+        "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
         "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 7.958,
+        "rating": 8.039,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
