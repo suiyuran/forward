@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-23T20:36:58.696Z",
+  "time": "2026-05-24T20:40:21.679Z",
   "data": {
     "电影": [
       {
@@ -10,8 +10,8 @@
         "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
         "releaseDate": "2026-04-30",
         "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
-        "posterPath": "/yHhQlFDhesO1UcTmZ4BUt0hxro7.jpg",
-        "rating": 9.158,
+        "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
+        "rating": 9.1,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-05-07",
         "backdropPath": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
         "posterPath": "/qJPkSzyZPvDn3BsILd7po25uLdV.jpg",
-        "rating": 8.525,
+        "rating": 8.532,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.98,
+        "rating": 8.987,
         "mediaType": "movie",
         "genreTitle": "冒险, 动画"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
         "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
-        "rating": 6.928,
+        "rating": 6.9,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 9.1,
+        "rating": 9.103,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.039,
+        "rating": 8.145,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-05-08",
         "backdropPath": "/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
         "posterPath": "/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
-        "rating": 8.8,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       }
