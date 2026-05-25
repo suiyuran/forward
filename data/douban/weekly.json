@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-24T20:40:21.679Z",
+  "time": "2026-05-25T20:55:27.846Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2025-10-22",
         "backdropPath": "/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
         "posterPath": "/AbFQgIp26cnvdPbSWRkOb4wHJW1.jpg",
-        "rating": 7.684,
+        "rating": 7.75,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-05-07",
         "backdropPath": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
         "posterPath": "/qJPkSzyZPvDn3BsILd7po25uLdV.jpg",
-        "rating": 8.532,
+        "rating": 8.511,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.987,
+        "rating": 8.988,
         "mediaType": "movie",
         "genreTitle": "冒险, 动画"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-01-07",
         "backdropPath": "/7kqzjKKFLvOEMAkWjjpihScZSe2.jpg",
         "posterPath": "/xOgEHI9GTLhKQCQ2BL8c2biUIzp.jpg",
-        "rating": 7.189,
+        "rating": 7.184,
         "mediaType": "movie",
         "genreTitle": "喜剧"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-11-14",
         "backdropPath": "/vRsiiSrLRvoj2Nnz5dsiOGCoqm4.jpg",
         "posterPath": "/oAMhLm4djlhN9U0RGmEIKIpVBBA.jpg",
-        "rating": 8.188,
+        "rating": 7.833,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
         "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
-        "rating": 6.9,
+        "rating": 6.925,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -142,7 +142,7 @@
         "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
         "releaseDate": "2026-05-04",
         "backdropPath": "/eFcPBI0tEnFRiJaNHQ74ZcSNQCg.jpg",
-        "posterPath": "/xwEFuUmwHhjqPGnBwbuz2Yu76r8.jpg",
+        "posterPath": "/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
         "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
@@ -288,7 +288,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
         "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 4.5,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 9.103,
+        "rating": 9.14,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
         "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.6,
+        "rating": 8.684,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/dQCKc5NKeKOGAQusk2FdctGB9k5.jpg",
         "posterPath": "/kLTedMIluTUt6oiL0AUjjL1lEjE.jpg",
-        "rating": 9.1,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
         "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.145,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-05-08",
         "backdropPath": "/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
         "posterPath": "/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
-        "rating": 8.7,
+        "rating": 8.818,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       }
