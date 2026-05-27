@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-26T21:24:36.739Z",
+  "time": "2026-05-27T21:41:24.247Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
         "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
-        "rating": 9.15,
+        "rating": 9.2,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2025-10-22",
         "backdropPath": "/rYYUi8m3YdPxDRbjs3xU5ct3Rzi.jpg",
         "posterPath": "/AbFQgIp26cnvdPbSWRkOb4wHJW1.jpg",
-        "rating": 7.75,
+        "rating": 7.619,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-05-07",
         "backdropPath": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
         "posterPath": "/qJPkSzyZPvDn3BsILd7po25uLdV.jpg",
-        "rating": 8.5,
+        "rating": 8.519,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-05-01",
         "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "posterPath": "/3ApTlZdqwbBAmA7wkng44hUNtqe.jpg",
-        "rating": 8.972,
+        "rating": 8.971,
         "mediaType": "movie",
         "genreTitle": "冒险, 动画"
       },
@@ -75,8 +75,8 @@
         "description": "巴黎第19区的一个工人街区，19岁的莎伊和杰内巴是从小一起长大的好姐妹。一个被令人窒息的家庭所困扰，另一个则深陷孤独的泥沼。某个夏天，她们远离成长的高楼阴影，成为夏令营的辅导员，负责照看一群6到10岁的孩子。站在成年的门槛上，她们必须做出选择，在成长中重新定义彼此的友谊。",
         "releaseDate": "2026-01-07",
         "backdropPath": "/7kqzjKKFLvOEMAkWjjpihScZSe2.jpg",
-        "posterPath": "/xOgEHI9GTLhKQCQ2BL8c2biUIzp.jpg",
-        "rating": 7.184,
+        "posterPath": "/w4IXuGb8oGYG5NQBZIhGyddt8fp.jpg",
+        "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "喜剧"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
         "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
-        "rating": 6.924,
+        "rating": 6.921,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -161,19 +161,6 @@
         "genreTitle": "犯罪, 悬疑"
       },
       {
-        "id": 273129,
-        "type": "tmdb",
-        "title": "爱情没有神话",
-        "originalTitle": "爱情没有神话",
-        "description": "林展翘是一位经济独立、思想成熟的都市女性，身边追求者不断，但她一直过着单身独居的生活。其实她不是排斥婚姻，只是不愿将就，内心一直渴望着一份真正的爱情与纯粹的婚姻。林展翘与何德璋相识后，两人起初虽互有误解，但当他们在爱情、事业中一起经历成长与选择后，终于认清对方就是自己的理想爱人。在克服现实的阻碍后，两人准备踏入婚姻殿堂。林展翘的女性朋友们也在各自做出生活的抉择后，找到了完美的人生归宿。最终她们重新领悟了爱情与婚姻的真谛，过上了普通而幸福、平凡而不平庸的生活。",
-        "releaseDate": "2026-04-28",
-        "backdropPath": "/nQKWL5akhnv0puDu2jbsWpyqRG4.jpg",
-        "posterPath": "/o4JGc8bITlCsqBp7Oh0MOujqIMu.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 278868,
         "type": "tmdb",
         "title": "方圆八百米",
@@ -183,6 +170,19 @@
         "backdropPath": "/cA8pX6GhKBvgdo1tAiyetEMDMCk.jpg",
         "posterPath": "/oj688ZRAnYQrcqk59euex7laL10.jpg",
         "rating": 6.375,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 273129,
+        "type": "tmdb",
+        "title": "爱情没有神话",
+        "originalTitle": "爱情没有神话",
+        "description": "林展翘是一位经济独立、思想成熟的都市女性，身边追求者不断，但她一直过着单身独居的生活。其实她不是排斥婚姻，只是不愿将就，内心一直渴望着一份真正的爱情与纯粹的婚姻。林展翘与何德璋相识后，两人起初虽互有误解，但当他们在爱情、事业中一起经历成长与选择后，终于认清对方就是自己的理想爱人。在克服现实的阻碍后，两人准备踏入婚姻殿堂。林展翘的女性朋友们也在各自做出生活的抉择后，找到了完美的人生归宿。最终她们重新领悟了爱情与婚姻的真谛，过上了普通而幸福、平凡而不平庸的生活。",
+        "releaseDate": "2026-04-28",
+        "backdropPath": "/nQKWL5akhnv0puDu2jbsWpyqRG4.jpg",
+        "posterPath": "/o4JGc8bITlCsqBp7Oh0MOujqIMu.jpg",
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -200,19 +200,6 @@
         "genreTitle": "剧情, 犯罪"
       },
       {
-        "id": 272715,
-        "type": "tmdb",
-        "title": "佳偶天成",
-        "originalTitle": "佳偶天成",
-        "description": "在上古时期，战鬼族因打断人神两界通道而遭受神罚，全族背负“五不全”的诅咒。万年之后，族中少主陆千乔（任嘉伦 饰）为破除诅咒、保住族人血脉，必须历经“换皮、换肉、换骨、换血、换心”五重生死劫难，才能成为一个健全的普通人。\n\n在经历“换肉”之劫时，陆千乔借用“贪官陆槐”的身份，与身负“克夫”命格、为破厄运而主动下山寻求冲喜的修仙者辛湄（王鹤润 饰）结为契约夫妻。本想在受刑后假死遁逃，从此与辛湄再无瓜葛。然而，看似柔弱的辛湄却在他“死后”孤身犯险，背着一把刀前往京城替他复仇、洗刷冤屈。辛湄此举引来了仙门的追杀，也让陆千乔被迫暴露了真实身份。因辛湄无法接受被骗而拔刀相向，陆千乔情急之下只能抹去她的记忆。但两人的命运早已被各自的执念和阴谋编织在一起，他们最终在崇灵谷再次相遇，并共同经历了“不朽丹”、“无双会”、“金光教”等惊险事件。在不断的生死考验中，他们从相互试探的假婚关系，逐渐萌生出真挚的感情，最终粉碎了金乌族的惊天阴谋，共同守护了人间太平。",
-        "releaseDate": "2026-04-25",
-        "backdropPath": "/caMAXpi8r9nc5aPkn0qkOBSMzn6.jpg",
-        "posterPath": "/vx4qAH1kt7WzqLoy5sGCZ7j0yEr.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
         "id": 283961,
         "type": "tmdb",
         "title": "你是迟来的欢喜",
@@ -224,19 +211,6 @@
         "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 244189,
-        "type": "tmdb",
-        "title": "向流星许愿的我们",
-        "originalTitle": "向流星許願的我們",
-        "description": "在能以愿望交换现实的星浦屿，绝望的何向永许愿「想消失」，醒来竟变成被世界遗忘的「钟小右」，仅剩挚友李宛哲知情。同时，向永暗恋的皓维带着伤痛返岛，不自觉被小右吸引；而宛哲向流星祈求轰烈爱情，唤来了神秘渔工小海。 当愿望的代价浮现，记忆与身分面临消逝的危机。四人交织出两段命定却危险的爱恋，他们必须在幻影与真实间做出抉择，完成一段关于奇幻与自我救赎的疗愈之旅。",
-        "releaseDate": "2026-03-26",
-        "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
-        "posterPath": "/h24N0obh83475hufeu6sex4ZE18.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
         "id": 300239,
@@ -252,6 +226,19 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
+        "id": 244189,
+        "type": "tmdb",
+        "title": "向流星许愿的我们",
+        "originalTitle": "向流星許願的我們",
+        "description": "在能以愿望交换现实的星浦屿，绝望的何向永许愿「想消失」，醒来竟变成被世界遗忘的「钟小右」，仅剩挚友李宛哲知情。同时，向永暗恋的皓维带着伤痛返岛，不自觉被小右吸引；而宛哲向流星祈求轰烈爱情，唤来了神秘渔工小海。 当愿望的代价浮现，记忆与身分面临消逝的危机。四人交织出两段命定却危险的爱恋，他们必须在幻影与真实间做出抉择，完成一段关于奇幻与自我救赎的疗愈之旅。",
+        "releaseDate": "2026-03-26",
+        "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
+        "posterPath": "/h24N0obh83475hufeu6sex4ZE18.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
         "id": 243691,
         "type": "tmdb",
         "title": "何百芮的地狱毒白",
@@ -263,9 +250,74 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 272715,
+        "type": "tmdb",
+        "title": "佳偶天成",
+        "originalTitle": "佳偶天成",
+        "description": "在上古时期，战鬼族因打断人神两界通道而遭受神罚，全族背负“五不全”的诅咒。万年之后，族中少主陆千乔（任嘉伦 饰）为破除诅咒、保住族人血脉，必须历经“换皮、换肉、换骨、换血、换心”五重生死劫难，才能成为一个健全的普通人。\n\n在经历“换肉”之劫时，陆千乔借用“贪官陆槐”的身份，与身负“克夫”命格、为破厄运而主动下山寻求冲喜的修仙者辛湄（王鹤润 饰）结为契约夫妻。本想在受刑后假死遁逃，从此与辛湄再无瓜葛。然而，看似柔弱的辛湄却在他“死后”孤身犯险，背着一把刀前往京城替他复仇、洗刷冤屈。辛湄此举引来了仙门的追杀，也让陆千乔被迫暴露了真实身份。因辛湄无法接受被骗而拔刀相向，陆千乔情急之下只能抹去她的记忆。但两人的命运早已被各自的执念和阴谋编织在一起，他们最终在崇灵谷再次相遇，并共同经历了“不朽丹”、“无双会”、“金光教”等惊险事件。在不断的生死考验中，他们从相互试探的假婚关系，逐渐萌生出真挚的感情，最终粉碎了金乌族的惊天阴谋，共同守护了人间太平。",
+        "releaseDate": "2026-04-25",
+        "backdropPath": "/caMAXpi8r9nc5aPkn0qkOBSMzn6.jpg",
+        "posterPath": "/vx4qAH1kt7WzqLoy5sGCZ7j0yEr.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
       }
     ],
     "剧集·国外": [
+      {
+        "id": 273240,
+        "type": "tmdb",
+        "title": "校园之外",
+        "originalTitle": "Off Campus",
+        "description": "为了赢得心上人的心，汉娜·威尔斯主动为冰球队队长加雷特·格雷厄姆辅导功课。随着两人面对各自的过往，这场最初各取所需的交易，渐渐萌生了真情。他们的朋友洛根、迪恩、塔克和艾莉也都在大学生活与爱情中摸索前行。",
+        "releaseDate": "2026-05-13",
+        "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+        "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
+        "rating": 9.156,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 276188,
+        "type": "tmdb",
+        "title": "女校风云",
+        "originalTitle": "เด็ก เรียบ ร้าย",
+        "description": "剧情以泰国一所顶尖女子学校为背景，讲述了六名学生和一名老师引发了一场涉及丑闻、欲望和数字革命的风暴。当隐藏的爱情与秘密碰撞时，故事探讨了在病毒视频和取消文化盛行的时代中成长的意义。",
+        "releaseDate": "2026-04-18",
+        "backdropPath": "/lfICQwnICnGojvlMmrkcnLNt5iF.jpg",
+        "posterPath": "/doXEukBtoqRBSTIl8chMWGyc4Qo.jpg",
+        "rating": 10,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 124101,
+        "type": "tmdb",
+        "title": "绝望写手",
+        "originalTitle": "Hacks",
+        "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
+        "releaseDate": "2026-04-09",
+        "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
+        "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
+        "rating": 5.6,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 289424,
+        "type": "tmdb",
+        "title": "努力克服自卑的我们",
+        "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
+        "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
+        "releaseDate": "2026-04-18",
+        "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
+        "rating": 8.262,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
       {
         "id": 128995,
         "type": "tmdb",
@@ -280,69 +332,17 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 124101,
+        "id": 299167,
         "type": "tmdb",
-        "title": "绝望写手",
-        "originalTitle": "Hacks",
-        "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
-        "releaseDate": "2026-04-09",
-        "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
-        "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 5,
+        "title": "达顿牧场",
+        "originalTitle": "Dutton Ranch",
+        "description": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
+        "releaseDate": "2026-05-15",
+        "backdropPath": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
+        "rating": 9.4,
         "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 273240,
-        "type": "tmdb",
-        "title": "校园之外",
-        "originalTitle": "Off Campus",
-        "description": "为了赢得心上人的心，汉娜·威尔斯主动为冰球队队长加雷特·格雷厄姆辅导功课。随着两人面对各自的过往，这场最初各取所需的交易，渐渐萌生了真情。他们的朋友洛根、迪恩、塔克和艾莉也都在大学生活与爱情中摸索前行。",
-        "releaseDate": "2026-05-13",
-        "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
-        "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 9.14,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 289424,
-        "type": "tmdb",
-        "title": "努力克服自卑的我们",
-        "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
-        "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
-        "releaseDate": "2026-04-18",
-        "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.684,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 71915,
-        "type": "tmdb",
-        "title": "好兆头",
-        "originalTitle": "Good Omens",
-        "description": "如今已成为至高大天使的亚茨拉斐尔在第二次降临的计划正朝着出人意料却又危险的方向发展之际，寻求克劳利的帮助。这位天使与恶魔能否在一切为时已晚之前，弥合他们之间的分歧？",
-        "releaseDate": "2026-05-13",
-        "backdropPath": "/dQCKc5NKeKOGAQusk2FdctGB9k5.jpg",
-        "posterPath": "/kLTedMIluTUt6oiL0AUjjL1lEjE.jpg",
-        "rating": 8.8,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 76479,
-        "type": "tmdb",
-        "title": "黑袍纠察队",
-        "originalTitle": "The Boys",
-        "description": "祖国人通过法西斯式的恐怖手段掌控美国，将持不同政见者关押在自由营里。而布彻尔、休伊、安妮和英雄克星则奋起反抗，尽管面临难以克服的重重困难，他们仍竭尽全力，试图阻止他的暴政统治。",
-        "releaseDate": "2026-04-08",
-        "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "posterPath": "/3FmvkVnH3wASaBOxW2Mcrw97IzO.jpg",
-        "rating": 6.9,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 动作冒险"
+        "genreTitle": "西部, 剧情"
       },
       {
         "id": 300529,
@@ -358,6 +358,32 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 303143,
+        "type": "tmdb",
+        "title": "我的王室死对头",
+        "originalTitle": "멋진 신세계",
+        "description": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
+        "releaseDate": "2026-05-08",
+        "backdropPath": "/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
+        "posterPath": "/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
+        "rating": 8.8,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 270476,
+        "type": "tmdb",
+        "title": "寡妇湾",
+        "originalTitle": "Widow's Bay",
+        "description": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+        "releaseDate": "2026-04-28",
+        "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+        "rating": 8.247,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
         "id": 295509,
         "type": "tmdb",
         "title": "菜鸟伙房兵",
@@ -369,32 +395,6 @@
         "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 喜剧"
-      },
-      {
-        "id": 278573,
-        "type": "tmdb",
-        "title": "21世纪大君夫人",
-        "originalTitle": "21세기 대군부인",
-        "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
-        "releaseDate": "2026-04-10",
-        "backdropPath": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-        "posterPath": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-        "rating": 8.226,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 303143,
-        "type": "tmdb",
-        "title": "我的王室死对头",
-        "originalTitle": "멋진 신세계",
-        "description": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
-        "releaseDate": "2026-05-08",
-        "backdropPath": "/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
-        "posterPath": "/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
-        "rating": 8.818,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
       }
     ]
   }
