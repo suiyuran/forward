@@ -110,7 +110,9 @@ export async function findTMDBResultsByIMDBIdResponse(imdbId: string): Promise<T
     Accept: "application/json",
     Authorization: `Bearer ${TMDB_API_KEY}`,
   };
-  return (await fetch(url, { headers })).json();
+  const response = await fetch(url, { headers });
+  const text = await response.text();
+  return JSON.parse(text);
 }
 
 export async function findTMDBResultsByIMDBId(imdbId: string, type: string) {
@@ -167,7 +169,9 @@ export async function getTMDBTVSeriesDetailsResponse(id: number): Promise<TMDBTV
     Accept: "application/json",
     Authorization: `Bearer ${TMDB_API_KEY}`,
   };
-  return (await fetch(url, { headers })).json();
+  const response = await fetch(url, { headers });
+  const text = await response.text();
+  return JSON.parse(text);
 }
 
 export async function getTMDBTVSeriesDetails(id: number) {
