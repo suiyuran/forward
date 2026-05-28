@@ -1,5 +1,5 @@
 {
-  "time": "2026-05-27T21:41:24.247Z",
+  "time": "2026-05-28T21:47:09.838Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
         "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
-        "rating": 9.2,
+        "rating": 9.1,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -37,22 +37,9 @@
         "releaseDate": "2026-05-07",
         "backdropPath": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
         "posterPath": "/qJPkSzyZPvDn3BsILd7po25uLdV.jpg",
-        "rating": 8.519,
+        "rating": 8.537,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 1532395,
-        "type": "tmdb",
-        "title": "万事顺利",
-        "originalTitle": "万事快調〈オール・グリーンズ〉",
-        "description": "本片改编自第28届松本清张赏受赏作品。要告别这个可恶的乡下，就得花钱！总之要钱！那就在学校屋顶上种大麻吧！背景是位于北关东胡同的乡下高中。为了各自的目的，三个女高中生和一个宅男开始在学校的屋顶上培育偶然得到的大麻种子。它的名字就是大麻栽培联谊会＜ALL・GREENS＞。把对平凡日常的不满和苦闷藏在心中，用大麻做梦想的三人和一人，未来会怎样！？",
-        "releaseDate": "2026-01-16",
-        "backdropPath": "/bjxeug8RRFXJGX9QXNXpBpy6gOt.jpg",
-        "posterPath": "/yo6eLG1F2tC8ecdkXcYLlfu72bl.jpg",
-        "rating": 7.2,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
       },
       {
         "id": 1007757,
@@ -68,19 +55,6 @@
         "genreTitle": "冒险, 动画"
       },
       {
-        "id": 1290436,
-        "type": "tmdb",
-        "title": "夏日躁动",
-        "originalTitle": "Ma frère",
-        "description": "巴黎第19区的一个工人街区，19岁的莎伊和杰内巴是从小一起长大的好姐妹。一个被令人窒息的家庭所困扰，另一个则深陷孤独的泥沼。某个夏天，她们远离成长的高楼阴影，成为夏令营的辅导员，负责照看一群6到10岁的孩子。站在成年的门槛上，她们必须做出选择，在成长中重新定义彼此的友谊。",
-        "releaseDate": "2026-01-07",
-        "backdropPath": "/7kqzjKKFLvOEMAkWjjpihScZSe2.jpg",
-        "posterPath": "/w4IXuGb8oGYG5NQBZIhGyddt8fp.jpg",
-        "rating": 7.2,
-        "mediaType": "movie",
-        "genreTitle": "喜剧"
-      },
-      {
         "id": 1392396,
         "type": "tmdb",
         "title": "平场之月",
@@ -94,19 +68,6 @@
         "genreTitle": "剧情, 爱情"
       },
       {
-        "id": 1510335,
-        "type": "tmdb",
-        "title": "利摩日阳台",
-        "originalTitle": "Un balcon à Limoges",
-        "description": "格拉迪丝是一位五十多岁的女性，生活在社会的边缘，没有住所、没有医保卡、没有银行账户。对她来说，一切都无关紧要，甚至对于性、酒精或跳舞的享受也都不重要。一天早上，她偶然遇到了尤金妮，一位高中时的朋友。尤金妮试图违背她的意愿去帮助她。",
-        "releaseDate": "2026-04-29",
-        "backdropPath": "/bXrX36bWUnEtHUBIWOin8ouA31u.jpg",
-        "posterPath": "/eFZtWUiM2b4CMCsM37iLosNCFwK.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
         "id": 1325734,
         "type": "tmdb",
         "title": "爱情抓马",
@@ -115,22 +76,9 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
         "posterPath": "/aDI4QMrTxNpo4l94mlJmGwslS67.jpg",
-        "rating": 6.921,
+        "rating": 6.924,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
-      },
-      {
-        "id": 1319520,
-        "type": "tmdb",
-        "title": "最后的KPI",
-        "originalTitle": "พนักงานใหม่ (โปรดรับไว้พิจารณา)",
-        "description": "在一家制度严苛的大公司从事人力资源工作的弗伦，日复一日面试新员工，观察他们的生活轨迹。与此同时，她隐瞒了自己刚怀孕的事实，在是否将孩子带入这个不确定世界的挣扎中，逐渐面对内心的恐惧与矛盾。",
-        "releaseDate": "2026-01-29",
-        "backdropPath": "/nyjtKo3D4avnkqUI9LXd7WeVfV.jpg",
-        "posterPath": "/nDfToR5Qp5xt0Xyzx9ausfAXvKL.jpg",
-        "rating": 6.3,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
       }
     ],
     "剧集·国内": [
@@ -143,7 +91,7 @@
         "releaseDate": "2026-05-04",
         "backdropPath": "/eFcPBI0tEnFRiJaNHQ74ZcSNQCg.jpg",
         "posterPath": "/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
-        "rating": 8.107,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -213,19 +161,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 300239,
-        "type": "tmdb",
-        "title": "动物园",
-        "originalTitle": "動物園",
-        "description": "任职广告公司的朱欣葵，在职场中磨练出超抗压人格。眼见事业正要起飞，却遭遇各种不顺，先是惹毛了大客户、男友无理取闹，还被公司打入冷宫。此时，寿山动物园公开招标，希望更新品牌形象，这正是她翻身的最后希望，但却没想到条件是要亲身担任实习保育员！过往熟悉的办公室法则全派不上场，面对动物和人类同事们，前辈苏冠州尤其难搞，第一天就想回家的她怀疑，自己真的能在这里存活下来吗？",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
-        "posterPath": "/xixw0uzoEnk2523Y7OgrNcuF9l1.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
         "id": 244189,
         "type": "tmdb",
         "title": "向流星许愿的我们",
@@ -237,48 +172,9 @@
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 243691,
-        "type": "tmdb",
-        "title": "何百芮的地狱毒白",
-        "originalTitle": "何百芮的地獄毒白",
-        "description": "本剧改编自网红“宅女小红”的真实故事，讲述经历着爱情事业两头空的30岁平凡OL何百芮，通过用Instagram上的毒辣图文创作，化身“地狱来的前女友”在网上展开爆笑反击，结果竟引发广大网友回响，帮助心力交瘁的她重新站起来，踏上意料之外的旅程！",
-        "releaseDate": "2026-01-04",
-        "backdropPath": "/dVsSFADPIc13arqR30fhl8FhHOK.jpg",
-        "posterPath": "/9ZGuNavgUvjC6duXuKkeB2e0HeU.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 272715,
-        "type": "tmdb",
-        "title": "佳偶天成",
-        "originalTitle": "佳偶天成",
-        "description": "在上古时期，战鬼族因打断人神两界通道而遭受神罚，全族背负“五不全”的诅咒。万年之后，族中少主陆千乔（任嘉伦 饰）为破除诅咒、保住族人血脉，必须历经“换皮、换肉、换骨、换血、换心”五重生死劫难，才能成为一个健全的普通人。\n\n在经历“换肉”之劫时，陆千乔借用“贪官陆槐”的身份，与身负“克夫”命格、为破厄运而主动下山寻求冲喜的修仙者辛湄（王鹤润 饰）结为契约夫妻。本想在受刑后假死遁逃，从此与辛湄再无瓜葛。然而，看似柔弱的辛湄却在他“死后”孤身犯险，背着一把刀前往京城替他复仇、洗刷冤屈。辛湄此举引来了仙门的追杀，也让陆千乔被迫暴露了真实身份。因辛湄无法接受被骗而拔刀相向，陆千乔情急之下只能抹去她的记忆。但两人的命运早已被各自的执念和阴谋编织在一起，他们最终在崇灵谷再次相遇，并共同经历了“不朽丹”、“无双会”、“金光教”等惊险事件。在不断的生死考验中，他们从相互试探的假婚关系，逐渐萌生出真挚的感情，最终粉碎了金乌族的惊天阴谋，共同守护了人间太平。",
-        "releaseDate": "2026-04-25",
-        "backdropPath": "/caMAXpi8r9nc5aPkn0qkOBSMzn6.jpg",
-        "posterPath": "/vx4qAH1kt7WzqLoy5sGCZ7j0yEr.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
       }
     ],
     "剧集·国外": [
-      {
-        "id": 273240,
-        "type": "tmdb",
-        "title": "校园之外",
-        "originalTitle": "Off Campus",
-        "description": "为了赢得心上人的心，汉娜·威尔斯主动为冰球队队长加雷特·格雷厄姆辅导功课。随着两人面对各自的过往，这场最初各取所需的交易，渐渐萌生了真情。他们的朋友洛根、迪恩、塔克和艾莉也都在大学生活与爱情中摸索前行。",
-        "releaseDate": "2026-05-13",
-        "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
-        "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 9.156,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
       {
         "id": 276188,
         "type": "tmdb",
@@ -293,19 +189,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 124101,
-        "type": "tmdb",
-        "title": "绝望写手",
-        "originalTitle": "Hacks",
-        "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
-        "releaseDate": "2026-04-09",
-        "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
-        "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 5.6,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
         "id": 289424,
         "type": "tmdb",
         "title": "努力克服自卑的我们",
@@ -313,23 +196,10 @@
         "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.262,
+        "posterPath": "/ovNzwYGIXVeb7hdcDzlDqC0FVRa.jpg",
+        "rating": 8.479,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 128995,
-        "type": "tmdb",
-        "title": "柔美的细胞小将",
-        "originalTitle": "유미의 세포들",
-        "description": "讲述从上班族转为全职作家的柔美成为了明星作家，柔美平静的日常生活出现了冷静的PD驯鹿，两人之间展开了不可预测的年下男罗曼史。",
-        "releaseDate": "2026-04-13",
-        "backdropPath": "/4TJG9k0u1WZfs9iwhLpHshnryaR.jpg",
-        "posterPath": "/qZhd7J9rNUhe2TKd4QJ66AjZ5bc.jpg",
-        "rating": 9.6,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
       },
       {
         "id": 299167,
@@ -338,9 +208,9 @@
         "originalTitle": "Dutton Ranch",
         "description": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
         "releaseDate": "2026-05-15",
-        "backdropPath": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.4,
+        "rating": 9.327,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
@@ -379,22 +249,9 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.247,
+        "rating": 8.234,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 295509,
-        "type": "tmdb",
-        "title": "菜鸟伙房兵",
-        "originalTitle": "취사병 전설이 되다",
-        "description": "姜成宰原本只是军中不起眼的菜鸟伙房兵，却意外在厨房中找到属于自己的战场，他以菜刀代替枪支、以围裙代替弹药带，在看似日常的炊事任务中，一步步成长为令人意想不到的传奇人物。",
-        "releaseDate": "2026-05-11",
-        "backdropPath": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-        "posterPath": "/wRj5X08xSghICjKrLuQaHqD9lg0.jpg",
-        "rating": 7.1,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 喜剧"
       }
     ]
   }
