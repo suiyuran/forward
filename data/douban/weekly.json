@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-02T22:14:07.360Z",
+  "time": "2026-06-03T22:20:15.813Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
         "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
-        "rating": 9.091,
+        "rating": 9.13,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2025-11-27",
         "backdropPath": "/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
         "posterPath": "/5nXkeQHSHPccTMllRZMURs790fR.jpg",
-        "rating": 7.5,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-05-07",
         "backdropPath": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
         "posterPath": "/qJPkSzyZPvDn3BsILd7po25uLdV.jpg",
-        "rating": 8.547,
+        "rating": 8.558,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -135,6 +135,19 @@
     ],
     "剧集·国内": [
       {
+        "id": 284110,
+        "type": "tmdb",
+        "title": "主角",
+        "originalTitle": "主角",
+        "description": "多年前，县剧团招学员，在团里任司鼓的胡三元替外甥女报名，将年少的她改名易秦娥从家乡带出来学唱秦腔。因胡三元造成的事故，易秦娥受到影响，学习秦腔之路屡遭波折。但她凭借刻苦的劲头和自身的条件获得了老艺人的赏识和热情帮扶。她的“破蒙戏”在乡村舞台上音惊四座，后改名忆秦娥被调入省秦腔团。 她勤学苦练，在台上的演出屡获成功。历经波折，她终于明白对秦腔艺术的传承才是她作为“主角”的真正意义，她将继续培养新一代秦腔舞台上亮丽的主角。",
+        "releaseDate": "2026-05-10",
+        "backdropPath": "/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
+        "posterPath": "/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
+        "rating": 9.2,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 272432,
         "type": "tmdb",
         "title": "低智商犯罪",
@@ -144,6 +157,19 @@
         "backdropPath": "/eFcPBI0tEnFRiJaNHQ74ZcSNQCg.jpg",
         "posterPath": "/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
         "rating": 8.1,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 254486,
+        "type": "tmdb",
+        "title": "雨霖铃",
+        "originalTitle": "雨霖铃",
+        "description": "已身居御前四品带刀护卫的展昭，在收到故友留下的悬案证据后只身探寻线索，却遭遇各方势力袭杀，并在途中结识了才貌双全、天性不屈的玲珑山庄大小姐霍玲珑，以及满腔热血、以暴制恶的“锦毛鼠”白玉堂。志同道合的三人一路搜寻线索，行侠仗义，捉拿罪犯，撕破襄阳王多年来编织的遍布朝野和江湖的势力网，最终挫败了襄阳王的阴谋，还百姓安宁。",
+        "releaseDate": "2026-05-13",
+        "backdropPath": "/aqhB6P6x5wCk4lJqeXvRaD941xM.jpg",
+        "posterPath": "/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -174,6 +200,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 272715,
+        "type": "tmdb",
+        "title": "佳偶天成",
+        "originalTitle": "佳偶天成",
+        "description": "在上古时期，战鬼族因打断人神两界通道而遭受神罚，全族背负“五不全”的诅咒。万年之后，族中少主陆千乔（任嘉伦 饰）为破除诅咒、保住族人血脉，必须历经“换皮、换肉、换骨、换血、换心”五重生死劫难，才能成为一个健全的普通人。\n\n在经历“换肉”之劫时，陆千乔借用“贪官陆槐”的身份，与身负“克夫”命格、为破厄运而主动下山寻求冲喜的修仙者辛湄（王鹤润 饰）结为契约夫妻。本想在受刑后假死遁逃，从此与辛湄再无瓜葛。然而，看似柔弱的辛湄却在他“死后”孤身犯险，背着一把刀前往京城替他复仇、洗刷冤屈。辛湄此举引来了仙门的追杀，也让陆千乔被迫暴露了真实身份。因辛湄无法接受被骗而拔刀相向，陆千乔情急之下只能抹去她的记忆。但两人的命运早已被各自的执念和阴谋编织在一起，他们最终在崇灵谷再次相遇，并共同经历了“不朽丹”、“无双会”、“金光教”等惊险事件。在不断的生死考验中，他们从相互试探的假婚关系，逐渐萌生出真挚的感情，最终粉碎了金乌族的惊天阴谋，共同守护了人间太平。",
+        "releaseDate": "2026-04-25",
+        "backdropPath": "/caMAXpi8r9nc5aPkn0qkOBSMzn6.jpg",
+        "posterPath": "/vx4qAH1kt7WzqLoy5sGCZ7j0yEr.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
         "id": 273129,
         "type": "tmdb",
         "title": "爱情没有神话",
@@ -185,19 +224,6 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 281392,
-        "type": "tmdb",
-        "title": "钢铁森林",
-        "originalTitle": "钢铁森林",
-        "description": "海州市通河岸边，五年前“8·17”大案的全新线索浮出水面。南城公安分局侦查员周瑾（蔡文静 饰）因其兄周川是该案中不幸殉职的两名特警之一，主动请缨投入追查。在犯罪心理学教授江寒声（井柏然 饰）的帮助下，警方锁定了以神秘人“老蝎”为首的犯罪集团。与此同时，执行“藏锋行动”长达五年之久的卧底民警蒋诚（秦俊杰 饰），也已摸进敌人核心，距“老蝎”仅有一步之遥。\n\n为了将犯罪集团一网打尽，周瑾、江寒声、蒋诚三个曾在栀子巷中一起长大的年轻人，在各自岗位上竭尽所能，与不法分子斗智斗勇，凭借正义、勇气和智慧战胜邪恶。在这场跨越时间与谜团的重重阻碍中，三人被迫卷入以情感为筹码、以人心为赌注的危险博弈，埋藏心底的隐痛与难解的命运谜题也在案件推进中逐步揭开。",
-        "releaseDate": "2026-04-03",
-        "backdropPath": "/6p2BAwHKgIQfkoRdqVf3apf9ON9.jpg",
-        "posterPath": "/abKwcuNbavcIGEFGTtLV11GT0dZ.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 犯罪"
       },
       {
         "id": 283961,
@@ -237,35 +263,35 @@
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
+      }
+    ],
+    "剧集·国外": [
       {
-        "id": 243691,
+        "id": 124101,
         "type": "tmdb",
-        "title": "何百芮的地狱毒白",
-        "originalTitle": "何百芮的地獄毒白",
-        "description": "本剧改编自网红“宅女小红”的真实故事，讲述经历着爱情事业两头空的30岁平凡OL何百芮，通过用Instagram上的毒辣图文创作，化身“地狱来的前女友”在网上展开爆笑反击，结果竟引发广大网友回响，帮助心力交瘁的她重新站起来，踏上意料之外的旅程！",
-        "releaseDate": "2026-01-04",
-        "backdropPath": "/dVsSFADPIc13arqR30fhl8FhHOK.jpg",
-        "posterPath": "/9ZGuNavgUvjC6duXuKkeB2e0HeU.jpg",
-        "rating": 0,
+        "title": "绝望写手",
+        "originalTitle": "Hacks",
+        "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
+        "releaseDate": "2026-04-09",
+        "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
+        "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
+        "rating": 5.8,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 272715,
+        "id": 60625,
         "type": "tmdb",
-        "title": "佳偶天成",
-        "originalTitle": "佳偶天成",
-        "description": "在上古时期，战鬼族因打断人神两界通道而遭受神罚，全族背负“五不全”的诅咒。万年之后，族中少主陆千乔（任嘉伦 饰）为破除诅咒、保住族人血脉，必须历经“换皮、换肉、换骨、换血、换心”五重生死劫难，才能成为一个健全的普通人。\n\n在经历“换肉”之劫时，陆千乔借用“贪官陆槐”的身份，与身负“克夫”命格、为破厄运而主动下山寻求冲喜的修仙者辛湄（王鹤润 饰）结为契约夫妻。本想在受刑后假死遁逃，从此与辛湄再无瓜葛。然而，看似柔弱的辛湄却在他“死后”孤身犯险，背着一把刀前往京城替他复仇、洗刷冤屈。辛湄此举引来了仙门的追杀，也让陆千乔被迫暴露了真实身份。因辛湄无法接受被骗而拔刀相向，陆千乔情急之下只能抹去她的记忆。但两人的命运早已被各自的执念和阴谋编织在一起，他们最终在崇灵谷再次相遇，并共同经历了“不朽丹”、“无双会”、“金光教”等惊险事件。在不断的生死考验中，他们从相互试探的假婚关系，逐渐萌生出真挚的感情，最终粉碎了金乌族的惊天阴谋，共同守护了人间太平。",
-        "releaseDate": "2026-04-25",
-        "backdropPath": "/caMAXpi8r9nc5aPkn0qkOBSMzn6.jpg",
-        "posterPath": "/vx4qAH1kt7WzqLoy5sGCZ7j0yEr.jpg",
-        "rating": 8.2,
+        "title": "瑞克和莫蒂",
+        "originalTitle": "Rick and Morty",
+        "description": "第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
+        "releaseDate": "2026-05-24",
+        "backdropPath": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
+        "rating": 8.8,
         "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      }
-    ],
-    "剧集·国外": [
+        "genreTitle": "动画, 喜剧"
+      },
       {
         "id": 273240,
         "type": "tmdb",
@@ -275,7 +301,20 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 9.058,
+        "rating": 9.003,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 289424,
+        "type": "tmdb",
+        "title": "努力克服自卑的我们",
+        "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
+        "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
+        "releaseDate": "2026-04-18",
+        "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -293,32 +332,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 124101,
-        "type": "tmdb",
-        "title": "绝望写手",
-        "originalTitle": "Hacks",
-        "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
-        "releaseDate": "2026-04-09",
-        "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
-        "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 5.8,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 289424,
-        "type": "tmdb",
-        "title": "努力克服自卑的我们",
-        "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
-        "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
-        "releaseDate": "2026-04-18",
-        "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.125,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 128995,
         "type": "tmdb",
         "title": "柔美的细胞小将",
@@ -330,19 +343,6 @@
         "rating": 9.6,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 299167,
-        "type": "tmdb",
-        "title": "达顿牧场",
-        "originalTitle": "Dutton Ranch",
-        "description": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
-        "releaseDate": "2026-05-15",
-        "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.273,
-        "mediaType": "tv",
-        "genreTitle": "西部, 剧情"
       },
       {
         "id": 300529,
@@ -358,17 +358,30 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 303143,
+        "id": 299167,
         "type": "tmdb",
-        "title": "我的王室死对头",
-        "originalTitle": "멋진 신세계",
-        "description": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
-        "releaseDate": "2026-05-08",
-        "backdropPath": "/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
-        "posterPath": "/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
-        "rating": 9,
+        "title": "达顿牧场",
+        "originalTitle": "Dutton Ranch",
+        "description": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
+        "releaseDate": "2026-05-15",
+        "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
+        "rating": 9.3,
         "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
+        "genreTitle": "西部, 剧情"
+      },
+      {
+        "id": 220102,
+        "type": "tmdb",
+        "title": "暗影蜘蛛侠",
+        "originalTitle": "Spider-Noir",
+        "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
+        "releaseDate": "2026-05-25",
+        "backdropPath": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+        "posterPath": "/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
+        "rating": 8.737,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 剧情"
       },
       {
         "id": 270476,
@@ -379,22 +392,9 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.26,
+        "rating": 8.252,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 295509,
-        "type": "tmdb",
-        "title": "菜鸟伙房兵",
-        "originalTitle": "취사병 전설이 되다",
-        "description": "姜成宰原本只是军中不起眼的菜鸟伙房兵，却意外在厨房中找到属于自己的战场，他以菜刀代替枪支、以围裙代替弹药带，在看似日常的炊事任务中，一步步成长为令人意想不到的传奇人物。",
-        "releaseDate": "2026-05-11",
-        "backdropPath": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-        "posterPath": "/wRj5X08xSghICjKrLuQaHqD9lg0.jpg",
-        "rating": 7.1,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 喜剧"
       }
     ]
   }
