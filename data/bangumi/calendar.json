@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-05T17:50:10.679Z",
+  "time": "2026-06-06T17:07:55.073Z",
   "data": {
     "星期日": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/nTDL4UmMLDBCeMtYh8F1LZtgmLV.jpg",
         "posterPath": "/ukjJ1nFjdmZwJMlEteWPShB5XH1.jpg",
-        "rating": 8.881,
+        "rating": 8.918,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -295,11 +295,11 @@
         "type": "tmdb",
         "title": "异世界悠闲农家",
         "originalTitle": "異世界のんびり農家",
-        "description": "在黑企业过度使用身体，与疾病斗争后丧命的青年街尾火乐，拿着神赐予的“万能农具”，在异世界与吸血鬼、天使、精灵等相遇，度过第二人生的农业幻想。",
+        "description": "在黑企业过度使用身体，与疾病斗争后丧命的青年街尾火乐，拿着神赐予的“万能农具”，在异世界与吸血鬼、天使、精灵等相遇，度过第二人生的异世界种田流奇幻故事。",
         "releaseDate": "2023-01-06",
         "backdropPath": "/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
         "posterPath": "/2GHqsL7lzgvzyTBMrfwk9IPy7nG.jpg",
-        "rating": 7.583,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
         "posterPath": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-        "rating": 8.611,
+        "rating": 8.684,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -472,7 +472,7 @@
         "releaseDate": "2020-01-13",
         "backdropPath": "/sASxGVO6wioRG6jNM2LHOjBAgWu.jpg",
         "posterPath": "/doVJ6DsoJuRvys9e4wZVmLRqfFa.jpg",
-        "rating": 8.362,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -485,7 +485,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/wpsLsjCcIf3QexYO6pCaLm9PI0Z.jpg",
         "posterPath": "/zUWZOv5bLj3fmHQM6FWPI1MqiVr.jpg",
-        "rating": 9.3,
+        "rating": 9.333,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -511,7 +511,7 @@
         "releaseDate": "2016-04-04",
         "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
         "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
-        "rating": 7.9,
+        "rating": 7.867,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -669,7 +669,7 @@
         "releaseDate": "2026-04-10",
         "backdropPath": "/4u7uvGbu1RCZDX8IIFMljG8U9Zb.jpg",
         "posterPath": "/iM6qJlcAfjUsVLZXaYjfjxnpJ06.jpg",
-        "rating": 8.333,
+        "rating": 7.571,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -734,7 +734,7 @@
         "releaseDate": "2026-04-09",
         "backdropPath": "/xVRpdsYlQR6hsapwFbwxVnFXDBH.jpg",
         "posterPath": "/qEVAv7TMtJw9wiuFGVOeoePJWeR.jpg",
-        "rating": 8.238,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -786,7 +786,7 @@
         "releaseDate": "2018-07-14",
         "backdropPath": "/rniGk0uIxTtZkoQGTnp3nJeYSXX.jpg",
         "posterPath": "/v5NusnWRHIG4YOXMwBwJbdsgX4q.jpg",
-        "rating": 6.6,
+        "rating": 6.724,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -825,7 +825,7 @@
         "releaseDate": "2026-04-16",
         "backdropPath": "/v8dnBVnuINt8g1n0NvEADxZ3NXV.jpg",
         "posterPath": "/defMsGyon7Zhnt9iIDfhxDnakDK.jpg",
-        "rating": 8.1,
+        "rating": 8.333,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -860,7 +860,7 @@
       {
         "id": 295357,
         "type": "tmdb",
-        "title": "北斗神拳 -FIST OF THE NORTH STAR-",
+        "title": "北斗神拳",
         "originalTitle": "北斗の拳 -FIST OF THE NORTH STAR-",
         "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
         "releaseDate": "2026-04-11",
@@ -905,7 +905,7 @@
         "releaseDate": "2018-10-02",
         "backdropPath": "/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
         "posterPath": "/t0dG685BBauz3X687FEjlt8FnMK.jpg",
-        "rating": 8.413,
+        "rating": 8.416,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -918,7 +918,7 @@
         "releaseDate": "2020-07-11",
         "backdropPath": "/yozfbzwLhGe81YKTDoNDRdJrIuC.jpg",
         "posterPath": "/pp1gwYC7Jv36fEWEpPLpbJjuBTG.jpg",
-        "rating": 8.324,
+        "rating": 8.326,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -931,7 +931,7 @@
         "releaseDate": "2026-04-11",
         "backdropPath": "/krbKWrBEOjPdUmp1CGRgRVnLsrs.jpg",
         "posterPath": "/wpUGWITiEBNrRxLg0DoXXOZiVMA.jpg",
-        "rating": 7.611,
+        "rating": 7.722,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1141,7 +1141,7 @@
         "releaseDate": "2026-04-04",
         "backdropPath": "/8nKINQCBmp3uvA393G8VIc6wOub.jpg",
         "posterPath": "/lHGyS1Ks0QdTtqw3aMjsdTbCC6T.jpg",
-        "rating": 8.308,
+        "rating": 8.214,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
