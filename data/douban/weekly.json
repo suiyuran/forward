@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-05T21:13:37.906Z",
+  "time": "2026-06-06T20:51:22.578Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2025-11-27",
         "backdropPath": "/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
         "posterPath": "/5nXkeQHSHPccTMllRZMURs790fR.jpg",
-        "rating": 7.4,
+        "rating": 7.413,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -89,16 +89,16 @@
         "releaseDate": "2026-02-02",
         "backdropPath": "/gYxOlYtLvGNrzYm6kQBcY5mqKja.jpg",
         "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-        "rating": 7.6,
+        "rating": 7.649,
         "mediaType": "movie",
         "genreTitle": "喜剧, 科幻"
       },
       {
         "id": 1462597,
         "type": "tmdb",
-        "title": "A Vida Luminosa",
+        "title": "明亮的日子",
         "originalTitle": "A Vida Luminosa",
-        "description": "",
+        "description": "春意正浓，尼科劳刚刚年满二十四岁，但他并不想大张旗鼓地举办一场盛大的生日派对。他开始察觉到自己成为专业音乐家的梦想正在破灭，他仍然与父母同住，并且对前女友念念不忘。尽管他缺乏向前迈进的动力，但命运却向他抛出了几个机会，让他重新掌控自己的生活。",
         "releaseDate": "2025-05-07",
         "backdropPath": "/n7RIiElVfTBaEwTdgz6QPNwgRvn.jpg",
         "posterPath": "/8gH62d0YZQmHuwfJFcToy7kmV8u.jpg",
@@ -260,7 +260,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
         "posterPath": "/h24N0obh83475hufeu6sex4ZE18.jpg",
-        "rating": 8.25,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       }
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-24",
         "backdropPath": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.7,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 9.016,
+        "rating": 8.982,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
         "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.182,
+        "rating": 8.235,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -325,7 +325,7 @@
         "originalTitle": "เด็ก เรียบ ร้าย",
         "description": "剧情以泰国一所顶尖女子学校为背景，讲述了六名学生和一名老师引发了一场涉及丑闻、欲望和数字革命的风暴。当隐藏的爱情与秘密碰撞时，故事探讨了在病毒视频和取消文化盛行的时代中成长的意义。",
         "releaseDate": "2026-04-18",
-        "backdropPath": "/lfICQwnICnGojvlMmrkcnLNt5iF.jpg",
+        "backdropPath": "/2RhG7IJXYgor7DrrDSk6a6IpjDh.jpg",
         "posterPath": "/doXEukBtoqRBSTIl8chMWGyc4Qo.jpg",
         "rating": 10,
         "mediaType": "tv",
@@ -366,7 +366,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.3,
+        "rating": 9.266,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
@@ -377,9 +377,9 @@
         "originalTitle": "Spider-Noir",
         "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
         "releaseDate": "2026-05-25",
-        "backdropPath": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdropPath": "/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
         "posterPath": "/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
-        "rating": 8.7,
+        "rating": 8.711,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.266,
+        "rating": 8.281,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       }
