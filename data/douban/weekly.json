@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-06T20:51:22.578Z",
+  "time": "2026-06-07T20:57:02.009Z",
   "data": {
     "电影": [
       {
@@ -89,7 +89,7 @@
         "releaseDate": "2026-02-02",
         "backdropPath": "/gYxOlYtLvGNrzYm6kQBcY5mqKja.jpg",
         "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-        "rating": 7.649,
+        "rating": 7.678,
         "mediaType": "movie",
         "genreTitle": "喜剧, 科幻"
       },
@@ -260,7 +260,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
         "posterPath": "/h24N0obh83475hufeu6sex4ZE18.jpg",
-        "rating": 8.2,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       }
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.982,
+        "rating": 9.003,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -325,7 +325,7 @@
         "originalTitle": "เด็ก เรียบ ร้าย",
         "description": "剧情以泰国一所顶尖女子学校为背景，讲述了六名学生和一名老师引发了一场涉及丑闻、欲望和数字革命的风暴。当隐藏的爱情与秘密碰撞时，故事探讨了在病毒视频和取消文化盛行的时代中成长的意义。",
         "releaseDate": "2026-04-18",
-        "backdropPath": "/2RhG7IJXYgor7DrrDSk6a6IpjDh.jpg",
+        "backdropPath": "/lfICQwnICnGojvlMmrkcnLNt5iF.jpg",
         "posterPath": "/doXEukBtoqRBSTIl8chMWGyc4Qo.jpg",
         "rating": 10,
         "mediaType": "tv",
@@ -366,7 +366,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.266,
+        "rating": 9.3,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
@@ -377,9 +377,9 @@
         "originalTitle": "Spider-Noir",
         "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
         "releaseDate": "2026-05-25",
-        "backdropPath": "/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
+        "backdropPath": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "posterPath": "/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
-        "rating": 8.711,
+        "rating": 8.659,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.281,
+        "rating": 8.265,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       }
