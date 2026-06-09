@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-08T21:29:55.265Z",
+  "time": "2026-06-09T21:26:34.724Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
         "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
-        "rating": 9.1,
+        "rating": 9.154,
         "mediaType": "movie",
         "genreTitle": "剧情, 家庭"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-02-02",
         "backdropPath": "/gYxOlYtLvGNrzYm6kQBcY5mqKja.jpg",
         "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-        "rating": 7.678,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "喜剧, 科幻"
       },
@@ -154,9 +154,9 @@
         "originalTitle": "低智商犯罪",
         "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
         "releaseDate": "2026-05-04",
-        "backdropPath": "/eFcPBI0tEnFRiJaNHQ74ZcSNQCg.jpg",
+        "backdropPath": "/6yd4BP7Mt2zpt63z2z6dizg6QMo.jpg",
         "posterPath": "/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
-        "rating": 8.1,
+        "rating": 8.031,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.256,
+        "rating": 9.295,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
@@ -377,7 +377,7 @@
         "originalTitle": "Spider-Noir",
         "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
         "releaseDate": "2026-05-25",
-        "backdropPath": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+        "backdropPath": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
         "posterPath": "/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
         "rating": 8.7,
         "mediaType": "tv",
@@ -390,9 +390,9 @@
         "originalTitle": "Widow's Bay",
         "description": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
         "releaseDate": "2026-04-28",
-        "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdropPath": "/tqxImBSRPrWPvZuuCr2dPw1auqA.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.299,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       }
