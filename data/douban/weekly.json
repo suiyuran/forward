@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-10T21:48:13.354Z",
+  "time": "2026-06-11T21:52:02.980Z",
   "data": {
     "电影": [
       {
@@ -81,19 +81,6 @@
         "genreTitle": "纪录"
       },
       {
-        "id": 1154538,
-        "type": "tmdb",
-        "title": "尼瓦那乐队秀：电影版",
-        "originalTitle": "Nirvanna the Band the Show the Movie",
-        "description": "马特和杰原计划在里沃利剧院演出，但演出搞砸了。意外的是，他们竟因此穿越时空，回到了2008年。面对这突如其来的时空错位，两人在熟悉又陌生的2008年开启了一段奇妙旅程，而这段经历也让他们对生活有了全新感悟。",
-        "releaseDate": "2026-02-02",
-        "backdropPath": "/gYxOlYtLvGNrzYm6kQBcY5mqKja.jpg",
-        "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-        "rating": 7.7,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 科幻"
-      },
-      {
         "id": 1462597,
         "type": "tmdb",
         "title": "明亮的日子",
@@ -105,32 +92,6 @@
         "rating": 0,
         "mediaType": "movie",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 1430820,
-        "type": "tmdb",
-        "title": "执笔",
-        "originalTitle": "À pied d’œuvre",
-        "description": "这个故事讲述一位事业有成的摄影师放弃一切投身写作，却陷入赤贫。这是一段清醒而自嘲的激进人生轨迹——一个愿为自由付出高昂代价的男人。",
-        "releaseDate": "2026-02-04",
-        "backdropPath": "/xzY5ZwVZSMMn111DhNcQs2M3J9Q.jpg",
-        "posterPath": "/iqeF5Yr65hPlEJojJGESjVclf6h.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1463600,
-        "type": "tmdb",
-        "title": "狗狗",
-        "originalTitle": "Perro perro",
-        "description": "有些男人真的是狗！胡安在荒野度假时，刚好发现了一只。他收留了他，为他洗澡、喂食，并给予了他急需的关怀。然而，他的女朋友警告他，不要陷入得太深……",
-        "releaseDate": "2025-06-24",
-        "backdropPath": "/b6hh0GB981I9Imq0eQwI1FPRYKh.jpg",
-        "posterPath": "/kZMHfKtwoLI0Jbu6tfPIIbiGXcy.jpg",
-        "rating": 8.5,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 爱情"
       }
     ],
     "剧集·国内": [
@@ -159,19 +120,6 @@
         "rating": 8.031,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 309663,
-        "type": "tmdb",
-        "title": "COURT!",
-        "originalTitle": "COURT!",
-        "description": "基于不同观点角度、难以致信的巧合或为了维护更公平的法律原则，都影响着所有案件在法庭上的细节，令最终「真相」的呈现，面临着不同挑战和考验。",
-        "releaseDate": "2026-05-18",
-        "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
-        "posterPath": "/2QQwTXWloGjtQT9nET7hWSeB0y8.jpg",
-        "rating": 5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       },
       {
         "id": 275966,
@@ -239,19 +187,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 272715,
-        "type": "tmdb",
-        "title": "佳偶天成",
-        "originalTitle": "佳偶天成",
-        "description": "在上古时期，战鬼族因打断人神两界通道而遭受神罚，全族背负“五不全”的诅咒。万年之后，族中少主陆千乔（任嘉伦 饰）为破除诅咒、保住族人血脉，必须历经“换皮、换肉、换骨、换血、换心”五重生死劫难，才能成为一个健全的普通人。\n\n在经历“换肉”之劫时，陆千乔借用“贪官陆槐”的身份，与身负“克夫”命格、为破厄运而主动下山寻求冲喜的修仙者辛湄（王鹤润 饰）结为契约夫妻。本想在受刑后假死遁逃，从此与辛湄再无瓜葛。然而，看似柔弱的辛湄却在他“死后”孤身犯险，背着一把刀前往京城替他复仇、洗刷冤屈。辛湄此举引来了仙门的追杀，也让陆千乔被迫暴露了真实身份。因辛湄无法接受被骗而拔刀相向，陆千乔情急之下只能抹去她的记忆。但两人的命运早已被各自的执念和阴谋编织在一起，他们最终在崇灵谷再次相遇，并共同经历了“不朽丹”、“无双会”、“金光教”等惊险事件。在不断的生死考验中，他们从相互试探的假婚关系，逐渐萌生出真挚的感情，最终粉碎了金乌族的惊天阴谋，共同守护了人间太平。",
-        "releaseDate": "2026-04-25",
-        "backdropPath": "/caMAXpi8r9nc5aPkn0qkOBSMzn6.jpg",
-        "posterPath": "/vx4qAH1kt7WzqLoy5sGCZ7j0yEr.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
         "id": 283961,
         "type": "tmdb",
         "title": "你是迟来的欢喜",
@@ -275,48 +210,9 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.261,
+        "rating": 9.4,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
-      },
-      {
-        "id": 124101,
-        "type": "tmdb",
-        "title": "绝望写手",
-        "originalTitle": "Hacks",
-        "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
-        "releaseDate": "2026-04-09",
-        "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
-        "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 5.8,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 273240,
-        "type": "tmdb",
-        "title": "校园之外",
-        "originalTitle": "Off Campus",
-        "description": "音乐系学生汉娜·威尔斯（艾拉·布赖特 饰）与校冰球队王牌、布莱尔鹰队队长加勒特·格雷厄姆（贝尔蒙特·卡梅利 饰）。二人达成协议，开启一段契约恋爱：汉娜假意和加勒特交往，借此博取心仪的音乐人贾斯汀的关注；作为交换，汉娜辅导加勒特补习，帮他通过哲学课程。朝夕相处间，汉娜与加勒特从假扮恋人慢慢动了真情，修成真正的情侣。",
-        "releaseDate": "2026-05-13",
-        "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
-        "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 9.022,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 60625,
-        "type": "tmdb",
-        "title": "瑞克和莫蒂",
-        "originalTitle": "Rick and Morty",
-        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
-        "releaseDate": "2026-05-24",
-        "backdropPath": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
-        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.4,
-        "mediaType": "tv",
-        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 289424,
@@ -340,7 +236,7 @@
         "releaseDate": "2026-05-29",
         "backdropPath": "/lD3YdWYvFaDI52g9gentsvjB1w5.jpg",
         "posterPath": "/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
-        "rating": 9.1,
+        "rating": 9.031,
         "mediaType": "tv",
         "genreTitle": "纪录"
       },
@@ -366,7 +262,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.293,
+        "rating": 9.314,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
@@ -382,19 +278,6 @@
         "rating": 10,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 241609,
-        "type": "tmdb",
-        "title": "掩耳盗邻",
-        "originalTitle": "Your Friends & Neighbors",
-        "description": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-        "releaseDate": "2026-04-02",
-        "backdropPath": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "posterPath": "/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 犯罪"
       }
     ]
   }
