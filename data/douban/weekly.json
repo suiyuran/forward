@@ -1,19 +1,19 @@
 {
-  "time": "2026-06-11T21:52:02.980Z",
+  "time": "2026-06-12T21:21:39.179Z",
   "data": {
     "电影": [
       {
-        "id": 1671548,
+        "id": 1280738,
         "type": "tmdb",
-        "title": "给阿嬷的情书",
-        "originalTitle": "给阿嬷的情书",
-        "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
-        "releaseDate": "2026-04-30",
-        "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
-        "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
-        "rating": 9.154,
+        "title": "火遮眼",
+        "originalTitle": "火遮眼",
+        "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+        "releaseDate": "2026-06-10",
+        "backdropPath": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+        "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
+        "rating": 8.4,
         "mediaType": "movie",
-        "genreTitle": "剧情, 家庭"
+        "genreTitle": "动作, 犯罪"
       },
       {
         "id": 1174334,
@@ -29,32 +29,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 1489456,
-        "type": "tmdb",
-        "title": "我住在凡尔赛的日子",
-        "originalTitle": "La Vie de château : Mon enfance à Versailles",
-        "description": "一个害羞的8岁女孩维奥莱特失去父母，和她的舅舅雷吉斯住在一起，雷吉斯在凡尔赛城堡当清洁工，维奥莱特很少跟他说话。维奥莱特几乎没有意识到，在这个令人生畏的地方，她会找到意想不到的避难所和一个新的家庭。",
-        "releaseDate": "2025-10-15",
-        "backdropPath": "/gp1SMXFgQFsimTFk4RlXent3rDY.jpg",
-        "posterPath": "/hhbdKdtaeSOWHSAYEATJXqSSK4z.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "动画, 家庭"
-      },
-      {
-        "id": 1489187,
-        "type": "tmdb",
-        "title": "爱上平行时空的你",
-        "originalTitle": "Сводишь с ума",
-        "description": "艾莉莎和伊万在看房时相遇，为了租到房子假扮夫妻。在争夺租房合同时，艾莉莎泼了伊万咖啡，抢先签了合同。这个选择导致了平行世界的产生：在艾莉莎的世界里她租到了房子，在伊万的世界里他租到了房子。两人通过镜子互动，从最初的互相嫌弃到逐渐了解，发现只有镜子对面的那个人才是真正理解自己的灵魂伴侣。最终，艾莉莎砸碎镜子，意外打通了两个世界，两人得以在现实中相遇。",
-        "releaseDate": "2025-10-09",
-        "backdropPath": "/6QKDBQRFHe6aG7QflvG5NQV1zr3.jpg",
-        "posterPath": "/vFN0xW0PinmCgeXipT0tAywL9xN.jpg",
-        "rating": 7.8,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 爱情"
-      },
-      {
         "id": 1005735,
         "type": "tmdb",
         "title": "水与茴香",
@@ -66,6 +40,45 @@
         "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 1318413,
+        "type": "tmdb",
+        "title": "诺曼底72小时",
+        "originalTitle": "Pressure",
+        "description": "聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
+        "releaseDate": "2026-05-25",
+        "backdropPath": "/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
+        "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
+        "rating": 7.9,
+        "mediaType": "movie",
+        "genreTitle": "惊悚, 历史"
+      },
+      {
+        "id": 1536559,
+        "type": "tmdb",
+        "title": "双喜",
+        "originalTitle": "雙囍",
+        "description": "新郎高庭生与新娘吴黛玲在一生一次的大喜之日，面对多年来打死不相往来的男方父亲高盛宏与母亲白雁心争相主持儿子的终生大事，不愿得罪父母的高庭生只好联合岳父老吴、婚顾小芮、伴郎大蔡，试图瞒天过海在一天内完美举办两场婚礼。",
+        "releaseDate": "2026-02-17",
+        "backdropPath": "/bRdiW7cyDXC9HWNLjCtZVGlMb6o.jpg",
+        "posterPath": "/v92ViZmVkb6blW3TFHd3lKkoApD.jpg",
+        "rating": 9.8,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1489456,
+        "type": "tmdb",
+        "title": "我住在凡尔赛的日子",
+        "originalTitle": "La Vie de château : Mon enfance à Versailles",
+        "description": "一个害羞的8岁女孩维奥莱特失去父母，和她的舅舅雷吉斯住在一起，雷吉斯在凡尔赛城堡当清洁工，维奥莱特很少跟他说话。维奥莱特几乎没有意识到，在这个令人生畏的地方，她会找到意想不到的避难所和一个新的家庭。",
+        "releaseDate": "2025-10-15",
+        "backdropPath": "/gp1SMXFgQFsimTFk4RlXent3rDY.jpg",
+        "posterPath": "/hhbdKdtaeSOWHSAYEATJXqSSK4z.jpg",
+        "rating": 6.5,
+        "mediaType": "movie",
+        "genreTitle": "动画, 家庭"
       },
       {
         "id": 1400793,
@@ -90,6 +103,32 @@
         "backdropPath": "/n7RIiElVfTBaEwTdgz6QPNwgRvn.jpg",
         "posterPath": "/8gH62d0YZQmHuwfJFcToy7kmV8u.jpg",
         "rating": 0,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1400381,
+        "type": "tmdb",
+        "title": "杰夫·巴克利，一切从未结束",
+        "originalTitle": "It's Never Over, Jeff Buckley",
+        "description": "尽管杰夫・巴克利在悲剧离世前仅发行过一张专辑，但在一部全新且令人震撼的影片中，他本人与他的音乐得以短暂 “重生”。  当大卫・鲍伊称你的专辑为 “有史以来最棒的专辑” 时，或许你已走在了正确的轨道上。可惜的是，杰夫・巴克利只来得及发行《Grace》（《恩赐》）这张专辑，便于 1997 年溺亡，年仅 30 岁。这无疑是一场彻头彻尾的悲剧。  导演艾米・伯格通过私密的日记条目与家庭录像，完整勾勒出这位美国歌手的形象。我们得以回溯他的童年 —— 那时父亲蒂姆・巴克利离家而去，最终因海洛因过量离世，年仅 28 岁。这样的经历会在灵魂上留下伤痕，再加上本就脆弱的内心，巴克利如流星般迅速蹿红的人生，既是恩赐，也是诅咒。  影片中藏有大量他成名前后的珍贵演唱会片段，还有与他最亲近之人的访谈。伯格的这部作品，是一份温柔的爱的告白，也是对这位拥有天籁之音的歌者恰如其分的告别与致谢。",
+        "releaseDate": "2025-08-08",
+        "backdropPath": "/rU0P9XGl2thKlC7BbOdGc1mQFQ7.jpg",
+        "posterPath": "/rrKe8bC6UKFKvfZHvbwA9Bq5hkR.jpg",
+        "rating": 7.8,
+        "mediaType": "movie",
+        "genreTitle": "纪录, 音乐"
+      },
+      {
+        "id": 1430820,
+        "type": "tmdb",
+        "title": "执笔",
+        "originalTitle": "À pied d’œuvre",
+        "description": "这个故事讲述一位事业有成的摄影师放弃一切投身写作，却陷入赤贫。这是一段清醒而自嘲的激进人生轨迹——一个愿为自由付出高昂代价的男人。",
+        "releaseDate": "2026-02-04",
+        "backdropPath": "/xzY5ZwVZSMMn111DhNcQs2M3J9Q.jpg",
+        "posterPath": "/iqeF5Yr65hPlEJojJGESjVclf6h.jpg",
+        "rating": 6.5,
         "mediaType": "movie",
         "genreTitle": "剧情"
       }
@@ -122,6 +161,19 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
+        "id": 309663,
+        "type": "tmdb",
+        "title": "COURT!",
+        "originalTitle": "COURT!",
+        "description": "基于不同观点角度、难以致信的巧合或为了维护更公平的法律原则，都影响着所有案件在法庭上的细节，令最终「真相」的呈现，面临着不同挑战和考验。",
+        "releaseDate": "2026-05-18",
+        "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
+        "posterPath": "/2QQwTXWloGjtQT9nET7hWSeB0y8.jpg",
+        "rating": 5,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 275966,
         "type": "tmdb",
         "title": "家业",
@@ -143,7 +195,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/aqhB6P6x5wCk4lJqeXvRaD941xM.jpg",
         "posterPath": "/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
-        "rating": 7,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -187,6 +239,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 272715,
+        "type": "tmdb",
+        "title": "佳偶天成",
+        "originalTitle": "佳偶天成",
+        "description": "在上古时期，战鬼族因打断人神两界通道而遭受神罚，全族背负“五不全”的诅咒。万年之后，族中少主陆千乔（任嘉伦 饰）为破除诅咒、保住族人血脉，必须历经“换皮、换肉、换骨、换血、换心”五重生死劫难，才能成为一个健全的普通人。\n\n在经历“换肉”之劫时，陆千乔借用“贪官陆槐”的身份，与身负“克夫”命格、为破厄运而主动下山寻求冲喜的修仙者辛湄（王鹤润 饰）结为契约夫妻。本想在受刑后假死遁逃，从此与辛湄再无瓜葛。然而，看似柔弱的辛湄却在他“死后”孤身犯险，背着一把刀前往京城替他复仇、洗刷冤屈。辛湄此举引来了仙门的追杀，也让陆千乔被迫暴露了真实身份。因辛湄无法接受被骗而拔刀相向，陆千乔情急之下只能抹去她的记忆。但两人的命运早已被各自的执念和阴谋编织在一起，他们最终在崇灵谷再次相遇，并共同经历了“不朽丹”、“无双会”、“金光教”等惊险事件。在不断的生死考验中，他们从相互试探的假婚关系，逐渐萌生出真挚的感情，最终粉碎了金乌族的惊天阴谋，共同守护了人间太平。",
+        "releaseDate": "2026-04-25",
+        "backdropPath": "/caMAXpi8r9nc5aPkn0qkOBSMzn6.jpg",
+        "posterPath": "/vx4qAH1kt7WzqLoy5sGCZ7j0yEr.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
         "id": 283961,
         "type": "tmdb",
         "title": "你是迟来的欢喜",
@@ -215,6 +280,45 @@
         "genreTitle": "动作冒险, 剧情"
       },
       {
+        "id": 124101,
+        "type": "tmdb",
+        "title": "绝望写手",
+        "originalTitle": "Hacks",
+        "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
+        "releaseDate": "2026-04-09",
+        "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
+        "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
+        "rating": 5.9,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 273240,
+        "type": "tmdb",
+        "title": "校园之外",
+        "originalTitle": "Off Campus",
+        "description": "音乐系学生汉娜·威尔斯（艾拉·布赖特 饰）与校冰球队王牌、布莱尔鹰队队长加勒特·格雷厄姆（贝尔蒙特·卡梅利 饰）。二人达成协议，开启一段契约恋爱：汉娜假意和加勒特交往，借此博取心仪的音乐人贾斯汀的关注；作为交换，汉娜辅导加勒特补习，帮他通过哲学课程。朝夕相处间，汉娜与加勒特从假扮恋人慢慢动了真情，修成真正的情侣。",
+        "releaseDate": "2026-05-13",
+        "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+        "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
+        "rating": 9.012,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 60625,
+        "type": "tmdb",
+        "title": "瑞克和莫蒂",
+        "originalTitle": "Rick and Morty",
+        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
+        "releaseDate": "2026-05-24",
+        "backdropPath": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
+      },
+      {
         "id": 289424,
         "type": "tmdb",
         "title": "努力克服自卑的我们",
@@ -223,7 +327,7 @@
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
         "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.359,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -236,7 +340,7 @@
         "releaseDate": "2026-05-29",
         "backdropPath": "/lD3YdWYvFaDI52g9gentsvjB1w5.jpg",
         "posterPath": "/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
-        "rating": 9.031,
+        "rating": 9.094,
         "mediaType": "tv",
         "genreTitle": "纪录"
       },
@@ -249,7 +353,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.3,
+        "rating": 8.279,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -262,7 +366,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.314,
+        "rating": 9.322,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
@@ -278,6 +382,19 @@
         "rating": 10,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 241609,
+        "type": "tmdb",
+        "title": "掩耳盗邻",
+        "originalTitle": "Your Friends & Neighbors",
+        "description": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+        "releaseDate": "2026-04-02",
+        "backdropPath": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "posterPath": "/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 犯罪"
       }
     ]
   }
