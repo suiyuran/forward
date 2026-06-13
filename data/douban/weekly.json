@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-12T21:21:39.179Z",
+  "time": "2026-06-13T20:58:35.524Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 8.4,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
         "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
-        "rating": 7.9,
+        "rating": 7.765,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-02-04",
         "backdropPath": "/xzY5ZwVZSMMn111DhNcQs2M3J9Q.jpg",
         "posterPath": "/iqeF5Yr65hPlEJojJGESjVclf6h.jpg",
-        "rating": 6.5,
+        "rating": 6.517,
         "mediaType": "movie",
         "genreTitle": "剧情"
       }
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.4,
+        "rating": 9.391,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 9.012,
+        "rating": 8.985,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-05-24",
         "backdropPath": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.2,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.279,
+        "rating": 8.297,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.322,
+        "rating": 9.331,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
@@ -388,7 +388,7 @@
         "type": "tmdb",
         "title": "掩耳盗邻",
         "originalTitle": "Your Friends & Neighbors",
-        "description": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+        "description": "在第二季中，安德鲁·库珀更加沉迷于自己身为郊区怪盗的双面人生，直到一位新邻居的到来威胁到揭露他的秘密，并让他的家庭陷入危险。",
         "releaseDate": "2026-04-02",
         "backdropPath": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
         "posterPath": "/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
