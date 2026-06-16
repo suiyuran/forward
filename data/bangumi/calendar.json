@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-15T19:43:57.111Z",
+  "time": "2026-06-16T19:30:07.603Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2024-07-07",
         "backdropPath": "/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
         "posterPath": "/7WIhyJawa8BTXQ2fNk2CmrqPxX6.jpg",
-        "rating": 7.918,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
         "posterPath": "/eBWVcJmzpjxndjd6lN8vU7AFuUe.jpg",
-        "rating": 9.19,
+        "rating": 9.213,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -254,9 +254,9 @@
       {
         "id": 288551,
         "type": "tmdb",
-        "title": "废柴风纪委员与裙子长度不合规的JK的故事",
+        "title": "一根筋的风纪委员与裙长不当的JK",
         "originalTitle": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
-        "description": "严格过头的风纪委员樱大门的职务是，在校门口检查学生着装。最让他介意的，是那个染发和穿超短裙的问题少女小日向。然而，认为樱大门很啰嗦的她，却发现他是个“学渣”的惊人事实...",
+        "description": "严格过头的风纪委员樱大门的职务是，在校门口检查学生着装。最让他介意的，是那个染发和穿超短裙的问题少女小日向。然而，认为樱大门很啰嗦的她，却发现他是个“学渣”的惊人事实……",
         "releaseDate": "2026-04-06",
         "backdropPath": "/8EaA5ffwNJv4uBwmfUWT06WY5ee.jpg",
         "posterPath": "/uBHcmbmC3TccLO6hdrttOpjy4bN.jpg",
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
         "posterPath": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-        "rating": 8.435,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -472,7 +472,7 @@
         "releaseDate": "2020-01-13",
         "backdropPath": "/sASxGVO6wioRG6jNM2LHOjBAgWu.jpg",
         "posterPath": "/doVJ6DsoJuRvys9e4wZVmLRqfFa.jpg",
-        "rating": 8.369,
+        "rating": 8.372,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -537,7 +537,7 @@
         "releaseDate": "2023-07-05",
         "backdropPath": "/rJKANgQCrIPJV4a9BXwdw7d3BZr.jpg",
         "posterPath": "/eSQrTyg8Zvz7Ymy5oXFkuYu5ZIr.jpg",
-        "rating": 6.808,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -550,7 +550,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/7837uc8fhaREbOVnqIwXrFu335o.jpg",
         "posterPath": "/wQFbXbQ33b2CWx6n1eR4xEJx3Wu.jpg",
-        "rating": 7.9,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -708,7 +708,7 @@
         "releaseDate": "2019-07-05",
         "backdropPath": "/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
         "posterPath": "/7GFo7yLsXmnIH6xOB3blY8KyAMd.jpg",
-        "rating": 8.538,
+        "rating": 8.537,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -784,7 +784,7 @@
         "originalTitle": "嫌な顔されながらおパンツ見せてもらいたい",
         "description": "在被女仆、明星和高中生鄙视的同时，我说出了“请给我看胖次吧”这样的奖励。于是故事从第一人称视角展开了。",
         "releaseDate": "2018-07-14",
-        "backdropPath": "/rniGk0uIxTtZkoQGTnp3nJeYSXX.jpg",
+        "backdropPath": "/2rU19tjs3h2b9a3ShQ6KFp4cuck.jpg",
         "posterPath": "/v5NusnWRHIG4YOXMwBwJbdsgX4q.jpg",
         "rating": 6.8,
         "mediaType": "tv",
@@ -838,7 +838,7 @@
         "releaseDate": "2025-11-06",
         "backdropPath": "/pXdkJvhBcPf8oEj831ASMkLPXKT.jpg",
         "posterPath": "/vWULYz6Pp5vDevVVBawVDZcgKJh.jpg",
-        "rating": 6.846,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -866,7 +866,7 @@
         "releaseDate": "2026-04-11",
         "backdropPath": "/mVH9xKyA0ETdejTrCLKQI0mGJay.jpg",
         "posterPath": "/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
-        "rating": 8.533,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -918,7 +918,7 @@
         "releaseDate": "2020-07-11",
         "backdropPath": "/yozfbzwLhGe81YKTDoNDRdJrIuC.jpg",
         "posterPath": "/pp1gwYC7Jv36fEWEpPLpbJjuBTG.jpg",
-        "rating": 8.313,
+        "rating": 8.314,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
