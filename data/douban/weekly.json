@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-16T22:03:21.746Z",
+  "time": "2026-06-18T21:54:07.421Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 7.984,
+        "rating": 8.1,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -33,7 +33,7 @@
         "type": "tmdb",
         "title": "水与茴香",
         "originalTitle": "Acqua e anice",
-        "description": "",
+        "description": "奥林匹娅年过七旬依然沉湎于作为舞者与歌手的昔日荣光，在人生即将走到尽头之际，她决定与年轻姑娘玛利亚开启一趟回忆之旅。",
         "releaseDate": "2022-11-03",
         "backdropPath": "/eqRzPPzd40766fL2CyLhlGn0Ps5.jpg",
         "posterPath": "/wUvlL69JfOQiAruLwMANTEVTjeu.jpg",
@@ -48,9 +48,9 @@
         "originalTitle": "Pressure",
         "description": "聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
         "releaseDate": "2026-05-25",
-        "backdropPath": "/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
+        "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
-        "rating": 7.9,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-02-17",
         "backdropPath": "/bRdiW7cyDXC9HWNLjCtZVGlMb6o.jpg",
         "posterPath": "/v92ViZmVkb6blW3TFHd3lKkoApD.jpg",
-        "rating": 6.222,
+        "rating": 6.2,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -135,6 +135,19 @@
     ],
     "剧集·国内": [
       {
+        "id": 309663,
+        "type": "tmdb",
+        "title": "COURT!",
+        "originalTitle": "COURT!",
+        "description": "基于不同观点角度、难以致信的巧合或为了维护更公平的法律原则，都影响着所有案件在法庭上的细节，令最终「真相」的呈现，面临着不同挑战和考验。",
+        "releaseDate": "2026-05-18",
+        "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
+        "posterPath": "/2QQwTXWloGjtQT9nET7hWSeB0y8.jpg",
+        "rating": 5,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 284110,
         "type": "tmdb",
         "title": "主角",
@@ -161,17 +174,17 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 309663,
+        "id": 289147,
         "type": "tmdb",
-        "title": "COURT!",
-        "originalTitle": "COURT!",
-        "description": "基于不同观点角度、难以致信的巧合或为了维护更公平的法律原则，都影响着所有案件在法庭上的细节，令最终「真相」的呈现，面临着不同挑战和考验。",
-        "releaseDate": "2026-05-18",
-        "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
-        "posterPath": "/2QQwTXWloGjtQT9nET7hWSeB0y8.jpg",
-        "rating": 5,
+        "title": "灵魂摆渡·十年",
+        "originalTitle": "灵魂摆渡·十年",
+        "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
+        "releaseDate": "2026-06-02",
+        "backdropPath": "/a84FbktGASmCKmbvEVBD3U0x3LH.jpg",
+        "posterPath": "/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
+        "rating": 9.1,
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
         "id": 275966,
@@ -213,6 +226,32 @@
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
+        "id": 317717,
+        "type": "tmdb",
+        "title": "果实",
+        "originalTitle": "果實",
+        "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
+        "releaseDate": "2026-03-27",
+        "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
+        "posterPath": "/vdB6e9slprXFhaeClQpfVw6FYOE.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 300239,
+        "type": "tmdb",
+        "title": "动物园",
+        "originalTitle": "動物園",
+        "description": "任职于“彗流广告”的创意总监朱欣葵（邵雨薇 饰）个性好强，在职场上练就了一身超抗压的本领。就在她的事业即将起飞，有望调任纽约总部时，却接连遭遇重大打击：惹火大客户，男友无理取闹，最后竟被公司降职冷藏。此时，高雄寿山动物园为转型公开招标，想要更新品牌形象，这成了她职业生涯翻身的最后希望。没想到竞标条件却要求她必须亲身担任实习保育员！\n\n朱欣葵硬着头皮接下这份工作，从光鲜亮丽的广告总监，一夜之间沦为每天清理粪便、喂养动物的“铲屎官”。以往得心应手的办公室法则彻底失灵，她还得面对资深保育员苏冠州（王柏杰 饰）的严格要求和百般刁难。最初，她想尽办法想要离开这里，但在与动物的朝夕相处中，也让她逐渐卸下防备，找回了被焦虑掩埋的初心与勇气，并对这份呵护生命的工作产生了敬意，与苏冠州也从互看不顺眼的欢喜冤家，发展出一段令人心动的浪漫恋情。",
+        "releaseDate": "2026-02-20",
+        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
+        "posterPath": "/xixw0uzoEnk2523Y7OgrNcuF9l1.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
         "id": 254498,
         "type": "tmdb",
         "title": "黑夜告白",
@@ -224,45 +263,6 @@
         "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
-      },
-      {
-        "id": 278868,
-        "type": "tmdb",
-        "title": "方圆八百米",
-        "originalTitle": "方圆八百米",
-        "description": "故事聚焦上世纪九十年代末的丰阳小镇矿区。一具无名女尸的出现，打破了表面的平静，小镇内的违禁药品贩卖网络随之浮出水面。警察陈红兵（丁勇岱 饰）紧跟线索，却步步逼近亲生儿子陈辉（许凯 饰）。在方圆八百米的小天地里，父子间的对抗、职责与亲情的纠结、法律与人性的交缠，让这个家庭与小城一同面临善恶的抉择与考验。",
-        "releaseDate": "2026-04-17",
-        "backdropPath": "/cA8pX6GhKBvgdo1tAiyetEMDMCk.jpg",
-        "posterPath": "/oj688ZRAnYQrcqk59euex7laL10.jpg",
-        "rating": 6.375,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 272715,
-        "type": "tmdb",
-        "title": "佳偶天成",
-        "originalTitle": "佳偶天成",
-        "description": "在上古时期，战鬼族因打断人神两界通道而遭受神罚，全族背负“五不全”的诅咒。万年之后，族中少主陆千乔（任嘉伦 饰）为破除诅咒、保住族人血脉，必须历经“换皮、换肉、换骨、换血、换心”五重生死劫难，才能成为一个健全的普通人。\n\n在经历“换肉”之劫时，陆千乔借用“贪官陆槐”的身份，与身负“克夫”命格、为破厄运而主动下山寻求冲喜的修仙者辛湄（王鹤润 饰）结为契约夫妻。本想在受刑后假死遁逃，从此与辛湄再无瓜葛。然而，看似柔弱的辛湄却在他“死后”孤身犯险，背着一把刀前往京城替他复仇、洗刷冤屈。辛湄此举引来了仙门的追杀，也让陆千乔被迫暴露了真实身份。因辛湄无法接受被骗而拔刀相向，陆千乔情急之下只能抹去她的记忆。但两人的命运早已被各自的执念和阴谋编织在一起，他们最终在崇灵谷再次相遇，并共同经历了“不朽丹”、“无双会”、“金光教”等惊险事件。在不断的生死考验中，他们从相互试探的假婚关系，逐渐萌生出真挚的感情，最终粉碎了金乌族的惊天阴谋，共同守护了人间太平。",
-        "releaseDate": "2026-04-25",
-        "backdropPath": "/caMAXpi8r9nc5aPkn0qkOBSMzn6.jpg",
-        "posterPath": "/vx4qAH1kt7WzqLoy5sGCZ7j0yEr.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 283961,
-        "type": "tmdb",
-        "title": "你是迟来的欢喜",
-        "originalTitle": "你是迟来的欢喜",
-        "description": "阮喻放弃稳定的工作以自己的情感经历为原型创作小说并发布在网上，但没想到被网友指出有抄袭嫌疑。阮喻决定维权但合作的律师正好是她高中的暗恋对象、也是自己小说男主的原型许淮颂。两人因案子重逢，在相处过程中再次相互吸引，这段多年沉淀的感情在回忆下发酵，也在现实的考验中更加坚定。面对各自事业上的新挑战，两人并肩作战，相互鼓励，最终迎来了事业与爱情上“迟来的欢喜”。",
-        "releaseDate": "2026-03-26",
-        "backdropPath": "/cWs510A3RhRL8KiUhSgIaDTCyIx.jpg",
-        "posterPath": "/yWD7slh3uKb9LZNKokSo84zD7xa.jpg",
-        "rating": 6.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       }
     ],
     "剧集·国外": [
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.424,
+        "rating": 9.438,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -293,6 +293,19 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
+        "id": 296286,
+        "type": "tmdb",
+        "title": "躲在超市后门抽烟的两人",
+        "originalTitle": "スーパーの裏でヤニ吸うふたり",
+        "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
+        "releaseDate": "2026-07-09",
+        "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
+        "posterPath": "/eHz8ZXMeqUOtZXhJTQcuWMMGqEb.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
+      },
+      {
         "id": 273240,
         "type": "tmdb",
         "title": "校园之外",
@@ -301,7 +314,20 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.995,
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 289424,
+        "type": "tmdb",
+        "title": "努力克服自卑的我们",
+        "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
+        "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
+        "releaseDate": "2026-04-18",
+        "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -317,19 +343,6 @@
         "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
-      },
-      {
-        "id": 289424,
-        "type": "tmdb",
-        "title": "努力克服自卑的我们",
-        "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
-        "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
-        "releaseDate": "2026-04-18",
-        "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.175,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       },
       {
         "id": 279884,
@@ -351,24 +364,11 @@
         "originalTitle": "Widow's Bay",
         "description": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
         "releaseDate": "2026-04-28",
-        "backdropPath": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.307,
+        "rating": 8.223,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 299167,
-        "type": "tmdb",
-        "title": "达顿牧场",
-        "originalTitle": "Dutton Ranch",
-        "description": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
-        "releaseDate": "2026-05-15",
-        "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.356,
-        "mediaType": "tv",
-        "genreTitle": "西部, 剧情"
       },
       {
         "id": 276188,
@@ -384,17 +384,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 241609,
+        "id": 299167,
         "type": "tmdb",
-        "title": "掩耳盗邻",
-        "originalTitle": "Your Friends & Neighbors",
-        "description": "在第二季中，安德鲁·库珀更加沉迷于自己身为郊区怪盗的双面人生，直到一位新邻居的到来威胁到揭露他的秘密，并让他的家庭陷入危险。",
-        "releaseDate": "2026-04-02",
-        "backdropPath": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "posterPath": "/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
-        "rating": 8,
+        "title": "达顿牧场",
+        "originalTitle": "Dutton Ranch",
+        "description": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
+        "releaseDate": "2026-05-15",
+        "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
+        "rating": 9.3,
         "mediaType": "tv",
-        "genreTitle": "剧情, 犯罪"
+        "genreTitle": "西部, 剧情"
       }
     ]
   }
