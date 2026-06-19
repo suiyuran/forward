@@ -1,7 +1,20 @@
 {
-  "time": "2026-06-18T21:54:07.421Z",
+  "time": "2026-06-19T20:58:03.018Z",
   "data": {
     "电影": [
+      {
+        "id": 1318413,
+        "type": "tmdb",
+        "title": "诺曼底72小时",
+        "originalTitle": "Pressure",
+        "description": "聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
+        "releaseDate": "2026-05-25",
+        "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+        "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
+        "rating": 7.745,
+        "mediaType": "movie",
+        "genreTitle": "惊悚, 历史"
+      },
       {
         "id": 1280738,
         "type": "tmdb",
@@ -11,9 +24,22 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 8.1,
+        "rating": 8.011,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
+      },
+      {
+        "id": 1489456,
+        "type": "tmdb",
+        "title": "我住在凡尔赛的日子",
+        "originalTitle": "La Vie de château : Mon enfance à Versailles",
+        "description": "一个害羞的8岁女孩维奥莱特失去父母，和她的舅舅雷吉斯住在一起，雷吉斯在凡尔赛城堡当清洁工，维奥莱特很少跟他说话。维奥莱特几乎没有意识到，在这个令人生畏的地方，她会找到意想不到的避难所和一个新的家庭。",
+        "releaseDate": "2025-10-15",
+        "backdropPath": "/gp1SMXFgQFsimTFk4RlXent3rDY.jpg",
+        "posterPath": "/hhbdKdtaeSOWHSAYEATJXqSSK4z.jpg",
+        "rating": 6.5,
+        "mediaType": "movie",
+        "genreTitle": "动画, 家庭"
       },
       {
         "id": 1174334,
@@ -42,19 +68,6 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 1318413,
-        "type": "tmdb",
-        "title": "诺曼底72小时",
-        "originalTitle": "Pressure",
-        "description": "聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
-        "releaseDate": "2026-05-25",
-        "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-        "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
-        "rating": 8,
-        "mediaType": "movie",
-        "genreTitle": "惊悚, 历史"
-      },
-      {
         "id": 1536559,
         "type": "tmdb",
         "title": "双喜",
@@ -63,22 +76,9 @@
         "releaseDate": "2026-02-17",
         "backdropPath": "/bRdiW7cyDXC9HWNLjCtZVGlMb6o.jpg",
         "posterPath": "/v92ViZmVkb6blW3TFHd3lKkoApD.jpg",
-        "rating": 6.2,
+        "rating": 5.727,
         "mediaType": "movie",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 1489456,
-        "type": "tmdb",
-        "title": "我住在凡尔赛的日子",
-        "originalTitle": "La Vie de château : Mon enfance à Versailles",
-        "description": "一个害羞的8岁女孩维奥莱特失去父母，和她的舅舅雷吉斯住在一起，雷吉斯在凡尔赛城堡当清洁工，维奥莱特很少跟他说话。维奥莱特几乎没有意识到，在这个令人生畏的地方，她会找到意想不到的避难所和一个新的家庭。",
-        "releaseDate": "2025-10-15",
-        "backdropPath": "/gp1SMXFgQFsimTFk4RlXent3rDY.jpg",
-        "posterPath": "/hhbdKdtaeSOWHSAYEATJXqSSK4z.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "动画, 家庭"
       },
       {
         "id": 1400793,
@@ -107,19 +107,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 1400381,
-        "type": "tmdb",
-        "title": "杰夫·巴克利，一切从未结束",
-        "originalTitle": "It's Never Over, Jeff Buckley",
-        "description": "尽管杰夫・巴克利在悲剧离世前仅发行过一张专辑，但在一部全新且令人震撼的影片中，他本人与他的音乐得以短暂 “重生”。  当大卫・鲍伊称你的专辑为 “有史以来最棒的专辑” 时，或许你已走在了正确的轨道上。可惜的是，杰夫・巴克利只来得及发行《Grace》（《恩赐》）这张专辑，便于 1997 年溺亡，年仅 30 岁。这无疑是一场彻头彻尾的悲剧。  导演艾米・伯格通过私密的日记条目与家庭录像，完整勾勒出这位美国歌手的形象。我们得以回溯他的童年 —— 那时父亲蒂姆・巴克利离家而去，最终因海洛因过量离世，年仅 28 岁。这样的经历会在灵魂上留下伤痕，再加上本就脆弱的内心，巴克利如流星般迅速蹿红的人生，既是恩赐，也是诅咒。  影片中藏有大量他成名前后的珍贵演唱会片段，还有与他最亲近之人的访谈。伯格的这部作品，是一份温柔的爱的告白，也是对这位拥有天籁之音的歌者恰如其分的告别与致谢。",
-        "releaseDate": "2025-08-08",
-        "backdropPath": "/rU0P9XGl2thKlC7BbOdGc1mQFQ7.jpg",
-        "posterPath": "/rrKe8bC6UKFKvfZHvbwA9Bq5hkR.jpg",
-        "rating": 7.79,
-        "mediaType": "movie",
-        "genreTitle": "纪录, 音乐"
-      },
-      {
         "id": 1430820,
         "type": "tmdb",
         "title": "执笔",
@@ -128,25 +115,25 @@
         "releaseDate": "2026-02-04",
         "backdropPath": "/xzY5ZwVZSMMn111DhNcQs2M3J9Q.jpg",
         "posterPath": "/iqeF5Yr65hPlEJojJGESjVclf6h.jpg",
-        "rating": 6.492,
+        "rating": 6.5,
         "mediaType": "movie",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 1662414,
+        "type": "tmdb",
+        "title": "单程夜航",
+        "originalTitle": "Propeller One-Way Night Coach",
+        "description": "在航空业的黄金时代，一名热爱飞机的男孩与母亲展开一段横跨全国前往好莱坞的旅程，一趟平凡的飞行之旅悄然成为了毕生难忘的回忆。",
+        "releaseDate": "2026-05-15",
+        "backdropPath": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
+        "posterPath": "/ixPNjwsJu0TA1ArkJozNzGW5sJX.jpg",
+        "rating": 6.7,
+        "mediaType": "movie",
+        "genreTitle": "冒险, 剧情"
       }
     ],
     "剧集·国内": [
-      {
-        "id": 309663,
-        "type": "tmdb",
-        "title": "COURT!",
-        "originalTitle": "COURT!",
-        "description": "基于不同观点角度、难以致信的巧合或为了维护更公平的法律原则，都影响着所有案件在法庭上的细节，令最终「真相」的呈现，面临着不同挑战和考验。",
-        "releaseDate": "2026-05-18",
-        "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
-        "posterPath": "/2QQwTXWloGjtQT9nET7hWSeB0y8.jpg",
-        "rating": 5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
       {
         "id": 284110,
         "type": "tmdb",
@@ -260,7 +247,7 @@
         "releaseDate": "2026-04-26",
         "backdropPath": "/aqq030HUpm2Ov4PpL006MaW5bw3.jpg",
         "posterPath": "/qUhPr2XpczJpnQnXIqJjYaCxOli.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       }
@@ -275,7 +262,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.438,
+        "rating": 9.458,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -314,7 +301,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 9,
+        "rating": 8.985,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -366,7 +353,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.223,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -392,7 +379,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.3,
+        "rating": 9.353,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       }
