@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-19T20:58:03.018Z",
+  "time": "2026-06-20T21:00:22.936Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
-        "rating": 7.745,
+        "rating": 7.589,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 8.011,
+        "rating": 7.989,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-02-17",
         "backdropPath": "/bRdiW7cyDXC9HWNLjCtZVGlMb6o.jpg",
         "posterPath": "/v92ViZmVkb6blW3TFHd3lKkoApD.jpg",
-        "rating": 5.727,
+        "rating": 6.083,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
         "posterPath": "/ixPNjwsJu0TA1ArkJozNzGW5sJX.jpg",
-        "rating": 6.7,
+        "rating": 6.635,
         "mediaType": "movie",
         "genreTitle": "冒险, 剧情"
       }
@@ -156,7 +156,7 @@
         "releaseDate": "2026-05-04",
         "backdropPath": "/6yd4BP7Mt2zpt63z2z6dizg6QMo.jpg",
         "posterPath": "/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
-        "rating": 8.029,
+        "rating": 7.861,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -260,9 +260,9 @@
         "originalTitle": "참교육",
         "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
         "releaseDate": "2026-06-05",
-        "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+        "backdropPath": "/fOV6dJGG6EghbeXkU7RVQpDhFyp.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.458,
+        "rating": 9.466,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.353,
+        "rating": 9.327,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       }
