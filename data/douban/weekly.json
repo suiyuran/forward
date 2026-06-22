@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-21T21:00:54.844Z",
+  "time": "2026-06-22T21:53:01.478Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
-        "rating": 7.586,
+        "rating": 7.584,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -22,9 +22,9 @@
         "originalTitle": "火遮眼",
         "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
         "releaseDate": "2026-06-10",
-        "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
+        "backdropPath": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 8.031,
+        "rating": 7.689,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-02-04",
         "backdropPath": "/xzY5ZwVZSMMn111DhNcQs2M3J9Q.jpg",
         "posterPath": "/iqeF5Yr65hPlEJojJGESjVclf6h.jpg",
-        "rating": 6.5,
+        "rating": 6.492,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/fOV6dJGG6EghbeXkU7RVQpDhFyp.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.48,
+        "rating": 9.492,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.944,
+        "rating": 8.95,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
         "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.1,
+        "rating": 8.19,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.226,
+        "rating": 8.202,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.33,
+        "rating": 9.322,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       }
