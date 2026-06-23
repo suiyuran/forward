@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-22T21:53:01.478Z",
+  "time": "2026-06-23T21:20:51.384Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
-        "rating": 7.584,
+        "rating": 7.549,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -22,9 +22,9 @@
         "originalTitle": "火遮眼",
         "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
         "releaseDate": "2026-06-10",
-        "backdropPath": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+        "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 7.689,
+        "rating": 7.612,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-02-04",
         "backdropPath": "/xzY5ZwVZSMMn111DhNcQs2M3J9Q.jpg",
         "posterPath": "/iqeF5Yr65hPlEJojJGESjVclf6h.jpg",
-        "rating": 6.492,
+        "rating": 6.5,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -142,7 +142,7 @@
         "description": "基于不同观点角度、难以致信的巧合或为了维护更公平的法律原则，都影响着所有案件在法庭上的细节，令最终「真相」的呈现，面临着不同挑战和考验。",
         "releaseDate": "2026-05-18",
         "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
-        "posterPath": "/2QQwTXWloGjtQT9nET7hWSeB0y8.jpg",
+        "posterPath": "/1mEuvUMkr8xpQoP8uekuxcE65A6.jpg",
         "rating": 5,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -273,9 +273,9 @@
         "originalTitle": "참교육",
         "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
         "releaseDate": "2026-06-05",
-        "backdropPath": "/fOV6dJGG6EghbeXkU7RVQpDhFyp.jpg",
+        "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.492,
+        "rating": 9.487,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.95,
+        "rating": 8.954,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
         "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.19,
+        "rating": 8.233,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-05-24",
         "backdropPath": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.4,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.202,
+        "rating": 8.214,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.322,
+        "rating": 9.331,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       }
