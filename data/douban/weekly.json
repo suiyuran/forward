@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-23T21:20:51.384Z",
+  "time": "2026-06-24T21:14:19.823Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
-        "rating": 7.549,
+        "rating": 7.553,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 7.612,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
         "posterPath": "/ixPNjwsJu0TA1ArkJozNzGW5sJX.jpg",
-        "rating": 6.6,
+        "rating": 6.671,
         "mediaType": "movie",
         "genreTitle": "冒险, 剧情"
       }
@@ -148,19 +148,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 284110,
-        "type": "tmdb",
-        "title": "主角",
-        "originalTitle": "主角",
-        "description": "多年前，县剧团招学员，在团里任司鼓的胡三元替外甥女报名，将年少的她改名易秦娥从家乡带出来学唱秦腔。因胡三元造成的事故，易秦娥受到影响，学习秦腔之路屡遭波折。但她凭借刻苦的劲头和自身的条件获得了老艺人的赏识和热情帮扶。她的“破蒙戏”在乡村舞台上音惊四座，后改名忆秦娥被调入省秦腔团。 她勤学苦练，在台上的演出屡获成功。历经波折，她终于明白对秦腔艺术的传承才是她作为“主角”的真正意义，她将继续培养新一代秦腔舞台上亮丽的主角。",
-        "releaseDate": "2026-05-10",
-        "backdropPath": "/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
-        "posterPath": "/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
-        "rating": 9.2,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 272432,
         "type": "tmdb",
         "title": "低智商犯罪",
@@ -172,6 +159,19 @@
         "rating": 7.861,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 284110,
+        "type": "tmdb",
+        "title": "主角",
+        "originalTitle": "主角",
+        "description": "多年前，县剧团招学员，在团里任司鼓的胡三元替外甥女报名，将年少的她改名易秦娥从家乡带出来学唱秦腔。因胡三元造成的事故，易秦娥受到影响，学习秦腔之路屡遭波折。但她凭借刻苦的劲头和自身的条件获得了老艺人的赏识和热情帮扶。她的“破蒙戏”在乡村舞台上音惊四座，后改名忆秦娥被调入省秦腔团。 她勤学苦练，在台上的演出屡获成功。历经波折，她终于明白对秦腔艺术的传承才是她作为“主角”的真正意义，她将继续培养新一代秦腔舞台上亮丽的主角。",
+        "releaseDate": "2026-05-10",
+        "backdropPath": "/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
+        "posterPath": "/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
+        "rating": 9.2,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": 289147,
@@ -208,7 +208,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/aqhB6P6x5wCk4lJqeXvRaD941xM.jpg",
         "posterPath": "/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
-        "rating": 7.1,
+        "rating": 7.111,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -226,19 +226,6 @@
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
-        "id": 317717,
-        "type": "tmdb",
-        "title": "果实",
-        "originalTitle": "果實",
-        "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
-        "releaseDate": "2026-03-27",
-        "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
-        "posterPath": "/vdB6e9slprXFhaeClQpfVw6FYOE.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 300239,
         "type": "tmdb",
         "title": "动物园",
@@ -252,17 +239,30 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 254498,
+        "id": 317717,
         "type": "tmdb",
-        "title": "黑夜告白",
-        "originalTitle": "黑夜告白",
-        "description": "1997年，一桩电梯失踪案，将刑警何远航（潘粤明 饰）、冉方旭（王鹤棣 饰）卷入迷雾。经历波折，两人也曾陷入迷茫与怀疑，最终揭开真相。岁月流转，治愈人生迷惘，坚守正义，以乐观坚韧化解磨难。",
-        "releaseDate": "2026-04-26",
-        "backdropPath": "/aqq030HUpm2Ov4PpL006MaW5bw3.jpg",
-        "posterPath": "/qUhPr2XpczJpnQnXIqJjYaCxOli.jpg",
-        "rating": 7.7,
+        "title": "果实",
+        "originalTitle": "果實",
+        "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
+        "releaseDate": "2026-03-27",
+        "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
+        "posterPath": "/vdB6e9slprXFhaeClQpfVw6FYOE.jpg",
+        "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "犯罪, 悬疑"
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 286438,
+        "type": "tmdb",
+        "title": "存酒人",
+        "originalTitle": "存酒人",
+        "description": "经营廿多年的「市井酒吧」快将结业，剩下十数支无人领取的存酒。老板雄哥主动把存酒归还给客人，还拉上年轻员工烨仔东奔西走，到处还酒。烨仔最初感到相当烦厌，过程中重遇不同存酒人，听他们的故事，得知每支酒对客人都有特别意义，烨仔因此明白雄哥为何执着于归还存酒，也更了解他经营酒吧的理念。坐落于隐蔽巷子的酒吧，还有看透世事的老酒保标叔和热衷钻研调酒的年轻酒保鬼妹，与烨仔份属好友，玩世不恭的阿当亦会在此驻唱。酒吧进入最后倒数，五人却为这里带来令人难以忘怀的灿烂时光。人来人往的酒吧，每个人只是过客，某晚喝不完的酒，存下的不只是酒，还有不同酒精浓度的故事。",
+        "releaseDate": "2025-12-22",
+        "backdropPath": "/oKw56QGp9fpIwiPpLXBM0MH2sgO.jpg",
+        "posterPath": "/dz06yunAZds9AEjFYZz7Iy1RjAF.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       }
     ],
     "剧集·国外": [
@@ -275,22 +275,22 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.487,
+        "rating": 9.469,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
       {
-        "id": 124101,
+        "id": 273240,
         "type": "tmdb",
-        "title": "绝望写手",
-        "originalTitle": "Hacks",
-        "description": "故事聚焦于拉斯维加斯的传奇喜剧演员黛博拉与自命不凡的叛逆25岁少女艾娃之间的黑暗师徒关系。",
-        "releaseDate": "2026-04-09",
-        "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
-        "posterPath": "/lREDe8HTA81Urfj6moo3NyLge2e.jpg",
-        "rating": 6,
+        "title": "校园之外",
+        "originalTitle": "Off Campus",
+        "description": "音乐系学生汉娜·威尔斯（艾拉·布赖特 饰）与校冰球队王牌、布莱尔鹰队队长加勒特·格雷厄姆（贝尔蒙特·卡梅利 饰）。二人达成协议，开启一段契约恋爱：汉娜假意和加勒特交往，借此博取心仪的音乐人贾斯汀的关注；作为交换，汉娜辅导加勒特补习，帮他通过哲学课程。朝夕相处间，汉娜与加勒特从假扮恋人慢慢动了真情，修成真正的情侣。",
+        "releaseDate": "2026-05-13",
+        "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+        "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
+        "rating": 8.945,
         "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
+        "genreTitle": "剧情"
       },
       {
         "id": 296286,
@@ -306,19 +306,6 @@
         "genreTitle": "动画, 剧情"
       },
       {
-        "id": 273240,
-        "type": "tmdb",
-        "title": "校园之外",
-        "originalTitle": "Off Campus",
-        "description": "音乐系学生汉娜·威尔斯（艾拉·布赖特 饰）与校冰球队王牌、布莱尔鹰队队长加勒特·格雷厄姆（贝尔蒙特·卡梅利 饰）。二人达成协议，开启一段契约恋爱：汉娜假意和加勒特交往，借此博取心仪的音乐人贾斯汀的关注；作为交换，汉娜辅导加勒特补习，帮他通过哲学课程。朝夕相处间，汉娜与加勒特从假扮恋人慢慢动了真情，修成真正的情侣。",
-        "releaseDate": "2026-05-13",
-        "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
-        "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.954,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 289424,
         "type": "tmdb",
         "title": "努力克服自卑的我们",
@@ -330,6 +317,19 @@
         "rating": 8.233,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 270476,
+        "type": "tmdb",
+        "title": "寡妇湾",
+        "originalTitle": "Widow's Bay",
+        "description": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+        "releaseDate": "2026-04-28",
+        "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+        "rating": 8.236,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 60625,
@@ -345,6 +345,19 @@
         "genreTitle": "动画, 喜剧"
       },
       {
+        "id": 295509,
+        "type": "tmdb",
+        "title": "菜鸟伙房兵",
+        "originalTitle": "취사병 전설이 되다",
+        "description": "姜成宰原本只是军中不起眼的菜鸟伙房兵，却意外在厨房中找到属于自己的战场，他以菜刀代替枪支、以围裙代替弹药带，在看似日常的炊事任务中，一步步成长为令人意想不到的传奇人物。",
+        "releaseDate": "2026-05-11",
+        "backdropPath": "/q1k3dLG367ugCKiCmeWooLy8v5A.jpg",
+        "posterPath": "/sTa8faUgKutR0C9yQyrRyd0VyAe.jpg",
+        "rating": 8.382,
+        "mediaType": "tv",
+        "genreTitle": "Sci-Fi & Fantasy, 喜剧"
+      },
+      {
         "id": 279884,
         "type": "tmdb",
         "title": "纳达尔",
@@ -353,22 +366,22 @@
         "releaseDate": "2026-05-29",
         "backdropPath": "/gHPr19knxIUckVn2r11Jjb4WvjM.jpg",
         "posterPath": "/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
-        "rating": 9.026,
+        "rating": 8.875,
         "mediaType": "tv",
         "genreTitle": "纪录"
       },
       {
-        "id": 270476,
+        "id": 299167,
         "type": "tmdb",
-        "title": "寡妇湾",
-        "originalTitle": "Widow's Bay",
-        "description": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-        "releaseDate": "2026-04-28",
-        "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-        "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.214,
+        "title": "达顿牧场",
+        "originalTitle": "Dutton Ranch",
+        "description": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
+        "releaseDate": "2026-05-15",
+        "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
+        "rating": 9.286,
         "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
+        "genreTitle": "西部, 剧情"
       },
       {
         "id": 276188,
@@ -382,19 +395,6 @@
         "rating": 10,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 299167,
-        "type": "tmdb",
-        "title": "达顿牧场",
-        "originalTitle": "Dutton Ranch",
-        "description": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
-        "releaseDate": "2026-05-15",
-        "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.331,
-        "mediaType": "tv",
-        "genreTitle": "西部, 剧情"
       }
     ]
   }
