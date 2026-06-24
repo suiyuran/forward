@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-23T17:49:02.266Z",
+  "time": "2026-06-24T17:50:50.324Z",
   "data": {
     "星期日": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-03-15",
         "backdropPath": "/nTDL4UmMLDBCeMtYh8F1LZtgmLV.jpg",
         "posterPath": "/ukjJ1nFjdmZwJMlEteWPShB5XH1.jpg",
-        "rating": 8.8,
+        "rating": 8.743,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-04-05",
         "backdropPath": "/z53MYSiEOGvQ3tcD51I3Sb35Frx.jpg",
         "posterPath": "/3HYUZAeE1WrA9ATGv6GjeyL6mOO.jpg",
-        "rating": 6.692,
+        "rating": 6.643,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -206,7 +206,7 @@
         "releaseDate": "2026-04-05",
         "backdropPath": "/seKQ4siIyJZAt3Xubijt5iXfjvA.jpg",
         "posterPath": "/lGyQoPUOqeTKhtu2HfBnmiojIQe.jpg",
-        "rating": 8.424,
+        "rating": 8.441,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -273,7 +273,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/cvvj1RXGmmAZ1FZr6CrUu8LgQm5.jpg",
         "posterPath": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
-        "rating": 8.624,
+        "rating": 8.62,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -286,7 +286,7 @@
         "releaseDate": "2026-04-06",
         "backdropPath": "/esmoeVNjHb4SAXRQJpkSoPX4nFB.jpg",
         "posterPath": "/ayhpfFHm1MtgPgLw3yN0euOUxsp.jpg",
-        "rating": 7.8,
+        "rating": 7.706,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -297,9 +297,9 @@
         "originalTitle": "異世界のんびり農家",
         "description": "在黑企业过度使用身体，与疾病斗争后丧命的青年街尾火乐，拿着神赐予的“万能农具”，在异世界与吸血鬼、天使、精灵等相遇，度过第二人生的异世界种田流奇幻故事。",
         "releaseDate": "2023-01-06",
-        "backdropPath": "/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
+        "backdropPath": "/zVKvOAwMwwLqGl5DR1FW5H5rYye.jpg",
         "posterPath": "/2GHqsL7lzgvzyTBMrfwk9IPy7nG.jpg",
-        "rating": 7.551,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -312,7 +312,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/Ag6VnSAb1g02YWHYxYFKRUiBtnc.jpg",
         "posterPath": "/1bBCTwdIDdau06vQaNWc7bHErqq.jpg",
-        "rating": 7.833,
+        "rating": 7.462,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
         "posterPath": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-        "rating": 8.423,
+        "rating": 8.45,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -405,7 +405,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/edyP3Y3j5M1aponwAtDEUtTlPIA.jpg",
         "posterPath": "/eYnYSnW5uWImX2DaG6AWLlvSeqj.jpg",
-        "rating": 7.921,
+        "rating": 7.925,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -418,7 +418,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/ytpYtFoZ7nZGvNHySLYufTFpZB9.jpg",
         "posterPath": "/5q8XXeKyc3KNpYcAT4afUdO7qoH.jpg",
-        "rating": 5.667,
+        "rating": 5.571,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -431,7 +431,7 @@
         "releaseDate": "2026-04-08",
         "backdropPath": "/zheGPQDo6pOM4Dg1sE6GB246Usp.jpg",
         "posterPath": "/2mKPAVGjFoO6gp3Hdv5ckrhFu0m.jpg",
-        "rating": 7.364,
+        "rating": 7.385,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
       },
@@ -444,7 +444,7 @@
         "releaseDate": "2026-04-07",
         "backdropPath": "/ekBMDoocqr5u0dBZRK9VFakyVBx.jpg",
         "posterPath": "/61DBRoCkWnh0uOTSCPoXHu2LOj5.jpg",
-        "rating": 5,
+        "rating": 4.5,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       }
@@ -479,7 +479,7 @@
       {
         "id": 274622,
         "type": "tmdb",
-        "title": "加油吧！中村君!!",
+        "title": "加油吧！中村君！！",
         "originalTitle": "ガンバレ！中村くん！！",
         "description": "｢怎么办，我好喜欢，真的超喜欢他……！｣ 主角中村男久斗，是个害羞内向、随处可见的男高中生。 在没有任何朋友的他面前，出现了同班同学––广濑爱贵。 这股心情到底是什么……！ ？ 明明从没说过话，但每天只要一见到广濑，心头都会怦怦乱跳，停不下来……！ ！ 以80～90年代的怀旧画风呈现，中村对广濑那充满妄想与暴走的单恋故事。春泥的超人气王道BL恋爱喜剧漫画──｢加油！中村同学！！｣正式改编电视动画！",
         "releaseDate": "2026-04-02",
@@ -511,7 +511,7 @@
         "releaseDate": "2016-04-04",
         "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
         "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
-        "rating": 7.928,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -535,7 +535,7 @@
         "originalTitle": "自動販売機に生まれ変わった俺は迷宮を彷徨う",
         "description": "自动贩卖机×怪力少女，两人（？）的冒险之旅启程——被卷入一场车祸意外的我，醒来之后，发现自己伫立在一片陌生的湖畔，不但身体动不了，也无法发出声音。因为这个莫名其妙的状况而陷入混乱，于是放声大喊的瞬间，我却听到一句出乎意料的台词——“如果中奖就能再来一瓶！”看……看样子，我似乎变成一台“自动贩卖机”了……！我能够选择的行动，“仅限于”自动贩卖机本身具备的功能。在无法自力行动、也不能跟他人对话的状态下，我能在异世界的迷宫存活下去吗？",
         "releaseDate": "2023-07-05",
-        "backdropPath": "/rJKANgQCrIPJV4a9BXwdw7d3BZr.jpg",
+        "backdropPath": "/iA6yYtTPPyyxH883WTYYrB3z0fv.jpg",
         "posterPath": "/eSQrTyg8Zvz7Ymy5oXFkuYu5ZIr.jpg",
         "rating": 6.8,
         "mediaType": "tv",
@@ -708,7 +708,7 @@
         "releaseDate": "2019-07-05",
         "backdropPath": "/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
         "posterPath": "/7GFo7yLsXmnIH6xOB3blY8KyAMd.jpg",
-        "rating": 8.539,
+        "rating": 8.54,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -890,9 +890,9 @@
         "originalTitle": "お隣の天使様にいつの間にか駄目人間にされていた件",
         "description": "高一学生藤宫周在升学后开始了他的独居生活。他所在的公寓隔壁，住着他们学校第一的美少女——椎名真昼。他们二人平时几乎没有交集。而一次大雨中，周把伞借给了浑身湿透的真昼。自此，二人便开始了奇妙的交流。周的懒散独居生活让真昼实在看不下去。她便开始为他做饭，打扫卫生，照顾他的起居。互为邻居的二人渐渐地开始对彼此有所了解。这是一个与可爱邻居之间的甜蜜又让人心急的恋爱故事——",
         "releaseDate": "2023-01-07",
-        "backdropPath": "/hZJglA9AC48swSFgzJCHG11B9zV.jpg",
+        "backdropPath": "/xT61K3zhGTix0O3H5BEcDLGDkk9.jpg",
         "posterPath": "/vNslQo6TikLZLXnHDda3PHJ3CG8.jpg",
-        "rating": 7.748,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -905,7 +905,7 @@
         "releaseDate": "2018-10-02",
         "backdropPath": "/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
         "posterPath": "/t0dG685BBauz3X687FEjlt8FnMK.jpg",
-        "rating": 8.421,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -918,7 +918,7 @@
         "releaseDate": "2020-07-11",
         "backdropPath": "/yozfbzwLhGe81YKTDoNDRdJrIuC.jpg",
         "posterPath": "/pp1gwYC7Jv36fEWEpPLpbJjuBTG.jpg",
-        "rating": 8.305,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1154,7 +1154,7 @@
         "releaseDate": "2026-04-05",
         "backdropPath": "/dot1NI6F5IrLck8xWIOn74ieaDH.jpg",
         "posterPath": "/z0BUpIh50GCN0EytvodWdkHTWZ.jpg",
-        "rating": 7.125,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
