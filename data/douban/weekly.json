@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-24T21:14:19.823Z",
+  "time": "2026-06-25T21:19:14.112Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
-        "rating": 7.553,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 7.6,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -208,7 +208,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/aqhB6P6x5wCk4lJqeXvRaD941xM.jpg",
         "posterPath": "/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
-        "rating": 7.111,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.469,
+        "rating": 9.5,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.945,
+        "rating": 8.928,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
         "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.233,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.236,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -338,7 +338,7 @@
         "originalTitle": "Rick and Morty",
         "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
         "releaseDate": "2026-05-24",
-        "backdropPath": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
         "rating": 8.3,
         "mediaType": "tv",
@@ -379,7 +379,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.286,
+        "rating": 9.3,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
