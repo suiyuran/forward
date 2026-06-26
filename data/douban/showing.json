@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-25T19:06:29.124Z",
+  "time": "2026-06-26T18:54:25.318Z",
   "data": [
     {
       "id": 1305672,
@@ -23,48 +23,35 @@
       "releaseDate": "2026-06-17",
       "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "posterPath": "/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
-      "rating": 7.427,
+      "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
     {
-      "id": 1579223,
+      "id": 1396674,
       "type": "tmdb",
-      "title": "北回归线以北",
-      "originalTitle": "北回归线以北",
-      "description": "影片讲述了三组怀揣不同心结的人开着房车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元哥入伙，拍摄青藏高原的雪豹；蜗居房车陪读三年的三口之家，夫妻俩为了完成儿子张匡匡的毕业心愿，踏上房车之旅；著名三甲医院主任程卉 退休第二天独自驾车去西部，寻找年轻时心中的夙愿，看一看初恋爱人红绢蝶。三组不同经历的人生，在旅途中遭遇各种啼笑皆非的意外，在一连串经历过后，人生的答案逐渐显现出来。",
-      "releaseDate": "2026-06-19",
-      "backdropPath": "/kyWGRvpNU7xSc4Yjf4eQw7BRRxk.jpg",
-      "posterPath": "/hTEBWl9OutI6PHt201yGfm1J9Sz.jpg",
-      "rating": 0,
+      "title": "一个部门的诞生",
+      "originalTitle": "一個部門的誕生",
+      "description": "电视台发生胁持事件，绑匪K仔不是为钱，只想把电视台月费终止。人质当劳为求自保，只想尽快了结，却没想过终止电视台月费竟是如此困难的事……",
+      "releaseDate": "2026-06-13",
+      "backdropPath": "/eW7S7tCPWQW50Bt1YHF0FPI1m16.jpg",
+      "posterPath": "/azv0T4WEDjaaRe7ZeiegUEsKMHs.jpg",
+      "rating": 9,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1081003,
+      "id": 1178574,
       "type": "tmdb",
-      "title": "超级少女",
-      "originalTitle": "Supergirl",
-      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
-      "releaseDate": "2026-06-23",
-      "backdropPath": "/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
-      "posterPath": "/qJDJ2NzoBfaPktg8Ic10Mx9tWX7.jpg",
-      "rating": 5.9,
+      "title": "爸爸",
+      "originalTitle": "爸爸",
+      "description": "失去了家人的阮永年（刘青云饰）如常回到茶餐厅开店，让自己感觉一切依旧，他活在回忆的日常里…… 妻子金燕（谷祖琳饰）准备早餐的厨房，儿子厚明（苏文涛饰）玩网路游戏的电脑桌，女儿厚恩（熊诺颐饰）收养的三色猫「三花」，还有一家人共进晚餐的快乐谷茶餐厅，仿佛那一夜从未将一切吞噬。  血缘的摰亲夺走了生命的挚爱，永年既无法憎恨生者，更无法忘记逝者，唯有回忆与幻想相濡以沫，让永年在迷茫的生活中找到一些真实感，纵与儿子一窗之隔，永年比以往更努力活得像一个「爸爸」。  父与子，这段窒息的关系会否迎来长夜尽头，成为彼此活着的救赎？",
+      "releaseDate": "2024-12-05",
+      "backdropPath": "/uXtdDvz7A4v8yc0HG1gC2HGuzWp.jpg",
+      "posterPath": "/bPpPAuonyLDqtF6ekTc7UqUVmwq.jpg",
+      "rating": 8.1,
       "mediaType": "movie",
-      "genreTitle": "动作, 冒险"
-    },
-    {
-      "id": 1280738,
-      "type": "tmdb",
-      "title": "火遮眼",
-      "originalTitle": "火遮眼",
-      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-      "releaseDate": "2026-06-10",
-      "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
-      "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
+      "genreTitle": "犯罪, 剧情"
     },
     {
       "id": 1604133,
@@ -75,9 +62,22 @@
       "releaseDate": "2026-06-26",
       "backdropPath": "/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
       "posterPath": "/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
-      "rating": 0,
+      "rating": 4,
       "mediaType": "movie",
       "genreTitle": "历史, 战争"
+    },
+    {
+      "id": 1280738,
+      "type": "tmdb",
+      "title": "火遮眼",
+      "originalTitle": "火遮眼",
+      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+      "releaseDate": "2026-06-10",
+      "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
+      "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 1318413,
@@ -93,6 +93,19 @@
       "genreTitle": "惊悚, 历史"
     },
     {
+      "id": 1081003,
+      "type": "tmdb",
+      "title": "超级少女",
+      "originalTitle": "Supergirl",
+      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
+      "releaseDate": "2026-06-23",
+      "backdropPath": "/70GFlSR8e4A4sUZtWril19Cucy7.jpg",
+      "posterPath": "/3bhjIqSsJFDchBCeaqCdsvy1byD.jpg",
+      "rating": 6.3,
+      "mediaType": "movie",
+      "genreTitle": "动作, 冒险"
+    },
+    {
       "id": 1435047,
       "type": "tmdb",
       "title": "爱是愤怒",
@@ -104,6 +117,19 @@
       "rating": 5,
       "mediaType": "movie",
       "genreTitle": "犯罪, 爱情"
+    },
+    {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "releaseDate": "2026-06-10",
+      "backdropPath": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "posterPath": "/2K7QsrRFmIjItosg8oKxjjnKgRo.jpg",
+      "rating": 6.699,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 惊悚"
     },
     {
       "id": 1269075,
@@ -119,30 +145,17 @@
       "genreTitle": "爱情, 科幻"
     },
     {
-      "id": 1275779,
+      "id": 1301421,
       "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "releaseDate": "2026-06-10",
-      "backdropPath": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "posterPath": "/2K7QsrRFmIjItosg8oKxjjnKgRo.jpg",
-      "rating": 6.707,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 惊悚"
-    },
-    {
-      "id": 1671548,
-      "type": "tmdb",
-      "title": "给阿嬷的情书",
-      "originalTitle": "给阿嬷的情书",
-      "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
+      "title": "绵羊侦探团",
+      "originalTitle": "The Sheep Detectives",
+      "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
       "releaseDate": "2026-04-30",
-      "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
-      "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
-      "rating": 9.2,
+      "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
+      "rating": 7.542,
       "mediaType": "movie",
-      "genreTitle": "剧情, 家庭"
+      "genreTitle": "喜剧, 家庭"
     },
     {
       "id": 1275051,
@@ -171,6 +184,19 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
+      "id": 1671548,
+      "type": "tmdb",
+      "title": "给阿嬷的情书",
+      "originalTitle": "给阿嬷的情书",
+      "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
+      "releaseDate": "2026-04-30",
+      "backdropPath": "/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
+      "posterPath": "/ePIAxow5xpinDIdwWELS3GtxpSD.jpg",
+      "rating": 9.2,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 家庭"
+    },
+    {
       "id": 454639,
       "type": "tmdb",
       "title": "宇宙巨人：希曼崛起",
@@ -179,7 +205,7 @@
       "releaseDate": "2026-06-03",
       "backdropPath": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "posterPath": "/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
-      "rating": 7.235,
+      "rating": 7.2,
       "mediaType": "movie",
       "genreTitle": "动作, 奇幻"
     },
@@ -192,22 +218,9 @@
       "releaseDate": "2026-05-20",
       "backdropPath": "/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
       "posterPath": "/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
-      "rating": 6.688,
+      "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "动作, 冒险"
-    },
-    {
-      "id": 1301421,
-      "type": "tmdb",
-      "title": "绵羊侦探团",
-      "originalTitle": "The Sheep Detectives",
-      "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
-      "releaseDate": "2026-04-30",
-      "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
-      "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 家庭"
     },
     {
       "id": 1368166,
@@ -221,6 +234,19 @@
       "rating": 7.267,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
+    },
+    {
+      "id": 1522776,
+      "type": "tmdb",
+      "title": "小气鬼",
+      "originalTitle": "小气鬼",
+      "description": "民乐团唢呐手高艺（孟鹤堂 饰）原是人见人嫌的小气鬼，这个把“省一分是一分”刻进DNA里的奇男子因三百块钱的贪念，受托临时照顾 一个4岁小男孩阿乌（包邮 饰），却不料男孩的母亲一去不返，老高原本平静的生活被突如其来的小男孩打破，两人被迫搭伙成为了“半路父子”。与此同时，唢呐技艺超群的老高对大提琴手温兰（管乐 饰）一见钟情，两人共同经历了一场惊心动魄的livehouse炸裂演出之后，老高向温兰展开了一系列抠搜绝伦的求爱攻势，在经历了一番番啼笑皆非的喜笑离合后，老高前半生坚守的金钱原则和人生态度似乎也开始在不经意间发生改变……",
+      "releaseDate": "2026-06-27",
+      "backdropPath": null,
+      "posterPath": "/sJVh2U27BXwnfT05kpLOmo0ZUop.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1714841,
@@ -249,6 +275,32 @@
       "genreTitle": "剧情, 爱情"
     },
     {
+      "id": 1579223,
+      "type": "tmdb",
+      "title": "北回归线以北",
+      "originalTitle": "北回归线以北",
+      "description": "影片讲述了三组怀揣不同心结的人开着房车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元哥入伙，拍摄青藏高原的雪豹；蜗居房车陪读三年的三口之家，夫妻俩为了完成儿子张匡匡的毕业心愿，踏上房车之旅；著名三甲医院主任程卉 退休第二天独自驾车去西部，寻找年轻时心中的夙愿，看一看初恋爱人红绢蝶。三组不同经历的人生，在旅途中遭遇各种啼笑皆非的意外，在一连串经历过后，人生的答案逐渐显现出来。",
+      "releaseDate": "2026-06-19",
+      "backdropPath": "/kyWGRvpNU7xSc4Yjf4eQw7BRRxk.jpg",
+      "posterPath": "/hTEBWl9OutI6PHt201yGfm1J9Sz.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1715479,
+      "type": "tmdb",
+      "title": "幻影游船",
+      "originalTitle": "幻影游船",
+      "description": "幻影号及其狩梦人小队，深入三层梦境：在“北冥之海”力战巨鲲，在“昆仑之巅”对决大鹏。主角柳嘉在绝境中集结团队力量，击败了最终梦魇，拯救了所有沉睡者，也为后续的星空航程与神秘组织的威胁埋下伏笔。",
+      "releaseDate": "2026-06-27",
+      "backdropPath": "/oTvcdQuNcIb8AtkxDFeS21D5FHN.jpg",
+      "posterPath": "/xqekZag8oc6LXGEsiyGRiEq9Oul.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动画"
+    },
+    {
       "id": 1658653,
       "type": "tmdb",
       "title": "消失的人",
@@ -275,19 +327,6 @@
       "genreTitle": "动作, 剧情"
     },
     {
-      "id": 1707968,
-      "type": "tmdb",
-      "title": "无微不至",
-      "originalTitle": "无微不至",
-      "description": "蒋小白因网赌欠下巨额债务，离家多年的父亲蒋大明突然病逝，为他留下一笔保险赔偿金。蒋大明生前好友陈浩和殡葬品网络主播与蒋小白一起踏上了从北京到长沙领取赔偿金的旅途，三人在途中遇到了形形色色的人物，经历了丰富多彩的冒险，也得出了各种各样的人生感悟，完成了与自己及原生家庭关系的和解。",
-      "releaseDate": "2026-06-19",
-      "backdropPath": null,
-      "posterPath": "/1XNzkCpnmdQ1YS8sxzZFhuK4oYR.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
-    },
-    {
       "id": 1174145,
       "type": "tmdb",
       "title": "钟馗",
@@ -299,6 +338,19 @@
       "rating": 6,
       "mediaType": "movie",
       "genreTitle": "动画, 动作"
+    },
+    {
+      "id": 1707968,
+      "type": "tmdb",
+      "title": "无微不至",
+      "originalTitle": "无微不至",
+      "description": "蒋小白因网赌欠下巨额债务，离家多年的父亲蒋大明突然病逝，为他留下一笔保险赔偿金。蒋大明生前好友陈浩和殡葬品网络主播与蒋小白一起踏上了从北京到长沙领取赔偿金的旅途，三人在途中遇到了形形色色的人物，经历了丰富多彩的冒险，也得出了各种各样的人生感悟，完成了与自己及原生家庭关系的和解。",
+      "releaseDate": "2026-06-19",
+      "backdropPath": null,
+      "posterPath": "/1XNzkCpnmdQ1YS8sxzZFhuK4oYR.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1698208,
@@ -314,19 +366,6 @@
       "genreTitle": "喜剧, 动作"
     },
     {
-      "id": 1319522,
-      "type": "tmdb",
-      "title": "心犬相随",
-      "originalTitle": "โกฮัง..หัวใจโกโฮม",
-      "description": "影片以细腻的叙事串联起三段跨越十年的缘分，透过一只狗纯净的眼睛，折射出人类的孤独、勇气与希望。\r 　　2016年，退休日本工程师弘志在泰国偶然遇见蜷缩在便利店外的小白狗“Gohan”。从最初简单的喂食，到后来深刻的陪伴，Gohan让他重新感受到生活的温情。\r 　　2021年，缅甸籍女佣南查目睹雇主虐待一只被遗弃的狗，毅然决定救走它，并将它改名为“Brownie”。一人一狗展开了一场惊心动魄的逃亡之旅。\r 　　2026年，迷茫的大学生佩莱遇见了一只年迈病重的流浪狗，他为它取名“Hima”。在照顾Hima最后时光的过程里，佩莱尝试挽回逝去的感情，也逐渐在痛苦与怜悯中学会了如何真正去爱。",
-      "releaseDate": "2026-04-02",
-      "backdropPath": "/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
-      "posterPath": "/tZILgLUZW8BjkydL31yhlaxcZdV.jpg",
-      "rating": 8.429,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1314481,
       "type": "tmdb",
       "title": "穿普拉达的女王2",
@@ -335,7 +374,7 @@
       "releaseDate": "2026-04-29",
       "backdropPath": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
       "posterPath": "/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
-      "rating": 6.549,
+      "rating": 6.547,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -353,6 +392,19 @@
       "genreTitle": "动作, 喜剧"
     },
     {
+      "id": 965150,
+      "type": "tmdb",
+      "title": "晒后假日",
+      "originalTitle": "Aftersun",
+      "description": "在一座日渐萧索的度假村里，11岁的苏菲珍藏着与深情而理想主义的父亲卡卢姆共度的罕见时光。当青春期世界悄然迫近时，苏菲未曾察觉的是：父亲正在父亲身份之外的生活重压下挣扎。二十年后，苏菲对那次最后假日的温柔追忆，逐渐凝结成一副关于他们关系的深刻而令人心碎的情感画卷——她试图将自己熟悉的父亲与那个不曾了解的男人重新拼合。夏洛特·威尔斯这部精湛而灼人的导演处女作，以记忆的微光重塑了爱与理解的沉默地带。",
+      "releaseDate": "2022-10-21",
+      "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
+      "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
+      "rating": 7.669,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 936075,
       "type": "tmdb",
       "title": "迈克尔·杰克逊：巨星之路",
@@ -364,19 +416,6 @@
       "rating": 8.691,
       "mediaType": "movie",
       "genreTitle": "音乐, 剧情"
-    },
-    {
-      "id": 965150,
-      "type": "tmdb",
-      "title": "晒后假日",
-      "originalTitle": "Aftersun",
-      "description": "在一座日渐萧索的度假村里，11岁的苏菲珍藏着与深情而理想主义的父亲卡卢姆共度的罕见时光。当青春期世界悄然迫近时，苏菲未曾察觉的是：父亲正在父亲身份之外的生活重压下挣扎。二十年后，苏菲对那次最后假日的温柔追忆，逐渐凝结成一副关于他们关系的深刻而令人心碎的情感画卷——她试图将自己熟悉的父亲与那个不曾了解的男人重新拼合。夏洛特·威尔斯这部精湛而灼人的导演处女作，以记忆的微光重塑了爱与理解的沉默地带。",
-      "releaseDate": "2022-10-21",
-      "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
-      "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1168719,
@@ -400,22 +439,9 @@
       "releaseDate": "2026-02-11",
       "backdropPath": "/yQFR8wxYfQwP5Rpr1gk6YlnkNJY.jpg",
       "posterPath": "/cRgLp1jyRDTeHcHFUNZvFF2hRTp.jpg",
-      "rating": 6.665,
+      "rating": 6.666,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
-    },
-    {
-      "id": 1492501,
-      "type": "tmdb",
-      "title": "10间敢死队",
-      "originalTitle": "10间敢死队",
-      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
-      "releaseDate": "2026-04-25",
-      "backdropPath": "/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
-      "posterPath": "/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 271706,
@@ -431,6 +457,19 @@
       "genreTitle": "动画, 冒险"
     },
     {
+      "id": 1492501,
+      "type": "tmdb",
+      "title": "10间敢死队",
+      "originalTitle": "10间敢死队",
+      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
+      "releaseDate": "2026-04-25",
+      "backdropPath": "/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
+      "posterPath": "/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
       "id": 110,
       "type": "tmdb",
       "title": "蓝白红三部曲之红",
@@ -439,22 +478,9 @@
       "releaseDate": "1994-05-12",
       "backdropPath": "/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
       "posterPath": "/5fkgMKovYZgbGngbHJg19zmsSaT.jpg",
-      "rating": 7.9,
+      "rating": 7.899,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 37247,
-      "type": "tmdb",
-      "title": "毕业生",
-      "originalTitle": "The Graduate",
-      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
-      "releaseDate": "1967-12-21",
-      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
-      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
-      "rating": 7.632,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 434773,
@@ -470,17 +496,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 64131,
+      "id": 1695202,
       "type": "tmdb",
-      "title": "坏血",
-      "originalTitle": "Mauvais Sang",
-      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
-      "releaseDate": "1986-11-26",
-      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
-      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
-      "rating": 7.1,
+      "title": "走马观花",
+      "originalTitle": "走马观花",
+      "description": "新波，丁大宁，郭华，程一木他们毕业于同一所大学。他们和很多年轻人一样，自以为是，敏感错弱，没有被认可的才华。他们来自不同的地方，却有一个共同的愿望“出人头地”。在经过几段荒唐的创业求职后，他们选择了逃离。从都市到县城再到无人区。  　　这是一部关于青年成长的故事，当他们面对婚姻，家庭，事业的时候，他们依旧像没有长大的孩子。可时间不会听你解释，它已经熟练的将你送入人生的另一个轨道。他们开始慌张，计划逃跑。像失恋的少女一般，指责对方的背叛，同时谁也无法忘记那些美好的时光。",
+      "releaseDate": "2026-06-12",
+      "backdropPath": "/nOOjZ2r4wmAbfOlMrksIDNa8RsZ.jpg",
+      "posterPath": "/aTQpYH2SZHIeHccDSk8lnV6wIsD.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
+      "genreTitle": "剧情"
     },
     {
       "id": 1226863,
@@ -496,17 +522,69 @@
       "genreTitle": "家庭, 喜剧"
     },
     {
-      "id": 175,
+      "id": 37247,
       "type": "tmdb",
-      "title": "碧海蓝天",
-      "originalTitle": "Le Grand Bleu",
-      "description": "杰克在希腊海边长大，虽然小时候眼看着爸爸死于一次潜水事故，却没有削减杰克对大海的热爱。当杰克的朋友恩佐找到他，劝说他参加潜水冠军大赛时，杰克答应了，在比赛中成绩突出勇夺冠军，并且得到了乔安娜的爱。两人打得火热，杰克却意识到他放不下、离不开大海。意外发生了。好友恩佐在潜水中不幸丧生，杰克把恩佐的尸首放入大海当中，杰克的心中非常迷乱，他觉得自己不再属于人类社会，只想潜进深海，像海豚一样陪伴大海一生。尽管传来了乔安娜怀孕的消息，杰克深情的看了看爱人，转身投入了大海的怀抱。",
-      "releaseDate": "1988-05-10",
-      "backdropPath": "/1J28PJOkusMN5Ab9Q3oF310e11k.jpg",
-      "posterPath": "/ikD0ORv6IXkupSEwXlgMDm5fPeX.jpg",
-      "rating": 7.444,
+      "title": "毕业生",
+      "originalTitle": "The Graduate",
+      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
+      "releaseDate": "1967-12-21",
+      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
+      "rating": 7.631,
       "mediaType": "movie",
-      "genreTitle": "爱情, 冒险"
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 785429,
+      "type": "tmdb",
+      "title": "森林之声",
+      "originalTitle": "OZI: Voice of the Forest",
+      "description": "印度尼西亚雨林的森林砍伐，一只名叫Ozi的十几岁的红毛猩猩被烧毁后成为孤儿。",
+      "releaseDate": "2024-03-07",
+      "backdropPath": "/9XBVJBj8smienzhkZ2ocW7fytWZ.jpg",
+      "posterPath": "/tEdEL8M58BDRJToH5kmqtIXWSh6.jpg",
+      "rating": 6.2,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
+    },
+    {
+      "id": 8073,
+      "type": "tmdb",
+      "title": "法外之徒",
+      "originalTitle": "Bande à part",
+      "description": "继《筋疲力尽》问世四年后，让-吕克·戈达尔以更激进的手法重构了黑帮电影范式。在这部作品中，两名躁动不安的年轻男子鼓动他们共同倾慕的女子协助实施一场发生在她自己家中的抢劫。这部兼具大胆锋芒与迷人影趣的法国新浪潮瑰宝，既流露着伤感情调又充满自由不羁的气质，既闪耀着浪漫星光又萦绕着淡淡哀愁。戈达尔在此片中创造了诸多影史留名的经典段落：卢浮宫内的狂奔场景与那段挥之不去的麦迪逊舞片段，已然成为电影史上永恒的时代印记。",
+      "releaseDate": "1964-08-05",
+      "backdropPath": "/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
+      "posterPath": "/zRvjanylCLPVMYdTGr56q368y5l.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 64131,
+      "type": "tmdb",
+      "title": "坏血",
+      "originalTitle": "Mauvais Sang",
+      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
+      "releaseDate": "1986-11-26",
+      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
+      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1628,
+      "type": "tmdb",
+      "title": "祖与占",
+      "originalTitle": "Jules et Jim",
+      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
+      "releaseDate": "1962-01-23",
+      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+      "posterPath": "/cjSxVSwVyqXHjcKOQAsr9LLqO7L.jpg",
+      "rating": 7.54,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 68883,
@@ -522,15 +600,28 @@
       "genreTitle": "剧情, 奇幻"
     },
     {
-      "id": 1628,
+      "id": 175,
       "type": "tmdb",
-      "title": "祖与占",
-      "originalTitle": "Jules et Jim",
-      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
-      "releaseDate": "1962-01-23",
-      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
-      "posterPath": "/cjSxVSwVyqXHjcKOQAsr9LLqO7L.jpg",
-      "rating": 7.54,
+      "title": "碧海蓝天",
+      "originalTitle": "Le Grand Bleu",
+      "description": "杰克在希腊海边长大，虽然小时候眼看着爸爸死于一次潜水事故，却没有削减杰克对大海的热爱。当杰克的朋友恩佐找到他，劝说他参加潜水冠军大赛时，杰克答应了，在比赛中成绩突出勇夺冠军，并且得到了乔安娜的爱。两人打得火热，杰克却意识到他放不下、离不开大海。意外发生了。好友恩佐在潜水中不幸丧生，杰克把恩佐的尸首放入大海当中，杰克的心中非常迷乱，他觉得自己不再属于人类社会，只想潜进深海，像海豚一样陪伴大海一生。尽管传来了乔安娜怀孕的消息，杰克深情的看了看爱人，转身投入了大海的怀抱。",
+      "releaseDate": "1988-05-10",
+      "backdropPath": "/1J28PJOkusMN5Ab9Q3oF310e11k.jpg",
+      "posterPath": "/ikD0ORv6IXkupSEwXlgMDm5fPeX.jpg",
+      "rating": 7.444,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 冒险"
+    },
+    {
+      "id": 4024,
+      "type": "tmdb",
+      "title": "去年在马里昂巴德",
+      "originalTitle": "L'Année dernière à Marienbad",
+      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
+      "releaseDate": "1961-09-29",
+      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
+      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
+      "rating": 7.439,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -561,32 +652,6 @@
       "genreTitle": "奇幻, 喜剧"
     },
     {
-      "id": 8073,
-      "type": "tmdb",
-      "title": "法外之徒",
-      "originalTitle": "Bande à part",
-      "description": "继《筋疲力尽》问世四年后，让-吕克·戈达尔以更激进的手法重构了黑帮电影范式。在这部作品中，两名躁动不安的年轻男子鼓动他们共同倾慕的女子协助实施一场发生在她自己家中的抢劫。这部兼具大胆锋芒与迷人影趣的法国新浪潮瑰宝，既流露着伤感情调又充满自由不羁的气质，既闪耀着浪漫星光又萦绕着淡淡哀愁。戈达尔在此片中创造了诸多影史留名的经典段落：卢浮宫内的狂奔场景与那段挥之不去的麦迪逊舞片段，已然成为电影史上永恒的时代印记。",
-      "releaseDate": "1964-08-05",
-      "backdropPath": "/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
-      "posterPath": "/zRvjanylCLPVMYdTGr56q368y5l.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 1035090,
-      "type": "tmdb",
-      "title": "维米尔·旷世大展",
-      "originalTitle": "Vermeer: The Greatest Exhibition",
-      "description": "2023年春季，阿姆斯特丹国家博物馆呈现有史以来规模最大的维梅尔展览。维梅尔用色独特，爱用群青蓝等昂贵颜料，擅长捕捉室内空间的光与影，以物件与人物的互动呈现岁月静好的人文气氛。观众能以电影形式享受这个一票难求的展览，并由阿姆斯特丹国家博物馆馆长和策展人亲自导赏，展览云集全球不同博物馆藏品，维梅尔35件已知作品中的28件稀世名画，包括著名的《戴珍珠耳环的少女》、《地理学家》、《倒牛奶的女仆》及《窗边读信的少女》等。阿姆斯特丹国家博物馆和海牙莫瑞泰斯皇家美术馆利用现代科技，对维梅尔的创作灵感和绘画过程进行深入研究。观众可在大银幕仔细欣赏维梅尔巨作的细节，并在专业鉴赏下深入了解其生平及创作内幕，沉浸在维梅尔的艺术世界中！",
-      "releaseDate": "2023-04-18",
-      "backdropPath": "/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
-      "posterPath": "/5FvXNMh346rWfNPlFlpgdAQXy8U.jpg",
-      "rating": 7.8,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 1657534,
       "type": "tmdb",
       "title": "蝴蝶楼·惊魂",
@@ -595,22 +660,9 @@
       "releaseDate": "2026-04-03",
       "backdropPath": null,
       "posterPath": "/xn3otFb9ARLNkFPUOYjD9Udtp5Y.jpg",
-      "rating": 3,
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "惊悚, 恐怖"
-    },
-    {
-      "id": 4024,
-      "type": "tmdb",
-      "title": "去年在马里昂巴德",
-      "originalTitle": "L'Année dernière à Marienbad",
-      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
-      "releaseDate": "1961-09-29",
-      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
-      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
-      "rating": 7.439,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 438148,
@@ -624,6 +676,19 @@
       "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
+    },
+    {
+      "id": 1035090,
+      "type": "tmdb",
+      "title": "维米尔·旷世大展",
+      "originalTitle": "Vermeer: The Greatest Exhibition",
+      "description": "2023年春季，阿姆斯特丹国家博物馆呈现有史以来规模最大的维梅尔展览。维梅尔用色独特，爱用群青蓝等昂贵颜料，擅长捕捉室内空间的光与影，以物件与人物的互动呈现岁月静好的人文气氛。观众能以电影形式享受这个一票难求的展览，并由阿姆斯特丹国家博物馆馆长和策展人亲自导赏，展览云集全球不同博物馆藏品，维梅尔35件已知作品中的28件稀世名画，包括著名的《戴珍珠耳环的少女》、《地理学家》、《倒牛奶的女仆》及《窗边读信的少女》等。阿姆斯特丹国家博物馆和海牙莫瑞泰斯皇家美术馆利用现代科技，对维梅尔的创作灵感和绘画过程进行深入研究。观众可在大银幕仔细欣赏维梅尔巨作的细节，并在专业鉴赏下深入了解其生平及创作内幕，沉浸在维梅尔的艺术世界中！",
+      "releaseDate": "2023-04-18",
+      "backdropPath": "/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
+      "posterPath": "/5FvXNMh346rWfNPlFlpgdAQXy8U.jpg",
+      "rating": 7.8,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 34838,
@@ -673,7 +738,7 @@
       "releaseDate": "2013-06-26",
       "backdropPath": "/uD267eSiACfWLxp47t3gYymOQRj.jpg",
       "posterPath": "/npLG8Q9ThX70bMlDfaXZIJNRuLW.jpg",
-      "rating": 6.9,
+      "rating": 6.946,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -704,6 +769,19 @@
       "genreTitle": "爱情, 剧情"
     },
     {
+      "id": 748783,
+      "type": "tmdb",
+      "title": "加菲猫家族",
+      "originalTitle": "The Garfield Movie",
+      "description": "加菲猫（克里斯·帕拉特 Chris Pratt 配音），这只全球闻名、厌恶星期一、对千层面情有独钟的宅猫，正准备开启一段疯狂的户外奇遇！在与他失散多年的亲生猫爸——不羁的流浪猫维克（塞缪尔·杰克逊 Samuel L. Jackson 配音）意外重聚后，加菲猫和他的狗狗伙伴欧迪被迫告别了安逸舒适的生活，卷入了一场搞笑又充满刺激的大冒险，而一直娇生惯养的加菲猫，将在这次冒险之旅中蜕变成为上天入地的“猫猫特工”，带着家族直面挑战、化解危机。",
+      "releaseDate": "2024-04-30",
+      "backdropPath": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+      "posterPath": "/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动画"
+    },
+    {
       "id": 1418531,
       "type": "tmdb",
       "title": "燃比娃",
@@ -728,32 +806,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动作"
-    },
-    {
-      "id": 748783,
-      "type": "tmdb",
-      "title": "加菲猫家族",
-      "originalTitle": "The Garfield Movie",
-      "description": "加菲猫（克里斯·帕拉特 Chris Pratt 配音），这只全球闻名、厌恶星期一、对千层面情有独钟的宅猫，正准备开启一段疯狂的户外奇遇！在与他失散多年的亲生猫爸——不羁的流浪猫维克（塞缪尔·杰克逊 Samuel L. Jackson 配音）意外重聚后，加菲猫和他的狗狗伙伴欧迪被迫告别了安逸舒适的生活，卷入了一场搞笑又充满刺激的大冒险，而一直娇生惯养的加菲猫，将在这次冒险之旅中蜕变成为上天入地的“猫猫特工”，带着家族直面挑战、化解危机。",
-      "releaseDate": "2024-04-30",
-      "backdropPath": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
-      "posterPath": "/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动画"
-    },
-    {
-      "id": 597316,
-      "type": "tmdb",
-      "title": "小马宝莉：新世代",
-      "originalTitle": "My Little Pony: A New Generation",
-      "description": "不可思议的事情发生了······小马利亚失去了魔力！陆马、独角兽和飞马不再是朋友，如今只有同种族的小马才会待在一起。但理想主义的年轻陆马桑尼（凡妮莎·哈金斯配音）决心找到一种方法，让世界重新拥有魔法并变得像以前一样团结。她与性格开朗的独角兽伊兹（贵美子·格伦配音）一起前往遥远的国度，在那里她们遇到了富有魅力且勇敢的飞马皮璞（索菲亚·卡尔森配音）和齐璞（丽兹·考什配音），以及使命感满满的陆马希区烈焰（詹姆斯·麦斯登配音）。他们在完成任务的过程中遇到了诸多困难，但每一位新的好朋友都有自己独一无二的天赋，这可能正是小马利亚恢复魔法所需要的东西，并证明了小马也能带来大改变。",
-      "releaseDate": "2021-09-22",
-      "backdropPath": "/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
-      "posterPath": "/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
-      "rating": 7.706,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
     },
     {
       "id": 10400,
@@ -795,17 +847,17 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1002640,
+      "id": 597316,
       "type": "tmdb",
-      "title": "Secrets of the Sea",
-      "originalTitle": "Secrets of the Sea",
-      "description": "",
-      "releaseDate": "2022-06-08",
-      "backdropPath": null,
-      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
-      "rating": 8,
+      "title": "小马宝莉：新世代",
+      "originalTitle": "My Little Pony: A New Generation",
+      "description": "不可思议的事情发生了······小马利亚失去了魔力！陆马、独角兽和飞马不再是朋友，如今只有同种族的小马才会待在一起。但理想主义的年轻陆马桑尼（凡妮莎·哈金斯配音）决心找到一种方法，让世界重新拥有魔法并变得像以前一样团结。她与性格开朗的独角兽伊兹（贵美子·格伦配音）一起前往遥远的国度，在那里她们遇到了富有魅力且勇敢的飞马皮璞（索菲亚·卡尔森配音）和齐璞（丽兹·考什配音），以及使命感满满的陆马希区烈焰（詹姆斯·麦斯登配音）。他们在完成任务的过程中遇到了诸多困难，但每一位新的好朋友都有自己独一无二的天赋，这可能正是小马利亚恢复魔法所需要的东西，并证明了小马也能带来大改变。",
+      "releaseDate": "2021-09-22",
+      "backdropPath": "/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+      "posterPath": "/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
+      "rating": 7.706,
       "mediaType": "movie",
-      "genreTitle": ""
+      "genreTitle": "动画, 家庭"
     },
     {
       "id": 916971,
@@ -819,6 +871,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
+    },
+    {
+      "id": 1002640,
+      "type": "tmdb",
+      "title": "Secrets of the Sea",
+      "originalTitle": "Secrets of the Sea",
+      "description": "",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": ""
     }
   ]
 }
