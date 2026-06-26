@@ -1,7 +1,20 @@
 {
-  "time": "2026-06-25T21:19:14.112Z",
+  "time": "2026-06-26T21:10:10.252Z",
   "data": {
     "电影": [
+      {
+        "id": 1084244,
+        "type": "tmdb",
+        "title": "玩具总动员5",
+        "originalTitle": "Toy Story 5",
+        "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
+        "releaseDate": "2026-06-17",
+        "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+        "posterPath": "/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
+        "rating": 7.4,
+        "mediaType": "movie",
+        "genreTitle": "动画, 家庭"
+      },
       {
         "id": 1318413,
         "type": "tmdb",
@@ -11,22 +24,9 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
-        "rating": 7.6,
+        "rating": 7.617,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
-      },
-      {
-        "id": 1280738,
-        "type": "tmdb",
-        "title": "火遮眼",
-        "originalTitle": "火遮眼",
-        "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-        "releaseDate": "2026-06-10",
-        "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
-        "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 7.7,
-        "mediaType": "movie",
-        "genreTitle": "动作, 犯罪"
       },
       {
         "id": 1489456,
@@ -42,6 +42,19 @@
         "genreTitle": "动画, 家庭"
       },
       {
+        "id": 1280738,
+        "type": "tmdb",
+        "title": "火遮眼",
+        "originalTitle": "火遮眼",
+        "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+        "releaseDate": "2026-06-10",
+        "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
+        "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
+        "rating": 7.7,
+        "mediaType": "movie",
+        "genreTitle": "动作, 犯罪"
+      },
+      {
         "id": 1174334,
         "type": "tmdb",
         "title": "大濛",
@@ -50,22 +63,48 @@
         "releaseDate": "2025-11-27",
         "backdropPath": "/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
         "posterPath": "/5nXkeQHSHPccTMllRZMURs790fR.jpg",
-        "rating": 7.4,
+        "rating": 7.521,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
       {
-        "id": 1005735,
+        "id": 1301421,
         "type": "tmdb",
-        "title": "水与茴香",
-        "originalTitle": "Acqua e anice",
-        "description": "奥林匹娅年过七旬依然沉湎于作为舞者与歌手的昔日荣光，在人生即将走到尽头之际，她决定与年轻姑娘玛利亚开启一趟回忆之旅。",
-        "releaseDate": "2022-11-03",
-        "backdropPath": "/eqRzPPzd40766fL2CyLhlGn0Ps5.jpg",
-        "posterPath": "/wUvlL69JfOQiAruLwMANTEVTjeu.jpg",
-        "rating": 7.1,
+        "title": "绵羊侦探团",
+        "originalTitle": "The Sheep Detectives",
+        "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
+        "releaseDate": "2026-04-30",
+        "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+        "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
+        "rating": 7.542,
         "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
+        "genreTitle": "喜剧, 家庭"
+      },
+      {
+        "id": 1305672,
+        "type": "tmdb",
+        "title": "抓特务",
+        "originalTitle": "抓特务",
+        "description": "1949年开国大典这天，刚入城改编成公安派出所所长的肖大力发现小学教员冯静波特嫌疑点重重。他本着军人的高度警惕和公安战士的责任感，硬是与冯搭做邻居，穷尽一生历尽磨难，进行了一场近四十年无怨无悔的追踪。影片根据张策同名小说改编。",
+        "releaseDate": "2026-06-19",
+        "backdropPath": "/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
+        "posterPath": "/xuLUtumvstPx00t3PBsLI7GTENA.jpg",
+        "rating": 5.667,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 犯罪"
+      },
+      {
+        "id": 1510325,
+        "type": "tmdb",
+        "title": "我的喜悦夏天",
+        "originalTitle": "Gioia mia",
+        "description": "一个男孩和一位老妇人被迫一起度过一个夏天。这是现代与传统、快速与缓慢之间的碰撞。这是一个充满恐惧和发现的夏天，但同样也有冒险、里程碑和失落——一个过后一切都将不再相同的夏天。",
+        "releaseDate": "2025-12-11",
+        "backdropPath": "/ccQ9abrYHA0aDmaZGqZ1zDaaUem.jpg",
+        "posterPath": "/kYw62IF023miZMKyiAqX4mYat3a.jpg",
+        "rating": 6.7,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
       },
       {
         "id": 1536559,
@@ -81,56 +120,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 1400793,
+        "id": 1427540,
         "type": "tmdb",
-        "title": "破石之刃",
-        "originalTitle": "Cutting Through Rocks",
-        "description": "作为伊朗村庄首位民选女议员，莎拉·沙赫韦尔迪决心打破根深蒂固的父权传统——她训练少女们骑摩托车，并阻止童婚陋习。但当有人质疑她\"赋权少女\"的真实动机时，她的身份与信念陷入前所未有的风暴。",
-        "releaseDate": "2025-09-27",
-        "backdropPath": "/rm6GcZxiBKze5haKZDxvKg7Uifv.jpg",
-        "posterPath": "/qefjf5TeM0uRzrFU2c4xYt6ew9z.jpg",
-        "rating": 7.7,
-        "mediaType": "movie",
-        "genreTitle": "纪录"
-      },
-      {
-        "id": 1462597,
-        "type": "tmdb",
-        "title": "明亮的日子",
-        "originalTitle": "A Vida Luminosa",
-        "description": "春意正浓，尼科劳刚刚年满二十四岁，但他并不想大张旗鼓地举办一场盛大的生日派对。他开始察觉到自己成为专业音乐家的梦想正在破灭，他仍然与父母同住，并且对前女友念念不忘。尽管他缺乏向前迈进的动力，但命运却向他抛出了几个机会，让他重新掌控自己的生活。",
-        "releaseDate": "2025-05-07",
-        "backdropPath": "/n7RIiElVfTBaEwTdgz6QPNwgRvn.jpg",
-        "posterPath": "/8gH62d0YZQmHuwfJFcToy7kmV8u.jpg",
+        "title": "心门之外",
+        "originalTitle": "Free at Heart",
+        "description": "16 岁的塞巴斯蒂安在小镇享受着青春时光：他最喜欢和女友在湖边喝着啤酒、抽着大麻度过夏日黄昏。直到同龄的科利亚突然以父亲已故友人之子的名义闯入他的家庭。这个男孩瞬间俘获了所有人的心，尤其是塞巴斯蒂安。随之而来的情感过山车以最强烈的力量将塞巴斯蒂安抛离日常轨道。",
+        "releaseDate": "2026-10-29",
+        "backdropPath": "/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
+        "posterPath": "/o3AQLEPNkdeib4Men0WSNs1ELIy.jpg",
         "rating": 0,
         "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1430820,
-        "type": "tmdb",
-        "title": "执笔",
-        "originalTitle": "À pied d’œuvre",
-        "description": "这个故事讲述一位事业有成的摄影师放弃一切投身写作，却陷入赤贫。这是一段清醒而自嘲的激进人生轨迹——一个愿为自由付出高昂代价的男人。",
-        "releaseDate": "2026-02-04",
-        "backdropPath": "/xzY5ZwVZSMMn111DhNcQs2M3J9Q.jpg",
-        "posterPath": "/iqeF5Yr65hPlEJojJGESjVclf6h.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1662414,
-        "type": "tmdb",
-        "title": "单程夜航",
-        "originalTitle": "Propeller One-Way Night Coach",
-        "description": "在航空业的黄金时代，一名热爱飞机的男孩与母亲展开一段横跨全国前往好莱坞的旅程，一趟平凡的飞行之旅悄然成为了毕生难忘的回忆。",
-        "releaseDate": "2026-05-15",
-        "backdropPath": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
-        "posterPath": "/ixPNjwsJu0TA1ArkJozNzGW5sJX.jpg",
-        "rating": 6.671,
-        "mediaType": "movie",
-        "genreTitle": "冒险, 剧情"
+        "genreTitle": "剧情, 家庭"
       }
     ],
     "剧集·国内": [
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.5,
+        "rating": 9.461,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.928,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-05-24",
         "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.3,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-05-29",
         "backdropPath": "/gHPr19knxIUckVn2r11Jjb4WvjM.jpg",
         "posterPath": "/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
-        "rating": 8.875,
+        "rating": 8.857,
         "mediaType": "tv",
         "genreTitle": "纪录"
       },
@@ -378,8 +378,8 @@
         "description": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "posterPath": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
-        "rating": 9.3,
+        "posterPath": "/5flBkpyqwxyq69HzRnV6XL8nOUa.jpg",
+        "rating": 9.288,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
