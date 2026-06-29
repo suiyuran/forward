@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-28T20:47:44.063Z",
+  "time": "2026-06-29T21:14:06.994Z",
   "data": {
     "电影": [
       {
@@ -9,9 +9,9 @@
         "originalTitle": "Toy Story 5",
         "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
         "releaseDate": "2026-06-17",
-        "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-        "posterPath": "/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
-        "rating": 7.461,
+        "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
+        "rating": 7.477,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-        "rating": 7.615,
+        "rating": 7.612,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 7.685,
+        "rating": 7.713,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -76,9 +76,9 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
         "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-        "rating": 7.772,
+        "rating": 7.8,
         "mediaType": "movie",
-        "genreTitle": "喜剧, 犯罪"
+        "genreTitle": "喜剧, 悬疑"
       },
       {
         "id": 1305672,
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.482,
+        "rating": 9.487,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.958,
+        "rating": 8.968,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-04-18",
         "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
         "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.222,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.228,
+        "rating": 8.233,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-05-11",
         "backdropPath": "/q1k3dLG367ugCKiCmeWooLy8v5A.jpg",
         "posterPath": "/sTa8faUgKutR0C9yQyrRyd0VyAe.jpg",
-        "rating": 8.472,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-05-29",
         "backdropPath": "/gHPr19knxIUckVn2r11Jjb4WvjM.jpg",
         "posterPath": "/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
-        "rating": 8.652,
+        "rating": 8.68,
         "mediaType": "tv",
         "genreTitle": "纪录"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/5flBkpyqwxyq69HzRnV6XL8nOUa.jpg",
-        "rating": 9.281,
+        "rating": 9.272,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
