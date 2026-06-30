@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-29T21:14:06.994Z",
+  "time": "2026-06-30T21:20:44.911Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
         "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-        "rating": 7.477,
+        "rating": 7.465,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-        "rating": 7.612,
+        "rating": 7.613,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 7.713,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -72,11 +72,11 @@
         "type": "tmdb",
         "title": "绵羊侦探团",
         "originalTitle": "The Sheep Detectives",
-        "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
+        "description": "影片改编自莱奥妮·斯万的畅销小说。牧羊人乔治最爱给羊群读侦探小说，没想到自己有一天会离奇死亡。他留下的3000万巨额遗产，让每个人貌似都有犯罪动机。警察毫无头绪之时，羊群们决定“不务正业”迈出牧场，追查牧羊人“躺平”真相！它们秉承着遇见麻烦就吃草，嗅到危险就躺倒的哲学，却迎来了一个意想不到的结果……",
         "releaseDate": "2026-04-30",
         "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
         "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-        "rating": 7.8,
+        "rating": 7.787,
         "mediaType": "movie",
         "genreTitle": "喜剧, 悬疑"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-12-11",
         "backdropPath": "/ccQ9abrYHA0aDmaZGqZ1zDaaUem.jpg",
         "posterPath": "/kYw62IF023miZMKyiAqX4mYat3a.jpg",
-        "rating": 6.676,
+        "rating": 6.692,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -143,7 +143,7 @@
         "releaseDate": "2026-05-18",
         "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
         "posterPath": "/1mEuvUMkr8xpQoP8uekuxcE65A6.jpg",
-        "rating": 5,
+        "rating": 5.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.487,
+        "rating": 9.491,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.968,
+        "rating": 8.969,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-04-28",
         "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.233,
+        "rating": 8.239,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -347,9 +347,9 @@
       {
         "id": 295509,
         "type": "tmdb",
-        "title": "菜鸟伙房兵",
+        "title": "菜鸟炊事兵",
         "originalTitle": "취사병 전설이 되다",
-        "description": "姜成宰原本只是军中不起眼的菜鸟伙房兵，却意外在厨房中找到属于自己的战场，他以菜刀代替枪支、以围裙代替弹药带，在看似日常的炊事任务中，一步步成长为令人意想不到的传奇人物。",
+        "description": "姜成宰原本只是军中不起眼的菜鸟炊事兵，却意外在厨房中找到属于自己的战场，他以菜刀代替枪支、以围裙代替弹药带，在看似日常的炊事任务中，一步步成长为令人意想不到的传奇人物。",
         "releaseDate": "2026-05-11",
         "backdropPath": "/q1k3dLG367ugCKiCmeWooLy8v5A.jpg",
         "posterPath": "/sTa8faUgKutR0C9yQyrRyd0VyAe.jpg",
@@ -366,7 +366,7 @@
         "releaseDate": "2026-05-29",
         "backdropPath": "/gHPr19knxIUckVn2r11Jjb4WvjM.jpg",
         "posterPath": "/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
-        "rating": 8.68,
+        "rating": 8.615,
         "mediaType": "tv",
         "genreTitle": "纪录"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "posterPath": "/5flBkpyqwxyq69HzRnV6XL8nOUa.jpg",
-        "rating": 9.272,
+        "rating": 9.28,
         "mediaType": "tv",
         "genreTitle": "西部, 剧情"
       },
