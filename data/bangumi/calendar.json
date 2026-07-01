@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-30T17:49:13.575Z",
+  "time": "2026-07-01T17:50:40.676Z",
   "data": {
     "星期日": [
       {
@@ -9,7 +9,7 @@
         "originalTitle": "二十世紀電氣目録-ユーレカ・エヴリカ-",
         "description": "故事发生在明治四十年（1907 年）在京都伏见居住的百川稻子什么都不擅长，每天都被父亲责骂，对于她来说的救赎就是祈祷神佛，某天一如往常她前往伏见稻荷神社参拜神明，遇到了一位自由奔放的少年坂本喜八，坂本喜八对稻子说不要信这些看不见的东西，从今之后将是电气时代。而此时稻子的 父亲对稻子说了关于结婚的事情，而且是父亲单方面决定的，稻子本来是放弃抵抗认为自己的价值就是如此，但坂本喜八打开了稻子想要离开这个家的心声，带着稻子离开了这个封闭的家。阻止结婚的方法是找出奇书《二十世纪电气目录》，那是喜八童年时代写下的关于电气的预言书，而喜八过去的哥哥清六带走这本书之后下落不明，喜八和稻子为了寻找这本奇书在京都和滋贺等地逃窜，消失的“电气目录”和其背后隐藏的秘密都等待揭开。",
         "releaseDate": "2026-07-05",
-        "backdropPath": "/eImcA39cNfJzCqczMEQT5FjSlPy.jpg",
+        "backdropPath": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
         "posterPath": "/canvlHpMsrzmGXbJDgjfapqODg1.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -23,7 +23,7 @@
         "description": "",
         "releaseDate": "2026-07-06",
         "backdropPath": "/2ZiCNiuOiUGfAF0j73RI8DX1Z1N.jpg",
-        "posterPath": "/eMXafJcr4MWb4X8JQ5nw5xPt6yM.jpg",
+        "posterPath": "/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
@@ -145,7 +145,7 @@
         "posterPath": "/tVsZgmz8GTnh1Br00HoWpR88ogt.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "动画"
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 284581,
@@ -273,8 +273,8 @@
         "originalTitle": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
         "description": "",
         "releaseDate": "2026-07-07",
-        "backdropPath": null,
-        "posterPath": "/6zC4Jnicxa5X5E3ux4rSQF6IUDS.jpg",
+        "backdropPath": "/yCRq49YINwI7psAK5VEzbKLLSFk.jpg",
+        "posterPath": "/zGNd9CG8RKovJXD2vDAPoE8bOzm.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -299,8 +299,8 @@
         "originalTitle": "きみが死ぬまで恋をしたい",
         "description": "孤儿院兼国家战用魔术武器育成机关收容无依的小孩，培养成战争用的魔术武器，死亡对在这里生活的孩子们来说稀松平常，无法尽情地表达悲伤。\n\n　　14岁少女席娜某天早上得知室友在战争中丧生，她压抑心中的悲伤，无法完全接纳自己的境遇。\n\n　　晚上她遇到一个满身血迹的少女——\n\n　　第二天，名叫美美的少女转进席娜的班上。\n\n　　有传闻说美美是学校的秘密武器，两人的邂逅，令席娜的心慢慢产生变化。",
         "releaseDate": "2026-07-07",
-        "backdropPath": "/gTIasTKripXRUSvsoJAk1bu0kCh.jpg",
-        "posterPath": "/ff1G9mLkK3Fzb8M1eKKj1lmPoi8.jpg",
+        "backdropPath": "/ppR5S0tqg53tVFA8Gc8CfkWkQG8.jpg",
+        "posterPath": "/73DZoZWswGICwZ8G287avfBUeYj.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
@@ -317,6 +317,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 326844,
+        "type": "tmdb",
+        "title": "百日成王",
+        "originalTitle": "百日成王",
+        "description": "",
+        "releaseDate": "2026-07-03",
+        "backdropPath": null,
+        "posterPath": "/5XbPHLjPf4WK1S7rH6htbjCcOAw.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 293629,
@@ -368,7 +381,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.742,
+        "rating": 8.743,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -380,7 +393,7 @@
         "description": "由变种人组成的X战警利用他们不可思议的天赋，保护一个痛恨又恐惧他们的世界，接受前所未有的挑战，并面临出乎意料的危险新未来。",
         "releaseDate": "2024-03-20",
         "backdropPath": "/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
-        "posterPath": "/i2odJ7r3z5u7h6azjWMnbntTqfV.jpg",
+        "posterPath": "/bujL5enSKGZB8U7dokyBcNbzXzB.jpg",
         "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -459,7 +472,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "posterPath": "/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
-        "rating": 7.44,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -533,7 +546,7 @@
       {
         "id": 312507,
         "type": "tmdb",
-        "title": "令和のダラさん",
+        "title": "令和的斑小姐",
         "originalTitle": "令和のダラさん",
         "description": "",
         "releaseDate": "2026-07-02",
@@ -591,7 +604,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/AsQ6QzR58WOfty0CFuICHmEDf5C.jpg",
         "posterPath": "/qGCl3jSfDIWHCnFAWeYlEZUbPP2.jpg",
-        "rating": 0,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
@@ -686,7 +699,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8.01,
+        "rating": 8.012,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -736,7 +749,7 @@
         "originalTitle": "BLACK TORCH",
         "description": "次郎是一个拥有与动物交谈能力的少年。从小由祖父抚养并接受忍者训练，他因与众不同而被他人疏远，却在动物中找到了慰藉，并致力于保护它们。一天，他救了一只受伤的黑猫——拉格，但很快发现它并非普通的猫，而是一只“物怪”，正被一个神秘组织追捕。面对这一情况，次郎毫不犹豫地决定帮助他的新朋友。",
         "releaseDate": "2026-07-04",
-        "backdropPath": "/qiOnISVoel2snYdxubdTAZjY8YE.jpg",
+        "backdropPath": "/goTFoBxSyLybVvlGa2Ke9uTchdF.jpg",
         "posterPath": "/g1cVGFne1lqUguswjG7vHoefwhN.jpg",
         "rating": 0,
         "mediaType": "tv",
