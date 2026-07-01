@@ -1,5 +1,5 @@
 {
-  "time": "2026-06-30T21:20:44.911Z",
+  "time": "2026-07-01T21:14:07.067Z",
   "data": {
     "电影": [
       {
@@ -9,9 +9,9 @@
         "originalTitle": "Toy Story 5",
         "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
         "releaseDate": "2026-06-17",
-        "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "backdropPath": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
         "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-        "rating": 7.465,
+        "rating": 7.429,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-        "rating": 7.613,
+        "rating": 7.602,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 7.7,
+        "rating": 7.717,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -76,9 +76,9 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
         "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-        "rating": 7.787,
+        "rating": 7.8,
         "mediaType": "movie",
-        "genreTitle": "喜剧, 悬疑"
+        "genreTitle": "冒险, 悬疑"
       },
       {
         "id": 1305672,
@@ -148,6 +148,32 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 311881,
+        "type": "tmdb",
+        "title": "欠你的那场婚礼",
+        "originalTitle": "欠妳的那場婚禮",
+        "description": "曾经凭一张帅脸与音乐才华风靡乐坛的「马子狗乐团」主唱周可杰（张孝全 饰），如今成了自我感觉良好、却再也写不出歌的落魄中年，更与妻子陈立璇（苏慧伦 饰）的关系降至冰点。他不明白：当年那个25岁出道即巅峰、意气风发的自己（朱轩洋 饰），为何会沦落至此？就在他试图挽救破碎的婚姻时，一场超现实的奇迹悄然降临，带领他重新找回爱的初衷。",
+        "releaseDate": "2026-06-20",
+        "backdropPath": "/A2D9PdJT6tGwFojrd8SWmSnkQuJ.jpg",
+        "posterPath": "/yeQpLBIXgSyobIGR5CbMOfnNJGR.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 233076,
+        "type": "tmdb",
+        "title": "问心",
+        "originalTitle": "问心",
+        "description": "两年后，周筱风援黔归来与林逸、方筱然会合，三人小分队再度并肩作战，但也面对全新挑战。周筱风自身执着奋进且严守医疗原则，机缘之下被破格提拔为东立医院史上最年轻的心内科执行主任。职位的晋升，让他看到了更多可能、面临更大考验，也颠覆了他与林逸方筱然间原本的关系，甚至医院内外的生态平衡也因此被打破。与此同时，他们还需要面对医生永远的对手——病魔。一个接一个的病人与他们身后的家庭期待医护联手拯救。理想与现实时时冲突，无奈和温暖往往共生，他们只有在奋斗中不断成长，继续保持着“问心无愧”。",
+        "releaseDate": "2026-06-18",
+        "backdropPath": "/xBI8m2aYsr9o4vtgbnI7wsewGc6.jpg",
+        "posterPath": "/sEyJgrm80Lad7MRMchh6ZrdoAAi.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 272432,
         "type": "tmdb",
         "title": "低智商犯罪",
@@ -156,7 +182,7 @@
         "releaseDate": "2026-05-04",
         "backdropPath": "/6yd4BP7Mt2zpt63z2z6dizg6QMo.jpg",
         "posterPath": "/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
-        "rating": 7.861,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -169,7 +195,7 @@
         "releaseDate": "2026-05-10",
         "backdropPath": "/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
         "posterPath": "/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
-        "rating": 9.2,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -187,19 +213,6 @@
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
-        "id": 275966,
-        "type": "tmdb",
-        "title": "家业",
-        "originalTitle": "家业",
-        "description": "明朝中期，一场贡墨案打破维持已久的徽州墨业格局，制墨百年世家李墨跌落神坛。李墨元气大伤，骆家墨业崛起，继李墨之后风光无两，最终因朝政牵连，也落得家败人亡。时光流转，李氏宗族八房幺女李祯为解决生计毅然走上制墨之路，凭借天资和努力成为徽州墨业黑马。骆家次子骆文谦为恢复家业筹谋布局，以一己之力搅动徽州墨业格局。他们二人与墨业新贵田墨家族斗智斗勇，李墨重回巅峰。海禁重开，面对海外墨业的挑战..",
-        "releaseDate": "2026-05-17",
-        "backdropPath": "/a2nFVWTNPXWjXwqYkllIIZ3C7TT.jpg",
-        "posterPath": "/fIdqYhJhuIGLMbWlvfZdIQalf2p.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 254486,
         "type": "tmdb",
         "title": "雨霖铃",
@@ -211,19 +224,6 @@
         "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 244189,
-        "type": "tmdb",
-        "title": "向流星许愿的我们",
-        "originalTitle": "向流星許願的我們",
-        "description": "在能以愿望交换现实的星浦屿，绝望的何向永许愿「想消失」，醒来竟变成被世界遗忘的「钟小右」，仅剩挚友李宛哲知情。同时，向永暗恋的皓维带着伤痛返岛，不自觉被小右吸引；而宛哲向流星祈求轰烈爱情，唤来了神秘渔工小海。 当愿望的代价浮现，记忆与身分面临消逝的危机。四人交织出两段命定却危险的爱恋，他们必须在幻影与真实间做出抉择，完成一段关于奇幻与自我救赎的疗愈之旅。",
-        "releaseDate": "2026-03-26",
-        "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
-        "posterPath": "/h24N0obh83475hufeu6sex4ZE18.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
         "id": 300239,
@@ -239,19 +239,6 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 317717,
-        "type": "tmdb",
-        "title": "果实",
-        "originalTitle": "果實",
-        "description": "有些情感，慢慢結成。一段關於成長與克制的故事。",
-        "releaseDate": "2026-03-27",
-        "backdropPath": "/vpB5mPSH4KrRhUBrueTknKsvt6c.jpg",
-        "posterPath": "/vdB6e9slprXFhaeClQpfVw6FYOE.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 286438,
         "type": "tmdb",
         "title": "存酒人",
@@ -263,9 +250,48 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 244189,
+        "type": "tmdb",
+        "title": "向流星许愿的我们",
+        "originalTitle": "向流星許願的我們",
+        "description": "在能以愿望交换现实的星浦屿，绝望的何向永许愿「想消失」，醒来竟变成被世界遗忘的「钟小右」，仅剩挚友李宛哲知情。同时，向永暗恋的皓维带着伤痛返岛，不自觉被小右吸引；而宛哲向流星祈求轰烈爱情，唤来了神秘渔工小海。 当愿望的代价浮现，记忆与身分面临消逝的危机。四人交织出两段命定却危险的爱恋，他们必须在幻影与真实间做出抉择，完成一段关于奇幻与自我救赎的疗愈之旅。",
+        "releaseDate": "2026-03-26",
+        "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
+        "posterPath": "/h24N0obh83475hufeu6sex4ZE18.jpg",
+        "rating": 7.875,
+        "mediaType": "tv",
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
       }
     ],
     "剧集·国外": [
+      {
+        "id": 308834,
+        "type": "tmdb",
+        "title": "绘梦婚礼",
+        "originalTitle": "วาดฝันวันวิวาห์",
+        "description": "被欢笑、笑容和祝福环绕的婚礼仅仅是爱情生活的起点。未来还有许多障碍等待着两人共同跨越。  Runch和Neen都曾梦想她们能够携手顺利通过所有考验，梦想能够长相厮守，梦想彼此相伴直至白头。然而，这个梦想却在某人猝不及防时迅速破碎…",
+        "releaseDate": "2026-06-19",
+        "backdropPath": "/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
+        "posterPath": "/o9JMPyerbm8epHfBoqLAKODmKhi.jpg",
+        "rating": 10,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 94997,
+        "type": "tmdb",
+        "title": "权力的游戏前传：龙族",
+        "originalTitle": "House of the Dragon",
+        "description": "黑党与绿党为争夺铁王座展开了一场全面而无情的战争。当群龙与大军在王国各地激战时，维斯特洛见证了全面战争带来的毁灭性后果。",
+        "releaseDate": "2026-06-21",
+        "backdropPath": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
+        "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
+        "rating": 7.2,
+        "mediaType": "tv",
+        "genreTitle": "Sci-Fi & Fantasy, 剧情"
+      },
       {
         "id": 276161,
         "type": "tmdb",
@@ -275,7 +301,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.491,
+        "rating": 9.48,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -288,22 +314,9 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.969,
+        "rating": 8.962,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 296286,
-        "type": "tmdb",
-        "title": "躲在超市后门抽烟的两人",
-        "originalTitle": "スーパーの裏でヤニ吸うふたり",
-        "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
-        "releaseDate": "2026-07-09",
-        "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
-        "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "动画, 剧情"
       },
       {
         "id": 289424,
@@ -319,19 +332,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 270476,
-        "type": "tmdb",
-        "title": "寡妇湾",
-        "originalTitle": "Widow's Bay",
-        "description": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-        "releaseDate": "2026-04-28",
-        "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-        "posterPath": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-        "rating": 8.239,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
         "id": 60625,
         "type": "tmdb",
         "title": "瑞克和莫蒂",
@@ -343,6 +343,32 @@
         "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 296286,
+        "type": "tmdb",
+        "title": "躲在超市后门抽烟的两人",
+        "originalTitle": "スーパーの裏でヤニ吸うふたり",
+        "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
+        "releaseDate": "2026-07-09",
+        "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
+        "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
+      },
+      {
+        "id": 284725,
+        "type": "tmdb",
+        "title": "曼哈顿打拼日记",
+        "originalTitle": "Not Suitable for Work",
+        "description": "聚焦于五个职场新鲜人，他们在纽约曼哈顿奋力追求事业成功，而个人幸福则往往只能排在职业规划之后。",
+        "releaseDate": "2026-06-02",
+        "backdropPath": "/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg",
+        "posterPath": "/gUoVQS9LkY3YuxtJv7iayo8Gr1a.jpg",
+        "rating": 5.838,
+        "mediaType": "tv",
+        "genreTitle": "喜剧"
       },
       {
         "id": 295509,
@@ -358,41 +384,15 @@
         "genreTitle": "Sci-Fi & Fantasy, 喜剧"
       },
       {
-        "id": 279884,
+        "id": 315758,
         "type": "tmdb",
-        "title": "纳达尔",
-        "originalTitle": "Rafa",
-        "description": "本片深入探讨了拉斐尔·纳达尔辉煌的网球职业生涯。除了介绍他的比赛表现外，还揭示了他的私人生活、鲜为人知的幕后故事，以及他在 2023 年克服伤病后，在 2024 年重新重返赛场的历程。",
-        "releaseDate": "2026-05-29",
-        "backdropPath": "/gHPr19knxIUckVn2r11Jjb4WvjM.jpg",
-        "posterPath": "/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
-        "rating": 8.615,
-        "mediaType": "tv",
-        "genreTitle": "纪录"
-      },
-      {
-        "id": 299167,
-        "type": "tmdb",
-        "title": "达顿牧场",
-        "originalTitle": "Dutton Ranch",
-        "description": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
-        "releaseDate": "2026-05-15",
-        "backdropPath": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "posterPath": "/5flBkpyqwxyq69HzRnV6XL8nOUa.jpg",
-        "rating": 9.28,
-        "mediaType": "tv",
-        "genreTitle": "西部, 剧情"
-      },
-      {
-        "id": 276188,
-        "type": "tmdb",
-        "title": "女校风云",
-        "originalTitle": "เด็ก เรียบ ร้าย",
-        "description": "剧情以泰国一所顶尖女子学校为背景，讲述了六名学生和一名老师引发了一场涉及丑闻、欲望和数字革命的风暴。当隐藏的爱情与秘密碰撞时，故事探讨了在病毒视频和取消文化盛行的时代中成长的意义。",
-        "releaseDate": "2026-04-18",
-        "backdropPath": "/lfICQwnICnGojvlMmrkcnLNt5iF.jpg",
-        "posterPath": "/doXEukBtoqRBSTIl8chMWGyc4Qo.jpg",
-        "rating": 10,
+        "title": "伪装的真实之吻",
+        "originalTitle": "フェイクファクトリップス",
+        "description": "本剧讲述业务部同期的四谷良与志藤全，自高中时代起就凡事较劲，成绩、运动、人气，甚至谁先升职都能拿来比个高下。多年后在公司意外重逢，曾被时间冲淡的竞争心再次燃起。两人即使成为同事，也习惯向对方发起新的挑战。一次玩笑般的「持久对决」让彼此的关系越界，情势从竞争逐渐转向亲密攻防。谁都不愿认输的他们，最终订下新的赌约──先攻陷对方、掳获芳心的人就算胜利！",
+        "releaseDate": "2026-04-24",
+        "backdropPath": "/8NsOscA4bfKVATaf3ZcWXIUdnjG.jpg",
+        "posterPath": "/j8RF51fG37ski8xmynpv7RjKTSx.jpg",
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
