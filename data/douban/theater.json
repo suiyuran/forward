@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-01T19:44:08.823Z",
+  "time": "2026-07-02T19:14:58.092Z",
   "data": {
     "爱奇艺·迷雾剧场": [
       {
@@ -13,7 +13,7 @@
         "posterPath": "/AqgGEVlAjWviqqFObM4bDKuDsR4.jpg",
         "rating": 8,
         "mediaType": "tv",
-        "genreTitle": "悬疑"
+        "genreTitle": "悬疑, 剧情"
       },
       {
         "id": 281495,
@@ -394,6 +394,19 @@
       }
     ],
     "优酷·白夜剧场": [
+      {
+        "id": 273114,
+        "type": "tmdb",
+        "title": "悬案",
+        "originalTitle": "悬案",
+        "description": "一桩悬案一个单元，两个单元一季悬案。《悬案》首季锁定《珠宝行连环劫案》《卞记旅馆灭门案》两个单元，在反其道而行的时间裂缝中解构罪恶对人的再塑造，也书写信念对人的再救赎。",
+        "releaseDate": "2026-07-03",
+        "backdropPath": "/hMAew4hKxZJeqqvYljhLpvS4OZA.jpg",
+        "posterPath": "/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "悬疑"
+      },
       {
         "id": 254498,
         "type": "tmdb",
@@ -953,7 +966,7 @@
         "releaseDate": "2023-04-22",
         "backdropPath": "/rCm6BJkkPukfHYWNNx7WkGpCdZH.jpg",
         "posterPath": "/tJLiKDYdfMskFkJXV1HnaQAdpGf.jpg",
-        "rating": 8.842,
+        "rating": 8.853,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       }
