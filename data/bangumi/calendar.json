@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-01T17:50:40.676Z",
+  "time": "2026-07-02T17:42:27.002Z",
   "data": {
     "星期日": [
       {
@@ -33,7 +33,7 @@
         "type": "tmdb",
         "title": "虽然我是不完美恶女 ～雏宫蝶鼠替换传～",
         "originalTitle": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
-        "description": "",
+        "description": "为了培养下一任妃子，从五大名门中召集姬君的宫殿——“雏宫”。五大名门之一、黄家的雏女玲琳美丽聪慧，被誉为“殿下的蝴蝶”，深受周围人的喜爱。然而，在乞巧节的夜晚，她与被称作恶女、遭众人厌恶的朱家雏女慧月交换了身体。当她醒来时，已被告知自己即将被处刑，陷入绝境。但自幼体弱多病、始终与死亡相伴的玲琳，反而为获得了健康的身体而感到高兴！？这场看似悲剧的身体互换，却并未击垮拥有钢铁般意志的玲琳。即使被流放到破烂不堪的荒凉小屋，她也依然尽情享受着自由。面对企图夺取她性命的人，她凭借天生的开朗与温柔打动对方，跨越了一个又一个逆境。另一方面，曾因嫉妒和憎恨玲琳的慧月，也在逐渐接触到真实的玲琳后，内心开始动摇——在彗星闪耀的夜晚交换身体的两人，自那天起命运发生了巨大改变，并终将被卷入一场撼动后宫的阴谋之中。性格截然相反的少女们所展开的后宫“身体互换”逆转剧，正式开幕！",
         "releaseDate": "2026-07-12",
         "backdropPath": "/iw8bfqec8so9QPqnd4XMaYFJFet.jpg",
         "posterPath": "/sdWNqtcPJpudPItPG3zBdyGyzTH.jpg",
@@ -83,7 +83,7 @@
       {
         "id": 302824,
         "type": "tmdb",
-        "title": "レッツゴー怪奇組",
+        "title": "Let's Go 怪奇组",
         "originalTitle": "レッツゴー怪奇組",
         "description": "",
         "releaseDate": "2026-07-05",
@@ -109,7 +109,7 @@
       {
         "id": 308403,
         "type": "tmdb",
-        "title": "鉄鍋のジャン！",
+        "title": "炒翻天",
         "originalTitle": "鉄鍋のジャン！",
         "description": "",
         "releaseDate": "2026-07-05",
@@ -128,7 +128,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.418,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -151,7 +151,7 @@
         "id": 284581,
         "type": "tmdb",
         "title": "最强出涸皇子的暗跃帝位争夺 虽然对帝位没兴趣，但我不想死所以让我弟当皇帝吧",
-        "originalTitle": "最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する",
+        "originalTitle": "最強出涸らし皇子の暗躍帝位争い",
         "description": "无能萎靡的皇子艾诺特声望低落。\n\n　　他生活浪荡，还被帝国上下看扁成「优点都被杰出的双胞胎弟弟吸收殆尽的『废渣皇子』」。\n\n　　然而，面临皇子间的帝位之争越趋激烈的危机，艾诺特终于决心拿出真本事。\n\n　　「我没有打算成为皇帝，但是要我被斗垮而死于非命嘛，想都别想。」\n\n　　深藏已久的稀世才智发挥出谋略与谈判术，再加上「操控古代禁忌魔法之顶尖SS级冒险者」的真正实力及其地位──\n\n　　掩饰真身于暗中活跃的废渣皇子将运用一切，并带着肯为他奉献的举国第一美姬，从幕后支配这场帝位之争！",
         "releaseDate": "2026-07-06",
         "backdropPath": null,
@@ -189,7 +189,7 @@
       {
         "id": 302051,
         "type": "tmdb",
-        "title": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
+        "title": "『你们先走我断后』，于是10年后我成为了传说",
         "originalTitle": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
         "description": "",
         "releaseDate": "2026-07-06",
@@ -215,9 +215,9 @@
       {
         "id": 309974,
         "type": "tmdb",
-        "title": "透明な夜に駆ける君と、目に見えない恋をした。",
+        "title": "与奔跑在透明之夜的你，谈一场看不见的恋爱。",
         "originalTitle": "透明な夜に駆ける君と、目に見えない恋をした。",
-        "description": "",
+        "description": "春日的夜晚，在大学宿舍室友鸣海的邀请下，空野驱参加了一场迎新联谊，遇见了失明的女生冬月小春。爱笑、会谈论梦想的她，与自己是截然相反的存在。从某天放学后捡到她的白手杖开始，两人之间的距离一点点拉近。“我想放烟花。”那一刻，他第一次直面蕴藏在她这句话中的光芒。看不见的她，与封闭内心的我。这是一个寻找光芒的两人所编织的，淡淡的恋爱故事。",
         "releaseDate": "2026-07-06",
         "backdropPath": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
         "posterPath": "/qbPEnASkv65oKE06wHefsHMcgA0.jpg",
@@ -381,7 +381,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.743,
+        "rating": 8.744,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -393,7 +393,7 @@
         "description": "由变种人组成的X战警利用他们不可思议的天赋，保护一个痛恨又恐惧他们的世界，接受前所未有的挑战，并面临出乎意料的危险新未来。",
         "releaseDate": "2024-03-20",
         "backdropPath": "/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
-        "posterPath": "/bujL5enSKGZB8U7dokyBcNbzXzB.jpg",
+        "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
         "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -418,9 +418,9 @@
         "originalTitle": "LV999の村人",
         "description": "",
         "releaseDate": "2026-07-02",
-        "backdropPath": "/z7lSMYbkFAuGTvnYRDM9ssekqTe.jpg",
+        "backdropPath": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
         "posterPath": "/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -472,7 +472,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "posterPath": "/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
-        "rating": 7.4,
+        "rating": 7.538,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -526,7 +526,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -535,7 +535,7 @@
         "type": "tmdb",
         "title": "BanG Dream! YUME∞MITA",
         "originalTitle": "バンドリ！ ゆめ∞みた",
-        "description": "",
+        "description": "「哔呀啊啊啊啊——！！！」\n\n为了乐团出道而突然集结的团员们！\n\n虽然每个人都拥有耀眼夺目的个性与实力，但现在的她们根本无法进行任何乐团活动。\n\n这群女孩，以及这个乐团，究竟能不能顺利存活下去呢！？\n\n「奋力挣扎吧，哪怕乐声止息。」",
         "releaseDate": "2026-07-02",
         "backdropPath": "/4ZqDVtJAG1NK7tWTUETlxE973Fl.jpg",
         "posterPath": "/g2rOrzJ2CrjuJeNErWJ1p1jGq6g.jpg",
@@ -550,22 +550,9 @@
         "originalTitle": "令和のダラさん",
         "description": "",
         "releaseDate": "2026-07-02",
-        "backdropPath": null,
+        "backdropPath": "/t9pxS8JUIya68VOIRVAu8rhbGZL.jpg",
         "posterPath": "/cxuYfX3M66tX9hAY5nx9VcV5AX5.jpg",
         "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "动画, 喜剧"
-      },
-      {
-        "id": 221165,
-        "type": "tmdb",
-        "title": "百姓贵族",
-        "originalTitle": "百姓貴族",
-        "description": "在成为漫画家之前，荒川弘（Hiromu Arakawa）在北海道农场工作了七年。她对农业工作中众多情感非常熟悉，通过一系列引人发笑的情节，捕捉了日本奶牛养殖业的严酷现实，同时也揭示了这种艰难而强大的生活方式。在她众多作品中，她以颂扬生活的喜悦而闻名。在这种类似论文的漫画中，荒川弘揭示了自己的根源以及关于农场生活的鲜为人知的真相。",
-        "releaseDate": "2023-07-07",
-        "backdropPath": "/17uNAe5wv1TGFWxRRiIyr7s3rIj.jpg",
-        "posterPath": "/gfaUr4Wan5BmJxoPOgX3S1lbXXu.jpg",
-        "rating": 4.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -619,7 +606,7 @@
         "releaseDate": "2024-08-01",
         "backdropPath": "/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
         "posterPath": "/nVdvMIroEKaCvcOgSjEWH4pua7y.jpg",
-        "rating": 7.245,
+        "rating": 7.248,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -628,7 +615,7 @@
         "type": "tmdb",
         "title": "描绘直至生命尽头",
         "originalTitle": "これ描いて死ね",
-        "description": "",
+        "description": "居住在东京都离岛伊豆王岛的高中一年级学生安海相。喜欢看漫画的她，因一次偶然的事件，让她开始意识到自己也想“创作”漫画……少女踏上的漫画创作之路，究竟会通向何方！？看似熟悉却又陌生的漫画创作世界。将孕育作品的痛苦与喜悦毫无保留地浓缩其中的漫画浪漫成长故事！！！献给所有热爱漫画的人！！",
         "releaseDate": "2026-07-03",
         "backdropPath": null,
         "posterPath": "/bycBcdf2LuM1kr1wQbgUgIWMOzf.jpg",
@@ -699,7 +686,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8.012,
+        "rating": 8.015,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -738,7 +725,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/Ab6pvysyQnsUsKKMQJAbsvqsb6S.jpg",
         "posterPath": "/alCZT7OuNNUj7IDoNFIen8DqCOL.jpg",
-        "rating": 6,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -786,7 +773,7 @@
         "type": "tmdb",
         "title": "成长秀～向日葵马戏团～",
         "originalTitle": "グロウアップショウ ～ひまわりのサーカス団～",
-        "description": "",
+        "description": "昭和30年代前后，日本正值高度经济增长期。在这个时代，马戏团作为娱乐的核心，深深地融入了人们的日常生活之中。为了争夺唯有顶尖马戏团才被允许参加的世界级盛典“Circus Collection”的资格，众多马戏团一边巡回日本各地演出，一边日复一日地激烈竞争。在常年资金短缺，艰苦巡演的“向日葵马戏团”面前，出现了因某种缘由而来的马戏天才鹤卷瑞佳。她与个性鲜明的“向日葵马戏团”团员们的相遇，究竟是偶然，还是必然……追逐梦想的少女们所描绘的独一无二马戏表演，现在开演！",
         "releaseDate": "2026-07-05",
         "backdropPath": "/bxH7TRRMNJnNQWYSbGkth1hCzkJ.jpg",
         "posterPath": "/gZtpp4njyNIT0v6bpOp295zg43.jpg",
