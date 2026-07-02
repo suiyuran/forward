@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-01T21:14:07.067Z",
+  "time": "2026-07-02T20:48:08.898Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
         "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-        "rating": 7.429,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-05-25",
         "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
         "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-        "rating": 7.602,
+        "rating": 7.573,
         "mediaType": "movie",
         "genreTitle": "惊悚, 历史"
       },
@@ -48,9 +48,9 @@
         "originalTitle": "火遮眼",
         "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
         "releaseDate": "2026-06-10",
-        "backdropPath": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
+        "backdropPath": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
         "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 7.717,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "动作, 犯罪"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
         "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-        "rating": 7.8,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "冒险, 悬疑"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-12-11",
         "backdropPath": "/ccQ9abrYHA0aDmaZGqZ1zDaaUem.jpg",
         "posterPath": "/kYw62IF023miZMKyiAqX4mYat3a.jpg",
-        "rating": 6.692,
+        "rating": 6.738,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -155,7 +155,7 @@
         "description": "曾经凭一张帅脸与音乐才华风靡乐坛的「马子狗乐团」主唱周可杰（张孝全 饰），如今成了自我感觉良好、却再也写不出歌的落魄中年，更与妻子陈立璇（苏慧伦 饰）的关系降至冰点。他不明白：当年那个25岁出道即巅峰、意气风发的自己（朱轩洋 饰），为何会沦落至此？就在他试图挽救破碎的婚姻时，一场超现实的奇迹悄然降临，带领他重新找回爱的初衷。",
         "releaseDate": "2026-06-20",
         "backdropPath": "/A2D9PdJT6tGwFojrd8SWmSnkQuJ.jpg",
-        "posterPath": "/yeQpLBIXgSyobIGR5CbMOfnNJGR.jpg",
+        "posterPath": "/jOgEViPr1YOv2B6tmMvrEiJNFS9.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -260,7 +260,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
         "posterPath": "/h24N0obh83475hufeu6sex4ZE18.jpg",
-        "rating": 7.875,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       }
@@ -274,7 +274,7 @@
         "description": "被欢笑、笑容和祝福环绕的婚礼仅仅是爱情生活的起点。未来还有许多障碍等待着两人共同跨越。  Runch和Neen都曾梦想她们能够携手顺利通过所有考验，梦想能够长相厮守，梦想彼此相伴直至白头。然而，这个梦想却在某人猝不及防时迅速破碎…",
         "releaseDate": "2026-06-19",
         "backdropPath": "/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
-        "posterPath": "/o9JMPyerbm8epHfBoqLAKODmKhi.jpg",
+        "posterPath": "/aGEoCdGpmIHvIkdkcPR0FSmmNt8.jpg",
         "rating": 10,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -286,9 +286,9 @@
         "originalTitle": "House of the Dragon",
         "description": "黑党与绿党为争夺铁王座展开了一场全面而无情的战争。当群龙与大军在王国各地激战时，维斯特洛见证了全面战争带来的毁灭性后果。",
         "releaseDate": "2026-06-21",
-        "backdropPath": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
+        "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 7.2,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.48,
+        "rating": 9.476,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.962,
+        "rating": 8.964,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-06-02",
         "backdropPath": "/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg",
         "posterPath": "/gUoVQS9LkY3YuxtJv7iayo8Gr1a.jpg",
-        "rating": 5.838,
+        "rating": 5.947,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
