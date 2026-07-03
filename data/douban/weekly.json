@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-02T20:48:08.898Z",
+  "time": "2026-07-03T20:49:21.602Z",
   "data": {
     "电影": [
       {
@@ -16,19 +16,6 @@
         "genreTitle": "动画, 家庭"
       },
       {
-        "id": 1318413,
-        "type": "tmdb",
-        "title": "诺曼底72小时",
-        "originalTitle": "Pressure",
-        "description": "聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
-        "releaseDate": "2026-05-25",
-        "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-        "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-        "rating": 7.573,
-        "mediaType": "movie",
-        "genreTitle": "惊悚, 历史"
-      },
-      {
         "id": 1489456,
         "type": "tmdb",
         "title": "我住在凡尔赛的日子",
@@ -42,17 +29,17 @@
         "genreTitle": "动画, 家庭"
       },
       {
-        "id": 1280738,
+        "id": 1339713,
         "type": "tmdb",
-        "title": "火遮眼",
-        "originalTitle": "火遮眼",
-        "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-        "releaseDate": "2026-06-10",
-        "backdropPath": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
-        "posterPath": "/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-        "rating": 7.7,
+        "title": "痴迷",
+        "originalTitle": "Obsession",
+        "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+        "releaseDate": "2026-05-13",
+        "backdropPath": "/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+        "posterPath": "/y9cuIc3fM6G3aIXySmDqsgRGUE1.jpg",
+        "rating": 8.155,
         "mediaType": "movie",
-        "genreTitle": "动作, 犯罪"
+        "genreTitle": "恐怖, 惊悚"
       },
       {
         "id": 1174334,
@@ -68,6 +55,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 1178574,
+        "type": "tmdb",
+        "title": "爸爸",
+        "originalTitle": "爸爸",
+        "description": "失去了家人的阮永年（刘青云饰）如常回到茶餐厅开店，让自己感觉一切依旧，他活在回忆的日常里…… 妻子金燕（谷祖琳饰）准备早餐的厨房，儿子厚明（苏文涛饰）玩网路游戏的电脑桌，女儿厚恩（熊诺颐饰）收养的三色猫「三花」，还有一家人共进晚餐的快乐谷茶餐厅，仿佛那一夜从未将一切吞噬。  血缘的摰亲夺走了生命的挚爱，永年既无法憎恨生者，更无法忘记逝者，唯有回忆与幻想相濡以沫，让永年在迷茫的生活中找到一些真实感，纵与儿子一窗之隔，永年比以往更努力活得像一个「爸爸」。  父与子，这段窒息的关系会否迎来长夜尽头，成为彼此活着的救赎？",
+        "releaseDate": "2024-12-05",
+        "backdropPath": "/uXtdDvz7A4v8yc0HG1gC2HGuzWp.jpg",
+        "posterPath": "/bPpPAuonyLDqtF6ekTc7UqUVmwq.jpg",
+        "rating": 8.1,
+        "mediaType": "movie",
+        "genreTitle": "犯罪, 剧情"
+      },
+      {
         "id": 1301421,
         "type": "tmdb",
         "title": "绵羊侦探团",
@@ -76,22 +76,35 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
         "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-        "rating": 7.7,
+        "rating": 7.754,
         "mediaType": "movie",
         "genreTitle": "冒险, 悬疑"
       },
       {
-        "id": 1305672,
+        "id": 1339588,
         "type": "tmdb",
-        "title": "抓特务",
-        "originalTitle": "抓特务",
-        "description": "1949年开国大典这天，刚入城改编成公安派出所所长的肖大力发现小学教员冯静波特嫌疑点重重。他本着军人的高度警惕和公安战士的责任感，硬是与冯搭做邻居，穷尽一生历尽磨难，进行了一场近四十年无怨无悔的追踪。影片根据张策同名小说改编。",
-        "releaseDate": "2026-06-19",
-        "backdropPath": "/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
-        "posterPath": "/xuLUtumvstPx00t3PBsLI7GTENA.jpg",
-        "rating": 5.8,
+        "title": "寻找艾米丽",
+        "originalTitle": "Finding Emily",
+        "description": "一个单相思的歌手拿到了梦中情人的错误电话号码。他和一个焦头烂额的心理学学生联手寻人，却在全校范围内引发了混乱和疯狂。这次经历，会是对他们决心和抱负的考验。",
+        "releaseDate": "2026-05-21",
+        "backdropPath": "/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
+        "posterPath": "/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
+        "rating": 6.706,
         "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "爱情, 喜剧"
+      },
+      {
+        "id": 614945,
+        "type": "tmdb",
+        "title": "真爱留声",
+        "originalTitle": "Voicemails for Isabelle",
+        "description": "年轻女子给已故姐姐发送的搞笑自白语音留言无意中被转给了陌生人，而这个陌生人竟隔着遥远的距离爱上了她。",
+        "releaseDate": "2026-06-20",
+        "backdropPath": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+        "posterPath": "/7F3XaVBrMLRAbMadwM8A9MViQkA.jpg",
+        "rating": 8.353,
+        "mediaType": "movie",
+        "genreTitle": "爱情, 喜剧"
       },
       {
         "id": 1510325,
@@ -102,35 +115,22 @@
         "releaseDate": "2025-12-11",
         "backdropPath": "/ccQ9abrYHA0aDmaZGqZ1zDaaUem.jpg",
         "posterPath": "/kYw62IF023miZMKyiAqX4mYat3a.jpg",
-        "rating": 6.738,
+        "rating": 6.773,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
       {
-        "id": 1536559,
+        "id": 1388338,
         "type": "tmdb",
-        "title": "双喜",
-        "originalTitle": "雙囍",
-        "description": "新郎高庭生与新娘吴黛玲在一生一次的大喜之日，面对多年来打死不相往来的男方父亲高盛宏与母亲白雁心争相主持儿子的终生大事，不愿得罪父母的高庭生只好联合岳父老吴、婚顾小芮、伴郎大蔡，试图瞒天过海在一天内完美举办两场婚礼。",
-        "releaseDate": "2026-02-17",
-        "backdropPath": "/bRdiW7cyDXC9HWNLjCtZVGlMb6o.jpg",
-        "posterPath": "/v92ViZmVkb6blW3TFHd3lKkoApD.jpg",
-        "rating": 6.4,
+        "title": "女孩不平凡",
+        "originalTitle": "女孩不平凡",
+        "description": "17岁的欣，身处去哪都不超过三十分钟的澳门。她的生活平凡，直到遇见学姐菲才开始思考自己是否可以过更多姿多彩的生活。22岁时，她在台湾就读新闻系，与女友晴同居，但毕业季的波澜让她陷入困境，无法决定未来。34岁的欣在香港打拼，试图摆脱“一片导演”的魔咒，亦面对来自适婚女友贝的压力。最终在贝的假结婚狂想中，欣领悟到做自己是最佳的生存之道。",
+        "releaseDate": "2025-12-18",
+        "backdropPath": "/1akICLWH45h7JrD3BY386CaB4Dy.jpg",
+        "posterPath": "/ca3sYBfU8D1p9TNhyEJ0hNxmq8l.jpg",
+        "rating": 5.5,
         "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1427540,
-        "type": "tmdb",
-        "title": "心门之外",
-        "originalTitle": "Free at Heart",
-        "description": "16 岁的塞巴斯蒂安在小镇享受着青春时光：他最喜欢和女友在湖边喝着啤酒、抽着大麻度过夏日黄昏。直到同龄的科利亚突然以父亲已故友人之子的名义闯入他的家庭。这个男孩瞬间俘获了所有人的心，尤其是塞巴斯蒂安。随之而来的情感过山车以最强烈的力量将塞巴斯蒂安抛离日常轨道。",
-        "releaseDate": "2026-10-29",
-        "backdropPath": "/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
-        "posterPath": "/o3AQLEPNkdeib4Men0WSNs1ELIy.jpg",
-        "rating": 0,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 家庭"
+        "genreTitle": "爱情"
       }
     ],
     "剧集·国内": [
@@ -288,7 +288,7 @@
         "releaseDate": "2026-06-21",
         "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 7.1,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.476,
+        "rating": 9.475,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.964,
+        "rating": 8.948,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-06-02",
         "backdropPath": "/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg",
         "posterPath": "/gUoVQS9LkY3YuxtJv7iayo8Gr1a.jpg",
-        "rating": 5.947,
+        "rating": 6.075,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
