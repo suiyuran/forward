@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-05T17:04:44.079Z",
+  "time": "2026-07-06T13:15:41.419Z",
   "data": {
     "星期日": [
       {
@@ -11,9 +11,22 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
         "posterPath": "/canvlHpMsrzmGXbJDgjfapqODg1.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
+      },
+      {
+        "id": 109805,
+        "type": "tmdb",
+        "title": "碧蓝航线：微速前行！",
+        "originalTitle": "アズールレーン びそくぜんしんっ！",
+        "description": "这一次，绝不打仗，就讲讲母港的故事。这里是被冠以舰船之名的少女们所居住的，完全不同的世界。在各种组织们相互协助建造的学园之内，少女们愉快的共同生活即将开始！",
+        "releaseDate": "2021-01-12",
+        "backdropPath": "/kuNbZYiODIgeSwf41ReSWtlcRIz.jpg",
+        "posterPath": "/967O92uCNCkZi5d8hT35ifvELcW.jpg",
+        "rating": 5.7,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 295071,
@@ -27,6 +40,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 94664,
+        "type": "tmdb",
+        "title": "无职转生：到了异世界就拿出真本事",
+        "originalTitle": "無職転生 ～異世界行ったら本気だす～",
+        "description": "“我要在这个异世界拿出真本事！”34岁童贞且无职的家里蹲男子，在父母的葬礼当天被赶出家门后，在路上被一辆卡车所撞死。意识清醒后，他发现自己居然作为一个刚出生的婴儿转生到了剑与魔法的异世界！像废物一样活过了前世的男子，发誓要作为少年·鲁迪乌斯在异世界以认真的态度好好活下去！等待着鲁迪乌斯的是，与娇小魔术师、有着精灵长耳又很男孩子气的美少女、凶暴的傲娇大小姐以及其他性格各异的人们之间的邂逅，当然也还有残酷的冒险与战斗。新的人生就要开始了！“人生重来型”幻想冒险谭，在此开幕！",
+        "releaseDate": "2021-01-11",
+        "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "posterPath": "/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
+        "rating": 8.524,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 动画"
       },
       {
         "id": 286345,
@@ -68,6 +94,19 @@
         "genreTitle": "动画, 喜剧"
       },
       {
+        "id": 1659389,
+        "type": "tmdb",
+        "title": "ONE PIECE HEROINES",
+        "originalTitle": "ONE PIECE HEROINES",
+        "description": "",
+        "releaseDate": "2026-07-05",
+        "backdropPath": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
+        "posterPath": "/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
+        "rating": 0,
+        "mediaType": "movie",
+        "genreTitle": "动画, 动作"
+      },
+      {
         "id": 300267,
         "type": "tmdb",
         "title": "世界最强的后卫 ～迷宫国的新人探索者～",
@@ -102,7 +141,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
         "posterPath": "/zlDw5KbBQ9LOz5ul3zx3CKaFgFi.jpg",
-        "rating": 8.1,
+        "rating": 8.125,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -141,7 +180,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.4,
+        "rating": 8.426,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -185,6 +224,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 123528,
+        "type": "tmdb",
+        "title": "骸骨骑士大人异世界冒险中",
+        "originalTitle": "骸骨騎士様、只今異世界へお出掛け中",
+        "description": "敘述主角「亚克」在玩线上RPG的过程中玩到睡着，一醒来发现自己以游戏角色的样貌出现在未知的异世界。而他的样貌，竟是外面穿着盔甲、里头全是骨头的骸骨骑士。觉得要是自己的真面目曝光，可能会被当成怪物消灭掉。因此他决定要尽量低调，然而却无法对眼前的恶行置之不理，骸骨骑士亚克无意识中「改变世界」的异世界奇幻故事，就此展开！",
+        "releaseDate": "2022-04-07",
+        "backdropPath": "/1K8E3DKa9vh758cA6s0xaR8168d.jpg",
+        "posterPath": "/yFa9LmAPpYipjkXw2U2xhAm0JS9.jpg",
+        "rating": 7.3,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 79166,
@@ -273,7 +325,7 @@
         "releaseDate": "2026-01-05",
         "backdropPath": "/1YYy81JProstVsNynO465ilMVAx.jpg",
         "posterPath": "/76VzGj5JENehcjWV4wK0LQKarhv.jpg",
-        "rating": 7.75,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -308,9 +360,9 @@
       {
         "id": 255358,
         "type": "tmdb",
-        "title": "攻壳机动队 THE GHOST IN THE SHELL",
+        "title": "新攻壳机动队",
         "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
-        "description": "",
+        "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/14udGIBIqwivmzW1f12sQoIsqsr.jpg",
@@ -407,9 +459,22 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.744,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
+      },
+      {
+        "id": 69346,
+        "type": "tmdb",
+        "title": "幼女战记",
+        "originalTitle": "幼女戦記",
+        "description": "统一历1923年6月。金发碧眼的幼女，谭雅·提古雷查夫，正作为部队勤务的一环而在北方军管区诺登战区第三巡逻线进行帝国军士官学校最终课程的研修。作为航空魔导师向着光辉履历踏出第一步的研修，平安无事地结束——本该如此。但事态却向着超出预料的方向转变。以协约联合的越境侵犯为契机，帝国与协约联合进入战争状态。随着转移至战时体制，谭雅被交付了观测任务，但协约联合军发动奇袭，谭雅陷入不得不与敌军魔导师中队单独交战的事态。敌众我寡，就连在我军抵达之前牵制敌军都无法做到，但逃跑的话则难免敌前逃亡的死罪，她面临这种绝望的状况。为了无论如何存活下去，并在面对高层时做到最好的应对，谭雅使用了某个战略……。“那是，披着幼女皮的怪物——。”",
+        "releaseDate": "2017-01-06",
+        "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
+        "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
       },
       {
         "id": 139512,
@@ -433,7 +498,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.6,
+        "rating": 8.558,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -451,6 +516,32 @@
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
       {
+        "id": 260823,
+        "type": "tmdb",
+        "title": "乡下大叔成了剑圣",
+        "originalTitle": "片田舎のおっさん、剣聖になる",
+        "description": "在偏远乡村经营道场的不起眼中年剑术老师，贝利尔·加德南特。以剑士巅峰为目标的日子已经远去，他与自身的实力妥协，悠闲度日。如今他的前徒弟之一，已经晋升为王国骑士团长的艾露西亚时隔十年来访了。“我推荐老师您担任骑士团专属特别教官，并成功获得了批准。”贝利尔原本认为，就这样在乡村宁静结束自己生涯也不要紧，但从此他的命运发生了剧变！城市生活。与成长巨大的前徒弟们重逢。邂逅新的伙伴，以及强敌。“对我一个过了巅峰期的大叔而言，这担子实在是太重了……”贝利尔虽然这么想，但长期以来不断认真锻炼的剑术已经达到了人称“乡下剑圣”的惊人境界......",
+        "releaseDate": "2025-04-05",
+        "backdropPath": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
+        "posterPath": "/fWLpYnmApgNQXOV80o72vevmZOI.jpg",
+        "rating": 7.2,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
+      },
+      {
+        "id": 308234,
+        "type": "tmdb",
+        "title": "一念永恒合集篇",
+        "originalTitle": "一念永恒合集篇",
+        "description": "(2025年12月11日 新出的合集篇-单集40分钟左右）【合集篇为正片剧情剪辑合并，与正片相比无新内容】一念永恒动画合集篇上线！助你畅爽补番，2025年12月11日起每日更1集",
+        "releaseDate": "2025-12-11",
+        "backdropPath": null,
+        "posterPath": "/4WAVsQIvdApDxwM4xUnPhw9fuNM.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画"
+      },
+      {
         "id": 298994,
         "type": "tmdb",
         "title": "LV999的村民",
@@ -458,8 +549,8 @@
         "description": "每个诞生在这个名为“阿斯克利亚”世界的人都会被赋予该扮演包括王族、勇者、贤者、战士、武斗家、僧侣、魔法师及只为了繁荣世界而存在最弱的“村民”等职业。在平均等级只有十级且没有战斗力导致只有依赖其他职业保护的村民中，出现了一个到达等级上限999的村民“镜浩二”。他在已经找不到赚钱以外生存价值之时，遇见本该被人类讨伐的魔族少女“艾莉丝”。这场邂逅也让“镜浩二”找到自己新价值，并决心踏上对抗世界的险恶道路。",
         "releaseDate": "2026-07-02",
         "backdropPath": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
-        "posterPath": "/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
-        "rating": 8.7,
+        "posterPath": "/pwtHWJ2yblGRJenW9THxGGDEjIZ.jpg",
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -548,7 +639,7 @@
         "type": "tmdb",
         "title": "花仙子之魔法香对论",
         "originalTitle": "花仙子之魔法香对论",
-        "description": "《花仙子之魔法香对论》是由东映动画 ，腾讯视频出品，东映动画，娃娃鱼动画工作室制作的作品。",
+        "description": "根据原作动画《花仙子》（东映动画）改编。 立志成为调香师的学徒露米在归家途中遭遇黑雾袭击，危难间在自称是花星使者的黑猫的指引下，唤醒了祖先留下的古董花钥匙的力量，并变身成为花仙子。 由于七色花被黑暗魔法侵蚀而凋零，七片花瓣散落在花都镇各处，导致异象频出蚕食人们的心智。为了花都镇的安危，露米作为继承了花仙血统的后人，肩负起净化并收集七片花瓣的使命，运用花香魔法驱散人们心中的黑暗，开启一场魔法少女的成长之旅。 而在这场冒险中，露米却遭到来自另一名神秘花仙子的攻击，而自己身边的这只黑猫竟也有着意想不到的身份……",
         "releaseDate": "2026-07-04",
         "backdropPath": "/oMY5XV1VQaUzCFBgRdDrhhAVBZ7.jpg",
         "posterPath": "/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
@@ -578,7 +669,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9,
+        "rating": 8.75,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -596,6 +687,19 @@
         "genreTitle": "动画, 喜剧"
       },
       {
+        "id": 110837,
+        "type": "tmdb",
+        "title": "文豪野犬 汪！",
+        "originalTitle": "文豪ストレイドッグス わん!",
+        "description": "西化的浪潮冲击之下的架空都市「横滨」中，以旧时文豪为名的人们使用着神秘的「异能力」进行着生死决斗的动作大作「文豪野犬」。哭泣、呐喊、以灵魂互相碰撞，奔走在生与死的界限的「武装侦探社」与「港口黑手党」的角色们居然——变成了可爱的Q版人物，装傻、吐槽，根本停不下来！？搞笑衍生动画，在此开幕！",
+        "releaseDate": "2021-01-13",
+        "backdropPath": "/qODR3gZVdmkSeBfr17ph28rn0J0.jpg",
+        "posterPath": "/rWuJSgsTCr4sT89OxsljUjSM41a.jpg",
+        "rating": 7.1,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
+      },
+      {
         "id": 312507,
         "type": "tmdb",
         "title": "令和的斑小姐",
@@ -603,7 +707,7 @@
         "description": "在深山中的村落里，有一处长久以来严禁进入的“禁忌之地”。那里伫立着一座外观诡异的神祠，据说只要踏入就会遭到作祟，甚至可能因此丧命。生于世代管理那座山的三十木谷家的日向与薰，在某个暴风雨之夜踏入禁地，遭遇了拥有巨大蛇身、会作祟的神灵·屋跨斑……然而，这对姐弟非但不害怕这只怪异，反而亲暱地唤她“斑小姐”，轻轻松松就跟她亲近了起来！“吾姑且也算是会作祟的神灵喔！？”被天不怕地不怕的日向与薰耍得团团转，回过神来，怪异竟成了吐槽役！？背负着悲伤过去的斑小姐，与自由过了头的姐弟，交织出既喧闹又温暖的日常——令和催生的新感觉灵异喜剧，就此揭幕！",
         "releaseDate": "2026-07-02",
         "backdropPath": "/t9pxS8JUIya68VOIRVAu8rhbGZL.jpg",
-        "posterPath": "/cxuYfX3M66tX9hAY5nx9VcV5AX5.jpg",
+        "posterPath": "/gYY22ONn1dg8ISPzCRRqSBdcPaA.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -630,7 +734,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 7,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -641,7 +745,7 @@
         "originalTitle": "ワールド イズ ダンシング",
         "description": "1374年，在南朝与北朝两个朝廷持续争斗的动乱时代，北朝的征夷大将军足利义满正一步步扩张自己的势力。\n\n少年鬼夜叉是演出猿乐的观世座座头观阿弥之子。\n\n对于「人为什么要跳舞」，他心中一直怀着说不清的疑惑，却始终找不到答案。\n\n直到某一天，他遇见了「美好」的舞。\n\n这个充满好奇心的美丽少年在与人相遇、欢笑、落泪，并面对自己软弱的同时，逐渐创造出属于无常乱世的新型舞艺。",
         "releaseDate": "2026-07-02",
-        "backdropPath": "/AsQ6QzR58WOfty0CFuICHmEDf5C.jpg",
+        "backdropPath": "/viXhoiWQbXZiTSTj9NbzDyEEm5Q.jpg",
         "posterPath": "/mbG3QYYqcZ8b6PSt6gQJquvsszQ.jpg",
         "rating": 7,
         "mediaType": "tv",
@@ -736,7 +840,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/xpTBqtyMY6YZuWuvE3yMQ2G68Fq.jpg",
         "posterPath": "/rsiaa0j80ZgD4z8QIO51gvpBMS6.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -793,6 +897,19 @@
         "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
+      },
+      {
+        "id": 1669841,
+        "type": "tmdb",
+        "title": "Bleach: Thousand-Year Blood War - The Calamity",
+        "originalTitle": "Bleach: Thousand-Year Blood War - The Calamity",
+        "description": "",
+        "releaseDate": "2026-06-25",
+        "backdropPath": "/fwdosqd1BW1tDlvaF9qhMuERQGY.jpg",
+        "posterPath": "/9HW5N89FN8hdo0PjbYiYVENBeH1.jpg",
+        "rating": 7.5,
+        "mediaType": "movie",
+        "genreTitle": "动作, 冒险"
       },
       {
         "id": 287075,
@@ -871,6 +988,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 220850,
+        "type": "tmdb",
+        "title": "炼气十万年",
+        "originalTitle": "炼气十万年",
+        "description": "十万年前，天岚宗叱咤修真界，宗内弟子皆是天骄，所向披靡。唯独开山弟子徐阳一直是炼气期，为突破修为早日飞升，徐阳闭关万年。谁知出关时，修真界已经没落，天岚宗也只剩三五弟子，眼见就要灭宗，徐阳击退强敌，誓要带领天岚宗重回巅峰！随着天岚宗势力扩大，徐阳修为停滞的真相也一步步的揭开，万年间，一个贯穿人、魔、仙三界的隐秘也展现在众人面前！究竟是一念成神，还是一念成魔？世界的生死就在徐阳的股掌之间！",
+        "releaseDate": "2023-02-18",
+        "backdropPath": "/iGJ9eOBsWcOPOQkZmH8LwWub4eL.jpg",
+        "posterPath": "/dZF7DTXgyoyshdALJLOrQ9Zj4Xz.jpg",
+        "rating": 8.6,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 312266,

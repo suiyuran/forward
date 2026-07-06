@@ -14,7 +14,7 @@ const CONFIG = {
   outputPath: "./data/bangumi/calendar.json",
 };
 const SEASON_REGEXP =
-  /(?<!^)((((Second|3rd|4rd|4th|Final) )?(Season|Volume|シーズン) ?[0-9]*|Prelude)|(第?([0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(终|終))((季|期)|(部分|クール)|(之|ノ)?章|シリーズ|(篇|編))?|[0-9]+$)/gi;
+  /(?<!^)((((Second|2nd|3rd|4rd|4th|Final) )?(Season|Volume|シーズン) ?[0-9]*|Prelude)|(第?(?:[0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(?:终|終))((?:季|期)|(?:部分|クール)|(?:之|ノ)?章|シリーズ|(?:篇|編))|[0-9]+$)/gi;
 const SPECIAL_PARTS = [
   "TV剪辑版",
   "TV Edition",
@@ -32,13 +32,35 @@ const SPECIAL_PARTS = [
   "エルバフ編",
   "丧失篇",
   "喪失編",
+  "～到了异世界就拿出真本事～",
+  "～異世界行ったら本気だす～",
+  "学长驾到请指教",
+  "10周年纪念特别篇",
+  "あっとほーむぱーてぃー",
+  "特别篇 阳极天下",
+  "大明皇朝篇",
+  "试播片",
+  "Pilot Film",
+  "完结季",
 ];
 const TITLE_RECORD: Record<string, string> = {
   航海王: "tt0388629",
 };
 
 function handleTitle(title: string) {
-  return SPECIAL_PARTS.reduce((acc, part) => acc.replace(part, ""), title.replaceAll(SEASON_REGEXP, "")).trim();
+  // 1. remove season-like suffixes (e.g. "第11季")
+  const withoutSeason = title.replaceAll(SEASON_REGEXP, "");
+  // 2. remove known special parts
+  const withoutSpecial = SPECIAL_PARTS.reduce((acc, part) => acc.replaceAll(part, ""), withoutSeason);
+  // 3. remove Unicode Roman numerals (e.g. ⅠⅡⅢ)
+  let s = withoutSpecial.replace(/[\u2160-\u216F\u2170-\u217F]+/gu, "");
+  // 4. remove trailing bracketed numerals like " (2)" or "（２）"
+  s = s.replace(/[\s(\[（]+[0-9０-９]+[)\]）]+$/u, "");
+  // 5. remove trailing standalone digits (ASCII and fullwidth), possibly preceded by separators
+  s = s.replace(/(?:[\s\-–—:：·・_]+)?[0-9０-９]+$/u, "");
+  // 6. remove trailing part indicators like "上", "下", "上篇", "下篇", etc.
+  s = s.replace(/\s*(?:上|下|上部|下部|上篇|下篇|前篇|后篇|後編|前編|下編|上編|下集)$/u, "");
+  return s.trim();
 }
 
 function isAnime(result: TMDBTransformedResult) {
@@ -97,9 +119,13 @@ async function main() {
             continue;
           }
         }
-        const results = await searchTMDBResults("tv", originalName, year);
-        const availableResults = results.filter(isAvailableTMDBResult);
+        const tvResults = await searchTMDBResults("tv", originalName, year);
+        let availableResults = tvResults.filter(isAvailableTMDBResult);
 
+        if (availableResults.length === 0) {
+          const movieResults = await searchTMDBResults("movie", originalName, year);
+          availableResults = movieResults.filter(isAvailableTMDBResult);
+        }
         if (availableResults.length === 1) {
           const onlyResult = availableResults[0];
           console.log(`    TMDB ID: ${onlyResult.id}`);
