@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-05T20:43:26.367Z",
+  "time": "2026-07-06T21:16:54.844Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
         "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-        "rating": 7.403,
+        "rating": 7.406,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -35,9 +35,9 @@
         "originalTitle": "Obsession",
         "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
         "releaseDate": "2026-05-13",
-        "backdropPath": "/diOZbaDnB2CIilwd0527AB1qMvW.jpg",
-        "posterPath": "/mW8QTP2wNE1LF0MtHAyTTjhzg3L.jpg",
-        "rating": 8.222,
+        "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "posterPath": "/y9cuIc3fM6G3aIXySmDqsgRGUE1.jpg",
+        "rating": 8.244,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
         "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-        "rating": 7.772,
+        "rating": 7.789,
         "mediaType": "movie",
         "genreTitle": "悬疑, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-20",
         "backdropPath": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
         "posterPath": "/7F3XaVBrMLRAbMadwM8A9MViQkA.jpg",
-        "rating": 8.369,
+        "rating": 8.356,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-06-21",
         "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 6.9,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.447,
+        "rating": 9.448,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.97,
+        "rating": 8.968,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-05-24",
         "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.4,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-06-02",
         "backdropPath": "/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg",
         "posterPath": "/gUoVQS9LkY3YuxtJv7iayo8Gr1a.jpg",
-        "rating": 6.186,
+        "rating": 6.182,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-04-24",
         "backdropPath": "/8NsOscA4bfKVATaf3ZcWXIUdnjG.jpg",
         "posterPath": "/j8RF51fG37ski8xmynpv7RjKTSx.jpg",
-        "rating": 8.1,
+        "rating": 8.25,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
