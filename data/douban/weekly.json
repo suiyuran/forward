@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-06T21:16:54.844Z",
+  "time": "2026-07-07T21:11:17.877Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
         "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-        "rating": 7.406,
+        "rating": 7.399,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
         "posterPath": "/y9cuIc3fM6G3aIXySmDqsgRGUE1.jpg",
-        "rating": 8.244,
+        "rating": 8.259,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
         "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-        "rating": 7.789,
+        "rating": 7.796,
         "mediaType": "movie",
         "genreTitle": "悬疑, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-20",
         "backdropPath": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
         "posterPath": "/7F3XaVBrMLRAbMadwM8A9MViQkA.jpg",
-        "rating": 8.356,
+        "rating": 8.369,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -217,7 +217,7 @@
         "type": "tmdb",
         "title": "雨霖铃",
         "originalTitle": "雨霖铃",
-        "description": "已身居御前四品带刀护卫的展昭，在收到故友留下的悬案证据后只身探寻线索，却遭遇各方势力袭杀，并在途中结识了才貌双全、天性不屈的玲珑山庄大小姐霍玲珑，以及满腔热血、以暴制恶的“锦毛鼠”白玉堂。志同道合的三人一路搜寻线索，行侠仗义，捉拿罪犯，撕破襄阳王多年来编织的遍布朝野和江湖的势力网，最终挫败了襄阳王的阴谋，还百姓安宁。",
+        "description": "北宋仁宗年间，襄阳王暗中勾结各方势力意欲谋反。御前四品带刀护卫展昭（杨洋 饰）为追查故友留下的襄阳王谋反悬案线索，孤身前往襄州。途中他意外卷入纷争，结识了闯荡江湖的霍玲珑（章若楠 饰），并一起救下苌弘璧。展昭自知在劫难逃，将证据托付给霍玲珑后，以身为饵牵制敌人，力竭被俘。危急关头，幸得锦毛鼠白玉堂（方逸伦 饰）相救，展昭才得以脱身。\n\n面对襄阳王及其四大神君的步步紧逼，背负污名的展昭与霍玲珑、白玉堂联手追查线索，撕破襄阳王多年来编织的遍布朝野和江湖的势力网。三人最终掌握襄阳王勾结黑白两道、鱼肉百姓、通敌叛国的罪证，挫败其阴谋，还江湖与百姓一片安宁。",
         "releaseDate": "2026-05-13",
         "backdropPath": "/aqhB6P6x5wCk4lJqeXvRaD941xM.jpg",
         "posterPath": "/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
@@ -260,7 +260,7 @@
         "releaseDate": "2026-03-26",
         "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
         "posterPath": "/h24N0obh83475hufeu6sex4ZE18.jpg",
-        "rating": 8,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       }
@@ -288,7 +288,7 @@
         "releaseDate": "2026-06-21",
         "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 6.8,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.448,
+        "rating": 9.5,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.968,
+        "rating": 8.953,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9,
+        "rating": 9.167,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-06-02",
         "backdropPath": "/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg",
         "posterPath": "/gUoVQS9LkY3YuxtJv7iayo8Gr1a.jpg",
-        "rating": 6.182,
+        "rating": 6.2,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
