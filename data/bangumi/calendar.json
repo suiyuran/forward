@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-07T17:55:17.826Z",
+  "time": "2026-07-08T17:25:13.744Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
         "posterPath": "/canvlHpMsrzmGXbJDgjfapqODg1.jpg",
-        "rating": 8,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
-        "rating": 8.5,
+        "rating": 8.476,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
         "posterPath": "/zlDw5KbBQ9LOz5ul3zx3CKaFgFi.jpg",
-        "rating": 8.1,
+        "rating": 8.144,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -161,9 +161,9 @@
       {
         "id": 325473,
         "type": "tmdb",
-        "title": "同一个研讨会的染谷同学是AV女优的事",
+        "title": "关于同组的染谷同学是性感女优这件事",
         "originalTitle": "同じゼミの染谷さんがセクシー女優だった話。",
-        "description": "",
+        "description": "准备研讨会成果发表的期间，为了放松而寻找成人影片欣赏的大学生神谷良介，竟然发现了一部由相同研讨会的染谷留香出演的影片！在成果发表结束后的慰劳聚会上，向她提起关于那部影片的事情，她则表示只要帮忙保密就愿意发生关系…！？",
         "releaseDate": "2026-07-06",
         "backdropPath": "/8shgETPiIhL8xqbaZPGAjgDDgY2.jpg",
         "posterPath": "/ylXDpynrRNTZwlwgGcezAibquy1.jpg",
@@ -208,7 +208,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/vQfQ2nqC9FSPwzeypcAP6HAE8D6.jpg",
         "posterPath": "/tVsZgmz8GTnh1Br00HoWpR88ogt.jpg",
-        "rating": 0,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -312,7 +312,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
         "posterPath": "/xGxSWFnSKur7pTDhafiE5QnFYo.jpg",
-        "rating": 8,
+        "rating": 7.25,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -361,12 +361,12 @@
         "id": 117120,
         "type": "tmdb",
         "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-        "originalTitle": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+        "originalTitle": "対ありでした。～お嬢さまは格闘ゲームなんてしない～",
         "description": "深月绫进入了以淑女教育著称的黑美女子学院，意外发现校内备受瞩目的“白百合大人”——夜绘美绪，在无人的教室里沉迷于格斗游戏。由于校规禁止游戏，美绪要求绫严格保密。然而，再次相遇时，美绪识破了绫同为游戏玩家的身份，并恳求与她一较高下。面对美绪对游戏纯粹的热情，绫虽心生抵触，却未表现出理解她为何放弃游戏的态度，最终接受了挑战。在较量中，两人作为稀有的女性格斗游戏玩家，逐渐理解彼此，建立了深厚的友谊。随后，她们冒着被退学的风险，与同为隐藏游戏爱好者的前辈一之濑珠树和犬井夕一起，更加投入地沉浸在格斗游戏的世界中。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/yCRq49YINwI7psAK5VEzbKLLSFk.jpg",
         "posterPath": "/zGNd9CG8RKovJXD2vDAPoE8bOzm.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/14udGIBIqwivmzW1f12sQoIsqsr.jpg",
-        "rating": 6.5,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -391,8 +391,8 @@
         "description": "孤儿院兼国家战用魔术武器育成机关收容无依的小孩，培养成战争用的魔术武器，死亡对在这里生活的孩子们来说稀松平常，无法尽情地表达悲伤。\n\n　　14岁少女席娜某天早上得知室友在战争中丧生，她压抑心中的悲伤，无法完全接纳自己的境遇。\n\n　　晚上她遇到一个满身血迹的少女——\n\n　　第二天，名叫美美的少女转进席娜的班上。\n\n　　有传闻说美美是学校的秘密武器，两人的邂逅，令席娜的心慢慢产生变化。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/ppR5S0tqg53tVFA8Gc8CfkWkQG8.jpg",
-        "posterPath": "/73DZoZWswGICwZ8G287avfBUeYj.jpg",
-        "rating": 0,
+        "posterPath": "/59i1prZ6qNcFj8iOnaNT6jnblFw.jpg",
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -440,13 +440,13 @@
         "type": "tmdb",
         "title": "天是红河岸",
         "originalTitle": "天は赤い河のほとり",
-        "description": "",
+        "description": "夕梨，被古老的土耳其王妃从21世纪带到了斯托塔帝国。王位的争夺战把她卷了进去！是危险也好，是幸福也好，在她不经意发现自己已经深深的爱上了卡尔之时，一切都不重要了！只要与他在一起，是进敌营亦或是做俘虏，是做挂牌的侧妃还是人人敬慕的战争女神，满心都是他的温柔与关怀……",
         "releaseDate": "2026-07-08",
         "backdropPath": "/tA0nEHf1G0KdtGJOdRZWiTpPuwi.jpg",
         "posterPath": "/wWlfBMTA7VygmYC4KUg2qLWJGmv.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
-        "genreTitle": "动画, 剧情"
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 326191,
@@ -472,7 +472,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.745,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -481,10 +481,10 @@
         "type": "tmdb",
         "title": "幼女战记",
         "originalTitle": "幼女戦記",
-        "description": "统一历1923年6月。金发碧眼的幼女，谭雅·提古雷查夫，正作为部队勤务的一环而在北方军管区诺登战区第三巡逻线进行帝国军士官学校最终课程的研修。作为航空魔导师向着光辉履历踏出第一步的研修，平安无事地结束——本该如此。但事态却向着超出预料的方向转变。以协约联合的越境侵犯为契机，帝国与协约联合进入战争状态。随着转移至战时体制，谭雅被交付了观测任务，但协约联合军发动奇袭，谭雅陷入不得不与敌军魔导师中队单独交战的事态。敌众我寡，就连在我军抵达之前牵制敌军都无法做到，但逃跑的话则难免敌前逃亡的死罪，她面临这种绝望的状况。为了无论如何存活下去，并在面对高层时做到最好的应对，谭雅使用了某个战略……。“那是，披着幼女皮的怪物——。”",
+        "description": "统一历1923年6月。金发碧眼的幼女，谭雅·提古雷查夫，正作为部队勤务的一环而在北方军管区诺登战区第三巡逻线进行帝国军士官学校最终课程的研修。作为航空魔导师向着光辉履历踏出第一步的研修，平安无事地结束——本该如此。但事态却向着超出预料的方向转变。以协约联合的越境侵犯为契机，帝国与协约联合进入战争状态。随着转移至战时体制，谭雅被交付了观测任务，但协约联合军发动奇袭，谭雅陷入不得不与敌军魔导师中队单独交战的事态。敌众我寡，就连在我军抵达之前牵制敌军都无法做到，但逃跑的话则难免敌前逃亡的死罪，她面临这种绝望的状况。为了无论如何存活下去，并在面对高层时做到最好的应对，谭雅使用了某个战略……“那是，披着幼女皮的怪物！”",
         "releaseDate": "2017-01-06",
         "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
-        "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
+        "posterPath": "/eqCMH7skMhCVhVHtyoE0hAdedK0.jpg",
         "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
@@ -509,9 +509,9 @@
         "originalTitle": "X-Men '97",
         "description": "由变种人组成的X战警利用他们不可思议的天赋，保护一个痛恨又恐惧他们的世界，接受前所未有的挑战，并面临出乎意料的危险新未来。",
         "releaseDate": "2024-03-20",
-        "backdropPath": "/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
+        "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.6,
+        "rating": 8.571,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -572,7 +572,7 @@
         "type": "tmdb",
         "title": "盗掘王",
         "originalTitle": "도굴왕",
-        "description": "",
+        "description": "2025年，世界各地出现了神秘的「古墓」，古墓中的「文物」能赋予持有者异能力，更有不少人利用这些力量谋财。靠着「遗物」赋予的异能力以盗墓为生的刚力辽河，却因雇主大河原泰政的背叛，在「墓」中被逼入绝境，命悬一线。此时，一个突然开口说话的「乌鸦遗物」救了他一命。回过神来，他发现自己竟穿越回到了15年前的2025年！为了向大河原报复，辽河凭借著未来的记忆与知识作为武器，向所有掌握财富与权力的统治者们亮出獠牙！他将利用「文物」攀上世界顶点，成为真正的「盗墓王」!",
         "releaseDate": "2026-07-09",
         "backdropPath": "/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg",
         "posterPath": "/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
@@ -587,7 +587,7 @@
         "originalTitle": "サンダー３",
         "description": "平凡无奇的中学生平太郎、燕和广志在平太郎的妹妹失踪后踏上了一段非同寻常的冒险之旅。",
         "releaseDate": "2026-07-09",
-        "backdropPath": null,
+        "backdropPath": "/ho6FHjF1JlzAJ8YGdbqwuxaElDj.jpg",
         "posterPath": "/oWgzYbhhsU3Hepem2sjBtJof27B.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -663,13 +663,13 @@
       {
         "id": 270603,
         "type": "tmdb",
-        "title": "被放逐的重骑士用游戏知识开无双",
+        "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
         "originalTitle": "追放された転生重騎士はゲーム知識で無双する",
         "description": "“重骑士”这是一种专门负责防守的职业，其职责是吸引敌人的攻击，从而保护同伴。不过，与其他防御型职业相比，重骑士在承担其他任务方面的能力较弱，攻击力也低得可怜，甚至无法正常升级。因此，重骑士可被视为比“冷门职业”还要糟糕的“缺陷职业”。埃尔玛出生于世代继承着“剑圣”血脉的艾德梵伯爵家族。作为继承人，他在重要的仪式“祝福仪式”上却暴露出了被称为“缺陷职业”的“重骑士”身份。因此，他不仅被剥夺了继承人的地位，还被流放了。然而就在这时，他记起了前世的记忆，意识到这个世界与他前世沉迷不已的虚拟现实游戏《魔法世界》简直一模一样。而且，埃尔玛非常清楚——“重骑士”，才是最强的职业……！被伯爵家流放而成为冒险者的埃尔玛，决定充分利用前世的知识，在这个世界展开高效的冒险之旅！",
         "releaseDate": "2026-07-03",
         "backdropPath": "/fPkGYEIldhxYORVKTyDnJlIPKU3.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
-        "rating": 8,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -698,6 +698,19 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 323839,
+        "type": "tmdb",
+        "title": "东大高武学院",
+        "originalTitle": "东大高武学院",
+        "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
+        "releaseDate": "2026-07-16",
+        "backdropPath": "/50989d8j6fQDs4FCUUK25Lo8Rch.jpg",
+        "posterPath": "/nQIYptZQP4bHb0S40cgqUhQtxGK.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, Sci-Fi & Fantasy"
       },
       {
         "id": 110837,
@@ -747,7 +760,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 7.5,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -823,10 +836,10 @@
         "type": "tmdb",
         "title": "不虐待我的继母与继姐",
         "originalTitle": "いびってこない義母と義姉",
-        "description": "",
+        "description": "中村美冶是某个名家的庶女，她与母亲两人过着贫困却幸福的日子。然而某一天，她最爱的母亲过世，她也因此被接回了本家鸿藏家。而在那里等待着美冶的，是继母昭瑠，以及继姐茉里香与爱里沙。\n\n『继母和继姐们肯定很厌恶妾室的孩子……不管会被怎么对待都放马过来吧！ 』\n\n虽然美冶已经做好了心理准备，但本该令人畏惧的继母和继姐们……居然「完全不虐待我」！ ？\n\n既温柔又温暖，与新家人共度的日子将治愈你的心。\n\n温馨的反差喜剧现在开幕！",
         "releaseDate": "2026-07-08",
         "backdropPath": "/g6sczqCMA7vROHUOMmT5Jt8ZEjz.jpg",
-        "posterPath": "/1i67CAfM8JsUvVOA6K6OC05L7X0.jpg",
+        "posterPath": "/67EGk9hsaBtpzmNNtA0kCXvmi2F.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -843,6 +856,19 @@
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 326893,
+        "type": "tmdb",
+        "title": "喜羊羊与灰太狼之破界山海诀",
+        "originalTitle": "喜羊羊与灰太狼之破界山海诀",
+        "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
+        "releaseDate": "2026-07-10",
+        "backdropPath": "/jDJ1Fd21K91ldOiKb8yUoKKLssb.jpg",
+        "posterPath": "/sZWbNzVhbF3WvuHpFl7KRTJEGHb.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 儿童"
       },
       {
         "id": 325052,
@@ -866,7 +892,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/gf62V8UBVBMFPpD9yI0UFvkFvq2.jpg",
         "posterPath": "/2z8wbBH2r4JZMyhC2ruKnxwTjlg.jpg",
-        "rating": 7.37,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
@@ -931,7 +957,7 @@
         "originalTitle": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
         "description": "30年前，未知的“侵略性外来生物”突然出现，世界曾一度濒临毁灭。人类与这些被称为“侵略种”的生物相互争夺生存空间。虽然目前人类的安全勉强得到了保障，但世界随时可能走向终结。人们在恐惧死亡与毁灭的同时，只能对危险和灾难视而不见，麻木地过着日常生活。在这样的世界里，联合国危险生物调查机构“EXCEEDS”为了抵御“侵略种”带来的危机与灾害，开始了行动。故事的开端位于远东的岛国“瑞穗”。一位在离岛上生活、以驱除“侵略种”为业的猎人少女——久濑椎名。她唯一的愿望就是与家中唯一的亲人妹妹刹那平静地生活下去。然而，降临在椎名身上的事件究竟是——？",
         "releaseDate": "2026-07-05",
-        "backdropPath": "/vA4MxEHDpjnOzMIgDb6ZHkmfa22.jpg",
+        "backdropPath": "/8oDXuGfRiNPMZc1eYc9O8gIm7nb.jpg",
         "posterPath": "/6FTC8b0V0xdCQrT4929HPdPnoYo.jpg",
         "rating": 7,
         "mediaType": "tv",
@@ -972,7 +998,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.801,
+        "rating": 7.797,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1009,7 +1035,7 @@
         "originalTitle": "グロウアップショウ ～ひまわりのサーカス団～",
         "description": "昭和30年代前后，日本正值高度经济增长期。在这个时代，马戏团作为娱乐的核心，深深地融入了人们的日常生活之中。为了争夺唯有顶尖马戏团才被允许参加的世界级盛典“Circus Collection”的资格，众多马戏团一边巡回日本各地演出，一边日复一日地激烈竞争。在常年资金短缺，艰苦巡演的“向日葵马戏团”面前，出现了因某种缘由而来的马戏天才鹤卷瑞佳。她与个性鲜明的“向日葵马戏团”团员们的相遇，究竟是偶然，还是必然……追逐梦想的少女们所描绘的独一无二马戏表演，现在开演！",
         "releaseDate": "2026-07-05",
-        "backdropPath": "/bxH7TRRMNJnNQWYSbGkth1hCzkJ.jpg",
+        "backdropPath": "/aLmQYUGnf8fc9kbbBlMv7Tqmvcq.jpg",
         "posterPath": "/4zfY2n1eBfyZJGOiBiOnyPbyrTh.jpg",
         "rating": 0,
         "mediaType": "tv",
