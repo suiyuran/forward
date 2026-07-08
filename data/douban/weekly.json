@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-07T21:11:17.877Z",
+  "time": "2026-07-08T20:52:07.276Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
         "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-        "rating": 7.399,
+        "rating": 7.394,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
         "posterPath": "/y9cuIc3fM6G3aIXySmDqsgRGUE1.jpg",
-        "rating": 8.259,
+        "rating": 8.261,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
         "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-        "rating": 7.796,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "悬疑, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-20",
         "backdropPath": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
         "posterPath": "/7F3XaVBrMLRAbMadwM8A9MViQkA.jpg",
-        "rating": 8.369,
+        "rating": 8.374,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -148,6 +148,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 272432,
+        "type": "tmdb",
+        "title": "低智商犯罪",
+        "originalTitle": "低智商犯罪",
+        "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
+        "releaseDate": "2026-05-04",
+        "backdropPath": "/6yd4BP7Mt2zpt63z2z6dizg6QMo.jpg",
+        "posterPath": "/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
+        "rating": 7.9,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
         "id": 311881,
         "type": "tmdb",
         "title": "欠你的那场婚礼",
@@ -157,6 +170,19 @@
         "backdropPath": "/A2D9PdJT6tGwFojrd8SWmSnkQuJ.jpg",
         "posterPath": "/jOgEViPr1YOv2B6tmMvrEiJNFS9.jpg",
         "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 284110,
+        "type": "tmdb",
+        "title": "主角",
+        "originalTitle": "主角",
+        "description": "多年前，县剧团招学员，在团里任司鼓的胡三元替外甥女报名，将年少的她改名易秦娥从家乡带出来学唱秦腔。因胡三元造成的事故，易秦娥受到影响，学习秦腔之路屡遭波折。但她凭借刻苦的劲头和自身的条件获得了老艺人的赏识和热情帮扶。她的“破蒙戏”在乡村舞台上音惊四座，后改名忆秦娥被调入省秦腔团。 她勤学苦练，在台上的演出屡获成功。历经波折，她终于明白对秦腔艺术的传承才是她作为“主角”的真正意义，她将继续培养新一代秦腔舞台上亮丽的主角。",
+        "releaseDate": "2026-05-10",
+        "backdropPath": "/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
+        "posterPath": "/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -174,28 +200,28 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 272432,
+        "id": 300239,
         "type": "tmdb",
-        "title": "低智商犯罪",
-        "originalTitle": "低智商犯罪",
-        "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
-        "releaseDate": "2026-05-04",
-        "backdropPath": "/6yd4BP7Mt2zpt63z2z6dizg6QMo.jpg",
-        "posterPath": "/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
-        "rating": 7.9,
+        "title": "动物园",
+        "originalTitle": "動物園",
+        "description": "任职于“彗流广告”的创意总监朱欣葵（邵雨薇 饰）个性好强，在职场上练就了一身超抗压的本领。就在她的事业即将起飞，有望调任纽约总部时，却接连遭遇重大打击：惹火大客户，男友无理取闹，最后竟被公司降职冷藏。此时，高雄寿山动物园为转型公开招标，想要更新品牌形象，这成了她职业生涯翻身的最后希望。没想到竞标条件却要求她必须亲身担任实习保育员！\n\n朱欣葵硬着头皮接下这份工作，从光鲜亮丽的广告总监，一夜之间沦为每天清理粪便、喂养动物的“铲屎官”。以往得心应手的办公室法则彻底失灵，她还得面对资深保育员苏冠州（王柏杰 饰）的严格要求和百般刁难。最初，她想尽办法想要离开这里，但在与动物的朝夕相处中，也让她逐渐卸下防备，找回了被焦虑掩埋的初心与勇气，并对这份呵护生命的工作产生了敬意，与苏冠州也从互看不顺眼的欢喜冤家，发展出一段令人心动的浪漫恋情。",
+        "releaseDate": "2026-02-20",
+        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
+        "posterPath": "/xixw0uzoEnk2523Y7OgrNcuF9l1.jpg",
+        "rating": 9,
         "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
+        "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 284110,
+        "id": 286438,
         "type": "tmdb",
-        "title": "主角",
-        "originalTitle": "主角",
-        "description": "多年前，县剧团招学员，在团里任司鼓的胡三元替外甥女报名，将年少的她改名易秦娥从家乡带出来学唱秦腔。因胡三元造成的事故，易秦娥受到影响，学习秦腔之路屡遭波折。但她凭借刻苦的劲头和自身的条件获得了老艺人的赏识和热情帮扶。她的“破蒙戏”在乡村舞台上音惊四座，后改名忆秦娥被调入省秦腔团。 她勤学苦练，在台上的演出屡获成功。历经波折，她终于明白对秦腔艺术的传承才是她作为“主角”的真正意义，她将继续培养新一代秦腔舞台上亮丽的主角。",
-        "releaseDate": "2026-05-10",
-        "backdropPath": "/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
-        "posterPath": "/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
-        "rating": 9,
+        "title": "存酒人",
+        "originalTitle": "存酒人",
+        "description": "经营廿多年的「市井酒吧」快将结业，剩下十数支无人领取的存酒。老板雄哥主动把存酒归还给客人，还拉上年轻员工烨仔东奔西走，到处还酒。烨仔最初感到相当烦厌，过程中重遇不同存酒人，听他们的故事，得知每支酒对客人都有特别意义，烨仔因此明白雄哥为何执着于归还存酒，也更了解他经营酒吧的理念。坐落于隐蔽巷子的酒吧，还有看透世事的老酒保标叔和热衷钻研调酒的年轻酒保鬼妹，与烨仔份属好友，玩世不恭的阿当亦会在此驻唱。酒吧进入最后倒数，五人却为这里带来令人难以忘怀的灿烂时光。人来人往的酒吧，每个人只是过客，某晚喝不完的酒，存下的不只是酒，还有不同酒精浓度的故事。",
+        "releaseDate": "2025-12-22",
+        "backdropPath": "/oKw56QGp9fpIwiPpLXBM0MH2sgO.jpg",
+        "posterPath": "/dz06yunAZds9AEjFYZz7Iy1RjAF.jpg",
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -226,32 +252,6 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 300239,
-        "type": "tmdb",
-        "title": "动物园",
-        "originalTitle": "動物園",
-        "description": "任职于“彗流广告”的创意总监朱欣葵（邵雨薇 饰）个性好强，在职场上练就了一身超抗压的本领。就在她的事业即将起飞，有望调任纽约总部时，却接连遭遇重大打击：惹火大客户，男友无理取闹，最后竟被公司降职冷藏。此时，高雄寿山动物园为转型公开招标，想要更新品牌形象，这成了她职业生涯翻身的最后希望。没想到竞标条件却要求她必须亲身担任实习保育员！\n\n朱欣葵硬着头皮接下这份工作，从光鲜亮丽的广告总监，一夜之间沦为每天清理粪便、喂养动物的“铲屎官”。以往得心应手的办公室法则彻底失灵，她还得面对资深保育员苏冠州（王柏杰 饰）的严格要求和百般刁难。最初，她想尽办法想要离开这里，但在与动物的朝夕相处中，也让她逐渐卸下防备，找回了被焦虑掩埋的初心与勇气，并对这份呵护生命的工作产生了敬意，与苏冠州也从互看不顺眼的欢喜冤家，发展出一段令人心动的浪漫恋情。",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
-        "posterPath": "/xixw0uzoEnk2523Y7OgrNcuF9l1.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 286438,
-        "type": "tmdb",
-        "title": "存酒人",
-        "originalTitle": "存酒人",
-        "description": "经营廿多年的「市井酒吧」快将结业，剩下十数支无人领取的存酒。老板雄哥主动把存酒归还给客人，还拉上年轻员工烨仔东奔西走，到处还酒。烨仔最初感到相当烦厌，过程中重遇不同存酒人，听他们的故事，得知每支酒对客人都有特别意义，烨仔因此明白雄哥为何执着于归还存酒，也更了解他经营酒吧的理念。坐落于隐蔽巷子的酒吧，还有看透世事的老酒保标叔和热衷钻研调酒的年轻酒保鬼妹，与烨仔份属好友，玩世不恭的阿当亦会在此驻唱。酒吧进入最后倒数，五人却为这里带来令人难以忘怀的灿烂时光。人来人往的酒吧，每个人只是过客，某晚喝不完的酒，存下的不只是酒，还有不同酒精浓度的故事。",
-        "releaseDate": "2025-12-22",
-        "backdropPath": "/oKw56QGp9fpIwiPpLXBM0MH2sgO.jpg",
-        "posterPath": "/dz06yunAZds9AEjFYZz7Iy1RjAF.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 244189,
         "type": "tmdb",
         "title": "向流星许愿的我们",
@@ -280,6 +280,58 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 322055,
+        "type": "tmdb",
+        "title": "检察官的提案",
+        "originalTitle": "검사실의 제안",
+        "description": "曾因“杀人犯之子”的标签饱受欺凌的李彩河，在洗清冤屈后成为一名八级检察院调查员。他被分配到檀岘分局，努力开启新生活，却意外与曾帮助过他的检察官朱泰善重逢。朱泰善性格完美主义且敏感古怪，在一次共同值夜班后，他对李彩河产生了浓厚兴趣。为了调查一桩悬而未决的谋杀案，朱泰善提议李彩河担任自己的专属调查员。两人在压抑又充满张力的办公环境下，展开了一场徘徊于职场正义与禁忌情感之间的危险博弈。",
+        "releaseDate": "2026-06-25",
+        "backdropPath": "/feISh3qoREwIPWbSaLqqumbmh7m.jpg",
+        "posterPath": "/4A5Sl89zZ0WRKj5QrhMxgBFiQYc.jpg",
+        "rating": 4,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 犯罪"
+      },
+      {
+        "id": 276161,
+        "type": "tmdb",
+        "title": "铁拳教育",
+        "originalTitle": "참교육",
+        "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
+        "releaseDate": "2026-06-05",
+        "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+        "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
+        "rating": 9.454,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 剧情"
+      },
+      {
+        "id": 296206,
+        "type": "tmdb",
+        "title": "金特务：本色回归",
+        "originalTitle": "김부장",
+        "description": "改编自同名网络漫画，讲述的是原本只想平凡当个父亲的金部长，在挚爱的女儿突然失踪后，不得不揭开自己极力隐藏的真实身份，为了救回女儿不惜一切的故事。",
+        "releaseDate": "2026-06-26",
+        "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
+        "rating": 7.386,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 犯罪"
+      },
+      {
+        "id": 136315,
+        "type": "tmdb",
+        "title": "熊家餐馆",
+        "originalTitle": "The Bear",
+        "description": "卡米离开餐厅后，西德尼、里奇和娜塔莉接手“熊家餐馆”。面对餐厅经营压力与追逐米其林星级的梦想，他们必须携手完成一场决定未来的关键服务。在考验接踵而至之际，他们逐渐明白，这家餐厅最珍贵的，并非料理本身，而是一路同行、彼此扶持的伙伴。",
+        "releaseDate": "2026-06-25",
+        "backdropPath": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
+        "posterPath": "/7y1ibpkTwlKYrxFbq3lh2RgIB1k.jpg",
+        "rating": 5.6,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
         "id": 94997,
         "type": "tmdb",
         "title": "权力的游戏前传：龙族",
@@ -293,19 +345,6 @@
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
       {
-        "id": 276161,
-        "type": "tmdb",
-        "title": "铁拳教育",
-        "originalTitle": "참교육",
-        "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
-        "releaseDate": "2026-06-05",
-        "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-        "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.5,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, 剧情"
-      },
-      {
         "id": 273240,
         "type": "tmdb",
         "title": "校园之外",
@@ -314,9 +353,22 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.953,
+        "rating": 8.943,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 60625,
+        "type": "tmdb",
+        "title": "瑞克和莫蒂",
+        "originalTitle": "Rick and Morty",
+        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
+        "releaseDate": "2026-05-24",
+        "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
+        "rating": 8.4,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 289424,
@@ -332,19 +384,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 60625,
-        "type": "tmdb",
-        "title": "瑞克和莫蒂",
-        "originalTitle": "Rick and Morty",
-        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
-        "releaseDate": "2026-05-24",
-        "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.3,
-        "mediaType": "tv",
-        "genreTitle": "动画, 喜剧"
-      },
-      {
         "id": 296286,
         "type": "tmdb",
         "title": "躲在超市后门抽烟的两人",
@@ -353,48 +392,9 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.167,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
-      },
-      {
-        "id": 284725,
-        "type": "tmdb",
-        "title": "曼哈顿打拼日记",
-        "originalTitle": "Not Suitable for Work",
-        "description": "聚焦于五个职场新鲜人，他们在纽约曼哈顿奋力追求事业成功，而个人幸福则往往只能排在职业规划之后。",
-        "releaseDate": "2026-06-02",
-        "backdropPath": "/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg",
-        "posterPath": "/gUoVQS9LkY3YuxtJv7iayo8Gr1a.jpg",
-        "rating": 6.2,
-        "mediaType": "tv",
-        "genreTitle": "喜剧"
-      },
-      {
-        "id": 295509,
-        "type": "tmdb",
-        "title": "菜鸟炊事兵",
-        "originalTitle": "취사병 전설이 되다",
-        "description": "姜成宰原本只是军中不起眼的菜鸟炊事兵，却意外在厨房中找到属于自己的战场，他以菜刀代替枪支、以围裙代替弹药带，在看似日常的炊事任务中，一步步成长为令人意想不到的传奇人物。",
-        "releaseDate": "2026-05-11",
-        "backdropPath": "/q1k3dLG367ugCKiCmeWooLy8v5A.jpg",
-        "posterPath": "/sTa8faUgKutR0C9yQyrRyd0VyAe.jpg",
-        "rating": 8.5,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 喜剧"
-      },
-      {
-        "id": 315758,
-        "type": "tmdb",
-        "title": "伪装的真实之吻",
-        "originalTitle": "フェイクファクトリップス",
-        "description": "本剧讲述业务部同期的四谷良与志藤全，自高中时代起就凡事较劲，成绩、运动、人气，甚至谁先升职都能拿来比个高下。多年后在公司意外重逢，曾被时间冲淡的竞争心再次燃起。两人即使成为同事，也习惯向对方发起新的挑战。一次玩笑般的「持久对决」让彼此的关系越界，情势从竞争逐渐转向亲密攻防。谁都不愿认输的他们，最终订下新的赌约──先攻陷对方、掳获芳心的人就算胜利！",
-        "releaseDate": "2026-04-24",
-        "backdropPath": "/8NsOscA4bfKVATaf3ZcWXIUdnjG.jpg",
-        "posterPath": "/j8RF51fG37ski8xmynpv7RjKTSx.jpg",
-        "rating": 8.25,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       }
     ]
   }
