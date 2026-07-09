@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-08T20:52:07.276Z",
+  "time": "2026-07-09T21:08:23.493Z",
   "data": {
     "电影": [
       {
@@ -9,9 +9,9 @@
         "originalTitle": "Toy Story 5",
         "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
         "releaseDate": "2026-06-17",
-        "backdropPath": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+        "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
         "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-        "rating": 7.394,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -23,7 +23,7 @@
         "description": "一个害羞的8岁女孩维奥莱特失去父母，和她的舅舅雷吉斯住在一起，雷吉斯在凡尔赛城堡当清洁工，维奥莱特很少跟他说话。维奥莱特几乎没有意识到，在这个令人生畏的地方，她会找到意想不到的避难所和一个新的家庭。",
         "releaseDate": "2025-10-15",
         "backdropPath": "/gp1SMXFgQFsimTFk4RlXent3rDY.jpg",
-        "posterPath": "/hhbdKdtaeSOWHSAYEATJXqSSK4z.jpg",
+        "posterPath": "/q1wg55dwLJP51TS4SffdTnAtYcj.jpg",
         "rating": 6.5,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
@@ -37,7 +37,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
         "posterPath": "/y9cuIc3fM6G3aIXySmDqsgRGUE1.jpg",
-        "rating": 8.261,
+        "rating": 8.269,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-04-30",
         "backdropPath": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
         "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-        "rating": 7.8,
+        "rating": 7.818,
         "mediaType": "movie",
         "genreTitle": "悬疑, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-20",
         "backdropPath": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
         "posterPath": "/7F3XaVBrMLRAbMadwM8A9MViQkA.jpg",
-        "rating": 8.374,
+        "rating": 8.386,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -114,8 +114,8 @@
         "description": "一个男孩和一位老妇人被迫一起度过一个夏天。这是现代与传统、快速与缓慢之间的碰撞。这是一个充满恐惧和发现的夏天，但同样也有冒险、里程碑和失落——一个过后一切都将不再相同的夏天。",
         "releaseDate": "2025-12-11",
         "backdropPath": "/ccQ9abrYHA0aDmaZGqZ1zDaaUem.jpg",
-        "posterPath": "/kYw62IF023miZMKyiAqX4mYat3a.jpg",
-        "rating": 6.734,
+        "posterPath": "/k6FfFdvi6CqWvmzbuvAGIII3904.jpg",
+        "rating": 6.719,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/feISh3qoREwIPWbSaLqqumbmh7m.jpg",
         "posterPath": "/4A5Sl89zZ0WRKj5QrhMxgBFiQYc.jpg",
-        "rating": 4,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.454,
+        "rating": 9.468,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.386,
+        "rating": 7.043,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.943,
+        "rating": 8.933,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.2,
+        "rating": 9.125,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
