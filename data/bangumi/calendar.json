@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-10T17:43:58.663Z",
+  "time": "2026-07-11T16:52:37.745Z",
   "data": {
     "星期日": [
       {
@@ -96,13 +96,13 @@
       {
         "id": 1659389,
         "type": "tmdb",
-        "title": "ONE PIECE HEROINES",
+        "title": "海贼王：女英雄们的故事",
         "originalTitle": "ONE PIECE HEROINES",
-        "description": "",
+        "description": "《海贼王》短篇小说集《海贼王女英雄们的故事》宣布动画化，原作剧情包括时装秀登台的娜美、协助克尔拉和萨博解读黏土板的罗宾、因一封情书而盛传谣言的薇薇、与米霍克争夺红酒的佩罗娜等，将通过本篇中未曾描绘的故事展现她们的个性与魅力。",
         "releaseDate": "2026-07-05",
         "backdropPath": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
         "posterPath": "/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-        "rating": 10,
+        "rating": 8.5,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -349,7 +349,7 @@
         "type": "tmdb",
         "title": "感谢对战。～大小姐才不玩格斗游戏～",
         "originalTitle": "対ありでした。～お嬢さまは格闘ゲームなんてしない～",
-        "description": "深月绫进入了以淑女教育著称的黑美女子学院，意外发现校内备受瞩目的“白百合大人”——夜绘美绪，在无人的教室里沉迷于格斗游戏。由于校规禁止游戏，美绪要求绫严格保密。然而，再次相遇时，美绪识破了绫同为游戏玩家的身份，并恳求与她一较高下。面对美绪对游戏纯粹的热情，绫虽心生抵触，却未表现出理解她为何放弃游戏的态度，最终接受了挑战。在较量中，两人作为稀有的女性格斗游戏玩家，逐渐理解彼此，建立了深厚的友谊。随后，她们冒着被退学的风险，与同为隐藏游戏爱好者的前辈一之濑珠树和犬井夕一起，更加投入地沉浸在格斗游戏的世界中。",
+        "description": "深月绫进入了以淑女教育著称的黑美女子学院，意外发现校内备受瞩目的“白百合大人” ── 夜绘美绪，在无人的教室里沉迷于格斗游戏。由于校规禁止游戏，美绪要求绫严格保密。然而再次相遇时，美绪识破了绫同为游戏玩家的身份，并恳求与她一较高下。面对美绪对游戏纯粹的热情，绫虽心生抵触，却未表现出理解她为何放弃游戏的态度，最终接受了挑战。在较量中，两人作为稀有的女性格斗游戏玩家，逐渐理解彼此，建立了深厚的友谊。随后她们冒着被退学的风险，与同为隐藏游戏爱好者的前辈一之濑珠树和犬井夕一起，更加投入地沉浸在格斗游戏的世界中。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/yCRq49YINwI7psAK5VEzbKLLSFk.jpg",
         "posterPath": "/zGNd9CG8RKovJXD2vDAPoE8bOzm.jpg",
@@ -366,9 +366,9 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/unc9cOVdhCUDnIqijFX4wHsgG4f.jpg",
         "posterPath": "/14udGIBIqwivmzW1f12sQoIsqsr.jpg",
-        "rating": 8.6,
+        "rating": 9,
         "mediaType": "tv",
-        "genreTitle": "动画, Sci-Fi & Fantasy"
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 285574,
@@ -429,7 +429,7 @@
         "originalTitle": "天は赤い河のほとり",
         "description": "夕梨，被古老的土耳其王妃从21世纪带到了斯托塔帝国。王位的争夺战把她卷了进去！是危险也好，是幸福也好，在她不经意发现自己已经深深的爱上了卡尔之时，一切都不重要了！只要与他在一起，是进敌营亦或是做俘虏，是做挂牌的侧妃还是人人敬慕的战争女神，满心都是他的温柔与关怀……",
         "releaseDate": "2026-07-08",
-        "backdropPath": "/8uchAMXCfS1la1oIcmUvAK3FZvP.jpg",
+        "backdropPath": "/pHzcs5Ru1lwoVcQsPA5lNYlxJy2.jpg",
         "posterPath": "/wWlfBMTA7VygmYC4KUg2qLWJGmv.jpg",
         "rating": 7,
         "mediaType": "tv",
@@ -498,7 +498,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.599,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -669,7 +669,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/fPkGYEIldhxYORVKTyDnJlIPKU3.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
-        "rating": 8.3,
+        "rating": 8.571,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -682,7 +682,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.2,
+        "rating": 9.273,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -760,7 +760,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.769,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -836,7 +836,7 @@
         "type": "tmdb",
         "title": "不虐待我的继母与继姐",
         "originalTitle": "いびってこない義母と義姉",
-        "description": "中村美冶是某个名家的庶女，她与母亲两人过着贫困却幸福的日子。然而某一天，她最爱的母亲过世，她也因此被接回了本家鸿藏家。而在那里等待着美冶的，是继母昭瑠，以及继姐茉里香与爱里沙。\n\n『继母和继姐们肯定很厌恶妾室的孩子……不管会被怎么对待都放马过来吧！ 』\n\n虽然美冶已经做好了心理准备，但本该令人畏惧的继母和继姐们……居然「完全不虐待我」！ ？\n\n既温柔又温暖，与新家人共度的日子将治愈你的心。\n\n温馨的反差喜剧现在开幕！",
+        "description": "中村美冶是某个名家的庶女，她与母亲两人过着贫困却幸福的日子。然而某一天，她最爱的母亲过世，她也因此被接回了本家鸿藏家。而在那里等待着美冶的，是继母昭瑠，以及继姐茉里香与爱里沙。“继母和继姐们肯定很厌恶妾室的孩子……不管会被怎么对待都放马过来吧！”虽然美冶已经做好了心理准备，但本该令人畏惧的继母和继姐们……居然“完全不虐待我”！ ？既温柔又温暖，与新家人共度的日子将治愈你的心。温馨的反差喜剧现在开幕！",
         "releaseDate": "2026-07-08",
         "backdropPath": "/g6sczqCMA7vROHUOMmT5Jt8ZEjz.jpg",
         "posterPath": "/67EGk9hsaBtpzmNNtA0kCXvmi2F.jpg",
@@ -866,7 +866,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/jDJ1Fd21K91ldOiKb8yUoKKLssb.jpg",
         "posterPath": "/sZWbNzVhbF3WvuHpFl7KRTJEGHb.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
       },
@@ -929,10 +929,10 @@
         "type": "tmdb",
         "title": "择日飞升",
         "originalTitle": "择日飞升",
-        "description": "讲述捕蛇少年许应因目睹村神草菅人命而弑杀村神，逐步解开体内秘藏，在挑战诸天神魔中突破自我，最终证道飞升。",
+        "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
         "releaseDate": "2026-07-18",
         "backdropPath": "/nAqPsUJEHGvlQx4h13CZ7QUrlYK.jpg",
-        "posterPath": "/yZAGhLdtD75LSO8cOF40r4u3yku.jpg",
+        "posterPath": "/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -982,7 +982,7 @@
         "title": "猫与龙",
         "originalTitle": "猫と竜",
         "description": "在幽深的森林深处，生活着一只会喷火的龙与一群能使用魔法的猫咪。这只龙在出生前就失去了亲生父母，被一只偶然相遇的母猫抚养长大。在猫咪们看来，它是一只会飞翔、会喷火，「有点特别的猫」，但它们还是将它视为家人接纳进族群里。龙似乎想报答母猫的养育之恩，因此总是陪伴在森林的猫咪们身旁，默默守护着它们。而猫咪们则称呼它为「翅膀大叔」，十分仰慕且依赖着龙。另一方面，人类则怀着敬畏之心，奉它为「猫龙」……",
-        "releaseDate": "2026-07-04",
+        "releaseDate": "2026-06-27",
         "backdropPath": "/u02TXrpVxJXxbh9odWbrqbymPKC.jpg",
         "posterPath": "/lSloeMq52OkhxCWH8GsomYziVGa.jpg",
         "rating": 8,
@@ -998,7 +998,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/goTFoBxSyLybVvlGa2Ke9uTchdF.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1011,7 +1011,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.807,
+        "rating": 7.802,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
