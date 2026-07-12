@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-11T20:35:34.008Z",
+  "time": "2026-07-12T20:32:44.278Z",
   "data": {
     "电影": [
       {
@@ -11,9 +11,22 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
         "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-        "rating": 7.409,
+        "rating": 7.416,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
+      },
+      {
+        "id": 1339713,
+        "type": "tmdb",
+        "title": "痴迷",
+        "originalTitle": "Obsession",
+        "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+        "releaseDate": "2026-05-13",
+        "backdropPath": "/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+        "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+        "rating": 8.275,
+        "mediaType": "movie",
+        "genreTitle": "恐怖, 惊悚"
       },
       {
         "id": 1638171,
@@ -37,7 +50,7 @@
         "releaseDate": "2025-09-25",
         "backdropPath": "/w9m04ZsohWMdrSEKt9r53i2Oclg.jpg",
         "posterPath": "/zSlRJDgp8f4KWpuqoRm6ZUE5aXf.jpg",
-        "rating": 7.6,
+        "rating": 7.474,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -50,7 +63,7 @@
         "releaseDate": "2026-05-21",
         "backdropPath": "/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
         "posterPath": "/9izltMxWdnbUGPti3zAm51SGjwu.jpg",
-        "rating": 6.8,
+        "rating": 6.857,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -68,6 +81,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 1427540,
+        "type": "tmdb",
+        "title": "心门之外",
+        "originalTitle": "Free at Heart",
+        "description": "16 岁少年塞巴斯蒂安生活平淡，家中收留了父亲亡友 15 岁的儿子科利亚。二人从疏远到互生特殊情愫，这段藏着秘密与羁绊的隐秘关系，重塑了塞巴斯蒂安对自我的认知。",
+        "releaseDate": "2026-10-29",
+        "backdropPath": "/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
+        "posterPath": "/8do97Rjsg1F3N0bFKUUHhLNORUk.jpg",
+        "rating": 0,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 家庭"
+      },
+      {
         "id": 614945,
         "type": "tmdb",
         "title": "真爱留声",
@@ -76,9 +102,22 @@
         "releaseDate": "2026-06-20",
         "backdropPath": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
         "posterPath": "/7F3XaVBrMLRAbMadwM8A9MViQkA.jpg",
-        "rating": 8.391,
+        "rating": 8.366,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
+      },
+      {
+        "id": 1388338,
+        "type": "tmdb",
+        "title": "女孩不平凡",
+        "originalTitle": "女孩不平凡",
+        "description": "17岁的欣，身处去哪都不超过三十分钟的澳门。她的生活平凡，直到遇见学姐菲才开始思考自己是否可以过更多姿多彩的生活。22岁时，她在台湾就读新闻系，与女友晴同居，但毕业季的波澜让她陷入困境，无法决定未来。34岁的欣在香港打拼，试图摆脱“一片导演”的魔咒，亦面对来自适婚女友贝的压力。最终在贝的假结婚狂想中，欣领悟到做自己是最佳的生存之道。",
+        "releaseDate": "2025-12-18",
+        "backdropPath": "/1akICLWH45h7JrD3BY386CaB4Dy.jpg",
+        "posterPath": "/ca3sYBfU8D1p9TNhyEJ0hNxmq8l.jpg",
+        "rating": 5.5,
+        "mediaType": "movie",
+        "genreTitle": "爱情"
       },
       {
         "id": 1699155,
@@ -89,12 +128,25 @@
         "releaseDate": "2026-06-11",
         "backdropPath": "/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
         "posterPath": "/b2Mi0IAyCAozDiVPf1PCvjiaLHR.jpg",
-        "rating": 7.2,
+        "rating": 7.162,
         "mediaType": "movie",
         "genreTitle": "纪录, 犯罪"
       }
     ],
     "剧集·国内": [
+      {
+        "id": 309663,
+        "type": "tmdb",
+        "title": "开庭",
+        "originalTitle": "COURT!",
+        "description": "基于不同观点角度、难以致信的巧合或为了维护更公平的法律原则，都影响着所有案件在法庭上的细节，令最终「真相」的呈现，面临着不同挑战和考验。",
+        "releaseDate": "2026-05-18",
+        "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
+        "posterPath": "/1mEuvUMkr8xpQoP8uekuxcE65A6.jpg",
+        "rating": 5.5,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
       {
         "id": 272432,
         "type": "tmdb",
@@ -120,6 +172,45 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 284110,
+        "type": "tmdb",
+        "title": "主角",
+        "originalTitle": "主角",
+        "description": "多年前，县剧团招学员，在团里任司鼓的胡三元替外甥女报名，将年少的她改名易秦娥从家乡带出来学唱秦腔。因胡三元造成的事故，易秦娥受到影响，学习秦腔之路屡遭波折。但她凭借刻苦的劲头和自身的条件获得了老艺人的赏识和热情帮扶。她的“破蒙戏”在乡村舞台上音惊四座，后改名忆秦娥被调入省秦腔团。 她勤学苦练，在台上的演出屡获成功。历经波折，她终于明白对秦腔艺术的传承才是她作为“主角”的真正意义，她将继续培养新一代秦腔舞台上亮丽的主角。",
+        "releaseDate": "2026-05-10",
+        "backdropPath": "/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
+        "posterPath": "/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 233076,
+        "type": "tmdb",
+        "title": "问心",
+        "originalTitle": "问心",
+        "description": "两年后，周筱风援黔归来与林逸、方筱然会合，三人小分队再度并肩作战，但也面对全新挑战。周筱风自身执着奋进且严守医疗原则，机缘之下被破格提拔为东立医院史上最年轻的心内科执行主任。职位的晋升，让他看到了更多可能、面临更大考验，也颠覆了他与林逸方筱然间原本的关系，甚至医院内外的生态平衡也因此被打破。与此同时，他们还需要面对医生永远的对手——病魔。一个接一个的病人与他们身后的家庭期待医护联手拯救。理想与现实时时冲突，无奈和温暖往往共生，他们只有在奋斗中不断成长，继续保持着“问心无愧”。",
+        "releaseDate": "2026-06-18",
+        "backdropPath": "/xBI8m2aYsr9o4vtgbnI7wsewGc6.jpg",
+        "posterPath": "/sEyJgrm80Lad7MRMchh6ZrdoAAi.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 300239,
+        "type": "tmdb",
+        "title": "动物园",
+        "originalTitle": "動物園",
+        "description": "任职于“彗流广告”的创意总监朱欣葵（邵雨薇 饰）个性好强，在职场上练就了一身超抗压的本领。就在她的事业即将起飞，有望调任纽约总部时，却接连遭遇重大打击：惹火大客户，男友无理取闹，最后竟被公司降职冷藏。此时，高雄寿山动物园为转型公开招标，想要更新品牌形象，这成了她职业生涯翻身的最后希望。没想到竞标条件却要求她必须亲身担任实习保育员！\n\n朱欣葵硬着头皮接下这份工作，从光鲜亮丽的广告总监，一夜之间沦为每天清理粪便、喂养动物的“铲屎官”。以往得心应手的办公室法则彻底失灵，她还得面对资深保育员苏冠州（王柏杰 饰）的严格要求和百般刁难。最初，她想尽办法想要离开这里，但在与动物的朝夕相处中，也让她逐渐卸下防备，找回了被焦虑掩埋的初心与勇气，并对这份呵护生命的工作产生了敬意，与苏冠州也从互看不顺眼的欢喜冤家，发展出一段令人心动的浪漫恋情。",
+        "releaseDate": "2026-02-20",
+        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
+        "posterPath": "/xixw0uzoEnk2523Y7OgrNcuF9l1.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 286438,
@@ -210,7 +301,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.473,
+        "rating": 9.466,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -226,6 +317,58 @@
         "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
+      },
+      {
+        "id": 136315,
+        "type": "tmdb",
+        "title": "熊家餐馆",
+        "originalTitle": "The Bear",
+        "description": "卡米离开餐厅后，西德尼、里奇和娜塔莉接手“熊家餐馆”。面对餐厅经营压力与追逐米其林星级的梦想，他们必须携手完成一场决定未来的关键服务。在考验接踵而至之际，他们逐渐明白，这家餐厅最珍贵的，并非料理本身，而是一路同行、彼此扶持的伙伴。",
+        "releaseDate": "2026-06-25",
+        "backdropPath": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
+        "posterPath": "/7y1ibpkTwlKYrxFbq3lh2RgIB1k.jpg",
+        "rating": 5.7,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 94997,
+        "type": "tmdb",
+        "title": "权力的游戏前传：龙族",
+        "originalTitle": "House of the Dragon",
+        "description": "黑党与绿党为争夺铁王座展开了一场全面而无情的战争。当群龙与大军在王国各地激战时，维斯特洛见证了全面战争带来的毁灭性后果。",
+        "releaseDate": "2026-06-21",
+        "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
+        "rating": 5.5,
+        "mediaType": "tv",
+        "genreTitle": "Sci-Fi & Fantasy, 剧情"
+      },
+      {
+        "id": 273240,
+        "type": "tmdb",
+        "title": "校园之外",
+        "originalTitle": "Off Campus",
+        "description": "为了赢得心上人的心，汉娜·威尔斯主动为冰球队队长加雷特·格雷厄姆辅导功课。随着两人面对各自的过往，这场最初各取所需的交易，渐渐萌生了真情。他们的朋友洛根、迪恩、塔克和艾莉也都在大学生活与爱情中摸索前行。",
+        "releaseDate": "2026-05-13",
+        "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+        "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
+        "rating": 8.91,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 60625,
+        "type": "tmdb",
+        "title": "瑞克和莫蒂",
+        "originalTitle": "Rick and Morty",
+        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
+        "releaseDate": "2026-05-24",
+        "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
+        "rating": 8.3,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 289424,
@@ -249,7 +392,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.3,
+        "rating": 9.042,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
