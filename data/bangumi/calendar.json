@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-12T16:55:00.548Z",
+  "time": "2026-07-13T17:51:23.842Z",
   "data": {
     "星期日": [
       {
@@ -37,9 +37,9 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/2ZiCNiuOiUGfAF0j73RI8DX1Z1N.jpg",
         "posterPath": "/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg",
-        "rating": 10,
+        "rating": 9.5,
         "mediaType": "tv",
-        "genreTitle": "动画, Sci-Fi & Fantasy"
+        "genreTitle": "动画, 剧情"
       },
       {
         "id": 94664,
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
-        "rating": 8.481,
+        "rating": 8.471,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-12",
         "backdropPath": "/iw8bfqec8so9QPqnd4XMaYFJFet.jpg",
         "posterPath": "/btdVYnkRuwaHOLooc5phlUImusV.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
         "posterPath": "/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-        "rating": 7.5,
+        "rating": 7.333,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -202,7 +202,7 @@
       {
         "id": 284581,
         "type": "tmdb",
-        "title": "最强出涸皇子的暗跃帝位争夺 虽然对帝位没兴趣，但我不想死所以让我弟当皇帝吧",
+        "title": "最强出涸废渣皇子的暗中活跃帝位之争夺",
         "originalTitle": "最強出涸らし皇子の暗躍帝位争い",
         "description": "无能萎靡的皇子艾诺特声望低落。\n\n　　他生活浪荡，还被帝国上下看扁成「优点都被杰出的双胞胎弟弟吸收殆尽的『废渣皇子』」。\n\n　　然而，面临皇子间的帝位之争越趋激烈的危机，艾诺特终于决心拿出真本事。\n\n　　「我没有打算成为皇帝，但是要我被斗垮而死于非命嘛，想都别想。」\n\n　　深藏已久的稀世才智发挥出谋略与谈判术，再加上「操控古代禁忌魔法之顶尖SS级冒险者」的真正实力及其地位──\n\n　　掩饰真身于暗中活跃的废渣皇子将运用一切，并带着肯为他奉献的举国第一美姬，从幕后支配这场帝位之争！",
         "releaseDate": "2026-07-06",
@@ -234,7 +234,7 @@
         "releaseDate": "2018-07-14",
         "backdropPath": "/pJqAgDico7ZTMAfAXyzldYqj5ME.jpg",
         "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
-        "rating": 7.694,
+        "rating": 7.696,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -254,7 +254,7 @@
       {
         "id": 298831,
         "type": "tmdb",
-        "title": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
+        "title": "暴走千金立誓复仇。～用魔导书之力碾碎祖国～",
         "originalTitle": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
         "description": "被解除婚约，亦被祖国背叛的天才千金，拿起最强的魔导书决心复仇！！！！\n\n「离开国家吧。然后，我要报复这个国家。」\n\n从懂事起就被安排成为未来的国母不断努力的公爵千金·伊莉莎白，在建国纪念宴会上被移情别恋到其他千金的王太子以残酷的方式解除婚约。就这样被软禁在牢房的一个月后，连国家也背叛她，让伊莉莎白的忍耐到达极限，决定以一直隐藏的真正力量【七大魔导书】逃亡。她在邻国的子爵路卡斯的帮助下，在新的场所与认同她本身实力的同伴们展开新生活。\n\n把对祖国的复仇之心藏在心中──借着过去建构的情报网与设立商会得到的财力，以及来自魔导书的武力，获得自由的天才千金肆无忌惮的崛起剧开幕！！",
         "releaseDate": "2026-07-06",
@@ -299,7 +299,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
         "posterPath": "/xGxSWFnSKur7pTDhafiE5QnFYo.jpg",
-        "rating": 7.2,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -338,7 +338,7 @@
         "releaseDate": "1997-01-12",
         "backdropPath": "/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
         "posterPath": "/5WLMR03uv7RJ9g2lmBInM2Pjcjg.jpg",
-        "rating": 7.406,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -459,7 +459,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.7,
+        "rating": 8.746,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -485,7 +485,7 @@
         "releaseDate": "2022-04-03",
         "backdropPath": "/c0oFoz7PttzMLsQOQn54Lcu8V9d.jpg",
         "posterPath": "/oHraANBb1gOU425bk26CgZtPP5H.jpg",
-        "rating": 7.467,
+        "rating": 7.407,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -498,7 +498,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.61,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -524,7 +524,7 @@
         "releaseDate": "2025-04-05",
         "backdropPath": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
         "posterPath": "/fWLpYnmApgNQXOV80o72vevmZOI.jpg",
-        "rating": 7.2,
+        "rating": 7.174,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -563,7 +563,7 @@
         "releaseDate": "2025-07-02",
         "backdropPath": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
         "posterPath": "/krx4GwKIWVCtr4MgMeGi4lYkz5x.jpg",
-        "rating": 7.9,
+        "rating": 7.933,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -576,7 +576,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg",
         "posterPath": "/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -669,7 +669,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/fPkGYEIldhxYORVKTyDnJlIPKU3.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
-        "rating": 8.571,
+        "rating": 8.75,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -682,9 +682,9 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.042,
+        "rating": 8.962,
         "mediaType": "tv",
-        "genreTitle": "动画, 剧情"
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 300112,
@@ -760,7 +760,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.472,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -773,7 +773,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/viXhoiWQbXZiTSTj9NbzDyEEm5Q.jpg",
         "posterPath": "/mbG3QYYqcZ8b6PSt6gQJquvsszQ.jpg",
-        "rating": 7,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
@@ -959,7 +959,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/fwdosqd1BW1tDlvaF9qhMuERQGY.jpg",
         "posterPath": "/9HW5N89FN8hdo0PjbYiYVENBeH1.jpg",
-        "rating": 7.5,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "动作, 冒险"
       },
@@ -982,7 +982,7 @@
         "title": "猫与龙",
         "originalTitle": "猫と竜",
         "description": "在幽深的森林深处，生活着一只会喷火的龙与一群能使用魔法的猫咪。这只龙在出生前就失去了亲生父母，被一只偶然相遇的母猫抚养长大。在猫咪们看来，它是一只会飞翔、会喷火，「有点特别的猫」，但它们还是将它视为家人接纳进族群里。龙似乎想报答母猫的养育之恩，因此总是陪伴在森林的猫咪们身旁，默默守护着它们。而猫咪们则称呼它为「翅膀大叔」，十分仰慕且依赖着龙。另一方面，人类则怀着敬畏之心，奉它为「猫龙」……",
-        "releaseDate": "2026-06-27",
+        "releaseDate": "2026-07-04",
         "backdropPath": "/u02TXrpVxJXxbh9odWbrqbymPKC.jpg",
         "posterPath": "/lSloeMq52OkhxCWH8GsomYziVGa.jpg",
         "rating": 8,
@@ -1011,7 +1011,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.794,
+        "rating": 7.791,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1037,7 +1037,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/9LPCCMWBmuVg7wuU2hchw1kWLMW.jpg",
         "posterPath": "/8grnaUpKFjvOP24oGlCtkPs1Yjn.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1084,7 +1084,7 @@
         "id": 116042,
         "type": "tmdb",
         "title": "如果历史是一群喵",
-        "originalTitle": "如果歷史是一群喵",
+        "originalTitle": "如果历史是一群喵",
         "description": "该剧是一部以华夏历史为主线，依据二十四史等文献资料编绘的历史漫画，旨在向青年读者普及中华历史知识。作品以风趣幽默的语言对历史事件进行了重新解读，更容易为年轻人记忆和接受。在表达上，作品用现代漫画的手法塑造了12只体态丰盈、造型可爱的猫咪，用它们把历史事件演绎成了精彩的历史故事。漫画不但响应了中央关于“弘扬中华优秀传统文化”的号召，还是文化创新和“寓教于乐”的一次新探索和尝试。",
         "releaseDate": "2018-09-02",
         "backdropPath": "/iaV6JMFB3p39d3kNnkd2hhAER1K.jpg",
@@ -1125,7 +1125,7 @@
         "title": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
         "originalTitle": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます",
         "description": "有一份通知从天而降来到没落贵族的千金，艾尔莎的身边。那就是来自超级精英贵族，尤里乌斯的求婚。“如此出色的人为何要找我？”尽管虽然觉得不可思议但还是决定结婚，可是在婚礼后，迄今为止一直温柔平静的尤里乌斯突然性情大变！用冰冷的声音传达道“今后，我完全没有打算要爱你”？！性格别扭的次任公爵×积极向上的没落千金的令人焦急的心动恋爱故事。",
-        "releaseDate": "2026-07-04",
+        "releaseDate": "2026-07-05",
         "backdropPath": "/fbn801LwOIQ04eFvPT2VNVAgZRc.jpg",
         "posterPath": "/yr6dl4TYfG9EznBmM8fUqlo3ewd.jpg",
         "rating": 0,
