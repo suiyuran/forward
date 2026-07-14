@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-13T18:44:51.014Z",
+  "time": "2026-07-14T18:06:05.986Z",
   "data": [
     {
       "id": 1491920,
@@ -49,7 +49,7 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 6.821,
+      "rating": 6.877,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -67,19 +67,6 @@
       "genreTitle": "历史, 战争"
     },
     {
-      "id": 1280738,
-      "type": "tmdb",
-      "title": "火遮眼",
-      "originalTitle": "火遮眼",
-      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-      "releaseDate": "2026-06-10",
-      "backdropPath": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
-      "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-      "rating": 7.529,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1305672,
       "type": "tmdb",
       "title": "抓特务",
@@ -93,6 +80,19 @@
       "genreTitle": "历史, 剧情"
     },
     {
+      "id": 1280738,
+      "type": "tmdb",
+      "title": "火遮眼",
+      "originalTitle": "火遮眼",
+      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+      "releaseDate": "2026-06-10",
+      "backdropPath": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
+      "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
       "id": 1084244,
       "type": "tmdb",
       "title": "玩具总动员5",
@@ -100,10 +100,23 @@
       "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
       "releaseDate": "2026-06-17",
       "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 7.4,
+      "posterPath": "/jCsZCz3IOVwKnEpN7GmHzA8fjx3.jpg",
+      "rating": 7.422,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
+    },
+    {
+      "id": 1315772,
+      "type": "tmdb",
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "releaseDate": "2026-06-24",
+      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "rating": 6.4,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动画"
     },
     {
       "id": 1108427,
@@ -114,22 +127,9 @@
       "releaseDate": "2026-07-08",
       "backdropPath": "/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
       "posterPath": "/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
-      "rating": 5.2,
+      "rating": 5.577,
       "mediaType": "movie",
       "genreTitle": "家庭, 奇幻"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "releaseDate": "2026-06-24",
-      "backdropPath": "/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 6.359,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动画"
     },
     {
       "id": 1318413,
@@ -158,19 +158,6 @@
       "genreTitle": "剧情, 家庭"
     },
     {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "releaseDate": "2026-06-10",
-      "backdropPath": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "rating": 6.689,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 惊悚"
-    },
-    {
       "id": 1396674,
       "type": "tmdb",
       "title": "一个部门的诞生",
@@ -182,6 +169,19 @@
       "rating": 7.8,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
+    },
+    {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "releaseDate": "2026-06-10",
+      "backdropPath": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
+      "rating": 6.687,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 惊悚"
     },
     {
       "id": 1671548,
@@ -203,9 +203,9 @@
       "originalTitle": "Supergirl",
       "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
       "releaseDate": "2026-06-24",
-      "backdropPath": "/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
+      "backdropPath": "/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
       "posterPath": "/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "rating": 6.3,
+      "rating": 6.229,
       "mediaType": "movie",
       "genreTitle": "动作, 冒险"
     },
@@ -236,19 +236,6 @@
       "genreTitle": "犯罪"
     },
     {
-      "id": 687163,
-      "type": "tmdb",
-      "title": "挽救计划",
-      "originalTitle": "Project Hail Mary",
-      "description": "太阳正在被“吃”掉，绝望吞噬地球。一名“平凡”的中学教师背负全人类的希望，踏上“太空不归路”。末路孤旅中，他意外遇到一位外星萌友，一个同样身陷绝境的外星工程师，这对“宇宙搭子”成了两个文明最后的救命稻草。他们能否在资源紧缺的情况下攻克重重科学谜 题，寻回唯一的希望火种？",
-      "releaseDate": "2026-03-15",
-      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.67,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 冒险"
-    },
-    {
       "id": 1435047,
       "type": "tmdb",
       "title": "爱是愤怒",
@@ -262,30 +249,17 @@
       "genreTitle": "犯罪, 爱情"
     },
     {
-      "id": 1301421,
+      "id": 687163,
       "type": "tmdb",
-      "title": "绵羊侦探团",
-      "originalTitle": "The Sheep Detectives",
-      "description": "影片改编自莱奥妮·斯万的畅销小说。牧羊人乔治最爱给羊群读侦探小说，没想到自己有一天会离奇死亡。他留下的3000万巨额遗产，让每个人貌似都有犯罪动机。警察毫无头绪之时，羊群们决定“不务正业”迈出牧场，追查牧羊人“躺平”真相！它们秉承着遇见麻烦就吃草，嗅到危险就躺倒的哲学，却迎来了一个意想不到的结果……",
-      "releaseDate": "2026-04-30",
-      "backdropPath": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
-      "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-      "rating": 7.9,
+      "title": "挽救计划",
+      "originalTitle": "Project Hail Mary",
+      "description": "太阳正在被“吃”掉，绝望吞噬地球。一名“平凡”的中学教师背负全人类的希望，踏上“太空不归路”。末路孤旅中，他意外遇到一位外星萌友，一个同样身陷绝境的外星工程师，这对“宇宙搭子”成了两个文明最后的救命稻草。他们能否在资源紧缺的情况下攻克重重科学谜 题，寻回唯一的希望火种？",
+      "releaseDate": "2026-03-15",
+      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
+      "rating": 8.667,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 家庭"
-    },
-    {
-      "id": 1228710,
-      "type": "tmdb",
-      "title": "星球大战：曼达洛人与古古",
-      "originalTitle": "The Mandalorian and Grogu",
-      "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
-      "releaseDate": "2026-05-20",
-      "backdropPath": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "posterPath": "/v7uzb75PRTBRce4OzMMgFUmGA7j.jpg",
-      "rating": 6.66,
-      "mediaType": "movie",
-      "genreTitle": "动作, 冒险"
+      "genreTitle": "科幻, 冒险"
     },
     {
       "id": 1269075,
@@ -314,6 +288,32 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1301421,
+      "type": "tmdb",
+      "title": "绵羊侦探团",
+      "originalTitle": "The Sheep Detectives",
+      "description": "影片改编自莱奥妮·斯万的畅销小说。牧羊人乔治最爱给羊群读侦探小说，没想到自己有一天会离奇死亡。他留下的3000万巨额遗产，让每个人貌似都有犯罪动机。警察毫无头绪之时，羊群们决定“不务正业”迈出牧场，追查牧羊人“躺平”真相！它们秉承着遇见麻烦就吃草，嗅到危险就躺倒的哲学，却迎来了一个意想不到的结果……",
+      "releaseDate": "2026-04-30",
+      "backdropPath": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
+      "rating": 7.9,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 家庭"
+    },
+    {
+      "id": 1228710,
+      "type": "tmdb",
+      "title": "星球大战：曼达洛人与古古",
+      "originalTitle": "The Mandalorian and Grogu",
+      "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
+      "releaseDate": "2026-05-20",
+      "backdropPath": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "posterPath": "/v7uzb75PRTBRce4OzMMgFUmGA7j.jpg",
+      "rating": 6.7,
+      "mediaType": "movie",
+      "genreTitle": "动作, 冒险"
+    },
+    {
       "id": 1658653,
       "type": "tmdb",
       "title": "消失的人",
@@ -325,19 +325,6 @@
       "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
-    },
-    {
-      "id": 1226863,
-      "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "releaseDate": "2026-04-01",
-      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "posterPath": "/7tLVCMnGg0Q3rWlkoBjdKA0S57R.jpg",
-      "rating": 8.252,
-      "mediaType": "movie",
-      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 1275051,
@@ -366,6 +353,32 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1226863,
+      "type": "tmdb",
+      "title": "超级马力欧银河大电影",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
+      "releaseDate": "2026-04-01",
+      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "posterPath": "/7tLVCMnGg0Q3rWlkoBjdKA0S57R.jpg",
+      "rating": 8.254,
+      "mediaType": "movie",
+      "genreTitle": "家庭, 喜剧"
+    },
+    {
+      "id": 936075,
+      "type": "tmdb",
+      "title": "迈克尔·杰克逊：巨星之路",
+      "originalTitle": "Michael",
+      "description": "本片将通过一段从未展现过的深度视角，真实记录传奇巨星迈克尔·杰克逊的复杂人生。影片不仅再现了他最具标志性的艺术表演瞬间，更深入挖掘了他的内心世界——从天才神童的成长阵痛到全球偶像背后的争议与坚韧，全面呈现这位伟大艺术家的辉煌与坎坷。",
+      "releaseDate": "2026-04-22",
+      "backdropPath": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "posterPath": "/1hPSbiyfAhtWAIBf2XtDPA0NyvS.jpg",
+      "rating": 8.702,
+      "mediaType": "movie",
+      "genreTitle": "音乐, 剧情"
+    },
+    {
       "id": 1714841,
       "type": "tmdb",
       "title": "关索岭",
@@ -379,28 +392,15 @@
       "genreTitle": "动作, 历史"
     },
     {
-      "id": 936075,
+      "id": 1168719,
       "type": "tmdb",
-      "title": "迈克尔·杰克逊：巨星之路",
-      "originalTitle": "Michael",
-      "description": "本片将通过一段从未展现过的深度视角，真实记录传奇巨星迈克尔·杰克逊的复杂人生。影片不仅再现了他最具标志性的艺术表演瞬间，更深入挖掘了他的内心世界——从天才神童的成长阵痛到全球偶像背后的争议与坚韧，全面呈现这位伟大艺术家的辉煌与坎坷。",
-      "releaseDate": "2026-04-22",
-      "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-      "posterPath": "/1hPSbiyfAhtWAIBf2XtDPA0NyvS.jpg",
-      "rating": 8.701,
-      "mediaType": "movie",
-      "genreTitle": "音乐, 剧情"
-    },
-    {
-      "id": 1454209,
-      "type": "tmdb",
-      "title": "非穷尽列举",
-      "originalTitle": "National Theatre Live: Inter Alia",
-      "description": "Jessica Parks是一位精明的刑事法庭法官，正处于事业巅峰期。在法袍背后，她是一个卡拉OK发烧友、有爱的妻子和支持孩子的家长。当一起事件有可能让她的生活完全失去平衡时，她能否支撑起自己的家庭？",
-      "releaseDate": "2025-09-25",
-      "backdropPath": "/gpQwPhKmUmBZxmA9bcBeFDbDgdS.jpg",
-      "posterPath": "/smdKDbTCLBuNJg3R5Eu0HakrwFU.jpg",
-      "rating": 8.2,
+      "title": "寂静的朋友",
+      "originalTitle": "Silent Friend",
+      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
+      "releaseDate": "2026-01-15",
+      "backdropPath": "/3HgNb4XRFVxwWP6XrES2oGOvHit.jpg",
+      "posterPath": "/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -418,19 +418,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1168719,
-      "type": "tmdb",
-      "title": "寂静的朋友",
-      "originalTitle": "Silent Friend",
-      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
-      "releaseDate": "2026-01-15",
-      "backdropPath": "/3HgNb4XRFVxwWP6XrES2oGOvHit.jpg",
-      "posterPath": "/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 110,
       "type": "tmdb",
       "title": "蓝白红三部曲之红",
@@ -442,58 +429,6 @@
       "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1235623,
-      "type": "tmdb",
-      "title": "目中无人2",
-      "originalTitle": "目中无人2",
-      "description": "武艺高强的盲眼捉刀人成瞎子（谢苗 饰）偶然救下了惨遭灭门的张小渔（杨恩又 饰）。在孤儿小渔的软磨硬泡下，成瞎子无奈将其留在身边并教其本领，小渔也等待着时机准备复仇……",
-      "releaseDate": "2024-07-21",
-      "backdropPath": "/bx6LoGl8L3hwgOCoD2H8JgIu7uC.jpg",
-      "posterPath": "/isVAfZn5orLcUwoI1IUWPMWHmPV.jpg",
-      "rating": 6.265,
-      "mediaType": "movie",
-      "genreTitle": "动作, 剧情"
-    },
-    {
-      "id": 573699,
-      "type": "tmdb",
-      "title": "白蛇：缘起",
-      "originalTitle": "白蛇：缘起",
-      "description": "晚唐年间，国师发动民众大量捕蛇。前去刺杀国师的白蛇意外失忆，被捕蛇村少年救下。为帮助少女找回记忆，两人踏上了一段冒险旅程。冒险的过程让两人感情迅速升温，但少女蛇妖的身份也逐渐显露，另一边国师与蛇族之间不可避免的大战也即将打响，两人的爱情将要接受巨大考验。",
-      "releaseDate": "2019-01-11",
-      "backdropPath": "/jIAyjJMrEIDjojxQDdZemDwqr82.jpg",
-      "posterPath": "/lb9TwiEuSl5vqFv8W5o0FhXqt3r.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 动画"
-    },
-    {
-      "id": 543762,
-      "type": "tmdb",
-      "title": "过春天",
-      "originalTitle": "过春天",
-      "description": "16岁单亲家庭女孩“佩佩”，她的城市既是香港、也是深圳，一边有身份，一边有生活。为了和闺蜜的约定，为了自己的存在感，为了懵懂的好感，她内心的冲动被点燃、“水客”成为了她的另一个身份，一段颇有“冒险”感的青春故事就此开始。",
-      "releaseDate": "2018-09-07",
-      "backdropPath": "/ghv95RGg6FUutblufgBwCEa3Vo2.jpg",
-      "posterPath": "/gefl9govhMARowP7aQyo9aTqz6g.jpg",
-      "rating": 6.7,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
-    },
-    {
-      "id": 175,
-      "type": "tmdb",
-      "title": "碧海蓝天",
-      "originalTitle": "Le Grand Bleu",
-      "description": "杰克在希腊海边长大，虽然小时候眼看着爸爸死于一次潜水事故，却没有削减杰克对大海的热爱。当杰克的朋友恩佐找到他，劝说他参加潜水冠军大赛时，杰克答应了，在比赛中成绩突出勇夺冠军，并且得到了乔安娜的爱。两人打得火热，杰克却意识到他放不下、离不开大海。意外发生了。好友恩佐在潜水中不幸丧生，杰克把恩佐的尸首放入大海当中，杰克的心中非常迷乱，他觉得自己不再属于人类社会，只想潜进深海，像海豚一样陪伴大海一生。尽管传来了乔安娜怀孕的消息，杰克深情的看了看爱人，转身投入了大海的怀抱。",
-      "releaseDate": "1988-05-10",
-      "backdropPath": "/1J28PJOkusMN5Ab9Q3oF310e11k.jpg",
-      "posterPath": "/ikD0ORv6IXkupSEwXlgMDm5fPeX.jpg",
-      "rating": 7.4,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 冒险"
     },
     {
       "id": 72245,
@@ -509,6 +444,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 175,
+      "type": "tmdb",
+      "title": "碧海蓝天",
+      "originalTitle": "Le Grand Bleu",
+      "description": "杰克在希腊海边长大，虽然小时候眼看着爸爸死于一次潜水事故，却没有削减杰克对大海的热爱。当杰克的朋友恩佐找到他，劝说他参加潜水冠军大赛时，杰克答应了，在比赛中成绩突出勇夺冠军，并且得到了乔安娜的爱。两人打得火热，杰克却意识到他放不下、离不开大海。意外发生了。好友恩佐在潜水中不幸丧生，杰克把恩佐的尸首放入大海当中，杰克的心中非常迷乱，他觉得自己不再属于人类社会，只想潜进深海，像海豚一样陪伴大海一生。尽管传来了乔安娜怀孕的消息，杰克深情的看了看爱人，转身投入了大海的怀抱。",
+      "releaseDate": "1988-05-10",
+      "backdropPath": "/1J28PJOkusMN5Ab9Q3oF310e11k.jpg",
+      "posterPath": "/ikD0ORv6IXkupSEwXlgMDm5fPeX.jpg",
+      "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 冒险"
+    },
+    {
       "id": 8073,
       "type": "tmdb",
       "title": "法外之徒",
@@ -520,19 +468,6 @@
       "rating": 7.489,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 68883,
-      "type": "tmdb",
-      "title": "胭脂扣",
-      "originalTitle": "胭脂扣",
-      "description": "在香港报馆任职的袁永定（万梓良 饰）遇见一位前来刊登寻人广告的冷艳女子，但她又无钱付广告费。袁永定借故离开，不料那女子紧随而来。在闲聊中袁永定惊讶地发现此女子原是鬼魂。她是二十世纪三十年代香港石塘咀的红牌妓女如花（梅艳芳 饰）。在那风月世界里，她爱上了人称十二少的陈振邦（张国荣 饰），到了谈论嫁娶之地步，但是由于身份地位悬殊，婚事遭到陈家反对。\r 陈振邦脱离家庭与如花同居，两人以胭脂匣定情。在二人同居后染食鸦片，陈振邦乃一纨绔子弟，无养家糊口的本领，渐渐经济拮据，于是如花计划与其吞食鸦片殉情。结果如花死去，而陈振邦被救活。如花在黄泉久候不见陈振邦，故回阳间寻找。\r 袁永定与女友（朱宝意 饰）无意中发现当年一张《骨子报》，发现陈振邦原在一家电影制片厂内充当制片场临时演员。陈振邦经岁月的折磨，早已穷困潦倒，对往事早已淡漠。如花伤心之余，将胭脂匣交还，回到阴间转世去了。",
-      "releaseDate": "1987-12-05",
-      "backdropPath": "/4kpbkS9V4QJcQBnvxvRfRojdFyI.jpg",
-      "posterPath": "/n7xK6bz8aUNb8LxCBtJX5AXonFh.jpg",
-      "rating": 7.422,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 奇幻"
     },
     {
       "id": 37247,
@@ -561,43 +496,17 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 844075,
+      "id": 68883,
       "type": "tmdb",
-      "title": "新神榜：杨戬",
-      "originalTitle": "新神榜：杨戬",
-      "description": "商周之战一千五百年后，天界衰落，蒙冤落魄的杨戬以赏银捕手为业谋生。一日，杨戬接受了一位神秘访客的赏银去追捕一位少年，意外发现少年竟是自己的亲外甥沉香。沉香立志要寻回宝莲灯，劈山救母，却将酿成大祸。杨戬踏上追寻沉香并揭开尘封往事的旅程……",
-      "releaseDate": "2022-08-19",
-      "backdropPath": "/zxIXvhF5PSZwQ9tvlLIzhcwi7IO.jpg",
-      "posterPath": "/gIxieIOq0Mnd7LoNlXGxuhyoBdh.jpg",
-      "rating": 7.495,
+      "title": "胭脂扣",
+      "originalTitle": "胭脂扣",
+      "description": "在香港报馆任职的袁永定（万梓良 饰）遇见一位前来刊登寻人广告的冷艳女子，但她又无钱付广告费。袁永定借故离开，不料那女子紧随而来。在闲聊中袁永定惊讶地发现此女子原是鬼魂。她是二十世纪三十年代香港石塘咀的红牌妓女如花（梅艳芳 饰）。在那风月世界里，她爱上了人称十二少的陈振邦（张国荣 饰），到了谈论嫁娶之地步，但是由于身份地位悬殊，婚事遭到陈家反对。\r 陈振邦脱离家庭与如花同居，两人以胭脂匣定情。在二人同居后染食鸦片，陈振邦乃一纨绔子弟，无养家糊口的本领，渐渐经济拮据，于是如花计划与其吞食鸦片殉情。结果如花死去，而陈振邦被救活。如花在黄泉久候不见陈振邦，故回阳间寻找。\r 袁永定与女友（朱宝意 饰）无意中发现当年一张《骨子报》，发现陈振邦原在一家电影制片厂内充当制片场临时演员。陈振邦经岁月的折磨，早已穷困潦倒，对往事早已淡漠。如花伤心之余，将胭脂匣交还，回到阴间转世去了。",
+      "releaseDate": "1987-12-05",
+      "backdropPath": "/4kpbkS9V4QJcQBnvxvRfRojdFyI.jpg",
+      "posterPath": "/n7xK6bz8aUNb8LxCBtJX5AXonFh.jpg",
+      "rating": 7.422,
       "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
-      "id": 11044,
-      "type": "tmdb",
-      "title": "亚利桑那之梦",
-      "originalTitle": "Arizona Dream",
-      "description": "在纽约打工的青年阿克塞（Johnny Depp 饰）梦中看到一位因纽特人昏倒在冰原上，雪橇犬将其救回，一只红气球在空中不停飘荡……阿克塞痴迷表演的朋友保罗（Vincent Gallo 饰）来访，邀请他远赴亚利桑那为伯父里奥伴婚，里奥在亚利桑那经营汽车生意打拼多年，遂留下阿克塞与保罗二人在车行中工作。不久阿克塞结识了性格不合的艾琳娜（Faye Dunaway 饰）与格蕾丝母女，为帮助艾琳娜圆一个飞行梦，阿克塞滞留这对母女家中，尝试制作各种飞行器，在不断的失败中从头再来，这对神经质母女的吵闹一直伴随着他。阿克塞的梦里，一只鱼在空中穿梭飞升……艾琳娜终于得到了一架小飞机，在庆祝的聚会上，阿克塞向格蕾丝示爱引发了意外的结局。  　　本片获1993年柏林电影节银熊奖。",
-      "releaseDate": "1993-01-06",
-      "backdropPath": "/iJ4XWlsGpZuZOQDTYenn9YqWfR0.jpg",
-      "posterPath": "/5njDD9mzKKxN1qSmrSd2Ewjs6OF.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "奇幻, 喜剧"
-    },
-    {
-      "id": 4024,
-      "type": "tmdb",
-      "title": "去年在马里昂巴德",
-      "originalTitle": "L'Année dernière à Marienbad",
-      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
-      "releaseDate": "1961-09-29",
-      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
-      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
-      "rating": 7.431,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
+      "genreTitle": "剧情, 奇幻"
     },
     {
       "id": 64131,
@@ -609,6 +518,19 @@
       "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
       "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
       "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 4024,
+      "type": "tmdb",
+      "title": "去年在马里昂巴德",
+      "originalTitle": "L'Année dernière à Marienbad",
+      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
+      "releaseDate": "1961-09-29",
+      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
+      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
+      "rating": 7.431,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -626,17 +548,17 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 663558,
+      "id": 11044,
       "type": "tmdb",
-      "title": "新神榜：哪吒重生",
-      "originalTitle": "新神榜：哪吒重生",
-      "description": "三千年前，天下动荡，人神共遇大劫，不想哪吒的一缕魂魄逃脱天罗地网，世世转世投胎，这一世与东海市酷爱机车的热血青年李云祥人神共生。然而龙族对哪吒恩怨并未善罢甘休，有着哪吒元神的李云祥，亦无法逃脱被龙族赶尽杀绝的宿命。东海危在旦夕，李云祥是否能够与哪吒元神并肩作战，成为抵抗龙族的英雄？东海市的子民能否得到拯救？",
-      "releaseDate": "2021-02-06",
-      "backdropPath": "/4PKfa0zltSrp1BJoLl8zfvYXaac.jpg",
-      "posterPath": "/iyOgNaaDX67AUMWlzsGZVO1luoh.jpg",
-      "rating": 8.07,
+      "title": "亚利桑那之梦",
+      "originalTitle": "Arizona Dream",
+      "description": "在纽约打工的青年阿克塞（Johnny Depp 饰）梦中看到一位因纽特人昏倒在冰原上，雪橇犬将其救回，一只红气球在空中不停飘荡……阿克塞痴迷表演的朋友保罗（Vincent Gallo 饰）来访，邀请他远赴亚利桑那为伯父里奥伴婚，里奥在亚利桑那经营汽车生意打拼多年，遂留下阿克塞与保罗二人在车行中工作。不久阿克塞结识了性格不合的艾琳娜（Faye Dunaway 饰）与格蕾丝母女，为帮助艾琳娜圆一个飞行梦，阿克塞滞留这对母女家中，尝试制作各种飞行器，在不断的失败中从头再来，这对神经质母女的吵闹一直伴随着他。阿克塞的梦里，一只鱼在空中穿梭飞升……艾琳娜终于得到了一架小飞机，在庆祝的聚会上，阿克塞向格蕾丝示爱引发了意外的结局。  　　本片获1993年柏林电影节银熊奖。",
+      "releaseDate": "1993-01-06",
+      "backdropPath": "/iJ4XWlsGpZuZOQDTYenn9YqWfR0.jpg",
+      "posterPath": "/5njDD9mzKKxN1qSmrSd2Ewjs6OF.jpg",
+      "rating": 7.1,
       "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
+      "genreTitle": "奇幻, 喜剧"
     },
     {
       "id": 34838,
@@ -665,19 +587,6 @@
       "genreTitle": "剧情, 战争"
     },
     {
-      "id": 4173,
-      "type": "tmdb",
-      "title": "火山边缘之恋",
-      "originalTitle": "Stromboli (Terra di Dio)",
-      "description": "卡琳战争结束时住在意大利的一个难民营里，她没有钱离开那儿去别处谋生，在难民营她遇到了意大利士兵安东尼奥并和他结了婚，随他回到了家乡斯特隆波岛。在荒凉的火山岛上，当地人的生活习惯和习俗让卡琳感到非常失落，她所做的一切都被认为是有悖民风的，是个坏女人，卡琳想逃离海岛，她逃到了火山上，昏迷后醒来，孤独的她唯有祈求上帝给他帮助和启示……",
-      "releaseDate": "1950-02-15",
-      "backdropPath": "/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
-      "posterPath": "/7YEX2VP3YXxUNo3YvfbSiDYZTX4.jpg",
-      "rating": 7.098,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 318620,
       "type": "tmdb",
       "title": "庐山恋",
@@ -691,6 +600,19 @@
       "genreTitle": "爱情, 剧情"
     },
     {
+      "id": 4173,
+      "type": "tmdb",
+      "title": "火山边缘之恋",
+      "originalTitle": "Stromboli (Terra di Dio)",
+      "description": "卡琳战争结束时住在意大利的一个难民营里，她没有钱离开那儿去别处谋生，在难民营她遇到了意大利士兵安东尼奥并和他结了婚，随他回到了家乡斯特隆波岛。在荒凉的火山岛上，当地人的生活习惯和习俗让卡琳感到非常失落，她所做的一切都被认为是有悖民风的，是个坏女人，卡琳想逃离海岛，她逃到了火山上，昏迷后醒来，孤独的她唯有祈求上帝给他帮助和启示……",
+      "releaseDate": "1950-02-15",
+      "backdropPath": "/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
+      "posterPath": "/7YEX2VP3YXxUNo3YvfbSiDYZTX4.jpg",
+      "rating": 7.098,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 10400,
       "type": "tmdb",
       "title": "飓风",
@@ -699,7 +621,7 @@
       "releaseDate": "1999-09-17",
       "backdropPath": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
       "posterPath": "/iH7zKvZRD9GjLgUIZSOnFCPyFAl.jpg",
-      "rating": 7.438,
+      "rating": 7.439,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -730,19 +652,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 921937,
-      "type": "tmdb",
-      "title": "穆桂英挂帅(京剧)",
-      "originalTitle": "穆桂英挂帅(京剧)",
-      "description": "西夏王造反，佘太君差杨文广、杨金花进京打探。杨文广校场比武，刀劈王伦。宋王赐印命其母穆桂英挂帅出征。穆桂英先不愿挂帅，经佘太君劝勉，念及国家危亡，抛弃私愤，顿然振奋，慷慨誓师整肃军纪，率领大军出征。",
-      "releaseDate": "2017-04-21",
-      "backdropPath": null,
-      "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
       "id": 1002640,
       "type": "tmdb",
       "title": "Secrets of the Sea",
@@ -756,17 +665,30 @@
       "genreTitle": ""
     },
     {
-      "id": 115238,
+      "id": 1316352,
       "type": "tmdb",
-      "title": "风声",
-      "originalTitle": "风声",
-      "description": "故事发生在1941年的中国，时值汪伪政府统治期间，军统特工顾晓梦（徐璐 饰）经过了不懈的努力和伪装终于成功打入汪伪政府内部。一名日军情报部高官的死让日方震怒，他们认为这一切都是一个代号为“老鬼”的地下党领导人策划实施的。为了彻查此事揪出老鬼，顾小梦和译电组组长李宁玉（文咏珊 饰）、剿匪大队长吴志国（杨祐宁 饰）、司令侍从官白小年（牛子藩 饰）、剿匪总队军机处处长金生火（张志坚 饰）一行五人被关进了裘庄。负责审讯他们的是特务处处长王田香（余皑磊 饰）和日本特务机关长龙川肥原（周一围 饰）。如果不能在期限内揪出老鬼，那么他们五人将无人生还。",
-      "releaseDate": "2020-12-24",
-      "backdropPath": "/p5JmY7GJOZeHLXwsD8OZFkXf1En.jpg",
-      "posterPath": "/1Edz6JeUVPH5d4MTI5yj4A6Twb.jpg",
-      "rating": 6.5,
-      "mediaType": "tv",
-      "genreTitle": "剧情, 悬疑"
+      "title": "状元媒(京剧)",
+      "originalTitle": "状元媒(京剧)",
+      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
+      "releaseDate": "2015-04-23",
+      "backdropPath": null,
+      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 916971,
+      "type": "tmdb",
+      "title": "赵氏孤儿(京剧)",
+      "originalTitle": "赵氏孤儿(京剧)",
+      "description": "春秋晋国，屠岸贾侍宠杀害赵盾与全家三百余口。赵盾儿媳庄姬公主深宫产子，为救孤儿，程婴献子替孤。十五年后，程婴与魏绛联手杀死屠岸贾，报了赵家仇恨。  　　这幕悲剧是因屠岸贾、晋灵公在绛霄楼弹打百姓取乐而引发的……",
+      "releaseDate": "2017-04-21",
+      "backdropPath": null,
+      "posterPath": "/5zPq9KLq367E8WZFgltKM8N7urk.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "电视电影"
     }
   ]
 }
