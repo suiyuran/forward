@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-14T18:06:05.986Z",
+  "time": "2026-07-15T18:09:43.976Z",
   "data": [
     {
       "id": 1491920,
@@ -28,6 +28,19 @@
       "genreTitle": "动画, 历史"
     },
     {
+      "id": 1083381,
+      "type": "tmdb",
+      "title": "后室",
+      "originalTitle": "Backrooms",
+      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+      "releaseDate": "2026-05-27",
+      "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+      "rating": 6.93,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 悬疑"
+    },
+    {
       "id": 1353926,
       "type": "tmdb",
       "title": "特立独行",
@@ -41,19 +54,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1083381,
-      "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "releaseDate": "2026-05-27",
-      "backdropPath": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 6.877,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 悬疑"
-    },
-    {
       "id": 1604133,
       "type": "tmdb",
       "title": "四渡",
@@ -62,7 +62,7 @@
       "releaseDate": "2026-06-26",
       "backdropPath": "/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
       "posterPath": "/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
-      "rating": 4.7,
+      "rating": 5.25,
       "mediaType": "movie",
       "genreTitle": "历史, 战争"
     },
@@ -88,7 +88,7 @@
       "releaseDate": "2026-06-10",
       "backdropPath": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
       "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-      "rating": 7.5,
+      "rating": 7.445,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -101,7 +101,7 @@
       "releaseDate": "2026-06-17",
       "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "posterPath": "/jCsZCz3IOVwKnEpN7GmHzA8fjx3.jpg",
-      "rating": 7.422,
+      "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -114,7 +114,7 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 6.4,
+      "rating": 6.35,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -125,24 +125,11 @@
       "originalTitle": "Moana",
       "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
       "releaseDate": "2026-07-08",
-      "backdropPath": "/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
+      "backdropPath": "/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
       "posterPath": "/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
-      "rating": 5.577,
+      "rating": 5.656,
       "mediaType": "movie",
       "genreTitle": "家庭, 奇幻"
-    },
-    {
-      "id": 1318413,
-      "type": "tmdb",
-      "title": "诺曼底72小时",
-      "originalTitle": "Pressure",
-      "description": "聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
-      "releaseDate": "2026-05-25",
-      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 历史"
     },
     {
       "id": 1257942,
@@ -156,6 +143,19 @@
       "rating": 6,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
+    },
+    {
+      "id": 1318413,
+      "type": "tmdb",
+      "title": "诺曼底72小时",
+      "originalTitle": "Pressure",
+      "description": "聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
+      "releaseDate": "2026-05-25",
+      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 历史"
     },
     {
       "id": 1396674,
@@ -179,7 +179,7 @@
       "releaseDate": "2026-06-10",
       "backdropPath": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "rating": 6.687,
+      "rating": 6.693,
       "mediaType": "movie",
       "genreTitle": "科幻, 惊悚"
     },
@@ -205,35 +205,9 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
       "posterPath": "/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "rating": 6.229,
+      "rating": 6.226,
       "mediaType": "movie",
       "genreTitle": "动作, 冒险"
-    },
-    {
-      "id": 77,
-      "type": "tmdb",
-      "title": "记忆碎片",
-      "originalTitle": "Memento",
-      "description": "警方不予受理后，伦纳德·谢尔比执意追查强奸杀害妻子的凶手。然而，一种罕见且无法治愈的失忆症，使他踏上复仇之路难上加难。",
-      "releaseDate": "2000-10-11",
-      "backdropPath": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
-      "posterPath": "/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
-      "rating": 8.2,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
-    },
-    {
-      "id": 1725228,
-      "type": "tmdb",
-      "title": "全城追缉",
-      "originalTitle": "全城追缉",
-      "description": "取材于佛山公安英模林伟光与刑警八大队真实事迹。本世纪初，街头飞抢横行，民众人人自危。佛山公安组建全国首支打击街面 “双抢” 专业队刑警八大队，副队长林伟带队骑摩托奔赴一线，与飞车劫匪展开常年生死追缉。十一年间，八大队抓获嫌疑人两万余名，林伟三十余次负伤，数次重伤，曾从高架坠落仍坚守岗位。影片以写实手法，还原惊险追凶与抓捕现场，刻画民警无畏担当，也细腻呈现警嫂默默守候的温情日常，真实致敬以血肉之躯守护万家平安的公安英雄。",
-      "releaseDate": "2026-07-11",
-      "backdropPath": "/aVtR5KcWGGzsOY2v7NaRcsWKmWG.jpg",
-      "posterPath": "/o2QjzBI8u1sC0ngtMGmGLAeRBcC.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "犯罪"
     },
     {
       "id": 1435047,
@@ -249,6 +223,19 @@
       "genreTitle": "犯罪, 爱情"
     },
     {
+      "id": 77,
+      "type": "tmdb",
+      "title": "记忆碎片",
+      "originalTitle": "Memento",
+      "description": "警方不予受理后，伦纳德·谢尔比执意追查强奸杀害妻子的凶手。然而，一种罕见且无法治愈的失忆症，使他踏上复仇之路难上加难。",
+      "releaseDate": "2000-10-11",
+      "backdropPath": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+      "posterPath": "/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
+      "rating": 8.176,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 惊悚"
+    },
+    {
       "id": 687163,
       "type": "tmdb",
       "title": "挽救计划",
@@ -257,9 +244,22 @@
       "releaseDate": "2026-03-15",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "posterPath": "/qf8HaEGNUFXU6nVAq9BVEk4Tiqb.jpg",
-      "rating": 8.667,
+      "rating": 8.666,
       "mediaType": "movie",
       "genreTitle": "科幻, 冒险"
+    },
+    {
+      "id": 1725228,
+      "type": "tmdb",
+      "title": "全城追缉",
+      "originalTitle": "全城追缉",
+      "description": "取材于佛山公安英模林伟光与刑警八大队真实事迹。本世纪初，街头飞抢横行，民众人人自危。佛山公安组建全国首支打击街面 “双抢” 专业队刑警八大队，副队长林伟带队骑摩托奔赴一线，与飞车劫匪展开常年生死追缉。十一年间，八大队抓获嫌疑人两万余名，林伟三十余次负伤，数次重伤，曾从高架坠落仍坚守岗位。影片以写实手法，还原惊险追凶与抓捕现场，刻画民警无畏担当，也细腻呈现警嫂默默守候的温情日常，真实致敬以血肉之躯守护万家平安的公安英雄。",
+      "releaseDate": "2026-07-11",
+      "backdropPath": "/aVtR5KcWGGzsOY2v7NaRcsWKmWG.jpg",
+      "posterPath": "/o2QjzBI8u1sC0ngtMGmGLAeRBcC.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "犯罪"
     },
     {
       "id": 1269075,
@@ -288,19 +288,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1301421,
-      "type": "tmdb",
-      "title": "绵羊侦探团",
-      "originalTitle": "The Sheep Detectives",
-      "description": "影片改编自莱奥妮·斯万的畅销小说。牧羊人乔治最爱给羊群读侦探小说，没想到自己有一天会离奇死亡。他留下的3000万巨额遗产，让每个人貌似都有犯罪动机。警察毫无头绪之时，羊群们决定“不务正业”迈出牧场，追查牧羊人“躺平”真相！它们秉承着遇见麻烦就吃草，嗅到危险就躺倒的哲学，却迎来了一个意想不到的结果……",
-      "releaseDate": "2026-04-30",
-      "backdropPath": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
-      "posterPath": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-      "rating": 7.9,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 家庭"
-    },
-    {
       "id": 1228710,
       "type": "tmdb",
       "title": "星球大战：曼达洛人与古古",
@@ -309,7 +296,7 @@
       "releaseDate": "2026-05-20",
       "backdropPath": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
       "posterPath": "/v7uzb75PRTBRce4OzMMgFUmGA7j.jpg",
-      "rating": 6.7,
+      "rating": 6.664,
       "mediaType": "movie",
       "genreTitle": "动作, 冒险"
     },
@@ -361,7 +348,7 @@
       "releaseDate": "2026-04-01",
       "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "posterPath": "/7tLVCMnGg0Q3rWlkoBjdKA0S57R.jpg",
-      "rating": 8.254,
+      "rating": 8.259,
       "mediaType": "movie",
       "genreTitle": "家庭, 喜剧"
     },
@@ -374,7 +361,7 @@
       "releaseDate": "2026-04-22",
       "backdropPath": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "posterPath": "/1hPSbiyfAhtWAIBf2XtDPA0NyvS.jpg",
-      "rating": 8.702,
+      "rating": 8.701,
       "mediaType": "movie",
       "genreTitle": "音乐, 剧情"
     },
@@ -431,6 +418,19 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
+      "id": 271706,
+      "type": "tmdb",
+      "title": "大鱼海棠",
+      "originalTitle": "大鱼海棠",
+      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
+      "releaseDate": "2016-07-08",
+      "backdropPath": "/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
+      "posterPath": "/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
+      "rating": 7.333,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
+    },
+    {
       "id": 72245,
       "type": "tmdb",
       "title": "钢的琴",
@@ -455,19 +455,6 @@
       "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "爱情, 冒险"
-    },
-    {
-      "id": 8073,
-      "type": "tmdb",
-      "title": "法外之徒",
-      "originalTitle": "Bande à part",
-      "description": "继《筋疲力尽》问世四年后，让-吕克·戈达尔以更激进的手法重构了黑帮电影范式。在这部作品中，两名躁动不安的年轻男子鼓动他们共同倾慕的女子协助实施一场发生在她自己家中的抢劫。这部兼具大胆锋芒与迷人影趣的法国新浪潮瑰宝，既流露着伤感情调又充满自由不羁的气质，既闪耀着浪漫星光又萦绕着淡淡哀愁。戈达尔在此片中创造了诸多影史留名的经典段落：卢浮宫内的狂奔场景与那段挥之不去的麦迪逊舞片段，已然成为电影史上永恒的时代印记。",
-      "releaseDate": "1964-08-05",
-      "backdropPath": "/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
-      "posterPath": "/zRvjanylCLPVMYdTGr56q368y5l.jpg",
-      "rating": 7.489,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
     },
     {
       "id": 37247,
@@ -496,6 +483,32 @@
       "genreTitle": "剧情, 爱情"
     },
     {
+      "id": 8073,
+      "type": "tmdb",
+      "title": "法外之徒",
+      "originalTitle": "Bande à part",
+      "description": "继《筋疲力尽》问世四年后，让-吕克·戈达尔以更激进的手法重构了黑帮电影范式。在这部作品中，两名躁动不安的年轻男子鼓动他们共同倾慕的女子协助实施一场发生在她自己家中的抢劫。这部兼具大胆锋芒与迷人影趣的法国新浪潮瑰宝，既流露着伤感情调又充满自由不羁的气质，既闪耀着浪漫星光又萦绕着淡淡哀愁。戈达尔在此片中创造了诸多影史留名的经典段落：卢浮宫内的狂奔场景与那段挥之不去的麦迪逊舞片段，已然成为电影史上永恒的时代印记。",
+      "releaseDate": "1964-08-05",
+      "backdropPath": "/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
+      "posterPath": "/zRvjanylCLPVMYdTGr56q368y5l.jpg",
+      "rating": 7.489,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 1715479,
+      "type": "tmdb",
+      "title": "幻影游船",
+      "originalTitle": "幻影游船",
+      "description": "幻影号及其狩梦人小队，深入三层梦境：在“北冥之海”力战巨鲲，在“昆仑之巅”对决大鹏。主角柳嘉在绝境中集结团队力量，击败了最终梦魇，拯救了所有沉睡者，也为后续的星空航程与神秘组织的威胁埋下伏笔。",
+      "releaseDate": "2026-06-27",
+      "backdropPath": "/oTvcdQuNcIb8AtkxDFeS21D5FHN.jpg",
+      "posterPath": "/xqekZag8oc6LXGEsiyGRiEq9Oul.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动画"
+    },
+    {
       "id": 68883,
       "type": "tmdb",
       "title": "胭脂扣",
@@ -507,19 +520,6 @@
       "rating": 7.422,
       "mediaType": "movie",
       "genreTitle": "剧情, 奇幻"
-    },
-    {
-      "id": 64131,
-      "type": "tmdb",
-      "title": "坏血",
-      "originalTitle": "Mauvais Sang",
-      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
-      "releaseDate": "1986-11-26",
-      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
-      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 4024,
@@ -543,7 +543,7 @@
       "releaseDate": "1987-07-16",
       "backdropPath": "/bNTFhyQq4LbDaeX82kxhyWKMDwz.jpg",
       "posterPath": "/bCh0lIUVvDJxcLoCUF8UwQeDd3l.jpg",
-      "rating": 7.405,
+      "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -561,6 +561,19 @@
       "genreTitle": "奇幻, 喜剧"
     },
     {
+      "id": 64131,
+      "type": "tmdb",
+      "title": "坏血",
+      "originalTitle": "Mauvais Sang",
+      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
+      "releaseDate": "1986-11-26",
+      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
+      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
       "id": 34838,
       "type": "tmdb",
       "title": "探戈课",
@@ -572,19 +585,6 @@
       "rating": 6.371,
       "mediaType": "movie",
       "genreTitle": "剧情, 音乐"
-    },
-    {
-      "id": 1662256,
-      "type": "tmdb",
-      "title": "勇者无疆",
-      "originalTitle": "勇者无疆",
-      "description": "影片根据“100位新中国成立以来感动中国人物”之一，“最美奋斗者”罗盛教的真实事迹改编。 参与抗美援朝战争的罗盛教是侦察连的一位文书，紧张的战斗期间，他和抗美援朝的各位志愿军战士不仅要面对敌军的猛烈攻击，还要在物资匮乏、环境恶劣的情况下克服种种困难，在修筑机场的过程当中，他和志愿军战士用乐观坚韧的精神一次又一次的抵抗敌军的侵略，为抗美援朝战争做出了巨大贡献。在一次日常训练时，罗盛教发现一名不慎跌入冰窟的孩童，面对-20℃的天气，罗盛教想都没想便跳入了冰窟当中，用自己的全身力气将孩童托起，最终因体力耗尽英勇牺牲。 每一位志愿军战士都在保家卫国的道路上付出了巨大的努力和牺牲，他们的事迹和精神永远激励着每一个人！",
-      "releaseDate": "2026-04-22",
-      "backdropPath": "/fArULAIfPBG6mRMX6yXjslK1kWP.jpg",
-      "posterPath": "/5ENxl6xf3YUpcoUFVz4AebdHVi4.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
     },
     {
       "id": 318620,
@@ -600,17 +600,17 @@
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 4173,
+      "id": 1500148,
       "type": "tmdb",
-      "title": "火山边缘之恋",
-      "originalTitle": "Stromboli (Terra di Dio)",
-      "description": "卡琳战争结束时住在意大利的一个难民营里，她没有钱离开那儿去别处谋生，在难民营她遇到了意大利士兵安东尼奥并和他结了婚，随他回到了家乡斯特隆波岛。在荒凉的火山岛上，当地人的生活习惯和习俗让卡琳感到非常失落，她所做的一切都被认为是有悖民风的，是个坏女人，卡琳想逃离海岛，她逃到了火山上，昏迷后醒来，孤独的她唯有祈求上帝给他帮助和启示……",
-      "releaseDate": "1950-02-15",
-      "backdropPath": "/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
-      "posterPath": "/7YEX2VP3YXxUNo3YvfbSiDYZTX4.jpg",
-      "rating": 7.098,
+      "title": "青铜葵花",
+      "originalTitle": "青銅葵花",
+      "description": "曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
+      "releaseDate": "2026-05-08",
+      "backdropPath": "/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
+      "posterPath": "/tQB9biQwL1blSHkT9sJhQxnUS4P.jpg",
+      "rating": 6,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 10400,
@@ -624,19 +624,6 @@
       "rating": 7.439,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1500148,
-      "type": "tmdb",
-      "title": "青铜葵花",
-      "originalTitle": "青銅葵花",
-      "description": "曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
-      "releaseDate": "2026-05-08",
-      "backdropPath": "/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
-      "posterPath": "/tQB9biQwL1blSHkT9sJhQxnUS4P.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1645455,
@@ -676,19 +663,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
-    },
-    {
-      "id": 916971,
-      "type": "tmdb",
-      "title": "赵氏孤儿(京剧)",
-      "originalTitle": "赵氏孤儿(京剧)",
-      "description": "春秋晋国，屠岸贾侍宠杀害赵盾与全家三百余口。赵盾儿媳庄姬公主深宫产子，为救孤儿，程婴献子替孤。十五年后，程婴与魏绛联手杀死屠岸贾，报了赵家仇恨。  　　这幕悲剧是因屠岸贾、晋灵公在绛霄楼弹打百姓取乐而引发的……",
-      "releaseDate": "2017-04-21",
-      "backdropPath": null,
-      "posterPath": "/5zPq9KLq367E8WZFgltKM8N7urk.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "电视电影"
     }
   ]
 }
