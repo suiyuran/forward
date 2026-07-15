@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-14T20:46:47.292Z",
+  "time": "2026-07-15T20:45:43.503Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
         "posterPath": "/jCsZCz3IOVwKnEpN7GmHzA8fjx3.jpg",
-        "rating": 7.422,
+        "rating": 7.425,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
         "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.261,
+        "rating": 8.3,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2025-09-25",
         "backdropPath": "/w9m04ZsohWMdrSEKt9r53i2Oclg.jpg",
         "posterPath": "/zSlRJDgp8f4KWpuqoRm6ZUE5aXf.jpg",
-        "rating": 7.474,
+        "rating": 7.575,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-20",
         "backdropPath": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
         "posterPath": "/7F3XaVBrMLRAbMadwM8A9MViQkA.jpg",
-        "rating": 8.398,
+        "rating": 8.39,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -161,19 +161,6 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 311881,
-        "type": "tmdb",
-        "title": "欠你的那场婚礼",
-        "originalTitle": "欠妳的那場婚禮",
-        "description": "曾经凭一张帅脸与音乐才华风靡乐坛的「马子狗乐团」主唱周可杰（张孝全 饰），如今成了自我感觉良好、却再也写不出歌的落魄中年，更与妻子陈立璇（苏慧伦 饰）的关系降至冰点。他不明白：当年那个25岁出道即巅峰、意气风发的自己（朱轩洋 饰），为何会沦落至此？就在他试图挽救破碎的婚姻时，一场超现实的奇迹悄然降临，带领他重新找回爱的初衷。",
-        "releaseDate": "2026-06-20",
-        "backdropPath": "/A2D9PdJT6tGwFojrd8SWmSnkQuJ.jpg",
-        "posterPath": "/jOgEViPr1YOv2B6tmMvrEiJNFS9.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 284110,
         "type": "tmdb",
         "title": "主角",
@@ -183,6 +170,19 @@
         "backdropPath": "/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
         "posterPath": "/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
         "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 311881,
+        "type": "tmdb",
+        "title": "欠你的那场婚礼",
+        "originalTitle": "欠妳的那場婚禮",
+        "description": "曾经凭一张帅脸与音乐才华风靡乐坛的「马子狗乐团」主唱周可杰（张孝全 饰），如今成了自我感觉良好、却再也写不出歌的落魄中年，更与妻子陈立璇（苏慧伦 饰）的关系降至冰点。他不明白：当年那个25岁出道即巅峰、意气风发的自己（朱轩洋 饰），为何会沦落至此？就在他试图挽救破碎的婚姻时，一场超现实的奇迹悄然降临，带领他重新找回爱的初衷。",
+        "releaseDate": "2026-06-20",
+        "backdropPath": "/A2D9PdJT6tGwFojrd8SWmSnkQuJ.jpg",
+        "posterPath": "/jOgEViPr1YOv2B6tmMvrEiJNFS9.jpg",
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -198,6 +198,19 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 289147,
+        "type": "tmdb",
+        "title": "灵魂摆渡·十年",
+        "originalTitle": "灵魂摆渡·十年",
+        "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
+        "releaseDate": "2026-06-02",
+        "backdropPath": "/a84FbktGASmCKmbvEVBD3U0x3LH.jpg",
+        "posterPath": "/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
+        "rating": 9.1,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
         "id": 300239,
@@ -226,32 +239,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 289147,
-        "type": "tmdb",
-        "title": "灵魂摆渡·十年",
-        "originalTitle": "灵魂摆渡·十年",
-        "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
-        "releaseDate": "2026-06-02",
-        "backdropPath": "/a84FbktGASmCKmbvEVBD3U0x3LH.jpg",
-        "posterPath": "/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
-        "rating": 9.1,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 254486,
-        "type": "tmdb",
-        "title": "雨霖铃",
-        "originalTitle": "雨霖铃",
-        "description": "北宋仁宗年间，襄阳王暗中勾结各方势力意欲谋反。御前四品带刀护卫展昭（杨洋 饰）为追查故友留下的襄阳王谋反悬案线索，孤身前往襄州。途中他意外卷入纷争，结识了闯荡江湖的霍玲珑（章若楠 饰），并一起救下苌弘璧。展昭自知在劫难逃，将证据托付给霍玲珑后，以身为饵牵制敌人，力竭被俘。危急关头，幸得锦毛鼠白玉堂（方逸伦 饰）相救，展昭才得以脱身。\n\n面对襄阳王及其四大神君的步步紧逼，背负污名的展昭与霍玲珑、白玉堂联手追查线索，撕破襄阳王多年来编织的遍布朝野和江湖的势力网。三人最终掌握襄阳王勾结黑白两道、鱼肉百姓、通敌叛国的罪证，挫败其阴谋，还江湖与百姓一片安宁。",
-        "releaseDate": "2026-05-13",
-        "backdropPath": "/aqhB6P6x5wCk4lJqeXvRaD941xM.jpg",
-        "posterPath": "/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
-        "rating": 7.2,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
-      },
-      {
         "id": 244189,
         "type": "tmdb",
         "title": "向流星许愿的我们",
@@ -263,9 +250,35 @@
         "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 243236,
+        "type": "tmdb",
+        "title": "飞常日志",
+        "originalTitle": "飛常日誌",
+        "description": "香港国际机场繁忙运转，突遇全球系统故障而出现混乱，客运大楼及旅客体验总经理杨尚伟与伙伴吕芷珊、陈杰、李胜祥，率各部门迅速应变。港湾航空机长郭启光因飞行争议，面临停飞处分，新任驻机场主管高雅雯的一票影响大局……机师方可儿出现状况，翱翔天际或受阻碍。尚伟徒弟程日飞参与统筹跨境项目，也遇波折。空服员张颖从蓝天落地、前偶像车成轩转型机场保安，转换跑道下命运交织……众人於难关中砥砺前行，同迎机场发展新篇章！",
+        "releaseDate": "2026-06-15",
+        "backdropPath": "/ujacltSODEsLTLTXUvReoyjomiA.jpg",
+        "posterPath": "/ylt1gbKqAiVaS0mYt3GvbjMaJkp.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       }
     ],
     "剧集·国外": [
+      {
+        "id": 276161,
+        "type": "tmdb",
+        "title": "铁拳教育",
+        "originalTitle": "참교육",
+        "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
+        "releaseDate": "2026-06-05",
+        "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+        "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
+        "rating": 9.462,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 剧情"
+      },
       {
         "id": 308834,
         "type": "tmdb",
@@ -278,6 +291,19 @@
         "rating": 10,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 60625,
+        "type": "tmdb",
+        "title": "瑞克和莫蒂",
+        "originalTitle": "Rick and Morty",
+        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
+        "releaseDate": "2026-05-24",
+        "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
+        "rating": 8.3,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 322055,
@@ -293,17 +319,30 @@
         "genreTitle": "悬疑, 犯罪"
       },
       {
-        "id": 276161,
+        "id": 252107,
         "type": "tmdb",
-        "title": "铁拳教育",
-        "originalTitle": "참교육",
-        "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
-        "releaseDate": "2026-06-05",
-        "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-        "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.475,
+        "title": "星城",
+        "originalTitle": "Star City",
+        "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+        "releaseDate": "2026-05-28",
+        "backdropPath": "/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
+        "posterPath": "/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+        "rating": 7.632,
         "mediaType": "tv",
-        "genreTitle": "动作冒险, 剧情"
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 255358,
+        "type": "tmdb",
+        "title": "新攻壳机动队",
+        "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
+        "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
+        "releaseDate": "2026-07-07",
+        "backdropPath": "/unc9cOVdhCUDnIqijFX4wHsgG4f.jpg",
+        "posterPath": "/14udGIBIqwivmzW1f12sQoIsqsr.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 296206,
@@ -340,48 +379,9 @@
         "releaseDate": "2026-06-21",
         "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 5.6,
+        "rating": 6.1,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
-      },
-      {
-        "id": 273240,
-        "type": "tmdb",
-        "title": "校园之外",
-        "originalTitle": "Off Campus",
-        "description": "为了赢得心上人的心，汉娜·威尔斯主动为冰球队队长加雷特·格雷厄姆辅导功课。随着两人面对各自的过往，这场最初各取所需的交易，渐渐萌生了真情。他们的朋友洛根、迪恩、塔克和艾莉也都在大学生活与爱情中摸索前行。",
-        "releaseDate": "2026-05-13",
-        "backdropPath": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
-        "posterPath": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
-        "rating": 8.902,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 60625,
-        "type": "tmdb",
-        "title": "瑞克和莫蒂",
-        "originalTitle": "Rick and Morty",
-        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
-        "releaseDate": "2026-05-24",
-        "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.4,
-        "mediaType": "tv",
-        "genreTitle": "动画, 喜剧"
-      },
-      {
-        "id": 289424,
-        "type": "tmdb",
-        "title": "努力克服自卑的我们",
-        "originalTitle": "모두가 자신의 무가치함과 싸우고 있다",
-        "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
-        "releaseDate": "2026-04-18",
-        "backdropPath": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "posterPath": "/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-        "rating": 8.261,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       },
       {
         "id": 296286,
