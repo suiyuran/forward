@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-14T17:10:10.541Z",
+  "time": "2026-07-15T17:12:55.321Z",
   "data": {
     "星期日": [
       {
@@ -102,7 +102,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
         "posterPath": "/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-        "rating": 6.357,
+        "rating": 6.278,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -154,7 +154,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/q9O8pAq0R5R0gDXRAzIZV9lzMs5.jpg",
         "posterPath": "/tS7mxwOZrbW5IhGUMjOvWIg0YlT.jpg",
-        "rating": 8,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -299,7 +299,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
         "posterPath": "/xGxSWFnSKur7pTDhafiE5QnFYo.jpg",
-        "rating": 7,
+        "rating": 5.3,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -360,13 +360,13 @@
       {
         "id": 255358,
         "type": "tmdb",
-        "title": "攻壳机动队 THE GHOST IN THE SHELL",
+        "title": "新攻壳机动队",
         "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
         "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/unc9cOVdhCUDnIqijFX4wHsgG4f.jpg",
         "posterPath": "/14udGIBIqwivmzW1f12sQoIsqsr.jpg",
-        "rating": 9.1,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -389,12 +389,12 @@
         "title": "奇招百出的维多利亚",
         "originalTitle": "手札が多めのビクトリア",
         "description": "顶尖特务克萝伊脱离组织后，改名换姓，以维多利亚的身份过着新的生活。\n\n　　她在辗转抵达艾许伯里王国后，遇见了被母亲遗弃的少女诺娜，以及骑士团诚实可靠的团长杰佛瑞。\n\n　　杰佛瑞成为了领养诺娜的维多利亚的身份保证人，这三个各自背负着伤痛过去的人，逐渐成为彼此生命中不可或缺的存在。\n\n　　维多利亚所梦寐以求的幸福，最终会去往何处呢？",
-        "releaseDate": "2026-07-07",
+        "releaseDate": "2026-07-08",
         "backdropPath": "/az2Y3Cfy3JcDUuCicU2u3MnNUo4.jpg",
         "posterPath": "/2odRPZeecKXpTboMutt4X49NRDD.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "动画, 喜剧"
+        "genreTitle": "动画, Sci-Fi & Fantasy"
       },
       {
         "id": 326844,
@@ -404,7 +404,7 @@
         "description": "小饭店老板明被命运逼入绝境，为救挚爱同时为亲友复仇，他吞下真烈王灵魂与之共生，踏上了反抗假烈王之路。在百日之内，他与真烈王一起一路对抗财阀与贪官，凭借超强记忆习得失传魔法，逐步积累力量、伙伴与民心。誓要率领不断壮大的队伍推翻暴政，帮助真烈王夺回王位，完成复仇、救回爱人，还天下安宁。",
         "releaseDate": "2026-07-03",
         "backdropPath": "/sCiAP45k7IvngU9xXdLobauW17f.jpg",
-        "posterPath": "/5XbPHLjPf4WK1S7rH6htbjCcOAw.jpg",
+        "posterPath": "/pUQVZGKxODzRNTAD91DK4tu3qZS.jpg",
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -459,7 +459,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.746,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -485,7 +485,7 @@
         "releaseDate": "2022-04-03",
         "backdropPath": "/c0oFoz7PttzMLsQOQn54Lcu8V9d.jpg",
         "posterPath": "/oHraANBb1gOU425bk26CgZtPP5H.jpg",
-        "rating": 7.407,
+        "rating": 7.424,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -498,7 +498,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.613,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -524,7 +524,7 @@
         "releaseDate": "2025-04-05",
         "backdropPath": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
         "posterPath": "/fWLpYnmApgNQXOV80o72vevmZOI.jpg",
-        "rating": 7.174,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -576,7 +576,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg",
         "posterPath": "/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
-        "rating": 10,
+        "rating": 9.333,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -760,7 +760,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.63,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -827,7 +827,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/pEhFkDyRMpUZr1lwmmPFVGzdgNl.jpg",
         "posterPath": "/oz6Aet1VmsjxA70oGIhiaNnXxuk.jpg",
-        "rating": 8.5,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
       },
@@ -998,7 +998,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/u02TXrpVxJXxbh9odWbrqbymPKC.jpg",
         "posterPath": "/lSloeMq52OkhxCWH8GsomYziVGa.jpg",
-        "rating": 8,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -1011,7 +1011,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/goTFoBxSyLybVvlGa2Ke9uTchdF.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 7.7,
+        "rating": 8.25,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1024,7 +1024,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.789,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1086,10 +1086,10 @@
         "title": "花织同学转生后还是想干架",
         "originalTitle": "花織さんは転生しても喧嘩がしたい",
         "description": "鸣神流星，职业尼特族。整天足不出户、沉迷游戏，但其实在另一个世界里，他曾是个魔王！而曾经打倒流星的勇者、如今是名女高中生的花织·米蒂亚，竟找上门来！与米蒂亚重逢后，流星从尼特族重返社会，当上了御剑女子高等学校的高中教师。然而，那里正是米蒂亚就读的学校！转生到和平的世界、再度相逢的两人，恋情就此展开！？",
-        "releaseDate": "2026-07-11",
+        "releaseDate": "2026-07-12",
         "backdropPath": "/uwDbJwDrzM6Xqx1yh4lkh8xUsbp.jpg",
         "posterPath": "/MtHcMTVjuIPta3pQJtCc9LqYdT.jpg",
-        "rating": 0,
+        "rating": 4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1128,7 +1128,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/wqRNyl1Qrj6ckeJMdCbVyZqdqSl.jpg",
         "posterPath": "/kkK5nwGKtsFj4r6GnH1meNi6V0G.jpg",
-        "rating": 0,
+        "rating": 2,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1144,6 +1144,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 1731647,
+        "type": "tmdb",
+        "title": "斬 -ZAN- (pilot film)",
+        "originalTitle": "斬 -ZAN- (pilot film)",
+        "description": "",
+        "releaseDate": "2026-07-03",
+        "backdropPath": "/kuYgrRGHLPGUfXZZ9wnIaB2XKjS.jpg",
+        "posterPath": "/8gQP63ml0jETToTiPL0teRyx9nr.jpg",
+        "rating": 0,
+        "mediaType": "movie",
+        "genreTitle": "动画"
       }
     ]
   }
