@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-16T17:10:38.765Z",
+  "time": "2026-07-17T17:07:25.593Z",
   "data": {
     "星期日": [
       {
@@ -102,7 +102,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
         "posterPath": "/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-        "rating": 6.227,
+        "rating": 6.731,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -299,7 +299,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
         "posterPath": "/xGxSWFnSKur7pTDhafiE5QnFYo.jpg",
-        "rating": 5.3,
+        "rating": 5.333,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -338,7 +338,7 @@
         "releaseDate": "1997-01-12",
         "backdropPath": "/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
         "posterPath": "/5WLMR03uv7RJ9g2lmBInM2Pjcjg.jpg",
-        "rating": 7.4,
+        "rating": 7.407,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -353,18 +353,18 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/yCRq49YINwI7psAK5VEzbKLLSFk.jpg",
         "posterPath": "/zGNd9CG8RKovJXD2vDAPoE8bOzm.jpg",
-        "rating": 8.8,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
       {
         "id": 255358,
         "type": "tmdb",
-        "title": "新攻壳机动队",
+        "title": "攻壳机动队",
         "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
         "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
         "releaseDate": "2026-07-07",
-        "backdropPath": "/z5tsIDRxpDcT0Lerg3MciZhoQUY.jpg",
+        "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/14udGIBIqwivmzW1f12sQoIsqsr.jpg",
         "rating": 9,
         "mediaType": "tv",
@@ -459,7 +459,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.747,
+        "rating": 8.745,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -485,7 +485,7 @@
         "releaseDate": "2022-04-03",
         "backdropPath": "/c0oFoz7PttzMLsQOQn54Lcu8V9d.jpg",
         "posterPath": "/oHraANBb1gOU425bk26CgZtPP5H.jpg",
-        "rating": 7.424,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -498,7 +498,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.626,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -547,10 +547,10 @@
         "title": "LV999的村民",
         "originalTitle": "LV999の村人",
         "description": "每个诞生在这个名为“阿斯克利亚”世界的人都会被赋予该扮演包括王族、勇者、贤者、战士、武斗家、僧侣、魔法师及只为了繁荣世界而存在最弱的“村民”等职业。在平均等级只有十级且没有战斗力导致只有依赖其他职业保护的村民中，出现了一个到达等级上限999的村民“镜浩二”。他在已经找不到赚钱以外生存价值之时，遇见本该被人类讨伐的魔族少女“艾莉丝”。这场邂逅也让“镜浩二”找到自己新价值，并决心踏上对抗世界的险恶道路。",
-        "releaseDate": "2026-07-01",
+        "releaseDate": "2026-07-02",
         "backdropPath": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
         "posterPath": "/pwtHWJ2yblGRJenW9THxGGDEjIZ.jpg",
-        "rating": 9,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -576,7 +576,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg",
         "posterPath": "/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
-        "rating": 9.3,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -628,7 +628,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "posterPath": "/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
-        "rating": 7.5,
+        "rating": 7.538,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -666,7 +666,7 @@
         "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
         "originalTitle": "追放された転生重騎士はゲーム知識で無双する",
         "description": "“重骑士”这是一种专门负责防守的职业，其职责是吸引敌人的攻击，从而保护同伴。不过，与其他防御型职业相比，重骑士在承担其他任务方面的能力较弱，攻击力也低得可怜，甚至无法正常升级。因此，重骑士可被视为比“冷门职业”还要糟糕的“缺陷职业”。埃尔玛出生于世代继承着“剑圣”血脉的艾德梵伯爵家族。作为继承人，他在重要的仪式“祝福仪式”上却暴露出了被称为“缺陷职业”的“重骑士”身份。因此，他不仅被剥夺了继承人的地位，还被流放了。然而就在这时，他记起了前世的记忆，意识到这个世界与他前世沉迷不已的虚拟现实游戏《魔法世界》简直一模一样。而且，埃尔玛非常清楚——“重骑士”，才是最强的职业……！被伯爵家流放而成为冒险者的埃尔玛，决定充分利用前世的知识，在这个世界展开高效的冒险之旅！",
-        "releaseDate": "2026-07-03",
+        "releaseDate": "2026-07-02",
         "backdropPath": "/fPkGYEIldhxYORVKTyDnJlIPKU3.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
         "rating": 8.8,
@@ -760,7 +760,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.8,
+        "rating": 8.672,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -788,7 +788,7 @@
         "releaseDate": "2024-08-01",
         "backdropPath": "/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
         "posterPath": "/nVdvMIroEKaCvcOgSjEWH4pua7y.jpg",
-        "rating": 7.2,
+        "rating": 7.242,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -873,7 +873,7 @@
       {
         "id": 325052,
         "type": "tmdb",
-        "title": "正后方的神威",
+        "title": "从后面来的神威先生",
         "originalTitle": "うしろの正面カムイさん",
         "description": "这种除灵屌爆啦！！！！自称“只是看得见幽灵”的平凡女高中生志津香，活用自己容易被幽灵缠上的特殊体质，作为助手协助知名的灵能力者神威除灵。神威拥有压倒性的灵力，却使用前所未闻的“干”法来除灵！？饱受灵异事件折腾的志津香，究竟能否迎来安宁的一天呢？“超（操）”除灵仪式即将展开！！急急如律令妖魔鬼怪色色退散！！！！",
         "releaseDate": "2026-07-04",
@@ -933,7 +933,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8.012,
+        "rating": 8.015,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -998,7 +998,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/u02TXrpVxJXxbh9odWbrqbymPKC.jpg",
         "posterPath": "/lSloeMq52OkhxCWH8GsomYziVGa.jpg",
-        "rating": 8.4,
+        "rating": 8.333,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -1011,7 +1011,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/goTFoBxSyLybVvlGa2Ke9uTchdF.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.167,
+        "rating": 8.333,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1024,7 +1024,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.791,
+        "rating": 7.788,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1089,7 +1089,7 @@
         "releaseDate": "2026-07-12",
         "backdropPath": "/uwDbJwDrzM6Xqx1yh4lkh8xUsbp.jpg",
         "posterPath": "/MtHcMTVjuIPta3pQJtCc9LqYdT.jpg",
-        "rating": 4,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1112,7 +1112,7 @@
         "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
         "originalTitle": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
         "description": "「我，想要这个人。」\n\n人人向往的「完美千金」，此花雏子。身为日本第一财阀千金的她，突然指名偶然相遇的庶民男高中生──友成伊月，担任自己的专属「侍从」。\n\n雏子表面上看似品行端正，真面目却是连换衣服都无法独力完成、毫无生活能力的「懒散女孩」──\n\n被名门家族的种种束缚绑住，不得不扮演「完美千金」的雏子。一心想守护她、无微不至照顾着她的伊月。渐渐地，雏子也开始对他全力撒娇……\n\n与反差萌得惹人怜爱的千金小姐，一段跨越主仆界线、甜到不行的恋爱物语，即将揭开序幕。",
-        "releaseDate": "2026-07-04",
+        "releaseDate": "2026-07-05",
         "backdropPath": "/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
         "posterPath": "/o6k2eVEowtfwTKnKvbKUn87LGzX.jpg",
         "rating": 6.5,
