@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-18T20:34:26.394Z",
+  "time": "2026-07-19T20:34:49.530Z",
   "data": {
     "电影": [
       {
@@ -16,32 +16,6 @@
         "genreTitle": "音乐, 历史"
       },
       {
-        "id": 1339713,
-        "type": "tmdb",
-        "title": "痴迷",
-        "originalTitle": "Obsession",
-        "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-        "releaseDate": "2026-05-13",
-        "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.2,
-        "mediaType": "movie",
-        "genreTitle": "恐怖, 惊悚"
-      },
-      {
-        "id": 1497823,
-        "type": "tmdb",
-        "title": "德瓦克先生，你相信天使吗？",
-        "originalTitle": "Sie glauben an Engel, Herr Drowak?",
-        "description": "乐观的大学生莉娜·雅克比申请加入一项帮助边缘人群的社工项目，担任写作辅导员。她没想到，自己将步入雨果·德罗瓦克先生那虚无孤独的世界。出乎意料的是，德罗瓦克展现出惊人的写作才华。他的文字令人着迷，却也唤醒了他深藏的黑暗回忆。过去的恶魔卷土重来，几乎将他吞噬。莉娜奋力将他从崩溃边缘拉回，也努力守护心中的善意信念。",
-        "releaseDate": "2026-02-19",
-        "backdropPath": "/4pwEVWaPyGNbSJRF6EQrbfzH2wG.jpg",
-        "posterPath": "/tHi5R0vp8auNJD3fscJjqbBEXon.jpg",
-        "rating": 5,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 1498915,
         "type": "tmdb",
         "title": "她回来的那天",
@@ -53,19 +27,6 @@
         "rating": 4.3,
         "mediaType": "movie",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 1433680,
-        "type": "tmdb",
-        "title": "晚餐",
-        "originalTitle": "La cena",
-        "description": "1939 年 4 月 15 日，西班牙内战结束两周后，梅迪纳中尉突然闯入帕拉西奥酒店，带来一则出人意料的通知：佛朗哥当晚将携麾下高级将领在此用餐。然而他们并不知道，这顿晚餐将由一群共和党厨师负责烹制 —— 而这些厨师刚刚获得了逃离西班牙的最后机会。",
-        "releaseDate": "2025-10-17",
-        "backdropPath": "/9C10gUV5uR1UZtvGs8uQtb6xi7Z.jpg",
-        "posterPath": "/8Ct1yY0ClGwgQpnsipRcaFC27xF.jpg",
-        "rating": 6.8,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 历史"
       },
       {
         "id": 1061771,
@@ -81,45 +42,6 @@
         "genreTitle": "动画, 喜剧"
       },
       {
-        "id": 1427653,
-        "type": "tmdb",
-        "title": "陌路同途",
-        "originalTitle": "Departures",
-        "description": "贝尼在机场门口遇到了杰克，两人之间似乎产生了好感。他们的关系在阿姆斯特丹的旅行中逐渐发展，还经历了亲密接触，同时也揭示了其中错综复杂的权力关系。",
-        "releaseDate": "2026-04-17",
-        "backdropPath": "/pkSqSzciwotIgrGRHVtrWRX3wo.jpg",
-        "posterPath": "/4RWHAhtsj68zp02pWUlKs2UPMys.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 1238188,
-        "type": "tmdb",
-        "title": "被俘的塞万提斯",
-        "originalTitle": "El cautivo",
-        "description": "1575年，年轻士兵米格尔·德·塞万提斯在公海上被巴巴里海盗俘虏，并被带到阿尔及尔作为人质。他深知，如果家人不能尽快支付赎金，等待他的将是残酷的死亡，于是他从对讲故事的热爱中找到了慰藉。",
-        "releaseDate": "2025-09-12",
-        "backdropPath": "/sBEM8U5l7jq0BH7XiC7Zzs4d8e2.jpg",
-        "posterPath": "/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg",
-        "rating": 6.534,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 历史"
-      },
-      {
-        "id": 1510335,
-        "type": "tmdb",
-        "title": "利摩日阳台",
-        "originalTitle": "Un balcon à Limoges",
-        "description": "格拉迪丝是一位五十多岁的女性，生活在社会的边缘，没有住所、没有医保卡、没有银行账户。对她来说，一切都无关紧要，甚至对于性、酒精或跳舞的享受也都不重要。一天早上，她偶然遇到了尤金妮，一位高中时的朋友。尤金妮试图违背她的意愿去帮助她。",
-        "releaseDate": "2026-04-29",
-        "backdropPath": "/bXrX36bWUnEtHUBIWOin8ouA31u.jpg",
-        "posterPath": "/eFZtWUiM2b4CMCsM37iLosNCFwK.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
         "id": 1083381,
         "type": "tmdb",
         "title": "后室",
@@ -128,25 +50,12 @@
         "releaseDate": "2026-05-27",
         "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
         "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-        "rating": 7.026,
+        "rating": 7.041,
         "mediaType": "movie",
         "genreTitle": "恐怖, 悬疑"
       }
     ],
     "剧集·国内": [
-      {
-        "id": 309663,
-        "type": "tmdb",
-        "title": "开庭",
-        "originalTitle": "COURT!",
-        "description": "基于不同观点角度、难以致信的巧合或为了维护更公平的法律原则，都影响着所有案件在法庭上的细节，令最终「真相」的呈现，面临着不同挑战和考验。",
-        "releaseDate": "2026-05-18",
-        "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
-        "posterPath": "/1mEuvUMkr8xpQoP8uekuxcE65A6.jpg",
-        "rating": 5.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
       {
         "id": 272432,
         "type": "tmdb",
@@ -161,19 +70,6 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 284110,
-        "type": "tmdb",
-        "title": "主角",
-        "originalTitle": "主角",
-        "description": "多年前，县剧团招学员，在团里任司鼓的胡三元替外甥女报名，将年少的她改名易秦娥从家乡带出来学唱秦腔。因胡三元造成的事故，易秦娥受到影响，学习秦腔之路屡遭波折。但她凭借刻苦的劲头和自身的条件获得了老艺人的赏识和热情帮扶。她的“破蒙戏”在乡村舞台上音惊四座，后改名忆秦娥被调入省秦腔团。 她勤学苦练，在台上的演出屡获成功。历经波折，她终于明白对秦腔艺术的传承才是她作为“主角”的真正意义，她将继续培养新一代秦腔舞台上亮丽的主角。",
-        "releaseDate": "2026-05-10",
-        "backdropPath": "/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
-        "posterPath": "/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 311881,
         "type": "tmdb",
         "title": "欠你的那场婚礼",
@@ -182,19 +78,6 @@
         "releaseDate": "2026-06-20",
         "backdropPath": "/A2D9PdJT6tGwFojrd8SWmSnkQuJ.jpg",
         "posterPath": "/jOgEViPr1YOv2B6tmMvrEiJNFS9.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 233076,
-        "type": "tmdb",
-        "title": "问心",
-        "originalTitle": "问心",
-        "description": "两年后，周筱风援黔归来与林逸、方筱然会合，三人小分队再度并肩作战，但也面对全新挑战。周筱风自身执着奋进且严守医疗原则，机缘之下被破格提拔为东立医院史上最年轻的心内科执行主任。职位的晋升，让他看到了更多可能、面临更大考验，也颠覆了他与林逸方筱然间原本的关系，甚至医院内外的生态平衡也因此被打破。与此同时，他们还需要面对医生永远的对手——病魔。一个接一个的病人与他们身后的家庭期待医护联手拯救。理想与现实时时冲突，无奈和温暖往往共生，他们只有在奋斗中不断成长，继续保持着“问心无愧”。",
-        "releaseDate": "2026-06-18",
-        "backdropPath": "/xBI8m2aYsr9o4vtgbnI7wsewGc6.jpg",
-        "posterPath": "/sEyJgrm80Lad7MRMchh6ZrdoAAi.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -211,19 +94,6 @@
         "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 300239,
-        "type": "tmdb",
-        "title": "动物园",
-        "originalTitle": "動物園",
-        "description": "任职于“彗流广告”的创意总监朱欣葵（邵雨薇 饰）个性好强，在职场上练就了一身超抗压的本领。就在她的事业即将起飞，有望调任纽约总部时，却接连遭遇重大打击：惹火大客户，男友无理取闹，最后竟被公司降职冷藏。此时，高雄寿山动物园为转型公开招标，想要更新品牌形象，这成了她职业生涯翻身的最后希望。没想到竞标条件却要求她必须亲身担任实习保育员！\n\n朱欣葵硬着头皮接下这份工作，从光鲜亮丽的广告总监，一夜之间沦为每天清理粪便、喂养动物的“铲屎官”。以往得心应手的办公室法则彻底失灵，她还得面对资深保育员苏冠州（王柏杰 饰）的严格要求和百般刁难。最初，她想尽办法想要离开这里，但在与动物的朝夕相处中，也让她逐渐卸下防备，找回了被焦虑掩埋的初心与勇气，并对这份呵护生命的工作产生了敬意，与苏冠州也从互看不顺眼的欢喜冤家，发展出一段令人心动的浪漫恋情。",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
-        "posterPath": "/xixw0uzoEnk2523Y7OgrNcuF9l1.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 286438,
@@ -250,19 +120,6 @@
         "rating": 7.818,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 243236,
-        "type": "tmdb",
-        "title": "飞常日志",
-        "originalTitle": "飛常日誌",
-        "description": "全球系统故障令香港国际机场陷入混乱，杨尚伟率领团队迎战危机。与此同时，郭启光、方可儿、高雅雯等人在事业与人生道路上迎来新的挑战，众人携手迎接机场发展的新篇章。",
-        "releaseDate": "2026-06-15",
-        "backdropPath": "/ujacltSODEsLTLTXUvReoyjomiA.jpg",
-        "posterPath": "/3bRDG2cC0Nt6PXMYwsJwvK6dxo7.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       }
     ],
     "剧集·国外": [
@@ -275,7 +132,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.475,
+        "rating": 9.458,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -293,58 +150,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 60625,
-        "type": "tmdb",
-        "title": "瑞克和莫蒂",
-        "originalTitle": "Rick and Morty",
-        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
-        "releaseDate": "2026-05-24",
-        "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.3,
-        "mediaType": "tv",
-        "genreTitle": "动画, 喜剧"
-      },
-      {
-        "id": 322055,
-        "type": "tmdb",
-        "title": "检察官的提案",
-        "originalTitle": "검사실의 제안",
-        "description": "曾因“杀人犯之子”的标签饱受欺凌的李彩河，在洗清冤屈后成为一名八级检察院调查员。他被分配到檀岘分局，努力开启新生活，却意外与曾帮助过他的检察官朱泰善重逢。朱泰善性格完美主义且敏感古怪，在一次共同值夜班后，他对李彩河产生了浓厚兴趣。为了调查一桩悬而未决的谋杀案，朱泰善提议李彩河担任自己的专属调查员。两人在压抑又充满张力的办公环境下，展开了一场徘徊于职场正义与禁忌情感之间的危险博弈。",
-        "releaseDate": "2026-06-25",
-        "backdropPath": "/feISh3qoREwIPWbSaLqqumbmh7m.jpg",
-        "posterPath": "/4A5Sl89zZ0WRKj5QrhMxgBFiQYc.jpg",
-        "rating": 5.833,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 犯罪"
-      },
-      {
-        "id": 252107,
-        "type": "tmdb",
-        "title": "星城",
-        "originalTitle": "Star City",
-        "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-        "releaseDate": "2026-05-28",
-        "backdropPath": "/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
-        "posterPath": "/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-        "rating": 7.621,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 255358,
-        "type": "tmdb",
-        "title": "攻壳机动队",
-        "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
-        "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
-        "releaseDate": "2026-07-07",
-        "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
-        "posterPath": "/14udGIBIqwivmzW1f12sQoIsqsr.jpg",
-        "rating": 8.8,
-        "mediaType": "tv",
-        "genreTitle": "动画, 动作冒险"
-      },
-      {
         "id": 296206,
         "type": "tmdb",
         "title": "金特务：本色回归",
@@ -353,35 +158,9 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.534,
+        "rating": 7.368,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
-      },
-      {
-        "id": 136315,
-        "type": "tmdb",
-        "title": "熊家餐馆",
-        "originalTitle": "The Bear",
-        "description": "卡米离开餐厅后，西德尼、里奇和娜塔莉接手“熊家餐馆”。面对餐厅经营压力与追逐米其林星级的梦想，他们必须携手完成一场决定未来的关键服务。在考验接踵而至之际，他们逐渐明白，这家餐厅最珍贵的，并非料理本身，而是一路同行、彼此扶持的伙伴。",
-        "releaseDate": "2026-06-25",
-        "backdropPath": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
-        "posterPath": "/7y1ibpkTwlKYrxFbq3lh2RgIB1k.jpg",
-        "rating": 5.9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 94997,
-        "type": "tmdb",
-        "title": "权力的游戏前传：龙族",
-        "originalTitle": "House of the Dragon",
-        "description": "黑党与绿党为争夺铁王座展开了一场全面而无情的战争。当群龙与大军在王国各地激战时，维斯特洛见证了全面战争带来的毁灭性后果。",
-        "releaseDate": "2026-06-21",
-        "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 5.9,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
       {
         "id": 296286,
@@ -392,7 +171,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9,
+        "rating": 8.867,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
