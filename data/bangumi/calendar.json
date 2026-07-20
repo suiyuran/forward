@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-19T16:53:30.907Z",
+  "time": "2026-07-20T17:56:36.231Z",
   "data": {
     "星期日": [
       {
@@ -50,14 +50,14 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
-        "rating": 8.469,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
       {
         "id": 286345,
         "type": "tmdb",
-        "title": "虽然我是不完美恶女 ～雏宫蝶鼠替换传～",
+        "title": "虽然我是不完美恶女～雏宫蝶鼠替换传～",
         "originalTitle": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
         "description": "为了培养下一任妃子，从五大名门中召集姬君的宫殿——“雏宫”。五大名门之一、黄家的雏女玲琳美丽聪慧，被誉为“殿下的蝴蝶”，深受周围人的喜爱。然而，在乞巧节的夜晚，她与被称作恶女、遭众人厌恶的朱家雏女慧月交换了身体。当她醒来时，已被告知自己即将被处刑，陷入绝境。但自幼体弱多病、始终与死亡相伴的玲琳，反而为获得了健康的身体而感到高兴！？这场看似悲剧的身体互换，却并未击垮拥有钢铁般意志的玲琳。即使被流放到破烂不堪的荒凉小屋，她也依然尽情享受着自由。面对企图夺取她性命的人，她凭借天生的开朗与温柔打动对方，跨越了一个又一个逆境。另一方面，曾因嫉妒和憎恨玲琳的慧月，也在逐渐接触到真实的玲琳后，内心开始动摇——在彗星闪耀的夜晚交换身体的两人，自那天起命运发生了巨大改变，并终将被卷入一场撼动后宫的阴谋之中。性格截然相反的少女们所展开的后宫“身体互换”逆转剧，正式开幕！",
         "releaseDate": "2026-07-12",
@@ -72,7 +72,7 @@
         "type": "tmdb",
         "title": "人造人009 涅墨西斯",
         "originalTitle": "サイボーグ009 ネメシス",
-        "description": "",
+        "description": "自人造人战士诞生以来，他们在半个多世纪中，一直守护着人们免受种种威胁和平的敌人的侵袭。\n\n然而，战斗仍在继续——\n\n而如今，一支由9名人造人组成的集团“涅墨西斯”出现了，他们坚信——仅凭009他们，无法引导世界走向安宁。\n\n由能够操控重力的改造人格拉维顿所率领的这支集团，他们所追求的“理想”究竟是什么？\n\n我们，是否即将亲眼见证时代的更迭？",
         "releaseDate": "2026-07-19",
         "backdropPath": null,
         "posterPath": "/wR4giIImVT5w043piQPxHXlOqZO.jpg",
@@ -102,7 +102,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
         "posterPath": "/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-        "rating": 6.7,
+        "rating": 6.867,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
         "posterPath": "/zlDw5KbBQ9LOz5ul3zx3CKaFgFi.jpg",
-        "rating": 8.202,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -213,6 +213,19 @@
         "genreTitle": "动画, 喜剧"
       },
       {
+        "id": 1734734,
+        "type": "tmdb",
+        "title": "天子传奇：姬发篇",
+        "originalTitle": "天子传奇：姬发篇",
+        "description": "天赋神力，被纣王忌惮，姬发为护亲友数次暴走，力量失控，生命垂危。死师父，失朋友，丧母亲，天降大任，磨砺少年灭商伐纣成仁之路。",
+        "releaseDate": "2026-07-20",
+        "backdropPath": "/miPUG1vHz0dldr3bRETEtRduSPw.jpg",
+        "posterPath": "/vNyMyBcXR2ZmXvz9eeTZpVJfBvi.jpg",
+        "rating": 0,
+        "mediaType": "movie",
+        "genreTitle": "动画, 动作"
+      },
+      {
         "id": 123528,
         "type": "tmdb",
         "title": "骸骨骑士大人异世界冒险中",
@@ -254,7 +267,7 @@
       {
         "id": 298831,
         "type": "tmdb",
-        "title": "暴走千金立誓复仇。～用魔导书之力碾碎祖国～",
+        "title": "暴怒千金发誓复仇。～凭借魔导书之力碾碎祖国～",
         "originalTitle": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
         "description": "被解除婚约，亦被祖国背叛的天才千金，拿起最强的魔导书决心复仇！！！！\n\n「离开国家吧。然后，我要报复这个国家。」\n\n从懂事起就被安排成为未来的国母不断努力的公爵千金·伊莉莎白，在建国纪念宴会上被移情别恋到其他千金的王太子以残酷的方式解除婚约。就这样被软禁在牢房的一个月后，连国家也背叛她，让伊莉莎白的忍耐到达极限，决定以一直隐藏的真正力量【七大魔导书】逃亡。她在邻国的子爵路卡斯的帮助下，在新的场所与认同她本身实力的同伴们展开新生活。\n\n把对祖国的复仇之心藏在心中──借着过去建构的情报网与设立商会得到的财力，以及来自魔导书的武力，获得自由的天才千金肆无忌惮的崛起剧开幕！！",
         "releaseDate": "2026-07-06",
@@ -286,7 +299,7 @@
         "releaseDate": "2021-08-06",
         "backdropPath": "/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
         "posterPath": "/u4kmpg8y0RSfdNQsetrX8if5fYk.jpg",
-        "rating": 7.1,
+        "rating": 7.069,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
       },
@@ -338,7 +351,7 @@
         "releaseDate": "1997-01-12",
         "backdropPath": "/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
         "posterPath": "/5WLMR03uv7RJ9g2lmBInM2Pjcjg.jpg",
-        "rating": 7.407,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -366,7 +379,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7V0zadEIWAbaol7OkCR6eFqp8vo.jpg",
-        "rating": 8.292,
+        "rating": 8.26,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -459,7 +472,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.746,
+        "rating": 8.748,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -485,7 +498,7 @@
         "releaseDate": "2022-04-03",
         "backdropPath": "/c0oFoz7PttzMLsQOQn54Lcu8V9d.jpg",
         "posterPath": "/oHraANBb1gOU425bk26CgZtPP5H.jpg",
-        "rating": 7.43,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -498,7 +511,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.638,
+        "rating": 8.639,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -563,7 +576,7 @@
         "releaseDate": "2025-07-02",
         "backdropPath": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
         "posterPath": "/krx4GwKIWVCtr4MgMeGi4lYkz5x.jpg",
-        "rating": 7.911,
+        "rating": 7.923,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -669,7 +682,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
-        "rating": 0,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -682,7 +695,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 8.867,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -760,7 +773,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.5,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -779,19 +792,6 @@
       }
     ],
     "星期五": [
-      {
-        "id": 125909,
-        "type": "tmdb",
-        "title": "蝙蝠侠：披风斗士",
-        "originalTitle": "Batman: Caped Crusader",
-        "description": "亿万富翁布鲁斯·韦恩在悲剧的烈火中锤炼成了一种既超越人类、又不完全是人类的存在——蝙蝠侠。夜复一夜，他在极其艰难的情况下，孤身一人对犯罪展开了无情的战争。",
-        "releaseDate": "2024-08-01",
-        "backdropPath": "/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
-        "posterPath": "/nVdvMIroEKaCvcOgSjEWH4pua7y.jpg",
-        "rating": 7.237,
-        "mediaType": "tv",
-        "genreTitle": "动画, 犯罪"
-      },
       {
         "id": 222623,
         "type": "tmdb",
@@ -812,7 +812,7 @@
         "originalTitle": "これ描いて死ね",
         "description": "居住在东京都离岛伊豆王岛的高中一年级学生安海相。喜欢看漫画的她，因一次偶然的事件，让她开始意识到自己也想“创作”漫画……少女踏上的漫画创作之路，究竟会通向何方！？看似熟悉却又陌生的漫画创作世界。将孕育作品的痛苦与喜悦毫无保留地浓缩其中的漫画浪漫成长故事！！！献给所有热爱漫画的人！！",
         "releaseDate": "2026-07-03",
-        "backdropPath": "/guE2FTvK5CRhLWNh4egyNmXZCUV.jpg",
+        "backdropPath": "/6szuXVEj9zQtsu3RyWn9SnclIgB.jpg",
         "posterPath": "/bycBcdf2LuM1kr1wQbgUgIWMOzf.jpg",
         "rating": 8,
         "mediaType": "tv",
@@ -892,7 +892,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/gf62V8UBVBMFPpD9yI0UFvkFvq2.jpg",
         "posterPath": "/2z8wbBH2r4JZMyhC2ruKnxwTjlg.jpg",
-        "rating": 7.276,
+        "rating": 7.233,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -933,7 +933,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8.017,
+        "rating": 8.015,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -1011,7 +1011,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.5,
+        "rating": 8.636,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1024,7 +1024,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.789,
+        "rating": 7.792,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1037,7 +1037,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/y4QV6ivcpiFj1hEssoH9XIlekO.jpg",
         "posterPath": "/o8Jo2wBncO3wqr2sDk30ktgejcm.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1050,7 +1050,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
         "posterPath": "/xh9hNzzadcT0vn9pJMUu5SA2w0c.jpg",
-        "rating": 9.7,
+        "rating": 9.778,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
