@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-20T20:56:52.446Z",
+  "time": "2026-07-21T20:55:18.453Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
         "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.251,
+        "rating": 8.249,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2025-10-17",
         "backdropPath": "/9C10gUV5uR1UZtvGs8uQtb6xi7Z.jpg",
         "posterPath": "/aY1Xwt68312YuisRl94xMBIVrSW.jpg",
-        "rating": 6.8,
+        "rating": 6.811,
         "mediaType": "movie",
         "genreTitle": "喜剧, 历史"
       },
@@ -126,9 +126,9 @@
         "originalTitle": "Backrooms",
         "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
         "releaseDate": "2026-05-27",
-        "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "backdropPath": "/2aA8iPlMCks3k131ymFBAY6FL0b.jpg",
         "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-        "rating": 7,
+        "rating": 7.076,
         "mediaType": "movie",
         "genreTitle": "恐怖, 悬疑"
       }
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.442,
+        "rating": 9.433,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-24",
         "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.1,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/feISh3qoREwIPWbSaLqqumbmh7m.jpg",
         "posterPath": "/4A5Sl89zZ0WRKj5QrhMxgBFiQYc.jpg",
-        "rating": 5.833,
+        "rating": 5.7,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7V0zadEIWAbaol7OkCR6eFqp8vo.jpg",
-        "rating": 8.26,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.186,
+        "rating": 7.203,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
         "posterPath": "/7y1ibpkTwlKYrxFbq3lh2RgIB1k.jpg",
-        "rating": 5.9,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-06-21",
         "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 5.7,
+        "rating": 6.1,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 8.9,
+        "rating": 8.912,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
