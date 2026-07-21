@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-20T17:56:36.231Z",
+  "time": "2026-07-21T17:13:09.237Z",
   "data": {
     "星期日": [
       {
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-12",
         "backdropPath": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg",
         "posterPath": "/btdVYnkRuwaHOLooc5phlUImusV.jpg",
-        "rating": 7.5,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
         "posterPath": "/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-        "rating": 6.867,
+        "rating": 6.9,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
         "posterPath": "/zlDw5KbBQ9LOz5ul3zx3CKaFgFi.jpg",
-        "rating": 8.2,
+        "rating": 8.201,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -167,7 +167,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.4,
+        "rating": 8.437,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -208,7 +208,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/rbxKqzKkw9zrO9lKgqvXHOo4sZo.jpg",
         "posterPath": "/etpSosywRvOO8mds61uv3aSjhDF.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2022-04-07",
         "backdropPath": "/3srLRdCMd5IMLiyyHvdQNstee3W.jpg",
         "posterPath": "/yFa9LmAPpYipjkXw2U2xhAm0JS9.jpg",
-        "rating": 7.322,
+        "rating": 7.329,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -269,7 +269,7 @@
         "type": "tmdb",
         "title": "暴怒千金发誓复仇。～凭借魔导书之力碾碎祖国～",
         "originalTitle": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
-        "description": "被解除婚约，亦被祖国背叛的天才千金，拿起最强的魔导书决心复仇！！！！\n\n「离开国家吧。然后，我要报复这个国家。」\n\n从懂事起就被安排成为未来的国母不断努力的公爵千金·伊莉莎白，在建国纪念宴会上被移情别恋到其他千金的王太子以残酷的方式解除婚约。就这样被软禁在牢房的一个月后，连国家也背叛她，让伊莉莎白的忍耐到达极限，决定以一直隐藏的真正力量【七大魔导书】逃亡。她在邻国的子爵路卡斯的帮助下，在新的场所与认同她本身实力的同伴们展开新生活。\n\n把对祖国的复仇之心藏在心中──借着过去建构的情报网与设立商会得到的财力，以及来自魔导书的武力，获得自由的天才千金肆无忌惮的崛起剧开幕！！",
+        "description": "被解除婚约，亦被祖国背叛的天才千金，拿起最强的魔导书决心复仇！！！！“离开国家吧。然后，我要报复这个国家。”从懂事起就被安排成为未来的国母不断努力的公爵千金·伊莉莎白，在建国纪念宴会上被移情别恋到其他千金的王太子以残酷的方式解除婚约。就这样被软禁在牢房的一个月后，连国家也背叛她，让伊莉莎白的忍耐到达极限，决定以一直隐藏的真正力量【七大魔导书】逃亡。她在邻国的子爵路卡斯的帮助下，在新的场所与认同她本身实力的同伴们展开新生活。把对祖国的复仇之心藏在心中——借着过去建构的情报网与设立商会得到的财力，以及来自魔导书的武力，获得自由的天才千金肆无忌惮的崛起剧开幕！！",
         "releaseDate": "2026-07-06",
         "backdropPath": "/pEv1seclJF9zSDbz0uVBkra1m1f.jpg",
         "posterPath": "/61TfKgUhwJLpsEOsWQXu3ClKPNI.jpg",
@@ -280,7 +280,7 @@
       {
         "id": 302051,
         "type": "tmdb",
-        "title": "『你们先走我断后』，于是10年后我成为了传说",
+        "title": "“你们先走我断后”，于是10年后我成为了传说",
         "originalTitle": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
         "description": "最强魔导士拉可的小队为了打倒魔神王，展开了激烈的战斗。在一次追击中，为了避免全灭的危机，拉可对同伴喊道“你们先走我断后！”，只身一人对敌。在无止尽的战斗中，拉可终于打倒了魔神王。然而，回到城镇等待他的却是“10年后”的世界——",
         "releaseDate": "2026-07-06",
@@ -379,7 +379,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7V0zadEIWAbaol7OkCR6eFqp8vo.jpg",
-        "rating": 8.26,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -460,6 +460,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 329260,
+        "type": "tmdb",
+        "title": "万古神帝",
+        "originalTitle": "万古神帝",
+        "description": "《万古神帝》改编自阅文白金作家飞天鱼的同名小说。\n\n八百年前，张若尘身为明帝独子，天资绝世却遭青梅竹马的池瑶公主斩杀；八百年后，他重生在云武郡国的废柴九王子“张若尘”体内，这具身体体弱多病、毫无灵力，与母亲林妃在郡王府备受欺凌。觉醒记忆后，张若尘立誓向已是昆仑界主宰的池瑶女皇复仇，同时守护给予他母爱的林妃。他觉醒时空神武印记，凭前世经验和努力快速成长，岁末考核夺冠后，历经武市斗场厮杀、地府门截杀，进入武市学宫深造。",
+        "releaseDate": "2026-07-21",
+        "backdropPath": null,
+        "posterPath": "/jElv6FJjINzLoGeSDBsrCa4EOeL.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": ""
       }
     ],
     "星期三": [
@@ -472,7 +485,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.748,
+        "rating": 8.749,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -511,7 +524,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.639,
+        "rating": 8.641,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -520,7 +533,7 @@
         "type": "tmdb",
         "title": "女主角？圣女？不，我是杂役女仆（自豪）！",
         "originalTitle": "ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！",
-        "description": "我要成为世界第一出色的女仆！\n\n被黑与白点缀的裙摆随风飘动，少女如此喊道。她的名字是梅洛蒂。身为原日本人转生者的她，继承了前世的梦想，在特欧拉斯王国的贫穷伯爵家当起了杂役女仆（All-Works Maid）。\n\n只要是由她来冲泡，就算是便宜红茶也会变成高级品，荒废的宅邸也飞速变身成为新房！不管是打扫还是服侍甚至是打猎及DIY，全部都交给我吧！像这样，用强大的魔法完美完成。\n\n没错，其实这个世界是乙女游戏的世界而最强无敌的梅洛蒂之真身其实是圣女（女主角）！……然而，其本人并没有意识到这一点。和帅哥谈恋爱？魔王袭击？比起这种事还是工作为重吧！将圣女之力全点在业务上的少女，和被无视剧本的世界的明天将走向何方？！\n\n毫无自觉地将命运击溃，误解的工作奇幻故事！",
+        "description": "“我要成为世界第一出色的女仆！”被黑与白点缀的裙摆随风飘动，少女如此喊道。她的名字是梅洛蒂。身为原日本人转生者的她，继承了前世的梦想，在特欧拉斯王国的贫穷伯爵家当起了杂役女仆。只要是由她来冲泡，就算是便宜红茶也会变成高级品，荒废的宅邸也飞速变身成为新房！不管是打扫还是服侍甚至是打猎及DIY，全部都交给我吧！像这样，用强大的魔法完美完成。没错，其实这个世界是乙女游戏的世界而最强无敌的梅洛蒂之真身其实是圣女（女主角）！……然而，其本人并没有意识到这一点。和帅哥谈恋爱？魔王袭击？比起这种事还是工作为重吧！将圣女之力全点在业务上的少女，和被无视剧本的世界的明天将走向何方？！毫无自觉地将命运击溃，误解的工作奇幻故事！",
         "releaseDate": "2026-07-01",
         "backdropPath": "/v1ZsaSBECadPO4Ix496VGSXudHk.jpg",
         "posterPath": "/nkfB1HRvWQ6s4v9vO08urPCN6VV.jpg",
@@ -641,7 +654,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "posterPath": "/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
-        "rating": 7.63,
+        "rating": 7.679,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -695,7 +708,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 8.9,
+        "rating": 9.026,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -933,7 +946,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8.015,
+        "rating": 8.017,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -1024,7 +1037,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.792,
+        "rating": 7.789,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1050,7 +1063,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
         "posterPath": "/xh9hNzzadcT0vn9pJMUu5SA2w0c.jpg",
-        "rating": 9.778,
+        "rating": 9.818,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
