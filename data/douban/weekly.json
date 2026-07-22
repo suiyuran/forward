@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-21T20:55:18.453Z",
+  "time": "2026-07-22T20:51:21.319Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
         "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.249,
+        "rating": 8.246,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-05-27",
         "backdropPath": "/2aA8iPlMCks3k131ymFBAY6FL0b.jpg",
         "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-        "rating": 7.076,
+        "rating": 7.084,
         "mediaType": "movie",
         "genreTitle": "恐怖, 悬疑"
       }
@@ -213,6 +213,19 @@
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
       {
+        "id": 276239,
+        "type": "tmdb",
+        "title": "非份之罪",
+        "originalTitle": "非份之罪",
+        "description": "人类的欲望，可驱使我们超越自我，然而，当欲望失控，过份贪图金钱与权势、追求不属于自己的爱，非份之想被无限放大，不经意间，便陷入道德矛盾的深渊，犯下种种非份之罪……新界东重案组接连调查几宗案件，包括无脸女尸、石棺禁恋、一亿杀机、危险游戏、肮脏的子弹、恐怖情人，错综复杂的线索、缠绕不清的关系，构成一桩桩匪夷所思的迷案，揭露触摸不透的人性黑暗面。",
+        "releaseDate": "2026-06-29",
+        "backdropPath": "/dpVy32tCvsVENVMjlU4cj7CycG5.jpg",
+        "posterPath": "/2snG7uD9XyccAXlqJI3oTsUgQie.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 悬疑"
+      },
+      {
         "id": 300239,
         "type": "tmdb",
         "title": "动物园",
@@ -239,19 +252,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 244189,
-        "type": "tmdb",
-        "title": "向流星许愿的我们",
-        "originalTitle": "向流星許願的我們",
-        "description": "在能以愿望交换现实的星浦屿，绝望的何向永许愿「想消失」，醒来竟变成被世界遗忘的「钟小右」，仅剩挚友李宛哲知情。同时，向永暗恋的皓维带着伤痛返岛，不自觉被小右吸引；而宛哲向流星祈求轰烈爱情，唤来了神秘渔工小海。 当愿望的代价浮现，记忆与身分面临消逝的危机。四人交织出两段命定却危险的爱恋，他们必须在幻影与真实间做出抉择，完成一段关于奇幻与自我救赎的疗愈之旅。",
-        "releaseDate": "2026-03-26",
-        "backdropPath": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
-        "posterPath": "/h24N0obh83475hufeu6sex4ZE18.jpg",
-        "rating": 7.818,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
         "id": 243236,
         "type": "tmdb",
         "title": "飞常日志",
@@ -275,22 +275,9 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.433,
+        "rating": 9.429,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
-      },
-      {
-        "id": 308834,
-        "type": "tmdb",
-        "title": "绘梦婚礼",
-        "originalTitle": "วาดฝันวันวิวาห์",
-        "description": "被欢笑、笑容和祝福环绕的婚礼仅仅是爱情生活的起点。未来还有许多障碍等待着两人共同跨越。  Runch和Neen都曾梦想她们能够携手顺利通过所有考验，梦想能够长相厮守，梦想彼此相伴直至白头。然而，这个梦想却在某人猝不及防时迅速破碎…",
-        "releaseDate": "2026-06-19",
-        "backdropPath": "/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
-        "posterPath": "/aGEoCdGpmIHvIkdkcPR0FSmmNt8.jpg",
-        "rating": 10,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       },
       {
         "id": 60625,
@@ -306,6 +293,32 @@
         "genreTitle": "动画, 喜剧"
       },
       {
+        "id": 308834,
+        "type": "tmdb",
+        "title": "绘梦婚礼",
+        "originalTitle": "วาดฝันวันวิวาห์",
+        "description": "被欢笑、笑容和祝福环绕的婚礼仅仅是爱情生活的起点。未来还有许多障碍等待着两人共同跨越。  Runch和Neen都曾梦想她们能够携手顺利通过所有考验，梦想能够长相厮守，梦想彼此相伴直至白头。然而，这个梦想却在某人猝不及防时迅速破碎…",
+        "releaseDate": "2026-06-19",
+        "backdropPath": "/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
+        "posterPath": "/aGEoCdGpmIHvIkdkcPR0FSmmNt8.jpg",
+        "rating": 10,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 252107,
+        "type": "tmdb",
+        "title": "星城",
+        "originalTitle": "Star City",
+        "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+        "releaseDate": "2026-05-28",
+        "backdropPath": "/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
+        "posterPath": "/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+        "rating": 7.633,
+        "mediaType": "tv",
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
         "id": 322055,
         "type": "tmdb",
         "title": "检察官的提案",
@@ -317,45 +330,6 @@
         "rating": 5.7,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
-      },
-      {
-        "id": 252107,
-        "type": "tmdb",
-        "title": "星城",
-        "originalTitle": "Star City",
-        "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-        "releaseDate": "2026-05-28",
-        "backdropPath": "/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
-        "posterPath": "/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-        "rating": 7.621,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 255358,
-        "type": "tmdb",
-        "title": "攻壳机动队",
-        "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
-        "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
-        "releaseDate": "2026-07-07",
-        "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
-        "posterPath": "/7V0zadEIWAbaol7OkCR6eFqp8vo.jpg",
-        "rating": 8.3,
-        "mediaType": "tv",
-        "genreTitle": "动画, 动作冒险"
-      },
-      {
-        "id": 296206,
-        "type": "tmdb",
-        "title": "金特务：本色回归",
-        "originalTitle": "김부장",
-        "description": "改编自同名网络漫画，讲述的是原本只想平凡当个父亲的金部长，在挚爱的女儿突然失踪后，不得不揭开自己极力隐藏的真实身份，为了救回女儿不惜一切的故事。",
-        "releaseDate": "2026-06-26",
-        "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-        "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.203,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, 犯罪"
       },
       {
         "id": 136315,
@@ -371,17 +345,17 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 94997,
+        "id": 296206,
         "type": "tmdb",
-        "title": "权力的游戏前传：龙族",
-        "originalTitle": "House of the Dragon",
-        "description": "黑党与绿党为争夺铁王座展开了一场全面而无情的战争。当群龙与大军在王国各地激战时，维斯特洛见证了全面战争带来的毁灭性后果。",
-        "releaseDate": "2026-06-21",
-        "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 6.1,
+        "title": "金特务：本色回归",
+        "originalTitle": "김부장",
+        "description": "改编自同名网络漫画，讲述的是原本只想平凡当个父亲的金部长，在挚爱的女儿突然失踪后，不得不揭开自己极力隐藏的真实身份，为了救回女儿不惜一切的故事。",
+        "releaseDate": "2026-06-26",
+        "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
+        "rating": 7.203,
         "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 剧情"
+        "genreTitle": "动作冒险, 犯罪"
       },
       {
         "id": 296286,
@@ -392,9 +366,35 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 8.912,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 94997,
+        "type": "tmdb",
+        "title": "权力的游戏前传：龙族",
+        "originalTitle": "House of the Dragon",
+        "description": "黑党与绿党为争夺铁王座展开了一场全面而无情的战争。当群龙与大军在王国各地激战时，维斯特洛见证了全面战争带来的毁灭性后果。",
+        "releaseDate": "2026-06-21",
+        "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
+        "rating": 5.4,
+        "mediaType": "tv",
+        "genreTitle": "Sci-Fi & Fantasy, 剧情"
+      },
+      {
+        "id": 255358,
+        "type": "tmdb",
+        "title": "攻壳机动队 THE GHOST IN THE SHELL",
+        "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
+        "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
+        "releaseDate": "2026-07-07",
+        "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
+        "posterPath": "/7V0zadEIWAbaol7OkCR6eFqp8vo.jpg",
+        "rating": 8.278,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
       }
     ]
   }
