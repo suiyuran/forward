@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-21T17:13:09.237Z",
+  "time": "2026-07-22T17:12:22.410Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
-        "rating": 8.5,
+        "rating": 8.469,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-12",
         "backdropPath": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg",
         "posterPath": "/btdVYnkRuwaHOLooc5phlUImusV.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-07-19",
         "backdropPath": null,
         "posterPath": "/wR4giIImVT5w043piQPxHXlOqZO.jpg",
-        "rating": 0,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2022-04-07",
         "backdropPath": "/3srLRdCMd5IMLiyyHvdQNstee3W.jpg",
         "posterPath": "/yFa9LmAPpYipjkXw2U2xhAm0JS9.jpg",
-        "rating": 7.329,
+        "rating": 7.295,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -351,7 +351,7 @@
         "releaseDate": "1997-01-12",
         "backdropPath": "/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
         "posterPath": "/5WLMR03uv7RJ9g2lmBInM2Pjcjg.jpg",
-        "rating": 7.4,
+        "rating": 7.408,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -431,7 +431,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/wKILy6ADkaCIbfnam27jWWwlzx9.jpg",
         "posterPath": "/A2Zlv1vhApYaSYGKAP1jGMiSG8b.jpg",
-        "rating": 8.5,
+        "rating": 8.353,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -485,7 +485,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.749,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -550,22 +550,22 @@
         "releaseDate": "2025-04-05",
         "backdropPath": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
         "posterPath": "/fWLpYnmApgNQXOV80o72vevmZOI.jpg",
-        "rating": 7.2,
+        "rating": 7.16,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
       {
-        "id": 308234,
+        "id": 107371,
         "type": "tmdb",
-        "title": "一念永恒合集篇",
-        "originalTitle": "一念永恒合集篇",
-        "description": "(2025年12月11日 新出的合集篇-单集40分钟左右）【合集篇为正片剧情剪辑合并，与正片相比无新内容】一念永恒动画合集篇上线！助你畅爽补番，2025年12月11日起每日更1集",
-        "releaseDate": "2025-12-11",
-        "backdropPath": null,
-        "posterPath": "/4WAVsQIvdApDxwM4xUnPhw9fuNM.jpg",
-        "rating": 0,
+        "title": "一念永恒",
+        "originalTitle": "一念永恒",
+        "description": "腾讯视频打造的第二部国漫年番，也是第一部2D国漫年番，由视美影业制作，讲述平凡少年白小纯在一次次磨炼挑战中的成长变化，描绘了一个极具东方奇幻色彩的瑰丽世界。人们常说“陪伴是最长情的告白”，而每一位资深的动漫迷，都值得一个《一念永恒》这样的国漫年番“长情”的守护。",
+        "releaseDate": "2020-08-12",
+        "backdropPath": "/8kjea5G7lMYRit7U9rSOLLZZOUh.jpg",
+        "posterPath": "/jgeAAUyACa4KIdOPafFlWas3em5.jpg",
+        "rating": 8.9,
         "mediaType": "tv",
-        "genreTitle": "动画"
+        "genreTitle": "动画, Sci-Fi & Fantasy"
       },
       {
         "id": 298994,
@@ -576,7 +576,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
         "posterPath": "/pwtHWJ2yblGRJenW9THxGGDEjIZ.jpg",
-        "rating": 7.25,
+        "rating": 7.643,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -589,7 +589,7 @@
         "releaseDate": "2025-07-02",
         "backdropPath": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
         "posterPath": "/krx4GwKIWVCtr4MgMeGi4lYkz5x.jpg",
-        "rating": 7.923,
+        "rating": 7.924,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -602,7 +602,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg",
         "posterPath": "/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
-        "rating": 8.5,
+        "rating": 8.714,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -708,7 +708,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.026,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -769,7 +769,7 @@
         "type": "tmdb",
         "title": "少女怪兽焦糖味",
         "originalTitle": "乙女怪獣キャラメリゼ",
-        "description": "是恋爱，或是毁灭？\n\n饱受不明疾病困扰的女高中生赤石黑绘，因为笨拙而一直不敢与他人交流，有一天巧合之下，她喜欢上了班上备受欢迎的男生南新汰。当少女察觉到自己这份爱恋时，体内沉睡的力量也随之觉醒……\n\n恋爱与理性的激烈交锋，颠覆少女漫画的超展开故事，即将席卷日本！！",
+        "description": "是恋爱，或是毁灭？饱受不明疾病困扰的女高中生赤石黑绘，因为笨拙而一直不敢与他人交流，有一天巧合之下，她喜欢上了班上备受欢迎的男生南新汰。当少女察觉到自己这份爱恋时，体内沉睡的力量也随之觉醒……恋爱与理性的激烈交锋，颠覆少女漫画的超展开故事，即将席卷日本！！",
         "releaseDate": "2026-07-03",
         "backdropPath": "/vvbIW2xspYigrgTHTmTSzVDgfKl.jpg",
         "posterPath": "/iqLYkjZS6w9spyJQTRYlPHoDXP7.jpg",
@@ -840,7 +840,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/pEhFkDyRMpUZr1lwmmPFVGzdgNl.jpg",
         "posterPath": "/oz6Aet1VmsjxA70oGIhiaNnXxuk.jpg",
-        "rating": 6.9,
+        "rating": 7.417,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
       },
@@ -985,7 +985,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/fwdosqd1BW1tDlvaF9qhMuERQGY.jpg",
         "posterPath": "/9HW5N89FN8hdo0PjbYiYVENBeH1.jpg",
-        "rating": 8,
+        "rating": 7.833,
         "mediaType": "movie",
         "genreTitle": "动作, 冒险"
       },
@@ -1024,7 +1024,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.636,
+        "rating": 8.615,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1037,7 +1037,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.789,
+        "rating": 7.791,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1050,7 +1050,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/y4QV6ivcpiFj1hEssoH9XIlekO.jpg",
         "posterPath": "/o8Jo2wBncO3wqr2sDk30ktgejcm.jpg",
-        "rating": 9,
+        "rating": 9.125,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
