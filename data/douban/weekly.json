@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-22T20:51:21.319Z",
+  "time": "2026-07-23T20:48:04.539Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
         "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.246,
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-05-27",
         "backdropPath": "/2aA8iPlMCks3k131ymFBAY6FL0b.jpg",
         "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-        "rating": 7.084,
+        "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "恐怖, 悬疑"
       }
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.429,
+        "rating": 9.434,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/feISh3qoREwIPWbSaLqqumbmh7m.jpg",
         "posterPath": "/4A5Sl89zZ0WRKj5QrhMxgBFiQYc.jpg",
-        "rating": 5.7,
+        "rating": 6.909,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.203,
+        "rating": 7.276,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
       },
@@ -379,20 +379,20 @@
         "releaseDate": "2026-06-21",
         "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 5.4,
+        "rating": 5.5,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
       {
         "id": 255358,
         "type": "tmdb",
-        "title": "攻壳机动队 THE GHOST IN THE SHELL",
+        "title": "攻壳机动队",
         "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
         "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7V0zadEIWAbaol7OkCR6eFqp8vo.jpg",
-        "rating": 8.278,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
