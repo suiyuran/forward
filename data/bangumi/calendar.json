@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-22T17:12:22.410Z",
+  "time": "2026-07-23T17:16:15.786Z",
   "data": {
     "星期日": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2021-01-12",
         "backdropPath": "/kuNbZYiODIgeSwf41ReSWtlcRIz.jpg",
         "posterPath": "/967O92uCNCkZi5d8hT35ifvELcW.jpg",
-        "rating": 5.7,
+        "rating": 5.667,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
-        "rating": 8.469,
+        "rating": 8.466,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -83,9 +83,9 @@
       {
         "id": 296756,
         "type": "tmdb",
-        "title": "President Curtis",
+        "title": "柯蒂斯总统",
         "originalTitle": "President Curtis",
-        "description": "",
+        "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
@@ -115,7 +115,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/93G5xLkTan3fdkUzQVvCcf8IAMx.jpg",
         "posterPath": "/5vhYO0hMacNlyNDaYlS2HRXOtoZ.jpg",
-        "rating": 0,
+        "rating": 1,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
         "posterPath": "/zlDw5KbBQ9LOz5ul3zx3CKaFgFi.jpg",
-        "rating": 8.201,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -167,7 +167,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.437,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -180,7 +180,7 @@
         "releaseDate": "2013-07-15",
         "backdropPath": "/kdgX5uDV5HoaiIo8HsCEyx6ncH6.jpg",
         "posterPath": "/h0oETPVpnpFsQgBNWqlsFmRfmnl.jpg",
-        "rating": 7.4,
+        "rating": 7.411,
         "mediaType": "tv",
         "genreTitle": "动画"
       }
@@ -285,8 +285,8 @@
         "description": "最强魔导士拉可的小队为了打倒魔神王，展开了激烈的战斗。在一次追击中，为了避免全灭的危机，拉可对同伴喊道“你们先走我断后！”，只身一人对敌。在无止尽的战斗中，拉可终于打倒了魔神王。然而，回到城镇等待他的却是“10年后”的世界——",
         "releaseDate": "2026-07-06",
         "backdropPath": "/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
-        "posterPath": "/svcJyWDhj1STkOTSfxgd2hOvZ0z.jpg",
-        "rating": 8,
+        "posterPath": "/6RnaxEBtjFJO2jx8qx7ibMJri5H.jpg",
+        "rating": 4.5,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -311,8 +311,8 @@
         "description": "春日的夜晚，在大学宿舍室友鸣海的邀请下，空野驱参加了一场迎新联谊，遇见了失明的女生冬月小春。爱笑、会谈论梦想的她，与自己是截然相反的存在。从某天放学后捡到她的白手杖开始，两人之间的距离一点点拉近。“我想放烟花。”那一刻，他第一次直面蕴藏在她这句话中的光芒。看不见的她，与封闭内心的我。这是一个寻找光芒的两人所编织的，淡淡的恋爱故事。",
         "releaseDate": "2026-07-06",
         "backdropPath": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
-        "posterPath": "/xGxSWFnSKur7pTDhafiE5QnFYo.jpg",
-        "rating": 6.5,
+        "posterPath": "/2niOCxDblN9fTL33zGmphQ0zmMW.jpg",
+        "rating": 6.4,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -365,7 +365,7 @@
         "description": "深月绫进入了以淑女教育著称的黑美女子学院，意外发现校内备受瞩目的“白百合大人” ── 夜绘美绪，在无人的教室里沉迷于格斗游戏。由于校规禁止游戏，美绪要求绫严格保密。然而再次相遇时，美绪识破了绫同为游戏玩家的身份，并恳求与她一较高下。面对美绪对游戏纯粹的热情，绫虽心生抵触，却未表现出理解她为何放弃游戏的态度，最终接受了挑战。在较量中，两人作为稀有的女性格斗游戏玩家，逐渐理解彼此，建立了深厚的友谊。随后她们冒着被退学的风险，与同为隐藏游戏爱好者的前辈一之濑珠树和犬井夕一起，更加投入地沉浸在格斗游戏的世界中。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/yCRq49YINwI7psAK5VEzbKLLSFk.jpg",
-        "posterPath": "/zGNd9CG8RKovJXD2vDAPoE8bOzm.jpg",
+        "posterPath": "/cqWRSBSVNMlIt75IBfqSR1C9XdB.jpg",
         "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -384,6 +384,19 @@
         "genreTitle": "动画, 动作冒险"
       },
       {
+        "id": 303287,
+        "type": "tmdb",
+        "title": "一斩苍穹",
+        "originalTitle": "一斩苍穹",
+        "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
+        "releaseDate": "2026-07-28",
+        "backdropPath": "/7P7rbfUVkUeTxm9a2wSZPmAjlf6.jpg",
+        "posterPath": "/N2OHiWa4TdjwGjsjwuP75l3qyk.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
+      },
+      {
         "id": 285574,
         "type": "tmdb",
         "title": "与你相恋到生命尽头",
@@ -391,7 +404,7 @@
         "description": "孤儿院兼国家战用魔术武器育成机关收容无依的小孩，培养成战争用的魔术武器，死亡对在这里生活的孩子们来说稀松平常，无法尽情地表达悲伤。\n\n　　14岁少女席娜某天早上得知室友在战争中丧生，她压抑心中的悲伤，无法完全接纳自己的境遇。\n\n　　晚上她遇到一个满身血迹的少女——\n\n　　第二天，名叫美美的少女转进席娜的班上。\n\n　　有传闻说美美是学校的秘密武器，两人的邂逅，令席娜的心慢慢产生变化。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/ppR5S0tqg53tVFA8Gc8CfkWkQG8.jpg",
-        "posterPath": "/59i1prZ6qNcFj8iOnaNT6jnblFw.jpg",
+        "posterPath": "/5onAmRL2UPOi33OqmsAobtbJZcn.jpg",
         "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
@@ -402,7 +415,7 @@
         "title": "奇招百出的维多利亚",
         "originalTitle": "手札が多めのビクトリア",
         "description": "顶尖特务克萝伊脱离组织后，改名换姓，以维多利亚的身份过着新的生活。\n\n　　她在辗转抵达艾许伯里王国后，遇见了被母亲遗弃的少女诺娜，以及骑士团诚实可靠的团长杰佛瑞。\n\n　　杰佛瑞成为了领养诺娜的维多利亚的身份保证人，这三个各自背负着伤痛过去的人，逐渐成为彼此生命中不可或缺的存在。\n\n　　维多利亚所梦寐以求的幸福，最终会去往何处呢？",
-        "releaseDate": "2026-07-08",
+        "releaseDate": "2026-07-07",
         "backdropPath": "/az2Y3Cfy3JcDUuCicU2u3MnNUo4.jpg",
         "posterPath": "/2odRPZeecKXpTboMutt4X49NRDD.jpg",
         "rating": 0,
@@ -441,7 +454,7 @@
         "title": "天是红河岸",
         "originalTitle": "天は赤い河のほとり",
         "description": "夕梨，被古老的土耳其王妃从21世纪带到了斯托塔帝国。王位的争夺战把她卷了进去！是危险也好，是幸福也好，在她不经意发现自己已经深深的爱上了卡尔之时，一切都不重要了！只要与他在一起，是进敌营亦或是做俘虏，是做挂牌的侧妃还是人人敬慕的战争女神，满心都是他的温柔与关怀……",
-        "releaseDate": "2026-07-08",
+        "releaseDate": "2026-07-07",
         "backdropPath": "/pHzcs5Ru1lwoVcQsPA5lNYlxJy2.jpg",
         "posterPath": "/wWlfBMTA7VygmYC4KUg2qLWJGmv.jpg",
         "rating": 7.5,
@@ -468,7 +481,7 @@
         "originalTitle": "万古神帝",
         "description": "《万古神帝》改编自阅文白金作家飞天鱼的同名小说。\n\n八百年前，张若尘身为明帝独子，天资绝世却遭青梅竹马的池瑶公主斩杀；八百年后，他重生在云武郡国的废柴九王子“张若尘”体内，这具身体体弱多病、毫无灵力，与母亲林妃在郡王府备受欺凌。觉醒记忆后，张若尘立誓向已是昆仑界主宰的池瑶女皇复仇，同时守护给予他母爱的林妃。他觉醒时空神武印记，凭前世经验和努力快速成长，岁末考核夺冠后，历经武市斗场厮杀、地府门截杀，进入武市学宫深造。",
         "releaseDate": "2026-07-21",
-        "backdropPath": null,
+        "backdropPath": "/aq9SNvWT5WikXHHMr4NU0Vc99Q7.jpg",
         "posterPath": "/jElv6FJjINzLoGeSDBsrCa4EOeL.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -485,7 +498,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.7,
+        "rating": 8.749,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -507,11 +520,11 @@
         "type": "tmdb",
         "title": "恋爱游戏世界对路人角色很不友好",
         "originalTitle": "⼄⼥ゲー世界はモブに厳しい世界です",
-        "description": "原本是现代日本的社会人，转生到剑与魔法的“恋爱游戏”世界而成为名叫里昂的人物，对于那个女尊男卑的世界感到绝望。在这个世界之中，男性如同负责提供女性生活所需的家畜。能够算得上例外的，大概就只有身为游戏攻略对象的王太子，以及他身边的型男军团。对于这种蛮横不讲理的处境，里昂拥有一个武器——前世受到嚣张的妹妹要胁，不得不攻略这款游戏时所累积下来的相关知识。在因缘际会之下，里昂只好运用这些知识，挺身对抗诸多任性妄为的女性与型男。",
+        "description": "作为职场人士的里昂，转生到了某个剑与魔法的“乙女游戏”世界。那里是一个极度重女轻男的世界，唯一的例外是游戏中曾作为攻略对象的王太子率领的帅哥军团。然而，对于遭受压迫、陷入绝望的里昂来说，他拥有一件武器——那就是前世被妹妹强行要求攻略这款游戏时积累的“知识”。原本计划作为路人角色在乡下悠闲度日的里昂，却利用对游戏的了解，在不知不觉中向那些为所欲为的女性和帅哥军团举起了反旗。",
         "releaseDate": "2022-04-03",
         "backdropPath": "/c0oFoz7PttzMLsQOQn54Lcu8V9d.jpg",
         "posterPath": "/oHraANBb1gOU425bk26CgZtPP5H.jpg",
-        "rating": 7.4,
+        "rating": 7.43,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -524,7 +537,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.641,
+        "rating": 8.645,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -550,7 +563,7 @@
         "releaseDate": "2025-04-05",
         "backdropPath": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
         "posterPath": "/fWLpYnmApgNQXOV80o72vevmZOI.jpg",
-        "rating": 7.16,
+        "rating": 7.189,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -576,7 +589,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
         "posterPath": "/pwtHWJ2yblGRJenW9THxGGDEjIZ.jpg",
-        "rating": 7.643,
+        "rating": 6.813,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -589,20 +602,20 @@
         "releaseDate": "2025-07-02",
         "backdropPath": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
         "posterPath": "/krx4GwKIWVCtr4MgMeGi4lYkz5x.jpg",
-        "rating": 7.924,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 297826,
         "type": "tmdb",
-        "title": "盗掘王",
+        "title": "盗墓王",
         "originalTitle": "도굴왕",
         "description": "2025年，世界各地出现了神秘的「古墓」，古墓中的「文物」能赋予持有者异能力，更有不少人利用这些力量谋财。靠着「遗物」赋予的异能力以盗墓为生的刚力辽河，却因雇主大河原泰政的背叛，在「墓」中被逼入绝境，命悬一线。此时，一个突然开口说话的「乌鸦遗物」救了他一命。回过神来，他发现自己竟穿越回到了15年前的2025年！为了向大河原报复，辽河凭借著未来的记忆与知识作为武器，向所有掌握财富与权力的统治者们亮出獠牙！他将利用「文物」攀上世界顶点，成为真正的「盗墓王」!",
-        "releaseDate": "2026-07-09",
+        "releaseDate": "2026-07-08",
         "backdropPath": "/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg",
         "posterPath": "/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
-        "rating": 8.714,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -628,7 +641,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/szEFnQcjnaEDJrMO8cNnJIkh0Ob.jpg",
         "posterPath": "/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
-        "rating": 7,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -695,7 +708,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
-        "rating": 8.8,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -814,7 +827,7 @@
         "releaseDate": "2024-07-06",
         "backdropPath": "/cN8u7s6vaQezheTy2mGOzEmF7Hg.jpg",
         "posterPath": "/y1cYeKaC0ZFTVz9f1KYSCd6fhsn.jpg",
-        "rating": 7.8,
+        "rating": 7.817,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -840,7 +853,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/pEhFkDyRMpUZr1lwmmPFVGzdgNl.jpg",
         "posterPath": "/oz6Aet1VmsjxA70oGIhiaNnXxuk.jpg",
-        "rating": 7.417,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
       },
@@ -1024,7 +1037,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.615,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1035,9 +1048,9 @@
         "originalTitle": "Avatar: The Last Airbender",
         "description": "人称“神通王”的小男孩必须掌握四种元素之力，以拯救战火纷飞的世界，击败一心阻碍他的冷酷敌人。",
         "releaseDate": "2024-02-22",
-        "backdropPath": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+        "backdropPath": "/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.791,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1063,7 +1076,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
         "posterPath": "/xh9hNzzadcT0vn9pJMUu5SA2w0c.jpg",
-        "rating": 9.818,
+        "rating": 9.667,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1102,7 +1115,7 @@
         "releaseDate": "2026-07-12",
         "backdropPath": "/uwDbJwDrzM6Xqx1yh4lkh8xUsbp.jpg",
         "posterPath": "/iCcg8wDAoq4YHQOvsJXYzUe2FEc.jpg",
-        "rating": 6,
+        "rating": 7.333,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
