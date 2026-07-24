@@ -1,7 +1,33 @@
 {
-  "time": "2026-07-23T20:48:04.539Z",
+  "time": "2026-07-24T20:52:41.888Z",
   "data": {
     "电影": [
+      {
+        "id": 1633056,
+        "type": "tmdb",
+        "title": "八仙！",
+        "originalTitle": "八仙！",
+        "description": "《八仙！》是一部神仙喜剧动画电影，以中国传统神话“八仙过海”为灵感原点进行创作。故事围绕八个出身草根的凡人展开，他们面对强大的反派神仙，凭借机智与民间智慧巧妙周旋，最终战胜强敌，被世人赞颂为“八仙”。影片由编剧、导演牟正洋打造，着眼于让经典角色与当代观众产生共鸣，在冒险故事中流露东方哲学中关于友谊、成长、理想与坚守的主题。",
+        "releaseDate": "2026-07-10",
+        "backdropPath": "/2Gg8Lq8v5taBBR1JrDuhviNUjSB.jpg",
+        "posterPath": "/w7NfZCUnLFmM8n4r2ndi0WJ5oBF.jpg",
+        "rating": 8,
+        "mediaType": "movie",
+        "genreTitle": "喜剧, 动画"
+      },
+      {
+        "id": 1671541,
+        "type": "tmdb",
+        "title": "三国第一部：争洛阳",
+        "originalTitle": "三国第一部：争洛阳",
+        "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
+        "releaseDate": "2026-06-27",
+        "backdropPath": "/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
+        "posterPath": "/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
+        "rating": 6.5,
+        "mediaType": "movie",
+        "genreTitle": "动画, 历史"
+      },
       {
         "id": 1638171,
         "type": "tmdb",
@@ -29,30 +55,17 @@
         "genreTitle": "恐怖, 惊悚"
       },
       {
-        "id": 1497823,
+        "id": 1468683,
         "type": "tmdb",
-        "title": "德瓦克先生，你相信天使吗？",
-        "originalTitle": "Sie glauben an Engel, Herr Drowak?",
-        "description": "乐观的大学生莉娜·雅克比申请加入一项帮助边缘人群的社工项目，担任写作辅导员。她没想到，自己将步入雨果·德罗瓦克先生那虚无孤独的世界。出乎意料的是，德罗瓦克展现出惊人的写作才华。他的文字令人着迷，却也唤醒了他深藏的黑暗回忆。过去的恶魔卷土重来，几乎将他吞噬。莉娜奋力将他从崩溃边缘拉回，也努力守护心中的善意信念。",
-        "releaseDate": "2026-02-19",
-        "backdropPath": "/4pwEVWaPyGNbSJRF6EQrbfzH2wG.jpg",
-        "posterPath": "/tHi5R0vp8auNJD3fscJjqbBEXon.jpg",
-        "rating": 5,
+        "title": "永远心跳漏一拍",
+        "originalTitle": "Heartstopper Forever",
+        "description": "特鲁厄姆-希格斯的学生迎来新学年。随着尼克和查理的关系日渐深厚，两人也开始思考毕业后的未来。",
+        "releaseDate": "2026-07-14",
+        "backdropPath": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+        "posterPath": "/yeZXovyXz9lFrtET2cXwEzmo291.jpg",
+        "rating": 7.124,
         "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1498915,
-        "type": "tmdb",
-        "title": "她回来的那天",
-        "originalTitle": "그녀가 돌아온 날",
-        "description": "她刚拍完一部独立电影，现在要接受三场采访。之后在表演课上，老师要求她重新演绎那些采访，但不知为何，她竟完全记不起来了。",
-        "releaseDate": "2026-05-06",
-        "backdropPath": "/rxqC1iE9Io09mlU0NIWJiLRaoRd.jpg",
-        "posterPath": "/jU56Z0q4AKhZR4OzlBM7q5Q1U2g.jpg",
-        "rating": 4.3,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "爱情, 剧情"
       },
       {
         "id": 1433680,
@@ -68,6 +81,32 @@
         "genreTitle": "喜剧, 历史"
       },
       {
+        "id": 1497823,
+        "type": "tmdb",
+        "title": "德瓦克先生，你相信天使吗？",
+        "originalTitle": "Sie glauben an Engel, Herr Drowak?",
+        "description": "乐观的大学生莉娜·雅克比申请加入一项帮助边缘人群的社工项目，担任写作辅导员。她没想到，自己将步入雨果·德罗瓦克先生那虚无孤独的世界。出乎意料的是，德罗瓦克展现出惊人的写作才华。他的文字令人着迷，却也唤醒了他深藏的黑暗回忆。过去的恶魔卷土重来，几乎将他吞噬。莉娜奋力将他从崩溃边缘拉回，也努力守护心中的善意信念。",
+        "releaseDate": "2026-02-19",
+        "backdropPath": "/4pwEVWaPyGNbSJRF6EQrbfzH2wG.jpg",
+        "posterPath": "/tHi5R0vp8auNJD3fscJjqbBEXon.jpg",
+        "rating": 5,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1365378,
+        "type": "tmdb",
+        "title": "扣篮梦工厂",
+        "originalTitle": "Le rêve américain",
+        "description": "",
+        "releaseDate": "2026-02-18",
+        "backdropPath": "/uz4AQIFsC24qVoMrYRISLDqMHze.jpg",
+        "posterPath": "/bURZdEMPoaxOCPstwfZ2gYfhqGx.jpg",
+        "rating": 7.4,
+        "mediaType": "movie",
+        "genreTitle": "喜剧"
+      },
+      {
         "id": 1061771,
         "type": "tmdb",
         "title": "楚门之鼠",
@@ -81,56 +120,17 @@
         "genreTitle": "动画, 喜剧"
       },
       {
-        "id": 1427653,
+        "id": 1245119,
         "type": "tmdb",
-        "title": "陌路同途",
-        "originalTitle": "Departures",
-        "description": "贝尼在机场门口遇到了杰克，两人之间似乎产生了好感。他们的关系在阿姆斯特丹的旅行中逐渐发展，还经历了亲密接触，同时也揭示了其中错综复杂的权力关系。",
-        "releaseDate": "2026-04-17",
-        "backdropPath": "/pkSqSzciwotIgrGRHVtrWRX3wo.jpg",
-        "posterPath": "/pYF0cSQAG5Oy4DkCloseuzp8HZM.jpg",
-        "rating": 6.5,
+        "title": "黄色领带",
+        "originalTitle": "Cravata galbenă",
+        "description": "这是关于传奇音乐家塞尔吉乌·切利比达克的传奇故事。他从罗马尼亚摩尔多瓦的一个小镇，一路攀升至古典音乐世界的巅峰。 作为柏林爱乐乐团的首席指挥，这位神童将克服重重困难追逐梦想（在二战期间饱受轰炸的柏林经历了战争的洗礼），并且拒绝在此过程中做出任何妥协。",
+        "releaseDate": "2025-11-14",
+        "backdropPath": "/mlJoaocwe4yopxastL9ki8vKSy1.jpg",
+        "posterPath": "/tkCQjcvLKG5HhvVyqkNriifLgLW.jpg",
+        "rating": 8.3,
         "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 1238188,
-        "type": "tmdb",
-        "title": "被俘的塞万提斯",
-        "originalTitle": "El cautivo",
-        "description": "1575年，年轻士兵米格尔·德·塞万提斯在公海上被巴巴里海盗俘虏，并被带到阿尔及尔作为人质。他深知，如果家人不能尽快支付赎金，等待他的将是残酷的死亡，于是他从对讲故事的热爱中找到了慰藉。",
-        "releaseDate": "2025-09-12",
-        "backdropPath": "/sBEM8U5l7jq0BH7XiC7Zzs4d8e2.jpg",
-        "posterPath": "/ul5T0euPBxhMnswAwfdmnlHl8by.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 历史"
-      },
-      {
-        "id": 1510335,
-        "type": "tmdb",
-        "title": "利摩日阳台",
-        "originalTitle": "Un balcon à Limoges",
-        "description": "格拉迪丝是一位五十多岁的女性，生活在社会的边缘，没有住所、没有医保卡、没有银行账户。对她来说，一切都无关紧要，甚至对于性、酒精或跳舞的享受也都不重要。一天早上，她偶然遇到了尤金妮，一位高中时的朋友。尤金妮试图违背她的意愿去帮助她。",
-        "releaseDate": "2026-04-29",
-        "backdropPath": "/bXrX36bWUnEtHUBIWOin8ouA31u.jpg",
-        "posterPath": "/eFZtWUiM2b4CMCsM37iLosNCFwK.jpg",
-        "rating": 6.5,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 1083381,
-        "type": "tmdb",
-        "title": "后室",
-        "originalTitle": "Backrooms",
-        "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-        "releaseDate": "2026-05-27",
-        "backdropPath": "/2aA8iPlMCks3k131ymFBAY6FL0b.jpg",
-        "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-        "rating": 7.1,
-        "mediaType": "movie",
-        "genreTitle": "恐怖, 悬疑"
+        "genreTitle": "音乐, 剧情"
       }
     ],
     "剧集·国内": [
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.434,
+        "rating": 9.435,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -319,19 +319,6 @@
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
-        "id": 322055,
-        "type": "tmdb",
-        "title": "检察官的提案",
-        "originalTitle": "검사실의 제안",
-        "description": "曾因“杀人犯之子”的标签饱受欺凌的李彩河，在洗清冤屈后成为一名八级检察院调查员。他被分配到檀岘分局，努力开启新生活，却意外与曾帮助过他的检察官朱泰善重逢。朱泰善性格完美主义且敏感古怪，在一次共同值夜班后，他对李彩河产生了浓厚兴趣。为了调查一桩悬而未决的谋杀案，朱泰善提议李彩河担任自己的专属调查员。两人在压抑又充满张力的办公环境下，展开了一场徘徊于职场正义与禁忌情感之间的危险博弈。",
-        "releaseDate": "2026-06-25",
-        "backdropPath": "/feISh3qoREwIPWbSaLqqumbmh7m.jpg",
-        "posterPath": "/4A5Sl89zZ0WRKj5QrhMxgBFiQYc.jpg",
-        "rating": 6.909,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 犯罪"
-      },
-      {
         "id": 136315,
         "type": "tmdb",
         "title": "熊家餐馆",
@@ -353,7 +340,7 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.276,
+        "rating": 7.269,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
       },
