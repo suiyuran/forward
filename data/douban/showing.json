@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-23T18:14:24.197Z",
+  "time": "2026-07-24T18:19:44.370Z",
   "data": [
     {
       "id": 1633056,
@@ -28,17 +28,17 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1339713,
+      "id": 1305665,
       "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
-      "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.2,
+      "title": "群星闪耀时",
+      "originalTitle": "群星闪耀时",
+      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
+      "releaseDate": "2026-07-25",
+      "backdropPath": "/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
+      "posterPath": "/w5Y6E3SaPKkn4eKAWATFCyY1STx.jpg",
+      "rating": 6.5,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
+      "genreTitle": "剧情, 科幻"
     },
     {
       "id": 26466,
@@ -54,6 +54,19 @@
       "genreTitle": "恐怖"
     },
     {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "rating": 8.2,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
       "id": 1671541,
       "type": "tmdb",
       "title": "三国第一部：争洛阳",
@@ -62,7 +75,7 @@
       "releaseDate": "2026-06-27",
       "backdropPath": "/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
       "posterPath": "/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
-      "rating": 6,
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "动画, 历史"
     },
@@ -88,7 +101,7 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/2aA8iPlMCks3k131ymFBAY6FL0b.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.1,
+      "rating": 7.085,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -106,19 +119,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "releaseDate": "2026-06-10",
-      "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "rating": 7.129,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 惊悚"
-    },
-    {
       "id": 1604133,
       "type": "tmdb",
       "title": "四渡",
@@ -130,6 +130,19 @@
       "rating": 5.4,
       "mediaType": "movie",
       "genreTitle": "历史, 战争"
+    },
+    {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "releaseDate": "2026-06-10",
+      "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
+      "rating": 7.177,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 惊悚"
     },
     {
       "id": 1353926,
@@ -153,7 +166,7 @@
       "releaseDate": "2026-06-17",
       "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 7.417,
+      "rating": 7.418,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -166,7 +179,7 @@
       "releaseDate": "2026-06-10",
       "backdropPath": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
       "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-      "rating": 7.403,
+      "rating": 7.374,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -192,7 +205,7 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 6.408,
+      "rating": 6.409,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -205,7 +218,7 @@
       "releaseDate": "2026-05-25",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.547,
+      "rating": 7.628,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
     },
@@ -216,9 +229,9 @@
       "originalTitle": "Moana",
       "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
       "releaseDate": "2026-07-08",
-      "backdropPath": "/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+      "backdropPath": "/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
       "posterPath": "/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
-      "rating": 5.809,
+      "rating": 5.9,
       "mediaType": "movie",
       "genreTitle": "家庭, 奇幻"
     },
@@ -257,9 +270,22 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
       "posterPath": "/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "rating": 6.1,
+      "rating": 6.144,
       "mediaType": "movie",
       "genreTitle": "动作, 冒险"
+    },
+    {
+      "id": 1730837,
+      "type": "tmdb",
+      "title": "悟空大圣",
+      "originalTitle": "悟空大圣",
+      "description": "花果山仙石化猴，悟空为护族人远赴灵台方寸山学艺，得七十二变与筋斗云。因同门陷害触犯天条，天庭围剿花果山，家园残破。悟空夺金箍棒、毁生死簿，护佑族群。天庭招安封弼马温，悟空受辱自封齐天大圣;蟠桃盛会再遭排挤，遂大闹天宫。力挫巨灵神、哪吒，与二郎神斗法不分胜负，被太上老君投入八卦炉，反炼成火眼金睛。破炉后横扫凌霄宝殿，如来佛祖将其镇压五行山下。五百年后，悟空悟得本心，静待唐僧解救，终将踏上从妖王到大圣的蜕变之路。",
+      "releaseDate": "2026-07-24",
+      "backdropPath": null,
+      "posterPath": "/xHyEhkKZRmaa36EWJFUPBkIsHfm.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 77,
@@ -275,14 +301,14 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
-      "id": 1730837,
+      "id": 1670314,
       "type": "tmdb",
-      "title": "悟空大圣",
-      "originalTitle": "悟空大圣",
-      "description": "花果山仙石化猴，悟空为护族人远赴灵台方寸山学艺，得七十二变与筋斗云。因同门陷害触犯天条，天庭围剿花果山，家园残破。悟空夺金箍棒、毁生死簿，护佑族群。天庭招安封弼马温，悟空受辱自封齐天大圣;蟠桃盛会再遭排挤，遂大闹天宫。力挫巨灵神、哪吒，与二郎神斗法不分胜负，被太上老君投入八卦炉，反炼成火眼金睛。破炉后横扫凌霄宝殿，如来佛祖将其镇压五行山下。五百年后，悟空悟得本心，静待唐僧解救，终将踏上从妖王到大圣的蜕变之路。",
-      "releaseDate": "2026-07-24",
-      "backdropPath": null,
-      "posterPath": "/xHyEhkKZRmaa36EWJFUPBkIsHfm.jpg",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "releaseDate": "2026-08-01",
+      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "posterPath": "/5uRimjnIi842IrS1i8yd3ic7rzG.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
@@ -322,35 +348,9 @@
       "releaseDate": "2026-04-01",
       "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "posterPath": "/7tLVCMnGg0Q3rWlkoBjdKA0S57R.jpg",
-      "rating": 8.253,
+      "rating": 8.3,
       "mediaType": "movie",
       "genreTitle": "家庭, 喜剧"
-    },
-    {
-      "id": 68883,
-      "type": "tmdb",
-      "title": "胭脂扣",
-      "originalTitle": "胭脂扣",
-      "description": "在香港报馆任职的袁永定（万梓良 饰）遇见一位前来刊登寻人广告的冷艳女子，但她又无钱付广告费。袁永定借故离开，不料那女子紧随而来。在闲聊中袁永定惊讶地发现此女子原是鬼魂。她是二十世纪三十年代香港石塘咀的红牌妓女如花（梅艳芳 饰）。在那风月世界里，她爱上了人称十二少的陈振邦（张国荣 饰），到了谈论嫁娶之地步，但是由于身份地位悬殊，婚事遭到陈家反对。\r 陈振邦脱离家庭与如花同居，两人以胭脂匣定情。在二人同居后染食鸦片，陈振邦乃一纨绔子弟，无养家糊口的本领，渐渐经济拮据，于是如花计划与其吞食鸦片殉情。结果如花死去，而陈振邦被救活。如花在黄泉久候不见陈振邦，故回阳间寻找。\r 袁永定与女友（朱宝意 饰）无意中发现当年一张《骨子报》，发现陈振邦原在一家电影制片厂内充当制片场临时演员。陈振邦经岁月的折磨，早已穷困潦倒，对往事早已淡漠。如花伤心之余，将胭脂匣交还，回到阴间转世去了。",
-      "releaseDate": "1987-12-05",
-      "backdropPath": "/4kpbkS9V4QJcQBnvxvRfRojdFyI.jpg",
-      "posterPath": "/n7xK6bz8aUNb8LxCBtJX5AXonFh.jpg",
-      "rating": 7.4,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 奇幻"
-    },
-    {
-      "id": 1714841,
-      "type": "tmdb",
-      "title": "关索岭",
-      "originalTitle": "关索岭",
-      "description": "丁虎和沈啸飞是八百年前明军的后裔，先后爱上了采茶女金儿。他们生活在宁静的田园中，由于居住的屯堡位于交通要塞，这里成为了日军攻占的重要目标。面对外敌入侵，丁虎和沈啸飞毅摒弃前嫌，民族大义高于个人恩怨。他们以关索岭为中心，带领乡亲们奋勇抵抗，最终全歼了一股携带机密测绘地图的敌人。",
-      "releaseDate": "2026-06-25",
-      "backdropPath": "/luW1QPoiBpasSH2AeEgap5ZWB8Z.jpg",
-      "posterPath": "/hPBNYaVAwouAhLu2RpPxXZxKBvn.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动作, 历史"
     },
     {
       "id": 1725228,
@@ -366,17 +366,17 @@
       "genreTitle": "犯罪"
     },
     {
-      "id": 110,
+      "id": 68883,
       "type": "tmdb",
-      "title": "蓝白红三部曲之红",
-      "originalTitle": "Trois couleurs : Rouge",
-      "description": "克日什托夫·基耶斯洛夫斯基以宏大篇章为其《蓝白红三部曲》落下帷幕，在《红》中展开一场关于命运与偶然的炽热沉思。伊莲娜·雅各布饰演一位内心纯净却带着忧郁的日内瓦时装模特，她的人生轨迹与让-路易·特兰蒂尼昂饰演的愤世嫉俗的退休法官戏剧性地交汇。与此同时，仅隔数条街外，一场看似无关的嫉妒与背叛故事正在上演。本片以细腻笔触勾勒人与人之间意外的联结，堪称这位杰出导演在创作巅峰时期谱写的一曲辉煌终章。",
-      "releaseDate": "1994-05-12",
-      "backdropPath": "/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
-      "posterPath": "/5fkgMKovYZgbGngbHJg19zmsSaT.jpg",
-      "rating": 7.9,
+      "title": "胭脂扣",
+      "originalTitle": "胭脂扣",
+      "description": "在香港报馆任职的袁永定（万梓良 饰）遇见一位前来刊登寻人广告的冷艳女子，但她又无钱付广告费。袁永定借故离开，不料那女子紧随而来。在闲聊中袁永定惊讶地发现此女子原是鬼魂。她是二十世纪三十年代香港石塘咀的红牌妓女如花（梅艳芳 饰）。在那风月世界里，她爱上了人称十二少的陈振邦（张国荣 饰），到了谈论嫁娶之地步，但是由于身份地位悬殊，婚事遭到陈家反对。\r 陈振邦脱离家庭与如花同居，两人以胭脂匣定情。在二人同居后染食鸦片，陈振邦乃一纨绔子弟，无养家糊口的本领，渐渐经济拮据，于是如花计划与其吞食鸦片殉情。结果如花死去，而陈振邦被救活。如花在黄泉久候不见陈振邦，故回阳间寻找。\r 袁永定与女友（朱宝意 饰）无意中发现当年一张《骨子报》，发现陈振邦原在一家电影制片厂内充当制片场临时演员。陈振邦经岁月的折磨，早已穷困潦倒，对往事早已淡漠。如花伤心之余，将胭脂匣交还，回到阴间转世去了。",
+      "releaseDate": "1987-12-05",
+      "backdropPath": "/4kpbkS9V4QJcQBnvxvRfRojdFyI.jpg",
+      "posterPath": "/n7xK6bz8aUNb8LxCBtJX5AXonFh.jpg",
+      "rating": 7.435,
       "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
+      "genreTitle": "剧情, 奇幻"
     },
     {
       "id": 72245,
@@ -392,43 +392,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1670314,
+      "id": 110,
       "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "releaseDate": "2026-08-01",
-      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "posterPath": "/5uRimjnIi842IrS1i8yd3ic7rzG.jpg",
-      "rating": 0,
+      "title": "蓝白红三部曲之红",
+      "originalTitle": "Trois couleurs : Rouge",
+      "description": "克日什托夫·基耶斯洛夫斯基以宏大篇章为其《蓝白红三部曲》落下帷幕，在《红》中展开一场关于命运与偶然的炽热沉思。伊莲娜·雅各布饰演一位内心纯净却带着忧郁的日内瓦时装模特，她的人生轨迹与让-路易·特兰蒂尼昂饰演的愤世嫉俗的退休法官戏剧性地交汇。与此同时，仅隔数条街外，一场看似无关的嫉妒与背叛故事正在上演。本片以细腻笔触勾勒人与人之间意外的联结，堪称这位杰出导演在创作巅峰时期谱写的一曲辉煌终章。",
+      "releaseDate": "1994-05-12",
+      "backdropPath": "/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
+      "posterPath": "/5fkgMKovYZgbGngbHJg19zmsSaT.jpg",
+      "rating": 7.9,
       "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 1579223,
-      "type": "tmdb",
-      "title": "北回归线以北",
-      "originalTitle": "北回归线以北",
-      "description": "影片讲述了三组怀揣不同心结的人开着房车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元哥入伙，拍摄青藏高原的雪豹；蜗居房车陪读三年的三口之家，夫妻俩为了完成儿子张匡匡的毕业心愿，踏上房车之旅；著名三甲医院主任程卉 退休第二天独自驾车去西部，寻找年轻时心中的夙愿，看一看初恋爱人红绢蝶。三组不同经历的人生，在旅途中遭遇各种啼笑皆非的意外，在一连串经历过后，人生的答案逐渐显现出来。",
-      "releaseDate": "2026-06-19",
-      "backdropPath": "/kyWGRvpNU7xSc4Yjf4eQw7BRRxk.jpg",
-      "posterPath": "/hTEBWl9OutI6PHt201yGfm1J9Sz.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 37247,
-      "type": "tmdb",
-      "title": "毕业生",
-      "originalTitle": "The Graduate",
-      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
-      "releaseDate": "1967-12-21",
-      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
-      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
-      "rating": 7.63,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
+      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 1628,
@@ -444,17 +418,30 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 8073,
+      "id": 1715479,
       "type": "tmdb",
-      "title": "法外之徒",
-      "originalTitle": "Bande à part",
-      "description": "继《筋疲力尽》问世四年后，让-吕克·戈达尔以更激进的手法重构了黑帮电影范式。在这部作品中，两名躁动不安的年轻男子鼓动他们共同倾慕的女子协助实施一场发生在她自己家中的抢劫。这部兼具大胆锋芒与迷人影趣的法国新浪潮瑰宝，既流露着伤感情调又充满自由不羁的气质，既闪耀着浪漫星光又萦绕着淡淡哀愁。戈达尔在此片中创造了诸多影史留名的经典段落：卢浮宫内的狂奔场景与那段挥之不去的麦迪逊舞片段，已然成为电影史上永恒的时代印记。",
-      "releaseDate": "1964-08-05",
-      "backdropPath": "/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
-      "posterPath": "/zRvjanylCLPVMYdTGr56q368y5l.jpg",
-      "rating": 7.485,
+      "title": "幻影游船",
+      "originalTitle": "幻影游船",
+      "description": "幻影号及其狩梦人小队，深入三层梦境：在“北冥之海”力战巨鲲，在“昆仑之巅”对决大鹏。主角柳嘉在绝境中集结团队力量，击败了最终梦魇，拯救了所有沉睡者，也为后续的星空航程与神秘组织的威胁埋下伏笔。",
+      "releaseDate": "2026-06-27",
+      "backdropPath": "/oTvcdQuNcIb8AtkxDFeS21D5FHN.jpg",
+      "posterPath": "/xqekZag8oc6LXGEsiyGRiEq9Oul.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
+      "genreTitle": "科幻, 动画"
+    },
+    {
+      "id": 37247,
+      "type": "tmdb",
+      "title": "毕业生",
+      "originalTitle": "The Graduate",
+      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
+      "releaseDate": "1967-12-21",
+      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
+      "rating": 7.629,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 4024,
@@ -466,19 +453,6 @@
       "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
       "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
       "rating": 7.434,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 64131,
-      "type": "tmdb",
-      "title": "坏血",
-      "originalTitle": "Mauvais Sang",
-      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
-      "releaseDate": "1986-11-26",
-      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
-      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
-      "rating": 7.115,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -496,6 +470,19 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 64131,
+      "type": "tmdb",
+      "title": "坏血",
+      "originalTitle": "Mauvais Sang",
+      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
+      "releaseDate": "1986-11-26",
+      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
+      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
+      "rating": 7.115,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
       "id": 34838,
       "type": "tmdb",
       "title": "探戈课",
@@ -507,32 +494,6 @@
       "rating": 6.371,
       "mediaType": "movie",
       "genreTitle": "剧情, 音乐"
-    },
-    {
-      "id": 10400,
-      "type": "tmdb",
-      "title": "飓风",
-      "originalTitle": "The Hurricane",
-      "description": "一个黑人毛头小伙莱斯（维斯罗斯•雷恩•香农 Vicellous Reon Shannon 饰）在旧书市无意中淘到了拳王“飓风”鲁本•卡特（丹泽尔•华盛顿 Denzel Washington 饰）在狱中写的自传，并开始了对他的故事产生了兴趣。鲁本出生于贫寒家庭，幼年时嫉恶如仇，因此与当地的白人警察结怨。后来，他因为出色的身手，名震拳坛，绰号“飓风”。此后，他参加了越战成为荣誉军官，并在某舞会偶然结识了后来的妻子。当生活进入美满轨道的时候，一次新泽西酒吧杀人案彻底毁掉了他美好希望。莱斯与鲁本通信，了解到他蒙受不白之冤，便说服了朋友们，一起查找证据，希望揭开真相，令他重获自由，然而种族歧视的恶势力却在暗中百般刁难，意图把飓风困死在牢房……",
-      "releaseDate": "1999-09-17",
-      "backdropPath": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
-      "posterPath": "/iH7zKvZRD9GjLgUIZSOnFCPyFAl.jpg",
-      "rating": 7.439,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1002640,
-      "type": "tmdb",
-      "title": "海洋之谜",
-      "originalTitle": "Secrets of the Sea",
-      "description": "影片记录了海洋中最奇特、最壮观的生物。在海洋中，每个物种的生存都依赖于许多其他物种。影片通过跟踪研究世界各地海洋生命的奇妙旅程，真实的体现了海洋生物多样性的关键重要，展示了不同海洋物种之间及其环境相互作用的惊人方式。",
-      "releaseDate": "2022-06-08",
-      "backdropPath": null,
-      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     },
     {
       "id": 921937,
@@ -548,6 +509,32 @@
       "genreTitle": ""
     },
     {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1002640,
+      "type": "tmdb",
+      "title": "海洋之谜",
+      "originalTitle": "Secrets of the Sea",
+      "description": "影片记录了海洋中最奇特、最壮观的生物。在海洋中，每个物种的生存都依赖于许多其他物种。影片通过跟踪研究世界各地海洋生命的奇妙旅程，真实的体现了海洋生物多样性的关键重要，展示了不同海洋物种之间及其环境相互作用的惊人方式。",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 1028378,
       "type": "tmdb",
       "title": "Serengeti",
@@ -561,15 +548,15 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1147747,
+      "id": 1035090,
       "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 0,
+      "title": "维米尔·旷世大展",
+      "originalTitle": "Vermeer: The Greatest Exhibition",
+      "description": "2023年春季，阿姆斯特丹国家博物馆呈现有史以来规模最大的维梅尔展览。维梅尔用色独特，爱用群青蓝等昂贵颜料，擅长捕捉室内空间的光与影，以物件与人物的互动呈现岁月静好的人文气氛。观众能以电影形式享受这个一票难求的展览，并由阿姆斯特丹国家博物馆馆长和策展人亲自导赏，展览云集全球不同博物馆藏品，维梅尔35件已知作品中的28件稀世名画，包括著名的《戴珍珠耳环的少女》、《地理学家》、《倒牛奶的女仆》及《窗边读信的少女》等。阿姆斯特丹国家博物馆和海牙莫瑞泰斯皇家美术馆利用现代科技，对维梅尔的创作灵感和绘画过程进行深入研究。观众可在大银幕仔细欣赏维梅尔巨作的细节，并在专业鉴赏下深入了解其生平及创作内幕，沉浸在维梅尔的艺术世界中！",
+      "releaseDate": "2023-04-18",
+      "backdropPath": "/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
+      "posterPath": "/5FvXNMh346rWfNPlFlpgdAQXy8U.jpg",
+      "rating": 7.8,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
