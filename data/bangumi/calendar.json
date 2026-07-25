@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-24T17:25:21.215Z",
+  "time": "2026-07-25T16:52:26.930Z",
   "data": {
     "星期日": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/2ZiCNiuOiUGfAF0j73RI8DX1Z1N.jpg",
         "posterPath": "/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg",
-        "rating": 9,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-        "rating": 0,
+        "rating": 1,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/93G5xLkTan3fdkUzQVvCcf8IAMx.jpg",
         "posterPath": "/5vhYO0hMacNlyNDaYlS2HRXOtoZ.jpg",
-        "rating": 3.25,
+        "rating": 3.2,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -167,7 +167,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.4,
+        "rating": 8.431,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2022-04-07",
         "backdropPath": "/3srLRdCMd5IMLiyyHvdQNstee3W.jpg",
         "posterPath": "/yFa9LmAPpYipjkXw2U2xhAm0JS9.jpg",
-        "rating": 7.295,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -247,7 +247,7 @@
         "releaseDate": "2018-07-14",
         "backdropPath": "/pJqAgDico7ZTMAfAXyzldYqj5ME.jpg",
         "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
-        "rating": 7.7,
+        "rating": 7.733,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -286,7 +286,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
         "posterPath": "/6RnaxEBtjFJO2jx8qx7ibMJri5H.jpg",
-        "rating": 4.5,
+        "rating": 6.333,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -299,7 +299,7 @@
         "releaseDate": "2021-08-06",
         "backdropPath": "/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
         "posterPath": "/u4kmpg8y0RSfdNQsetrX8if5fYk.jpg",
-        "rating": 7.069,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
       },
@@ -351,7 +351,7 @@
         "releaseDate": "1997-01-12",
         "backdropPath": "/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
         "posterPath": "/5WLMR03uv7RJ9g2lmBInM2Pjcjg.jpg",
-        "rating": 7.404,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -366,7 +366,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/yCRq49YINwI7psAK5VEzbKLLSFk.jpg",
         "posterPath": "/cqWRSBSVNMlIt75IBfqSR1C9XdB.jpg",
-        "rating": 8.2,
+        "rating": 7.929,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -378,7 +378,7 @@
         "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
-        "posterPath": "/7V0zadEIWAbaol7OkCR6eFqp8vo.jpg",
+        "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
         "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -444,7 +444,7 @@
         "releaseDate": "2026-01-06",
         "backdropPath": "/wKILy6ADkaCIbfnam27jWWwlzx9.jpg",
         "posterPath": "/A2Zlv1vhApYaSYGKAP1jGMiSG8b.jpg",
-        "rating": 8.353,
+        "rating": 8.111,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -498,7 +498,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.748,
+        "rating": 8.747,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -563,7 +563,7 @@
         "releaseDate": "2025-04-05",
         "backdropPath": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
         "posterPath": "/fWLpYnmApgNQXOV80o72vevmZOI.jpg",
-        "rating": 7.216,
+        "rating": 7.245,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -602,7 +602,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
         "posterPath": "/pwtHWJ2yblGRJenW9THxGGDEjIZ.jpg",
-        "rating": 6.813,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -628,7 +628,7 @@
         "releaseDate": "2026-07-08",
         "backdropPath": "/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg",
         "posterPath": "/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
-        "rating": 8.7,
+        "rating": 8.625,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -780,7 +780,7 @@
       {
         "id": 312507,
         "type": "tmdb",
-        "title": "令和的斑小姐",
+        "title": "令和妖神斑小姐",
         "originalTitle": "令和のダラさん",
         "description": "在深山中的村落里，有一处长久以来严禁进入的“禁忌之地”。那里伫立着一座外观诡异的神祠，据说只要踏入就会遭到作祟，甚至可能因此丧命。生于世代管理那座山的三十木谷家的日向与薰，在某个暴风雨之夜踏入禁地，遭遇了拥有巨大蛇身、会作祟的神灵·屋跨斑……然而，这对姐弟非但不害怕这只怪异，反而亲暱地唤她“斑小姐”，轻轻松松就跟她亲近了起来！“吾姑且也算是会作祟的神灵喔！？”被天不怕地不怕的日向与薰耍得团团转，回过神来，怪异竟成了吐槽役！？背负着悲伤过去的斑小姐，与自由过了头的姐弟，交织出既喧闹又温暖的日常——令和催生的新感觉灵异喜剧，就此揭幕！",
         "releaseDate": "2026-07-02",
@@ -799,7 +799,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/vvbIW2xspYigrgTHTmTSzVDgfKl.jpg",
         "posterPath": "/iqLYkjZS6w9spyJQTRYlPHoDXP7.jpg",
-        "rating": 8,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -809,7 +809,7 @@
         "title": "尼古喵喵",
         "originalTitle": "ヤニねこ",
         "description": "尼古喵喵是只超爱抽烟的废物兽人！\n\n因为缺乏伦理与卫生观念，不是把烟头往窗外乱丢，就是对人乱吐口水，偶尔还会做出一些违法乱纪的事。\n\n幸好她身边有贴心的管家婆妹妹猫以及好友猫作伴，让她依旧能每天吞云吐雾、得过且过的生活着。",
-        "releaseDate": "2026-07-02",
+        "releaseDate": "2026-07-03",
         "backdropPath": "/u3C0ax7U590NNgtqTtAvIkoqpim.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
         "rating": 8.4,
@@ -863,10 +863,10 @@
         "title": "从0位居民开始的边境领主大人",
         "originalTitle": "領民0人スタートの辺境領主様",
         "description": "迪亚斯是个孤儿，但他却在战场上屡立战功，被誉为“救国英雄”。国王赐予他一块领地作为奖励。然而当他抵达时，却发现这片领地偏僻荒凉，人烟稀少，食物匮乏。这时，迪亚斯遇到了一位名叫阿尔娜的鬼人族女孩，她的额头上长著一根蓝色的角。阿尔娜带领迪亚斯来到了她族人居住的村庄。身为领主，迪亚斯决定尽其所能治理好自己的领地。",
-        "releaseDate": "2026-07-03",
+        "releaseDate": "2026-07-10",
         "backdropPath": "/pEhFkDyRMpUZr1lwmmPFVGzdgNl.jpg",
         "posterPath": "/oz6Aet1VmsjxA70oGIhiaNnXxuk.jpg",
-        "rating": 6.5,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
       },
@@ -879,7 +879,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/YZQGBP5nXPG3JjLoccdA13Oeea.jpg",
         "posterPath": "/sFSwNfxWxDGAjfbbzEJYz9BUIbC.jpg",
-        "rating": 7,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -959,7 +959,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8.017,
+        "rating": 8.015,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -992,13 +992,13 @@
       {
         "id": 1669841,
         "type": "tmdb",
-        "title": "Bleach: Thousand-Year Blood War - The Calamity",
+        "title": "死神 千年血战篇 -祸进谭-",
         "originalTitle": "Bleach: Thousand-Year Blood War - The Calamity",
-        "description": "",
+        "description": "随着友哈巴赫攻入灵王宫，死神与灭却师展开了最终决战。灵王陨落，现实世界随之崩塌。昔日的宿敌联手突入已发生异变的宫殿，共同迎战威胁万物存续的危机。",
         "releaseDate": "2026-06-25",
         "backdropPath": "/fwdosqd1BW1tDlvaF9qhMuERQGY.jpg",
         "posterPath": "/9HW5N89FN8hdo0PjbYiYVENBeH1.jpg",
-        "rating": 7.833,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "动作, 冒险"
       },
@@ -1037,7 +1037,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.188,
+        "rating": 8.294,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1063,7 +1063,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/6AoGMlKo2DUsYWiF5zzjdRERCVi.jpg",
         "posterPath": "/o8Jo2wBncO3wqr2sDk30ktgejcm.jpg",
-        "rating": 9.1,
+        "rating": 8.167,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1141,7 +1141,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
         "posterPath": "/o6k2eVEowtfwTKnKvbKUn87LGzX.jpg",
-        "rating": 6.5,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
