@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-25T20:37:48.238Z",
+  "time": "2026-07-26T20:42:20.309Z",
   "data": {
     "电影": [
       {
@@ -7,11 +7,11 @@
         "type": "tmdb",
         "title": "八仙！",
         "originalTitle": "八仙！",
-        "description": "《八仙！》是一部神仙喜剧动画电影，以中国传统神话“八仙过海”为灵感原点进行创作。故事围绕八个出身草根的凡人展开，他们面对强大的反派神仙，凭借机智与民间智慧巧妙周旋，最终战胜强敌，被世人赞颂为“八仙”。影片由编剧、导演牟正洋打造，着眼于让经典角色与当代观众产生共鸣，在冒险故事中流露东方哲学中关于友谊、成长、理想与坚守的主题。",
+        "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
         "releaseDate": "2026-07-10",
-        "backdropPath": "/2Gg8Lq8v5taBBR1JrDuhviNUjSB.jpg",
-        "posterPath": "/w7NfZCUnLFmM8n4r2ndi0WJ5oBF.jpg",
-        "rating": 8.222,
+        "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
+        "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "喜剧, 动画"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
         "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.241,
+        "rating": 8.246,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-14",
         "backdropPath": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
         "posterPath": "/yeZXovyXz9lFrtET2cXwEzmo291.jpg",
-        "rating": 7.161,
+        "rating": 7.196,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-02-19",
         "backdropPath": "/4pwEVWaPyGNbSJRF6EQrbfzH2wG.jpg",
         "posterPath": "/tHi5R0vp8auNJD3fscJjqbBEXon.jpg",
-        "rating": 5,
+        "rating": 5.417,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -98,11 +98,11 @@
         "type": "tmdb",
         "title": "扣篮梦工厂",
         "originalTitle": "Le rêve américain",
-        "description": "",
+        "description": "杰雷米曾守着音像店，布纳在机场做保洁。缺乏人脉、资金，英语水平有限，二人原本无缘成为 NBA 知名经纪人。本片改编自真实事件，讲述两位普通人怀揣篮球热忱，依靠深厚友谊突破困境，圆梦美国。",
         "releaseDate": "2026-02-18",
         "backdropPath": "/uz4AQIFsC24qVoMrYRISLDqMHze.jpg",
-        "posterPath": "/bURZdEMPoaxOCPstwfZ2gYfhqGx.jpg",
-        "rating": 7.411,
+        "posterPath": "/bBOhQmst9OoXirNmJRqo2U5TXga.jpg",
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "喜剧"
       },
@@ -127,8 +127,8 @@
         "description": "这是关于传奇音乐家塞尔吉乌·切利比达克的传奇故事。他从罗马尼亚摩尔多瓦的一个小镇，一路攀升至古典音乐世界的巅峰。 作为柏林爱乐乐团的首席指挥，这位神童将克服重重困难追逐梦想（在二战期间饱受轰炸的柏林经历了战争的洗礼），并且拒绝在此过程中做出任何妥协。",
         "releaseDate": "2025-11-14",
         "backdropPath": "/mlJoaocwe4yopxastL9ki8vKSy1.jpg",
-        "posterPath": "/tkCQjcvLKG5HhvVyqkNriifLgLW.jpg",
-        "rating": 8.367,
+        "posterPath": "/jmgsf5qGjdYQNAqolnlK8YBLuVX.jpg",
+        "rating": 8.4,
         "mediaType": "movie",
         "genreTitle": "音乐, 剧情"
       }
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.4,
+        "rating": 9.449,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -286,7 +286,7 @@
         "originalTitle": "Rick and Morty",
         "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
         "releaseDate": "2026-05-24",
-        "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "backdropPath": "/7DE67DzAlZmCOm1OYnAL7gV1B8w.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
         "rating": 8.2,
         "mediaType": "tv",
@@ -301,7 +301,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
         "posterPath": "/aGEoCdGpmIHvIkdkcPR0FSmmNt8.jpg",
-        "rating": 9.833,
+        "rating": 9.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -312,9 +312,9 @@
         "originalTitle": "Star City",
         "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
         "releaseDate": "2026-05-28",
-        "backdropPath": "/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
+        "backdropPath": "/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
         "posterPath": "/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-        "rating": 7.633,
+        "rating": 7.623,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.5,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
       },
@@ -378,7 +378,7 @@
         "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
-        "posterPath": "/7V0zadEIWAbaol7OkCR6eFqp8vo.jpg",
+        "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
         "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
