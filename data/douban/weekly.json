@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-27T20:58:08.027Z",
+  "time": "2026-07-28T20:54:56.228Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
         "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-        "rating": 8.2,
+        "rating": 8.333,
         "mediaType": "movie",
         "genreTitle": "喜剧, 动画"
       },
@@ -48,9 +48,9 @@
         "originalTitle": "Obsession",
         "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
         "releaseDate": "2026-05-13",
-        "backdropPath": "/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+        "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
         "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.249,
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-14",
         "backdropPath": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
         "posterPath": "/yeZXovyXz9lFrtET2cXwEzmo291.jpg",
-        "rating": 7.231,
+        "rating": 7.23,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.438,
+        "rating": 9.451,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -286,9 +286,9 @@
         "originalTitle": "Rick and Morty",
         "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
         "releaseDate": "2026-05-24",
-        "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
+        "backdropPath": "/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8.2,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.143,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-06-21",
         "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 6.4,
+        "rating": 6.6,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
-        "rating": 8.278,
+        "rating": 8.352,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
