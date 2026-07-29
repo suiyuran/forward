@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-28T20:54:56.228Z",
+  "time": "2026-07-29T20:40:25.290Z",
   "data": {
     "电影": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
         "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.2,
+        "rating": 8.251,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-14",
         "backdropPath": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
         "posterPath": "/yeZXovyXz9lFrtET2cXwEzmo291.jpg",
-        "rating": 7.23,
+        "rating": 7.27,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -148,30 +148,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 272432,
+        "id": 273114,
         "type": "tmdb",
-        "title": "低智商犯罪",
-        "originalTitle": "低智商犯罪",
-        "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
-        "releaseDate": "2026-05-04",
-        "backdropPath": "/6yd4BP7Mt2zpt63z2z6dizg6QMo.jpg",
-        "posterPath": "/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
-        "rating": 7.9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 284110,
-        "type": "tmdb",
-        "title": "主角",
-        "originalTitle": "主角",
-        "description": "多年前，县剧团招学员，在团里任司鼓的胡三元替外甥女报名，将年少的她改名易秦娥从家乡带出来学唱秦腔。因胡三元造成的事故，易秦娥受到影响，学习秦腔之路屡遭波折。但她凭借刻苦的劲头和自身的条件获得了老艺人的赏识和热情帮扶。她的“破蒙戏”在乡村舞台上音惊四座，后改名忆秦娥被调入省秦腔团。 她勤学苦练，在台上的演出屡获成功。历经波折，她终于明白对秦腔艺术的传承才是她作为“主角”的真正意义，她将继续培养新一代秦腔舞台上亮丽的主角。",
-        "releaseDate": "2026-05-10",
-        "backdropPath": "/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
-        "posterPath": "/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
+        "title": "悬案",
+        "originalTitle": "悬案",
+        "description": "一桩悬案一个单元，两个单元一季悬案。《悬案》首季锁定《珠宝行连环劫案》《卞记旅馆灭门案》两个单元，在反其道而行的时间裂缝中解构罪恶对人的再塑造，也书写信念对人的再救赎。",
+        "releaseDate": "2026-07-03",
+        "backdropPath": "/hMAew4hKxZJeqqvYljhLpvS4OZA.jpg",
+        "posterPath": "/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
         "rating": 9,
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "悬疑"
       },
       {
         "id": 311881,
@@ -183,6 +170,19 @@
         "backdropPath": "/A2D9PdJT6tGwFojrd8SWmSnkQuJ.jpg",
         "posterPath": "/jOgEViPr1YOv2B6tmMvrEiJNFS9.jpg",
         "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 319703,
+        "type": "tmdb",
+        "title": "画梦录",
+        "originalTitle": "画梦录",
+        "description": "民国的上海滩，身怀绝技的孤女画师许雁真（代露娃饰），意外与身陷危局的融汇银行总账姜心羽（唐诗逸饰）产生交集。姜心羽遭人陷害，只得兵行险着与许雁真结盟，彼时银行欲将国宝名画低价卖给外国人，许雁真凭借自身精湛画技仿造名画、偷天换日。几经波折，两人联手在各方势力的夹缝间巧妙周旋，共历险阻，破解重重困境。",
+        "releaseDate": "2026-07-02",
+        "backdropPath": "/zpvVXV5HiKh4PA6TKf5dm5HHe4D.jpg",
+        "posterPath": "/g7fD16wdwuBn4UnhEDIp9WOBcnF.jpg",
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -200,69 +200,69 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 289147,
+        "id": 301345,
         "type": "tmdb",
-        "title": "灵魂摆渡·十年",
-        "originalTitle": "灵魂摆渡·十年",
-        "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
-        "releaseDate": "2026-06-02",
-        "backdropPath": "/a84FbktGASmCKmbvEVBD3U0x3LH.jpg",
-        "posterPath": "/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
-        "rating": 9.1,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 276239,
-        "type": "tmdb",
-        "title": "非份之罪",
-        "originalTitle": "非份之罪",
-        "description": "人类的欲望，可驱使我们超越自我，然而，当欲望失控，过份贪图金钱与权势、追求不属于自己的爱，非份之想被无限放大，不经意间，便陷入道德矛盾的深渊，犯下种种非份之罪……新界东重案组接连调查几宗案件，包括无脸女尸、石棺禁恋、一亿杀机、危险游戏、肮脏的子弹、恐怖情人，错综复杂的线索、缠绕不清的关系，构成一桩桩匪夷所思的迷案，揭露触摸不透的人性黑暗面。",
-        "releaseDate": "2026-06-29",
-        "backdropPath": "/dpVy32tCvsVENVMjlU4cj7CycG5.jpg",
-        "posterPath": "/2snG7uD9XyccAXlqJI3oTsUgQie.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 悬疑"
-      },
-      {
-        "id": 300239,
-        "type": "tmdb",
-        "title": "动物园",
-        "originalTitle": "動物園",
-        "description": "任职于“彗流广告”的创意总监朱欣葵（邵雨薇 饰）个性好强，在职场上练就了一身超抗压的本领。就在她的事业即将起飞，有望调任纽约总部时，却接连遭遇重大打击：惹火大客户，男友无理取闹，最后竟被公司降职冷藏。此时，高雄寿山动物园为转型公开招标，想要更新品牌形象，这成了她职业生涯翻身的最后希望。没想到竞标条件却要求她必须亲身担任实习保育员！\n\n朱欣葵硬着头皮接下这份工作，从光鲜亮丽的广告总监，一夜之间沦为每天清理粪便、喂养动物的“铲屎官”。以往得心应手的办公室法则彻底失灵，她还得面对资深保育员苏冠州（王柏杰 饰）的严格要求和百般刁难。最初，她想尽办法想要离开这里，但在与动物的朝夕相处中，也让她逐渐卸下防备，找回了被焦虑掩埋的初心与勇气，并对这份呵护生命的工作产生了敬意，与苏冠州也从互看不顺眼的欢喜冤家，发展出一段令人心动的浪漫恋情。",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
-        "posterPath": "/xixw0uzoEnk2523Y7OgrNcuF9l1.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 286438,
-        "type": "tmdb",
-        "title": "存酒人",
-        "originalTitle": "存酒人",
-        "description": "经营二十多年的市井酒吧即将结业，老板雄哥带员工烨仔上门归还无人认领的存酒。烨仔从厌烦到读懂老板的初心，酒馆众人相伴走完最后时光，存酒藏着无数人的故事。",
-        "releaseDate": "2025-12-22",
-        "backdropPath": "/oKw56QGp9fpIwiPpLXBM0MH2sgO.jpg",
-        "posterPath": "/dz06yunAZds9AEjFYZz7Iy1RjAF.jpg",
+        "title": "京城奇探",
+        "originalTitle": "京城奇探",
+        "description": "赵少商和元鸿这两个教育背景、成长经历截然不同的青年，在一次次破案过程中，互相偷师、共同成长，在波澜壮阔的大时代中，成为最闪耀的犯罪克星。",
+        "releaseDate": "2026-07-05",
+        "backdropPath": "/i7luBPrkMrGrBZda2BK02ZF1S3m.jpg",
+        "posterPath": "/tTOIjGcql6tFo2sorOQrXKr8i6I.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
       {
-        "id": 243236,
+        "id": 291392,
         "type": "tmdb",
-        "title": "飞常日志",
-        "originalTitle": "飛常日誌",
-        "description": "全球系统故障令香港国际机场陷入混乱，杨尚伟率领团队迎战危机。与此同时，郭启光、方可儿、高雅雯等人在事业与人生道路上迎来新的挑战，众人携手迎接机场发展的新篇章。",
-        "releaseDate": "2026-06-15",
-        "backdropPath": "/ujacltSODEsLTLTXUvReoyjomiA.jpg",
-        "posterPath": "/3bRDG2cC0Nt6PXMYwsJwvK6dxo7.jpg",
-        "rating": 0,
+        "title": "野狗骨头",
+        "originalTitle": "野狗骨头",
+        "description": "20世纪90年代，陈异和苗靖因父母的相识而结缘。起初陈异对苗靖充满敌意，直到一次受伤后，苗靖的善良让两人关系开始转变。然而好景不长，陈父去世、苗母消失，两家大人并未走到一起，两个孩子却不得不相依为命。来到大学，苗靖勇敢告白，陈异却被卷入纵火案，成为关键证人，为保护苗靖，他逼她离开了藤城，配合警方抓捕嫌犯。多年后，陈异经营着一家台球厅，苗靖则为了好运物流的审计工作回到藤城。两人重逢，陈异因当年纵火案，对好运老板张宾早就心存警惕，试图阻止苗靖前去工作未果。张宾的走私生意逐渐暴露，为保护苗靖，陈异只能以身入局，两人并肩作战，配合警方对抗张宾。最终，张宾及其同伙受到法律制裁。身受重伤的陈异向苗靖告白，两人终成眷属。",
+        "releaseDate": "2026-07-05",
+        "backdropPath": "/zldji8QZ3HdoosmtUIf59YmDoxZ.jpg",
+        "posterPath": "/ixwG1ECra9rSTuRCql81mkMoLVO.jpg",
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 295558,
+        "type": "tmdb",
+        "title": "雀骨",
+        "originalTitle": "雀骨",
+        "description": "当魔头将军强娶沉迷机关术的财迷假千金，从契约夫妻到生死局里互扒马甲，爱意与杀意同生共长，揭朝堂阴谋，破生死乱局，守家国太平。",
+        "releaseDate": "2026-07-11",
+        "backdropPath": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
+        "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
+        "rating": 8.3,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 285143,
+        "type": "tmdb",
+        "title": "灿如繁星",
+        "originalTitle": "灿如繁星",
+        "description": "讲述了心理学博士林晚星遭遇变故后回到家乡宏景任教，邂逅顶级教练王法，并带领一群垫底差生逆袭追梦，热血救赎的故事。林晚星用“自由式”教育，培养少年们的独立人格，帮助他们学会生活，融洽自我，发现所爱，勇于追求。未来人生里，不远狭路，终见光明。",
+        "releaseDate": "2026-07-05",
+        "backdropPath": "/6EpiUiXNmCjZT62e2pLpyaiqB8K.jpg",
+        "posterPath": "/jE6xuxwLUojZ2k80rKbv73frWsv.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 296003,
+        "type": "tmdb",
+        "title": "小芳",
+        "originalTitle": "小芳",
+        "description": "讲述了杨小芳与同村的祁小伟未婚先孕，杨家人紧急回村为小芳出谋划策，祁杨两家态度不一，意外掀起了一场“婚恋风暴”，两家谈判失败，小芳“带球相亲”，却受到全村追捧并引发了一系列让人啼笑皆非的事件。",
+        "releaseDate": "2026-07-13",
+        "backdropPath": "/zz1ehIIZwpkO0GrCkmbrArYFlYj.jpg",
+        "posterPath": "/dF8AzhhHtOLHTmuZ12Wx2if7oz2.jpg",
+        "rating": 8.667,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 家庭"
       }
     ],
     "剧集·国外": [
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "rating": 9.451,
+        "rating": 9.445,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -293,30 +293,56 @@
         "genreTitle": "动画, 喜剧"
       },
       {
-        "id": 308834,
+        "id": 316294,
         "type": "tmdb",
-        "title": "绘梦婚礼",
-        "originalTitle": "วาดฝันวันวิวาห์",
-        "description": "被欢笑、笑容和祝福环绕的婚礼仅仅是爱情生活的起点。未来还有许多障碍等待着两人共同跨越。  Runch和Neen都曾梦想她们能够携手顺利通过所有考验，梦想能够长相厮守，梦想彼此相伴直至白头。然而，这个梦想却在某人猝不及防时迅速破碎…",
-        "releaseDate": "2026-06-19",
-        "backdropPath": "/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
-        "posterPath": "/aGEoCdGpmIHvIkdkcPR0FSmmNt8.jpg",
-        "rating": 9.8,
+        "title": "偿还",
+        "originalTitle": "เพย์แบค เดอะซีรีส์",
+        "description": "Sun曾为高利贷卖命，却因意外导致家人丧生。心怀愧疚的他，在发现家人死因竟与前室友有关后，决定踏入娱乐圈展开复仇。此时，神秘金主Jay现身相助，两人在权欲横流的演艺圈中，开启了一场危险又火热的情感博弈。",
+        "releaseDate": "2026-05-30",
+        "backdropPath": "/4L9sftGH7oQ1bpB0aQHERwyfDVd.jpg",
+        "posterPath": "/fGarAr85Mc6gxO5OUmzlM6lvd0C.jpg",
+        "rating": 7.583,
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "剧情, 犯罪"
       },
       {
-        "id": 252107,
+        "id": 322570,
         "type": "tmdb",
-        "title": "星城",
-        "originalTitle": "Star City",
-        "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-        "releaseDate": "2026-05-28",
-        "backdropPath": "/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
-        "posterPath": "/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-        "rating": 7.629,
+        "title": "直到T恤干透",
+        "originalTitle": "Tシャツが乾くまで",
+        "description": "40岁的杂志编辑咲子（苍井优 饰）原本深信自己拥有美满的婚姻，但在卷入一场事故后，她意外发现丈夫在每个月“第3个星期五”都有一段完全对不上号的神秘行踪。于是，在看似美满的婚姻背后，她将面对人性中真实而扭曲的“不伦”。",
+        "releaseDate": "2026-07-10",
+        "backdropPath": "/j9rHrq3mz0hHchk3EJksCco9LJW.jpg",
+        "posterPath": "/vdulPvBCv3RzH4smvp4hu2n78i8.jpg",
+        "rating": 4.5,
         "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 241882,
+        "type": "tmdb",
+        "title": "亡命闺蜜",
+        "originalTitle": "Ride or Die",
+        "description": "黛比和闺蜜朱迪丝被迫展开逃亡，因为她发现朱迪丝根本不是什么法务会计师，而是国际杀手！在神秘人物的追杀下，加上黛比的丈夫涉入某个极度腐败的事件中，她们必须与时间赛跑，展开一场横跨欧洲的公路之旅以厘清真相、保住性命。",
+        "releaseDate": "2026-07-15",
+        "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
+        "posterPath": "/51Eib1Rfj26JFqoaL4XdBtr2K0b.jpg",
+        "rating": 6.008,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险"
+      },
+      {
+        "id": 286617,
+        "type": "tmdb",
+        "title": "踮起脚尖",
+        "originalTitle": "Tip Toe",
+        "description": "",
+        "releaseDate": "2026-05-31",
+        "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+        "posterPath": "/2V9V7dxNCNFFYpMsvID6PcZQ7Ia.jpg",
+        "rating": 5.9,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": 136315,
@@ -327,7 +353,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
         "posterPath": "/7y1ibpkTwlKYrxFbq3lh2RgIB1k.jpg",
-        "rating": 6,
+        "rating": 6.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -340,22 +366,9 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.7,
+        "rating": 7.758,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
-      },
-      {
-        "id": 296286,
-        "type": "tmdb",
-        "title": "躲在超市后门抽烟的两人",
-        "originalTitle": "スーパーの裏でヤニ吸うふたり",
-        "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
-        "releaseDate": "2026-07-09",
-        "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
-        "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.1,
-        "mediaType": "tv",
-        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 94997,
@@ -379,7 +392,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
-        "rating": 8.352,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
