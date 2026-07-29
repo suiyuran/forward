@@ -1,18 +1,18 @@
 {
-  "time": "2026-07-28T18:15:44.472Z",
+  "time": "2026-07-29T18:08:57.822Z",
   "data": [
     {
-      "id": 1305665,
+      "id": 1339713,
       "type": "tmdb",
-      "title": "群星闪耀时",
-      "originalTitle": "群星闪耀时",
-      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
-      "releaseDate": "2026-07-25",
-      "backdropPath": "/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
-      "posterPath": "/w5Y6E3SaPKkn4eKAWATFCyY1STx.jpg",
-      "rating": 6.5,
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "rating": 8.2,
       "mediaType": "movie",
-      "genreTitle": "剧情, 科幻"
+      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1633056,
@@ -34,11 +34,24 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "releaseDate": "2026-07-28",
-      "backdropPath": "/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg",
-      "posterPath": "/bFm80QdYiytfO27wZ93N4qoly8I.jpg",
-      "rating": 8.1,
+      "backdropPath": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "posterPath": "/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
+      "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1305665,
+      "type": "tmdb",
+      "title": "群星闪耀时",
+      "originalTitle": "群星闪耀时",
+      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
+      "releaseDate": "2026-07-25",
+      "backdropPath": "/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
+      "posterPath": "/w5Y6E3SaPKkn4eKAWATFCyY1STx.jpg",
+      "rating": 6.5,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 科幻"
     },
     {
       "id": 1491920,
@@ -75,7 +88,7 @@
       "releaseDate": "2009-10-16",
       "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
-      "rating": 6.917,
+      "rating": 6.918,
       "mediaType": "movie",
       "genreTitle": "恐怖"
     },
@@ -88,7 +101,7 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.072,
+      "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -102,6 +115,19 @@
       "backdropPath": "/2UC691pg5qNavMThV3e903BbkCy.jpg",
       "posterPath": "/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
       "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 396227,
+      "type": "tmdb",
+      "title": "哈姆雷特",
+      "originalTitle": "National Theatre Live: Hamlet",
+      "description": "丹麦王子哈姆雷特发现他的叔叔克劳迪斯杀了他的父亲以获得王位，并计划他的复仇。",
+      "releaseDate": "2015-10-15",
+      "backdropPath": "/2OlaeKSohqs8d2yYe2W9ZeP70Uh.jpg",
+      "posterPath": "/wXywOtlYJyKYMtx84Wwyo5iwgDX.jpg",
+      "rating": 7.545,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -127,7 +153,7 @@
       "releaseDate": "2026-06-10",
       "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
       "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "rating": 7.385,
+      "rating": 7.408,
       "mediaType": "movie",
       "genreTitle": "科幻, 惊悚"
     },
@@ -143,6 +169,19 @@
       "rating": 1.8,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1280738,
+      "type": "tmdb",
+      "title": "火遮眼",
+      "originalTitle": "火遮眼",
+      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+      "releaseDate": "2026-06-10",
+      "backdropPath": "/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
+      "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
+      "rating": 7.324,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 1315772,
@@ -166,7 +205,7 @@
       "releaseDate": "2026-06-17",
       "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 7.4,
+      "rating": 7.423,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -197,32 +236,6 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 1257942,
-      "type": "tmdb",
-      "title": "魔方小姐",
-      "originalTitle": "魔方小姐",
-      "description": "“精神状态领先30年”的魔方奶奶赵艳红（杨紫琼 饰）不服老、不认输、不怕事，更爱惹事！遇上“能躺着绝不坐着”的天才废柴吴有为（刘昊然 饰）后与魔方结缘，和师父、闺蜜、家人一起跌跌撞撞勇闯“魔坛”！70岁才拿起魔方的她，能够转出什么名堂？又会遇到哪些奇葩对手和鸡飞狗跳的意外......",
-      "releaseDate": "2026-06-19",
-      "backdropPath": "/bLxfaYqA9YlVuXbU9eK1E2u3MLI.jpg",
-      "posterPath": "/qvTiG4LSu6wFCfXjg2KTiqHeQBF.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 家庭"
-    },
-    {
-      "id": 1318413,
-      "type": "tmdb",
-      "title": "诺曼底72小时",
-      "originalTitle": "Pressure",
-      "description": "诺曼底登陆前夕，盟军最高司令部首席气象学家詹姆斯·斯塔格向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
-      "releaseDate": "2026-05-25",
-      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.697,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 历史"
-    },
-    {
       "id": 1108427,
       "type": "tmdb",
       "title": "海洋奇缘：启航",
@@ -236,17 +249,17 @@
       "genreTitle": "家庭, 奇幻"
     },
     {
-      "id": 1658653,
+      "id": 1318413,
       "type": "tmdb",
-      "title": "消失的人",
-      "originalTitle": "消失的人",
-      "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
-      "releaseDate": "2026-05-01",
-      "backdropPath": "/jgGvqENhwXFNfmEXmlj1ouXHELK.jpg",
-      "posterPath": "/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
-      "rating": 6.7,
+      "title": "诺曼底72小时",
+      "originalTitle": "Pressure",
+      "description": "诺曼底登陆前夕，盟军最高司令部首席气象学家詹姆斯·斯塔格向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
+      "releaseDate": "2026-05-25",
+      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
+      "rating": 7.72,
       "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
+      "genreTitle": "惊悚, 历史"
     },
     {
       "id": 1269075,
@@ -270,7 +283,7 @@
       "releaseDate": "2026-04-01",
       "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "posterPath": "/7tLVCMnGg0Q3rWlkoBjdKA0S57R.jpg",
-      "rating": 8.262,
+      "rating": 8.265,
       "mediaType": "movie",
       "genreTitle": "家庭, 喜剧"
     },
@@ -288,6 +301,32 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
+      "id": 1579223,
+      "type": "tmdb",
+      "title": "北回归线以北",
+      "originalTitle": "北回归线以北",
+      "description": "影片讲述了三组怀揣不同心结的人开着房车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元哥入伙，拍摄青藏高原的雪豹；蜗居房车陪读三年的三口之家，夫妻俩为了完成儿子张匡匡的毕业心愿，踏上房车之旅；著名三甲医院主任程卉 退休第二天独自驾车去西部，寻找年轻时心中的夙愿，看一看初恋爱人红绢蝶。三组不同经历的人生，在旅途中遭遇各种啼笑皆非的意外，在一连串经历过后，人生的答案逐渐显现出来。",
+      "releaseDate": "2026-06-19",
+      "backdropPath": "/kyWGRvpNU7xSc4Yjf4eQw7BRRxk.jpg",
+      "posterPath": "/hTEBWl9OutI6PHt201yGfm1J9Sz.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 72245,
+      "type": "tmdb",
+      "title": "钢的琴",
+      "originalTitle": "钢的琴",
+      "description": "上世纪90年代初，东北某重工业城市。原钢厂工人陈桂林（王千源 饰）在下岗后，独自拉起了一支乐队，终日奔波在婚丧嫁娶、店铺开业的营生之中，生活勉强维持。他的妻子小菊（张申英 饰）离家出走，转投有钱的假药商人怀抱。如今小菊光鲜回归，不仅要与桂林离婚，还要争夺独生女小元的抚养权。桂林慨叹自己失败的命运，于是一心要将女儿培养成钢琴家。为了得到女儿，他四处筹措买钢琴的钱，甚至和女友淑娴（秦海璐 饰）以及当年钢厂的好哥们夜入学校偷钢琴。 　　当所有的办法都失败后，桂林偶然翻到一本关于钢琴的俄国文献，于是叫上伙伴们在早已破败的厂房中开始了手工制造钢琴的征途……",
+      "releaseDate": "2011-07-15",
+      "backdropPath": "/pUq74SgliWDXEe8kGTGka8ifI0d.jpg",
+      "posterPath": "/tLqr5LHYjxtPBIeyok3TGMIqWUD.jpg",
+      "rating": 7.295,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 37247,
       "type": "tmdb",
       "title": "毕业生",
@@ -297,19 +336,6 @@
       "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
       "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
       "rating": 7.629,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 4024,
-      "type": "tmdb",
-      "title": "去年在马里昂巴德",
-      "originalTitle": "L'Année dernière à Marienbad",
-      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
-      "releaseDate": "1961-09-29",
-      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
-      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
-      "rating": 7.434,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -327,6 +353,19 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 4024,
+      "type": "tmdb",
+      "title": "去年在马里昂巴德",
+      "originalTitle": "L'Année dernière à Marienbad",
+      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
+      "releaseDate": "1961-09-29",
+      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
+      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
+      "rating": 7.434,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
       "id": 34838,
       "type": "tmdb",
       "title": "探戈课",
@@ -340,6 +379,32 @@
       "genreTitle": "剧情, 音乐"
     },
     {
+      "id": 1500148,
+      "type": "tmdb",
+      "title": "青铜葵花",
+      "originalTitle": "青銅葵花",
+      "description": "曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
+      "releaseDate": "2026-05-08",
+      "backdropPath": "/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
+      "posterPath": "/tQB9biQwL1blSHkT9sJhQxnUS4P.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 1035090,
       "type": "tmdb",
       "title": "维米尔·旷世大展",
@@ -349,6 +414,45 @@
       "backdropPath": "/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
       "posterPath": "/5FvXNMh346rWfNPlFlpgdAQXy8U.jpg",
       "rating": 7.8,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 452907,
+      "type": "tmdb",
+      "title": "红孩儿：决战火焰山",
+      "originalTitle": "紅孩兒：決戰火焰山",
+      "description": "唐三藏（陈昭荣 配音）带着三个徒弟孙悟空（玛莎 配音）、猪八戒（陈宣裕 配音）和沙僧千里迢迢前往西域，想要取得真经。一路上经历了各种磨难的四人来到了火焰山，四人得知，只有借助宝扇的力量熄灭熊熊烈火，他们才能够通过此地，继续向前。宝扇的持有者是牛魔王（澎恰恰 配音）的妻子铁扇公主（杨贵媚 配音），而他们的孩子红孩儿（柳翰雅 配音）却企图袭击唐三藏，取他的肉练就丹药。与此同时，蜘蛛精得知唐三藏现身以起了歹心，一时间，师徒四人陷入了及其危险的境地。原来，红孩儿受到了蟾蜍精（许杰辉 配音）的利用和蒙骗，得知真相之后，他同孙悟空联手，消灭了敌人",
+      "releaseDate": "2005-06-01",
+      "backdropPath": "/nlhDIhT3d3PbMvBcHXbqwj9rTpR.jpg",
+      "posterPath": "/v8GYkxzIIMoyNeqQt0mzg1YDTCr.jpg",
+      "rating": 3,
+      "mediaType": "movie",
+      "genreTitle": "奇幻, 动画"
+    },
+    {
+      "id": 1028378,
+      "type": "tmdb",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 8.5,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1002640,
+      "type": "tmdb",
+      "title": "海洋之谜",
+      "originalTitle": "Secrets of the Sea",
+      "description": "影片记录了海洋中最奇特、最壮观的生物。在海洋中，每个物种的生存都依赖于许多其他物种。影片通过跟踪研究世界各地海洋生命的奇妙旅程，真实的体现了海洋生物多样性的关键重要，展示了不同海洋物种之间及其环境相互作用的惊人方式。",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
