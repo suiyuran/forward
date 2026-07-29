@@ -1,11 +1,11 @@
 {
-  "time": "2026-07-28T17:22:42.136Z",
+  "time": "2026-07-29T17:10:59.873Z",
   "data": {
     "星期日": [
       {
         "id": 153217,
         "type": "tmdb",
-        "title": "二十世纪电气目录",
+        "title": "二十世纪电气目录-尤里卡·埃夫里卡-",
         "originalTitle": "二十世紀電氣目録-ユーレカ・エヴリカ-",
         "description": "故事发生在明治四十年（1907 年）在京都伏见居住的百川稻子什么都不擅长，每天都被父亲责骂，对于她来说的救赎就是祈祷神佛，某天一如往常她前往伏见稻荷神社参拜神明，遇到了一位自由奔放的少年坂本喜八，坂本喜八对稻子说不要信这些看不见的东西，从今之后将是电气时代。而此时稻子的 父亲对稻子说了关于结婚的事情，而且是父亲单方面决定的，稻子本来是放弃抵抗认为自己的价值就是如此，但坂本喜八打开了稻子想要离开这个家的心声，带着稻子离开了这个封闭的家。阻止结婚的方法是找出奇书《二十世纪电气目录》，那是喜八童年时代写下的关于电气的预言书，而喜八过去的哥哥清六带走这本书之后下落不明，喜八和稻子为了寻找这本奇书在京都和滋贺等地逃窜，消失的“电气目录”和其背后隐藏的秘密都等待揭开。",
         "releaseDate": "2026-07-05",
@@ -37,7 +37,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/2ZiCNiuOiUGfAF0j73RI8DX1Z1N.jpg",
         "posterPath": "/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg",
-        "rating": 8.833,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/u7LWdKmEdEr6Ui3GZMsFGlKZQBd.jpg",
-        "rating": 8.465,
+        "rating": 8.467,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-        "rating": 5.2,
+        "rating": 5.1,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -144,6 +144,19 @@
         "rating": 8.227,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 119059,
+        "type": "tmdb",
+        "title": "茶啊二中",
+        "originalTitle": "茶啊二中",
+        "description": "茶啊二中这所学校是虚构的，以东北师范大学附属中学为原型，主要讲述的是校园生活，从同学之间的友情到老师的谆谆教诲，全部通过风趣的对话和特定的场景，原原本本展现出来，让观众从中回味自己当年的校园情景。",
+        "releaseDate": "2014-09-03",
+        "backdropPath": "/rFBV8CsEsJI9G363fUPPAE6FEZA.jpg",
+        "posterPath": "/bg2BsCCrWUV0DtHCSO5J6DgWspo.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "动画, 儿童"
       },
       {
         "id": 308403,
@@ -208,7 +221,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/9PBeccJiwTMPE9ZR7IHrUxSCb9s.jpg",
         "posterPath": "/ji0E3wdLIfcjcNzXdYuyIrCFIrC.jpg",
-        "rating": 6,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -260,7 +273,7 @@
         "releaseDate": "2018-07-14",
         "backdropPath": "/pJqAgDico7ZTMAfAXyzldYqj5ME.jpg",
         "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
-        "rating": 7.741,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -293,13 +306,13 @@
       {
         "id": 302051,
         "type": "tmdb",
-        "title": "“你们先走我断后”，于是10年后我成为了传说",
+        "title": "“你们先走我断后”，于是十年后我成为了传说",
         "originalTitle": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
         "description": "勇者小队中的S级魔导士拉克，正与勇者埃里克、战士戈兰一同在次元缝隙中，为击败魔神王展开激烈的战斗。为了避免同伴全军覆没，拉克下定决心独自一人继续与敌人战斗，并高喊道：“这里交给我，你们先走！”拉克持续进行着超乎想象的孤独战斗，最终甚至击败了魔神王。然而，当他回到原世界时，已经过去了“10年”的光阴，拉克已成为一位为拯救世界而牺牲自我的大英雄，被传为传奇。因战斗的影响而容貌返老还童的拉克隐藏了真实身份，与昔日的伙伴以及新结识的伙伴们一起，以F级冒险者洛克的身份生活下去。",
         "releaseDate": "2026-07-06",
         "backdropPath": "/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
         "posterPath": "/6RnaxEBtjFJO2jx8qx7ibMJri5H.jpg",
-        "rating": 6.333,
+        "rating": 6.3,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -392,7 +405,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
-        "rating": 8.352,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -404,7 +417,7 @@
         "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
         "releaseDate": "2026-07-28",
         "backdropPath": "/7P7rbfUVkUeTxm9a2wSZPmAjlf6.jpg",
-        "posterPath": "/wf16ZxGWFsId0sFkNiAG1yAhK6h.jpg",
+        "posterPath": "/kx6156wFLPkUYiR9inxGzMhhGJX.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -470,7 +483,7 @@
         "releaseDate": "2026-07-08",
         "backdropPath": "/pHzcs5Ru1lwoVcQsPA5lNYlxJy2.jpg",
         "posterPath": "/wWlfBMTA7VygmYC4KUg2qLWJGmv.jpg",
-        "rating": 7.5,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -550,7 +563,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.653,
+        "rating": 8.658,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -563,7 +576,7 @@
         "releaseDate": "2026-07-01",
         "backdropPath": "/v1ZsaSBECadPO4Ix496VGSXudHk.jpg",
         "posterPath": "/nkfB1HRvWQ6s4v9vO08urPCN6VV.jpg",
-        "rating": 9,
+        "rating": 9.333,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -752,6 +765,19 @@
         "genreTitle": "动画, 喜剧"
       },
       {
+        "id": 196568,
+        "type": "tmdb",
+        "title": "是王者啊？",
+        "originalTitle": "是王者啊？",
+        "description": "王者荣耀日常番系列，由《王者荣耀》自制，选材轻松日常，呈现英雄们高光之外的生活小短片，2022年敬请期待~ 本季故事发生在王者大陆上塞外边关的长城脚下。为了守卫边关和平，每位登场的角色都远离故土，不远万里来到此地。虽然在这片陌生的土地上，他们都是“异乡人”，但共同的信念让他们有了一个共同的名字——长城守卫军。",
+        "releaseDate": "2022-03-18",
+        "backdropPath": "/hE1y9Wzvi7E5RdtUrP6d2ric3JW.jpg",
+        "posterPath": "/cVRvOlIy28BbPSyZE5Iw1obLH2I.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "动画"
+      },
+      {
         "id": 300112,
         "type": "tmdb",
         "title": "BanG Dream! YUME∞MITA",
@@ -812,7 +838,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/vvbIW2xspYigrgTHTmTSzVDgfKl.jpg",
         "posterPath": "/iqLYkjZS6w9spyJQTRYlPHoDXP7.jpg",
-        "rating": 8.7,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -825,7 +851,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/u3C0ax7U590NNgtqTtAvIkoqpim.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.2,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -853,7 +879,7 @@
         "releaseDate": "2024-07-06",
         "backdropPath": "/cN8u7s6vaQezheTy2mGOzEmF7Hg.jpg",
         "posterPath": "/y1cYeKaC0ZFTVz9f1KYSCd6fhsn.jpg",
-        "rating": 7.8,
+        "rating": 7.774,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -972,7 +998,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8,
+        "rating": 8.016,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -1050,7 +1076,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.375,
+        "rating": 8.444,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1063,7 +1089,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.8,
+        "rating": 7.787,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1089,7 +1115,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
         "posterPath": "/xh9hNzzadcT0vn9pJMUu5SA2w0c.jpg",
-        "rating": 9.7,
+        "rating": 9.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
