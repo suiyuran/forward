@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-29T17:10:59.873Z",
+  "time": "2026-07-30T17:21:44.455Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/u7LWdKmEdEr6Ui3GZMsFGlKZQBd.jpg",
-        "rating": 8.467,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-        "rating": 5.1,
+        "rating": 5.429,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -180,7 +180,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.431,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -273,7 +273,7 @@
         "releaseDate": "2018-07-14",
         "backdropPath": "/pJqAgDico7ZTMAfAXyzldYqj5ME.jpg",
         "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
-        "rating": 7.7,
+        "rating": 7.753,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/yCRq49YINwI7psAK5VEzbKLLSFk.jpg",
         "posterPath": "/9rPXCH3IEvMWtOn8W93riwQ8lUZ.jpg",
-        "rating": 7.9,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -416,9 +416,9 @@
         "originalTitle": "一斩苍穹",
         "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
         "releaseDate": "2026-07-28",
-        "backdropPath": "/7P7rbfUVkUeTxm9a2wSZPmAjlf6.jpg",
+        "backdropPath": "/17JE6Hv19f7uzsCmICXluAQERWm.jpg",
         "posterPath": "/kx6156wFLPkUYiR9inxGzMhhGJX.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -550,7 +550,7 @@
         "releaseDate": "2022-04-03",
         "backdropPath": "/c0oFoz7PttzMLsQOQn54Lcu8V9d.jpg",
         "posterPath": "/oHraANBb1gOU425bk26CgZtPP5H.jpg",
-        "rating": 7.415,
+        "rating": 7.442,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -563,7 +563,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.658,
+        "rating": 8.665,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -589,7 +589,7 @@
         "releaseDate": "2025-04-05",
         "backdropPath": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
         "posterPath": "/fWLpYnmApgNQXOV80o72vevmZOI.jpg",
-        "rating": 7.245,
+        "rating": 7.242,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -667,7 +667,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
         "posterPath": "/oWgzYbhhsU3Hepem2sjBtJof27B.jpg",
-        "rating": 8.5,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -709,6 +709,19 @@
         "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 330250,
+        "type": "tmdb",
+        "title": "顾长歌：我！天命大反派",
+        "originalTitle": "顾长歌：我！天命大反派",
+        "description": "改编自飞卢小说网同名小说。\n\n　　顾长歌穿越到玄幻世界，发现自己成了注定被“天命之子”击败的“天命大反派”顾长歌，为求自保并逆天改命，他被迫利用系统和对“爽文套路”的先知，反向算计、掠夺并打压各位“天命之子”，从而获得奖励，一步步走上巅峰。",
+        "releaseDate": "2026-07-15",
+        "backdropPath": null,
+        "posterPath": "/dMe2EH1GhPCwgovyAKO2G6oDYbr.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画"
       }
     ],
     "星期四": [
@@ -747,7 +760,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
-        "rating": 8.1,
+        "rating": 8.273,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -760,7 +773,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.1,
+        "rating": 9.182,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -847,7 +860,7 @@
         "type": "tmdb",
         "title": "尼古喵喵",
         "originalTitle": "ヤニねこ",
-        "description": "尼古喵喵是只超爱抽烟的废物兽人！\n\n因为缺乏伦理与卫生观念，不是把烟头往窗外乱丢，就是对人乱吐口水，偶尔还会做出一些违法乱纪的事。\n\n幸好她身边有贴心的管家婆妹妹猫以及好友猫作伴，让她依旧能每天吞云吐雾、得过且过的生活着。",
+        "description": "尼古喵喵是只超爱抽烟的废物兽人！\n\n因为缺乏伦理与卫生观念，不是把烟头往窗外乱丢，就是对人乱吐口水，偶尔还会做出一些违法乱纪的事。\n\n幸好她身边有贴心的管家婆妹妹猫以及好友猫作伴，让她依旧能每天吞云吐雾、得过且过地生活着。",
         "releaseDate": "2026-07-03",
         "backdropPath": "/u3C0ax7U590NNgtqTtAvIkoqpim.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
@@ -1076,7 +1089,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.444,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1089,7 +1102,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.787,
+        "rating": 7.789,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1115,7 +1128,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
         "posterPath": "/xh9hNzzadcT0vn9pJMUu5SA2w0c.jpg",
-        "rating": 9.6,
+        "rating": 9.625,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
