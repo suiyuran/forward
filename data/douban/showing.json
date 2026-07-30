@@ -1,6 +1,19 @@
 {
-  "time": "2026-07-29T18:08:57.822Z",
+  "time": "2026-07-30T18:17:44.179Z",
   "data": [
+    {
+      "id": 969681,
+      "type": "tmdb",
+      "title": "蜘蛛侠：崭新之日",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
+      "releaseDate": "2026-07-28",
+      "backdropPath": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "posterPath": "/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
+      "rating": 8.023,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
+    },
     {
       "id": 1339713,
       "type": "tmdb",
@@ -10,7 +23,7 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.2,
+      "rating": 8.253,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -28,32 +41,6 @@
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 969681,
-      "type": "tmdb",
-      "title": "蜘蛛侠：崭新之日",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-      "releaseDate": "2026-07-28",
-      "backdropPath": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
-      "posterPath": "/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
-    },
-    {
-      "id": 1305665,
-      "type": "tmdb",
-      "title": "群星闪耀时",
-      "originalTitle": "群星闪耀时",
-      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
-      "releaseDate": "2026-07-25",
-      "backdropPath": "/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
-      "posterPath": "/w5Y6E3SaPKkn4eKAWATFCyY1STx.jpg",
-      "rating": 6.5,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 科幻"
-    },
-    {
       "id": 1491920,
       "type": "tmdb",
       "title": "功夫女足",
@@ -62,7 +49,7 @@
       "releaseDate": "2026-07-11",
       "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "posterPath": "/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "rating": 5.938,
+      "rating": 5.9,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -88,22 +75,9 @@
       "releaseDate": "2009-10-16",
       "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
-      "rating": 6.918,
+      "rating": 6.917,
       "mediaType": "movie",
       "genreTitle": "恐怖"
-    },
-    {
-      "id": 1083381,
-      "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "releaseDate": "2026-05-27",
-      "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 悬疑"
     },
     {
       "id": 1713529,
@@ -117,6 +91,19 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1083381,
+      "type": "tmdb",
+      "title": "后室",
+      "originalTitle": "Backrooms",
+      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+      "releaseDate": "2026-05-27",
+      "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+      "rating": 7.072,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 悬疑"
     },
     {
       "id": 396227,
@@ -145,6 +132,19 @@
       "genreTitle": "历史, 战争"
     },
     {
+      "id": 1084244,
+      "type": "tmdb",
+      "title": "玩具总动员5",
+      "originalTitle": "Toy Story 5",
+      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
+      "releaseDate": "2026-06-17",
+      "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+      "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
+      "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
       "id": 1275779,
       "type": "tmdb",
       "title": "揭秘日",
@@ -153,9 +153,35 @@
       "releaseDate": "2026-06-10",
       "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
       "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "rating": 7.408,
+      "rating": 7.416,
       "mediaType": "movie",
       "genreTitle": "科幻, 惊悚"
+    },
+    {
+      "id": 1280738,
+      "type": "tmdb",
+      "title": "火遮眼",
+      "originalTitle": "火遮眼",
+      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+      "releaseDate": "2026-06-10",
+      "backdropPath": "/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
+      "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
+      "rating": 7.322,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 1315772,
+      "type": "tmdb",
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "releaseDate": "2026-06-24",
+      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "rating": 6.428,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动画"
     },
     {
       "id": 1353926,
@@ -171,45 +197,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1280738,
-      "type": "tmdb",
-      "title": "火遮眼",
-      "originalTitle": "火遮眼",
-      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-      "releaseDate": "2026-06-10",
-      "backdropPath": "/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
-      "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-      "rating": 7.324,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "releaseDate": "2026-06-24",
-      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 6.4,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动画"
-    },
-    {
-      "id": 1084244,
-      "type": "tmdb",
-      "title": "玩具总动员5",
-      "originalTitle": "Toy Story 5",
-      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "releaseDate": "2026-06-17",
-      "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-      "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 7.423,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
-    },
-    {
       "id": 1305672,
       "type": "tmdb",
       "title": "抓特务",
@@ -223,19 +210,6 @@
       "genreTitle": "历史, 剧情"
     },
     {
-      "id": 1730837,
-      "type": "tmdb",
-      "title": "悟空大圣",
-      "originalTitle": "悟空大圣",
-      "description": "花果山仙石化猴，悟空为护族人远赴灵台方寸山学艺，得七十二变与筋斗云。因同门陷害触犯天条，天庭围剿花果山，家园残破。悟空夺金箍棒、毁生死簿，护佑族群。天庭招安封弼马温，悟空受辱自封齐天大圣;蟠桃盛会再遭排挤，遂大闹天宫。力挫巨灵神、哪吒，与二郎神斗法不分胜负，被太上老君投入八卦炉，反炼成火眼金睛。破炉后横扫凌霄宝殿，如来佛祖将其镇压五行山下。五百年后，悟空悟得本心，静待唐僧解救，终将踏上从妖王到大圣的蜕变之路。",
-      "releaseDate": "2026-07-24",
-      "backdropPath": null,
-      "posterPath": "/xHyEhkKZRmaa36EWJFUPBkIsHfm.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
-    },
-    {
       "id": 1108427,
       "type": "tmdb",
       "title": "海洋奇缘：启航",
@@ -244,7 +218,7 @@
       "releaseDate": "2026-07-08",
       "backdropPath": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "posterPath": "/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
-      "rating": 5.9,
+      "rating": 5.909,
       "mediaType": "movie",
       "genreTitle": "家庭, 奇幻"
     },
@@ -257,7 +231,7 @@
       "releaseDate": "2026-05-25",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.72,
+      "rating": 7.679,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
     },
@@ -301,19 +275,6 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 1579223,
-      "type": "tmdb",
-      "title": "北回归线以北",
-      "originalTitle": "北回归线以北",
-      "description": "影片讲述了三组怀揣不同心结的人开着房车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元哥入伙，拍摄青藏高原的雪豹；蜗居房车陪读三年的三口之家，夫妻俩为了完成儿子张匡匡的毕业心愿，踏上房车之旅；著名三甲医院主任程卉 退休第二天独自驾车去西部，寻找年轻时心中的夙愿，看一看初恋爱人红绢蝶。三组不同经历的人生，在旅途中遭遇各种啼笑皆非的意外，在一连串经历过后，人生的答案逐渐显现出来。",
-      "releaseDate": "2026-06-19",
-      "backdropPath": "/kyWGRvpNU7xSc4Yjf4eQw7BRRxk.jpg",
-      "posterPath": "/hTEBWl9OutI6PHt201yGfm1J9Sz.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 72245,
       "type": "tmdb",
       "title": "钢的琴",
@@ -323,6 +284,19 @@
       "backdropPath": "/pUq74SgliWDXEe8kGTGka8ifI0d.jpg",
       "posterPath": "/tLqr5LHYjxtPBIeyok3TGMIqWUD.jpg",
       "rating": 7.295,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1579223,
+      "type": "tmdb",
+      "title": "北回归线以北",
+      "originalTitle": "北回归线以北",
+      "description": "影片讲述了三组怀揣不同心结的人开着房车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元哥入伙，拍摄青藏高原的雪豹；蜗居房车陪读三年的三口之家，夫妻俩为了完成儿子张匡匡的毕业心愿，踏上房车之旅；著名三甲医院主任程卉 退休第二天独自驾车去西部，寻找年轻时心中的夙愿，看一看初恋爱人红绢蝶。三组不同经历的人生，在旅途中遭遇各种啼笑皆非的意外，在一连串经历过后，人生的答案逐渐显现出来。",
+      "releaseDate": "2026-06-19",
+      "backdropPath": "/kyWGRvpNU7xSc4Yjf4eQw7BRRxk.jpg",
+      "posterPath": "/hTEBWl9OutI6PHt201yGfm1J9Sz.jpg",
+      "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -340,19 +314,6 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 1666344,
-      "type": "tmdb",
-      "title": "时光列车",
-      "originalTitle": "时光列车",
-      "description": "以北京地铁“时光列车”号为明线，以地铁车迷、设计者、建设者、运营者为人物主体，讲述了中国第一条地铁的修建，北京地铁与文物的和谐共存，以及时光中，列车穿梭伴随的地铁车票、车厢、建设等种种变化。",
-      "releaseDate": "2026-07-01",
-      "backdropPath": "/3UNsJzqFHJelZorFvXuC0NgmLBL.jpg",
-      "posterPath": "/gVawIw23zPPZYde6k7Vq8yRfBgR.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 4024,
       "type": "tmdb",
       "title": "去年在马里昂巴德",
@@ -366,6 +327,32 @@
       "genreTitle": "剧情, 爱情"
     },
     {
+      "id": 1666344,
+      "type": "tmdb",
+      "title": "时光列车",
+      "originalTitle": "时光列车",
+      "description": "以北京地铁“时光列车”号为明线，以地铁车迷、设计者、建设者、运营者为人物主体，讲述了中国第一条地铁的修建，北京地铁与文物的和谐共存，以及时光中，列车穿梭伴随的地铁车票、车厢、建设等种种变化。",
+      "releaseDate": "2026-07-01",
+      "backdropPath": "/3UNsJzqFHJelZorFvXuC0NgmLBL.jpg",
+      "posterPath": "/gVawIw23zPPZYde6k7Vq8yRfBgR.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1714841,
+      "type": "tmdb",
+      "title": "关索岭",
+      "originalTitle": "关索岭",
+      "description": "丁虎和沈啸飞是八百年前明军的后裔，先后爱上了采茶女金儿。他们生活在宁静的田园中，由于居住的屯堡位于交通要塞，这里成为了日军攻占的重要目标。面对外敌入侵，丁虎和沈啸飞毅摒弃前嫌，民族大义高于个人恩怨。他们以关索岭为中心，带领乡亲们奋勇抵抗，最终全歼了一股携带机密测绘地图的敌人。",
+      "releaseDate": "2026-06-25",
+      "backdropPath": "/luW1QPoiBpasSH2AeEgap5ZWB8Z.jpg",
+      "posterPath": "/hPBNYaVAwouAhLu2RpPxXZxKBvn.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动作, 历史"
+    },
+    {
       "id": 34838,
       "type": "tmdb",
       "title": "探戈课",
@@ -377,19 +364,6 @@
       "rating": 6.371,
       "mediaType": "movie",
       "genreTitle": "剧情, 音乐"
-    },
-    {
-      "id": 1500148,
-      "type": "tmdb",
-      "title": "青铜葵花",
-      "originalTitle": "青銅葵花",
-      "description": "曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
-      "releaseDate": "2026-05-08",
-      "backdropPath": "/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
-      "posterPath": "/tQB9biQwL1blSHkT9sJhQxnUS4P.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1147747,
@@ -431,19 +405,6 @@
       "genreTitle": "奇幻, 动画"
     },
     {
-      "id": 1028378,
-      "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
-      "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 8.5,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 1002640,
       "type": "tmdb",
       "title": "海洋之谜",
@@ -453,6 +414,19 @@
       "backdropPath": null,
       "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
       "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1028378,
+      "type": "tmdb",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 8.5,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
