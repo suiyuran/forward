@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-30T17:21:44.455Z",
+  "time": "2026-07-31T17:25:00.735Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/u7LWdKmEdEr6Ui3GZMsFGlKZQBd.jpg",
-        "rating": 8.5,
+        "rating": 8.468,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-        "rating": 5.429,
+        "rating": 5.533,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
         "posterPath": "/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-        "rating": 6.9,
+        "rating": 6.938,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
         "posterPath": "/zlDw5KbBQ9LOz5ul3zx3CKaFgFi.jpg",
-        "rating": 8.227,
+        "rating": 8.236,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -524,7 +524,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.7,
+        "rating": 8.748,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -563,7 +563,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.665,
+        "rating": 8.67,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -611,7 +611,7 @@
         "type": "tmdb",
         "title": "一念永恒",
         "originalTitle": "一念永恒",
-        "description": "腾讯视频打造的第二部国漫年番，也是第一部2D国漫年番，由视美影业制作，讲述平凡少年白小纯在一次次磨炼挑战中的成长变化，描绘了一个极具东方奇幻色彩的瑰丽世界。人们常说“陪伴是最长情的告白”，而每一位资深的动漫迷，都值得一个《一念永恒》这样的国漫年番“长情”的守护。",
+        "description": "平凡少年白小纯为追求长生之法踏入修仙界，在灵溪宗、血溪宗等宗门中，依靠顽皮机智与非凡机缘不断成长，最终揭开永恒之谜的核心秘密。",
         "releaseDate": "2020-08-12",
         "backdropPath": "/8kjea5G7lMYRit7U9rSOLLZZOUh.jpg",
         "posterPath": "/jgeAAUyACa4KIdOPafFlWas3em5.jpg",
@@ -652,9 +652,9 @@
         "originalTitle": "도굴왕",
         "description": "2025年，世界各地出现了神秘的「古墓」，古墓中的「文物」能赋予持有者异能力，更有不少人利用这些力量谋财。靠着「遗物」赋予的异能力以盗墓为生的刚力辽河，却因雇主大河原泰政的背叛，在「墓」中被逼入绝境，命悬一线。此时，一个突然开口说话的「乌鸦遗物」救了他一命。回过神来，他发现自己竟穿越回到了15年前的2025年！为了向大河原报复，辽河凭借著未来的记忆与知识作为武器，向所有掌握财富与权力的统治者们亮出獠牙！他将利用「文物」攀上世界顶点，成为真正的「盗墓王」!",
         "releaseDate": "2026-07-08",
-        "backdropPath": "/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg",
+        "backdropPath": "/irM3WhxOorkklhx5To9cfG2ktM6.jpg",
         "posterPath": "/1SMRFZdToK2JUXgw9KTQ1y3cE3n.jpg",
-        "rating": 8.6,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -706,7 +706,7 @@
         "releaseDate": "2026-01-04",
         "backdropPath": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "posterPath": "/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
-        "rating": 7.7,
+        "rating": 7.679,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -752,6 +752,19 @@
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
       {
+        "id": 330275,
+        "type": "tmdb",
+        "title": "太古神尊",
+        "originalTitle": "太古神尊",
+        "description": "灵界至尊太子惨遭算计身死，重生跌落凡尘沦为底层杂役！身怀绝世造化神丹与逆天功法，仅凭一柄锈剑掀翻整片武道世界。双武魂同步觉醒，炼化万灵、参悟神魂两道同修，天魔宝库、化龙秘境、远古遗迹尽数踏遍，魔尊铠甲、大荒镜等无上至宝尽收囊中。各路天骄、宗门蛀虫、域外邪族轮番上前找死， 全被他一剑横推、当场碾压！收服龙魂与通灵神犬，护尽身边红颜亲友，踏武王、破武皇、登临武尊，硬撼龙遮天、南宫凌天两大宿敌，撕碎上古黑暗动乱的尘封阴谋。  拳拳炸裂、剑光破穹的3D激战全程无憋屈，越级反杀、秘境夺宝、阵营争锋轮番上演，一路横推强敌，登顶太古至尊！",
+        "releaseDate": "2026-07-30",
+        "backdropPath": "/teWmJd5L3MfPSWCU025njsZ8lW.jpg",
+        "posterPath": "/y4b8iiCBMafawRSir5hJk5sj9vA.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": ""
+      },
+      {
         "id": 270603,
         "type": "tmdb",
         "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
@@ -773,7 +786,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.182,
+        "rating": 9.25,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -832,7 +845,7 @@
       {
         "id": 312507,
         "type": "tmdb",
-        "title": "令和妖神斑小姐",
+        "title": "令和的斑小姐",
         "originalTitle": "令和のダラさん",
         "description": "在深山中的村落里，有一处长久以来严禁进入的“禁忌之地”。那里伫立着一座外观诡异的神祠，据说只要踏入就会遭到作祟，甚至可能因此丧命。生于世代管理那座山的三十木谷家的日向与薰，在某个暴风雨之夜踏入禁地，遭遇了拥有巨大蛇身、会作祟的神灵·屋跨斑……然而，这对姐弟非但不害怕这只怪异，反而亲暱地唤她“斑小姐”，轻轻松松就跟她亲近了起来！“吾姑且也算是会作祟的神灵喔！？”被天不怕地不怕的日向与薰耍得团团转，回过神来，怪异竟成了吐槽役！？背负着悲伤过去的斑小姐，与自由过了头的姐弟，交织出既喧闹又温暖的日常——令和催生的新感觉灵异喜剧，就此揭幕！",
         "releaseDate": "2026-07-02",
@@ -1011,7 +1024,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8.016,
+        "rating": 8.01,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -1102,7 +1115,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.789,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1128,7 +1141,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
         "posterPath": "/xh9hNzzadcT0vn9pJMUu5SA2w0c.jpg",
-        "rating": 9.625,
+        "rating": 9.647,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1193,7 +1206,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
         "posterPath": "/o6k2eVEowtfwTKnKvbKUn87LGzX.jpg",
-        "rating": 7,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
