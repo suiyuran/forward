@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-31T20:49:06.751Z",
+  "time": "2026-08-01T20:37:48.508Z",
   "data": {
     "电影": [
       {
@@ -22,9 +22,9 @@
         "originalTitle": "Spider-Man: Brand New Day",
         "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
         "releaseDate": "2026-07-28",
-        "backdropPath": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
-        "posterPath": "/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
-        "rating": 8.039,
+        "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
+        "rating": 8.036,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
         "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.248,
+        "rating": 8.255,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-14",
         "backdropPath": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
         "posterPath": "/yeZXovyXz9lFrtET2cXwEzmo291.jpg",
-        "rating": 7.274,
+        "rating": 7.35,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-05-21",
         "backdropPath": "/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
         "posterPath": "/9izltMxWdnbUGPti3zAm51SGjwu.jpg",
-        "rating": 6.9,
+        "rating": 6.855,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-22",
         "backdropPath": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
         "posterPath": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-        "rating": 6.621,
+        "rating": 6.6,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.356,
+        "rating": 6.319,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -114,8 +114,8 @@
         "description": "在Uisenma Borchu的第二个半传记电影，一个年轻女子正在寻找自己的根，并发现一个特质，激进的性感，不仅逾越蒙古约定也是那些理应更自由的西方。",
         "releaseDate": "2020-07-30",
         "backdropPath": "/vzRMvJ32a2ArvQdVZSYoQe8l8jP.jpg",
-        "posterPath": "/ZxySbSP8KcUJz1v0xwQhOvfFTH.jpg",
-        "rating": 3.375,
+        "posterPath": "/9yz9aTfF6X3IeHAgTfe9yqoKIhA.jpg",
+        "rating": 3.4,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -127,7 +127,7 @@
         "description": "身陷囹圄的囚徒们克服万难，揭露了美国最致命的监狱体系中一项被掩盖的真相。",
         "releaseDate": "2025-01-28",
         "backdropPath": "/s9oWvDQoVka7Zisi3rmJ3Lj9WA.jpg",
-        "posterPath": "/gultnK0rYs4xLLYhxQ9ZnvPfVAn.jpg",
+        "posterPath": "/mZCP4LbkMqITrEMNG1Nk1yUnXii.jpg",
         "rating": 6.9,
         "mediaType": "movie",
         "genreTitle": "纪录"
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/4GMm608cmS7lmfxLCe2yo9iYoAX.jpg",
-        "rating": 9.4,
+        "rating": 9.437,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-30",
         "backdropPath": "/4L9sftGH7oQ1bpB0aQHERwyfDVd.jpg",
         "posterPath": "/fGarAr85Mc6gxO5OUmzlM6lvd0C.jpg",
-        "rating": 7.6,
+        "rating": 7.813,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.098,
+        "rating": 6.169,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.7,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-06-21",
         "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 6.6,
+        "rating": 6.1,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
