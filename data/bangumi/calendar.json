@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-31T17:25:00.735Z",
+  "time": "2026-08-01T16:54:55.483Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/u7LWdKmEdEr6Ui3GZMsFGlKZQBd.jpg",
-        "rating": 8.468,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -260,7 +260,7 @@
         "releaseDate": "2022-04-07",
         "backdropPath": "/3srLRdCMd5IMLiyyHvdQNstee3W.jpg",
         "posterPath": "/yFa9LmAPpYipjkXw2U2xhAm0JS9.jpg",
-        "rating": 7.281,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -312,7 +312,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
         "posterPath": "/6RnaxEBtjFJO2jx8qx7ibMJri5H.jpg",
-        "rating": 6.3,
+        "rating": 6.75,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -537,7 +537,7 @@
         "releaseDate": "2017-01-06",
         "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
         "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
-        "rating": 8.2,
+        "rating": 8.218,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -563,7 +563,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.67,
+        "rating": 8.673,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -709,19 +709,6 @@
         "rating": 7.679,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
-      },
-      {
-        "id": 330250,
-        "type": "tmdb",
-        "title": "顾长歌：我！天命大反派",
-        "originalTitle": "顾长歌：我！天命大反派",
-        "description": "改编自飞卢小说网同名小说。\n\n　　顾长歌穿越到玄幻世界，发现自己成了注定被“天命之子”击败的“天命大反派”顾长歌，为求自保并逆天改命，他被迫利用系统和对“爽文套路”的先知，反向算计、掠夺并打压各位“天命之子”，从而获得奖励，一步步走上巅峰。",
-        "releaseDate": "2026-07-15",
-        "backdropPath": null,
-        "posterPath": "/dMe2EH1GhPCwgovyAKO2G6oDYbr.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "动画"
       }
     ],
     "星期四": [
@@ -773,7 +760,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
-        "rating": 8.273,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -875,9 +862,9 @@
         "originalTitle": "ヤニねこ",
         "description": "尼古喵喵是只超爱抽烟的废物兽人！\n\n因为缺乏伦理与卫生观念，不是把烟头往窗外乱丢，就是对人乱吐口水，偶尔还会做出一些违法乱纪的事。\n\n幸好她身边有贴心的管家婆妹妹猫以及好友猫作伴，让她依旧能每天吞云吐雾、得过且过地生活着。",
         "releaseDate": "2026-07-03",
-        "backdropPath": "/u3C0ax7U590NNgtqTtAvIkoqpim.jpg",
+        "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.3,
+        "rating": 8.329,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1089,7 +1076,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/u02TXrpVxJXxbh9odWbrqbymPKC.jpg",
         "posterPath": "/lSloeMq52OkhxCWH8GsomYziVGa.jpg",
-        "rating": 8.571,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -1115,7 +1102,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.8,
+        "rating": 7.792,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
