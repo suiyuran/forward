@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-01T20:37:48.508Z",
+  "time": "2026-08-02T20:39:42.267Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-28",
         "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-        "rating": 8.036,
+        "rating": 8.026,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-05-13",
         "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
         "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.255,
+        "rating": 8.3,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-14",
         "backdropPath": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
         "posterPath": "/yeZXovyXz9lFrtET2cXwEzmo291.jpg",
-        "rating": 7.35,
+        "rating": 7.332,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -88,7 +88,7 @@
         "description": "在光鲜亮丽的加州郊区，一名年轻女子因为对前男友新婚妻子的暴力幻想阴谋而遭逮捕，事件迅速演变成轰动四方的丑闻，然而真相却隐藏在一张精心编织的谎言之网背后。随着调查将层层背叛逐步揭开，究竟谁才是真正的受害者？而谁又是反派？事实晦涩难辨，毕竟在这场游戏中，每个人都各有盘算。",
         "releaseDate": "2026-07-22",
         "backdropPath": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
-        "posterPath": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+        "posterPath": "/sGiCVxmqaaZWHJPbQwX137Dirgk.jpg",
         "rating": 6.6,
         "mediaType": "movie",
         "genreTitle": "纪录"
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.319,
+        "rating": 6.3,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/4GMm608cmS7lmfxLCe2yo9iYoAX.jpg",
-        "rating": 9.437,
+        "rating": 9.433,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-24",
         "backdropPath": "/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 7.7,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-30",
         "backdropPath": "/4L9sftGH7oQ1bpB0aQHERwyfDVd.jpg",
         "posterPath": "/fGarAr85Mc6gxO5OUmzlM6lvd0C.jpg",
-        "rating": 7.813,
+        "rating": 9.167,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.169,
+        "rating": 6.2,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
         "posterPath": "/7y1ibpkTwlKYrxFbq3lh2RgIB1k.jpg",
-        "rating": 6.1,
+        "rating": 6.2,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.6,
+        "rating": 7.58,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
       },
