@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-01T18:01:33.701Z",
+  "time": "2026-08-02T18:01:15.416Z",
   "data": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-07-28",
       "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-      "rating": 8.036,
+      "rating": 8.043,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -23,7 +23,7 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.255,
+      "rating": 8.3,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -93,19 +93,6 @@
       "genreTitle": "恐怖"
     },
     {
-      "id": 1083381,
-      "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "releaseDate": "2026-05-27",
-      "backdropPath": "/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
-      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 悬疑"
-    },
-    {
       "id": 1713529,
       "type": "tmdb",
       "title": "想你了",
@@ -117,6 +104,19 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1083381,
+      "type": "tmdb",
+      "title": "后室",
+      "originalTitle": "Backrooms",
+      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+      "releaseDate": "2026-05-27",
+      "backdropPath": "/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
+      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 悬疑"
     },
     {
       "id": 396227,
@@ -145,19 +145,6 @@
       "genreTitle": "历史, 战争"
     },
     {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "releaseDate": "2026-06-10",
-      "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "rating": 7.416,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 惊悚"
-    },
-    {
       "id": 1084244,
       "type": "tmdb",
       "title": "玩具总动员5",
@@ -166,7 +153,7 @@
       "releaseDate": "2026-06-17",
       "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 7.426,
+      "rating": 7.429,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -179,9 +166,22 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 6.4,
+      "rating": 6.414,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
+    },
+    {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "releaseDate": "2026-06-10",
+      "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
+      "rating": 7.421,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 惊悚"
     },
     {
       "id": 1353926,
@@ -205,7 +205,7 @@
       "releaseDate": "2026-06-10",
       "backdropPath": "/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
       "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-      "rating": 7.321,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -231,7 +231,7 @@
       "releaseDate": "2026-07-08",
       "backdropPath": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "posterPath": "/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
-      "rating": 5.862,
+      "rating": 5.839,
       "mediaType": "movie",
       "genreTitle": "家庭, 奇幻"
     },
@@ -244,22 +244,9 @@
       "releaseDate": "2026-05-25",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.63,
+      "rating": 7.704,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
-    },
-    {
-      "id": 1257942,
-      "type": "tmdb",
-      "title": "魔方小姐",
-      "originalTitle": "魔方小姐",
-      "description": "“精神状态领先30年”的魔方奶奶赵艳红（杨紫琼 饰）不服老、不认输、不怕事，更爱惹事！遇上“能躺着绝不坐着”的天才废柴吴有为（刘昊然 饰）后与魔方结缘，和师父、闺蜜、家人一起跌跌撞撞勇闯“魔坛”！70岁才拿起魔方的她，能够转出什么名堂？又会遇到哪些奇葩对手和鸡飞狗跳的意外......",
-      "releaseDate": "2026-06-19",
-      "backdropPath": "/bLxfaYqA9YlVuXbU9eK1E2u3MLI.jpg",
-      "posterPath": "/qvTiG4LSu6wFCfXjg2KTiqHeQBF.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 家庭"
     },
     {
       "id": 1269075,
@@ -283,7 +270,7 @@
       "releaseDate": "2022-10-21",
       "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
       "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
-      "rating": 7.643,
+      "rating": 7.644,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -299,19 +286,6 @@
       "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1226863,
-      "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "releaseDate": "2026-04-01",
-      "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "posterPath": "/7tLVCMnGg0Q3rWlkoBjdKA0S57R.jpg",
-      "rating": 8.268,
-      "mediaType": "movie",
-      "genreTitle": "家庭, 喜剧"
     },
     {
       "id": 434773,
@@ -335,7 +309,7 @@
       "releaseDate": "1988-05-10",
       "backdropPath": "/1J28PJOkusMN5Ab9Q3oF310e11k.jpg",
       "posterPath": "/ikD0ORv6IXkupSEwXlgMDm5fPeX.jpg",
-      "rating": 7.445,
+      "rating": 7.446,
       "mediaType": "movie",
       "genreTitle": "爱情, 冒险"
     },
@@ -374,7 +348,7 @@
       "releaseDate": "1967-12-21",
       "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
       "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
-      "rating": 7.629,
+      "rating": 7.63,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -413,7 +387,7 @@
       "releaseDate": "1962-01-23",
       "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
       "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
-      "rating": 7.543,
+      "rating": 7.538,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -426,7 +400,7 @@
       "releaseDate": "1986-11-26",
       "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
       "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
-      "rating": 7.118,
+      "rating": 7.121,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -522,15 +496,15 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1035090,
+      "id": 1028378,
       "type": "tmdb",
-      "title": "维米尔·旷世大展",
-      "originalTitle": "Vermeer: The Greatest Exhibition",
-      "description": "2023年春季，阿姆斯特丹国家博物馆呈现有史以来规模最大的维梅尔展览。维梅尔用色独特，爱用群青蓝等昂贵颜料，擅长捕捉室内空间的光与影，以物件与人物的互动呈现岁月静好的人文气氛。观众能以电影形式享受这个一票难求的展览，并由阿姆斯特丹国家博物馆馆长和策展人亲自导赏，展览云集全球不同博物馆藏品，维梅尔35件已知作品中的28件稀世名画，包括著名的《戴珍珠耳环的少女》、《地理学家》、《倒牛奶的女仆》及《窗边读信的少女》等。阿姆斯特丹国家博物馆和海牙莫瑞泰斯皇家美术馆利用现代科技，对维梅尔的创作灵感和绘画过程进行深入研究。观众可在大银幕仔细欣赏维梅尔巨作的细节，并在专业鉴赏下深入了解其生平及创作内幕，沉浸在维梅尔的艺术世界中！",
-      "releaseDate": "2023-04-18",
-      "backdropPath": "/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
-      "posterPath": "/5FvXNMh346rWfNPlFlpgdAQXy8U.jpg",
-      "rating": 7.8,
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 8.5,
       "mediaType": "movie",
       "genreTitle": "纪录"
     },
