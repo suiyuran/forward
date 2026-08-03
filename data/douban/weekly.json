@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-02T20:39:42.267Z",
+  "time": "2026-08-03T20:50:30.888Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
         "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-        "rating": 8.3,
+        "rating": 8.231,
         "mediaType": "movie",
         "genreTitle": "喜剧, 动画"
       },
@@ -22,9 +22,9 @@
         "originalTitle": "Spider-Man: Brand New Day",
         "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
         "releaseDate": "2026-07-28",
-        "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "backdropPath": "/b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg",
         "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-        "rating": 8.026,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -35,9 +35,9 @@
         "originalTitle": "Obsession",
         "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
         "releaseDate": "2026-05-13",
-        "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+        "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
         "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.3,
+        "rating": 8.248,
         "mediaType": "movie",
         "genreTitle": "恐怖, 惊悚"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-14",
         "backdropPath": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
         "posterPath": "/yeZXovyXz9lFrtET2cXwEzmo291.jpg",
-        "rating": 7.332,
+        "rating": 7.333,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-05-21",
         "backdropPath": "/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
         "posterPath": "/9izltMxWdnbUGPti3zAm51SGjwu.jpg",
-        "rating": 6.855,
+        "rating": 6.766,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-22",
         "backdropPath": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
         "posterPath": "/sGiCVxmqaaZWHJPbQwX137Dirgk.jpg",
-        "rating": 6.6,
+        "rating": 6.608,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.3,
+        "rating": 6.253,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/4GMm608cmS7lmfxLCe2yo9iYoAX.jpg",
-        "rating": 9.433,
+        "rating": 9.4,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-30",
         "backdropPath": "/4L9sftGH7oQ1bpB0aQHERwyfDVd.jpg",
         "posterPath": "/fGarAr85Mc6gxO5OUmzlM6lvd0C.jpg",
-        "rating": 9.167,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.2,
+        "rating": 6.261,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.58,
+        "rating": 7.618,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-06-21",
         "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 6.1,
+        "rating": 5.7,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
