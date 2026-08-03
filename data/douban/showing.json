@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-02T18:01:15.416Z",
+  "time": "2026-08-03T18:51:34.770Z",
   "data": [
     {
       "id": 969681,
@@ -8,11 +8,24 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "releaseDate": "2026-07-28",
-      "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "backdropPath": "/b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg",
       "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-      "rating": 8.043,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1541125,
+      "type": "tmdb",
+      "title": "年会不能停！2",
+      "originalTitle": "年会不能停！2",
+      "description": "众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
+      "releaseDate": "2026-07-24",
+      "backdropPath": "/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
+      "posterPath": "/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1339713,
@@ -21,9 +34,9 @@
       "originalTitle": "Obsession",
       "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
       "releaseDate": "2026-05-13",
-      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.3,
+      "rating": 8.248,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -36,22 +49,9 @@
       "releaseDate": "2026-07-10",
       "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
       "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "rating": 8.3,
+      "rating": 8.231,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
-    },
-    {
-      "id": 1541125,
-      "type": "tmdb",
-      "title": "年会不能停2！",
-      "originalTitle": "年会不能停2！",
-      "description": "众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
-      "posterPath": "/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1491920,
@@ -62,7 +62,7 @@
       "releaseDate": "2026-07-11",
       "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "posterPath": "/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "rating": 6.176,
+      "rating": 6.2,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -88,9 +88,22 @@
       "releaseDate": "2009-10-16",
       "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
-      "rating": 6.917,
+      "rating": 6.913,
       "mediaType": "movie",
       "genreTitle": "恐怖"
+    },
+    {
+      "id": 1083381,
+      "type": "tmdb",
+      "title": "后室",
+      "originalTitle": "Backrooms",
+      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+      "releaseDate": "2026-05-27",
+      "backdropPath": "/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
+      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+      "rating": 7.087,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 悬疑"
     },
     {
       "id": 1713529,
@@ -104,19 +117,6 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1083381,
-      "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "releaseDate": "2026-05-27",
-      "backdropPath": "/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
-      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 悬疑"
     },
     {
       "id": 396227,
@@ -145,6 +145,32 @@
       "genreTitle": "历史, 战争"
     },
     {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "releaseDate": "2026-06-10",
+      "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
+      "rating": 7.415,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 惊悚"
+    },
+    {
+      "id": 1173076,
+      "type": "tmdb",
+      "title": "年会不能停！",
+      "originalTitle": "年会不能停！",
+      "description": "集团裁员风波之下，人心惶惶，底层钳工胡建林（大鹏 饰）却被阴差阳错调入集团总部！裹挟在“错调”事件中的人事经理马杰（白客 饰）诚惶诚恐，为保饭碗被迫为其周旋隐瞒。从“工厂”到“大厂”，从“蓝领”变“金领”，胡建林因与大厂环境格格不入而笑料百出，也像一面“职场照妖镜”照出众生相……胡建林为何能在裁员之际一路升职加薪制霸大厂？马杰又能否在“错调”事件中全身而退？这对“天选打工双侠”会引发怎样轰轰烈烈的职场大整顿？",
+      "releaseDate": "2023-12-29",
+      "backdropPath": "/f4OCzvS3HvisHEkxq5596jg21UJ.jpg",
+      "posterPath": "/nhsi6kfqwlfAdzaeZOocnUqMlH2.jpg",
+      "rating": 7.467,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
       "id": 1084244,
       "type": "tmdb",
       "title": "玩具总动员5",
@@ -153,7 +179,7 @@
       "releaseDate": "2026-06-17",
       "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 7.429,
+      "rating": 7.414,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -166,22 +192,9 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 6.414,
+      "rating": 6.4,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
-    },
-    {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "releaseDate": "2026-06-10",
-      "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "posterPath": "/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "rating": 7.421,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 惊悚"
     },
     {
       "id": 1353926,
@@ -197,19 +210,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1280738,
-      "type": "tmdb",
-      "title": "火遮眼",
-      "originalTitle": "火遮眼",
-      "description": "王伟的女儿被犯罪团伙绑架，而腐败的警方拒绝提供任何帮助。走投无路的他，独自展开血腥追捕，誓要救回女儿。他唯一的盟友是纳文——一名妻子神秘失踪、不屈不挠的记者。愤怒的复仇之火驱使着这对意想不到的搭档，在这场爆炸性的功夫对决中，他们对绑匪展开了无情的打击。[狮门影业]",
-      "releaseDate": "2026-06-10",
-      "backdropPath": "/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
-      "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1305672,
       "type": "tmdb",
       "title": "抓特务",
@@ -223,6 +223,19 @@
       "genreTitle": "历史, 剧情"
     },
     {
+      "id": 1280738,
+      "type": "tmdb",
+      "title": "火遮眼",
+      "originalTitle": "火遮眼",
+      "description": "王伟的女儿被犯罪团伙绑架，而腐败的警方拒绝提供任何帮助。走投无路的他，独自展开血腥追捕，誓要救回女儿。他唯一的盟友是纳文——一名妻子神秘失踪、不屈不挠的记者。愤怒的复仇之火驱使着这对意想不到的搭档，在这场爆炸性的功夫对决中，他们对绑匪展开了无情的打击。[狮门影业]",
+      "releaseDate": "2026-06-10",
+      "backdropPath": "/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
+      "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
+      "rating": 7.323,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
       "id": 1108427,
       "type": "tmdb",
       "title": "海洋奇缘：启航",
@@ -231,9 +244,22 @@
       "releaseDate": "2026-07-08",
       "backdropPath": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "posterPath": "/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
-      "rating": 5.839,
+      "rating": 5.8,
       "mediaType": "movie",
       "genreTitle": "家庭, 奇幻"
+    },
+    {
+      "id": 11471,
+      "type": "tmdb",
+      "title": "英雄本色",
+      "originalTitle": "英雄本色",
+      "description": "香港某个国际伪钞集团重要分子宋子豪（狄龙）和Mark（周润发）情同手足，某次宋子豪带手下谭成（李子雄）去台北交易时被其出卖受枪伤被捕入狱，为替好兄弟报仇，Mark孤身赴台，结果被人打成瘸子，江湖地位自此一落千丈，而宋子豪的父亲也在不久丧命。一向视宋子豪为偶像的宋子杰得知哥哥的真实身份后，对黑社会及他恨之人骨，立誓利用警察身份将黑帮势力斩草除根，宋子豪出狱后不顾苦等他想重创辉煌的Mark的劝阻，决心弃暗投明，无奈得不到宋子杰的谅解。而此时已成帮会老大的谭成欲找宋子豪再合作，遭拒绝后放言会害宋子杰，被逼走投无路，宋子豪决定再与Mark连手共抗强敌。",
+      "releaseDate": "1986-08-02",
+      "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
+      "posterPath": "/qvdvGB9d58zjberXoCX5RihD5PY.jpg",
+      "rating": 7.3,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 1318413,
@@ -244,22 +270,22 @@
       "releaseDate": "2026-05-25",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.704,
+      "rating": 7.737,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
     },
     {
-      "id": 1269075,
+      "id": 1089654,
       "type": "tmdb",
-      "title": "我看见两朵一样的云",
-      "originalTitle": "我看见两朵一样的云",
-      "description": "你有没有在这个世界感到过无比的孤独？有没有怀疑身边的一切是不真实的？  阿志（王源 饰）在大家眼里是一个奇怪的年轻人，他的业余生活都在寻找“这个世界是虚拟世界”的证据。直到古灵精怪的女生小一（文淇 饰）的出现，让他几乎放弃了寻找真相的念头。透过阿志和小一被快速点燃的爱情，生活显得如此浪漫而真实。可是，小一究竟是虚拟游戏的NPC、还是现实生活的完美爱人，他们能不能在这个世界上永远幸福地生活在一起？……",
-      "releaseDate": "2026-06-19",
-      "backdropPath": "/w0MinivEbBfcP8vDhFSWQc99IkS.jpg",
-      "posterPath": "/uHkarMeytn0dYLze2OlQ4APrWU7.jpg",
-      "rating": 6.5,
+      "title": "长安三万里",
+      "originalTitle": "长安三万里",
+      "description": "安史之乱后数年，吐蕃大军压境，战况危机。剑南西川节度使高适奋力抵抗，然孤兵难支，只得退守云山城。夜幕降临，大雪如轮，朝廷却派来程公公持节监军。高适得知对方讯问的正是他“加害李白”的缘由，于是在昏黄的烛光下，缓缓道出了他和李白起于微末时的故事，以及盛唐文坛的一时盛况。遥想当年，父母双亡的高适决心去长安求取功名，途中遇到文采飞扬且乐观傲慢的李白。他们踌躇满志，却发现空有文采和抱负却报国无门。长安之后，李白南下扬州，高适则继续等待晋升的机会。在这一过程中，杜甫、王维、常建、李龟年、吴道子、张旭等群星璀璨，交替登场，共同谱写了大唐盛世最瑰丽的画卷。而高适和李白的友情，也将在历史大潮的背景下跌宕沉浮……",
+      "releaseDate": "2023-07-02",
+      "backdropPath": "/m4sS3YPOu6OPHzwJcPKjMH1TyRA.jpg",
+      "posterPath": "/7wxk8Ka5AGUIjCpEPg4vBOwSSul.jpg",
+      "rating": 7.7,
       "mediaType": "movie",
-      "genreTitle": "爱情, 科幻"
+      "genreTitle": "动画, 历史"
     },
     {
       "id": 965150,
@@ -273,6 +299,32 @@
       "rating": 7.644,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 532753,
+      "type": "tmdb",
+      "title": "我不是药神",
+      "originalTitle": "我不是药神",
+      "description": "一位不速之客的意外到访，打破了神油店老板程勇的平凡人生，他从一个交不起房租的男性保健品商贩，一跃成为印度仿制药“格列宁”的独家代理商。收获巨额利润的他，生活剧烈变化，被病患们冠以“药神”的称号。但是，一场关于救赎的拉锯战也在波涛暗涌中慢慢展开......",
+      "releaseDate": "2018-07-06",
+      "backdropPath": "/xNPeL9cvTCCAwlAwq7Vdq9HNJd.jpg",
+      "posterPath": "/qrhEWQjR3AyMbyy5l3vFuwA576W.jpg",
+      "rating": 8.181,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1269075,
+      "type": "tmdb",
+      "title": "我看见两朵一样的云",
+      "originalTitle": "我看见两朵一样的云",
+      "description": "你有没有在这个世界感到过无比的孤独？有没有怀疑身边的一切是不真实的？  阿志（王源 饰）在大家眼里是一个奇怪的年轻人，他的业余生活都在寻找“这个世界是虚拟世界”的证据。直到古灵精怪的女生小一（文淇 饰）的出现，让他几乎放弃了寻找真相的念头。透过阿志和小一被快速点燃的爱情，生活显得如此浪漫而真实。可是，小一究竟是虚拟游戏的NPC、还是现实生活的完美爱人，他们能不能在这个世界上永远幸福地生活在一起？……",
+      "releaseDate": "2026-06-19",
+      "backdropPath": "/w0MinivEbBfcP8vDhFSWQc99IkS.jpg",
+      "posterPath": "/uHkarMeytn0dYLze2OlQ4APrWU7.jpg",
+      "rating": 6.5,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 科幻"
     },
     {
       "id": 110,
@@ -301,6 +353,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 360814,
+      "type": "tmdb",
+      "title": "摔跤吧！爸爸",
+      "originalTitle": "दंगल",
+      "description": "马哈维亚·辛格·珀尕（阿米尔·汗 Aamir Khan 饰）曾是印度国家摔跤冠军，因生活所迫放弃摔跤。他希望让儿子可以帮他完成梦想——赢得世界级金牌。结果生了四个女儿本以为梦想就此破碎的辛格却意外发现女儿身上的惊人天赋，看到冠军希望的他决定不能让女儿的天赋浪费，像其他女孩一样只能洗衣做饭过一生 ，再三考虑之后，与妻子约定一年时间按照摔跤手的标准训练两个女儿：换掉裙子 、剪掉了长发，让她们练习摔跤，并赢得一个又一个冠军，最终赢来了成为榜样激励千千万万女性的机会……",
+      "releaseDate": "2016-12-21",
+      "backdropPath": "/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
+      "posterPath": "/j5M6e55pAhzPWUTP5k0Qyg6o876.jpg",
+      "rating": 7.873,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 家庭"
+    },
+    {
       "id": 175,
       "type": "tmdb",
       "title": "碧海蓝天",
@@ -312,19 +377,6 @@
       "rating": 7.446,
       "mediaType": "movie",
       "genreTitle": "爱情, 冒险"
-    },
-    {
-      "id": 68883,
-      "type": "tmdb",
-      "title": "胭脂扣",
-      "originalTitle": "胭脂扣",
-      "description": "在香港报馆任职的袁永定（万梓良 饰）遇见一位前来刊登寻人广告的冷艳女子，但她又无钱付广告费。袁永定借故离开，不料那女子紧随而来。在闲聊中袁永定惊讶地发现此女子原是鬼魂。她是二十世纪三十年代香港石塘咀的红牌妓女如花（梅艳芳 饰）。在那风月世界里，她爱上了人称十二少的陈振邦（张国荣 饰），到了谈论嫁娶之地步，但是由于身份地位悬殊，婚事遭到陈家反对。\r 陈振邦脱离家庭与如花同居，两人以胭脂匣定情。在二人同居后染食鸦片，陈振邦乃一纨绔子弟，无养家糊口的本领，渐渐经济拮据，于是如花计划与其吞食鸦片殉情。结果如花死去，而陈振邦被救活。如花在黄泉久候不见陈振邦，故回阳间寻找。\r 袁永定与女友（朱宝意 饰）无意中发现当年一张《骨子报》，发现陈振邦原在一家电影制片厂内充当制片场临时演员。陈振邦经岁月的折磨，早已穷困潦倒，对往事早已淡漠。如花伤心之余，将胭脂匣交还，回到阴间转世去了。",
-      "releaseDate": "1987-12-05",
-      "backdropPath": "/4kpbkS9V4QJcQBnvxvRfRojdFyI.jpg",
-      "posterPath": "/n7xK6bz8aUNb8LxCBtJX5AXonFh.jpg",
-      "rating": 7.447,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 奇幻"
     },
     {
       "id": 72245,
@@ -340,6 +392,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 68883,
+      "type": "tmdb",
+      "title": "胭脂扣",
+      "originalTitle": "胭脂扣",
+      "description": "在香港报馆任职的袁永定（万梓良 饰）遇见一位前来刊登寻人广告的冷艳女子，但她又无钱付广告费。袁永定借故离开，不料那女子紧随而来。在闲聊中袁永定惊讶地发现此女子原是鬼魂。她是二十世纪三十年代香港石塘咀的红牌妓女如花（梅艳芳 饰）。在那风月世界里，她爱上了人称十二少的陈振邦（张国荣 饰），到了谈论嫁娶之地步，但是由于身份地位悬殊，婚事遭到陈家反对。\r 陈振邦脱离家庭与如花同居，两人以胭脂匣定情。在二人同居后染食鸦片，陈振邦乃一纨绔子弟，无养家糊口的本领，渐渐经济拮据，于是如花计划与其吞食鸦片殉情。结果如花死去，而陈振邦被救活。如花在黄泉久候不见陈振邦，故回阳间寻找。\r 袁永定与女友（朱宝意 饰）无意中发现当年一张《骨子报》，发现陈振邦原在一家电影制片厂内充当制片场临时演员。陈振邦经岁月的折磨，早已穷困潦倒，对往事早已淡漠。如花伤心之余，将胭脂匣交还，回到阴间转世去了。",
+      "releaseDate": "1987-12-05",
+      "backdropPath": "/4kpbkS9V4QJcQBnvxvRfRojdFyI.jpg",
+      "posterPath": "/n7xK6bz8aUNb8LxCBtJX5AXonFh.jpg",
+      "rating": 7.447,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 奇幻"
+    },
+    {
       "id": 37247,
       "type": "tmdb",
       "title": "毕业生",
@@ -348,9 +413,22 @@
       "releaseDate": "1967-12-21",
       "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
       "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
-      "rating": 7.63,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 39693,
+      "type": "tmdb",
+      "title": "岁月神偷",
+      "originalTitle": "歲月神偷",
+      "description": "60年代的香港，风云变幻。一面要忍受港英政府的压制，一面又受到文化大革命的波及，更要面对不时登陆的台风暴雨。老字号的永利街就处在这样一个风暴的旋涡中心。 鞋匠罗一家四口，在街尾以做鞋为生。罗先生（任达华 饰）做得一手好鞋，在那个混乱的年代仅能养家糊口；罗太太（吴君如 饰）为人辛辣直率，人称“侠盗罗嫂”。大儿子罗进一（李治廷 饰）16岁，品学兼优，是运动会的冠军，全家人的希望，也是永利街的骄傲；小儿子罗进二（钟绍图 饰）8岁，在父母溺爱之下，天性顽劣，出了名的顽皮整蛊……一家人艰难度日，也算其乐融融。然而大儿子与富家小姐芳菲（蔡颖恩 饰）之间一段纯美的初恋、一场扫荡整个香港的飓风暴雨、更有一场潜伏已久的噩梦，让这个普通家庭的平安幸福在一夜之间陡生变故、支离破碎……面对岁月这个最大的“神偷”，顽强不屈的人该如何去抵抗？",
+      "releaseDate": "2010-03-11",
+      "backdropPath": "/vFL51NZL4CASHiYJSioG1cC5fXD.jpg",
+      "posterPath": "/wEAfMDLSOHISjlWD9CNZPzx5iH9.jpg",
+      "rating": 7.6,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1714841,
@@ -366,6 +444,32 @@
       "genreTitle": "动作, 历史"
     },
     {
+      "id": 42006,
+      "type": "tmdb",
+      "title": "红高粱",
+      "originalTitle": "红高粱",
+      "description": "作为国内“第五代导演”领军人物张艺谋的导演处女作，影片是第一部获得柏林电影节金熊奖的亚洲电影。改编自莫言同名小说的本片承载了很多影迷对于这片黄土地的炙热情感，美工出身的张艺谋在其第一部电影作品中即表现出了对色彩运用的独到见解，红与黄两个基色在影片中交相辉映，艳丽的色彩对比形成了强烈的电影视觉语言，将黄土高坡上的野性展现出了无与伦比的美感，长在陕北的张艺谋用这种独特的映像风格表达了对家乡的热爱，影片从“我”的视角塑造出了一众性格豪迈的陕北普通百姓，通过这些敢爱、敢恨，不畏生死的鲜明人物展现出的是一个民族的蓬勃生命力，影片还捧红了第一代谋女郎巩俐，那时尚在电影学院研读的巩俐还略显青涩，真挚自然的演出格外惹人喜爱，本片就像一杯凝结着民族魂魄的烈酒，值得我们每位中华儿女浊酒一杯。",
+      "releaseDate": "1988-10-10",
+      "backdropPath": "/4bjVA2NrkrdNPPpKUt7eR2P3xlf.jpg",
+      "posterPath": "/lbYeGboAkIdNQHN4uS14k78ACHo.jpg",
+      "rating": 7.2,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1006485,
+      "type": "tmdb",
+      "title": "热烈",
+      "originalTitle": "热烈",
+      "description": "街舞老炮儿丁雷（黄渤 饰），偶遇卖艺少年陈烁（王一博 饰），丁雷忽悠陈烁加入自己经营的舞团。舞团内高手如云，性格各异，与陈烁碰撞出不同的火花，笑料不断。陈烁热烈追梦，期待着上场的机会，却发现丁雷邀请他其实另有目的，而丁雷和陈烁，也都将面对接二连三的沉重打击，他们能否逆风翻盘，回击人生难题？",
+      "releaseDate": "2023-07-28",
+      "backdropPath": "/hSxduda5y1S20DejDC5FpeLbYvH.jpg",
+      "posterPath": "/w5qD4BldEHjvcYOtkJdUHsPwTuy.jpg",
+      "rating": 5.87,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
       "id": 8073,
       "type": "tmdb",
       "title": "法外之徒",
@@ -374,9 +478,22 @@
       "releaseDate": "1964-08-05",
       "backdropPath": "/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
       "posterPath": "/zRvjanylCLPVMYdTGr56q368y5l.jpg",
-      "rating": 7.5,
+      "rating": 7.485,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 396296,
+      "type": "tmdb",
+      "title": "南海十三郎",
+      "originalTitle": "南海十三郎",
+      "description": "本片讲述粤剧编剧“南海十三郎”江誉镠传奇跌宕的一生，展现这位“癫狂凤凰”在时代变迁中的才情与悲欢。",
+      "releaseDate": "1997-05-15",
+      "backdropPath": "/oSv4zYGtNmPpKLzX4Bjm966YIyT.jpg",
+      "posterPath": "/A3dbwMOxHdtK0FfntB01bFoKLns.jpg",
+      "rating": 7.72,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1628,
@@ -390,6 +507,19 @@
       "rating": 7.538,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1020829,
+      "type": "tmdb",
+      "title": "狐步",
+      "originalTitle": "La Danse des renards",
+      "description": "在一所体育专科寄宿学校里，年轻的拳击新星卡米尔刚夺得法国冠军头衔，却在一次致命事故中被挚友马泰奥惊险救下。随着焦虑逐渐侵蚀内心，他开始质疑自己对拳击的热爱，以及与马泰奥的亲密友谊。",
+      "releaseDate": "2026-03-18",
+      "backdropPath": "/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg",
+      "posterPath": "/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 64131,
@@ -439,9 +569,22 @@
       "releaseDate": "1993-01-06",
       "backdropPath": "/iJ4XWlsGpZuZOQDTYenn9YqWfR0.jpg",
       "posterPath": "/5njDD9mzKKxN1qSmrSd2Ewjs6OF.jpg",
-      "rating": 7.142,
+      "rating": 7.139,
       "mediaType": "movie",
       "genreTitle": "奇幻, 喜剧"
+    },
+    {
+      "id": 638032,
+      "type": "tmdb",
+      "title": "夺冠",
+      "originalTitle": "夺冠",
+      "description": "2008年8月15日，北京奥运会女排比赛，中国VS美国。戴着金丝框眼镜的郎平（巩俐 饰）坐在美国队教练席上，大气沉稳，目光如电；中国队教练（黄渤 饰）站在场边，全神贯注，面带笑容。中国队教练望向郎平，目光充满深意，不断经过的人影遮蔽了他的视线，中国女排三十余年的沉浮图景被缓缓打开……",
+      "releaseDate": "2020-09-25",
+      "backdropPath": "/YnVakBWRGZymBvWh7cLJz2nMjG.jpg",
+      "posterPath": "/grRJYKcYjLMJ2lulnGmu0Qjquf1.jpg",
+      "rating": 6.622,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 历史"
     },
     {
       "id": 34838,
@@ -457,6 +600,19 @@
       "genreTitle": "剧情, 音乐"
     },
     {
+      "id": 21058,
+      "type": "tmdb",
+      "title": "小城之春",
+      "originalTitle": "小城之春",
+      "description": "在一个小城里，年轻少妇周玉纹与丈夫戴礼言过着平淡无味的生活。礼言在战争中失去了家产，也失去了面对现实的勇气，终日郁郁寡欢。夫妻之间相敬如宾，实则已没有感情可言。这沉闷的生活被从外面闯入小城的青年医生章志忱打破。他是礼言分别八年的朋友，也是玉纹过去的情人。礼言的妹妹戴秀喜欢上了志忱，而志忱拒绝了她。志忱的心里还装着玉纹。但他心里很矛盾。当年他与玉纹未结婚是因为玉纹母亲的阻挠，现在玉纹母亲死了，玉纹又有了丈夫。玉纹虽对丈夫尽职尽责，但心里却想着志忱，为此，她觉得对不起丈夫礼言。而礼言却决定成全他们两个，他吞了安眠药想自尽，后被抢救过来。经过了这一番感情波折，玉纹重新认识了自己与丈夫戴礼言的感情，她选择了与丈夫重新生活，而志忱也决定离开小城。一个春日的早晨，周玉纹、戴礼言还有妹妹戴秀在城头上为章志忱送行。他们目送志忱向外面的世界走去。",
+      "releaseDate": "1948-02-01",
+      "backdropPath": "/cr5fnofjFTKoUwgbyHzeZdkYMz4.jpg",
+      "posterPath": "/eCtv3xw44b3eUE2LGTgmfmQopKf.jpg",
+      "rating": 7.2,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
       "id": 318620,
       "type": "tmdb",
       "title": "庐山恋",
@@ -468,6 +624,19 @@
       "rating": 6,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
+    },
+    {
+      "id": 191463,
+      "type": "tmdb",
+      "title": "顽主",
+      "originalTitle": "顽主",
+      "description": "《顽主》根据王朔同名小说改编，是由米家山执导，米家山、王朔编剧，张国立、葛优、梁天、潘虹等主演的喜剧讽刺电影。本片描述了80年代后期中国北京的三名年轻人的故事。三名无业青年，本着\"替人排优、替人解难、替人受过\"的宗旨，成立了一个3T公司。本想着诚心为别人办事，却不想遭遇到了社会上各色人等，演绎了一出出荒诞不经啼笑皆非的故事，在体验了种种骨鲠在喉的辛酸后，也只能关门歇业。",
+      "releaseDate": "1988-01-01",
+      "backdropPath": "/NbW38FatbsQxKjQ0s97eR3LjJi.jpg",
+      "posterPath": "/Aq8cWjW7vUDYN1sY9TbgOIrdjYa.jpg",
+      "rating": 7.333,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 4173,
@@ -483,6 +652,58 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 92990,
+      "type": "tmdb",
+      "title": "黄土地",
+      "originalTitle": "黄土地",
+      "description": "陈凯歌导演首作，影片改编自柯蓝的小说《深谷回声》，讲述了陕北农村的贫困女孩，因父亲定下的娃娃亲，无法逃脱厄运的悲惨故事。由中国第五代导演的两位代表人物陈凯歌执导，张艺谋摄影的本片，被誉为两人巅峰的会师之作，本片在1985年第五届中国电影金鸡奖上荣获最佳摄影奖，同年在瑞士洛迦诺和东京等海外电影节上斩获了多项大奖，标志着中国第五代导演在国内外影坛的真正崛起。",
+      "releaseDate": "1984-08-19",
+      "backdropPath": "/9a8rTHiVxVphC02qqz7lTpjvT4s.jpg",
+      "posterPath": "/ej07CkHAyExnxeVVTxN55smOo19.jpg",
+      "rating": 7.2,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 音乐"
+    },
+    {
+      "id": 176217,
+      "type": "tmdb",
+      "title": "似水流年",
+      "originalTitle": "似水流年",
+      "description": "在香港生活的珊珊（顾美华 饰）得知祖母在乡下过世，动身返回阔别20年的潮汕老家，为祖母奔丧，同时也是想借机逃离城市里的烦恼。与快节奏的城市生活相比，珊珊的老家依旧保持着记忆中朴实隽永的生活。珊珊与儿时的玩伴阿珍（斯琴高娃 饰）和孝松（谢伟雄 饰）重逢，此时的两人已结为夫妻，珊珊的到来打破了原本波澜不惊的乡间生活。  　　而珊珊光鲜的城里人生活的背后是不为人知的艰辛和无奈：父亲的早逝、与妹妹的决裂、感情生活受挫……短暂的归乡旅程结束，故事中每个人的人生又会因这场久别重逢发生怎样的变化呢？",
+      "releaseDate": "1984-09-06",
+      "backdropPath": "/r9Xv2mmqfOAH4xAuhk8LnlGKcf5.jpg",
+      "posterPath": "/3AgBzPi6b9l64KK0Ps03TICmXUe.jpg",
+      "rating": 7.375,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 112698,
+      "type": "tmdb",
+      "title": "神女",
+      "originalTitle": "神女",
+      "description": "上海1930年代，贫苦女人（阮玲玉）为养活儿子沦为暗娼，并不幸被一流氓看中霸占，她几次试图逃脱流氓的控制，均告失败，儿子到了入学的年龄，她不想因为没钱使儿子失去受教育的机会，便继续拿身体挣钱，为此，她要瞒着流氓从有限的收入里偷偷取出一些攒下。  　　她的身份被儿子同学的家长得知，众人联合向校方施压，要“妓女的孩子”滚出校园，以免败坏学风，校长通过家访，晓得了女人的艰辛，决定让她的儿子继续在学校读书，可是一人的力量太单薄，学校董事会仍决定将其开除，女人为使孩子能继续念书，去拿积攒下的血汗钱准备远走他乡，不想她的钱已被流氓偷去赌博输光……",
+      "releaseDate": "1934-12-07",
+      "backdropPath": "/iwMEFGEVf29WQCWhiT88CANAgv7.jpg",
+      "posterPath": "/iGVHFpNd4bZ9w17xt2WO16zpviJ.jpg",
+      "rating": 7.8,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1002640,
+      "type": "tmdb",
+      "title": "海洋之谜",
+      "originalTitle": "Secrets of the Sea",
+      "description": "影片记录了海洋中最奇特、最壮观的生物。在海洋中，每个物种的生存都依赖于许多其他物种。影片通过跟踪研究世界各地海洋生命的奇妙旅程，真实的体现了海洋生物多样性的关键重要，展示了不同海洋物种之间及其环境相互作用的惊人方式。",
+      "releaseDate": "2022-06-08",
+      "backdropPath": null,
+      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 1147747,
       "type": "tmdb",
       "title": "Blue Whales: Return of the Giants",
@@ -496,6 +717,110 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 184868,
+      "type": "tmdb",
+      "title": "红色娘子军",
+      "originalTitle": "红色娘子军",
+      "description": "海南贫家女吴琼花被残暴的恶霸南霸天活活打个半死昏倒在地，幸得装扮成华侨富商的红军干部洪常青和他手下的及时相救，她才保全性命。伤好后，吴琼花立志投身革命，如愿以偿成为一员娘子军战士。南霸天的寿辰日，洪常青混在众人中来到南府向他贺寿，见来者一身华侨富商打扮并奉上贵重寿礼，南霸天没对洪常青起任何疑心。夜深，吴琼花带领一名女战士化装成丫头潜入南府，准备见机和洪常青以及外面的同志配合一举拿下南霸天，但关键时刻，对南霸天恨之入骨的吴琼花贸然采取了行动。",
+      "releaseDate": "1961-01-30",
+      "backdropPath": "/pltFjs82d7tOuK6yli4gMD2c2BU.jpg",
+      "posterPath": "/hxr6gbQrfzCIHreF5RfZSESyjVN.jpg",
+      "rating": 6.6,
+      "mediaType": "movie",
+      "genreTitle": "战争, 剧情"
+    },
+    {
+      "id": 47046,
+      "type": "tmdb",
+      "title": "祝福",
+      "originalTitle": "สุดเสน่หา",
+      "description": "本片聚焦一名缅甸难民，他的命运与边境小镇两名泰国女性的生活交织在一起。",
+      "releaseDate": "2002-10-08",
+      "backdropPath": "/7a8FmPDj93Nq6AN633vk4RXBUeq.jpg",
+      "posterPath": "/9sQZ68ufbTQNO81iQWH2zeNPQHo.jpg",
+      "rating": 6.457,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1035090,
+      "type": "tmdb",
+      "title": "维米尔·旷世大展",
+      "originalTitle": "Vermeer: The Greatest Exhibition",
+      "description": "2023年春季，阿姆斯特丹国家博物馆呈现有史以来规模最大的维梅尔展览。维梅尔用色独特，爱用群青蓝等昂贵颜料，擅长捕捉室内空间的光与影，以物件与人物的互动呈现岁月静好的人文气氛。观众能以电影形式享受这个一票难求的展览，并由阿姆斯特丹国家博物馆馆长和策展人亲自导赏，展览云集全球不同博物馆藏品，维梅尔35件已知作品中的28件稀世名画，包括著名的《戴珍珠耳环的少女》、《地理学家》、《倒牛奶的女仆》及《窗边读信的少女》等。阿姆斯特丹国家博物馆和海牙莫瑞泰斯皇家美术馆利用现代科技，对维梅尔的创作灵感和绘画过程进行深入研究。观众可在大银幕仔细欣赏维梅尔巨作的细节，并在专业鉴赏下深入了解其生平及创作内幕，沉浸在维梅尔的艺术世界中！",
+      "releaseDate": "2023-04-18",
+      "backdropPath": "/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
+      "posterPath": "/5FvXNMh346rWfNPlFlpgdAQXy8U.jpg",
+      "rating": 7.8,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 586932,
+      "type": "tmdb",
+      "title": "二子开店",
+      "originalTitle": "二子开店",
+      "description": "青年二子（陈佩斯 饰）待业在家，整天无所事事。哥们麻杆闻得居委会有意让他们几个待业青年合伙承包一家小客店，赶来和二子商量。二子觉得这个主意不错，于是和麻杆开始“招兵买马”，他们找来了失业在家的女生英子（张静林 饰）、父母都不在了的大虎和不堪忍受继父虐待的小豆（李楠 饰） 。在二子父母的资金和多方面支持下，这群年轻人终于领会了营业执照，将小客店包了下来。然而，开店后困难接踵而至，这群年轻人最后能否获得成功？",
+      "releaseDate": "1987-01-16",
+      "backdropPath": "/rQjIb9PQd7zwk8AytohbvXOJvX1.jpg",
+      "posterPath": "/o0XaBTXH6c4byfE9MLIdPtMxzGV.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 364530,
+      "type": "tmdb",
+      "title": "红衣少女",
+      "originalTitle": "红衣少女",
+      "description": "女高中生安然（邹倚天 饰）聪明爽朗，能理解深厚博大的情感却不甚了了生活中与利益相关的琐碎规则，她坚信“正义感和诚实”是做人的准则，在班主任语文老师韦婉的课上当众指出了后者教学错误，然而同学们并不支持她。\r 　　米晓玲和刘东虎是和安然走得比较近的同学，他们也有自己的不如意，和安然“姐们”相称的米晓玲因为家庭原因不得不放弃学业改做售货员，同住一栋楼内的刘东虎父母情感不和，面临着家庭的解体……班长祝文娟为人明哲保身，却很受班级上下欢迎。",
+      "releaseDate": "1985-03-01",
+      "backdropPath": null,
+      "posterPath": "/2WIoB1NWbpSiDUti9JwsnpaTIYB.jpg",
+      "rating": 9,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 44061,
+      "type": "tmdb",
+      "title": "早春二月",
+      "originalTitle": "กุมภาพันธ์",
+      "description": "娇坦（索尔德娜帕·塔特朗西 Sopitnapa Dabbaransi 饰）热爱绘画，却一直无法出人头地，被诊断患上绝症之后，娇坦决定前往纽约，换一换心情。在纽约，娇坦不幸的遭遇了车祸，就此结识了善良的泰国青年基（威吉拉·达利亚昆 Vichitra Triyakul 饰），车祸令娇坦失去了所有的记忆，她唯一记得的，只有绘画，自觉着理应为此负责的基决定帮助娇坦找回她的记忆。",
+      "releaseDate": "2003-02-14",
+      "backdropPath": "/3KKd8mLsnk7KdZ82xvcRgZecrpj.jpg",
+      "posterPath": "/AafrFjqXPF45RZFqfEdb1WdDToT.jpg",
+      "rating": 6.125,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1001434,
+      "type": "tmdb",
+      "title": "我这一辈子",
+      "originalTitle": "Ma vie Ma gueule",
+      "description": "",
+      "releaseDate": "2024-09-18",
+      "backdropPath": "/gWyMVLs7YrzRaLWzP9jrSO1Tp1x.jpg",
+      "posterPath": "/iUssfYUO82DRcnFhDIQY6abhOWf.jpg",
+      "rating": 5.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 80854,
+      "type": "tmdb",
+      "title": "茶馆",
+      "originalTitle": "茶馆",
+      "description": "世纪之交的老北京城，巍巍大清气数将尽，苟延残喘。各方势力相继抬头，救国救亡的队伍中各类投机分子时隐时没。老北京城的一个角落里，王利发（陈宝国 饰）经营的裕泰茶馆见证着时代每一个席位的变化，更收纳了汹涌大潮之下多姿百样的平凡众生相。没落势力的庞太监（张惠中 饰）、松二爷（ 石小满 饰），紧抱时代大腿的宋恩子（梁天 饰）、吴翔子（刘惠 饰），以民族救亡为己任的秦二爷（谢刚 饰），生活在底层的社会渣滓刘麻子（崔杰 饰）。三教九流，世间百态，汹涌的历史洪流之中，一出令人唏嘘不已的悲喜剧……\n\n　　本片根据老舍的经典话剧名作改编，由中国电视剧制作中心投入拍摄，何群执导，陈宝国领衔主演，谢钢、周里京、石小满、梁天等人联合主演，2010年7月16日央视八套首播。",
+      "releaseDate": "2010-07-16",
+      "backdropPath": "/piCnDfIrMIkhEup8BnOqjrAxrGW.jpg",
+      "posterPath": "/w4vtWBbIAJ4KUotipvl102mmrLm.jpg",
+      "rating": 9.333,
+      "mediaType": "tv",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1028378,
       "type": "tmdb",
       "title": "Serengeti",
@@ -505,19 +830,6 @@
       "backdropPath": null,
       "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
       "rating": 8.5,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1002640,
-      "type": "tmdb",
-      "title": "海洋之谜",
-      "originalTitle": "Secrets of the Sea",
-      "description": "影片记录了海洋中最奇特、最壮观的生物。在海洋中，每个物种的生存都依赖于许多其他物种。影片通过跟踪研究世界各地海洋生命的奇妙旅程，真实的体现了海洋生物多样性的关键重要，展示了不同海洋物种之间及其环境相互作用的惊人方式。",
-      "releaseDate": "2022-06-08",
-      "backdropPath": null,
-      "posterPath": "/sTpTUZ3usH4685f7pYLIj8QDEp1.jpg",
-      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
