@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-03T20:50:30.888Z",
+  "time": "2026-08-04T20:59:00.662Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
         "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-        "rating": 8.231,
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "喜剧, 动画"
       },
@@ -22,9 +22,9 @@
         "originalTitle": "Spider-Man: Brand New Day",
         "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
         "releaseDate": "2026-07-28",
-        "backdropPath": "/b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg",
+        "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-        "rating": 8,
+        "rating": 7.971,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-14",
         "backdropPath": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
         "posterPath": "/yeZXovyXz9lFrtET2cXwEzmo291.jpg",
-        "rating": 7.333,
+        "rating": 7.301,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-22",
         "backdropPath": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
         "posterPath": "/sGiCVxmqaaZWHJPbQwX137Dirgk.jpg",
-        "rating": 6.608,
+        "rating": 6.526,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.253,
+        "rating": 6.188,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -245,7 +245,7 @@
         "originalTitle": "灿如繁星",
         "description": "讲述了心理学博士林晚星遭遇变故后回到家乡宏景任教，邂逅顶级教练王法，并带领一群垫底差生逆袭追梦，热血救赎的故事。林晚星用“自由式”教育，培养少年们的独立人格，帮助他们学会生活，融洽自我，发现所爱，勇于追求。未来人生里，不远狭路，终见光明。",
         "releaseDate": "2026-07-05",
-        "backdropPath": "/6EpiUiXNmCjZT62e2pLpyaiqB8K.jpg",
+        "backdropPath": "/quOBiesrGvyZbo4AIGFXgev1Ip6.jpg",
         "posterPath": "/jE6xuxwLUojZ2k80rKbv73frWsv.jpg",
         "rating": 8,
         "mediaType": "tv",
@@ -275,7 +275,7 @@
         "releaseDate": "2026-06-05",
         "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "posterPath": "/4GMm608cmS7lmfxLCe2yo9iYoAX.jpg",
-        "rating": 9.4,
+        "rating": 9.417,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       },
@@ -286,7 +286,7 @@
         "originalTitle": "Rick and Morty",
         "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
         "releaseDate": "2026-05-24",
-        "backdropPath": "/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+        "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
         "rating": 7.8,
         "mediaType": "tv",
@@ -327,7 +327,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.261,
+        "rating": 6.304,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
         "posterPath": "/7y1ibpkTwlKYrxFbq3lh2RgIB1k.jpg",
-        "rating": 6.2,
+        "rating": 6.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-06-26",
         "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.618,
+        "rating": 7.743,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 犯罪"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-06-21",
         "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 5.7,
+        "rating": 5.8,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
