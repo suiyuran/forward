@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-04T20:59:00.662Z",
+  "time": "2026-08-05T20:52:27.417Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
         "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-        "rating": 8.2,
+        "rating": 8.231,
         "mediaType": "movie",
         "genreTitle": "喜剧, 动画"
       },
@@ -24,35 +24,9 @@
         "releaseDate": "2026-07-28",
         "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-        "rating": 7.971,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
-      },
-      {
-        "id": 1339713,
-        "type": "tmdb",
-        "title": "痴迷",
-        "originalTitle": "Obsession",
-        "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-        "releaseDate": "2026-05-13",
-        "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-        "rating": 8.248,
-        "mediaType": "movie",
-        "genreTitle": "恐怖, 惊悚"
-      },
-      {
-        "id": 1497823,
-        "type": "tmdb",
-        "title": "德瓦克先生，你相信天使吗？",
-        "originalTitle": "Sie glauben an Engel, Herr Drowak?",
-        "description": "乐观的大学生莉娜·雅克比申请加入一项帮助边缘人群的社工项目，担任写作辅导员。她没想到，自己将步入雨果·德罗瓦克先生那虚无孤独的世界。出乎意料的是，德罗瓦克展现出惊人的写作才华。他的文字令人着迷，却也唤醒了他深藏的黑暗回忆。过去的恶魔卷土重来，几乎将他吞噬。莉娜奋力将他从崩溃边缘拉回，也努力守护心中的善意信念。",
-        "releaseDate": "2026-02-19",
-        "backdropPath": "/4pwEVWaPyGNbSJRF6EQrbfzH2wG.jpg",
-        "posterPath": "/4Tz7zrtyD5HhvpV2XYwcEnDAliN.jpg",
-        "rating": 5.4,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
       },
       {
         "id": 1468683,
@@ -63,7 +37,7 @@
         "releaseDate": "2026-07-14",
         "backdropPath": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
         "posterPath": "/yeZXovyXz9lFrtET2cXwEzmo291.jpg",
-        "rating": 7.301,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -76,7 +50,7 @@
         "releaseDate": "2026-05-21",
         "backdropPath": "/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
         "posterPath": "/9izltMxWdnbUGPti3zAm51SGjwu.jpg",
-        "rating": 6.766,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "爱情, 喜剧"
       },
@@ -89,7 +63,7 @@
         "releaseDate": "2026-07-22",
         "backdropPath": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
         "posterPath": "/sGiCVxmqaaZWHJPbQwX137Dirgk.jpg",
-        "rating": 6.526,
+        "rating": 6.513,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -102,7 +76,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.188,
+        "rating": 6.231,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -187,19 +161,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 233076,
-        "type": "tmdb",
-        "title": "问心",
-        "originalTitle": "问心",
-        "description": "两年后，周筱风援黔归来与林逸、方筱然会合，三人小分队再度并肩作战，但也面对全新挑战。周筱风自身执着奋进且严守医疗原则，机缘之下被破格提拔为东立医院史上最年轻的心内科执行主任。职位的晋升，让他看到了更多可能、面临更大考验，也颠覆了他与林逸方筱然间原本的关系，甚至医院内外的生态平衡也因此被打破。与此同时，他们还需要面对医生永远的对手——病魔。一个接一个的病人与他们身后的家庭期待医护联手拯救。理想与现实时时冲突，无奈和温暖往往共生，他们只有在奋斗中不断成长，继续保持着“问心无愧”。",
-        "releaseDate": "2026-06-18",
-        "backdropPath": "/xBI8m2aYsr9o4vtgbnI7wsewGc6.jpg",
-        "posterPath": "/sEyJgrm80Lad7MRMchh6ZrdoAAi.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 301345,
         "type": "tmdb",
         "title": "京城奇探",
@@ -213,17 +174,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 291392,
+        "id": 276239,
         "type": "tmdb",
-        "title": "野狗骨头",
-        "originalTitle": "野狗骨头",
-        "description": "20世纪90年代，陈异和苗靖因父母的相识而结缘。起初陈异对苗靖充满敌意，直到一次受伤后，苗靖的善良让两人关系开始转变。然而好景不长，陈父去世、苗母消失，两家大人并未走到一起，两个孩子却不得不相依为命。来到大学，苗靖勇敢告白，陈异却被卷入纵火案，成为关键证人，为保护苗靖，他逼她离开了藤城，配合警方抓捕嫌犯。多年后，陈异经营着一家台球厅，苗靖则为了好运物流的审计工作回到藤城。两人重逢，陈异因当年纵火案，对好运老板张宾早就心存警惕，试图阻止苗靖前去工作未果。张宾的走私生意逐渐暴露，为保护苗靖，陈异只能以身入局，两人并肩作战，配合警方对抗张宾。最终，张宾及其同伙受到法律制裁。身受重伤的陈异向苗靖告白，两人终成眷属。",
-        "releaseDate": "2026-07-05",
-        "backdropPath": "/zldji8QZ3HdoosmtUIf59YmDoxZ.jpg",
-        "posterPath": "/ixwG1ECra9rSTuRCql81mkMoLVO.jpg",
-        "rating": 8.8,
+        "title": "非份之罪",
+        "originalTitle": "非份之罪",
+        "description": "人类的欲望，可驱使我们超越自我，然而，当欲望失控，过份贪图金钱与权势、追求不属于自己的爱，非份之想被无限放大，不经意间，便陷入道德矛盾的深渊，犯下种种非份之罪……新界东重案组接连调查几宗案件，包括无脸女尸、石棺禁恋、一亿杀机、危险游戏、肮脏的子弹、恐怖情人，错综复杂的线索、缠绕不清的关系，构成一桩桩匪夷所思的迷案，揭露触摸不透的人性黑暗面。",
+        "releaseDate": "2026-06-29",
+        "backdropPath": "/dpVy32tCvsVENVMjlU4cj7CycG5.jpg",
+        "posterPath": "/2snG7uD9XyccAXlqJI3oTsUgQie.jpg",
+        "rating": 7,
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "犯罪, 悬疑"
       },
       {
         "id": 295558,
@@ -234,64 +195,12 @@
         "releaseDate": "2026-07-11",
         "backdropPath": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
         "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
-        "rating": 6.375,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 285143,
-        "type": "tmdb",
-        "title": "灿如繁星",
-        "originalTitle": "灿如繁星",
-        "description": "讲述了心理学博士林晚星遭遇变故后回到家乡宏景任教，邂逅顶级教练王法，并带领一群垫底差生逆袭追梦，热血救赎的故事。林晚星用“自由式”教育，培养少年们的独立人格，帮助他们学会生活，融洽自我，发现所爱，勇于追求。未来人生里，不远狭路，终见光明。",
-        "releaseDate": "2026-07-05",
-        "backdropPath": "/quOBiesrGvyZbo4AIGFXgev1Ip6.jpg",
-        "posterPath": "/jE6xuxwLUojZ2k80rKbv73frWsv.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 296003,
-        "type": "tmdb",
-        "title": "小芳",
-        "originalTitle": "小芳",
-        "description": "讲述了杨小芳与同村的祁小伟未婚先孕，杨家人紧急回村为小芳出谋划策，祁杨两家态度不一，意外掀起了一场“婚恋风暴”，两家谈判失败，小芳“带球相亲”，却受到全村追捧并引发了一系列让人啼笑皆非的事件。",
-        "releaseDate": "2026-07-13",
-        "backdropPath": "/zz1ehIIZwpkO0GrCkmbrArYFlYj.jpg",
-        "posterPath": "/dF8AzhhHtOLHTmuZ12Wx2if7oz2.jpg",
-        "rating": 8.667,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 家庭"
       }
     ],
     "剧集·国外": [
-      {
-        "id": 276161,
-        "type": "tmdb",
-        "title": "铁拳教育",
-        "originalTitle": "참교육",
-        "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
-        "releaseDate": "2026-06-05",
-        "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-        "posterPath": "/4GMm608cmS7lmfxLCe2yo9iYoAX.jpg",
-        "rating": 9.417,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, 剧情"
-      },
-      {
-        "id": 60625,
-        "type": "tmdb",
-        "title": "瑞克和莫蒂",
-        "originalTitle": "Rick and Morty",
-        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
-        "releaseDate": "2026-05-24",
-        "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
-        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 7.8,
-        "mediaType": "tv",
-        "genreTitle": "动画, 喜剧"
-      },
       {
         "id": 316294,
         "type": "tmdb",
@@ -301,9 +210,35 @@
         "releaseDate": "2026-05-30",
         "backdropPath": "/4L9sftGH7oQ1bpB0aQHERwyfDVd.jpg",
         "posterPath": "/fGarAr85Mc6gxO5OUmzlM6lvd0C.jpg",
-        "rating": 9.1,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
+      },
+      {
+        "id": 286617,
+        "type": "tmdb",
+        "title": "踮起脚尖",
+        "originalTitle": "Tip Toe",
+        "description": "讲述住在曼彻斯特的利奥和克莱夫的故事。利奥在运河街经营一家酒吧，克莱夫是一名电工，有两个十几岁的儿子。 但正当生活应该安定下来时，他们周围的世界却变得越来越紧张。言语变成武器，观点变得激进，两个邻居逐渐成为致命的敌人。",
+        "releaseDate": "2026-05-31",
+        "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+        "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
+        "rating": 6,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 292108,
+        "type": "tmdb",
+        "title": "护工不是人",
+        "originalTitle": "Ann Droid",
+        "description": "在一个AI无处不在的世界里，苏（苏·乔斯顿 饰）的丈夫大卫18个月前去世了，她唯一的儿子迈克尔（保罗·雷迪 饰）搬走了，二手老年护理机器人Linda（戴安·摩根 饰）来到她身边。苏很快意识到机器人可以为她搞定一切，做她儿子永远没时间做的事情。",
+        "releaseDate": "2026-07-17",
+        "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
+        "posterPath": "/rgg7vCZ9HIdT4vYGxOvg84L7ngF.jpg",
+        "rating": 6.438,
+        "mediaType": "tv",
+        "genreTitle": "喜剧"
       },
       {
         "id": 322570,
@@ -330,71 +265,6 @@
         "rating": 6.304,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
-      },
-      {
-        "id": 286617,
-        "type": "tmdb",
-        "title": "踮起脚尖",
-        "originalTitle": "Tip Toe",
-        "description": "讲述住在曼彻斯特的利奥和克莱夫的故事。利奥在运河街经营一家酒吧，克莱夫是一名电工，有两个十几岁的儿子。 但正当生活应该安定下来时，他们周围的世界却变得越来越紧张。言语变成武器，观点变得激进，两个邻居逐渐成为致命的敌人。",
-        "releaseDate": "2026-05-31",
-        "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-        "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 136315,
-        "type": "tmdb",
-        "title": "熊家餐馆",
-        "originalTitle": "The Bear",
-        "description": "卡米离开餐厅后，西德尼、里奇和娜塔莉接手“熊家餐馆”。面对餐厅经营压力与追逐米其林星级的梦想，他们必须携手完成一场决定未来的关键服务。在考验接踵而至之际，他们逐渐明白，这家餐厅最珍贵的，并非料理本身，而是一路同行、彼此扶持的伙伴。",
-        "releaseDate": "2026-06-25",
-        "backdropPath": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
-        "posterPath": "/7y1ibpkTwlKYrxFbq3lh2RgIB1k.jpg",
-        "rating": 6.3,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 296206,
-        "type": "tmdb",
-        "title": "金特务：本色回归",
-        "originalTitle": "김부장",
-        "description": "改编自同名网络漫画，讲述的是原本只想平凡当个父亲的金部长，在挚爱的女儿突然失踪后，不得不揭开自己极力隐藏的真实身份，为了救回女儿不惜一切的故事。",
-        "releaseDate": "2026-06-26",
-        "backdropPath": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-        "posterPath": "/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
-        "rating": 7.743,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, 犯罪"
-      },
-      {
-        "id": 94997,
-        "type": "tmdb",
-        "title": "权力的游戏前传：龙族",
-        "originalTitle": "House of the Dragon",
-        "description": "黑党与绿党为争夺铁王座展开了一场全面而无情的战争。当群龙与大军在王国各地激战时，维斯特洛见证了全面战争带来的毁灭性后果。",
-        "releaseDate": "2026-06-21",
-        "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "posterPath": "/w5iFwPk6h9fv3zxLN2QkxVEVyBw.jpg",
-        "rating": 5.8,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 剧情"
-      },
-      {
-        "id": 255358,
-        "type": "tmdb",
-        "title": "攻壳机动队",
-        "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
-        "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
-        "releaseDate": "2026-07-07",
-        "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
-        "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
-        "rating": 8.5,
-        "mediaType": "tv",
-        "genreTitle": "动画, 动作冒险"
       }
     ]
   }
