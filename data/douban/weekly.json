@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-05T20:52:27.417Z",
+  "time": "2026-08-07T00:48:54.018Z",
   "data": {
     "电影": [
       {
@@ -21,12 +21,38 @@
         "title": "蜘蛛侠：崭新之日",
         "originalTitle": "Spider-Man: Brand New Day",
         "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-        "releaseDate": "2026-07-28",
+        "releaseDate": "2026-07-29",
         "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-        "rating": 8,
+        "rating": 7.914,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
+      },
+      {
+        "id": 1339713,
+        "type": "tmdb",
+        "title": "痴迷",
+        "originalTitle": "Obsession",
+        "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+        "releaseDate": "2026-05-13",
+        "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+        "rating": 8.229,
+        "mediaType": "movie",
+        "genreTitle": "恐怖, 惊悚"
+      },
+      {
+        "id": 1497823,
+        "type": "tmdb",
+        "title": "德瓦克先生，你相信天使吗？",
+        "originalTitle": "Sie glauben an Engel, Herr Drowak?",
+        "description": "乐观的大学生莉娜·雅克比申请加入一项帮助边缘人群的社工项目，担任写作辅导员。她没想到，自己将步入雨果·德罗瓦克先生那虚无孤独的世界。出乎意料的是，德罗瓦克展现出惊人的写作才华。他的文字令人着迷，却也唤醒了他深藏的黑暗回忆。过去的恶魔卷土重来，几乎将他吞噬。莉娜奋力将他从崩溃边缘拉回，也努力守护心中的善意信念。",
+        "releaseDate": "2026-02-19",
+        "backdropPath": "/4pwEVWaPyGNbSJRF6EQrbfzH2wG.jpg",
+        "posterPath": "/4Tz7zrtyD5HhvpV2XYwcEnDAliN.jpg",
+        "rating": 5.4,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
       },
       {
         "id": 1468683,
@@ -37,7 +63,7 @@
         "releaseDate": "2026-07-14",
         "backdropPath": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
         "posterPath": "/yeZXovyXz9lFrtET2cXwEzmo291.jpg",
-        "rating": 7.3,
+        "rating": 7.284,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -63,7 +89,7 @@
         "releaseDate": "2026-07-22",
         "backdropPath": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
         "posterPath": "/sGiCVxmqaaZWHJPbQwX137Dirgk.jpg",
-        "rating": 6.513,
+        "rating": 6.5,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -76,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.231,
+        "rating": 6.319,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -148,6 +174,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 233076,
+        "type": "tmdb",
+        "title": "问心",
+        "originalTitle": "问心",
+        "description": "两年后，周筱风援黔归来与林逸、方筱然会合，三人小分队再度并肩作战，但也面对全新挑战。周筱风自身执着奋进且严守医疗原则，机缘之下被破格提拔为东立医院史上最年轻的心内科执行主任。职位的晋升，让他看到了更多可能、面临更大考验，也颠覆了他与林逸方筱然间原本的关系，甚至医院内外的生态平衡也因此被打破。与此同时，他们还需要面对医生永远的对手——病魔。一个接一个的病人与他们身后的家庭期待医护联手拯救。理想与现实时时冲突，无奈和温暖往往共生，他们只有在奋斗中不断成长，继续保持着“问心无愧”。",
+        "releaseDate": "2026-06-18",
+        "backdropPath": "/xBI8m2aYsr9o4vtgbnI7wsewGc6.jpg",
+        "posterPath": "/sEyJgrm80Lad7MRMchh6ZrdoAAi.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 319703,
         "type": "tmdb",
         "title": "画梦录",
@@ -157,6 +196,19 @@
         "backdropPath": "/zpvVXV5HiKh4PA6TKf5dm5HHe4D.jpg",
         "posterPath": "/g7fD16wdwuBn4UnhEDIp9WOBcnF.jpg",
         "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 291392,
+        "type": "tmdb",
+        "title": "野狗骨头",
+        "originalTitle": "野狗骨头",
+        "description": "20世纪90年代，陈异和苗靖因父母的相识而结缘。起初陈异对苗靖充满敌意，直到一次受伤后，苗靖的善良让两人关系开始转变。然而好景不长，陈父去世、苗母消失，两家大人并未走到一起，两个孩子却不得不相依为命。来到大学，苗靖勇敢告白，陈异却被卷入纵火案，成为关键证人，为保护苗靖，他逼她离开了藤城，配合警方抓捕嫌犯。多年后，陈异经营着一家台球厅，苗靖则为了好运物流的审计工作回到藤城。两人重逢，陈异因当年纵火案，对好运老板张宾早就心存警惕，试图阻止苗靖前去工作未果。张宾的走私生意逐渐暴露，为保护苗靖，陈异只能以身入局，两人并肩作战，配合警方对抗张宾。最终，张宾及其同伙受到法律制裁。身受重伤的陈异向苗靖告白，两人终成眷属。",
+        "releaseDate": "2026-07-05",
+        "backdropPath": "/zldji8QZ3HdoosmtUIf59YmDoxZ.jpg",
+        "posterPath": "/ixwG1ECra9rSTuRCql81mkMoLVO.jpg",
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -198,9 +250,35 @@
         "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 285143,
+        "type": "tmdb",
+        "title": "灿如繁星",
+        "originalTitle": "灿如繁星",
+        "description": "讲述了心理学博士林晚星遭遇变故后回到家乡宏景任教，邂逅顶级教练王法，并带领一群垫底差生逆袭追梦，热血救赎的故事。林晚星用“自由式”教育，培养少年们的独立人格，帮助他们学会生活，融洽自我，发现所爱，勇于追求。未来人生里，不远狭路，终见光明。",
+        "releaseDate": "2026-07-05",
+        "backdropPath": "/quOBiesrGvyZbo4AIGFXgev1Ip6.jpg",
+        "posterPath": "/jE6xuxwLUojZ2k80rKbv73frWsv.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       }
     ],
     "剧集·国外": [
+      {
+        "id": 60625,
+        "type": "tmdb",
+        "title": "瑞克和莫蒂",
+        "originalTitle": "Rick and Morty",
+        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
+        "releaseDate": "2026-05-24",
+        "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
+        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
+        "rating": 7.8,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
+      },
       {
         "id": 316294,
         "type": "tmdb",
@@ -213,6 +291,19 @@
         "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
+      },
+      {
+        "id": 215072,
+        "type": "tmdb",
+        "title": "杀人者的购物中心",
+        "originalTitle": "킬러들의 쇼핑몰",
+        "description": "第二季强势回归：智安接管了武器店，镇万死里逃生，而“巴比伦”组织则陷入了彻底的劣势。为了保护智安，镇万将主动出击，直捣“巴比伦”的大本营；然而，这个雇佣兵组织绝不会轻易认输。颜面尽失的“巴比伦”将从海外调集援手，并派出新一批致命杀手，试图重整旗鼓、实施报复。",
+        "releaseDate": "2026-07-22",
+        "backdropPath": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+        "posterPath": "/bqPkhXWA1kP1OCrN2q2v9up8YXe.jpg",
+        "rating": 9.5,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 动作冒险"
       },
       {
         "id": 286617,
@@ -254,6 +345,19 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
+        "id": 252107,
+        "type": "tmdb",
+        "title": "星城",
+        "originalTitle": "Star City",
+        "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+        "releaseDate": "2026-05-28",
+        "backdropPath": "/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
+        "posterPath": "/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+        "rating": 7.687,
+        "mediaType": "tv",
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
         "id": 241882,
         "type": "tmdb",
         "title": "亡命闺蜜",
@@ -262,9 +366,35 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.304,
+        "rating": 6.357,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
+      },
+      {
+        "id": 136315,
+        "type": "tmdb",
+        "title": "熊家餐馆",
+        "originalTitle": "The Bear",
+        "description": "卡米离开餐厅后，西德尼、里奇和娜塔莉接手“熊家餐馆”。面对餐厅经营压力与追逐米其林星级的梦想，他们必须携手完成一场决定未来的关键服务。在考验接踵而至之际，他们逐渐明白，这家餐厅最珍贵的，并非料理本身，而是一路同行、彼此扶持的伙伴。",
+        "releaseDate": "2026-06-25",
+        "backdropPath": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
+        "posterPath": "/7y1ibpkTwlKYrxFbq3lh2RgIB1k.jpg",
+        "rating": 6.3,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 296756,
+        "type": "tmdb",
+        "title": "柯蒂斯总统",
+        "originalTitle": "President Curtis",
+        "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
+        "releaseDate": "2026-07-26",
+        "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+        "posterPath": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+        "rating": 5.3,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
       }
     ]
   }
