@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-07T17:50:12.239Z",
+  "time": "2026-08-08T17:32:49.832Z",
   "data": [
     {
       "id": 969681,
@@ -10,9 +10,22 @@
       "releaseDate": "2026-07-29",
       "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-      "rating": 7.913,
+      "rating": 7.894,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1724637,
+      "type": "tmdb",
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。  　　影片改编自番大王的同名网络小说。",
+      "releaseDate": "2026-08-07",
+      "backdropPath": null,
+      "posterPath": "/jLqc84CFitC4VHJmFfZlvBuUPKK.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 动画"
     },
     {
       "id": 1541125,
@@ -36,7 +49,7 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.229,
+      "rating": 8.233,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -62,22 +75,9 @@
       "releaseDate": "2026-07-11",
       "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "posterPath": "/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "rating": 6.176,
+      "rating": 6.1,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 1724637,
-      "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。  　　影片改编自番大王的同名网络小说。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": null,
-      "posterPath": "/jLqc84CFitC4VHJmFfZlvBuUPKK.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 动画"
     },
     {
       "id": 1671541,
@@ -91,19 +91,6 @@
       "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "动画, 历史"
-    },
-    {
-      "id": 26466,
-      "type": "tmdb",
-      "title": "恐怖游轮",
-      "originalTitle": "Triangle",
-      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
-      "releaseDate": "2009-10-16",
-      "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
-      "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
-      "rating": 6.915,
-      "mediaType": "movie",
-      "genreTitle": "恐怖"
     },
     {
       "id": 1713529,
@@ -127,9 +114,35 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.109,
+      "rating": 7.108,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
+      "posterPath": "/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
+      "rating": 7.556,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动画"
+    },
+    {
+      "id": 1604133,
+      "type": "tmdb",
+      "title": "四渡",
+      "originalTitle": "四渡",
+      "description": "长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
+      "releaseDate": "2026-06-26",
+      "backdropPath": "/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
+      "posterPath": "/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
+      "rating": 5.4,
+      "mediaType": "movie",
+      "genreTitle": "历史, 战争"
     },
     {
       "id": 1315772,
@@ -140,7 +153,7 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 6.361,
+      "rating": 6.362,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -184,19 +197,6 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1235623,
-      "type": "tmdb",
-      "title": "目中无人2",
-      "originalTitle": "目中无人2",
-      "description": "武艺高强的盲眼捉刀人成瞎子（谢苗 饰）偶然救下了惨遭灭门的张小渔（杨恩又 饰）。在孤儿小渔的软磨硬泡下，成瞎子无奈将其留在身边并教其本领，小渔也等待着时机准备复仇……",
-      "releaseDate": "2024-07-21",
-      "backdropPath": "/bx6LoGl8L3hwgOCoD2H8JgIu7uC.jpg",
-      "posterPath": "/isVAfZn5orLcUwoI1IUWPMWHmPV.jpg",
-      "rating": 6.331,
-      "mediaType": "movie",
-      "genreTitle": "动作, 剧情"
-    },
-    {
       "id": 663558,
       "type": "tmdb",
       "title": "新神榜：哪吒重生",
@@ -208,6 +208,19 @@
       "rating": 8.072,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1235623,
+      "type": "tmdb",
+      "title": "目中无人2",
+      "originalTitle": "目中无人2",
+      "description": "武艺高强的盲眼捉刀人成瞎子（谢苗 饰）偶然救下了惨遭灭门的张小渔（杨恩又 饰）。在孤儿小渔的软磨硬泡下，成瞎子无奈将其留在身边并教其本领，小渔也等待着时机准备复仇……",
+      "releaseDate": "2024-07-21",
+      "backdropPath": "/bx6LoGl8L3hwgOCoD2H8JgIu7uC.jpg",
+      "posterPath": "/isVAfZn5orLcUwoI1IUWPMWHmPV.jpg",
+      "rating": 6.331,
+      "mediaType": "movie",
+      "genreTitle": "动作, 剧情"
     }
   ]
 }
