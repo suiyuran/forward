@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-09T20:16:20.434Z",
+  "time": "2026-08-10T20:27:46.234Z",
   "data": {
     "电影": [
       {
@@ -7,11 +7,11 @@
         "type": "tmdb",
         "title": "奥德赛",
         "originalTitle": "The Odyssey",
-        "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
+        "description": "改编自同名荷马史诗，讲述奥德修斯的故事，以及他在特洛伊战争后10年的回家之旅。",
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.975,
+        "rating": 7.977,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-29",
         "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-        "rating": 7.88,
+        "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
         "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-        "rating": 8.133,
+        "rating": 8.1,
         "mediaType": "movie",
         "genreTitle": "喜剧, 动画"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.555,
+        "rating": 6.671,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -87,9 +87,9 @@
         "originalTitle": "نجوم الأمل و الألم",
         "description": "理想主义者尼诺与伤痕累累的雅斯米娜，这对错位恋人生活在战火纷飞的贝鲁特。当\"是否离开祖国\"的抉择反复撕裂他们的童年、成年与爱情时，一场即将降临的天文异象，将重置所有过往。",
         "releaseDate": "2025-09-05",
-        "backdropPath": "/wPOn1LpeNmzxDgeIh1KQK5Gb8Sb.jpg",
+        "backdropPath": "/3M7Kv36rlSMlkSVH2mLif4CgiLp.jpg",
         "posterPath": "/oC8wi6TtgzYbp4R3tpvd2D1Z3XH.jpg",
-        "rating": 7.938,
+        "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2025-10-29",
         "backdropPath": "/eIAv8gvn1VJGIxGNZ88C8A0bkHl.jpg",
         "posterPath": "/gHCe5fnfeO3Ae7rH8mjtICHXI5B.jpg",
-        "rating": 7,
+        "rating": 7.375,
         "mediaType": "movie",
         "genreTitle": "动画, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-07-24",
         "backdropPath": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
         "posterPath": "/uMnhXLchOwDUdlKxCoPO6ijJbEU.jpg",
-        "rating": 9.294,
+        "rating": 9.265,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
         "posterPath": "/vJGTgRfMOgiuXQGkvo7uJR53C6P.jpg",
-        "rating": 7.876,
+        "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "恐怖"
       }
@@ -314,7 +314,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6,
+        "rating": 6.167,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.44,
+        "rating": 6.446,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-        "rating": 5.3,
+        "rating": 5.708,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
