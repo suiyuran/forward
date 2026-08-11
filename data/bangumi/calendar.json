@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-10T16:50:07.380Z",
+  "time": "2026-08-11T16:53:47.439Z",
   "data": {
     "星期日": [
       {
@@ -85,11 +85,11 @@
         "type": "tmdb",
         "title": "柯蒂斯总统",
         "originalTitle": "President Curtis",
-        "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
+        "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机，从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
-        "posterPath": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-        "rating": 5.409,
+        "posterPath": "/AcriuLMhzvkSDUBzuEvns5WGe8F.jpg",
+        "rating": 5.6,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -180,7 +180,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.538,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/rbxKqzKkw9zrO9lKgqvXHOo4sZo.jpg",
         "posterPath": "/etpSosywRvOO8mds61uv3aSjhDF.jpg",
-        "rating": 8.5,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -273,7 +273,7 @@
         "releaseDate": "2018-07-14",
         "backdropPath": "/pJqAgDico7ZTMAfAXyzldYqj5ME.jpg",
         "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
-        "rating": 7.764,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -325,7 +325,7 @@
         "releaseDate": "2021-08-06",
         "backdropPath": "/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
         "posterPath": "/u4kmpg8y0RSfdNQsetrX8if5fYk.jpg",
-        "rating": 7.1,
+        "rating": 7.081,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
       },
@@ -405,7 +405,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
-        "rating": 8.4,
+        "rating": 8.389,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -457,7 +457,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/sCiAP45k7IvngU9xXdLobauW17f.jpg",
         "posterPath": "/pUQVZGKxODzRNTAD91DK4tu3qZS.jpg",
-        "rating": 6,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -563,7 +563,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.7,
+        "rating": 8.687,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -628,7 +628,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
         "posterPath": "/pwtHWJ2yblGRJenW9THxGGDEjIZ.jpg",
-        "rating": 6.5,
+        "rating": 6.45,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -641,7 +641,7 @@
         "releaseDate": "2025-07-02",
         "backdropPath": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
         "posterPath": "/krx4GwKIWVCtr4MgMeGi4lYkz5x.jpg",
-        "rating": 7.926,
+        "rating": 7.948,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -838,7 +838,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/t9pxS8JUIya68VOIRVAu8rhbGZL.jpg",
         "posterPath": "/r5Vs2r4bYfA0vdju8cQGknLpMF7.jpg",
-        "rating": 8,
+        "rating": 8.667,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -851,7 +851,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/vvbIW2xspYigrgTHTmTSzVDgfKl.jpg",
         "posterPath": "/iqLYkjZS6w9spyJQTRYlPHoDXP7.jpg",
-        "rating": 6.857,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -864,7 +864,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.4,
+        "rating": 8.398,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -981,7 +981,7 @@
         "originalTitle": "死灵法师！我即是天灾",
         "description": "游戏降临现实，世界规则颠覆，人类进入全民转职时代。 唯有成为转职者！升级变强！方能站上世界之巅！ 转职当天，林默语成为唯一性隐藏职业，死灵法师。 从此召唤物不死绝，林默语便不会死。 “我高坐骸骨神座，行走生死之间。” “我即是天灾",
         "releaseDate": "2024-10-01",
-        "backdropPath": null,
+        "backdropPath": "/2PK8olplzWII2xk3ve8LB29rUKb.jpg",
         "posterPath": "/ogSBOrpx5g5neD7r9nmbXaVyx1n.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -1050,7 +1050,7 @@
         "releaseDate": "2004-10-05",
         "backdropPath": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
         "posterPath": "/eTnnHbvI59hUzowsuqpPOtJZFI9.jpg",
-        "rating": 8.368,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -1102,7 +1102,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.784,
+        "rating": 7.787,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1128,7 +1128,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
         "posterPath": "/xh9hNzzadcT0vn9pJMUu5SA2w0c.jpg",
-        "rating": 9.65,
+        "rating": 9.682,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1193,7 +1193,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
         "posterPath": "/o6k2eVEowtfwTKnKvbKUn87LGzX.jpg",
-        "rating": 8.8,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
