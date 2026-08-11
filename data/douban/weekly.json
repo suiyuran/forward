@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-10T20:27:46.234Z",
+  "time": "2026-08-11T20:30:24.601Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.977,
+        "rating": 7.984,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-29",
         "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-        "rating": 7.9,
+        "rating": 7.872,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -48,8 +48,8 @@
         "originalTitle": "Straight Circle",
         "description": "两名驻守在广袤无垠、荒凉沙漠中偏远边境的敌军士兵，在忘记了边境哪边是哪边之后，陷入了深深的迷失状态。当他们努力厘清自己的身份、忠诚以及身处如此荒谬的境地时，他们的孤立无援逐渐演变成一场难以想象的噩梦，这场噩梦将模糊敌友之间的界限。",
         "releaseDate": "2025-09-02",
-        "backdropPath": "/op7pt5Uoz9o9d9MpzqcfJsc1GVo.jpg",
-        "posterPath": "/diQtdB58ZVy2FrIw1iMAzCEv3fE.jpg",
+        "backdropPath": "/cX7F226WqkQ7Ly2GHEdIuGaai0u.jpg",
+        "posterPath": "/oUgvACOtLKLYMzrUsM0llleYm3E.jpg",
         "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "喜剧"
@@ -63,7 +63,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.671,
+        "rating": 6.7,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -88,7 +88,7 @@
         "description": "理想主义者尼诺与伤痕累累的雅斯米娜，这对错位恋人生活在战火纷飞的贝鲁特。当\"是否离开祖国\"的抉择反复撕裂他们的童年、成年与爱情时，一场即将降临的天文异象，将重置所有过往。",
         "releaseDate": "2025-09-05",
         "backdropPath": "/3M7Kv36rlSMlkSVH2mLif4CgiLp.jpg",
-        "posterPath": "/oC8wi6TtgzYbp4R3tpvd2D1Z3XH.jpg",
+        "posterPath": "/fUkofmwu478KXd2KhPlAyUuxJJS.jpg",
         "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "爱情, 剧情"
@@ -115,7 +115,7 @@
         "releaseDate": "2026-07-24",
         "backdropPath": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
         "posterPath": "/uMnhXLchOwDUdlKxCoPO6ijJbEU.jpg",
-        "rating": 9.265,
+        "rating": 9.272,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
         "posterPath": "/vJGTgRfMOgiuXQGkvo7uJR53C6P.jpg",
-        "rating": 7.9,
+        "rating": 7.872,
         "mediaType": "movie",
         "genreTitle": "恐怖"
       }
@@ -314,7 +314,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.167,
+        "rating": 6.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-07-17",
         "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
         "posterPath": "/rgg7vCZ9HIdT4vYGxOvg84L7ngF.jpg",
-        "rating": 6.556,
+        "rating": 6.474,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-        "rating": 5.708,
+        "rating": 5.56,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
