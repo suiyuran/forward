@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-11T16:53:47.439Z",
+  "time": "2026-08-12T16:53:03.297Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
         "posterPath": "/canvlHpMsrzmGXbJDgjfapqODg1.jpg",
-        "rating": 8.8,
+        "rating": 8.643,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/u7LWdKmEdEr6Ui3GZMsFGlKZQBd.jpg",
-        "rating": 8.5,
+        "rating": 8.456,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -172,6 +172,19 @@
         "genreTitle": "动画, 动作冒险"
       },
       {
+        "id": 331481,
+        "type": "tmdb",
+        "title": "同じゼミの染谷さんがセクシー女優だった話。",
+        "originalTitle": "同じゼミの染谷さんがセクシー女優だった話。",
+        "description": "",
+        "releaseDate": "2026-07-05",
+        "backdropPath": "/8jwURq2AVsm6EyobwiYZdgax5yg.jpg",
+        "posterPath": "/ubyTmZ07KQ8N9JLjoFdhuev9ANf.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画"
+      },
+      {
         "id": 278043,
         "type": "tmdb",
         "title": "正相反的你与我",
@@ -180,7 +193,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.5,
+        "rating": 8.575,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -312,7 +325,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
         "posterPath": "/6RnaxEBtjFJO2jx8qx7ibMJri5H.jpg",
-        "rating": 6.2,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -338,7 +351,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
         "posterPath": "/2niOCxDblN9fTL33zGmphQ0zmMW.jpg",
-        "rating": 7,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -483,7 +496,7 @@
         "releaseDate": "2026-07-08",
         "backdropPath": "/pHzcs5Ru1lwoVcQsPA5lNYlxJy2.jpg",
         "posterPath": "/wWlfBMTA7VygmYC4KUg2qLWJGmv.jpg",
-        "rating": 8.3,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -545,12 +558,12 @@
         "id": 139512,
         "type": "tmdb",
         "title": "恋爱游戏世界对路人角色很不友好",
-        "originalTitle": "⼄⼥ゲー世界はモブに厳しい世界です",
+        "originalTitle": "乙女ゲー世界はモブに厳しい世界です",
         "description": "作为职场人士的里昂，转生到了某个剑与魔法的“乙女游戏”世界。那里是一个极度重女轻男的世界，唯一的例外是游戏中曾作为攻略对象的王太子率领的帅哥军团。然而，对于遭受压迫、陷入绝望的里昂来说，他拥有一件武器——那就是前世被妹妹强行要求攻略这款游戏时积累的“知识”。原本计划作为路人角色在乡下悠闲度日的里昂，却利用对游戏的了解，在不知不觉中向那些为所欲为的女性和帅哥军团举起了反旗。",
         "releaseDate": "2022-04-03",
         "backdropPath": "/c0oFoz7PttzMLsQOQn54Lcu8V9d.jpg",
         "posterPath": "/oHraANBb1gOU425bk26CgZtPP5H.jpg",
-        "rating": 7.495,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -563,7 +576,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.687,
+        "rating": 8.684,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -654,7 +667,7 @@
         "releaseDate": "2026-07-08",
         "backdropPath": "/irM3WhxOorkklhx5To9cfG2ktM6.jpg",
         "posterPath": "/1SMRFZdToK2JUXgw9KTQ1y3cE3n.jpg",
-        "rating": 7.8,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -760,20 +773,20 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
-        "rating": 8.643,
+        "rating": 8.533,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 296286,
         "type": "tmdb",
-        "title": "在超市后门吸烟的二人",
+        "title": "躲在超市后门抽烟的两人",
         "originalTitle": "スーパーの裏でヤニ吸うふたり",
         "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9.1,
+        "rating": 9.063,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -799,7 +812,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/4ZqDVtJAG1NK7tWTUETlxE973Fl.jpg",
         "posterPath": "/g2rOrzJ2CrjuJeNErWJ1p1jGq6g.jpg",
-        "rating": 8,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -838,7 +851,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/t9pxS8JUIya68VOIRVAu8rhbGZL.jpg",
         "posterPath": "/r5Vs2r4bYfA0vdju8cQGknLpMF7.jpg",
-        "rating": 8.667,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -864,7 +877,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.398,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -918,7 +931,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/pEhFkDyRMpUZr1lwmmPFVGzdgNl.jpg",
         "posterPath": "/oz6Aet1VmsjxA70oGIhiaNnXxuk.jpg",
-        "rating": 6.9,
+        "rating": 7.056,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
       },
@@ -931,7 +944,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/YZQGBP5nXPG3JjLoccdA13Oeea.jpg",
         "posterPath": "/v1N1TEfAKdaPAsiJ0RwxMBYmRCU.jpg",
-        "rating": 9,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1011,7 +1024,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8.012,
+        "rating": 8.015,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -1167,7 +1180,7 @@
         "releaseDate": "2026-07-12",
         "backdropPath": "/gnuFIVt3FG8QGQg3ODE7wQUXHoV.jpg",
         "posterPath": "/iCcg8wDAoq4YHQOvsJXYzUe2FEc.jpg",
-        "rating": 6.8,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
