@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-12T20:28:11.491Z",
+  "time": "2026-08-13T20:26:12.076Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.993,
+        "rating": 7.994,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-29",
         "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-        "rating": 7.863,
+        "rating": 7.866,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.705,
+        "rating": 6.725,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-07-24",
         "backdropPath": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
         "posterPath": "/uMnhXLchOwDUdlKxCoPO6ijJbEU.jpg",
-        "rating": 9.273,
+        "rating": 9.278,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
         "posterPath": "/vJGTgRfMOgiuXQGkvo7uJR53C6P.jpg",
-        "rating": 7.901,
+        "rating": 7.917,
         "mediaType": "movie",
         "genreTitle": "恐怖"
       }
@@ -156,7 +156,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/hMAew4hKxZJeqqvYljhLpvS4OZA.jpg",
         "posterPath": "/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
-        "rating": 9,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "悬疑"
       },
@@ -221,7 +221,7 @@
         "releaseDate": "2026-07-11",
         "backdropPath": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
         "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
-        "rating": 8.3,
+        "rating": 8.25,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-08-04",
         "backdropPath": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
         "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
-        "rating": 4.7,
+        "rating": 5.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-07-22",
         "backdropPath": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
         "posterPath": "/bqPkhXWA1kP1OCrN2q2v9up8YXe.jpg",
-        "rating": 9.4,
+        "rating": 9.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.2,
+        "rating": 6.167,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -388,11 +388,11 @@
         "type": "tmdb",
         "title": "狂怒追缉",
         "originalTitle": "Furious",
-        "description": "联邦调查局探员艾莉丝追捕着一名神秘又工于心计的女性连环杀手凯瑟琳。两人同样踏上追求正义的道路，但随着命运交织，是非的界线也开始模糊 。",
+        "description": "一名是誓言缉凶的联邦调查局探员艾莉丝，一名是神秘狡猾的女性连环杀手凯萨琳。两人皆以自己的方式伸张正义，当她们的命运开始交织，是非对错的界线也随之模糊。",
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 6.667,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
