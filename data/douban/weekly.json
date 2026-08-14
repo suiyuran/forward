@@ -1,7 +1,20 @@
 {
-  "time": "2026-08-13T20:26:12.076Z",
+  "time": "2026-08-14T20:18:26.035Z",
   "data": {
     "电影": [
+      {
+        "id": 1391021,
+        "type": "tmdb",
+        "title": "欢迎来龙餐馆",
+        "originalTitle": "欢迎来龙餐馆",
+        "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
+        "releaseDate": "2026-08-08",
+        "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
+        "posterPath": "/blpRVNJ9iHtobHOi6rIkQzSWlWv.jpg",
+        "rating": 9,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 战争"
+      },
       {
         "id": 1368337,
         "type": "tmdb",
@@ -11,9 +24,22 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.994,
+        "rating": 7.997,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
+      },
+      {
+        "id": 1724637,
+        "type": "tmdb",
+        "title": "去你的岛",
+        "originalTitle": "去你的岛",
+        "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
+        "releaseDate": "2026-08-07",
+        "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
+        "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
+        "rating": 7,
+        "mediaType": "movie",
+        "genreTitle": "爱情, 动画"
       },
       {
         "id": 969681,
@@ -23,23 +49,23 @@
         "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
         "releaseDate": "2026-07-29",
         "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "posterPath": "/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-        "rating": 7.866,
+        "posterPath": "/5U6DXVO09tDB4YSTFbORu1rdR0J.jpg",
+        "rating": 7.88,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
       {
-        "id": 1633056,
+        "id": 950028,
         "type": "tmdb",
-        "title": "八仙！",
-        "originalTitle": "八仙！",
-        "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
-        "releaseDate": "2026-07-10",
-        "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
-        "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-        "rating": 8.1,
+        "title": "激情邀约",
+        "originalTitle": "The Invite",
+        "description": "影片改编自西班牙电影《多愁善感》，是一部关于夫妻关系的讽刺喜剧。影片讲述的是“一对夫妇邀请邻居过来，点燃了一场充满意想不到的转折的夜晚，揭示了深藏的情感和未被探索的性欲。”",
+        "releaseDate": "2026-06-25",
+        "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
+        "rating": 7.5,
         "mediaType": "movie",
-        "genreTitle": "喜剧, 动画"
+        "genreTitle": "喜剧, 剧情"
       },
       {
         "id": 1433601,
@@ -55,6 +81,19 @@
         "genreTitle": "喜剧"
       },
       {
+        "id": 1119548,
+        "type": "tmdb",
+        "title": "一切从头来过",
+        "originalTitle": "La Condition",
+        "description": "改编自小说《莱昂诺尔·德·雷孔多之恋》。当他的妻子安睡时，公证人安塞尔姆奸污了年轻的女仆塞莱斯特，使她怀孕。为了维护大家的名誉，维克多利亚决定收养这个孩子。但她没有母性本能，新生儿日渐消瘦。塞莱斯特偷偷地温柔地照顾着她的孩子。一天夜里，维克多利亚在阁楼下的房间里发现了他们……",
+        "releaseDate": "2025-12-10",
+        "backdropPath": "/sq4KQ8CXOFr02KI2XWIZvkpJXui.jpg",
+        "posterPath": "/rKxnJGcEmHJaYeleqOVqoX2twIa.jpg",
+        "rating": 6,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 历史"
+      },
+      {
         "id": 1564614,
         "type": "tmdb",
         "title": "利未记",
@@ -63,74 +102,35 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.725,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
       {
-        "id": 1413805,
+        "id": 1630435,
         "type": "tmdb",
-        "title": "阿拉巴马解决方案",
-        "originalTitle": "The Alabama Solution",
-        "description": "身陷囹圄的囚徒们克服万难，揭露了美国最致命的监狱体系中一项被掩盖的真相。",
-        "releaseDate": "2025-01-28",
-        "backdropPath": "/s9oWvDQoVka7Zisi3rmJ3Lj9WA.jpg",
-        "posterPath": "/mZCP4LbkMqITrEMNG1Nk1yUnXii.jpg",
-        "rating": 6.858,
+        "title": "废用身",
+        "originalTitle": "廃用身",
+        "description": "本作描绘了一名医生，因一种围绕“废用身”——因瘫痪等原因已无恢复可能的四肢——的治疗方法，而一步步踏入在追求理想的理性与疯狂之间摇摆的危险领域。在某座城镇的日间照护中心里，一种突破性的疗法在老年人之间悄然流传：对患者进行废用身切除后，不仅“身体和心情都变轻松了”，甚至“原本严厉的性格也变得温和”，出现了看似积极的副作用。听闻此事的编辑矢仓察觉到其可能为老年医疗带来革命性变革，遂向开发该疗法的院长漆原提出出书邀约。然而，关于该照护中心的内部举报被泄露至周刊杂志，加之患者家中发生的一起事件，事态骤然逆转，真相逐渐陷入黑暗。 　　本片改编自久坂部羊的同名原著小说。",
+        "releaseDate": "2026-05-15",
+        "backdropPath": "/fAeLdAfBLN6jLwaMFlLwKelGbFb.jpg",
+        "posterPath": "/qhlb10B6XguYkVXCLShB3pFSymi.jpg",
+        "rating": 8.7,
         "mediaType": "movie",
-        "genreTitle": "纪录"
+        "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 1376838,
+        "id": 1404169,
         "type": "tmdb",
-        "title": "一个悲伤而美丽的世界",
-        "originalTitle": "نجوم الأمل و الألم",
-        "description": "理想主义者尼诺与伤痕累累的雅斯米娜，这对错位恋人生活在战火纷飞的贝鲁特。当\"是否离开祖国\"的抉择反复撕裂他们的童年、成年与爱情时，一场即将降临的天文异象，将重置所有过往。",
-        "releaseDate": "2025-09-05",
-        "backdropPath": "/3M7Kv36rlSMlkSVH2mLif4CgiLp.jpg",
-        "posterPath": "/fUkofmwu478KXd2KhPlAyUuxJJS.jpg",
-        "rating": 7.9,
+        "title": "太空见习生",
+        "originalTitle": "Space Cadet",
+        "description": "当宇航员塞莱斯特踏上她的首次单独太空之旅时，那个陪伴她度过整个童年的守护机器人被独自留下，陷入了沉思：未来该何去何从？这是一部宛如明日摇篮曲的故事，讲述着在浩瀚宇宙中寻找自己位置的心路历程。",
+        "releaseDate": "2026-02-20",
+        "backdropPath": "/xprL040VY3rZYxuanOpJB0gNVx1.jpg",
+        "posterPath": "/jl62ODVKOxM6PdnzhUp1zeT5cFw.jpg",
+        "rating": 5.8,
         "mediaType": "movie",
-        "genreTitle": "爱情, 剧情"
-      },
-      {
-        "id": 1470329,
-        "type": "tmdb",
-        "title": "世外",
-        "originalTitle": "世外",
-        "description": "人死后，轮回之前，亡魂会来到一处奇异之地——“世外”。灵守日复一日引领亡魂去投胎，直至一天，灵守小鬼遇上了不愿转世的小妹，让不懂人类情感的小鬼看到了不再一样的“世外”。在带领小妹转世的路途上，小鬼揭示了她前世的遗憾，亦触发了难以逆转的诅咒——若小妹完全被忿恨支配，不论世外、人间，将与她一同灰飞烟灭⋯⋯为了小妹，小鬼得到天女的允许，与武功高强的黑天踏上横跨千年的征途，纵然在路上危机四伏，他仍不惜多次舍身相救，只为了小妹能忘记过去的伤痛，并原谅自己，一身轻盈，走上轮回转世之路⋯⋯",
-        "releaseDate": "2025-10-29",
-        "backdropPath": "/eIAv8gvn1VJGIxGNZ88C8A0bkHl.jpg",
-        "posterPath": "/gHCe5fnfeO3Ae7rH8mjtICHXI5B.jpg",
-        "rating": 7.375,
-        "mediaType": "movie",
-        "genreTitle": "动画, 剧情"
-      },
-      {
-        "id": 980431,
-        "type": "tmdb",
-        "title": "安昂传奇：最后的气宗",
-        "originalTitle": "Avatar Aang: The Last Airbender",
-        "description": "派拉蒙和尼克宣布“降世神通”系列开发三部新的电影，仍是动画形式。第一部由《降世神通：最后的气宗》导演Lauren Montgomery执导，《最后的气宗》主创Bryan Konietzko和Michael DiMartino担任制片人。",
-        "releaseDate": "2026-07-24",
-        "backdropPath": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-        "posterPath": "/uMnhXLchOwDUdlKxCoPO6ijJbEU.jpg",
-        "rating": 9.278,
-        "mediaType": "movie",
-        "genreTitle": "动画, 动作"
-      },
-      {
-        "id": 1212763,
-        "type": "tmdb",
-        "title": "鬼玩人：炼狱",
-        "originalTitle": "Evil Dead Burn",
-        "description": "爱丽丝在丈夫骤然离世后深陷悲痛，受邀前往公婆的乡间庄园暂住，试图和丈夫的家人互相慰藉，一同走出丧亲的阴霾。可入住没多久，诡异状况便接连爆发，庄园里怪事频发，身边的亲人举止日渐反常。很快，恶灵诅咒席卷整座宅邸，身边的人一个接一个被侵蚀异化，变成面目焦黑、嗜血狂暴的死徒。她逐渐发现，当年婚礼上许下的婚姻誓言并未随丈夫的死亡消散，反而成了缠绕整个家族的恶灵契约。被困在庄园里的她，必须在亲人彻底沦陷前，在遍地死徒的绝境里拼杀求生。",
-        "releaseDate": "2026-07-07",
-        "backdropPath": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-        "posterPath": "/vJGTgRfMOgiuXQGkvo7uJR53C6P.jpg",
-        "rating": 7.917,
-        "mediaType": "movie",
-        "genreTitle": "恐怖"
+        "genreTitle": "动画, 家庭"
       }
     ],
     "剧集·国内": [
@@ -156,7 +156,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/hMAew4hKxZJeqqvYljhLpvS4OZA.jpg",
         "posterPath": "/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
-        "rating": 8.5,
+        "rating": 8.333,
         "mediaType": "tv",
         "genreTitle": "悬疑"
       },
@@ -221,7 +221,7 @@
         "releaseDate": "2026-07-11",
         "backdropPath": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
         "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
-        "rating": 8.25,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-08-04",
         "backdropPath": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
         "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
-        "rating": 5.1,
+        "rating": 5.2,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -323,11 +323,11 @@
         "type": "tmdb",
         "title": "护工不是人",
         "originalTitle": "Ann Droid",
-        "description": "在一个AI无处不在的世界里，苏（苏·乔斯顿 饰）的丈夫大卫18个月前去世了，她唯一的儿子迈克尔（保罗·雷迪 饰）搬走了，二手老年护理机器人Linda（戴安·摩根 饰）来到她身边。苏很快意识到机器人可以为她搞定一切，做她儿子永远没时间做的事情。",
+        "description": "在一个AI无处不在的世界里，苏的丈夫大卫18个月前去世了，她唯一的儿子迈克尔搬走了，二手老年护理机器人琳达来到她身边。苏很快意识到机器人可以为她搞定一切，做她儿子永远没时间做的事情。",
         "releaseDate": "2026-07-17",
         "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
-        "posterPath": "/rgg7vCZ9HIdT4vYGxOvg84L7ngF.jpg",
-        "rating": 6.474,
+        "posterPath": "/rIuA73tNABKewuMMtpIt1Cq6fHh.jpg",
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
@@ -365,7 +365,7 @@
         "description": "这是一部黑色喜剧，讲述了一对因出卖家庭而走红的网红夫妇，以及一对正在经历混乱离婚诉讼的邻居医生夫妇，随着他们卷入一个无法控制的秘密，一系列冲突不断升级，甚至连婚外情都显得微不足道。",
         "releaseDate": "2026-07-31",
         "backdropPath": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
-        "posterPath": "/xBSDiZJ2DBrgkxugSV6xD4ZomW1.jpg",
+        "posterPath": "/jQ9mNZfvnGzXIedlT5IpBVhAzUi.jpg",
         "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "犯罪, 喜剧"
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 6.7,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
