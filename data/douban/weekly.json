@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-14T20:18:26.035Z",
+  "time": "2026-08-15T20:07:24.204Z",
   "data": {
     "电影": [
       {
@@ -10,8 +10,8 @@
         "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-        "posterPath": "/blpRVNJ9iHtobHOi6rIkQzSWlWv.jpg",
-        "rating": 9,
+        "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+        "rating": 9.2,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.997,
+        "rating": 7.998,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-07-29",
         "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "posterPath": "/5U6DXVO09tDB4YSTFbORu1rdR0J.jpg",
-        "rating": 7.88,
+        "rating": 7.888,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.5,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.8,
+        "rating": 6.83,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -181,7 +181,7 @@
         "description": "两年后，周筱风援黔归来与林逸、方筱然会合，三人小分队再度并肩作战，但也面对全新挑战。周筱风自身执着奋进且严守医疗原则，机缘之下被破格提拔为东立医院史上最年轻的心内科执行主任。职位的晋升，让他看到了更多可能、面临更大考验，也颠覆了他与林逸方筱然间原本的关系，甚至医院内外的生态平衡也因此被打破。与此同时，他们还需要面对医生永远的对手——病魔。一个接一个的病人与他们身后的家庭期待医护联手拯救。理想与现实时时冲突，无奈和温暖往往共生，他们只有在奋斗中不断成长，继续保持着“问心无愧”。",
         "releaseDate": "2026-06-18",
         "backdropPath": "/xBI8m2aYsr9o4vtgbnI7wsewGc6.jpg",
-        "posterPath": "/sEyJgrm80Lad7MRMchh6ZrdoAAi.jpg",
+        "posterPath": "/oCwfg5xVsUh9Yg4R51DtE1hmKys.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 6.8,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
