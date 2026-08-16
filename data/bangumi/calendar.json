@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-15T16:18:19.139Z",
+  "time": "2026-08-16T16:18:34.706Z",
   "data": {
     "星期日": [
       {
@@ -115,7 +115,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/93G5xLkTan3fdkUzQVvCcf8IAMx.jpg",
         "posterPath": "/5vhYO0hMacNlyNDaYlS2HRXOtoZ.jpg",
-        "rating": 2,
+        "rating": 4.667,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
         "posterPath": "/zlDw5KbBQ9LOz5ul3zx3CKaFgFi.jpg",
-        "rating": 8.259,
+        "rating": 8.268,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -198,19 +198,6 @@
         "genreTitle": "动画, 喜剧"
       },
       {
-        "id": 1738083,
-        "type": "tmdb",
-        "title": "天子传奇：洪武大帝",
-        "originalTitle": "天子传奇：洪武大帝",
-        "description": "玄族铁骑入主中原，玄朝为固江山大肆清剿各派，武林衰败、民不聊生，世间深陷黑暗。天翔五灵骤然现世，传言集齐便可执掌天下。玄廷十三翼重临中原，乱世中，一名乞丐的改天换地传奇自此开篇。",
-        "releaseDate": "2026-07-26",
-        "backdropPath": "/cTnqMN2JoNbktbBB4rqGKVxuXax.jpg",
-        "posterPath": "/acMNWEIYWnZleEHKIVpzb20kTzP.jpg",
-        "rating": 0,
-        "mediaType": "movie",
-        "genreTitle": "动画, 动作"
-      },
-      {
         "id": 56559,
         "type": "tmdb",
         "title": "暗芝居",
@@ -250,19 +237,6 @@
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
-      },
-      {
-        "id": 1734734,
-        "type": "tmdb",
-        "title": "天子传奇：姬发篇",
-        "originalTitle": "天子传奇：姬发篇",
-        "description": "天赋神力，被纣王忌惮，姬发为护亲友数次暴走，力量失控，生命垂危。死师父，失朋友，丧母亲，天降大任，磨砺少年灭商伐纣成仁之路。",
-        "releaseDate": "2026-07-20",
-        "backdropPath": "/miPUG1vHz0dldr3bRETEtRduSPw.jpg",
-        "posterPath": "/vNyMyBcXR2ZmXvz9eeTZpVJfBvi.jpg",
-        "rating": 0,
-        "mediaType": "movie",
-        "genreTitle": "动画, 动作"
       },
       {
         "id": 123528,
@@ -537,7 +511,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.751,
+        "rating": 8.752,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -550,7 +524,7 @@
         "releaseDate": "2017-01-06",
         "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
         "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
-        "rating": 8.228,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -576,7 +550,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.682,
+        "rating": 8.688,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -641,7 +615,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
         "posterPath": "/pwtHWJ2yblGRJenW9THxGGDEjIZ.jpg",
-        "rating": 6.45,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -786,7 +760,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 8.903,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -877,7 +851,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.48,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1063,20 +1037,20 @@
         "releaseDate": "2004-10-05",
         "backdropPath": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
         "posterPath": "/eTnnHbvI59hUzowsuqpPOtJZFI9.jpg",
-        "rating": 8.4,
+        "rating": 8.368,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
       {
         "id": 287075,
         "type": "tmdb",
-        "title": "魔法少女奈叶 EXCEEDS复仇枪焰",
+        "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
         "originalTitle": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
         "description": "三十年前，未知的“侵略性外来生物”突然出现，世界曾一度濒临毁灭。人类与这些被称为“侵略种”的生物相互争夺生存空间。虽然目前人类的安全勉强得到了保障，但世界随时可能走向终结。人们在恐惧死亡与毁灭的同时，只能对危险和灾难视而不见，麻木地过着日常生活。在这样的世界里，联合国危险生物调查机构“EXCEEDS”为了抵御“侵略种”带来的危机与灾害，开始了行动。故事的开端位于远东的岛国“瑞穗”。一位在离岛上生活、以驱除“侵略种”为业的猎人少女——久濑椎名。她唯一的愿望就是与家中唯一的亲人妹妹刹那平静地生活下去。然而，降临在椎名身上的事件究竟是——？",
         "releaseDate": "2026-07-05",
         "backdropPath": "/8oDXuGfRiNPMZc1eYc9O8gIm7nb.jpg",
         "posterPath": "/6FTC8b0V0xdCQrT4929HPdPnoYo.jpg",
-        "rating": 7,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1102,7 +1076,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.46,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1115,7 +1089,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.781,
+        "rating": 7.783,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1141,7 +1115,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
         "posterPath": "/xh9hNzzadcT0vn9pJMUu5SA2w0c.jpg",
-        "rating": 9.72,
+        "rating": 9.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
