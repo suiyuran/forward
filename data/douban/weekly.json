@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-15T20:07:24.204Z",
+  "time": "2026-08-16T20:06:51.717Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.2,
+        "rating": 9.286,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.998,
+        "rating": 7.99,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-07-29",
         "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "posterPath": "/5U6DXVO09tDB4YSTFbORu1rdR0J.jpg",
-        "rating": 7.888,
+        "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -61,7 +61,7 @@
         "originalTitle": "The Invite",
         "description": "影片改编自西班牙电影《多愁善感》，是一部关于夫妻关系的讽刺喜剧。影片讲述的是“一对夫妇邀请邻居过来，点燃了一场充满意想不到的转折的夜晚，揭示了深藏的情感和未被探索的性欲。”",
         "releaseDate": "2026-06-25",
-        "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "backdropPath": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
         "rating": 7.4,
         "mediaType": "movie",
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.83,
+        "rating": 6.808,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-08-04",
         "backdropPath": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
         "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
-        "rating": 5.2,
+        "rating": 5.4,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.167,
+        "rating": 6.16,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
