@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-16T20:06:51.717Z",
+  "time": "2026-08-17T20:11:55.019Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.286,
+        "rating": 9.25,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -20,11 +20,11 @@
         "type": "tmdb",
         "title": "奥德赛",
         "originalTitle": "The Odyssey",
-        "description": "改编自同名荷马史诗，讲述奥德修斯的故事，以及他在特洛伊战争后10年的回家之旅。",
+        "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
         "releaseDate": "2026-07-15",
-        "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "backdropPath": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.99,
+        "rating": 7.992,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -49,8 +49,8 @@
         "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
         "releaseDate": "2026-07-29",
         "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "posterPath": "/5U6DXVO09tDB4YSTFbORu1rdR0J.jpg",
-        "rating": 7.9,
+        "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
+        "rating": 7.876,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.4,
+        "rating": 7.411,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.808,
+        "rating": 6.854,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -299,7 +299,7 @@
         "originalTitle": "Ted Lasso",
         "description": "丽贝卡重新聘用泰德，执教里士满二线女子足球队灰狗女足。即便泰德已是资深教练，前路依旧充满挑战：全新队员、野心各异的球员、外界普遍不看好，他与比尔德教练将迎来全新征程。",
         "releaseDate": "2026-08-04",
-        "backdropPath": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "backdropPath": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
         "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
         "rating": 5.4,
         "mediaType": "tv",
@@ -340,7 +340,7 @@
         "releaseDate": "2026-07-22",
         "backdropPath": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
         "posterPath": "/bqPkhXWA1kP1OCrN2q2v9up8YXe.jpg",
-        "rating": 9.3,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.16,
+        "rating": 6.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 6.9,
+        "rating": 6.911,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
