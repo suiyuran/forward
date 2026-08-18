@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-17T20:11:55.019Z",
+  "time": "2026-08-18T20:08:51.619Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.992,
+        "rating": 7.994,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -48,9 +48,9 @@
         "originalTitle": "Spider-Man: Brand New Day",
         "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
         "releaseDate": "2026-07-29",
-        "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "backdropPath": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
         "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-        "rating": 7.876,
+        "rating": 7.881,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -61,9 +61,9 @@
         "originalTitle": "The Invite",
         "description": "影片改编自西班牙电影《多愁善感》，是一部关于夫妻关系的讽刺喜剧。影片讲述的是“一对夫妇邀请邻居过来，点燃了一场充满意想不到的转折的夜晚，揭示了深藏的情感和未被探索的性欲。”",
         "releaseDate": "2026-06-25",
-        "backdropPath": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+        "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.411,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2025-09-02",
         "backdropPath": "/cX7F226WqkQ7Ly2GHEdIuGaai0u.jpg",
         "posterPath": "/oUgvACOtLKLYMzrUsM0llleYm3E.jpg",
-        "rating": 7.5,
+        "rating": 6.75,
         "mediaType": "movie",
         "genreTitle": "喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.854,
+        "rating": 6.792,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/fAeLdAfBLN6jLwaMFlLwKelGbFb.jpg",
         "posterPath": "/qhlb10B6XguYkVXCLShB3pFSymi.jpg",
-        "rating": 8.7,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "剧情, 悬疑"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-24",
         "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 7.8,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -299,7 +299,7 @@
         "originalTitle": "Ted Lasso",
         "description": "丽贝卡重新聘用泰德，执教里士满二线女子足球队灰狗女足。即便泰德已是资深教练，前路依旧充满挑战：全新队员、野心各异的球员、外界普遍不看好，他与比尔德教练将迎来全新征程。",
         "releaseDate": "2026-08-04",
-        "backdropPath": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+        "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
         "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
         "rating": 5.4,
         "mediaType": "tv",
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 6.911,
+        "rating": 6.979,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
