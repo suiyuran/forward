@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-18T20:08:51.619Z",
+  "time": "2026-08-19T20:11:27.583Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.994,
+        "rating": 7.985,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -48,9 +48,9 @@
         "originalTitle": "Spider-Man: Brand New Day",
         "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
         "releaseDate": "2026-07-29",
-        "backdropPath": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+        "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-        "rating": 7.881,
+        "rating": 7.885,
         "mediaType": "movie",
         "genreTitle": "科幻, 动作"
       },
@@ -61,9 +61,9 @@
         "originalTitle": "The Invite",
         "description": "影片改编自西班牙电影《多愁善感》，是一部关于夫妻关系的讽刺喜剧。影片讲述的是“一对夫妇邀请邻居过来，点燃了一场充满意想不到的转折的夜晚，揭示了深藏的情感和未被探索的性欲。”",
         "releaseDate": "2026-06-25",
-        "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "backdropPath": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.4,
+        "rating": 7.366,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.792,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -161,19 +161,6 @@
         "genreTitle": "悬疑"
       },
       {
-        "id": 311881,
-        "type": "tmdb",
-        "title": "欠你的那场婚礼",
-        "originalTitle": "欠妳的那場婚禮",
-        "description": "曾经凭一张帅脸与音乐才华风靡乐坛的「马子狗乐团」主唱周可杰（张孝全 饰），如今成了自我感觉良好、却再也写不出歌的落魄中年，更与妻子陈立璇（苏慧伦 饰）的关系降至冰点。他不明白：当年那个25岁出道即巅峰、意气风发的自己（朱轩洋 饰），为何会沦落至此？就在他试图挽救破碎的婚姻时，一场超现实的奇迹悄然降临，带领他重新找回爱的初衷。",
-        "releaseDate": "2026-06-20",
-        "backdropPath": "/A2D9PdJT6tGwFojrd8SWmSnkQuJ.jpg",
-        "posterPath": "/jOgEViPr1YOv2B6tmMvrEiJNFS9.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 233076,
         "type": "tmdb",
         "title": "问心",
@@ -182,6 +169,19 @@
         "releaseDate": "2026-06-18",
         "backdropPath": "/xBI8m2aYsr9o4vtgbnI7wsewGc6.jpg",
         "posterPath": "/oCwfg5xVsUh9Yg4R51DtE1hmKys.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 311881,
+        "type": "tmdb",
+        "title": "欠你的那场婚礼",
+        "originalTitle": "欠妳的那場婚禮",
+        "description": "曾经凭一张帅脸与音乐才华风靡乐坛的「马子狗乐团」主唱周可杰（张孝全 饰），如今成了自我感觉良好、却再也写不出歌的落魄中年，更与妻子陈立璇（苏慧伦 饰）的关系降至冰点。他不明白：当年那个25岁出道即巅峰、意气风发的自己（朱轩洋 饰），为何会沦落至此？就在他试图挽救破碎的婚姻时，一场超现实的奇迹悄然降临，带领他重新找回爱的初衷。",
+        "releaseDate": "2026-06-20",
+        "backdropPath": "/A2D9PdJT6tGwFojrd8SWmSnkQuJ.jpg",
+        "posterPath": "/jOgEViPr1YOv2B6tmMvrEiJNFS9.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -213,19 +213,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 295558,
-        "type": "tmdb",
-        "title": "雀骨",
-        "originalTitle": "雀骨",
-        "description": "当魔头将军强娶沉迷机关术的财迷假千金，从契约夫妻到生死局里互扒马甲，爱意与杀意同生共长，揭朝堂阴谋，破生死乱局，守家国太平。",
-        "releaseDate": "2026-07-11",
-        "backdropPath": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
-        "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 301345,
         "type": "tmdb",
         "title": "京城奇探",
@@ -239,6 +226,32 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 295558,
+        "type": "tmdb",
+        "title": "雀骨",
+        "originalTitle": "雀骨",
+        "description": "当魔头将军强娶沉迷机关术的财迷假千金，从契约夫妻到生死局里互扒马甲，爱意与杀意同生共长，揭朝堂阴谋，破生死乱局，守家国太平。",
+        "releaseDate": "2026-07-11",
+        "backdropPath": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
+        "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 327916,
+        "type": "tmdb",
+        "title": "凛冬下的罪恶",
+        "originalTitle": "凛冬下的罪恶",
+        "description": "凛冬，一精神病女子拦车报案，称丈夫杀人，刑警沈栋梁吴红兵由此揭开系列碎尸案真相。然而风浪未平，储蓄所抢劫杀人案，少女失踪案，流窜抢车案接连发生，沈栋梁与吴红兵追凶之际，竟牵出改变二人命运的人性悲剧。",
+        "releaseDate": "2026-08-04",
+        "backdropPath": "/gN3vSMrarrirco31Af8bUsSHBYZ.jpg",
+        "posterPath": "/8PbjBwbkZgFj8k2bitxMFkllal5.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "悬疑"
+      },
+      {
         "id": 276239,
         "type": "tmdb",
         "title": "非份之罪",
@@ -250,19 +263,6 @@
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
-      },
-      {
-        "id": 296003,
-        "type": "tmdb",
-        "title": "小芳",
-        "originalTitle": "小芳",
-        "description": "讲述了杨小芳与同村的祁小伟未婚先孕，杨家人紧急回村为小芳出谋划策，祁杨两家态度不一，意外掀起了一场“婚恋风暴”，两家谈判失败，小芳“带球相亲”，却受到全村追捧并引发了一系列让人啼笑皆非的事件。",
-        "releaseDate": "2026-07-13",
-        "backdropPath": "/zz1ehIIZwpkO0GrCkmbrArYFlYj.jpg",
-        "posterPath": "/dF8AzhhHtOLHTmuZ12Wx2if7oz2.jpg",
-        "rating": 8.667,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 家庭"
       }
     ],
     "剧集·国外": [
@@ -293,58 +293,6 @@
         "genreTitle": "动画, 喜剧"
       },
       {
-        "id": 97546,
-        "type": "tmdb",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "description": "丽贝卡重新聘用泰德，执教里士满二线女子足球队灰狗女足。即便泰德已是资深教练，前路依旧充满挑战：全新队员、野心各异的球员、外界普遍不看好，他与比尔德教练将迎来全新征程。",
-        "releaseDate": "2026-08-04",
-        "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-        "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
-        "rating": 5.4,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 316294,
-        "type": "tmdb",
-        "title": "偿还",
-        "originalTitle": "เพย์แบค เดอะซีรีส์",
-        "description": "Sun曾为高利贷卖命，却因意外导致家人丧生。心怀愧疚的他，在发现家人死因竟与前室友有关后，决定踏入娱乐圈展开复仇。此时，神秘金主Jay现身相助，两人在权欲横流的演艺圈中，开启了一场危险又火热的情感博弈。",
-        "releaseDate": "2026-05-30",
-        "backdropPath": "/4L9sftGH7oQ1bpB0aQHERwyfDVd.jpg",
-        "posterPath": "/fGarAr85Mc6gxO5OUmzlM6lvd0C.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 犯罪"
-      },
-      {
-        "id": 292108,
-        "type": "tmdb",
-        "title": "护工不是人",
-        "originalTitle": "Ann Droid",
-        "description": "在一个AI无处不在的世界里，苏的丈夫大卫18个月前去世了，她唯一的儿子迈克尔搬走了，二手老年护理机器人琳达来到她身边。苏很快意识到机器人可以为她搞定一切，做她儿子永远没时间做的事情。",
-        "releaseDate": "2026-07-17",
-        "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
-        "posterPath": "/rIuA73tNABKewuMMtpIt1Cq6fHh.jpg",
-        "rating": 6.5,
-        "mediaType": "tv",
-        "genreTitle": "喜剧"
-      },
-      {
-        "id": 215072,
-        "type": "tmdb",
-        "title": "杀人者的购物中心",
-        "originalTitle": "킬러들의 쇼핑몰",
-        "description": "第二季强势回归：智安接管了武器店，镇万死里逃生，而“巴比伦”组织则陷入了彻底的劣势。为了保护智安，镇万将主动出击，直捣“巴比伦”的大本营；然而，这个雇佣兵组织绝不会轻易认输。颜面尽失的“巴比伦”将从海外调集援手，并派出新一批致命杀手，试图重整旗鼓、实施报复。",
-        "releaseDate": "2026-07-22",
-        "backdropPath": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-        "posterPath": "/bqPkhXWA1kP1OCrN2q2v9up8YXe.jpg",
-        "rating": 8.9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 动作冒险"
-      },
-      {
         "id": 286617,
         "type": "tmdb",
         "title": "踮起脚尖",
@@ -356,6 +304,19 @@
         "rating": 6.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 215072,
+        "type": "tmdb",
+        "title": "杀人者的购物中心",
+        "originalTitle": "킬러들의 쇼핑몰",
+        "description": "第二季强势回归：智安接管了武器店，镇万死里逃生，而“巴比伦”组织则陷入了彻底的劣势。为了保护智安，镇万将主动出击，直捣“巴比伦”的大本营；然而，这个雇佣兵组织绝不会轻易认输。颜面尽失的“巴比伦”将从海外调集援手，并派出新一批致命杀手，试图重整旗鼓、实施报复。",
+        "releaseDate": "2026-07-22",
+        "backdropPath": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+        "posterPath": "/bqPkhXWA1kP1OCrN2q2v9up8YXe.jpg",
+        "rating": 8.7,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 动作冒险"
       },
       {
         "id": 301418,
@@ -371,6 +332,45 @@
         "genreTitle": "犯罪, 喜剧"
       },
       {
+        "id": 97546,
+        "type": "tmdb",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "description": "丽贝卡重新聘用泰德，执教里士满二线女子足球队灰狗女足。即便泰德已是资深教练，前路依旧充满挑战：全新队员、野心各异的球员、外界普遍不看好，他与比尔德教练将迎来全新征程。",
+        "releaseDate": "2026-08-04",
+        "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
+        "rating": 5.4,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 292108,
+        "type": "tmdb",
+        "title": "护工不是人",
+        "originalTitle": "Ann Droid",
+        "description": "在一个AI无处不在的世界里，苏的丈夫大卫18个月前去世了，她唯一的儿子迈克尔搬走了，二手老年护理机器人琳达来到她身边。苏很快意识到机器人可以为她搞定一切，做她儿子永远没时间做的事情。",
+        "releaseDate": "2026-07-17",
+        "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
+        "posterPath": "/rIuA73tNABKewuMMtpIt1Cq6fHh.jpg",
+        "rating": 6.609,
+        "mediaType": "tv",
+        "genreTitle": "喜剧"
+      },
+      {
+        "id": 287238,
+        "type": "tmdb",
+        "title": "狂怒追缉",
+        "originalTitle": "Furious",
+        "description": "一名是誓言缉凶的联邦调查局探员艾莉丝，一名是神秘狡猾的女性连环杀手凯萨琳。两人皆以自己的方式伸张正义，当她们的命运开始交织，是非对错的界线也随之模糊。",
+        "releaseDate": "2026-07-27",
+        "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+        "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 犯罪"
+      },
+      {
         "id": 322570,
         "type": "tmdb",
         "title": "直到T恤干透",
@@ -384,17 +384,17 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 287238,
+        "id": 241882,
         "type": "tmdb",
-        "title": "狂怒追缉",
-        "originalTitle": "Furious",
-        "description": "一名是誓言缉凶的联邦调查局探员艾莉丝，一名是神秘狡猾的女性连环杀手凯萨琳。两人皆以自己的方式伸张正义，当她们的命运开始交织，是非对错的界线也随之模糊。",
-        "releaseDate": "2026-07-27",
-        "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-        "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 6.979,
+        "title": "亡命闺蜜",
+        "originalTitle": "Ride or Die",
+        "description": "黛比和闺蜜朱迪丝被迫展开逃亡，因为她发现朱迪丝根本不是什么法务会计师，而是国际杀手！在神秘人物的追杀下，加上黛比的丈夫涉入某个极度腐败的事件中，她们必须与时间赛跑，展开一场横跨欧洲的公路之旅以厘清真相、保住性命。",
+        "releaseDate": "2026-07-15",
+        "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
+        "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
+        "rating": 6.505,
         "mediaType": "tv",
-        "genreTitle": "剧情, 犯罪"
+        "genreTitle": "动作冒险"
       }
     ]
   }
