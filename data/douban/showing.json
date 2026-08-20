@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-19T17:28:10.086Z",
+  "time": "2026-08-20T17:31:15.650Z",
   "data": [
     {
       "id": 1748007,
@@ -10,35 +10,9 @@
       "releaseDate": "2026-08-05",
       "backdropPath": "/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
       "posterPath": "/kOzUhvsHq7Thcj3nZLgrghOZagq.jpg",
-      "rating": 2.2,
+      "rating": 2.3,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
-    },
-    {
-      "id": 1391021,
-      "type": "tmdb",
-      "title": "欢迎来龙餐馆",
-      "originalTitle": "欢迎来龙餐馆",
-      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
-      "releaseDate": "2026-08-08",
-      "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-      "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 9.25,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
-    },
-    {
-      "id": 1368337,
-      "type": "tmdb",
-      "title": "奥德赛",
-      "originalTitle": "The Odyssey",
-      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
-      "releaseDate": "2026-07-15",
-      "backdropPath": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 7.991,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动作"
     },
     {
       "id": 1567937,
@@ -54,95 +28,30 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 969681,
+      "id": 1391021,
       "type": "tmdb",
-      "title": "蜘蛛侠：崭新之日",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-      "releaseDate": "2026-07-29",
-      "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.9,
+      "title": "欢迎来龙餐馆",
+      "originalTitle": "欢迎来龙餐馆",
+      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
+      "releaseDate": "2026-08-08",
+      "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
+      "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+      "rating": 9.235,
       "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
+      "genreTitle": "剧情, 战争"
     },
     {
-      "id": 1101383,
+      "id": 1368337,
       "type": "tmdb",
-      "title": "逃出绝命街",
-      "originalTitle": "The End of Oak Street",
-      "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
-      "releaseDate": "2026-08-12",
-      "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "posterPath": "/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
-      "rating": 6.569,
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
+      "releaseDate": "2026-07-15",
+      "backdropPath": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "rating": 7.982,
       "mediaType": "movie",
-      "genreTitle": "科幻, 悬疑"
-    },
-    {
-      "id": 1724637,
-      "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
-      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 动画"
-    },
-    {
-      "id": 1633056,
-      "type": "tmdb",
-      "title": "八仙！",
-      "originalTitle": "八仙！",
-      "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
-      "releaseDate": "2026-07-10",
-      "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
-      "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动画"
-    },
-    {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.227,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1541125,
-      "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
-      "posterPath": "/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1491920,
-      "type": "tmdb",
-      "title": "功夫女足",
-      "originalTitle": "功夫女足",
-      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
-      "releaseDate": "2026-07-11",
-      "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
-      "posterPath": "/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "rating": 6.2,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
+      "genreTitle": "冒险, 动作"
     },
     {
       "id": 10681,
@@ -171,6 +80,97 @@
       "genreTitle": "爱情, 剧情"
     },
     {
+      "id": 969681,
+      "type": "tmdb",
+      "title": "蜘蛛侠：崭新之日",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
+      "releaseDate": "2026-07-29",
+      "backdropPath": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+      "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
+      "rating": 7.886,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1724637,
+      "type": "tmdb",
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
+      "releaseDate": "2026-08-07",
+      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
+      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 动画"
+    },
+    {
+      "id": 1633056,
+      "type": "tmdb",
+      "title": "八仙！",
+      "originalTitle": "八仙！",
+      "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
+      "releaseDate": "2026-07-10",
+      "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
+      "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动画"
+    },
+    {
+      "id": 1101383,
+      "type": "tmdb",
+      "title": "逃出绝命街",
+      "originalTitle": "The End of Oak Street",
+      "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
+      "releaseDate": "2026-08-12",
+      "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "posterPath": "/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
+      "rating": 6.467,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 悬疑"
+    },
+    {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "rating": 8.2,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1541125,
+      "type": "tmdb",
+      "title": "年会不能停！2",
+      "originalTitle": "年会不能停！2",
+      "description": "众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
+      "releaseDate": "2026-07-24",
+      "backdropPath": "/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
+      "posterPath": "/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1491920,
+      "type": "tmdb",
+      "title": "功夫女足",
+      "originalTitle": "功夫女足",
+      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
+      "releaseDate": "2026-07-11",
+      "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
+      "posterPath": "/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "rating": 6.375,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
       "id": 26466,
       "type": "tmdb",
       "title": "恐怖游轮",
@@ -184,6 +184,19 @@
       "genreTitle": "恐怖"
     },
     {
+      "id": 1148213,
+      "type": "tmdb",
+      "title": "喜欢高兴爱",
+      "originalTitle": "喜欢高兴爱",
+      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
+      "releaseDate": "2023-06-15",
+      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
+      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1185806,
       "type": "tmdb",
       "title": "汪汪队立大功大电影3：勇闯恐龙岛",
@@ -192,7 +205,7 @@
       "releaseDate": "2026-07-23",
       "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "posterPath": "/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "rating": 7.061,
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -210,19 +223,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1148213,
-      "type": "tmdb",
-      "title": "喜欢高兴爱",
-      "originalTitle": "喜欢高兴爱",
-      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
-      "releaseDate": "2023-06-15",
-      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
-      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1315772,
       "type": "tmdb",
       "title": "小黄人与大怪兽",
@@ -231,7 +231,7 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.487,
+      "rating": 7.491,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -244,7 +244,7 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.091,
+      "rating": 7.095,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -283,22 +283,9 @@
       "releaseDate": "2026-06-17",
       "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 7.819,
+      "rating": 7.944,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1305672,
-      "type": "tmdb",
-      "title": "抓特务",
-      "originalTitle": "抓特务",
-      "description": "1949年开国大典这天，刚入城改编成公安派出所所长的肖大力发现小学教员冯静波特嫌疑点重重。他本着军人的高度警惕和公安战士的责任感，硬是与冯搭做邻居，穷尽一生历尽磨难，进行了一场近四十年无怨无悔的追踪。影片根据张策同名小说改编。",
-      "releaseDate": "2026-06-19",
-      "backdropPath": "/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
-      "posterPath": "/xuLUtumvstPx00t3PBsLI7GTENA.jpg",
-      "rating": 6.333,
-      "mediaType": "movie",
-      "genreTitle": "历史, 剧情"
     },
     {
       "id": 1353926,
@@ -314,6 +301,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1318413,
+      "type": "tmdb",
+      "title": "诺曼底72小时",
+      "originalTitle": "Pressure",
+      "description": "诺曼底登陆前夕，盟军最高司令部首席气象学家詹姆斯·斯塔格向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
+      "releaseDate": "2026-05-25",
+      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
+      "rating": 7.741,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 历史"
+    },
+    {
       "id": 1389241,
       "type": "tmdb",
       "title": "冬旅人",
@@ -323,19 +323,6 @@
       "backdropPath": "/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
       "posterPath": "/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
       "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 434773,
-      "type": "tmdb",
-      "title": "独自在夜晚的海边",
-      "originalTitle": "밤의 해변에서 혼자",
-      "description": "某外国城市，来自韩国的女演员英熙，正因为和国内一个已婚男子的恋情而备受压力，她放弃了一切，甘受千夫所指以此表明心迹。他说会去找他，但她并不相信。在熟识的朋友家吃过饭，她去了海边。她认为朋友不会理解这段感情，但还是问道：“他会像我思念他一样思念我吗”  　　韩国江陵。几个老朋友的聚会。起初气氛有点尴尬，喝了些酒之后，英熙想吓吓他们。她表现得冷漠又不近人情，但他们反而喜欢这样。酒终人散，英熙独自去了海滩，发泄重重心事似雾般消散。她想知道，爱在生命中到底有多重要？",
-      "releaseDate": "2017-03-23",
-      "backdropPath": "/r1mfWgKzW0Yb3zsfix8MyFB3zlU.jpg",
-      "posterPath": "/dfutAMn4s2IaXgURcVn8x6e0r1I.jpg",
-      "rating": 6.6,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -353,15 +340,15 @@
       "genreTitle": "喜剧, 爱情"
     },
     {
-      "id": 72245,
+      "id": 434773,
       "type": "tmdb",
-      "title": "钢的琴",
-      "originalTitle": "钢的琴",
-      "description": "上世纪90年代初，东北某重工业城市。原钢厂工人陈桂林在下岗后，独自拉起了一支乐队，终日奔波在婚丧嫁娶、店铺开业的营生之中，生活勉强维持。他的妻子小菊离家出走，转投有钱的假药商人怀抱。如今小菊光鲜回归，不仅要与桂林离婚，还要争夺独生女小元的抚养权。桂林慨叹自己失败的命运，于是一心要将女儿培养成钢琴家。为了得到女儿，他四处筹措买钢琴的钱，甚至和女友淑娴以及当年钢厂的好哥们夜入学校偷钢琴。 当所有的办法都失败后，桂林偶然翻到一本关于钢琴的俄国文献，于是叫上伙伴们在早已破败的厂房中开始了手工制造钢琴的征途……",
-      "releaseDate": "2011-07-15",
-      "backdropPath": "/pUq74SgliWDXEe8kGTGka8ifI0d.jpg",
-      "posterPath": "/tLqr5LHYjxtPBIeyok3TGMIqWUD.jpg",
-      "rating": 7.339,
+      "title": "独自在夜晚的海边",
+      "originalTitle": "밤의 해변에서 혼자",
+      "description": "某外国城市，来自韩国的女演员英熙，正因为和国内一个已婚男子的恋情而备受压力，她放弃了一切，甘受千夫所指以此表明心迹。他说会去找他，但她并不相信。在熟识的朋友家吃过饭，她去了海边。她认为朋友不会理解这段感情，但还是问道：“他会像我思念他一样思念我吗”  　　韩国江陵。几个老朋友的聚会。起初气氛有点尴尬，喝了些酒之后，英熙想吓吓他们。她表现得冷漠又不近人情，但他们反而喜欢这样。酒终人散，英熙独自去了海滩，发泄重重心事似雾般消散。她想知道，爱在生命中到底有多重要？",
+      "releaseDate": "2017-03-23",
+      "backdropPath": "/r1mfWgKzW0Yb3zsfix8MyFB3zlU.jpg",
+      "posterPath": "/dfutAMn4s2IaXgURcVn8x6e0r1I.jpg",
+      "rating": 6.6,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -379,19 +366,6 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 573699,
-      "type": "tmdb",
-      "title": "白蛇：缘起",
-      "originalTitle": "白蛇：缘起",
-      "description": "晚唐年间，国师发动民众大量捕蛇。前去刺杀国师的白蛇意外失忆，被捕蛇村少年救下。为帮助少女找回记忆，两人踏上了一段冒险旅程。冒险的过程让两人感情迅速升温，但少女蛇妖的身份也逐渐显露，另一边国师与蛇族之间不可避免的大战也即将打响，两人的爱情将要接受巨大考验。",
-      "releaseDate": "2019-01-11",
-      "backdropPath": "/jIAyjJMrEIDjojxQDdZemDwqr82.jpg",
-      "posterPath": "/lb9TwiEuSl5vqFv8W5o0FhXqt3r.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 动画"
-    },
-    {
       "id": 68883,
       "type": "tmdb",
       "title": "胭脂扣",
@@ -403,32 +377,6 @@
       "rating": 7.427,
       "mediaType": "movie",
       "genreTitle": "剧情, 奇幻"
-    },
-    {
-      "id": 1628,
-      "type": "tmdb",
-      "title": "祖与占",
-      "originalTitle": "Jules et Jim",
-      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
-      "releaseDate": "1962-01-23",
-      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
-      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
-      "rating": 7.538,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 37247,
-      "type": "tmdb",
-      "title": "毕业生",
-      "originalTitle": "The Graduate",
-      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
-      "releaseDate": "1967-12-21",
-      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
-      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
-      "rating": 7.633,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 175,
@@ -444,41 +392,15 @@
       "genreTitle": "爱情, 冒险"
     },
     {
-      "id": 8073,
+      "id": 1628,
       "type": "tmdb",
-      "title": "法外之徒",
-      "originalTitle": "Bande à part",
-      "description": "继《筋疲力尽》问世四年后，让-吕克·戈达尔以更激进的手法重构了黑帮电影范式。在这部作品中，两名躁动不安的年轻男子鼓动他们共同倾慕的女子协助实施一场发生在她自己家中的抢劫。这部兼具大胆锋芒与迷人影趣的法国新浪潮瑰宝，既流露着伤感情调又充满自由不羁的气质，既闪耀着浪漫星光又萦绕着淡淡哀愁。戈达尔在此片中创造了诸多影史留名的经典段落：卢浮宫内的狂奔场景与那段挥之不去的麦迪逊舞片段，已然成为电影史上永恒的时代印记。",
-      "releaseDate": "1964-08-05",
-      "backdropPath": "/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
-      "posterPath": "/zRvjanylCLPVMYdTGr56q368y5l.jpg",
-      "rating": 7.489,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 1708565,
-      "type": "tmdb",
-      "title": "那山那水",
-      "originalTitle": "那山那水",
-      "description": "影片以“两山”理念的发展为主线，深度聚焦其践行地—浙江，集中呈现了“两山”理念提出二十年来，浙江在习近平生态文明思想的指引下取得的显著成就，更完整追溯了这一理念从浙江实践到辐射全国、走向世界的生动历程，深刻阐释了生态文明建设的中国智慧与方案。",
-      "releaseDate": "2026-06-05",
-      "backdropPath": null,
-      "posterPath": "/tOXtPG2f8STXoJGuE5pfpwqERkr.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 64131,
-      "type": "tmdb",
-      "title": "坏血",
-      "originalTitle": "Mauvais Sang",
-      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
-      "releaseDate": "1986-11-26",
-      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
-      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
-      "rating": 7.13,
+      "title": "祖与占",
+      "originalTitle": "Jules et Jim",
+      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
+      "releaseDate": "1962-01-23",
+      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
+      "rating": 7.538,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -496,6 +418,32 @@
       "genreTitle": "奇幻, 科幻"
     },
     {
+      "id": 37247,
+      "type": "tmdb",
+      "title": "毕业生",
+      "originalTitle": "The Graduate",
+      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
+      "releaseDate": "1967-12-21",
+      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
+      "rating": 7.633,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 64131,
+      "type": "tmdb",
+      "title": "坏血",
+      "originalTitle": "Mauvais Sang",
+      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
+      "releaseDate": "1986-11-26",
+      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
+      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
+      "rating": 7.13,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
       "id": 4024,
       "type": "tmdb",
       "title": "去年在马里昂巴德",
@@ -507,6 +455,19 @@
       "rating": 7.435,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1708565,
+      "type": "tmdb",
+      "title": "那山那水",
+      "originalTitle": "那山那水",
+      "description": "影片以“两山”理念的发展为主线，深度聚焦其践行地—浙江，集中呈现了“两山”理念提出二十年来，浙江在习近平生态文明思想的指引下取得的显著成就，更完整追溯了这一理念从浙江实践到辐射全国、走向世界的生动历程，深刻阐释了生态文明建设的中国智慧与方案。",
+      "releaseDate": "2026-06-05",
+      "backdropPath": null,
+      "posterPath": "/tOXtPG2f8STXoJGuE5pfpwqERkr.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 34838,
@@ -548,19 +509,6 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 11044,
-      "type": "tmdb",
-      "title": "亚利桑那之梦",
-      "originalTitle": "Arizona Dream",
-      "description": "在纽约打工的青年阿克塞（Johnny Depp 饰）梦中看到一位因纽特人昏倒在冰原上，雪橇犬将其救回，一只红气球在空中不停飘荡……阿克塞痴迷表演的朋友保罗（Vincent Gallo 饰）来访，邀请他远赴亚利桑那为伯父里奥伴婚，里奥在亚利桑那经营汽车生意打拼多年，遂留下阿克塞与保罗二人在车行中工作。不久阿克塞结识了性格不合的艾琳娜（Faye Dunaway 饰）与格蕾丝母女，为帮助艾琳娜圆一个飞行梦，阿克塞滞留这对母女家中，尝试制作各种飞行器，在不断的失败中从头再来，这对神经质母女的吵闹一直伴随着他。阿克塞的梦里，一只鱼在空中穿梭飞升……艾琳娜终于得到了一架小飞机，在庆祝的聚会上，阿克塞向格蕾丝示爱引发了意外的结局。  　　本片获1993年柏林电影节银熊奖。",
-      "releaseDate": "1993-01-06",
-      "backdropPath": "/iJ4XWlsGpZuZOQDTYenn9YqWfR0.jpg",
-      "posterPath": "/5njDD9mzKKxN1qSmrSd2Ewjs6OF.jpg",
-      "rating": 7.133,
-      "mediaType": "movie",
-      "genreTitle": "奇幻, 喜剧"
-    },
-    {
       "id": 11657,
       "type": "tmdb",
       "title": "红圈",
@@ -587,19 +535,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 1028378,
       "type": "tmdb",
       "title": "Serengeti",
@@ -609,6 +544,19 @@
       "backdropPath": null,
       "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
       "rating": 8.5,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 0,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
