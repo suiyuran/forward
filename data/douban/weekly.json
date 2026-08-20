@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-19T20:11:27.583Z",
+  "time": "2026-08-20T20:13:54.020Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.25,
+        "rating": 9.235,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.985,
+        "rating": 7.986,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -48,7 +48,7 @@
         "originalTitle": "Spider-Man: Brand New Day",
         "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
         "releaseDate": "2026-07-29",
-        "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "backdropPath": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
         "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
         "rating": 7.885,
         "mediaType": "movie",
@@ -61,9 +61,9 @@
         "originalTitle": "The Invite",
         "description": "影片改编自西班牙电影《多愁善感》，是一部关于夫妻关系的讽刺喜剧。影片讲述的是“一对夫妇邀请邻居过来，点燃了一场充满意想不到的转折的夜晚，揭示了深藏的情感和未被探索的性欲。”",
         "releaseDate": "2026-06-25",
-        "backdropPath": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+        "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.366,
+        "rating": 7.379,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.8,
+        "rating": 6.7,
         "mediaType": "movie",
         "genreTitle": "恐怖, 爱情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.2,
+        "rating": 6.192,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-08-04",
         "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
         "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
-        "rating": 5.4,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7,
+        "rating": 7.05,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
