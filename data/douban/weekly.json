@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-20T20:13:54.020Z",
+  "time": "2026-08-21T20:10:34.967Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.235,
+        "rating": 9.2,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -23,8 +23,8 @@
         "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
         "releaseDate": "2026-07-15",
         "backdropPath": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-        "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.986,
+        "posterPath": "/3O6ufZBBjLB29NpJOe8awMzQ4XN.jpg",
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -42,19 +42,6 @@
         "genreTitle": "爱情, 动画"
       },
       {
-        "id": 969681,
-        "type": "tmdb",
-        "title": "蜘蛛侠：崭新之日",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-        "releaseDate": "2026-07-29",
-        "backdropPath": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
-        "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-        "rating": 7.885,
-        "mediaType": "movie",
-        "genreTitle": "科幻, 动作"
-      },
-      {
         "id": 950028,
         "type": "tmdb",
         "title": "激情邀约",
@@ -63,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.379,
+        "rating": 7.374,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -76,35 +63,35 @@
         "releaseDate": "2025-09-02",
         "backdropPath": "/cX7F226WqkQ7Ly2GHEdIuGaai0u.jpg",
         "posterPath": "/oUgvACOtLKLYMzrUsM0llleYm3E.jpg",
-        "rating": 6.75,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "喜剧"
       },
       {
-        "id": 1119548,
+        "id": 1318335,
         "type": "tmdb",
-        "title": "一切从头来过",
-        "originalTitle": "La Condition",
-        "description": "改编自小说《莱昂诺尔·德·雷孔多之恋》。当他的妻子安睡时，公证人安塞尔姆奸污了年轻的女仆塞莱斯特，使她怀孕。为了维护大家的名誉，维克多利亚决定收养这个孩子。但她没有母性本能，新生儿日渐消瘦。塞莱斯特偷偷地温柔地照顾着她的孩子。一天夜里，维克多利亚在阁楼下的房间里发现了他们……",
-        "releaseDate": "2025-12-10",
-        "backdropPath": "/sq4KQ8CXOFr02KI2XWIZvkpJXui.jpg",
-        "posterPath": "/rKxnJGcEmHJaYeleqOVqoX2twIa.jpg",
-        "rating": 6,
+        "title": "荣光与暗影",
+        "originalTitle": "Les Rayons et les Ombres",
+        "description": "影片改编自真实人物科琳・吕凯尔自传，导演泽维尔・吉亚诺利，故事聚焦二战被占领时期的法国。 让与奥托，一位法国报人、一名热爱法国的德国青年，二人致力促成欧洲和平。让的女儿科琳正于影坛崭露头角，前途大好。然而战火燃起，法国遭到占领。两位好友在这片变局中的法国扮演着举足轻重的角色：让摇身一变成为传媒巨头，极力鼓吹与占领当局合作；奥托则出任德意志帝国驻巴黎大使。与此同时，科琳坠入险境，身陷狼穴。 影片以二战德国占领巴黎为背景，探究和平理想主义者在战争压力下持续妥协、走向通敌的人性轨迹；打破善恶二元论，展现乱世中人复杂的道德灰色地带；同时透过女演员科琳的遭遇，讲述后代背负父辈历史罪责的终身煎熬，反思媒体精英的良知失守，以及特权阶层 “视而不见” 的共谋。",
+        "releaseDate": "2026-03-18",
+        "backdropPath": "/6LpnsToxRww4wsFDX4HUcNKTNF4.jpg",
+        "posterPath": "/TPo1gsNCswrgyxrqdGN44OmPuH.jpg",
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
       {
-        "id": 1564614,
+        "id": 1404169,
         "type": "tmdb",
-        "title": "利未记",
-        "originalTitle": "Leviticus",
-        "description": "两个相爱却命运多舛的男孩，被一个暴力的存在所纠缠。这个存在会以他们最想要见到的人，也就是彼此的模样出现。在澳大利亚维多利亚州一座闭塞保守、被极端基督教教义牢牢束缚的乡村小镇，少年纳伊姆对同龄男孩莱恩萌生了隐秘的爱慕，两人悄悄发展出一段禁忌恋情。一次偶然，纳伊姆撞见莱恩和牧师的儿子亨特私下幽会，嫉妒与内心压抑的自我厌恶驱使他揭发了这件事。牧师一家随即请来所谓“救赎疗愈师”，对三个孩子施行残酷的矫正驱魔仪式，试图抹除他们的同性欲望。这场扭曲的宗教仪式非但没有达成目的，反而意外召唤出了一只邪恶魔物。这个恶灵拥有特殊的变形能力，会化作每个人心底最渴望之人的样貌，一旦角色屈从于内心的情愫，就会立刻遭到恶灵暴力追杀。纳伊姆必须一边直面自己犯下的过错，一边和莱恩联手对抗无孔不入的恶灵，同时还要对抗整个小镇充满偏见与敌意的宗教环境，在肉体与精神的双重绝境里求生赎罪。",
-        "releaseDate": "2026-06-17",
-        "backdropPath": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
-        "posterPath": "/lZNzH9FqOQMz60FKCRI9a4OiPTg.jpg",
-        "rating": 6.7,
+        "title": "太空见习生",
+        "originalTitle": "Space Cadet",
+        "description": "当宇航员塞莱斯特踏上她的首次单独太空之旅时，那个陪伴她度过整个童年的守护机器人被独自留下，陷入了沉思：未来该何去何从？这是一部宛如明日摇篮曲的故事，讲述着在浩瀚宇宙中寻找自己位置的心路历程。",
+        "releaseDate": "2026-02-20",
+        "backdropPath": "/xprL040VY3rZYxuanOpJB0gNVx1.jpg",
+        "posterPath": "/jl62ODVKOxM6PdnzhUp1zeT5cFw.jpg",
+        "rating": 5.8,
         "mediaType": "movie",
-        "genreTitle": "恐怖, 爱情"
+        "genreTitle": "动画, 家庭"
       },
       {
         "id": 1630435,
@@ -120,17 +107,30 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 1404169,
+        "id": 1119548,
         "type": "tmdb",
-        "title": "太空见习生",
-        "originalTitle": "Space Cadet",
-        "description": "当宇航员塞莱斯特踏上她的首次单独太空之旅时，那个陪伴她度过整个童年的守护机器人被独自留下，陷入了沉思：未来该何去何从？这是一部宛如明日摇篮曲的故事，讲述着在浩瀚宇宙中寻找自己位置的心路历程。",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/xprL040VY3rZYxuanOpJB0gNVx1.jpg",
-        "posterPath": "/jl62ODVKOxM6PdnzhUp1zeT5cFw.jpg",
-        "rating": 5.8,
+        "title": "一切从头来过",
+        "originalTitle": "La Condition",
+        "description": "改编自小说《莱昂诺尔·德·雷孔多之恋》。当他的妻子安睡时，公证人安塞尔姆奸污了年轻的女仆塞莱斯特，使她怀孕。为了维护大家的名誉，维克多利亚决定收养这个孩子。但她没有母性本能，新生儿日渐消瘦。塞莱斯特偷偷地温柔地照顾着她的孩子。一天夜里，维克多利亚在阁楼下的房间里发现了他们……",
+        "releaseDate": "2025-12-10",
+        "backdropPath": "/sq4KQ8CXOFr02KI2XWIZvkpJXui.jpg",
+        "posterPath": "/rKxnJGcEmHJaYeleqOVqoX2twIa.jpg",
+        "rating": 6,
         "mediaType": "movie",
-        "genreTitle": "动画, 家庭"
+        "genreTitle": "剧情, 历史"
+      },
+      {
+        "id": 587370,
+        "type": "tmdb",
+        "title": "奶奶身后事",
+        "originalTitle": "Pohádky po babičce",
+        "description": "奶奶去世后，三个孩子在爷爷家中度过了一夜。在这个夜晚，他们发现了想象力的神奇魔力。",
+        "releaseDate": "2025-05-18",
+        "backdropPath": "/AupBUhnJEFedxF4vQ82LU9rOXDC.jpg",
+        "posterPath": "/6LZJKktqh9jTL27vMU6oxzdvB3W.jpg",
+        "rating": 5,
+        "mediaType": "movie",
+        "genreTitle": "动画, 剧情"
       }
     ],
     "剧集·国内": [
@@ -275,7 +275,7 @@
         "releaseDate": "2026-08-05",
         "backdropPath": "/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
         "posterPath": "/w8p5MkntL1bTI94INGLya1pHmTP.jpg",
-        "rating": 0,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.192,
+        "rating": 6.222,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-08-04",
         "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
         "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
-        "rating": 7.5,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.05,
+        "rating": 7.037,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.505,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       }
