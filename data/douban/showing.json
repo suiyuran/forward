@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-21T17:30:41.261Z",
+  "time": "2026-08-22T17:22:18.217Z",
   "data": [
     {
       "id": 1567937,
@@ -10,22 +10,9 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
       "posterPath": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
-      "rating": 0,
+      "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
-    },
-    {
-      "id": 1748007,
-      "type": "tmdb",
-      "title": "牛来",
-      "originalTitle": "牛来",
-      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
-      "releaseDate": "2026-08-05",
-      "backdropPath": "/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
-      "posterPath": "/oZAkbWAlfVQFbWMfHOcgwGodEdR.jpg",
-      "rating": 3,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1391021,
@@ -36,7 +23,7 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 9.2,
+      "rating": 9.222,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -47,11 +34,24 @@
       "originalTitle": "The Odyssey",
       "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
       "releaseDate": "2026-07-15",
-      "backdropPath": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 7.988,
+      "rating": 7.991,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
+    },
+    {
+      "id": 1748007,
+      "type": "tmdb",
+      "title": "牛来",
+      "originalTitle": "牛来",
+      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
+      "releaseDate": "2026-08-05",
+      "backdropPath": "/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
+      "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
+      "rating": 3.8,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 10681,
@@ -75,9 +75,22 @@
       "releaseDate": "2026-07-29",
       "backdropPath": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.9,
+      "rating": 7.892,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "rating": 8.227,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1724637,
@@ -101,7 +114,7 @@
       "releaseDate": "2026-07-10",
       "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
       "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "rating": 8,
+      "rating": 7.947,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
     },
@@ -119,19 +132,6 @@
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.229,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
       "id": 1101383,
       "type": "tmdb",
       "title": "逃出绝命街",
@@ -140,22 +140,22 @@
       "releaseDate": "2026-08-12",
       "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "posterPath": "/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
-      "rating": 6.436,
+      "rating": 6.407,
       "mediaType": "movie",
       "genreTitle": "科幻, 悬疑"
     },
     {
-      "id": 1541125,
+      "id": 1630030,
       "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
-      "posterPath": "/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
-      "rating": 7,
+      "title": "大唐妖探",
+      "originalTitle": "大唐妖探",
+      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
+      "releaseDate": "2026-08-08",
+      "backdropPath": "/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+      "posterPath": "/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
+      "rating": 5.5,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "喜剧, 动画"
     },
     {
       "id": 1491920,
@@ -166,7 +166,7 @@
       "releaseDate": "2026-07-11",
       "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "posterPath": "/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "rating": 6.375,
+      "rating": 6.4,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -192,9 +192,22 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.497,
+      "rating": 7.503,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
+    },
+    {
+      "id": 1083381,
+      "type": "tmdb",
+      "title": "后室",
+      "originalTitle": "Backrooms",
+      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+      "releaseDate": "2026-05-27",
+      "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 悬疑"
     },
     {
       "id": 1745822,
@@ -208,19 +221,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1604133,
-      "type": "tmdb",
-      "title": "四渡",
-      "originalTitle": "四渡",
-      "description": "长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
-      "releaseDate": "2026-06-26",
-      "backdropPath": "/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
-      "posterPath": "/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
-      "rating": 5.4,
-      "mediaType": "movie",
-      "genreTitle": "历史, 战争"
     }
   ]
 }
