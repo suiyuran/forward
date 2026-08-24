@@ -1,6 +1,19 @@
 {
-  "time": "2026-08-23T17:21:45.888Z",
+  "time": "2026-08-24T17:32:41.582Z",
   "data": [
+    {
+      "id": 1368337,
+      "type": "tmdb",
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
+      "releaseDate": "2026-07-15",
+      "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "rating": 7.998,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动作"
+    },
     {
       "id": 1391021,
       "type": "tmdb",
@@ -15,19 +28,6 @@
       "genreTitle": "剧情, 战争"
     },
     {
-      "id": 1368337,
-      "type": "tmdb",
-      "title": "奥德赛",
-      "originalTitle": "The Odyssey",
-      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
-      "releaseDate": "2026-07-15",
-      "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 7.996,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动作"
-    },
-    {
       "id": 1567937,
       "type": "tmdb",
       "title": "空枪",
@@ -36,7 +36,7 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
       "posterPath": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
-      "rating": 6.5,
+      "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -67,19 +67,6 @@
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 10681,
-      "type": "tmdb",
-      "title": "机器人总动员",
-      "originalTitle": "WALL·E",
-      "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
-      "releaseDate": "2008-06-26",
-      "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
-      "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.12,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
-    },
-    {
       "id": 969681,
       "type": "tmdb",
       "title": "蜘蛛侠：崭新之日",
@@ -101,7 +88,7 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.225,
+      "rating": 8.219,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -140,7 +127,7 @@
       "releaseDate": "2026-08-12",
       "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "posterPath": "/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
-      "rating": 6.4,
+      "rating": 6.39,
       "mediaType": "movie",
       "genreTitle": "科幻, 悬疑"
     },
@@ -158,19 +145,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1563614,
-      "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "posterPath": "/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 剧情"
-    },
-    {
       "id": 1491920,
       "type": "tmdb",
       "title": "功夫女足",
@@ -184,6 +158,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1563614,
+      "type": "tmdb",
+      "title": "不想失去你",
+      "originalTitle": "不想失去你",
+      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
+      "posterPath": "/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 剧情"
+    },
+    {
       "id": 1185806,
       "type": "tmdb",
       "title": "汪汪队立大功大电影3：勇闯恐龙岛",
@@ -192,7 +179,7 @@
       "releaseDate": "2026-07-23",
       "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "posterPath": "/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "rating": 7.203,
+      "rating": 7.2,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -205,22 +192,9 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.499,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
-    },
-    {
-      "id": 1083381,
-      "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "releaseDate": "2026-05-27",
-      "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 悬疑"
     },
     {
       "id": 1604133,
