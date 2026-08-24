@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-23T20:07:45.418Z",
+  "time": "2026-08-24T20:14:43.294Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.263,
+        "rating": 9.3,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-02-20",
         "backdropPath": "/xprL040VY3rZYxuanOpJB0gNVx1.jpg",
         "posterPath": "/jl62ODVKOxM6PdnzhUp1zeT5cFw.jpg",
-        "rating": 5.8,
+        "rating": 6.833,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -127,10 +127,10 @@
         "description": "奶奶去世后，三个孩子在爷爷家中度过了一夜。在这个夜晚，他们发现了想象力的神奇魔力。",
         "releaseDate": "2025-05-18",
         "backdropPath": "/AupBUhnJEFedxF4vQ82LU9rOXDC.jpg",
-        "posterPath": "/6LZJKktqh9jTL27vMU6oxzdvB3W.jpg",
+        "posterPath": "/kQ6OfkhWIcxmvdfl0Zn3arseo5p.jpg",
         "rating": 5,
         "mediaType": "movie",
-        "genreTitle": "动画, 剧情"
+        "genreTitle": "动画, 家庭"
       }
     ],
     "剧集·国内": [
@@ -353,7 +353,7 @@
         "releaseDate": "2026-07-17",
         "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
         "posterPath": "/rIuA73tNABKewuMMtpIt1Cq6fHh.jpg",
-        "rating": 6.609,
+        "rating": 6.583,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.557,
+        "rating": 6.6,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       }
