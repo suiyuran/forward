@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-24T20:14:43.294Z",
+  "time": "2026-08-25T20:13:17.262Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.998,
+        "rating": 7.99,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.3,
+        "rating": 7.31,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -75,8 +75,8 @@
         "description": "影片改编自真实人物科琳・吕凯尔自传，导演泽维尔・吉亚诺利，故事聚焦二战被占领时期的法国。 让与奥托，一位法国报人、一名热爱法国的德国青年，二人致力促成欧洲和平。让的女儿科琳正于影坛崭露头角，前途大好。然而战火燃起，法国遭到占领。两位好友在这片变局中的法国扮演着举足轻重的角色：让摇身一变成为传媒巨头，极力鼓吹与占领当局合作；奥托则出任德意志帝国驻巴黎大使。与此同时，科琳坠入险境，身陷狼穴。 影片以二战德国占领巴黎为背景，探究和平理想主义者在战争压力下持续妥协、走向通敌的人性轨迹；打破善恶二元论，展现乱世中人复杂的道德灰色地带；同时透过女演员科琳的遭遇，讲述后代背负父辈历史罪责的终身煎熬，反思媒体精英的良知失守，以及特权阶层 “视而不见” 的共谋。",
         "releaseDate": "2026-03-18",
         "backdropPath": "/6LpnsToxRww4wsFDX4HUcNKTNF4.jpg",
-        "posterPath": "/TPo1gsNCswrgyxrqdGN44OmPuH.jpg",
-        "rating": 7.505,
+        "posterPath": "/1l9mxuDThsc84eUpHyIJcUOTg4f.jpg",
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -127,7 +127,7 @@
         "description": "奶奶去世后，三个孩子在爷爷家中度过了一夜。在这个夜晚，他们发现了想象力的神奇魔力。",
         "releaseDate": "2025-05-18",
         "backdropPath": "/AupBUhnJEFedxF4vQ82LU9rOXDC.jpg",
-        "posterPath": "/kQ6OfkhWIcxmvdfl0Zn3arseo5p.jpg",
+        "posterPath": "/Y64zOoWa5jqoLQL6TslONjwWyy.jpg",
         "rating": 5,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-24",
         "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
         "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 7.9,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-07-17",
         "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
         "posterPath": "/rIuA73tNABKewuMMtpIt1Cq6fHh.jpg",
-        "rating": 6.583,
+        "rating": 6.6,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.6,
+        "rating": 6.552,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       }
