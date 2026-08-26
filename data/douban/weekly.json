@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-25T20:13:17.262Z",
+  "time": "2026-08-26T22:32:26.149Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.99,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.31,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -148,6 +148,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 291856,
+        "type": "tmdb",
+        "title": "重器",
+        "originalTitle": "重器",
+        "description": "以改革开放初期至1997年《刑诉法》《刑法》修订为背景，讲述陈一众、余高远、张丽慧、夏英杰等法学院毕业生在不同司法岗位上历经风雨、共同见证中国法治发展进程的故事，展现他们在时代浪潮中成长、抉择与命运交织的群像篇章。",
+        "releaseDate": "2026-08-10",
+        "backdropPath": "/sUTK5UjUNud0d5hcEbhOk4RTqII.jpg",
+        "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 273114,
         "type": "tmdb",
         "title": "悬案",
@@ -159,6 +172,19 @@
         "rating": 8.333,
         "mediaType": "tv",
         "genreTitle": "悬疑"
+      },
+      {
+        "id": 306672,
+        "type": "tmdb",
+        "title": "日落下的彩虹",
+        "originalTitle": "日落下的彩虹",
+        "description": "七个发生在彩虹邨的感人故事。这些故事描绘了不同的情感和遗憾，反映了香港人对公共屋邨的深厚情感。随着故事中人物的交集，每个故事都在提醒观众，这个标志性的屋邨正走向终结。",
+        "releaseDate": "2026-07-29",
+        "backdropPath": "/oLG0Smu4GB4OBVmydd2qxejDF82.jpg",
+        "posterPath": "/4PR2COQG4DYJMC60RhURgSIlYtp.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": 233076,
@@ -187,41 +213,15 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 319703,
+        "id": 287496,
         "type": "tmdb",
-        "title": "画梦录",
-        "originalTitle": "画梦录",
-        "description": "民国的上海滩，身怀绝技的孤女画师许雁真（代露娃饰），意外与身陷危局的融汇银行总账姜心羽（唐诗逸饰）产生交集。姜心羽遭人陷害，只得兵行险着与许雁真结盟，彼时银行欲将国宝名画低价卖给外国人，许雁真凭借自身精湛画技仿造名画、偷天换日。几经波折，两人联手在各方势力的夹缝间巧妙周旋，共历险阻，破解重重困境。",
-        "releaseDate": "2026-07-02",
-        "backdropPath": "/zpvVXV5HiKh4PA6TKf5dm5HHe4D.jpg",
-        "posterPath": "/g7fD16wdwuBn4UnhEDIp9WOBcnF.jpg",
+        "title": "花开锦绣",
+        "originalTitle": "花开锦绣",
+        "description": "豪爽重情的私盐贩子赵凌虽出身草莽，却心怀壮志，他结识了遭人诬陷私通的世家名媛小姐傅庭芸，被迫一起逃亡，二人历经家族与朝廷的重重考验，与命运抗争，终成传奇良缘。",
+        "releaseDate": "2026-08-09",
+        "backdropPath": "/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
+        "posterPath": "/erj7cX8aa1jndO9HlmoyRcJNLQL.jpg",
         "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 291392,
-        "type": "tmdb",
-        "title": "野狗骨头",
-        "originalTitle": "野狗骨头",
-        "description": "20世纪90年代，陈异和苗靖因父母的相识而结缘。起初陈异对苗靖充满敌意，直到一次受伤后，苗靖的善良让两人关系开始转变。然而好景不长，陈父去世、苗母消失，两家大人并未走到一起，两个孩子却不得不相依为命。来到大学，苗靖勇敢告白，陈异却被卷入纵火案，成为关键证人，为保护苗靖，他逼她离开了藤城，配合警方抓捕嫌犯。多年后，陈异经营着一家台球厅，苗靖则为了好运物流的审计工作回到藤城。两人重逢，陈异因当年纵火案，对好运老板张宾早就心存警惕，试图阻止苗靖前去工作未果。张宾的走私生意逐渐暴露，为保护苗靖，陈异只能以身入局，两人并肩作战，配合警方对抗张宾。最终，张宾及其同伙受到法律制裁。身受重伤的陈异向苗靖告白，两人终成眷属。",
-        "releaseDate": "2026-07-05",
-        "backdropPath": "/zldji8QZ3HdoosmtUIf59YmDoxZ.jpg",
-        "posterPath": "/ixwG1ECra9rSTuRCql81mkMoLVO.jpg",
-        "rating": 8.8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 301345,
-        "type": "tmdb",
-        "title": "京城奇探",
-        "originalTitle": "京城奇探",
-        "description": "赵少商和元鸿这两个教育背景、成长经历截然不同的青年，在一次次破案过程中，互相偷师、共同成长，在波澜壮阔的大时代中，成为最闪耀的犯罪克星。",
-        "releaseDate": "2026-07-05",
-        "backdropPath": "/i7luBPrkMrGrBZda2BK02ZF1S3m.jpg",
-        "posterPath": "/tTOIjGcql6tFo2sorOQrXKr8i6I.jpg",
-        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-07-11",
         "backdropPath": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
         "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
-        "rating": 8.2,
+        "rating": 8.333,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -267,32 +267,6 @@
     ],
     "剧集·国外": [
       {
-        "id": 207333,
-        "type": "tmdb",
-        "title": "百年孤独",
-        "originalTitle": "Cien años de soledad",
-        "description": "接续布恩迪亚家族的宿命轮回，聚焦家族双胞胎后代的迥异人生与马孔多的盛极而衰。",
-        "releaseDate": "2026-08-05",
-        "backdropPath": "/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-        "posterPath": "/w8p5MkntL1bTI94INGLya1pHmTP.jpg",
-        "rating": 7.3,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 60625,
-        "type": "tmdb",
-        "title": "瑞克和莫蒂",
-        "originalTitle": "Rick and Morty",
-        "description": "瑞克和莫蒂回来了，宝贝！第九季每一集都堪称爆款佳作。全程没有 AI 流水线烂活，全是真人实打实打磨的原创内容，主创们也都是有着体毛、皮肤囊肿这类普通人特征的鲜活人类。赶紧追剧吧，不然大家舍家撇业付出的心血就全都白费了。",
-        "releaseDate": "2026-05-24",
-        "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
-        "posterPath": "/nbLginNBtPaqz12tSvMjzvxuPFJ.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "动画, 喜剧"
-      },
-      {
         "id": 286617,
         "type": "tmdb",
         "title": "踮起脚尖",
@@ -306,17 +280,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 215072,
+        "id": 207333,
         "type": "tmdb",
-        "title": "杀人者的购物中心",
-        "originalTitle": "킬러들의 쇼핑몰",
-        "description": "第二季强势回归：智安接管了武器店，镇万死里逃生，而“巴比伦”组织则陷入了彻底的劣势。为了保护智安，镇万将主动出击，直捣“巴比伦”的大本营；然而，这个雇佣兵组织绝不会轻易认输。颜面尽失的“巴比伦”将从海外调集援手，并派出新一批致命杀手，试图重整旗鼓、实施报复。",
-        "releaseDate": "2026-07-22",
-        "backdropPath": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-        "posterPath": "/bqPkhXWA1kP1OCrN2q2v9up8YXe.jpg",
-        "rating": 8.7,
+        "title": "百年孤独",
+        "originalTitle": "Cien años de soledad",
+        "description": "接续布恩迪亚家族的宿命轮回，聚焦家族双胞胎后代的迥异人生与马孔多的盛极而衰。",
+        "releaseDate": "2026-08-05",
+        "backdropPath": "/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+        "posterPath": "/w8p5MkntL1bTI94INGLya1pHmTP.jpg",
+        "rating": 7.4,
         "mediaType": "tv",
-        "genreTitle": "剧情, 动作冒险"
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
         "id": 301418,
@@ -332,17 +306,30 @@
         "genreTitle": "犯罪, 喜剧"
       },
       {
-        "id": 97546,
+        "id": 287238,
         "type": "tmdb",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "description": "丽贝卡重新聘用泰德，执教里士满二线女子足球队灰狗女足。即便泰德已是资深教练，前路依旧充满挑战：全新队员、野心各异的球员、外界普遍不看好，他与比尔德教练将迎来全新征程。",
-        "releaseDate": "2026-08-04",
-        "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-        "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
-        "rating": 7.8,
+        "title": "狂怒追缉",
+        "originalTitle": "Furious",
+        "description": "一名是誓言缉凶的联邦调查局探员艾莉丝，一名是神秘狡猾的女性连环杀手凯萨琳。两人皆以自己的方式伸张正义，当她们的命运开始交织，是非对错的界线也随之模糊。",
+        "releaseDate": "2026-07-27",
+        "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+        "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
+        "rating": 7.085,
         "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
+        "genreTitle": "剧情, 犯罪"
+      },
+      {
+        "id": 95350,
+        "type": "tmdb",
+        "title": "绿灯军团",
+        "originalTitle": "Lanterns",
+        "description": "跟随约翰·斯图尔特与绿灯军团传奇哈尔·乔丹的脚步，看这两位星际警察如何深入美国腹地，调查一起谋杀命案。",
+        "releaseDate": "2026-08-16",
+        "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+        "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
+        "rating": 8.183,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
       },
       {
         "id": 292108,
@@ -358,19 +345,6 @@
         "genreTitle": "喜剧"
       },
       {
-        "id": 287238,
-        "type": "tmdb",
-        "title": "狂怒追缉",
-        "originalTitle": "Furious",
-        "description": "一名是誓言缉凶的联邦调查局探员艾莉丝，一名是神秘狡猾的女性连环杀手凯萨琳。两人皆以自己的方式伸张正义，当她们的命运开始交织，是非对错的界线也随之模糊。",
-        "releaseDate": "2026-07-27",
-        "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-        "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.1,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 犯罪"
-      },
-      {
         "id": 322570,
         "type": "tmdb",
         "title": "直到T恤干透",
@@ -384,6 +358,19 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
+        "id": 215072,
+        "type": "tmdb",
+        "title": "杀人者的购物中心",
+        "originalTitle": "킬러들의 쇼핑몰",
+        "description": "第二季强势回归：智安接管了武器店，镇万死里逃生，而“巴比伦”组织则陷入了彻底的劣势。为了保护智安，镇万将主动出击，直捣“巴比伦”的大本营；然而，这个雇佣兵组织绝不会轻易认输。颜面尽失的“巴比伦”将从海外调集援手，并派出新一批致命杀手，试图重整旗鼓、实施报复。",
+        "releaseDate": "2026-07-22",
+        "backdropPath": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+        "posterPath": "/bqPkhXWA1kP1OCrN2q2v9up8YXe.jpg",
+        "rating": 8.7,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 动作冒险"
+      },
+      {
         "id": 241882,
         "type": "tmdb",
         "title": "亡命闺蜜",
@@ -395,6 +382,19 @@
         "rating": 6.552,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
+      },
+      {
+        "id": 97546,
+        "type": "tmdb",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "description": "丽贝卡重新聘用泰德，执教里士满二线女子足球队灰狗女足。即便泰德已是资深教练，前路依旧充满挑战：全新队员、野心各异的球员、外界普遍不看好，他与比尔德教练将迎来全新征程。",
+        "releaseDate": "2026-08-04",
+        "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
       }
     ]
   }
