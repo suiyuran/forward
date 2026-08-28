@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-26T16:44:30.214Z",
+  "time": "2026-08-28T00:43:31.154Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/u7LWdKmEdEr6Ui3GZMsFGlKZQBd.jpg",
-        "rating": 8.411,
+        "rating": 8.414,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/AcriuLMhzvkSDUBzuEvns5WGe8F.jpg",
-        "rating": 5.971,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -172,14 +172,14 @@
         "genreTitle": "动画, 动作冒险"
       },
       {
-        "id": 331216,
+        "id": 331481,
         "type": "tmdb",
-        "title": "关于同组的染谷同学是性感女优这件事。",
-        "originalTitle": "同セ三の染谷tんかセクツ女優だた話。",
-        "description": "「不会吧……这不是染谷同学吗？」\n\n大学生良介在成人视频网站上，发现了一位与同班同学染谷极其相似的女优——爱音春奈。\n\n究竟只是碰巧长得像，还是另有隐情……？\n\n为了弄清真相，良介终于鼓起勇气向染谷本人询问。\n\n没想到，答案竟然是——真的是本人！？\n\n与既性感又可爱的染谷同学展开的甜蜜又爆笑的恋爱喜剧，现在正式开幕！！",
+        "title": "同じゼミの染谷さんがセクシー女優だった話。",
+        "originalTitle": "同じゼミの染谷さんがセクシー女優だった話。",
+        "description": "",
         "releaseDate": "2026-07-05",
-        "backdropPath": null,
-        "posterPath": "/c2z1BwKfaD6RdGvHwKOwAQgPBkx.jpg",
+        "backdropPath": "/8jwURq2AVsm6EyobwiYZdgax5yg.jpg",
+        "posterPath": "/ubyTmZ07KQ8N9JLjoFdhuev9ANf.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画"
@@ -386,7 +386,7 @@
       {
         "id": 255358,
         "type": "tmdb",
-        "title": "攻壳机动队 THE GHOST IN THE SHELL",
+        "title": "攻壳机动队",
         "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
         "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
         "releaseDate": "2026-07-07",
@@ -550,7 +550,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.695,
+        "rating": 8.694,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -628,7 +628,7 @@
         "releaseDate": "2025-07-02",
         "backdropPath": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
         "posterPath": "/krx4GwKIWVCtr4MgMeGi4lYkz5x.jpg",
-        "rating": 7.96,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -641,7 +641,7 @@
         "releaseDate": "2026-07-08",
         "backdropPath": "/irM3WhxOorkklhx5To9cfG2ktM6.jpg",
         "posterPath": "/1SMRFZdToK2JUXgw9KTQ1y3cE3n.jpg",
-        "rating": 8.333,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -667,7 +667,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/44cpdAd87SSmOVew1Y4LsEWjqPf.jpg",
         "posterPath": "/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
-        "rating": 6.667,
+        "rating": 7.143,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -696,6 +696,19 @@
         "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 69346,
+        "type": "tmdb",
+        "title": "幼女战记",
+        "originalTitle": "幼女戦記",
+        "description": "统一历1923年6月，金发碧眼的幼女，谭雅·提古雷查夫，正作为部队勤务的一环而在北方军管区诺登战区第三巡逻线进行帝国军士官学校最终课程的研修。作为航空魔导师向着光辉履历踏出第一步的研修，平安无事地结束 ── 本该如此。但事态却向着超出预料的方向转变。以协约联合的越境侵犯为契机，帝国与协约联合进入战争状态。随着转移至战时体制，谭雅被交付了观测任务，但协约联合军发动奇袭，谭雅陷入不得不与敌军魔导师中队单独交战的事态。敌众我寡，就连在我军抵达之前牵制敌军都无法做到，但逃跑的话则难免敌前逃亡的死罪，她面临这种绝望的状况。为了无论如何存活下去，并在面对高层时做到最好的应对，谭雅使用了某个战略……",
+        "releaseDate": "2017-01-06",
+        "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
+        "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
       }
     ],
     "星期四": [
@@ -799,7 +812,7 @@
         "releaseDate": "2026-07-16",
         "backdropPath": "/yRppVL3fuooqvimAr5q5lr8sdxZ.jpg",
         "posterPath": "/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
-        "rating": 7,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -892,7 +905,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/6szuXVEj9zQtsu3RyWn9SnclIgB.jpg",
         "posterPath": "/bycBcdf2LuM1kr1wQbgUgIWMOzf.jpg",
-        "rating": 8.5,
+        "rating": 8.25,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1037,7 +1050,7 @@
         "releaseDate": "2004-10-05",
         "backdropPath": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
         "posterPath": "/uZM8PIaimoRxQ3vYqzpZOifGE6Y.jpg",
-        "rating": 8.37,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -1063,7 +1076,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/u02TXrpVxJXxbh9odWbrqbymPKC.jpg",
         "posterPath": "/lSloeMq52OkhxCWH8GsomYziVGa.jpg",
-        "rating": 8.7,
+        "rating": 8.583,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -1076,7 +1089,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.6,
+        "rating": 8.468,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
