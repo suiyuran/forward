@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-29T02:30:15.211Z",
+  "time": "2026-08-29T22:03:24.579Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.3,
+        "rating": 9.333,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.982,
+        "rating": 7.986,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -36,7 +36,7 @@
         "description": "罗马尼亚年轻女子贾尼娜来到波尔多，在一户资产阶级家庭担任女管家。白天她埋头处理雇主家的家务，细心照料雇主家的儿子卢昂；夜晚她加入业余剧团，排练改编自经典小说《女仆日记》的戏剧，出演女仆一角。现实中的移民打工人身份，和舞台上的女仆角色不断互相对照拉扯。一边是雇主家庭的琐碎日常，另一边是戏剧排练场，同时她还要承受与自己女儿相隔的亲情困境，现实人生和戏剧表演的边界逐渐模糊。",
         "releaseDate": "2026-10-23",
         "backdropPath": "/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg",
-        "posterPath": "/gxH8nUhYEa3T0WK9Z1Q6MI9f8Ie.jpg",
+        "posterPath": "/iKDaYgc0crkad8jlu668Fkk3QaL.jpg",
         "rating": 0,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
@@ -44,13 +44,13 @@
       {
         "id": 950028,
         "type": "tmdb",
-        "title": "邀请",
+        "title": "激情邀约",
         "originalTitle": "The Invite",
         "description": "影片改编自西班牙电影《多愁善感》，是一部关于夫妻关系的讽刺喜剧。影片讲述的是“一对夫妇邀请邻居过来，点燃了一场充满意想不到的转折的夜晚，揭示了深藏的情感和未被探索的性欲。”",
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.331,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-03-18",
         "backdropPath": "/6LpnsToxRww4wsFDX4HUcNKTNF4.jpg",
         "posterPath": "/1l9mxuDThsc84eUpHyIJcUOTg4f.jpg",
-        "rating": 7.519,
+        "rating": 7.541,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-07-31",
         "backdropPath": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
         "posterPath": "/jQ9mNZfvnGzXIedlT5IpBVhAzUi.jpg",
-        "rating": 8.8,
+        "rating": 9.6,
         "mediaType": "tv",
         "genreTitle": "犯罪, 喜剧"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.556,
+        "rating": 6.6,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
