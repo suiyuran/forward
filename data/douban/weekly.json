@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-28T03:52:52.542Z",
+  "time": "2026-08-29T02:30:15.211Z",
   "data": {
     "电影": [
       {
@@ -29,28 +29,28 @@
         "genreTitle": "冒险, 动作"
       },
       {
-        "id": 1724637,
+        "id": 1472813,
         "type": "tmdb",
-        "title": "去你的岛",
-        "originalTitle": "去你的岛",
-        "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
-        "releaseDate": "2026-08-07",
-        "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
-        "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
-        "rating": 7,
+        "title": "女仆日记",
+        "originalTitle": "Le Journal d'une femme de chambre",
+        "description": "罗马尼亚年轻女子贾尼娜来到波尔多，在一户资产阶级家庭担任女管家。白天她埋头处理雇主家的家务，细心照料雇主家的儿子卢昂；夜晚她加入业余剧团，排练改编自经典小说《女仆日记》的戏剧，出演女仆一角。现实中的移民打工人身份，和舞台上的女仆角色不断互相对照拉扯。一边是雇主家庭的琐碎日常，另一边是戏剧排练场，同时她还要承受与自己女儿相隔的亲情困境，现实人生和戏剧表演的边界逐渐模糊。",
+        "releaseDate": "2026-10-23",
+        "backdropPath": "/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg",
+        "posterPath": "/gxH8nUhYEa3T0WK9Z1Q6MI9f8Ie.jpg",
+        "rating": 0,
         "mediaType": "movie",
-        "genreTitle": "爱情, 动画"
+        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 950028,
         "type": "tmdb",
-        "title": "激情邀约",
+        "title": "邀请",
         "originalTitle": "The Invite",
         "description": "影片改编自西班牙电影《多愁善感》，是一部关于夫妻关系的讽刺喜剧。影片讲述的是“一对夫妇邀请邻居过来，点燃了一场充满意想不到的转折的夜晚，揭示了深藏的情感和未被探索的性欲。”",
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.323,
+        "rating": 7.331,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-03-18",
         "backdropPath": "/6LpnsToxRww4wsFDX4HUcNKTNF4.jpg",
         "posterPath": "/1l9mxuDThsc84eUpHyIJcUOTg4f.jpg",
-        "rating": 7.5,
+        "rating": 7.519,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -120,17 +120,17 @@
         "genreTitle": "剧情, 历史"
       },
       {
-        "id": 587370,
+        "id": 1376415,
         "type": "tmdb",
-        "title": "奶奶身后事",
-        "originalTitle": "Pohádky po babičce",
-        "description": "奶奶去世后，三个孩子在爷爷家中度过了一夜。在这个夜晚，他们发现了想象力的神奇魔力。",
-        "releaseDate": "2025-05-18",
-        "backdropPath": "/AupBUhnJEFedxF4vQ82LU9rOXDC.jpg",
-        "posterPath": "/Y64zOoWa5jqoLQL6TslONjwWyy.jpg",
-        "rating": 5,
+        "title": "伪钞之王",
+        "originalTitle": "L'Affaire Bojarski",
+        "description": "故事讲述了年轻的波兰难民扬·博亚尔斯基如何成为法国战后有史以来最大的造假者，十五年来，他的家人都不知道，他在花园的一个棚屋里过着双重生活，制造假币——比法国银行印制的钞票“更真实”；一直以来，这个无与伦比的家伙从警察的手中溜走无数次，成为马泰探员的眼中钉。",
+        "releaseDate": "2026-01-14",
+        "backdropPath": "/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
+        "posterPath": "/r60UQDxVX3ayqlvUDdjPWUfD3x4.jpg",
+        "rating": 7.1,
         "mediaType": "movie",
-        "genreTitle": "动画, 家庭"
+        "genreTitle": "历史, 剧情"
       }
     ],
     "剧集·国内": [
@@ -247,7 +247,7 @@
         "releaseDate": "2026-08-04",
         "backdropPath": "/gN3vSMrarrirco31Af8bUsSHBYZ.jpg",
         "posterPath": "/8PbjBwbkZgFj8k2bitxMFkllal5.jpg",
-        "rating": 9,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "悬疑"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.2,
+        "rating": 6.321,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.085,
+        "rating": 7.117,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-08-16",
         "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.215,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -347,7 +347,7 @@
       {
         "id": 322570,
         "type": "tmdb",
-        "title": "直到T恤干了",
+        "title": "直到T恤干透",
         "originalTitle": "Tシャツが乾くまで",
         "description": "40岁的杂志编辑咲子（苍井优 饰）原本深信自己拥有美满的婚姻，但在卷入一场事故后，她意外发现丈夫在每个月“第3个星期五”都有一段完全对不上号的神秘行踪。于是，在看似美满的婚姻背后，她将面对人性中真实而扭曲的“不伦”。",
         "releaseDate": "2026-07-10",
@@ -379,7 +379,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.552,
+        "rating": 6.556,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
