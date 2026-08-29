@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-29T00:53:02.061Z",
+  "time": "2026-08-29T19:37:24.223Z",
   "data": [
     {
       "id": 1368337,
@@ -10,9 +10,22 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 7.982,
+      "rating": 7.986,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
+    },
+    {
+      "id": 278,
+      "type": "tmdb",
+      "title": "肖申克的救赎",
+      "originalTitle": "The Shawshank Redemption",
+      "description": "安迪·杜佛兰因被错判谋杀妻子及其情人，被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与瑞德建立起深厚的友谊。漫长的岁月里，他也开始用自己的方式改变身边的人，以及这座看似牢不可破的监狱。",
+      "releaseDate": "1994-09-23",
+      "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+      "posterPath": "/iKZev9OgfklidO8AvdrYlwung2o.jpg",
+      "rating": 8.728,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
     },
     {
       "id": 1391021,
@@ -23,7 +36,7 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 9.3,
+      "rating": 9.333,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -41,6 +54,19 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
+      "id": 1502135,
+      "type": "tmdb",
+      "title": "密档",
+      "originalTitle": "密档",
+      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
+      "releaseDate": "2026-08-28",
+      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
+      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 悬疑"
+    },
+    {
       "id": 1748007,
       "type": "tmdb",
       "title": "牛来",
@@ -54,17 +80,30 @@
       "genreTitle": "动画, 冒险"
     },
     {
-      "id": 278,
+      "id": 1306055,
       "type": "tmdb",
-      "title": "肖申克的救赎",
-      "originalTitle": "The Shawshank Redemption",
-      "description": "安迪·杜佛兰因被错判谋杀妻子及其情人，被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与瑞德建立起深厚的友谊。漫长的岁月里，他也开始用自己的方式改变身边的人，以及这座看似牢不可破的监狱。",
-      "releaseDate": "1994-09-23",
-      "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
-      "posterPath": "/iKZev9OgfklidO8AvdrYlwung2o.jpg",
-      "rating": 8.7,
+      "title": "数到三",
+      "originalTitle": "数到三",
+      "description": "舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
+      "releaseDate": "2026-08-28",
+      "backdropPath": null,
+      "posterPath": "/kRlgxkA83z6atla0BRcTxHZRFtf.jpg",
+      "rating": 5,
       "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
+      "rating": 8.2,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1630030,
@@ -80,28 +119,15 @@
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.206,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
       "id": 969681,
       "type": "tmdb",
       "title": "蜘蛛侠：崭新之日",
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "releaseDate": "2026-07-29",
-      "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "backdropPath": "/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
       "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.887,
+      "rating": 7.888,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -132,6 +158,19 @@
       "genreTitle": "喜剧, 动画"
     },
     {
+      "id": 1305672,
+      "type": "tmdb",
+      "title": "抓特务",
+      "originalTitle": "抓特务",
+      "description": "1949年开国大典当天，刚刚入城并转任公安派出所所长的肖大力，在工作中发现小学教员冯静波身上疑点重重，怀疑他与潜伏的特务活动有关。为了查清冯静波的真实身份，肖大力甚至举家迁入他居住的院落，与其成为邻居，从此开始了漫长的观察与追查。冯静波始终谨慎周旋，肖大力也从未放弃心中的怀疑。随着岁月流逝，这场从新中国成立之初开始的较量持续了近四十年，两个人的人生也在长期的试探、对峙与朝夕相处中紧紧纠缠在一起……",
+      "releaseDate": "2026-06-19",
+      "backdropPath": "/bO0nnTk3Vzt7hwnRKa3nOpawZPt.jpg",
+      "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
+      "rating": 6.3,
+      "mediaType": "movie",
+      "genreTitle": "历史, 剧情"
+    },
+    {
       "id": 1724637,
       "type": "tmdb",
       "title": "去你的岛",
@@ -145,45 +184,6 @@
       "genreTitle": "爱情, 动画"
     },
     {
-      "id": 1306055,
-      "type": "tmdb",
-      "title": "数到三",
-      "originalTitle": "数到三",
-      "description": "舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
-      "releaseDate": "2026-08-28",
-      "backdropPath": null,
-      "posterPath": "/kRlgxkA83z6atla0BRcTxHZRFtf.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1502135,
-      "type": "tmdb",
-      "title": "密档",
-      "originalTitle": "密档",
-      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
-      "releaseDate": "2026-08-28",
-      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
-      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1101383,
-      "type": "tmdb",
-      "title": "逃出绝命街",
-      "originalTitle": "The End of Oak Street",
-      "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
-      "releaseDate": "2026-08-12",
-      "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "posterPath": "/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
-      "rating": 6.36,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 悬疑"
-    },
-    {
       "id": 1541125,
       "type": "tmdb",
       "title": "年会不能停！2",
@@ -195,6 +195,19 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1101383,
+      "type": "tmdb",
+      "title": "逃出绝命街",
+      "originalTitle": "The End of Oak Street",
+      "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
+      "releaseDate": "2026-08-12",
+      "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "posterPath": "/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
+      "rating": 6.355,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 悬疑"
     },
     {
       "id": 1491920,
@@ -223,19 +236,6 @@
       "genreTitle": "恐怖"
     },
     {
-      "id": 1563614,
-      "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "posterPath": "/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 剧情"
-    },
-    {
       "id": 1185806,
       "type": "tmdb",
       "title": "汪汪队立大功大电影3：勇闯恐龙岛",
@@ -249,17 +249,17 @@
       "genreTitle": "动画, 冒险"
     },
     {
-      "id": 1305672,
+      "id": 1563614,
       "type": "tmdb",
-      "title": "抓特务",
-      "originalTitle": "抓特务",
-      "description": "1949年开国大典这天，刚入城改编成公安派出所所长的肖大力发现小学教员冯静波特嫌疑点重重。他本着军人的高度警惕和公安战士的责任感，硬是与冯搭做邻居，穷尽一生历尽磨难，进行了一场近四十年无怨无悔的追踪。影片根据张策同名小说改编。",
-      "releaseDate": "2026-06-19",
-      "backdropPath": "/bO0nnTk3Vzt7hwnRKa3nOpawZPt.jpg",
-      "posterPath": "/sCyjVoYxWFyzmjPXJHTaYidDkGo.jpg",
-      "rating": 6.3,
+      "title": "不想失去你",
+      "originalTitle": "不想失去你",
+      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
+      "posterPath": "/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
+      "rating": 5,
       "mediaType": "movie",
-      "genreTitle": "历史, 剧情"
+      "genreTitle": "爱情, 剧情"
     },
     {
       "id": 1083381,
@@ -270,7 +270,7 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.1,
+      "rating": 7.085,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -301,6 +301,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 194,
+      "type": "tmdb",
+      "title": "天使爱美丽",
+      "originalTitle": "Le Fabuleux Destin d'Amélie Poulain",
+      "description": "艾米莉（奥黛丽·塔图 Audrey Tautou 饰）有着别人看来不幸的童年——父亲给她做健康检查时，发现她心跳过快，便断定她患上心脏病，从此艾米莉与学校绝缘。随后因为一桩意外，母亲在她眼前突然死去。这一切都毫不影响艾米莉对生活的豁达乐观。1997年，戴安娜王妃的去世让她倍感人生的孤独脆弱，艾米莉从此开始了一系列助人计划，包括自闭忧郁的邻居老人，被老板刻薄的菜摊伙计、遗失了童年器物的旧房东、爱情失意的咖啡店同事。但她万万想不到，成人录象带商店店员尼诺（马修·卡索维 Mathieu Kassovitz 饰），竟成为她的棘手对象，艾米莉开始了令人哭笑不得的另类计划……",
+      "releaseDate": "2001-04-25",
+      "backdropPath": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+      "posterPath": "/acQikJ5DyqTcuDDBJnT8P9wv62r.jpg",
+      "rating": 7.92,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 爱情"
+    },
+    {
       "id": 1315772,
       "type": "tmdb",
       "title": "小黄人与大怪兽",
@@ -309,35 +322,9 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.538,
+      "rating": 7.552,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
-    },
-    {
-      "id": 1148213,
-      "type": "tmdb",
-      "title": "喜欢高兴爱",
-      "originalTitle": "喜欢高兴爱",
-      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
-      "releaseDate": "2023-06-15",
-      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
-      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1604133,
-      "type": "tmdb",
-      "title": "四渡",
-      "originalTitle": "四渡",
-      "description": "长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
-      "releaseDate": "2026-06-26",
-      "backdropPath": "/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
-      "posterPath": "/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
-      "rating": 5.4,
-      "mediaType": "movie",
-      "genreTitle": "历史, 战争"
     },
     {
       "id": 1353926,
@@ -353,30 +340,17 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 194,
+      "id": 1604133,
       "type": "tmdb",
-      "title": "天使爱美丽",
-      "originalTitle": "Le Fabuleux Destin d'Amélie Poulain",
-      "description": "艾米莉（奥黛丽·塔图 Audrey Tautou 饰）有着别人看来不幸的童年——父亲给她做健康检查时，发现她心跳过快，便断定她患上心脏病，从此艾米莉与学校绝缘。随后因为一桩意外，母亲在她眼前突然死去。这一切都毫不影响艾米莉对生活的豁达乐观。1997年，戴安娜王妃的去世让她倍感人生的孤独脆弱，艾米莉从此开始了一系列助人计划，包括自闭忧郁的邻居老人，被老板刻薄的菜摊伙计、遗失了童年器物的旧房东、爱情失意的咖啡店同事。但她万万想不到，成人录象带商店店员尼诺（马修·卡索维 Mathieu Kassovitz 饰），竟成为她的棘手对象，艾米莉开始了令人哭笑不得的另类计划……",
-      "releaseDate": "2001-04-25",
-      "backdropPath": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
-      "posterPath": "/acQikJ5DyqTcuDDBJnT8P9wv62r.jpg",
-      "rating": 7.92,
+      "title": "四渡",
+      "originalTitle": "四渡",
+      "description": "长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
+      "releaseDate": "2026-06-26",
+      "backdropPath": "/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
+      "posterPath": "/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
+      "rating": 5.4,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 爱情"
-    },
-    {
-      "id": 1389241,
-      "type": "tmdb",
-      "title": "冬旅人",
-      "originalTitle": "冬旅人",
-      "description": "新疆女导演鲁丹自编自导的第一部作品，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师在冬季的北方小镇不期而遇的故事。作品中的父亲角色是缺失的，但却是三个主人公各自情感的牵绊，也在暗处推动着叙事的发展。人生至暗时刻的短暂相处，三颗孤独的灵魂慢慢靠近，呈现出相互交织的成长弧线，并寻找到了各自的救赎之路。本片由去年过世的藏地新浪潮电影第一人万玛才旦导演生前担任监制，这次入围上海国际电影节也是对这位英年早逝的电影大师最好的纪念。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": "/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
-      "posterPath": "/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "历史, 战争"
     },
     {
       "id": 396227,
@@ -400,7 +374,20 @@
       "releaseDate": "2022-10-21",
       "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
       "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
-      "rating": 7.645,
+      "rating": 7.6,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1389241,
+      "type": "tmdb",
+      "title": "冬旅人",
+      "originalTitle": "冬旅人",
+      "description": "新疆女导演鲁丹自编自导的第一部作品，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师在冬季的北方小镇不期而遇的故事。作品中的父亲角色是缺失的，但却是三个主人公各自情感的牵绊，也在暗处推动着叙事的发展。人生至暗时刻的短暂相处，三颗孤独的灵魂慢慢靠近，呈现出相互交织的成长弧线，并寻找到了各自的救赎之路。本片由去年过世的藏地新浪潮电影第一人万玛才旦导演生前担任监制，这次入围上海国际电影节也是对这位英年早逝的电影大师最好的纪念。",
+      "releaseDate": "2026-08-07",
+      "backdropPath": "/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
+      "posterPath": "/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
+      "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -431,19 +418,6 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 1628,
-      "type": "tmdb",
-      "title": "祖与占",
-      "originalTitle": "Jules et Jim",
-      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
-      "releaseDate": "1962-01-23",
-      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
-      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
       "id": 8073,
       "type": "tmdb",
       "title": "法外之徒",
@@ -455,6 +429,19 @@
       "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 1628,
+      "type": "tmdb",
+      "title": "祖与占",
+      "originalTitle": "Jules et Jim",
+      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
+      "releaseDate": "1962-01-23",
+      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 4024,
@@ -470,30 +457,17 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 1708565,
+      "id": 34838,
       "type": "tmdb",
-      "title": "那山那水",
-      "originalTitle": "那山那水",
-      "description": "影片以“两山”理念的发展为主线，深度聚焦其践行地—浙江，集中呈现了“两山”理念提出二十年来，浙江在习近平生态文明思想的指引下取得的显著成就，更完整追溯了这一理念从浙江实践到辐射全国、走向世界的生动历程，深刻阐释了生态文明建设的中国智慧与方案。",
-      "releaseDate": "2026-06-05",
-      "backdropPath": null,
-      "posterPath": "/tOXtPG2f8STXoJGuE5pfpwqERkr.jpg",
-      "rating": 0,
+      "title": "探戈课",
+      "originalTitle": "The Tango Lesson",
+      "description": "电影导演莎莉（莎莉·波特 Sally Potter 饰）在创作新剧本时遇到了灵感堵塞，她烦恼不已，却又无济于事。在观看一场激情肆意的探戈舞演出后，莎莉被深深感染，仿佛找到了一些灵感。她决心暂时抛下工作，开始学习探戈舞。她去巴黎旅行遇上了有名的探戈舞者帕布罗，被他的舞蹈所吸引。于是提出让他在自己的下部电影里演出，以帕布罗教她跳舞作为交换条件。莎莉越来越沉迷于探戈舞，在与帕布罗学习探戈的过程中，他们彼此爱上了对方。但来自不同文化背景的两人，性格有着极大的反差：来自南美的帕布罗有着强烈的控制欲，他习惯掌控选舞、音乐等一切细节，甚至包括与莎莉的爱情；而作为女性主义者的莎莉却是决定帕布罗参与她的影片的关键人。两人之间的关系时而紧张，时而悠然，一场爱情之战悄悄开始。",
+      "releaseDate": "1997-11-28",
+      "backdropPath": "/8UepZvv8uGXa5x6v5hrNTlkTBPJ.jpg",
+      "posterPath": "/dFrkFLIGUiHTu74WGE3633XXi4C.jpg",
+      "rating": 6.359,
       "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 2433,
-      "type": "tmdb",
-      "title": "柳媚花娇",
-      "originalTitle": "Les Demoiselles de Rochefort",
-      "description": "迪芬（凯瑟琳·德纳芙 Catherine Deneuve 饰）和苏兰（弗朗索瓦·朵列 Françoise Dorléac 饰）是相依为命的两姐妹，她们一个红发，一个金发，一个擅长曼妙的舞蹈，一个拥有天籁的歌喉。夏日嘉年华将近，在逐渐热烈的气氛中，迪芬和苏兰也在嘉年华中有着各自的任务。  　　画商吉列姆（Jacques Riberolles 饰）钦慕于迪芬的美貌，无奈迪芬早已经芳心暗许给了替她画像的年轻画家麦桑思（雅克·贝汉 Jacques Perrin 饰），与此同时，苏兰遇见了名为米勒（吉恩·凯利 Gene Kelly 饰）的年轻人，两人心心相惜两情相悦。让苏兰没有想到的是，眼前的米勒正是她苦苦寻找无果的作曲家，她一直希望米勒能够读一读她所撰写的一段协奏曲。",
-      "releaseDate": "1967-03-08",
-      "backdropPath": "/8m7qOKlsdnxt4335vpFzpffuIVu.jpg",
-      "posterPath": "/4gY1HkshKyIwgucy3Sjzamb0HSp.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 喜剧"
+      "genreTitle": "剧情, 音乐"
     },
     {
       "id": 4173,
@@ -509,30 +483,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 34838,
+      "id": 1708565,
       "type": "tmdb",
-      "title": "探戈课",
-      "originalTitle": "The Tango Lesson",
-      "description": "电影导演莎莉（莎莉·波特 Sally Potter 饰）在创作新剧本时遇到了灵感堵塞，她烦恼不已，却又无济于事。在观看一场激情肆意的探戈舞演出后，莎莉被深深感染，仿佛找到了一些灵感。她决心暂时抛下工作，开始学习探戈舞。她去巴黎旅行遇上了有名的探戈舞者帕布罗，被他的舞蹈所吸引。于是提出让他在自己的下部电影里演出，以帕布罗教她跳舞作为交换条件。莎莉越来越沉迷于探戈舞，在与帕布罗学习探戈的过程中，他们彼此爱上了对方。但来自不同文化背景的两人，性格有着极大的反差：来自南美的帕布罗有着强烈的控制欲，他习惯掌控选舞、音乐等一切细节，甚至包括与莎莉的爱情；而作为女性主义者的莎莉却是决定帕布罗参与她的影片的关键人。两人之间的关系时而紧张，时而悠然，一场爱情之战悄悄开始。",
-      "releaseDate": "1997-11-28",
-      "backdropPath": "/8UepZvv8uGXa5x6v5hrNTlkTBPJ.jpg",
-      "posterPath": "/dFrkFLIGUiHTu74WGE3633XXi4C.jpg",
-      "rating": 6.359,
+      "title": "那山那水",
+      "originalTitle": "那山那水",
+      "description": "影片以“两山”理念的发展为主线，深度聚焦其践行地—浙江，集中呈现了“两山”理念提出二十年来，浙江在习近平生态文明思想的指引下取得的显著成就，更完整追溯了这一理念从浙江实践到辐射全国、走向世界的生动历程，深刻阐释了生态文明建设的中国智慧与方案。",
+      "releaseDate": "2026-06-05",
+      "backdropPath": null,
+      "posterPath": "/tOXtPG2f8STXoJGuE5pfpwqERkr.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 音乐"
-    },
-    {
-      "id": 5967,
-      "type": "tmdb",
-      "title": "瑟堡的雨伞",
-      "originalTitle": "Les Parapluies de Cherbourg",
-      "description": "天使般美丽的凯瑟琳·德纳芙因雅克·德米这部璀璨动人的音乐剧而一举成名。她饰演一位雨伞店老板的娇柔女儿，初遇英俊的汽车修理师（尼诺·卡斯泰尔诺沃 饰）便沐浴在初恋的光辉中。当男孩被征召前往阿尔及利亚参战，这对恋人不得不迅速成长。影片以万花筒般绚烂的色彩精致构画，并借由作曲家米歇尔·勒格朗谱写的悠扬歌曲贯穿全片叙事，本片是影史上最受尊崇且别具一格的音乐电影之一。[标准收藏]",
-      "releaseDate": "1964-02-19",
-      "backdropPath": "/m1Gei9O5GfLoJHQjBaxWBSkXX2y.jpg",
-      "posterPath": "/6E1ra5C4rUZWAOtyUZtIa9qUG7y.jpg",
-      "rating": 7.387,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
+      "genreTitle": "纪录"
     },
     {
       "id": 902,
@@ -585,19 +546,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
-    },
-    {
-      "id": 1028378,
-      "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
-      "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.667,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     }
   ]
 }
