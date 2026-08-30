@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-23T19:13:51.257Z",
+  "time": "2026-08-30T21:42:45.989Z",
   "data": [
     {
       "id": 278,
@@ -8,9 +8,9 @@
       "originalTitle": "The Shawshank Redemption",
       "description": "安迪·杜佛兰因被错判谋杀妻子及其情人，被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与瑞德建立起深厚的友谊。漫长的岁月里，他也开始用自己的方式改变身边的人，以及这座看似牢不可破的监狱。",
       "releaseDate": "1994-09-23",
-      "backdropPath": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+      "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "posterPath": "/iKZev9OgfklidO8AvdrYlwung2o.jpg",
-      "rating": 8.7,
+      "rating": 8.728,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -23,7 +23,7 @@
       "releaseDate": "1993-01-01",
       "backdropPath": "/bBiZN1epQTu3F8iFLBuMhc4TRzr.jpg",
       "posterPath": "/vOEkLofQ8N1OdbGs5L87m7Plpw2.jpg",
-      "rating": 7.9,
+      "rating": 7.929,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -73,9 +73,9 @@
       "originalTitle": "Interstellar",
       "description": "近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前NASA宇航员库珀接连在女儿墨菲的书房发现奇怪的重力场现象，随即得知在某个未知区域内前NASA成员仍秘密进行一个拯救人类的计划。多年以前土星附近出现神秘虫洞，NASA借机将数名宇航员派遣到遥远的星系寻找适合居住的星球。在布兰德教授的劝说下，库珀忍痛告别了女儿，和其他三名专家教授女儿艾米莉亚·布兰德、罗米利、多伊尔搭乘宇宙飞船前往目前已知的最有希望的三颗星球考察。他们穿越遥远的星系银河，感受了一小时七年光阴的沧海桑田，窥见了未知星球和黑洞的壮伟与神秘。在浩瀚宇宙的绝望而孤独角落，总有一份超越了时空的笃定情怀将他们紧紧相连……",
       "releaseDate": "2014-11-05",
-      "backdropPath": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+      "backdropPath": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
       "posterPath": "/spQm5r317XPNHK1941ChWmqzkZs.jpg",
-      "rating": 8.485,
+      "rating": 8.486,
       "mediaType": "movie",
       "genreTitle": "冒险, 剧情"
     },
@@ -88,7 +88,7 @@
       "releaseDate": "1997-12-20",
       "backdropPath": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
       "posterPath": "/84PPFpTTMO83bPy19v7JgdNklDp.jpg",
-      "rating": 8.438,
+      "rating": 8.437,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -127,7 +127,7 @@
       "releaseDate": "1998-06-04",
       "backdropPath": "/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
       "posterPath": "/nAnzFcqORitpwvRQPceIt4mcm8G.jpg",
-      "rating": 8.2,
+      "rating": 8.157,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -140,7 +140,7 @@
       "releaseDate": "1993-12-15",
       "backdropPath": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
       "posterPath": "/7cDI6MrIi12uQxfipiNIeJPYljy.jpg",
-      "rating": 8.57,
+      "rating": 8.569,
       "mediaType": "movie",
       "genreTitle": "剧情, 历史"
     },
@@ -166,7 +166,7 @@
       "releaseDate": "1998-10-28",
       "backdropPath": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
       "posterPath": "/bXk1kSDSiVPj06LtpESZK7C8HsL.jpg",
-      "rating": 8.24,
+      "rating": 8.238,
       "mediaType": "movie",
       "genreTitle": "剧情, 音乐"
     },
@@ -175,11 +175,11 @@
       "type": "tmdb",
       "title": "疯狂动物城",
       "originalTitle": "Zootopia",
-      "description": "故事发生在一个所有哺乳类动物和谐共存的美好世界中，兔子朱迪（金妮弗·古德温 Ginnifer Goodwin 配音）从小就梦想着能够成为一名惩恶扬善的刑警，凭借着智慧和努力，朱迪成功的从警校中毕业进入了疯狂动物城警察局，殊不知这里是大型肉食类动物的领地，作为第一只，也是唯一的小型食草类动物，朱迪会遇到怎样的故事呢？近日里，城中接连发生动物失踪案件，就在全部警员都致力于调查案件真相之时，朱迪却被局长（伊德瑞斯·艾尔巴 Idris Elba 配音）发配成为了一名无足轻重的交警。某日，正在执勤的兔子遇见了名为尼克（杰森·贝特曼 Jason Bateman 配音）的狐狸，两人不打不相识，之后又误打误撞的接受了寻找失踪的水獭先生的任务，如果不能在两天之内找到水獭先生，朱迪就必须自愿离开警局。朱迪找到了尼克，两人联手揭露了一个隐藏在疯狂动物城之中的惊天秘密。",
+      "description": "在所有哺乳动物共同生活的现代都市“疯狂动物城”，兔子朱迪从小就梦想成为一名警察。凭借自己的努力，她终于从警校毕业，成为疯狂动物城警察局第一只兔子警官。然而初来乍到的朱迪并没有得到重用，而是被安排负责街头停车执法。与此同时，城中接连发生动物失踪事件，一心想证明自己的朱迪主动接下寻找失踪水獭的案件，并必须在48小时内查出线索，否则便要离开警局。调查过程中，她不得不与精明狡猾的狐狸尼克合作。原本互不信任的一兔一狐由此成为临时搭档，而这起看似普通的失踪案，也逐渐牵出隐藏在疯狂动物城背后的秘密……",
       "releaseDate": "2016-02-11",
       "backdropPath": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
       "posterPath": "/6L0nYQqqEYPaSMjmsWH8dr8I4Sk.jpg",
-      "rating": 7.765,
+      "rating": 7.766,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -192,7 +192,7 @@
       "releaseDate": "2009-12-23",
       "backdropPath": "/8gT3UKtglLVpu0YfccwbmXZ5Eis.jpg",
       "posterPath": "/3Kdkci7FE36fWcsuoeGFYApBBE1.jpg",
-      "rating": 8.006,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -205,7 +205,7 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.12,
+      "rating": 8.122,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -214,11 +214,11 @@
       "type": "tmdb",
       "title": "放牛班的春天",
       "originalTitle": "Les Choristes",
-      "description": "1949年的法国乡村，音乐家克莱门特（热拉尔·朱尼奥 Gérard Jugnot 饰）到了一间外号叫“塘低”的男子寄宿学校当助理教师。学校里的学生大部分都是难缠的问题儿童，体罚在这里司空见惯，学校的校长（弗朗索瓦·贝莱昂 François Berléand 饰）只顾自己的前途，残暴高压。性格沉静的克莱门特尝试用自己的方法改善这种状况，他重新创作音乐作品，组织合唱团，决定用音乐的方法来打开学生们封闭的心灵。然而，事情并不顺利，克莱门特发现学生皮埃尔·莫安琦（让-巴蒂斯特·莫尼耶 Jean·Baptiste Maunier 饰）拥有非同一般的音乐天赋，但是单亲家庭长大的他，性格异常敏感孤僻，怎样释放皮埃尔的音乐才能，让克莱门特头痛不已；同时，他与皮埃尔母亲的感情也渐渐微妙起来。",
+      "description": "1949年的法国乡村，音乐家克莱门特·马修来到一所名为“池塘之底”的男子寄宿学校担任助理教师。这里的学生大多顽皮难管，体罚和高压管教更是司空见惯。性格温和的马修不认同校长的教育方式，决定尝试用音乐改变这些孩子。他重新创作合唱曲，组织起一支合唱团，希望用歌声打开学生们封闭的心灵。在这个过程中，马修发现性格敏感孤僻的皮埃尔拥有非同一般的歌唱天赋，也开始尝试引导这个难以接近的少年找到属于自己的声音。随着歌声在校园中响起，这群曾被视为“问题儿童”的孩子，也逐渐发生着意想不到的变化……",
       "releaseDate": "2004-03-17",
       "backdropPath": "/eWYrrdCKd4bjOKB9DB0HtRUhI1o.jpg",
       "posterPath": "/d623rdQLxw7QhdP7ECsz1UkJrHl.jpg",
-      "rating": 7.7,
+      "rating": 7.745,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -231,7 +231,7 @@
       "releaseDate": "2002-12-12",
       "backdropPath": "/4Mm5l3TcKGynSNto0eyRJgBrkJ7.jpg",
       "posterPath": "/Apy624adTXc4prITxtcVbEdUPUm.jpg",
-      "rating": 7.806,
+      "rating": 7.807,
       "mediaType": "movie",
       "genreTitle": "剧情, 动作"
     },
@@ -283,7 +283,7 @@
       "releaseDate": "2011-09-22",
       "backdropPath": "/3xTS1lDlbpwg63slWSMeHdamOS1.jpg",
       "posterPath": "/jt7k0JmwNIExzwd86c61uVA7Jnt.jpg",
-      "rating": 8.168,
+      "rating": 8.163,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -296,7 +296,7 @@
       "releaseDate": "2011-11-02",
       "backdropPath": "/q6OGlZ1KMEb14AC8KbPCxyNOal6.jpg",
       "posterPath": "/dqPRhuTFkSNEg3oOmE1CVBNYRkA.jpg",
-      "rating": 8.3,
+      "rating": 8.272,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -307,7 +307,7 @@
       "originalTitle": "The Godfather",
       "description": "40年代的美国，“教父”维托·唐·柯里昂是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化、圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子逊尼被仇家杀害；小儿子麦克也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。",
       "releaseDate": "1972-03-14",
-      "backdropPath": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+      "backdropPath": "/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
       "posterPath": "/y03tzUKvkRCYwJ5NWys4W4bnS9m.jpg",
       "rating": 8.686,
       "mediaType": "movie",
@@ -318,11 +318,11 @@
       "type": "tmdb",
       "title": "哈利·波特与魔法石",
       "originalTitle": "Harry Potter and the Philosopher's Stone",
-      "description": "哈利·波特是一个孤儿，从小寄养在姨妈家，受尽欺凌。但就在哈利11岁生日的时候，他意外收到了霍格沃茨学院的入学通知书。哈利从该学院派来接他的巨人海格口中得知，这是一间魔法学院，并得知了自己的身世，原来哈利的父母都是伟大的魔法师，在对付伏地魔的战斗中双双献身，唯有哈利幸免于难。哈利进入霍格沃茨后，表现出了超乎想象的飞行天赋，得到麦格教授的推荐进入了格兰芬多的魁地奇球队。另一方面，哈利发现霍格沃茨学院内有一股黑暗势力似乎在暗暗滋长，揭开谜团的关键就在有凶恶的三头犬守护的房间内。哈利、罗恩和赫敏三个好朋友决定探个究竟。",
+      "description": "从小失去双亲的哈利·波特一直寄住在姨妈一家，直到11岁生日那天，他意外得知自己是一名巫师，并收到了霍格沃茨魔法学校的入学通知。在海格的带领下，哈利第一次走进神奇的魔法世界，也得知父母当年死于黑巫师伏地魔之手，而自己却奇迹般地从袭击中幸存。进入霍格沃茨后，哈利与罗恩·韦斯莱、赫敏·格兰杰成为好友，开始学习魔法并展现出出色的魁地奇天赋。与此同时，三人发现学校里一只三头犬守护着某个秘密，而一块拥有神奇力量的“魔法石”似乎正成为某股黑暗势力的目标……",
       "releaseDate": "2001-11-16",
       "backdropPath": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
-      "posterPath": "/4oglmTTSAZb9FSO3IFuMK8F7qQ3.jpg",
-      "rating": 7.902,
+      "posterPath": "/rUcN8fnvb6R8GY1NttAoLyjsRw0.jpg",
+      "rating": 7.903,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -335,7 +335,7 @@
       "releaseDate": "1987-10-04",
       "backdropPath": "/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
       "posterPath": "/f1gDRukoKvHwitvF0HvrBiX2V58.jpg",
-      "rating": 7.593,
+      "rating": 7.591,
       "mediaType": "movie",
       "genreTitle": "剧情, 历史"
     },
@@ -344,7 +344,7 @@
       "type": "tmdb",
       "title": "当幸福来敲门",
       "originalTitle": "The Pursuit of Happyness",
-      "description": "克里斯·加纳（威尔·史密斯 Will Smith 饰）用尽全部积蓄买下了高科技治疗仪，到处向医院推销，可是价格高昂，接受的人不多。就算他多努力都无法提供一个良好的生活环境给妻儿，妻子（桑迪·牛顿 Thandie Newton 饰）最终选择离开家。从此他带着儿子克里斯托夫（贾登·史密斯 Jaden Smith 饰）相依为命。克里斯好不容易争取回来一个股票投资公司实习的机会，就算没有报酬，成功机会只有百分之五，他仍努力奋斗，儿子是他的力量。他看尽白眼，与儿子躲在地铁站里的公共厕所里，住在教堂的收容所里……他坚信，幸福明天就会来临。",
+      "description": "克里斯·加纳用尽积蓄买下一批高科技医疗设备，希望靠推销它们改善一家人的生活，然而由于价格昂贵，销售情况并不理想，家庭也逐渐陷入困境。即使拼尽全力，他仍无法为妻儿提供稳定的生活，妻子最终选择离开，克里斯只得独自带着年幼的儿子克里斯托弗相依为命。为了改变命运，他好不容易争取到一家证券公司的实习机会，虽然没有薪水，而且只有极少数人能够最终留下，他仍决定全力以赴。生活的压力却接踵而至，父子二人一度无家可归，只能辗转于公共厕所和收容所。在人生最艰难的时刻，克里斯依然没有放弃这个可能改变命运的机会，也始终相信幸福终会来临……",
       "releaseDate": "2006-12-14",
       "backdropPath": "/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg",
       "posterPath": "/vxj2k0168d7K3pih7Aw6kqvvLcN.jpg",
@@ -361,7 +361,7 @@
       "releaseDate": "1988-04-16",
       "backdropPath": "/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
       "posterPath": "/okAv5Q1ad2WMt7hxsXUyolfE6zA.jpg",
-      "rating": 8.067,
+      "rating": 8.068,
       "mediaType": "movie",
       "genreTitle": "奇幻, 动画"
     },
@@ -400,7 +400,7 @@
       "releaseDate": "2008-07-16",
       "backdropPath": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
       "posterPath": "/qYB7QqwT1NtTW9aCwtopGy80rmA.jpg",
-      "rating": 8.534,
+      "rating": 8.5,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -411,9 +411,9 @@
       "originalTitle": "The Lord of the Rings: The Return of the King",
       "description": "索伦大军为剿灭人类种族，已对刚铎都城米那斯提力斯展开围攻。这座昔日的伟大王国由一位日渐衰弱的摄政王守护，此刻比任何时候都更需要它的王者归来。但阿拉贡能否回应血脉的召唤，成为命定之君？中土世界的命运，正系于他宽阔的双肩。",
       "releaseDate": "2003-12-17",
-      "backdropPath": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+      "backdropPath": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
       "posterPath": "/kKUgYEOVebuu21N0KnQiGpIStiN.jpg",
-      "rating": 8.504,
+      "rating": 8.506,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -461,11 +461,11 @@
       "type": "tmdb",
       "title": "飞屋环游记",
       "originalTitle": "Up",
-      "description": "小男孩卡尔（Carl Fredricksen）怀揣着对于冒险的热爱偶遇假小子艾丽（Ellie），而艾丽把整个屋子当成一艘大飞船游戏居然使他对这个女孩子有些着迷，相同的爱好最终使两个人成为了一生的爱侣。他们有一个梦想，那就是有朝一日要去南美洲的“仙境瀑布”探险，但直到艾丽去世，这个梦想也未能实现。终于有一天，曾经专卖气球的老人卡尔居然用五颜六色的气球拽着他的房子飞上了天空，他决定要去实现他们未曾实现的梦想。令卡尔始料不及的是，门廊居然搭上了一个自称是“荒野开拓者”的小男孩小罗（Russell），小罗的喋喋不休让卡尔对这个小胖墩格外讨厌。一老一少在飞行中经过了千难万险终于看到了传说中的“仙境瀑布”，在相处过程中卡尔发现小罗其实是个惹人怜爱的孩子。在步行穿越一座森林时，他们遇到了不会飞的大鸟凯文（Kevin）和一只会说话的狗狗逗逗（Dug），让老人惊讶的是他们还遇到了他少年的崇拜偶像——探险家查尔斯·蒙兹（Charles Muntz），而且他发现蒙兹居然是一个为达目的不择手段的坏人。这时，老人离自己的梦想之地只有一步之遥…",
+      "description": "小男孩卡尔从小怀揣着对冒险的向往，并因共同的梦想结识了活泼的艾莉。两人相伴一生，一直希望有朝一日能够前往南美洲的“仙境瀑布”探险，然而直到艾莉去世，这个愿望也始终未能实现。年老后的卡尔决定完成两人曾经的约定，他将成千上万只气球系在自己的房子上，连同整座房屋一起飞向天空。没想到，自称“荒野开拓者”的男孩小罗意外成为这趟旅程的不速之客。一老一少由此共同踏上前往仙境瀑布的冒险，并在途中遇见不会飞的大鸟凯文、会说话的狗狗逗逗，以及卡尔少年时代一直崇拜的传奇探险家查尔斯·蒙兹……",
       "releaseDate": "2009-05-28",
       "backdropPath": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
       "posterPath": "/bnsWG5uFKquBUFfRCTcoJcm3qOH.jpg",
-      "rating": 8,
+      "rating": 7.96,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -478,7 +478,7 @@
       "releaseDate": "2004-09-09",
       "backdropPath": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
       "posterPath": "/mOkZtsb8UObRAa77EDTmbPB5BuY.jpg",
-      "rating": 8.4,
+      "rating": 8.387,
       "mediaType": "movie",
       "genreTitle": "奇幻, 动画"
     },
@@ -491,7 +491,7 @@
       "releaseDate": "1957-04-10",
       "backdropPath": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
       "posterPath": "/tbhKU2naM5ItPO4ICdF2GKow9ik.jpg",
-      "rating": 8.569,
+      "rating": 8.57,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -500,7 +500,7 @@
       "type": "tmdb",
       "title": "海蒂和爷爷",
       "originalTitle": "Heidi",
-      "description": "海蒂（阿努克·斯戴芬 Anuk Steffen 饰）很小就失去了父母，无依无靠伶仃飘零，所幸得到了姨妈的收留，然而，这照顾却不能够持久，最终，海蒂来到了阿尔卑斯山，投奔住在那里的爷爷（布鲁诺·甘茨 Bruno Ganz 饰）。在村民们眼中，爷爷是个倔强而又古怪的老头，对 其敬而远之，然而海蒂那双天真无邪的眼睛发现了爷爷深藏在内心的柔情，一老一少两人卸下心防，相依为命...",
+      "description": "自幼失去双亲的海蒂一直由姨妈照顾，后来姨妈因工作无法继续照料她，便将她送到阿尔卑斯山，与独居在山上的爷爷一起生活。爷爷性格孤僻古怪，与村民鲜少往来，但活泼纯真的海蒂逐渐融化了他的心，也在山间结识了牧童彼得，开始了一段自由快乐的生活。然而不久后，姨妈突然将海蒂带离阿尔卑斯山，送往法兰克福的泽塞曼家，成为无法行走的富家女孩克拉拉的玩伴。两个身世与生活截然不同的女孩很快建立起深厚的友谊，但身处陌生城市的海蒂始终思念着阿尔卑斯山上的爷爷、彼得以及曾经自由自在的生活……",
       "releaseDate": "2015-12-10",
       "backdropPath": "/j61P3ty6dOWygdPSneEH56BrkSD.jpg",
       "posterPath": "/uMM9ovN6L2lL2iPbcrQ8mwLMtRg.jpg",
@@ -517,7 +517,7 @@
       "releaseDate": "2013-10-02",
       "backdropPath": "/4Nx40jwpoTHPjCWNGoaZ6kaoGxa.jpg",
       "posterPath": "/vT7Cthkjvmv3paxj9hunxHuMFjL.jpg",
-      "rating": 8.386,
+      "rating": 8.387,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -530,7 +530,7 @@
       "releaseDate": "2002-12-16",
       "backdropPath": "/sfW8gtA6Bz2F4zK1FoCKbMqTF8Z.jpg",
       "posterPath": "/8gVelCmO4TifM6rcBfTTOYyspak.jpg",
-      "rating": 7.977,
+      "rating": 7.978,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -543,7 +543,7 @@
       "releaseDate": "1986-08-02",
       "backdropPath": "/j2ZvLJyz163MlmBFsoaDYOwxgws.jpg",
       "posterPath": "/nCpXBPravHiEzjv6cCGp2lt2E28.jpg",
-      "rating": 7.97,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -569,7 +569,7 @@
       "releaseDate": "2016-12-21",
       "backdropPath": "/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
       "posterPath": "/j5M6e55pAhzPWUTP5k0Qyg6o876.jpg",
-      "rating": 7.879,
+      "rating": 7.875,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -591,7 +591,7 @@
       "type": "tmdb",
       "title": "钢琴家",
       "originalTitle": "The Pianist",
-      "description": "史标曼（艾德里安•布洛迪 Adrien Brody 饰）是波兰一家电台的钢琴师。二战即将爆发之时，他们全家被迫被赶进华沙的犹太区。在战争的颠沛流离中，家人和亲戚最终被纳粹杀害，而史标曼本人也受尽种种羞辱和折磨，他侥幸得到一位朋友的帮助，暂时有了藏身之处。战争愈加猛烈，朋友不得不抛下他回老家寻得安全的住所养育儿女。此时史标曼恶病缠身，却还要在搜捕中逃亡。在废墟的阁楼上他遇见了一名德国军官，在军官的要求下他弹奏了钢琴曲。美妙的琴声令德国军官萌发了恻隐之心，他暗暗帮助史标曼直到苏军对波兰的解放到来……",
+      "description": "第二次世界大战爆发前夕，波兰犹太裔钢琴家瓦迪斯瓦夫·什皮尔曼仍在华沙电台演奏钢琴。随着德军占领波兰，针对犹太人的迫害不断升级，他和家人被迫迁入华沙犹太区，原本平静的生活也彻底崩塌。在饥饿、暴力与死亡的阴影下，什皮尔曼与家人艰难求生，却又在战争中被迫分离。侥幸逃过驱逐后，他只能依靠朋友的帮助辗转藏身，并在逐渐沦为废墟的华沙中独自躲避搜捕。曾经陪伴他的音乐几乎从生活中消失，而活下去成为他唯一能够坚持的事情……",
       "releaseDate": "2002-09-17",
       "backdropPath": "/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg",
       "posterPath": "/1J3yRdmlBF3a5l3GLqBScRBdhJr.jpg",
@@ -608,7 +608,7 @@
       "releaseDate": "1989-06-02",
       "backdropPath": "/lFIXZpwwlF9hg8NM3RazaIJDuaj.jpg",
       "posterPath": "/qwE4GEH8dz7aQnNXjmM3MLKQwYN.jpg",
-      "rating": 8.296,
+      "rating": 8.295,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -621,7 +621,7 @@
       "releaseDate": "2002-12-18",
       "backdropPath": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
       "posterPath": "/b0DbmadMgfM1Rni8vhaJwDZ1sj1.jpg",
-      "rating": 8.4,
+      "rating": 8.428,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -646,8 +646,8 @@
       "description": "托尼（维果·莫腾森 Viggo Mortensen 饰）是一个吊儿郎当游手好闲的混混，在一家夜总会做侍者。这间夜总会因故要停业几个月，可托尼所要支付的房租和生活费不会因此取消，所以他的当务之急是去寻找另一份工作来填补这几个月的空缺。在这个节骨眼上，一位名叫唐雪莉（马赫沙拉·阿里 Mahershala Ali 饰）的黑人钢琴家提出雇佣托尼。唐雪莉即将开始为期八个星期的南下巡回演出，可是，那个时候南方对黑人的歧视非常的严重，于是托尼便成为了唐雪莉的司机兼保镖。一路上，两人迥异的性格使得他们之间产生了很多的矛盾，与此同时，唐雪莉在南方所遭受的种种不公平的对待也让托尼对种族歧视感到深恶痛绝。",
       "releaseDate": "2018-11-16",
       "backdropPath": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
-      "posterPath": "/i5kSuadrODYA2INXDksBk6oAY66.jpg",
-      "rating": 8.222,
+      "posterPath": "/um1Tc0238x1II2u33FPHbMj3GBE.jpg",
+      "rating": 8.223,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -660,7 +660,7 @@
       "releaseDate": "2018-09-20",
       "backdropPath": "/sEW8q9al73rtow257dXAusD9yS7.jpg",
       "posterPath": "/9vS57uhrpnuDFwci8ZKwnUcpWDU.jpg",
-      "rating": 8.148,
+      "rating": 8.149,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -673,7 +673,7 @@
       "releaseDate": "1992-12-23",
       "backdropPath": "/fa03pD2qYmms4ZMgAv7PMqfFiGO.jpg",
       "posterPath": "/zy18NKFofQKH9sK6aF54iKtdKP0.jpg",
-      "rating": 7.8,
+      "rating": 7.792,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -699,7 +699,7 @@
       "releaseDate": "1999-03-31",
       "backdropPath": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
       "posterPath": "/eMurN09rDC2qeEv3npkUbcJfIXN.jpg",
-      "rating": 8.255,
+      "rating": 8.3,
       "mediaType": "movie",
       "genreTitle": "动作, 科幻"
     },
@@ -710,9 +710,9 @@
       "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
       "description": "J.R.R.托尔金的文学巨著首次以电影形式磅礴呈现——这是一场正义对抗邪恶的史诗冒险，一段关于友谊力量与个人勇气的传奇，更是一次为人类纪元开辟道路的英雄征程。",
       "releaseDate": "2001-12-18",
-      "backdropPath": "/mWDdRXTivGE7aaY2vo1Ie0PfCX5.jpg",
+      "backdropPath": "/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
       "posterPath": "/dvNHlWMxba5f9r8xS9tILLUig8m.jpg",
-      "rating": 8.443,
+      "rating": 8.444,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -736,9 +736,9 @@
       "originalTitle": "The Godfather Part II",
       "description": "作为《教父》的续篇，影片延续了科莱昂家族两代权力交替的史诗。科波拉在第二部分中讲述了两条故事线：由罗伯特·德尼罗以非凡演技演绎的年轻教父维托的根源与崛起，以及迈克尔（阿尔·帕西诺饰）作为新任教父的上位之路。",
       "releaseDate": "1974-12-20",
-      "backdropPath": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "backdropPath": "/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
       "posterPath": "/4J8jUmjgKPggRPJqqdkjWCj2k0D.jpg",
-      "rating": 8.572,
+      "rating": 8.573,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -751,7 +751,7 @@
       "releaseDate": "1994-06-15",
       "backdropPath": "/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
       "posterPath": "/6f3r34trWZrZzRyTDdMzQp5XRrQ.jpg",
-      "rating": 8.252,
+      "rating": 8.251,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -764,7 +764,7 @@
       "releaseDate": "1988-11-17",
       "backdropPath": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
       "posterPath": "/gLFwLAjOdywCT2wwkzmA3Me54xI.jpg",
-      "rating": 8.43,
+      "rating": 8.431,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -816,7 +816,7 @@
       "releaseDate": "1999-10-15",
       "backdropPath": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
       "posterPath": "/qkrH7rjYKU4KOwwIl6wF6H3ISvm.jpg",
-      "rating": 8.4,
+      "rating": 8.437,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -842,7 +842,7 @@
       "releaseDate": "2008-05-07",
       "backdropPath": "/6aRuABAdhuuDypLGscM7HoEWHx4.jpg",
       "posterPath": "/33iFmb2fs1o9jZT1YMXchJZYjb3.jpg",
-      "rating": 7.8,
+      "rating": 7.818,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -851,10 +851,10 @@
       "type": "tmdb",
       "title": "哈利·波特与死亡圣器（下）",
       "originalTitle": "Harry Potter and the Deathly Hallows: Part 2",
-      "description": "在这部史诗终章的第二部分，魔法世界正邪双方的对决升级为全面战争。危机已达空前高度，无人能保证安全。然而，当哈利·波特逐步逼近与伏地魔的终极对决时，他可能被迫作出最后的牺牲。一切在此终结。[华纳兄弟影业]",
+      "description": "哈利、罗恩和赫敏继续寻找并摧毁伏地魔剩余的魂器，而新的线索最终将他们再次带回已经被食死徒控制的霍格沃茨。随着哈利归来，麦格教授、纳威以及学校的师生和反抗力量开始集结，准备守卫霍格沃茨；伏地魔则率领食死徒大军向学校逼近，一场决定魔法世界命运的大战就此爆发。在战火之中，哈利三人必须赶在伏地魔之前找到最后的魂器，而关于伏地魔、死亡圣器以及哈利自身命运的秘密也逐渐接近最终答案。多年恩怨与所有未解的谜团，都将在霍格沃茨迎来最后的对决……",
       "releaseDate": "2011-07-12",
       "backdropPath": "/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
-      "posterPath": "/8o2IcBnrwLS4XM0TxxnYwRxEVTX.jpg",
+      "posterPath": "/BWP852NTzheLTLsbN67gJoEnmV.jpg",
       "rating": 8.08,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
@@ -864,11 +864,11 @@
       "type": "tmdb",
       "title": "功夫",
       "originalTitle": "功夫",
-      "description": "1940年代的上海，自小受尽欺辱的街头混混阿星为了能出人头地，可谓窥见机会的缝隙就往里钻，今次他盯上行动日益猖獗的黑道势力“斧头帮”，想借之大名成就大业。阿星假冒“斧头帮”成员试图在一个叫“猪笼城寨”的地方对居民敲诈，不想引来真的“斧头帮”与“猪笼城寨”居民的恩怨。“猪笼城寨”原是藏龙卧虎之处，居民中有许多身怀绝技者，他们隐藏于此本是为远离江湖恩怨，不想麻烦自动上身，躲都躲不及。而在观战正邪两派的斗争中，阿星逐渐领悟功夫的真谛。",
+      "description": "20世纪40年代的上海，街头混混阿星自小受尽欺辱，一心想加入横行上海的黑道势力“斧头帮”，借此出人头地。一次，他假冒斧头帮成员来到贫民社区“猪笼城寨”敲诈居民，却阴差阳错招来了真正的斧头帮。谁也没有想到，这个看似破败的城寨其实卧虎藏龙，除了脾气火爆的包租婆和看似懦弱的包租公，居民中还隐藏着多位身怀绝技的武林高手。原本只想借斧头帮之名谋取好处的阿星，也因此被卷入斧头帮与猪笼城寨之间不断升级的冲突，并开始面对自己究竟要成为怎样的人……",
       "releaseDate": "2004-02-10",
       "backdropPath": "/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
       "posterPath": "/wv91QM70K9KzF9usPOebYX3LKkp.jpg",
-      "rating": 7.51,
+      "rating": 7.516,
       "mediaType": "movie",
       "genreTitle": "动作, 喜剧"
     },
@@ -881,7 +881,7 @@
       "releaseDate": "1998-08-28",
       "backdropPath": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
       "posterPath": "/8zlGq6uR7z16f1O22e40CaEs9o8.jpg",
-      "rating": 8.094,
+      "rating": 8.095,
       "mediaType": "movie",
       "genreTitle": "喜剧, 犯罪"
     },
@@ -894,7 +894,7 @@
       "releaseDate": "1995-03-25",
       "backdropPath": "/j0H799tVVLesjskDbL5FKcV5Nfr.jpg",
       "posterPath": "/mK1HumFgHRst5kGigk9Awlb0su8.jpg",
-      "rating": 7.8,
+      "rating": 7.833,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -907,7 +907,7 @@
       "releaseDate": "2006-03-23",
       "backdropPath": "/g11nKgir3nIhlG2gIDWIvJeR4fz.jpg",
       "posterPath": "/v08rYoUwgAIT5zwhT4V3Tada78o.jpg",
-      "rating": 8.038,
+      "rating": 8.04,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -929,11 +929,11 @@
       "type": "tmdb",
       "title": "哈利·波特与阿兹卡班的囚徒",
       "originalTitle": "Harry Potter and the Prisoner of Azkaban",
-      "description": "在本片中，哈利、罗恩与赫敏已成长为少年，返回霍格沃茨魔法学校开启第三年的学习。这一年，他们被迫直面越狱逃跑的囚犯小天狼星布莱克——一个对哈利构成巨大威胁的人。哈利和他的朋友们在这一年里学习如何驯服半马半鹰的鹰头马身有翼兽、击退会变形的博格特，并掌握占卜学的技艺。他们还造访了巫师村落霍格莫德村，以及号称全英最阴森的尖叫棚屋。除了这些新奇的体验，哈利还必须战胜吸食灵魂的摄魂怪的威胁，智斗危险的狼人，并最终弄清小天狼星布莱克与他自己以及他父母之间的真相。在与挚友的并肩作战中，哈利掌握了高深的魔法，跨越了时间的界限，从而改变了不止一个人的命运。[华纳兄弟]",
+      "description": "哈利即将开始在霍格沃茨的第三学年，一则危险消息却让整个魔法世界陷入紧张：臭名昭著的囚犯小天狼星·布莱克从阿兹卡班越狱，而所有人都认为他的目标正是哈利。为了追捕逃犯，令人恐惧的摄魂怪被派驻霍格沃茨周围，哈利却发现自己对它们有着异乎寻常的强烈反应。在新任黑魔法防御术教授卢平的帮助下，他开始学习抵御摄魂怪的方法。随着调查深入，哈利逐渐发现小天狼星不仅与伏地魔有关，还与自己的父母有着密切的过去，而关于父母遇害的往事似乎远比他一直相信的更加复杂……",
       "releaseDate": "2004-05-31",
       "backdropPath": "/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg",
-      "posterPath": "/iZdIHJsklK53irYJ8GyVz1iKlpx.jpg",
-      "rating": 8.009,
+      "posterPath": "/7FoBy0rAzvbogFy1YYWHXAU7vol.jpg",
+      "rating": 8.01,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -942,7 +942,7 @@
       "type": "tmdb",
       "title": "阿凡达",
       "originalTitle": "Avatar",
-      "description": "战斗中负伤而下肢瘫痪的前海军陆战队员杰克·萨利决定代替死去的双胞胎哥哥前往潘多拉星，操纵格蕾丝博士利用人类基因与当地纳美人基因结合创造出的“阿凡达”混血生物。杰克的任务是打入纳美部落，说服他们自愿离开世代居住的家园，以便RDA开采当地地下昂贵的“不可得”矿。在探索潘多拉星的过程中，杰克遇到了纳美部落的娜蒂瑞，并向她学习纳美人的生存技能以及对待自然的态度。与此同时，RDA方面和军方代表迈尔斯上校逐渐失去耐心，决定诉诸武力驱赶纳美人……",
+      "description": "战斗中负伤导致下肢瘫痪的前海军陆战队员杰克·萨利，在双胞胎哥哥意外去世后，代替他前往潘多拉星参与“阿凡达计划”，操纵由人类与纳威人基因培育出的“阿凡达”躯体。RDA希望借助杰克深入纳威人部落，说服他们离开世代居住的家园，以便开采当地地下极其珍贵的矿物。在探索潘多拉星的过程中，杰克遇到了纳威人奈蒂莉，并在她的引导下学习当地的生存方式以及对自然的信仰。随着他逐渐融入纳威人的生活，杰克开始重新审视自己的任务；与此同时，迈尔斯·夸里奇上校等人对谈判逐渐失去耐心，准备以武力解决阻碍……",
       "releaseDate": "2009-12-16",
       "backdropPath": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
       "posterPath": "/yTapYDvTQgxKUdilCYXRrGfpofj.jpg",
@@ -959,7 +959,7 @@
       "releaseDate": "2000-10-27",
       "backdropPath": "/vadUKKQixxOKWkcuZ1SUEoBQeVG.jpg",
       "posterPath": "/zZtg1prHgj6iOZHnrE2cMQuuEsr.jpg",
-      "rating": 7.556,
+      "rating": 7.557,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -968,11 +968,11 @@
       "type": "tmdb",
       "title": "看不见的客人",
       "originalTitle": "Contratiempo",
-      "description": "艾德里安（马里奥·卡萨斯 Mario Casas 饰）经营着一间科技公司，事业蒸蒸日上，家中有美丽贤惠的妻子和活泼可爱的女儿，事业家庭双丰收的他是旁人羡慕的对象。然而，野心勃勃的艾德里安并未珍惜眼前来之不易的生活，一直以来，他和一位名叫劳拉（芭芭拉·蓝妮 Bárbara Lennie 饰）的女摄影师保持着肉体关系。某日幽会过后，两人驱车离开别墅，却在路上发生了车祸，为了掩盖事件的真相，两人决定将在车祸中死去的青年丹尼尔联同他的车一起沉入湖底。之后，劳拉遇见了一位善良的老人，老人将劳拉坏掉的车拉回家中修理，然而，令劳拉没有想到的是，这位老人，竟然就是丹尼尔的父亲。",
+      "description": "事业有成、已有妻女的高科技企业家艾德里安·多利亚在一间从内部反锁的酒店房间里醒来，发现情人劳拉已经死在身旁，而现场没有任何其他人出入的迹象，他也因此成为案件的唯一嫌疑人。获准保释后，艾德里安请来经验丰富的律师弗吉尼亚·古德曼为自己准备辩护，而控方突然出现的新证人让他们只剩下几个小时重新梳理案情。随着弗吉尼亚不断追问，艾德里安开始讲述自己与劳拉的关系，以及数月前两人卷入的一场致命车祸。然而，他所讲述的每一个细节都可能影响案件的真相，一桩看似无解的密室谋杀，也逐渐与另一桩死亡联系在一起……",
       "releaseDate": "2017-01-06",
       "backdropPath": "/1ZSWFzAP4AZuFCigZZoib2RdcUO.jpg",
       "posterPath": "/xh32R4QAARCgazSQUgVd0NdrnIk.jpg",
-      "rating": 8.076,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
     },
@@ -998,7 +998,7 @@
       "releaseDate": "1991-02-14",
       "backdropPath": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
       "posterPath": "/a6UMvHPk4YdmhXrueiFaVOwcVjn.jpg",
-      "rating": 8.344,
+      "rating": 8.345,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
     },
@@ -1011,7 +1011,7 @@
       "releaseDate": "1997-08-01",
       "backdropPath": "/9W250lyDDC3P9AgW5ZKGRj7R2Pv.jpg",
       "posterPath": "/l8cIiVKgn7phW2GcVJZ6OPk2RnC.jpg",
-      "rating": 7.884,
+      "rating": 7.888,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -1020,11 +1020,11 @@
       "type": "tmdb",
       "title": "蝴蝶效应",
       "originalTitle": "The Butterfly Effect",
-      "description": "伊万曾经有一个糟糕的童年，因为他行为闯下了大祸，令他童年充满不堪回忆的往事。而事实上，他确实只是依稀记得一点可怕的情景，这些情景一直纠缠着他的正常生活。伊万接受心理学家建议，把琐碎生活记在记事本里，却偶然发现通过记事本回到过去。这时他才清楚记起，童年时候的自己做了那么多的错事。他幻想着用现在的意识，潜入童年的身体，去弥补种种过失给人们带来的伤害，尤其是希望与当年暗恋的凯西最终走回一起。然而他一次次的跨越时空的更改，只能越来越招致现实世界的不可救药。一切就像蝴蝶效应般，牵一发而动全身。",
+      "description": "伊万从小经历着一个充满创伤的童年，每当一些可怕的事情发生时，他总会莫名失去一段记忆，只留下零碎而模糊的片段。在心理医生的建议下，他开始用日记记录自己的生活。多年后，已经进入大学的伊万重新翻看童年时期的日记，意外发现自己的意识能够回到那些曾经失去记忆的时刻，并借由童年的身体重新作出选择。为了弥补过去留下的伤痛，也为了改变凯蕾和朋友们的人生，他一次次回到过去，希望让所有人的生活变得更好。然而每一次看似微小的改变，都会让现实走向完全不同的方向，并带来更加无法预料的后果……",
       "releaseDate": "2004-01-17",
       "backdropPath": "/yriYPLqyFqPW0QXaegT1KmWXk9a.jpg",
       "posterPath": "/ubI1LllWsA92f4M9GKX2wUlzkPR.jpg",
-      "rating": 7.578,
+      "rating": 7.579,
       "mediaType": "movie",
       "genreTitle": "科幻, 惊悚"
     },
@@ -1037,7 +1037,7 @@
       "releaseDate": "2023-10-26",
       "backdropPath": "/fNXUCk54vGcoKr34olN14ohUSFY.jpg",
       "posterPath": "/bcSZlAqwqKBR1XRyXG0TXi1pRBJ.jpg",
-      "rating": 8.067,
+      "rating": 8.069,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -1050,7 +1050,7 @@
       "releaseDate": "2014-02-26",
       "backdropPath": "/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
       "posterPath": "/be8eTb9JeEjIDzJorbxLuuHDCCq.jpg",
-      "rating": 8,
+      "rating": 8.025,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -1063,7 +1063,7 @@
       "releaseDate": "1975-11-19",
       "backdropPath": "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
       "posterPath": "/cTlE3BxHbJL05UrisIUkS9usdOW.jpg",
-      "rating": 8.4,
+      "rating": 8.406,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1089,7 +1089,7 @@
       "releaseDate": "1997-12-05",
       "backdropPath": "/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
       "posterPath": "/oAZXx2Zt8Ikrm3BpLMsXYHRabWM.jpg",
-      "rating": 8.164,
+      "rating": 8.165,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1115,7 +1115,7 @@
       "releaseDate": "1994-09-10",
       "backdropPath": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
       "posterPath": "/WZW5PCtCbtyKfojdLlPCi89DNx.jpg",
-      "rating": 8.481,
+      "rating": 8.48,
       "mediaType": "movie",
       "genreTitle": "惊悚, 犯罪"
     },
@@ -1124,11 +1124,11 @@
       "type": "tmdb",
       "title": "哈利·波特与密室",
       "originalTitle": "Harry Potter and the Chamber of Secrets",
-      "description": "哈利·波特结束了假期，即将回到霍格沃兹继续学习魔法。然而一个叫多比的家养小精灵出现警告哈利不要回到霍格沃兹，否则会陷入极大的危险。哈利没有听从多比的劝告，回到了霍格沃兹。很快，霍格沃兹发生了一连窜怪事：接二连三出现学生被石化，一直找不出原因。而哈利总能听到一种奇怪的声音，从墙壁里传出来。传说，霍格沃兹有一个密室，里面记录着伏地魔年轻时的秘密，只有斯莱特林的继承人才能打开密室。哈利偶然发现自己能听懂蛇说话，一时传闻是哈利打开了密室。难道多比所指的危险就隐藏在密室？",
+      "description": "暑假期间，家养小精灵多比突然出现在哈利面前，警告他不要返回霍格沃茨，否则将面临巨大的危险。哈利没有听从劝告，仍与罗恩、赫敏开始了第二学年的生活。然而不久后，学校接连发生离奇的石化事件，墙上还出现了“密室已经被打开”的警告，而哈利也开始听见一种只有自己能够听到的神秘声音。传说霍格沃茨创办人之一萨拉查·斯莱特林曾在学校中留下一个密室，只有他的继承人才能开启。由于哈利意外展现出与蛇交流的能力，越来越多的人开始怀疑他与事件有关。为了查明真相，哈利、罗恩和赫敏开始追查密室以及霍格沃茨五十年前的一段往事……",
       "releaseDate": "2002-11-13",
       "backdropPath": "/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
-      "posterPath": "/p6e7HSfWcrPCerEF23lin8bKuQ0.jpg",
-      "rating": 7.706,
+      "posterPath": "/314kPYq0WQNj7ts7ifSdpgXboTU.jpg",
+      "rating": 7.707,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -1141,7 +1141,7 @@
       "releaseDate": "2000-09-20",
       "backdropPath": "/x903dx8Km6XNLFEmvbXc98vePSV.jpg",
       "posterPath": "/umillz4L0XfUQ7DTBUycV19a7wT.jpg",
-      "rating": 7.947,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1180,7 +1180,7 @@
       "releaseDate": "2003-04-25",
       "backdropPath": "/iiPBXynI88EgnpunHoUlBCnLpSE.jpg",
       "posterPath": "/p59g3NUxuOK4ghPqblA5e3k26sv.jpg",
-      "rating": 7.183,
+      "rating": 7.182,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
     },
@@ -1206,7 +1206,7 @@
       "releaseDate": "1936-02-05",
       "backdropPath": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
       "posterPath": "/3OR9kt3TIjGoiMtv7OGwM6LGavC.jpg",
-      "rating": 8.283,
+      "rating": 8.284,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -1219,7 +1219,7 @@
       "releaseDate": "2003-07-09",
       "backdropPath": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
       "posterPath": "/7IjWggLubeKPMJLVNRXtzxFdL37.jpg",
-      "rating": 7.8,
+      "rating": 7.834,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -1245,7 +1245,7 @@
       "releaseDate": "2009-07-31",
       "backdropPath": "/pWXaHX2CdAebf2f4JyVewnIzl7.jpg",
       "posterPath": "/xDx9lH7wAxEYPtVmPWPGI4EpLma.jpg",
-      "rating": 8,
+      "rating": 7.953,
       "mediaType": "movie",
       "genreTitle": "纪录"
     },
@@ -1258,22 +1258,9 @@
       "releaseDate": "1984-05-23",
       "backdropPath": "/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg",
       "posterPath": "/mYvSMWFsZnKYLWomUIbbVSoKsL.jpg",
-      "rating": 8.374,
+      "rating": 8.375,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
-    },
-    {
-      "id": 4977,
-      "type": "tmdb",
-      "title": "红辣椒",
-      "originalTitle": "パプリカ",
-      "description": "千叶敦子博士白天是天才科学家，夜晚则化身为所向披靡的梦境战士“红辣椒”。在这部迷幻的科幻冒险动画中，需要集合这两个身份的力量才能拯救世界。[索尼影业经典]",
-      "releaseDate": "2006-10-01",
-      "backdropPath": "/6oXn0037WWw4fTCc3Qczof71lSp.jpg",
-      "posterPath": "/A2FxDzK0To90Iw2gQxCkyeSYO3u.jpg",
-      "rating": 7.813,
-      "mediaType": "movie",
-      "genreTitle": "动画, 科幻"
     },
     {
       "id": 807,
@@ -1284,9 +1271,22 @@
       "releaseDate": "1995-09-22",
       "backdropPath": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
       "posterPath": "/e7J95YHcmLtyUtB1yojY76xQO90.jpg",
-      "rating": 8.38,
+      "rating": 8.4,
       "mediaType": "movie",
       "genreTitle": "犯罪, 悬疑"
+    },
+    {
+      "id": 4977,
+      "type": "tmdb",
+      "title": "红辣椒",
+      "originalTitle": "パプリカ",
+      "description": "千叶敦子博士白天是天才科学家，夜晚则化身为所向披靡的梦境战士“红辣椒”。在这部迷幻的科幻冒险动画中，需要集合这两个身份的力量才能拯救世界。[索尼影业经典]",
+      "releaseDate": "2006-10-01",
+      "backdropPath": "/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
+      "posterPath": "/A2FxDzK0To90Iw2gQxCkyeSYO3u.jpg",
+      "rating": 7.814,
+      "mediaType": "movie",
+      "genreTitle": "动画, 科幻"
     },
     {
       "id": 37703,
@@ -1310,7 +1310,7 @@
       "releaseDate": "2012-10-25",
       "backdropPath": "/jmVWlCZ8hRtmrQGbKXXFHsrSohp.jpg",
       "posterPath": "/phBQ7y7FwqhpUzQid32mnX91CmO.jpg",
-      "rating": 8.094,
+      "rating": 8.095,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1323,7 +1323,7 @@
       "releaseDate": "1997-07-12",
       "backdropPath": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
       "posterPath": "/mgxuL4rDqAHdcZvO3fXRhrcifpv.jpg",
-      "rating": 8.321,
+      "rating": 8.32,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -1332,11 +1332,11 @@
       "type": "tmdb",
       "title": "寄生虫",
       "originalTitle": "기생충",
-      "description": "这部定义时代精神的惊世之作，将全球范围内对阶级不平等的审视浓缩为一场流行电影的反叛风暴。奉俊昊导演以这部打破类型桎梏的黑色喜剧惊悚片，奠定了其世界顶尖电影作者的地位。故事聚焦首尔的两个家庭——一户在低洼社区潮湿半地下室里挣扎求生的底层家庭，另一户则居住于可俯瞰城市的现代建筑奇观中尽享奢华。当两家人的命运因危险关系交织在一起时，资本主义的黑暗裂隙以惊人之势被彻底撕裂。影片凭借导演精心构建的戏剧场景、出色的群像演绎与震撼的视觉设计，成为一部技艺卓绝的典范之作。从戛纳到奥斯卡，横扫几乎所有国际至高奖项，更以首部非英语片问鼎最佳影片的历史性突破，宣告韩国新电影已成为不可忽视的世界力量。",
+      "description": "金基泽一家四口挤在首尔一间狭小的半地下室里，没有稳定工作，只能靠零散的活计勉强维持生活。一天，儿子基宇经朋友介绍，得到前往富裕的朴社长家担任英语家教的机会。进入这个与自己生活截然不同的家庭后，基宇发现了新的机会，并设法将妹妹基婷包装成艺术老师介绍给朴家。随后，一家人通过精心设计，让父亲和母亲也先后进入朴家工作，而朴家始终不知道这四名新雇员其实来自同一个家庭。就在金家逐渐适应这份来之不易的优渥生活时，一个隐藏在朴家豪宅中的秘密突然出现，两个家庭之间看似稳定的关系也开始走向无法预料的方向……",
       "releaseDate": "2019-05-30",
-      "backdropPath": "/vbC0rzdrb7Ohc2TkbEbxtOABECe.jpg",
+      "backdropPath": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
       "posterPath": "/nwTQE4vWe6NoFSEgxGu4hO9J4Tv.jpg",
-      "rating": 8.49,
+      "rating": 8.491,
       "mediaType": "movie",
       "genreTitle": "喜剧, 惊悚"
     },
@@ -1349,7 +1349,7 @@
       "releaseDate": "1996-11-02",
       "backdropPath": "/zFPns25Qnt6WCM6DLQrPrNziC0e.jpg",
       "posterPath": "/5zI3WI1qg5fuHxHVJNdGAo8Etr1.jpg",
-      "rating": 7.853,
+      "rating": 7.86,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -1371,7 +1371,7 @@
       "type": "tmdb",
       "title": "蝙蝠侠：黑暗骑士崛起",
       "originalTitle": "The Dark Knight Rises",
-      "description": "检察官哈维·登特（艾伦·艾克哈特 Aaron Eckhart 饰）死后的八年间，哥谭市在戈登警长（加里·奥德曼 Gary Oldman 饰）的努力下有效地遏制了犯罪活动。而蝙蝠侠布鲁斯·韦恩（克里斯蒂安·贝尔 Christian Bale 饰）因为背负谋杀登特的罪名，被 警方通缉，在哥谭市销声匿迹。然而，这看似平静的状态被恐怖分子贝恩（汤姆·哈迪 Tom Hardy 饰）的出现打破，他利用猫女（安妮·海瑟薇 Anne Hathaway 饰）偷取布鲁斯的指纹，致使韦恩集团面临破财，布鲁斯被赶出董事会。为了保证韦恩集团投资的能源项目不被坏人利用制造核弹，布鲁斯帮助米兰达（玛丽昂·歌迪亚 Marion Cotillard 饰）成为董事会主席。贝恩接下来一连串精密设计的计划将哥谭市陷入孤绝之境，毁灭之日指日可待。布鲁斯只能再次肩负起拯救哥谭的重任，然而至亲的管家阿福辞职离开、猫女的背叛、贝恩的凶残手段，爱人米拉达的真实面目露出，都让他拯救哥谭的行动变得不可能……",
+      "description": "哈维·登特死后的八年间，哥谭市的犯罪活动受到有效遏制，而背负杀害登特罪名的蝙蝠侠也从城市中销声匿迹，布鲁斯·韦恩则过着与世隔绝的生活。然而，神秘而强大的贝恩突然出现，打破了哥谭维持多年的平静。与此同时，行踪莫测的女贼赛琳娜·凯尔也闯入布鲁斯的生活。随着贝恩的计划逐渐展开，整个哥谭陷入前所未有的危机。面对这个比以往更加强大的敌人，沉寂多年的布鲁斯不得不重新作出选择，再次肩负起守护哥谭的使命……",
       "releaseDate": "2012-07-17",
       "backdropPath": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
       "posterPath": "/9NtWj8TFNQixyayY5ZznpQRpseE.jpg",
@@ -1388,7 +1388,7 @@
       "releaseDate": "2014-10-24",
       "backdropPath": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
       "posterPath": "/cJHCt073DIJLIUcgYTJnMnT3KtI.jpg",
-      "rating": 7.726,
+      "rating": 7.725,
       "mediaType": "movie",
       "genreTitle": "冒险, 家庭"
     },
@@ -1414,7 +1414,7 @@
       "releaseDate": "2013-01-23",
       "backdropPath": "/6MZdEVe0COl9sB1sCIPOOFpngjO.jpg",
       "posterPath": "/au303zg1X2ovrOGBcfQjfeY7qcD.jpg",
-      "rating": 7.9,
+      "rating": 7.892,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -1427,7 +1427,7 @@
       "releaseDate": "1999-08-06",
       "backdropPath": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
       "posterPath": "/z4lxLbYOTj0SqhJFmYfh0hcVd8v.jpg",
-      "rating": 7.955,
+      "rating": 7.954,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
     },
@@ -1440,7 +1440,7 @@
       "releaseDate": "2004-06-16",
       "backdropPath": "/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg",
       "posterPath": "/yxfBGNZBSnqIu4GoIxPcP7EwuV3.jpg",
-      "rating": 7.8,
+      "rating": 7.804,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -1475,11 +1475,11 @@
       "type": "tmdb",
       "title": "哈利·波特与火焰杯",
       "originalTitle": "Harry Potter and the Goblet of Fire",
-      "description": "哈利和他的朋友们回归该系列的第四部。",
+      "description": "哈利迎来了在霍格沃茨的第四个学年，这一年学校将举办久负盛名而又危险重重的“三强争霸赛”，来自布斯巴顿和德姆斯特朗两所魔法学校的学生也来到霍格沃茨参加竞争。按照规定，只有年满17岁的学生才有资格报名，然而负责选出勇士的“火焰杯”却意外吐出了年仅14岁的哈利·波特的名字，使他成为比赛中史无前例的第四名勇士。哈利坚称自己从未报名，却不得不面对火龙、黑湖和魔法迷宫等一系列危险考验。与此同时，魁地奇世界杯上出现的食死徒与黑魔标记，以及哈利不断出现的噩梦，都预示着这场比赛背后还隐藏着更加危险的阴谋……",
       "releaseDate": "2005-11-16",
       "backdropPath": "/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg",
-      "posterPath": "/wFWTByIUYjtB113HTriXJXTN13S.jpg",
-      "rating": 7.801,
+      "posterPath": "/wJVfG0J3mavCcDar2Jwnba96ohN.jpg",
+      "rating": 7.802,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -1492,7 +1492,7 @@
       "releaseDate": "1998-02-28",
       "backdropPath": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
       "posterPath": "/6A2jXiDptJExIxX6fNTg0K1GMzx.jpg",
-      "rating": 8.3,
+      "rating": 8.307,
       "mediaType": "movie",
       "genreTitle": "动画, 惊悚"
     },
@@ -1527,7 +1527,7 @@
       "type": "tmdb",
       "title": "借物少女艾莉缇",
       "originalTitle": "借りぐらしのアリエッティ",
-      "description": "虽然患有心脏方面的疾病，但是少年翔（神木隆之介 配音）的父母依然对他疏于呵护。为了准备即将到来的手术，翔来到了位于偏远乡间的姨婆（竹下景子 配音）家静养。姨婆家位于一片幽静的丛林中，这是一幢有着上百年历史的欧式别墅。这里除了生活着姨婆和女佣阿春（树木希林 配音）外，还有一个奇特的三口之家，“借东西一族”——小人阿莉埃蒂（志田未来 配音）和她的爸爸（三浦友和 配音）妈妈（大竹忍 配音），他们生活在别墅的地板下，只有几公分高，过着不为人类察觉的生活。遇到所需的日常用品时，便会在夜深人静之时偷偷潜入厨房借出来。翔无疑中瞥见阿莉埃蒂的身影，他有心接近这些传说中的小人，却不知不觉打扰了他们的生活……",
+      "description": "患有严重心脏病的12岁少年翔，为准备即将到来的手术，来到姨婆贞子的乡间老宅静养。老宅地板下秘密生活着一个身材微小的“借东西的小人”家庭：少女艾莉缇和她的父母。他们从人类家中悄悄“借”走少量生活必需品，并始终遵守着不能被人类发现的规矩。即将14岁的艾莉缇第一次跟随父亲外出借东西时，却意外被翔发现。与家人对人类的警惕不同，艾莉缇逐渐发现翔并没有恶意，两人也开始偷偷接近彼此。然而，对于必须隐藏存在的小人一家来说，这段跨越两个世界的友谊，也让他们平静的生活面临前所未有的风险……",
       "releaseDate": "2010-07-16",
       "backdropPath": "/7Z7WVzJsSReG8B0CaPk0bvWD7tK.jpg",
       "posterPath": "/r2lsQVIBF911YzJ51cRXDHNelJe.jpg",
@@ -1540,11 +1540,11 @@
       "type": "tmdb",
       "title": "菊次郎的夏天",
       "originalTitle": "菊次郎の夏",
-      "description": "小学三年级的正男自幼丧父，和婆婆两人生活在一起。 对他来说，暑假既无聊又寂寞。 于是，正男背上行囊出发去寻找住在另一个城市的母亲。 邻居的阿姨发现后，叫丈夫菊次郎与之同行。 生性游手好闲的菊次郎带着正男，一老一小踏上了一次心灵的旅行。\r 《菊次郎的夏天》由日本北野武工作室制作，灵感是从导演北野武父亲的生活故事中提取而来的。相比于过去北野武的作品，影片的主题不再是暴力与血腥，而是将视角投注在人与人的关系上，风格轻松而温馨。影片曾获得第52届戛纳电影节主竞赛单元金棕榈奖提名的殊荣。",
+      "description": "暑假到来，9岁的正男与奶奶相依为命，孤单又无聊的他从母亲寄来的信中得知了她的住址，于是决定独自前往爱知县丰桥市寻找母亲。邻居阿姨发现后，不仅为他准备了旅费，还让游手好闲的丈夫菊次郎陪他同行。然而这个看起来并不靠谱的大叔刚上路便惹出不少麻烦，甚至很快将旅费输光，两人只得一路搭便车、想尽各种办法继续前行。在这场状况百出的寻母之旅中，性格截然不同的一大一小遇见了形形色色的陌生人，也在相互陪伴中逐渐建立起一段特别的情谊……",
       "releaseDate": "1999-06-05",
       "backdropPath": "/maxp4hu52uhfNuJmumD5NpZyrRo.jpg",
       "posterPath": "/4hbpn7WDrG5lnXAgpBnr4GumYvN.jpg",
-      "rating": 7.524,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -1557,22 +1557,9 @@
       "releaseDate": "2008-09-13",
       "backdropPath": "/AoWW2J4PoDe0IPuCVQOk50QFS4D.jpg",
       "posterPath": "/xV71NnDYOUyYq3oGDjCLGTn2Rlt.jpg",
-      "rating": 7.849,
+      "rating": 7.85,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 162,
-      "type": "tmdb",
-      "title": "剪刀手爱德华",
-      "originalTitle": "Edward Scissorhands",
-      "description": "爱德华（约翰尼·戴普 饰）是一个机器人，他拥有人的心智，却有一双剪刀手，孤独地生活在古堡里，闯入古堡的化妆品推销员佩格把他带回家，让他走进了人类的世界。单纯的爱德华爱上了佩格的女儿金（薇诺娜·瑞德 饰），金也慢慢的被爱德华的善良所吸引。但是，一连串的意外事情让周围的人邻居对爱德华的态度从喜欢变成无法接受，爱德华痛苦地发现，他总是好心办坏事，连自己的爱人都不能拥抱，或许，他注定就不属于这个世界。",
-      "releaseDate": "1990-12-07",
-      "backdropPath": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
-      "posterPath": "/u9Mjep4GFl4AIsIRRPpcj7Fhu93.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "奇幻, 剧情"
     },
     {
       "id": 142,
@@ -1583,9 +1570,22 @@
       "releaseDate": "2005-10-22",
       "backdropPath": "/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
       "posterPath": "/fo9yZVC2nwgr3RpGoUGKaeEzHo8.jpg",
-      "rating": 7.8,
+      "rating": 7.784,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 162,
+      "type": "tmdb",
+      "title": "剪刀手爱德华",
+      "originalTitle": "Edward Scissorhands",
+      "description": "爱德华（约翰尼·戴普 饰）是一个机器人，他拥有人的心智，却有一双剪刀手，孤独地生活在古堡里，闯入古堡的化妆品推销员佩格把他带回家，让他走进了人类的世界。单纯的爱德华爱上了佩格的女儿金（薇诺娜·瑞德 饰），金也慢慢的被爱德华的善良所吸引。但是，一连串的意外事情让周围的人邻居对爱德华的态度从喜欢变成无法接受，爱德华痛苦地发现，他总是好心办坏事，连自己的爱人都不能拥抱，或许，他注定就不属于这个世界。",
+      "releaseDate": "1990-12-07",
+      "backdropPath": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+      "posterPath": "/u9Mjep4GFl4AIsIRRPpcj7Fhu93.jpg",
+      "rating": 7.72,
+      "mediaType": "movie",
+      "genreTitle": "奇幻, 剧情"
     },
     {
       "id": 197,
@@ -1609,7 +1609,7 @@
       "releaseDate": "2013-09-04",
       "backdropPath": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
       "posterPath": "/szxBVXajhvjvOC4tbH6hygdumcs.jpg",
-      "rating": 7.902,
+      "rating": 7.903,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -1622,7 +1622,7 @@
       "releaseDate": "2010-06-16",
       "backdropPath": "/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
       "posterPath": "/wNzvuGYoGl0LdWdGeCUXQ47jNVQ.jpg",
-      "rating": 7.815,
+      "rating": 7.816,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -1635,7 +1635,7 @@
       "releaseDate": "2005-09-16",
       "backdropPath": "/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
       "posterPath": "/2RD0e28s7IFPbxWkBUaPfvwcdWB.jpg",
-      "rating": 8.053,
+      "rating": 8.054,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -1648,7 +1648,7 @@
       "releaseDate": "2010-03-18",
       "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
       "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
-      "rating": 7.9,
+      "rating": 7.867,
       "mediaType": "movie",
       "genreTitle": "奇幻, 冒险"
     },
@@ -1657,7 +1657,7 @@
       "type": "tmdb",
       "title": "消失的爱人",
       "originalTitle": "Gone Girl",
-      "description": "结婚五周年纪念日的早上，尼克·邓恩来到妹妹玛戈的酒吧，咒骂抱怨那个曾经彼此恩爱缠绵的妻子艾米以及全然看不见希望的婚姻。当他返回家中时， 却发现客厅留下了暴行的痕迹，而妻子竟不见了踪影。女探员朗达·邦妮接到报案后赶来调查，而现场留下的种种蛛丝马迹似乎昭示着这并非是一件寻常的失踪案，其背后或许隐藏着裂变于夫妻之情的谋杀罪行。艾米的失踪通过媒体大肆渲染和妄加揣测很快闻名全国，品行不端的尼克被推上风口浪尖，至今不见踪影的爱人对他进行无情审判，你侬我侬的甜言蜜语早已化作以血洗血的复仇与折磨……",
+      "description": "结婚五周年纪念日，尼克回家发现妻子艾米离奇失踪。探员调查发现诸多疑点，媒体报道发酵，尼克被推上舆论风口，过往美好的婚姻表象下，潜藏着重重疑云。",
       "releaseDate": "2014-10-01",
       "backdropPath": "/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
       "posterPath": "/rbs1LbLCIYhLyiTggRztnWFWfbp.jpg",
@@ -1674,7 +1674,7 @@
       "releaseDate": "2004-08-07",
       "backdropPath": "/gCD0eMZW1pUitLzH93WYWJYQgGk.jpg",
       "posterPath": "/lGXFIayUVRMkFhUS6mj1YGfrTpC.jpg",
-      "rating": 8.003,
+      "rating": 8.006,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1687,7 +1687,7 @@
       "releaseDate": "2013-02-21",
       "backdropPath": "/6UnVwCA6F29erZK29PKqRyHqFA.jpg",
       "posterPath": "/lEzLByuGNqQxjUcgBqt6FvC5Jg8.jpg",
-      "rating": 7.427,
+      "rating": 7.429,
       "mediaType": "movie",
       "genreTitle": "惊悚, 犯罪"
     },
@@ -1709,11 +1709,11 @@
       "type": "tmdb",
       "title": "花样年华",
       "originalTitle": "花樣年華",
-      "description": "一九六二年的香港：周慕云与苏丽珍在同一天搬进相邻的公寓。他们的相遇起初保持着得体与疏离——直到发现各自配偶的秘密，一种亲密的情愫悄然滋生。王家卫的本片既含蓄典雅又视觉绚烂，精湛地勾勒出浪漫渴望与易逝的瞬间。在悸动的配乐、以及杜可风与李屏宾极致抽象的摄影美学中，这部电影成为过去二十年影坛的重要风格标杆，亦是王家卫璀璨生涯的一座里程碑。[标准收藏]",
+      "description": "1962年的香港，报馆编辑周慕云与妻子搬进一间住满上海人的公寓，同一天搬来的还有在贸易公司工作的苏丽珍和她的丈夫。由于各自的配偶经常因工作不在家，周慕云与苏丽珍在一次次碰面中逐渐熟悉起来。不久，两人从一些生活中的蛛丝马迹发现，自己的配偶竟背着他们发展出了一段婚外情。面对同样的背叛，他们开始频繁见面，试图弄清这段关系究竟是如何开始的，并在相处中逐渐产生了超越普通朋友的感情。然而，他们始终不愿成为和各自配偶一样的人，邻里间的目光与流言也让这段感情愈发克制而隐秘……",
       "releaseDate": "2000-09-29",
       "backdropPath": "/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
       "posterPath": "/1Z32pKrmWW2nkLFYGoc79MzJin6.jpg",
-      "rating": 8.087,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -1726,7 +1726,7 @@
       "releaseDate": "2015-12-25",
       "backdropPath": "/aWNknDl5kGZTgjqfeIKxdZaKGmm.jpg",
       "posterPath": "/2K2EyM560GW8DdwtAPwuD0oMJd8.jpg",
-      "rating": 7.603,
+      "rating": 7.604,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -1739,7 +1739,7 @@
       "releaseDate": "2007-09-24",
       "backdropPath": "/lU1fQews2gye23PocVE48CsTmOQ.jpg",
       "posterPath": "/7v32qseAVpm7aBpemya9MvotbCz.jpg",
-      "rating": 7.282,
+      "rating": 7.283,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -1752,7 +1752,7 @@
       "releaseDate": "1993-11-24",
       "backdropPath": "/xTZvY5qVsOKinCuYgx9GZ9opXiM.jpg",
       "posterPath": "/wt4YoYgNaMGMHDR6McEnpb8UZRZ.jpg",
-      "rating": 7.501,
+      "rating": 7.504,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -1783,6 +1783,19 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
+      "id": 55156,
+      "type": "tmdb",
+      "title": "九品芝麻官",
+      "originalTitle": "九品芝麻官",
+      "description": "包龙星花钱买来候补知县的职位，平日贪财怕事，在当地百姓中名声极差。一次代理知县期间，戚家发生灭门惨案，戚秦氏遭到常威强暴后又被嫁祸成杀害全家的凶手。包龙星原本试图查明真相，却发现常威身后势力庞大，又请来大状方唐镜颠倒黑白、收买证人，使案件迅速失去控制。坚持为戚秦氏伸冤的包龙星反而遭到陷害，被迫逃离家乡。经历一连串落难与磨炼后，这个曾经人人厌恶的小官开始真正理解何为公道，并决心设法重返公堂，为戚秦氏讨回清白……",
+      "releaseDate": "1994-03-31",
+      "backdropPath": "/x8zprGIgH2pExKCyNdwfANcbnlG.jpg",
+      "posterPath": "/mdOdl9NDHuNH6V1YDfxwTjSPmdI.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
       "id": 294682,
       "type": "tmdb",
       "title": "小森林：夏秋篇",
@@ -1791,22 +1804,9 @@
       "releaseDate": "2014-08-30",
       "backdropPath": "/1bAE9YexmEfAanXKaO1d9Ms4qKm.jpg",
       "posterPath": "/AkLBZ8dsDxaeBsrf1xzusp0LqT0.jpg",
-      "rating": 7.77,
+      "rating": 7.766,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 55156,
-      "type": "tmdb",
-      "title": "九品芝麻官",
-      "originalTitle": "九品芝麻官",
-      "description": "包龙星（周星驰 饰）用钱买了一个候补知县，可是他为人贪婪，乡亲都对他痛恨之极。在他代职知县的时候，戚家媳妇（张敏 饰）遭到了常威（邹兆龙 饰）的强暴，后来常威杀了他们全家，更嫁祸于戚秦氏。",
-      "releaseDate": "1994-03-31",
-      "backdropPath": "/x8zprGIgH2pExKCyNdwfANcbnlG.jpg",
-      "posterPath": "/mdOdl9NDHuNH6V1YDfxwTjSPmdI.jpg",
-      "rating": 7.461,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 194,
@@ -1817,7 +1817,7 @@
       "releaseDate": "2001-04-25",
       "backdropPath": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
       "posterPath": "/acQikJ5DyqTcuDDBJnT8P9wv62r.jpg",
-      "rating": 7.9,
+      "rating": 7.92,
       "mediaType": "movie",
       "genreTitle": "喜剧, 爱情"
     },
@@ -1856,7 +1856,7 @@
       "releaseDate": "1995-07-15",
       "backdropPath": "/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
       "posterPath": "/hPFcJ5S9KxZKN8u0FJ7OYvbQWaL.jpg",
-      "rating": 7.9,
+      "rating": 7.945,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
     },
@@ -1895,7 +1895,7 @@
       "releaseDate": "2017-10-01",
       "backdropPath": "/4Xh2a1WeTp6b8Ksvug0pAMbX3dT.jpg",
       "posterPath": "/2BxrWiQAqXFrJV8VUSLzG5Uly12.jpg",
-      "rating": 8.082,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -1908,7 +1908,7 @@
       "releaseDate": "2016-07-20",
       "backdropPath": "/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg",
       "posterPath": "/a31aMXYw3u2rfmzq4RDGvRtIMr1.jpg",
-      "rating": 7.755,
+      "rating": 7.752,
       "mediaType": "movie",
       "genreTitle": "动作, 恐怖"
     },
@@ -1934,7 +1934,7 @@
       "releaseDate": "2015-01-28",
       "backdropPath": "/3jxT6hCi5eDBseucDRo5c04qWCZ.jpg",
       "posterPath": "/sYDTJoqegWT0LrSf5FQ2OB8SZVt.jpg",
-      "rating": 7.807,
+      "rating": 7.808,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -1973,9 +1973,22 @@
       "releaseDate": "2010-06-04",
       "backdropPath": "/sT7f721Zvb9Feo11sbhvkk2JLHi.jpg",
       "posterPath": "/5zMc9ggvMIvEOwH9rj4ojMLaBFG.jpg",
-      "rating": 7.582,
+      "rating": 7.583,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
+    },
+    {
+      "id": 838240,
+      "type": "tmdb",
+      "title": "机器人之梦",
+      "originalTitle": "Robot Dreams",
+      "description": "20世纪80年代的曼哈顿，一只独自生活的小狗厌倦了日复一日的孤单，于是通过电视广告订购并组装了一个机器人作为伙伴。两个原本孤独的生命很快成为形影不离的朋友，一起穿梭在纽约街头，分享生活中的快乐。夏天即将结束时，它们来到海滩游玩，机器人却因意外故障而无法动弹，小狗只能暂时将它留在那里，准备第二天带着工具回来修理。没想到海滩随后进入季节性关闭，小狗无法再回到机器人身边。突如其来的分离让两个好友只能各自在等待与思念中度过漫长的日子……",
+      "releaseDate": "2023-12-06",
+      "backdropPath": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
+      "posterPath": "/5a5NqdoEVp0xF06YpBpwQRkDCRr.jpg",
+      "rating": 7.942,
+      "mediaType": "movie",
+      "genreTitle": "动画, 剧情"
     },
     {
       "id": 346,
@@ -1986,22 +1999,9 @@
       "releaseDate": "1954-04-26",
       "backdropPath": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
       "posterPath": "/trW7LvPSPzLzXjmuc05KNWYw0yf.jpg",
-      "rating": 8.5,
+      "rating": 8.453,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
-    },
-    {
-      "id": 838240,
-      "type": "tmdb",
-      "title": "机器人之梦",
-      "originalTitle": "Robot Dreams",
-      "description": "一只狗住在曼哈顿，它厌倦了独处。某日，它决定为自己制造一个机器人作伴。它们的友谊日益深厚，随着80年代纽约的节奏，终成彼此不可或缺的存在。一个夏夜，狗怀着巨大的悲伤，被迫将机器人遗弃在海滩。它们还能再相见吗？",
-      "releaseDate": "2023-12-06",
-      "backdropPath": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
-      "posterPath": "/5a5NqdoEVp0xF06YpBpwQRkDCRr.jpg",
-      "rating": 7.942,
-      "mediaType": "movie",
-      "genreTitle": "动画, 剧情"
     },
     {
       "id": 333339,
@@ -2025,7 +2025,7 @@
       "releaseDate": "2009-04-09",
       "backdropPath": "/8UxYHvKBNFnoyfHjgjMwzj4zOuy.jpg",
       "posterPath": "/dsWOucd7A2keJQYhyv827ir2zLy.jpg",
-      "rating": 7.876,
+      "rating": 7.878,
       "mediaType": "movie",
       "genreTitle": "动画, 喜剧"
     },
@@ -2038,7 +2038,7 @@
       "releaseDate": "2014-11-14",
       "backdropPath": "/usuRn9DUKQQr4nBWnrQzlOuZ1Q4.jpg",
       "posterPath": "/hqa3UAu3wdSeRUvfNzJTbuR3VgK.jpg",
-      "rating": 7.981,
+      "rating": 7.98,
       "mediaType": "movie",
       "genreTitle": "历史, 剧情"
     },
@@ -2064,7 +2064,7 @@
       "releaseDate": "2020-12-25",
       "backdropPath": "/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
       "posterPath": "/yhyY94umEO1XkaxJAZJSMJk9hgt.jpg",
-      "rating": 8.09,
+      "rating": 8.089,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -2077,7 +2077,7 @@
       "releaseDate": "2003-12-10",
       "backdropPath": "/bLqUd0tBvKezDr9MEla7k34i3rp.jpg",
       "posterPath": "/8gLc3LKww5j2wxhWcrzhdKGvcGU.jpg",
-      "rating": 7.749,
+      "rating": 7.748,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -2103,7 +2103,7 @@
       "releaseDate": "2016-07-01",
       "backdropPath": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
       "posterPath": "/vRQ7wpxpHt2aV8RnOkwHlOQAMKe.jpg",
-      "rating": 8.485,
+      "rating": 8.484,
       "mediaType": "movie",
       "genreTitle": "动画, 爱情"
     },
@@ -2129,7 +2129,7 @@
       "releaseDate": "1993-02-05",
       "backdropPath": "/A7SfkQbYiU5iN275bZzA3vumWAo.jpg",
       "posterPath": "/x2ehXnTm65Ow9XutfAG5z1gC8as.jpg",
-      "rating": 7.1,
+      "rating": 7.11,
       "mediaType": "movie",
       "genreTitle": "动作, 喜剧"
     },
@@ -2142,7 +2142,7 @@
       "releaseDate": "1991-05-24",
       "backdropPath": "/eA15zhxnhQSg4k5MUbbTERIU23Z.jpg",
       "posterPath": "/ci0QgXeeOb5f4EyY8v4apoDkAiA.jpg",
-      "rating": 7.6,
+      "rating": 7.595,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -2168,7 +2168,7 @@
       "releaseDate": "2001-12-28",
       "backdropPath": "/nMW4zQvosS3qUvML5kbjMvgETd1.jpg",
       "posterPath": "/8lVQXVhKBvAD4dwGvioBInC45HB.jpg",
-      "rating": 7.562,
+      "rating": 7.563,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -2194,7 +2194,7 @@
       "releaseDate": "2003-11-05",
       "backdropPath": "/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg",
       "posterPath": "/m8Jh9GFuo27pI4JbpekywFwKUd1.jpg",
-      "rating": 6.8,
+      "rating": 6.758,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -2203,11 +2203,11 @@
       "type": "tmdb",
       "title": "恐怖直播",
       "originalTitle": "더 테러 라이브",
-      "description": "韩国首尔某个平凡的早上，广播电台Daily Topic节目的主持人尹英华（河正宇 饰）正就税率改革与听众进行连线，这时一个自称住在首尔昌信洞的普通工人朴鲁圭打入电话，大肆抱怨超高的电费和相关部门对他的威胁。尹英华颇不耐烦，以偏离主题为由强行切断电话。谁知连线无法单方面由电台方面中断，愤怒的朴鲁圭继续抱怨，并扬言炸掉汉江大桥。尹英华不以为然，进而怂恿对方想做就做，谁知话音刚落，窗外的麻浦大桥便炸作废墟。大惊失色的尹英华很快冷静下来，他决定利用这次难得的机会打一次事业的翻身仗。在他的主持下，针对恐怖分子的连线直播就此展开，无关良知的节目拉开帷幕……",
+      "description": "曾经是韩国顶级电视新闻主播的尹英华，如今被调到广播电台主持时事节目。一天早晨的直播中，一名自称朴鲁圭的建筑工人突然打来电话，声称要炸毁汉江上的麻浦大桥。尹英华起初只当这是恶作剧，甚至出言挑衅，没想到几分钟后，窗外的麻浦大桥真的发生爆炸。意识到这场突发事件可能成为自己重返电视新闻台的机会，尹英华没有立即将独家线索交给警方，而是开始与来电者进行直播连线。对方声称多年前维修大桥时有工人因事故死亡，却始终没有得到应有的道歉，并要求总统亲自公开致歉。随着警方、电视台和政府相继介入，这场原本被尹英华视为事业翻身机会的独家直播，也逐渐演变成一场完全超出他掌控的生死危机……",
       "releaseDate": "2013-07-31",
       "backdropPath": "/opEzQcK0hVCCTZq30XcMUrIdpSl.jpg",
       "posterPath": "/jN0uey1Q7oAGfcDPXeDNSPkc2fk.jpg",
-      "rating": 7.188,
+      "rating": 7.191,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
@@ -2220,7 +2220,7 @@
       "releaseDate": "2019-10-01",
       "backdropPath": "/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
       "posterPath": "/6wRhlfO6CKdN1U49c3ZJ0MZtV4D.jpg",
-      "rating": 8.118,
+      "rating": 8.117,
       "mediaType": "movie",
       "genreTitle": "犯罪, 惊悚"
     },
@@ -2246,7 +2246,7 @@
       "releaseDate": "2003-10-01",
       "backdropPath": "/j0bK5l5Wo4XvUUrKp1FckLvbse9.jpg",
       "posterPath": "/5xRCFetYT8cHlcIFjuWL5uyNjy.jpg",
-      "rating": 7.293,
+      "rating": 7.29,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -2285,7 +2285,7 @@
       "releaseDate": "2013-11-01",
       "backdropPath": "/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
       "posterPath": "/5KBwiHtGOqb4Moeti89IKvyNfpy.jpg",
-      "rating": 7.907,
+      "rating": 7.906,
       "mediaType": "movie",
       "genreTitle": "剧情, 历史"
     },
@@ -2307,11 +2307,11 @@
       "type": "tmdb",
       "title": "疯狂的石头",
       "originalTitle": "疯狂的石头",
-      "description": "重庆一间工艺品厂已经濒临倒闭，却不料在拆倒旧厂房的时候，发现了厕所里的一件宝物——一块价值连城的翡翠。厂里决定用这块翡翠举办一个展览，赚些钱发拖欠了几个月的工人工资。期间由工艺品厂保卫科长包世宏（郭涛 饰）负责看守这件宝物。但是，国际大盗麦克与本地一帮小偷却让包世宏一筹莫展，他们各施其技接近翡翠，展览馆开始了一场明争暗斗的较量。黑色幽默也开始幕幕上演。翡翠的价值几何？最后谁是胜出者？事情远没有表面那么简单…",
+      "description": "重庆一家濒临倒闭的工艺品厂在拆除旧厂房时，意外从厕所里发现了一块价值不菲的翡翠。为了缓解经营困境，厂里决定举办翡翠展览，并由保卫科长包世宏负责看守。没想到消息传开后，国际大盗麦克和本地一伙小偷都盯上了这块宝物，各自使出不同手段试图将其弄到手。包世宏一边想方设法保护翡翠，一边与这些不速之客斗智斗勇。随着几路人马不断交错，一场围绕翡翠展开的明争暗斗也变得越来越失控……",
       "releaseDate": "2006-06-30",
       "backdropPath": "/8xzVdkNPNbqT6kJA6IHaRKFpt0B.jpg",
       "posterPath": "/4NVNv2sQKZKb1HtGExUqp3Ukd7f.jpg",
-      "rating": 7.629,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "动作, 喜剧"
     },
@@ -2324,7 +2324,7 @@
       "releaseDate": "1999-12-10",
       "backdropPath": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
       "posterPath": "/oHL5har21XS91tAL0gUnDCg9kvD.jpg",
-      "rating": 8.505,
+      "rating": 8.5,
       "mediaType": "movie",
       "genreTitle": "奇幻, 剧情"
     },
@@ -2376,7 +2376,7 @@
       "releaseDate": "2015-06-13",
       "backdropPath": "/b0Xdh15XGZbKON9CbFVB5sTqrSJ.jpg",
       "posterPath": "/cd78ie8CrDkLpXVP4R1N6Gy8IrD.jpg",
-      "rating": 7.6,
+      "rating": 7.558,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -2389,7 +2389,7 @@
       "releaseDate": "2015-10-16",
       "backdropPath": "/7uL8JLW5cQzHqCFeX8NlTsXu26B.jpg",
       "posterPath": "/1ertjhiOTYVIhh5VBI1SHe0evid.jpg",
-      "rating": 7.6,
+      "rating": 7.636,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -2402,7 +2402,7 @@
       "releaseDate": "2002-08-30",
       "backdropPath": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
       "posterPath": "/AhTemxbjHVkf456eEGxKK333xfr.jpg",
-      "rating": 8.427,
+      "rating": 8.4,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -2411,11 +2411,11 @@
       "type": "tmdb",
       "title": "风之谷",
       "originalTitle": "風の谷のナウシカ",
-      "description": "1000年后的枯人们，并不是生活在天堂里，而看上去美丽的景象，其实是危机四伏。在人类自我毁灭的浩劫后，以菌类为主的腐海森林，散发着有毒的气体，逐渐的侵蚀着人类的居住区，而生活在腐海中的王虫群，更是可以在瞬间毁灭辛苦建立起来的新的家园的恐怖生物。疲惫于战争的人群经历了艰难困苦，总算找到个可以暂时安居的地方，那里由于风的力量而没有受到腐海的侵袭，这个美丽的家园就是风之谷。风之谷是个不受腐海波及的地方，人们生活的很快乐，可是有野心的多米吉亚人，不惜发动战争，利用王虫荷母打击风之谷，在一个黑暗艰苦的时期，展开白鸟之翼的娜伍丝嘉，将会面临怎样的危机以及成长，将会怎样对待敌意和战争，最重要的是，背负着族人的期待，面对着疯狂的王虫，纤弱的身躯，是否能够承担起保护自己家园的重任？",
+      "description": "在毁灭工业文明的“火之七日”过去一千年后，世界被散发有毒瘴气的“腐海”逐渐覆盖，生活其中的巨大虫群也让幸存的人类时刻面临威胁。依靠海风阻挡腐海孢子的风之谷，是少数仍能安宁生活的地方。风之谷公主娜乌西卡善于御风，并能够感知王虫等生物的心意，始终试图理解这片被人类畏惧的世界。一天，一架多鲁美奇亚运输机意外坠毁在风之谷，机上竟载着在“火之七日”中毁灭世界的古代兵器“巨神兵”。为了争夺巨神兵，多鲁美奇亚军队随后进入风之谷，使这个宁静的小国骤然卷入战争。面对人类之间不断升级的冲突，以及腐海与王虫带来的危机，娜乌西卡不得不为守护家园踏上新的旅程……",
       "releaseDate": "1984-03-11",
       "backdropPath": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
       "posterPath": "/jfTEuVl6iZBqGJWU9kfpkTvSbhA.jpg",
-      "rating": 7.945,
+      "rating": 7.944,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -2441,7 +2441,7 @@
       "releaseDate": "1986-08-02",
       "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
       "posterPath": "/qvdvGB9d58zjberXoCX5RihD5PY.jpg",
-      "rating": 7.4,
+      "rating": 7.355,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -2454,7 +2454,7 @@
       "releaseDate": "1991-02-02",
       "backdropPath": "/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
       "posterPath": "/5RY3c5m7lElGAWHUbkJJXQtgKEQ.jpg",
-      "rating": 6.841,
+      "rating": 6.847,
       "mediaType": "movie",
       "genreTitle": "动作, 喜剧"
     },
@@ -2467,7 +2467,7 @@
       "releaseDate": "2009-10-16",
       "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
-      "rating": 6.909,
+      "rating": 6.91,
       "mediaType": "movie",
       "genreTitle": "恐怖"
     },
@@ -2493,9 +2493,22 @@
       "releaseDate": "1987-03-05",
       "backdropPath": "/z9EtVguD5WZRupYMD9TSwdthVjk.jpg",
       "posterPath": "/dyRGM43O36oOle58sbrCQ6lWT7a.jpg",
-      "rating": 7.967,
+      "rating": 7.952,
       "mediaType": "movie",
       "genreTitle": "剧情, 历史"
+    },
+    {
+      "id": 16859,
+      "type": "tmdb",
+      "title": "魔女宅急便",
+      "originalTitle": "魔女の宅急便",
+      "description": "琪琪今年13岁了，按照魔法界的规矩，魔法少女年满13岁就要出外进行为期一年的修行。所以琪琪带着宠物黑猫吉吉踏上了修行之旅。然而，修行之旅开识得并不顺利，当琪琪来到海边一座大城市时，人们并没有欢迎她的到来，人人都不搭理她。幸亏琪琪有一颗善良的心，当她拾到了一件别人的失物时，热心的琪琪找到了失主。她的善良赢得了面包店老板娘的好感，琪琪就在面包店开始了她用飞行魔法为客人服务的快递业务。琪琪很快适应了新环境，一次，一个热衷于飞机制造的男孩邀请琪琪去参加飞行俱乐部的聚会，途中琪琪因为帮一位老大娘送东西而被雨淋了。从此，琪琪突然发现自己的魔法正在一天天变弱。",
+      "releaseDate": "1989-07-29",
+      "backdropPath": "/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
+      "posterPath": "/oFouL0QtqVjGP6JutSCYpY4AM5b.jpg",
+      "rating": 7.84,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
     },
     {
       "id": 15804,
@@ -2511,17 +2524,17 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 16859,
+      "id": 505192,
       "type": "tmdb",
-      "title": "魔女宅急便",
-      "originalTitle": "魔女の宅急便",
-      "description": "琪琪今年13岁了，按照魔法界的规矩，魔法少女年满13岁就要出外进行为期一年的修行。所以琪琪带着宠物黑猫吉吉踏上了修行之旅。然而，修行之旅开识得并不顺利，当琪琪来到海边一座大城市时，人们并没有欢迎她的到来，人人都不搭理她。幸亏琪琪有一颗善良的心，当她拾到了一件别人的失物时，热心的琪琪找到了失主。她的善良赢得了面包店老板娘的好感，琪琪就在面包店开始了她用飞行魔法为客人服务的快递业务。琪琪很快适应了新环境，一次，一个热衷于飞机制造的男孩邀请琪琪去参加飞行俱乐部的聚会，途中琪琪因为帮一位老大娘送东西而被雨淋了。从此，琪琪突然发现自己的魔法正在一天天变弱。",
-      "releaseDate": "1989-07-29",
-      "backdropPath": "/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
-      "posterPath": "/oFouL0QtqVjGP6JutSCYpY4AM5b.jpg",
-      "rating": 7.839,
+      "title": "小偷家族",
+      "originalTitle": "万引き家族",
+      "description": "做短工的治（中川雅也 饰）与妻子信代（安藤樱 饰）、“儿子”祥太（城桧吏 饰）、信代的“妹妹”亚纪（松冈茉优 饰）以及“老母亲”初枝（树木希林 饰），依靠初枝的养老保险，在破烂的平房中艰难度日。治与儿子祥太做扒手，亚纪打工补贴家用。某一天，治带回在住宅区被冻僵的少女百合（佐佐木美雪 饰），加入了他们原本就贫困潦倒的家庭中。一件事打破了原本的平衡，每个人心中隐藏的秘密和愿望也逐渐明朗。",
+      "releaseDate": "2018-06-02",
+      "backdropPath": "/k49RhOmaKfoybjR3vBSaOJrIGmc.jpg",
+      "posterPath": "/7YcnmzcPxEohCFAyst1e3glxhd.jpg",
+      "rating": 7.828,
       "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
+      "genreTitle": "剧情, 犯罪"
     },
     {
       "id": 205,
@@ -2532,22 +2545,9 @@
       "releaseDate": "2004-12-22",
       "backdropPath": "/jkvvXaN7FPVKGlk8oj9PL0FHNtj.jpg",
       "posterPath": "/7okrglkcWenBy9SpScYvusmTyan.jpg",
-      "rating": 7.715,
+      "rating": 7.717,
       "mediaType": "movie",
       "genreTitle": "剧情, 历史"
-    },
-    {
-      "id": 505192,
-      "type": "tmdb",
-      "title": "小偷家族",
-      "originalTitle": "万引き家族",
-      "description": "做短工的治（中川雅也 饰）与妻子信代（安藤樱 饰）、“儿子”祥太（城桧吏 饰）、信代的“妹妹”亚纪（松冈茉优 饰）以及“老母亲”初枝（树木希林 饰），依靠初枝的养老保险，在破烂的平房中艰难度日。治与儿子祥太做扒手，亚纪打工补贴家用。某一天，治带回在住宅区被冻僵的少女百合（佐佐木美雪 饰），加入了他们原本就贫困潦倒的家庭中。一件事打破了原本的平衡，每个人心中隐藏的秘密和愿望也逐渐明朗。",
-      "releaseDate": "2018-06-02",
-      "backdropPath": "/k49RhOmaKfoybjR3vBSaOJrIGmc.jpg",
-      "posterPath": "/7YcnmzcPxEohCFAyst1e3glxhd.jpg",
-      "rating": 7.8,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
     },
     {
       "id": 13398,
@@ -2558,7 +2558,7 @@
       "releaseDate": "2003-12-05",
       "backdropPath": "/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
       "posterPath": "/mnW3DcMh63tUcwHOwpNfE0KPhii.jpg",
-      "rating": 7.926,
+      "rating": 7.925,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
     },
@@ -2584,7 +2584,7 @@
       "releaseDate": "1987-08-01",
       "backdropPath": "/AiFmwDpFYuTa3XhKGQ1gisxHLAu.jpg",
       "posterPath": "/hNjRKmWTxfyRFGf0bG1vNHqOKUG.jpg",
-      "rating": 7.785,
+      "rating": 7.818,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -2610,7 +2610,7 @@
       "releaseDate": "2007-12-25",
       "backdropPath": "/6OpluXPGIE8hfVrhpeygR7p4XwR.jpg",
       "posterPath": "/1Xy5DXXiNEjsKCCRM522GCdE77U.jpg",
-      "rating": 7.2,
+      "rating": 7.186,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
     },
@@ -2623,7 +2623,7 @@
       "releaseDate": "2013-12-18",
       "backdropPath": "/pzMrxeP9XkKOtQVUBPTq5yk4ck5.jpg",
       "posterPath": "/xUvcmKgDFRy79LqTibh7bpu1R5r.jpg",
-      "rating": 7.2,
+      "rating": 7.228,
       "mediaType": "movie",
       "genreTitle": "冒险, 喜剧"
     },
@@ -2649,7 +2649,7 @@
       "releaseDate": "2021-01-29",
       "backdropPath": "/893hqH2OLQo1Vv0dwHtQmrfP3fT.jpg",
       "posterPath": "/nvStCqSfgtEAUMv31iXAE99pzEp.jpg",
-      "rating": 7.7,
+      "rating": 7.734,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
     },
@@ -2675,7 +2675,7 @@
       "releaseDate": "2016-12-01",
       "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
       "posterPath": "/wEOWf7ahe1yeDkng1AxIcuIXcB.jpg",
-      "rating": 7.896,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -2684,11 +2684,11 @@
       "type": "tmdb",
       "title": "荒蛮故事",
       "originalTitle": "Relatos salvajes",
-      "description": "这是一部黑色喜剧，由6个独立的暴力复仇小故事构成。影片是一次对于人类失控行径的颠覆性创作，从怪异的幽默感，独特的画面和大胆的配乐，到对于身处绝境的普通人这一题材的偏爱，都可以清晰地看到南美鬼才导演达米安·斯兹弗隆与阿莫多瓦在创作方面的相似之处。",
+      "description": "六个彼此独立的故事，讲述六场从日常生活中突然爆发的失控与复仇。一次意外的相遇、一场公路争执、一张停车罚单、一段被掩盖的事故、一场婚礼……原本看似普通的人们，在愤怒、屈辱、嫉妒和不公不断累积之后，逐渐突破理性的边界，以越来越极端的方式回应眼前的困境。荒诞、暴力与黑色幽默交织在一起，也让这些看似毫无关联的故事共同指向人性在失去控制时最危险也最讽刺的一面。",
       "releaseDate": "2014-08-21",
       "backdropPath": "/dHnki2Dh6lbOtfksrh8H5lg08f5.jpg",
       "posterPath": "/kUpTjBgmEmoAATPWyVcG875j5Wz.jpg",
-      "rating": 7.9,
+      "rating": 7.867,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -2701,7 +2701,7 @@
       "releaseDate": "2015-05-13",
       "backdropPath": "/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
       "posterPath": "/jGMjF2SRawSsp8taI7BL8cC2Gp7.jpg",
-      "rating": 7.636,
+      "rating": 7.637,
       "mediaType": "movie",
       "genreTitle": "动作, 冒险"
     },
@@ -2740,7 +2740,7 @@
       "releaseDate": "2018-10-24",
       "backdropPath": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
       "posterPath": "/yNFB3w856i8HcHld5xeeT0avTFt.jpg",
-      "rating": 7.953,
+      "rating": 7.951,
       "mediaType": "movie",
       "genreTitle": "音乐, 剧情"
     },
@@ -2753,7 +2753,7 @@
       "releaseDate": "2008-11-12",
       "backdropPath": "/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg",
       "posterPath": "/aotD26OYkzENqG6qxIS6rHvb4vk.jpg",
-      "rating": 7.729,
+      "rating": 7.728,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -2766,7 +2766,7 @@
       "releaseDate": "1931-02-06",
       "backdropPath": "/Ma7mQsldFCaQpsZbm8zolgLfmV.jpg",
       "posterPath": "/hGUhhcC0YxhVuo36SvaRmDDM7o5.jpg",
-      "rating": 8.251,
+      "rating": 8.25,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -2788,11 +2788,11 @@
       "type": "tmdb",
       "title": "哈利·波特与死亡圣器（上）",
       "originalTitle": "Harry Potter and the Deathly Hallows: Part 1",
-      "description": "邓不利多死后，伏地魔与食死徒入侵魔法学校，魔法部也被伏地魔的爪牙操控，邪恶的阴云笼罩魔法世界上空。在哈利17 岁生日之际，凤凰社成员及一众好友护送他回到了凤凰社的据点陋居，然而这立即遭到食死徒毁灭性地打击。哈利和罗恩、赫敏侥幸逃亡，并且按照邓不利多的嘱托继续寻找伏地魔的魂器。死亡的威胁时刻逡巡左右，他们还要面对友情的考验。在寻找摧毁魂器方法的过程中，死亡圣器的面纱也渐渐揭开。与此同时，为了置哈利于死地，伏地魔也在寻找最后一件死亡圣器。最后的决战即将到来……",
+      "description": "邓布利多去世后，伏地魔与食死徒的势力迅速扩张，魔法部和霍格沃茨相继落入他们的控制之下。哈利、罗恩和赫敏不再返回学校，而是按照邓布利多留下的任务踏上逃亡之路，寻找并摧毁维系伏地魔不死力量的魂器。失去老师和凤凰社的直接保护后，三人只能依靠彼此，在食死徒不断追捕的阴影下辗转藏身，而魂器本身的黑暗力量也不断考验着他们的友情。随着调查深入，一则关于三件神秘魔法物品的古老传说——“死亡圣器”逐渐浮现。与此同时，伏地魔也在寻找一根足以让自己真正击败哈利的强大魔杖……",
       "releaseDate": "2010-11-17",
       "backdropPath": "/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg",
-      "posterPath": "/AuUYSqCVdGNezYU1dcl1dNpod0k.jpg",
-      "rating": 7.732,
+      "posterPath": "/hB7bi8R9FOq9EVx0CVN3aa83wF5.jpg",
+      "rating": 7.733,
       "mediaType": "movie",
       "genreTitle": "冒险, 奇幻"
     },
@@ -2805,7 +2805,7 @@
       "releaseDate": "2009-08-02",
       "backdropPath": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
       "posterPath": "/dZclUsa4W3MaAlIssZj7ojaQGzJ.jpg",
-      "rating": 8.217,
+      "rating": 8.218,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -2818,7 +2818,7 @@
       "releaseDate": "2014-10-10",
       "backdropPath": "/wbQa0EnWUyRzQ5d1pHLNRlmsCUP.jpg",
       "posterPath": "/wOBIYg8cJUNumlBGyUk47Sw4olf.jpg",
-      "rating": 8.4,
+      "rating": 8.375,
       "mediaType": "movie",
       "genreTitle": "剧情, 音乐"
     },
@@ -2831,7 +2831,7 @@
       "releaseDate": "1991-07-03",
       "backdropPath": "/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
       "posterPath": "/OA6oYh2CwTrWXTjGDIIs8MUHsy.jpg",
-      "rating": 8.164,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -2844,7 +2844,7 @@
       "releaseDate": "1993-11-04",
       "backdropPath": "/sofHRGQgG6LvKYJWpaxQRFKe4or.jpg",
       "posterPath": "/4PIXqxN9BIYhhNIRwACgkrwPvH7.jpg",
-      "rating": 7.252,
+      "rating": 7.25,
       "mediaType": "movie",
       "genreTitle": "动作, 奇幻"
     },
@@ -2857,7 +2857,7 @@
       "releaseDate": "1994-09-17",
       "backdropPath": "/smtzZRpE8hQkQNnhQg2TIRfcWcj.jpg",
       "posterPath": "/jGbc7RFWqeKt9WMm0EE87jaILKb.jpg",
-      "rating": 7.1,
+      "rating": 7.077,
       "mediaType": "movie",
       "genreTitle": "剧情, 动作"
     },
@@ -2909,7 +2909,7 @@
       "releaseDate": "1997-07-09",
       "backdropPath": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
       "posterPath": "/pKtirbfjgx9myanD7ERNvsFYvJU.jpg",
-      "rating": 7.57,
+      "rating": 7.569,
       "mediaType": "movie",
       "genreTitle": "科幻, 剧情"
     },
@@ -2948,7 +2948,7 @@
       "releaseDate": "1966-12-08",
       "backdropPath": "/bodTQ7K68AopK2uQumsrSVT9g4A.jpg",
       "posterPath": "/49XBrMc1LkoMtkPK1b17Yhb0xh.jpg",
-      "rating": 7.928,
+      "rating": 7.925,
       "mediaType": "movie",
       "genreTitle": "喜剧, 战争"
     },
@@ -2961,9 +2961,22 @@
       "releaseDate": "2014-04-06",
       "backdropPath": "/cvGE73s935bXEAVt2W0zADPPegG.jpg",
       "posterPath": "/7zQE3Dx96FDfu82cIqJHl1dCV3J.jpg",
-      "rating": 7.204,
+      "rating": 7.206,
       "mediaType": "movie",
       "genreTitle": "惊悚, 科幻"
+    },
+    {
+      "id": 675,
+      "type": "tmdb",
+      "title": "哈利·波特与凤凰社",
+      "originalTitle": "Harry Potter and the Order of the Phoenix",
+      "description": "伏地魔归来后，魔法部却拒绝承认这个事实，并不断质疑哈利和邓布利多的说法。与此同时，邓布利多重新召集“凤凰社”，秘密对抗伏地魔及其食死徒。回到霍格沃茨后，哈利又迎来了魔法部派来的新任黑魔法防御术教授多洛雷斯·乌姆里奇，她以严苛的规章逐步控制学校，却拒绝让学生真正练习防御魔法。为了应对越来越迫近的危险，哈利、罗恩和赫敏秘密组织“邓布利多军”，带领同学学习黑魔法防御术。与此同时，哈利不断出现与伏地魔有关的梦境和幻象，也逐渐意识到自己与黑魔王之间似乎存在着某种危险而神秘的联系……",
+      "releaseDate": "2007-07-08",
+      "backdropPath": "/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+      "posterPath": "/coAHtusuTDE7v1oUgMFS3elRQ4d.jpg",
+      "rating": 7.673,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 奇幻"
     },
     {
       "id": 380,
@@ -2977,19 +2990,6 @@
       "rating": 7.751,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 675,
-      "type": "tmdb",
-      "title": "哈利·波特与凤凰社",
-      "originalTitle": "Harry Potter and the Order of the Phoenix",
-      "description": "逃过摄魂怪的追杀，通过魔法部的审查，哈利终于回到美丽的霍格沃兹。然而这个学期并不轻松，他不仅要完成魔法等级考试，还要应对夜晚的噩梦和黑魔法防御课老师乌姆里奇的打压。在好友的支持下，哈利秘密组建了邓不利多军团，与大家一起练习黑魔法防御术。噩梦中，哈利总是以伏地魔的视角出现，似乎他们之间有着某种神秘的联系。在邓不利多的指示下，哈利向斯内普教授学习大脑封闭术，却鲜有成效。终于在一次噩梦的诱使下，哈利偏执的赶往魔法部营救小天狼星，却不想陷入伏地魔的圈套，引发凤凰社与食死徒之间的正面冲突。在混战中，小天狼星不幸遇难。究竟哈利与伏地魔之间有着怎样的联系？在悲恸中，邓不利多为哈利揭开谜底，哈利还有更长、更艰难的路要走……",
-      "releaseDate": "2007-07-08",
-      "backdropPath": "/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
-      "posterPath": "/coAHtusuTDE7v1oUgMFS3elRQ4d.jpg",
-      "rating": 7.672,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 奇幻"
     },
     {
       "id": 334541,
@@ -3013,7 +3013,7 @@
       "releaseDate": "1950-08-26",
       "backdropPath": "/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
       "posterPath": "/7S5ut0iDmuevbGc0hDBxFJLthEd.jpg",
-      "rating": 8.029,
+      "rating": 8.03,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
@@ -3039,22 +3039,9 @@
       "releaseDate": "2004-06-25",
       "backdropPath": "/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg",
       "posterPath": "/r2WeeOresCiLhlEpLTz0RPe2s8c.jpg",
-      "rating": 7.9,
+      "rating": 7.89,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
-    },
-    {
-      "id": 508,
-      "type": "tmdb",
-      "title": "真爱至上",
-      "originalTitle": "Love Actually",
-      "description": "这是一出10个爱情故事窜成的喜剧杂烩：失去母亲的小男孩终日郁郁寡欢，继父不知该如何安慰。当他得知继子喜欢上学校里最美的女孩，便热烈地鼓励儿子去追。小男孩为了赢得小女孩的关注，废寝忘食地练习架子鼓，只为了在圣诞节的晚会上能与她同台演出。勇敢的他，甚至为了最后的一记道别潇洒地突破机场的安检区。两个孩子的母亲面对了婚姻危机。丈夫感情出轨，把项链送给了别的女人，给她的，则仅是一张她热爱的女歌手的CD。她找了借口仓皇躲入卧室，在歌声中隐忍啜泣。转个身，又夸张地大笑着，迎向娇女爱子欢喜的面容。 丈夫最终幡然醒悟……如此的小故事共有十出，温暖你我的心。",
-      "releaseDate": "2003-09-07",
-      "backdropPath": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
-      "posterPath": "/nB8wvhntaWFhIp9HSE1Oan7T858.jpg",
-      "rating": 7.099,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 爱情"
     },
     {
       "id": 109445,
@@ -3070,6 +3057,19 @@
       "genreTitle": "动画, 家庭"
     },
     {
+      "id": 508,
+      "type": "tmdb",
+      "title": "真爱至上",
+      "originalTitle": "Love Actually",
+      "description": "这是一出10个爱情故事窜成的喜剧杂烩：失去母亲的小男孩终日郁郁寡欢，继父不知该如何安慰。当他得知继子喜欢上学校里最美的女孩，便热烈地鼓励儿子去追。小男孩为了赢得小女孩的关注，废寝忘食地练习架子鼓，只为了在圣诞节的晚会上能与她同台演出。勇敢的他，甚至为了最后的一记道别潇洒地突破机场的安检区。两个孩子的母亲面对了婚姻危机。丈夫感情出轨，把项链送给了别的女人，给她的，则仅是一张她热爱的女歌手的CD。她找了借口仓皇躲入卧室，在歌声中隐忍啜泣。转个身，又夸张地大笑着，迎向娇女爱子欢喜的面容。 丈夫最终幡然醒悟……如此的小故事共有十出，温暖你我的心。",
+      "releaseDate": "2003-09-07",
+      "backdropPath": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+      "posterPath": "/nB8wvhntaWFhIp9HSE1Oan7T858.jpg",
+      "rating": 7.099,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 爱情"
+    },
+    {
       "id": 604,
       "type": "tmdb",
       "title": "黑客帝国2：重装上阵",
@@ -3078,7 +3078,7 @@
       "releaseDate": "2003-05-15",
       "backdropPath": "/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
       "posterPath": "/42seagWZYIF6bQ0bUL2YVyjgSwn.jpg",
-      "rating": 7.1,
+      "rating": 7.086,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -3091,7 +3091,7 @@
       "releaseDate": "2008-06-28",
       "backdropPath": "/lvSB0bnLzuxwrfTlI2l13gctWRn.jpg",
       "posterPath": "/8M0PBJYX8s04u81XeZn3BXGj54U.jpg",
-      "rating": 7.79,
+      "rating": 7.797,
       "mediaType": "movie",
       "genreTitle": "剧情, 家庭"
     },
@@ -3104,7 +3104,7 @@
       "releaseDate": "2018-12-06",
       "backdropPath": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
       "posterPath": "/ylS5mFW7M6ReUjKhbEI4N4xB5fA.jpg",
-      "rating": 8.397,
+      "rating": 8.4,
       "mediaType": "movie",
       "genreTitle": "动画, 动作"
     },
@@ -3117,7 +3117,7 @@
       "releaseDate": "2002-09-14",
       "backdropPath": "/jZW391Kknf4YiIaZ1XHyVjnJaKe.jpg",
       "posterPath": "/DapAI24FrLj2TdwA1TUVtTkkl3.jpg",
-      "rating": 7.854,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "动画, 剧情"
     },
@@ -3143,7 +3143,7 @@
       "releaseDate": "2004-07-23",
       "backdropPath": "/fE7RqvVHbGHjBC9NjIjlLh2t4zK.jpg",
       "posterPath": "/kePCwAfcT5f2buKaGMsJs1wFYUM.jpg",
-      "rating": 7.334,
+      "rating": 7.335,
       "mediaType": "movie",
       "genreTitle": "动作, 剧情"
     },
@@ -3164,12 +3164,12 @@
       "id": 9323,
       "type": "tmdb",
       "title": "攻壳机动队",
-      "originalTitle": "GHOST IN THE SHELL",
+      "originalTitle": "GHOST IN THE SHELL / 攻殻機動隊",
       "description": "公元2029年，未来世界是高科技与信息化的世界。人类生活水平的提高伴随着犯罪活动的高科技化，于是，专门镇压高科技犯罪的特殊部队——公安9课成立了。队长草薙素子，作为一位全身“义体化”的女警，带领公安9课不断展开行动。这次，公安9课帮助公安6课秘密解决了一位程序员外逃他国的麻烦琐事，又卷入传说中的黑客“傀儡师”的犯罪事件。当行动陷入僵局之际，傀儡师竟然不请自来，出现在公安9课！素子与她的战友们，不知不觉地被卷入了一场涉及政府的阴谋之中。",
       "releaseDate": "1995-11-18",
-      "backdropPath": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+      "backdropPath": "/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
       "posterPath": "/lmvZpjzulqjQGgR6zcHHR74S6ZH.jpg",
-      "rating": 7.9,
+      "rating": 7.927,
       "mediaType": "movie",
       "genreTitle": "动作, 动画"
     },
@@ -3180,9 +3180,9 @@
       "originalTitle": "Blood Diamond",
       "description": "1999年，非洲塞拉利昂深陷内战的战乱纷飞之中。普普通通的渔民索罗蒙（迪杰蒙·豪索）被迫为一家钻石矿厂工作，一次偶然机会，在山涧河流中清洗淘到的石头时，索罗蒙发现了一颗精美的石头，那是一颗世上少有的粉红钻石，而它不仅能帮助自己的家庭，也能解救成为难民的妻女，挽救被抓去当童兵的最心爱的儿子迪亚。因此，虽然面对着死亡的危险，索罗蒙还是不顾一切地藏起了钻石。 丹尼（莱奥纳多·迪卡普里奥）是个靠非法交易钻石和武器为生的贩子，因为走私而被关进监狱的他无意得知了索罗蒙的钻石，他清楚那样稀有的钻石价值连城，完全能助他逃离非洲，逃出暴力腐败的罪恶圈。在一个调查钻石工业复杂黑幕的美国理想主义女记者曼迪（珍妮弗·康纳莉）的帮助下，三人开始了穿越战乱区域的长途逃亡。 对丹尼来说，他需要离开战乱的非洲；对索罗蒙来说，是要拯救自己的儿子和家庭；对曼迪来说，揭开钻石黑幕，成为第一个报导者，是她的夙愿。三个本不相关的陌生人，一颗罕有的粉钻，一场血腥杀戮的内战，在青葱广袤的非洲大陆之上，他们是否能得到最终的救赎？",
       "releaseDate": "2006-12-08",
-      "backdropPath": "/dZ8BVgAMxUpM9t5flLeQbtTX7Zq.jpg",
+      "backdropPath": "/vffPZUYScdWtGU0UrccFIRX4LbV.jpg",
       "posterPath": "/tGzefmrMBGAKSjrCa1nQu9jWOlb.jpg",
-      "rating": 7.559,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     },
@@ -3195,7 +3195,7 @@
       "releaseDate": "2016-06-01",
       "backdropPath": "/jnFmHDHmPZrQ7vyHmxXHcoxp25j.jpg",
       "posterPath": "/4XSCTGx7qAkvcrFXMjrM1SpGPu0.jpg",
-      "rating": 8.2,
+      "rating": 8.176,
       "mediaType": "movie",
       "genreTitle": "惊悚, 剧情"
     },
@@ -3247,7 +3247,7 @@
       "releaseDate": "2015-10-16",
       "backdropPath": "/cGV6R2vzT4TYIabf3JgmrOISQ0y.jpg",
       "posterPath": "/4z8kCCKTzzOLsX8XatpclXwxeZa.jpg",
-      "rating": 7.988,
+      "rating": 7.987,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
     }
