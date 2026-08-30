@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-29T22:03:24.579Z",
+  "time": "2026-08-30T22:10:13.716Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.333,
+        "rating": 9.136,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.986,
+        "rating": 7.984,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.3,
+        "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -127,8 +127,8 @@
         "description": "故事讲述了年轻的波兰难民扬·博亚尔斯基如何成为法国战后有史以来最大的造假者，十五年来，他的家人都不知道，他在花园的一个棚屋里过着双重生活，制造假币——比法国银行印制的钞票“更真实”；一直以来，这个无与伦比的家伙从警察的手中溜走无数次，成为马泰探员的眼中钉。",
         "releaseDate": "2026-01-14",
         "backdropPath": "/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
-        "posterPath": "/r60UQDxVX3ayqlvUDdjPWUfD3x4.jpg",
-        "rating": 7.1,
+        "posterPath": "/urCxdFRLmozhiXJEsSd7H5W0DXb.jpg",
+        "rating": 7.092,
         "mediaType": "movie",
         "genreTitle": "历史, 剧情"
       }
@@ -169,7 +169,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/hMAew4hKxZJeqqvYljhLpvS4OZA.jpg",
         "posterPath": "/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
-        "rating": 8.333,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "悬疑"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.321,
+        "rating": 6.414,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -295,7 +295,7 @@
       {
         "id": 301418,
         "type": "tmdb",
-        "title": "现在不是外遇的问题",
+        "title": "现在不是出轨的问题",
         "originalTitle": "지금 불륜이 문제가 아닙니다",
         "description": "这是一部黑色喜剧，讲述了一对因出卖家庭而走红的网红夫妇，以及一对正在经历混乱离婚诉讼的邻居医生夫妇，随着他们卷入一个无法控制的秘密，一系列冲突不断升级，甚至连婚外情都显得微不足道。",
         "releaseDate": "2026-07-31",
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.117,
+        "rating": 7.111,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -334,13 +334,13 @@
       {
         "id": 292108,
         "type": "tmdb",
-        "title": "护工不是人",
+        "title": "安致",
         "originalTitle": "Ann Droid",
         "description": "在一个AI无处不在的世界里，苏的丈夫大卫18个月前去世了，她唯一的儿子迈克尔搬走了，二手老年护理机器人琳达来到她身边。苏很快意识到机器人可以为她搞定一切，做她儿子永远没时间做的事情。",
         "releaseDate": "2026-07-17",
         "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
         "posterPath": "/rIuA73tNABKewuMMtpIt1Cq6fHh.jpg",
-        "rating": 6.6,
+        "rating": 6.68,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
