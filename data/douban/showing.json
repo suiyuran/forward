@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-30T19:39:44.382Z",
+  "time": "2026-08-31T21:47:11.841Z",
   "data": [
     {
       "id": 1368337,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 7.984,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -60,7 +60,7 @@
       "originalTitle": "数到三",
       "description": "舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
       "releaseDate": "2026-08-28",
-      "backdropPath": null,
+      "backdropPath": "/n0hqyWelh52kBuBAftH1V1omTTW.jpg",
       "posterPath": "/kRlgxkA83z6atla0BRcTxHZRFtf.jpg",
       "rating": 5,
       "mediaType": "movie",
@@ -93,6 +93,19 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
+      "id": 969681,
+      "type": "tmdb",
+      "title": "蜘蛛侠：崭新之日",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
+      "releaseDate": "2026-07-29",
+      "backdropPath": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+      "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
+      "rating": 7.877,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
+    },
+    {
       "id": 1339713,
       "type": "tmdb",
       "title": "痴迷",
@@ -101,22 +114,9 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.205,
+      "rating": 8.206,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 969681,
-      "type": "tmdb",
-      "title": "蜘蛛侠：崭新之日",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-      "releaseDate": "2026-07-29",
-      "backdropPath": "/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
-      "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.887,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
     },
     {
       "id": 1630030,
@@ -153,7 +153,7 @@
       "releaseDate": "2026-06-19",
       "backdropPath": "/bO0nnTk3Vzt7hwnRKa3nOpawZPt.jpg",
       "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
-      "rating": 6.857,
+      "rating": 7.222,
       "mediaType": "movie",
       "genreTitle": "历史, 剧情"
     },
@@ -166,7 +166,7 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.121,
+      "rating": 8.122,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -205,7 +205,7 @@
       "releaseDate": "2026-08-12",
       "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "posterPath": "/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
-      "rating": 6.341,
+      "rating": 6.352,
       "mediaType": "movie",
       "genreTitle": "科幻, 悬疑"
     },
@@ -270,7 +270,7 @@
       "releaseDate": "2026-06-17",
       "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 8.28,
+      "rating": 8.302,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -283,9 +283,22 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.073,
+      "rating": 7.068,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
+    },
+    {
+      "id": 1318413,
+      "type": "tmdb",
+      "title": "诺曼底72小时",
+      "originalTitle": "Pressure",
+      "description": "诺曼底登陆前夕，盟军最高司令部首席气象学家詹姆斯·斯塔格向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
+      "releaseDate": "2026-05-28",
+      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
+      "rating": 7.8,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 历史"
     },
     {
       "id": 1713529,
@@ -301,6 +314,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1148213,
+      "type": "tmdb",
+      "title": "喜欢高兴爱",
+      "originalTitle": "喜欢高兴爱",
+      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
+      "releaseDate": "2023-06-15",
+      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
+      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1315772,
       "type": "tmdb",
       "title": "小黄人与大怪兽",
@@ -309,7 +335,7 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.6,
+      "rating": 7.581,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -327,6 +353,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 965150,
+      "type": "tmdb",
+      "title": "晒后假日",
+      "originalTitle": "Aftersun",
+      "description": "在一座日渐萧索的度假村里，11岁的苏菲珍藏着与深情而理想主义的父亲卡卢姆共度的罕见时光。当青春期世界悄然迫近时，苏菲未曾察觉的是：父亲正在父亲身份之外的生活重压下挣扎。二十年后，苏菲对那次最后假日的温柔追忆，逐渐凝结成一副关于他们关系的深刻而令人心碎的情感画卷——她试图将自己熟悉的父亲与那个不曾了解的男人重新拼合。夏洛特·威尔斯这部精湛而灼人的导演处女作，以记忆的微光重塑了爱与理解的沉默地带。",
+      "releaseDate": "2022-10-21",
+      "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
+      "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
+      "rating": 7.646,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1604133,
       "type": "tmdb",
       "title": "四渡",
@@ -340,6 +379,19 @@
       "genreTitle": "历史, 战争"
     },
     {
+      "id": 1396674,
+      "type": "tmdb",
+      "title": "一个部门的诞生",
+      "originalTitle": "一個部門的誕生",
+      "description": "电视台发生胁持事件，绑匪K仔不是为钱，只想把电视台月费终止。人质当劳为求自保，只想尽快了结，却没想过终止电视台月费竟是如此困难的事……",
+      "releaseDate": "2026-06-13",
+      "backdropPath": "/eW7S7tCPWQW50Bt1YHF0FPI1m16.jpg",
+      "posterPath": "/azv0T4WEDjaaRe7ZeiegUEsKMHs.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
+    },
+    {
       "id": 396227,
       "type": "tmdb",
       "title": "哈姆雷特",
@@ -349,19 +401,6 @@
       "backdropPath": "/2OlaeKSohqs8d2yYe2W9ZeP70Uh.jpg",
       "posterPath": "/wXywOtlYJyKYMtx84Wwyo5iwgDX.jpg",
       "rating": 7.545,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 965150,
-      "type": "tmdb",
-      "title": "晒后假日",
-      "originalTitle": "Aftersun",
-      "description": "在一座日渐萧索的度假村里，11岁的苏菲珍藏着与深情而理想主义的父亲卡卢姆共度的罕见时光。当青春期世界悄然迫近时，苏菲未曾察觉的是：父亲正在父亲身份之外的生活重压下挣扎。二十年后，苏菲对那次最后假日的温柔追忆，逐渐凝结成一副关于他们关系的深刻而令人心碎的情感画卷——她试图将自己熟悉的父亲与那个不曾了解的男人重新拼合。夏洛特·威尔斯这部精湛而灼人的导演处女作，以记忆的微光重塑了爱与理解的沉默地带。",
-      "releaseDate": "2022-10-21",
-      "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
-      "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
-      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -413,7 +452,7 @@
       "releaseDate": "1994-05-12",
       "backdropPath": "/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
       "posterPath": "/5fkgMKovYZgbGngbHJg19zmsSaT.jpg",
-      "rating": 7.9,
+      "rating": 7.888,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
     },
@@ -429,6 +468,19 @@
       "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 37247,
+      "type": "tmdb",
+      "title": "毕业生",
+      "originalTitle": "The Graduate",
+      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
+      "releaseDate": "1967-12-21",
+      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
+      "rating": 7.6,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1628,
@@ -457,19 +509,6 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 37247,
-      "type": "tmdb",
-      "title": "毕业生",
-      "originalTitle": "The Graduate",
-      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
-      "releaseDate": "1967-12-21",
-      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
-      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
-      "rating": 7.633,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
       "id": 4024,
       "type": "tmdb",
       "title": "去年在马里昂巴德",
@@ -479,6 +518,19 @@
       "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
       "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
       "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 64015,
+      "type": "tmdb",
+      "title": "秋天的童话",
+      "originalTitle": "秋天的童話",
+      "description": "美丽而骄纵的年轻姑娘“十三妹”李琪（钟楚红 饰）只身从香港赴纽约留学，并探望先她赴美的男友 Vincent（陈百强 饰）。前来接机的，是她在唐人街打工的远房亲戚“船头尺”（周润发 饰）。满口脏话、粗俗不堪的船头尺被人看作“烂鬼”，初时对十三妹感到厌烦，称她为“茶煲”（trouble）。\r 　　十三妹发现男友移情别恋，心灰意冷，把自己关在房里。一次因家中煤气泄漏中毒，幸得楼下的船头尺及时送医抢救，才得以康复。在船头尺的悉心照顾下，十三妹逐渐建立信心，专心读书和工作。船头尺对十三妹日久生情，开始戒烟戒赌，努力改变自己。\r 　　船头尺34岁生日时举办大食会，邀十三妹和朋友参加，怎料前男友 Vincent 突然出现，船头尺感到不是味儿，只好悄悄离开。船头尺在赌场听闻好友“无柄遮”被人欺负，并决定联同“中国同学会”的众兄弟友为“无柄遮”出头打架，十三妹阻止不果，更险出现意外。\r 　　十三妹决定接受 Mrs. Sherwood（黄淑仪 饰）在她长岛家中的新工作，离别时，船头尺将自己的二手车卖掉，买了一条表带送给她配衬其手表机芯，却发现她将手表机芯送了给自己。\r 　　若干年后，当十三妹旧地重游，发现海边开了一间名为“舢舨”（Sampan）的餐厅，而店主正是已脱胎换骨的船头尺。两人在餐厅外重逢，相视而笑，船头尺轻声问出那句：“Table for two？”",
+      "releaseDate": "1987-07-16",
+      "backdropPath": "/bNTFhyQq4LbDaeX82kxhyWKMDwz.jpg",
+      "posterPath": "/bCh0lIUVvDJxcLoCUF8UwQeDd3l.jpg",
+      "rating": 7.375,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -494,6 +546,19 @@
       "rating": 7.137,
       "mediaType": "movie",
       "genreTitle": "奇幻, 喜剧"
+    },
+    {
+      "id": 318620,
+      "type": "tmdb",
+      "title": "庐山恋",
+      "originalTitle": "庐山恋",
+      "description": "中美建交后，侨居美国的国民党将军周振武的女儿周筠（张瑜 饰）回到祖国观光，在庐山游玩的途中，她巧遇有志青年耿桦（郭凯敏 饰）。两个对祖国怀有无限热爱且充满远大志向的青年走到一起，经过短短几天的相处，他们渐渐产生了感情。然而很快耿桦便因此受到审查，周筠也郁郁离开。\r 　　十年浩劫结束后，已是清华研究生的耿桦在庐山和周筠重逢，这对相爱之人不愿再被分开，彼此约定婚期。而当耿桦的父亲得知周筠的身世时，却对这门婚事断然拒绝……\r 　　女主角张瑜凭借本片当选第一届金鸡奖和同年百花奖的“双料影后”。",
+      "releaseDate": "1980-07-12",
+      "backdropPath": "/q9CRa4qVdoUnY1Y6Bsje7dEddu6.jpg",
+      "posterPath": "/zLhrklpZZab6qlhSYvhsiah8rH1.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 剧情"
     },
     {
       "id": 34838,
@@ -535,32 +600,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1714841,
-      "type": "tmdb",
-      "title": "关索岭",
-      "originalTitle": "关索岭",
-      "description": "丁虎和沈啸飞是八百年前明军的后裔，先后爱上了采茶女金儿。他们生活在宁静的田园中，由于居住的屯堡位于交通要塞，这里成为了日军攻占的重要目标。面对外敌入侵，丁虎和沈啸飞毅摒弃前嫌，民族大义高于个人恩怨。他们以关索岭为中心，带领乡亲们奋勇抵抗，最终全歼了一股携带机密测绘地图的敌人。",
-      "releaseDate": "2026-06-25",
-      "backdropPath": "/luW1QPoiBpasSH2AeEgap5ZWB8Z.jpg",
-      "posterPath": "/hPBNYaVAwouAhLu2RpPxXZxKBvn.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动作, 历史"
-    },
-    {
-      "id": 1028378,
-      "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
-      "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.667,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 956215,
       "type": "tmdb",
       "title": "龙凤呈祥(京剧)",
@@ -596,6 +635,19 @@
       "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
       "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
       "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1028378,
+      "type": "tmdb",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 7.667,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
