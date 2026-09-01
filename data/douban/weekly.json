@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-31T23:27:18.921Z",
+  "time": "2026-09-01T22:07:36.862Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.136,
+        "rating": 9.1,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.267,
+        "rating": 7.272,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-03-18",
         "backdropPath": "/6LpnsToxRww4wsFDX4HUcNKTNF4.jpg",
         "posterPath": "/1l9mxuDThsc84eUpHyIJcUOTg4f.jpg",
-        "rating": 7.541,
+        "rating": 7.527,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.1,
+        "rating": 7.088,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -327,14 +327,14 @@
         "releaseDate": "2026-08-16",
         "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.3,
+        "rating": 8.279,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
       {
         "id": 292108,
         "type": "tmdb",
-        "title": "安致",
+        "title": "护工不是人",
         "originalTitle": "Ann Droid",
         "description": "在一个AI无处不在的世界里，苏的丈夫大卫18个月前去世了，她唯一的儿子迈克尔搬走了，二手老年护理机器人琳达来到她身边。苏很快意识到机器人可以为她搞定一切，做她儿子永远没时间做的事情。",
         "releaseDate": "2026-07-17",
