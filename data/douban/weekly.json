@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-01T22:07:36.862Z",
+  "time": "2026-09-02T22:03:07.724Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.1,
+        "rating": 9.208,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.988,
+        "rating": 7.991,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.272,
+        "rating": 7.269,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-02-20",
         "backdropPath": "/xprL040VY3rZYxuanOpJB0gNVx1.jpg",
         "posterPath": "/jl62ODVKOxM6PdnzhUp1zeT5cFw.jpg",
-        "rating": 6.833,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "动画, 家庭"
       },
@@ -187,32 +187,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 233076,
-        "type": "tmdb",
-        "title": "问心",
-        "originalTitle": "问心",
-        "description": "两年后，周筱风援黔归来与林逸、方筱然会合，三人小分队再度并肩作战，但也面对全新挑战。周筱风自身执着奋进且严守医疗原则，机缘之下被破格提拔为东立医院史上最年轻的心内科执行主任。职位的晋升，让他看到了更多可能、面临更大考验，也颠覆了他与林逸方筱然间原本的关系，甚至医院内外的生态平衡也因此被打破。与此同时，他们还需要面对医生永远的对手——病魔。一个接一个的病人与他们身后的家庭期待医护联手拯救。理想与现实时时冲突，无奈和温暖往往共生，他们只有在奋斗中不断成长，继续保持着“问心无愧”。",
-        "releaseDate": "2026-06-18",
-        "backdropPath": "/xBI8m2aYsr9o4vtgbnI7wsewGc6.jpg",
-        "posterPath": "/oCwfg5xVsUh9Yg4R51DtE1hmKys.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 311881,
-        "type": "tmdb",
-        "title": "欠你的那场婚礼",
-        "originalTitle": "欠妳的那場婚禮",
-        "description": "曾经凭一张帅脸与音乐才华风靡乐坛的「马子狗乐团」主唱周可杰（张孝全 饰），如今成了自我感觉良好、却再也写不出歌的落魄中年，更与妻子陈立璇（苏慧伦 饰）的关系降至冰点。他不明白：当年那个25岁出道即巅峰、意气风发的自己（朱轩洋 饰），为何会沦落至此？就在他试图挽救破碎的婚姻时，一场超现实的奇迹悄然降临，带领他重新找回爱的初衷。",
-        "releaseDate": "2026-06-20",
-        "backdropPath": "/A2D9PdJT6tGwFojrd8SWmSnkQuJ.jpg",
-        "posterPath": "/jOgEViPr1YOv2B6tmMvrEiJNFS9.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 287496,
         "type": "tmdb",
         "title": "花开锦绣",
@@ -221,6 +195,32 @@
         "releaseDate": "2026-08-09",
         "backdropPath": "/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
         "posterPath": "/erj7cX8aa1jndO9HlmoyRcJNLQL.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 280133,
+        "type": "tmdb",
+        "title": "藏锋",
+        "originalTitle": "藏锋",
+        "description": "讲述绿藤市公安局宣传科副科长谭彦即将赴任特警队担任教导员一职，但长期在局机关工作的谭彦，与深扎基层的特警队队长廖不凡难以配合。但随着时间推移，二人的思想渐渐统一，特警队也在二人的管理下越来越好。而在一次配合禁毒队的案件中，谭彦还成了击毙犯罪嫌疑人的功臣。但谭彦意外发现，“功臣”另有其人。最终，谭彦放下了自己的“荣誉”，向市公安局领导汇报了真实情况，并在上级领导部署的“藏锋”计划中，不辱使命圆满地完成任务。",
+        "releaseDate": "2026-08-17",
+        "backdropPath": "/iHShzy0Fa1WDbjFMJqxZV5nLwOQ.jpg",
+        "posterPath": "/t0fGmHkylAIDQvG3AtqQk0IpDBa.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 悬疑"
+      },
+      {
+        "id": 233076,
+        "type": "tmdb",
+        "title": "问心",
+        "originalTitle": "问心",
+        "description": "两年后，周筱风援黔归来与林逸、方筱然会合，三人小分队再度并肩作战，但也面对全新挑战。周筱风自身执着奋进且严守医疗原则，机缘之下被破格提拔为东立医院史上最年轻的心内科执行主任。职位的晋升，让他看到了更多可能、面临更大考验，也颠覆了他与林逸方筱然间原本的关系，甚至医院内外的生态平衡也因此被打破。与此同时，他们还需要面对医生永远的对手——病魔。一个接一个的病人与他们身后的家庭期待医护联手拯救。理想与现实时时冲突，无奈和温暖往往共生，他们只有在奋斗中不断成长，继续保持着“问心无愧”。",
+        "releaseDate": "2026-06-18",
+        "backdropPath": "/xBI8m2aYsr9o4vtgbnI7wsewGc6.jpg",
+        "posterPath": "/oCwfg5xVsUh9Yg4R51DtE1hmKys.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -239,6 +239,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 271016,
+        "type": "tmdb",
+        "title": "九门",
+        "originalTitle": "九门",
+        "description": "长沙风云再起之时，张启山与吴老狗强强联手，携手霍仙姑与九门诸人共赴冒险奇局。一桩401部队的神秘失踪事件，牵出百年尘封的惊天秘辛。生死抉择、兄弟之情、门派担当与家国大义相互交织。九门众人用热血和牺牲，守护家园，共渡难关。",
+        "releaseDate": "2026-07-30",
+        "backdropPath": "/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
+        "posterPath": "/bkyBY4EYv1htCkgmgVNfVrJ7qqW.jpg",
+        "rating": 6.9,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 动作冒险"
+      },
+      {
         "id": 327916,
         "type": "tmdb",
         "title": "凛冬下的罪恶",
@@ -250,35 +263,9 @@
         "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "悬疑"
-      },
-      {
-        "id": 276239,
-        "type": "tmdb",
-        "title": "非份之罪",
-        "originalTitle": "非份之罪",
-        "description": "人类的欲望，可驱使我们超越自我，然而，当欲望失控，过份贪图金钱与权势、追求不属于自己的爱，非份之想被无限放大，不经意间，便陷入道德矛盾的深渊，犯下种种非份之罪……新界东重案组接连调查几宗案件，包括无脸女尸、石棺禁恋、一亿杀机、危险游戏、肮脏的子弹、恐怖情人，错综复杂的线索、缠绕不清的关系，构成一桩桩匪夷所思的迷案，揭露触摸不透的人性黑暗面。",
-        "releaseDate": "2026-06-29",
-        "backdropPath": "/dpVy32tCvsVENVMjlU4cj7CycG5.jpg",
-        "posterPath": "/2snG7uD9XyccAXlqJI3oTsUgQie.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 悬疑"
       }
     ],
     "剧集·国外": [
-      {
-        "id": 286617,
-        "type": "tmdb",
-        "title": "踮起脚尖",
-        "originalTitle": "Tip Toe",
-        "description": "讲述住在曼彻斯特的利奥和克莱夫的故事。利奥在运河街经营一家酒吧，克莱夫是一名电工，有两个十几岁的儿子。 但正当生活应该安定下来时，他们周围的世界却变得越来越紧张。言语变成武器，观点变得激进，两个邻居逐渐成为致命的敌人。",
-        "releaseDate": "2026-05-31",
-        "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-        "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.414,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
       {
         "id": 207333,
         "type": "tmdb",
@@ -291,6 +278,19 @@
         "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 286617,
+        "type": "tmdb",
+        "title": "踮起脚尖",
+        "originalTitle": "Tip Toe",
+        "description": "电工克莱夫与邻居利奥及一位LGBTQ+酒吧老板之间的关系迅速恶化，起因是利奥被锁在门外时，克莱夫允许他使用了手机。本剧由拉塞尔·T·戴维斯创作，共五集。",
+        "releaseDate": "2026-05-31",
+        "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+        "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
+        "rating": 6.4,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": 301418,
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.088,
+        "rating": 7.118,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-08-16",
         "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.279,
+        "rating": 8.297,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -343,6 +343,32 @@
         "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "喜剧"
+      },
+      {
+        "id": 241882,
+        "type": "tmdb",
+        "title": "亡命闺蜜",
+        "originalTitle": "Ride or Die",
+        "description": "黛比和闺蜜朱迪丝被迫展开逃亡，因为她发现朱迪丝根本不是什么法务会计师，而是国际杀手！在神秘人物的追杀下，加上黛比的丈夫涉入某个极度腐败的事件中，她们必须与时间赛跑，展开一场横跨欧洲的公路之旅以厘清真相、保住性命。",
+        "releaseDate": "2026-07-15",
+        "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
+        "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
+        "rating": 6.595,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险"
+      },
+      {
+        "id": 97546,
+        "type": "tmdb",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "description": "丽贝卡重新聘用泰德，执教里士满二线女子足球队灰狗女足。即便泰德已是资深教练，前路依旧充满挑战：全新队员、野心各异的球员、外界普遍不看好，他与比尔德教练将迎来全新征程。",
+        "releaseDate": "2026-08-04",
+        "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
+        "rating": 8.4,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 322570,
@@ -366,35 +392,9 @@
         "releaseDate": "2026-07-22",
         "backdropPath": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
         "posterPath": "/bqPkhXWA1kP1OCrN2q2v9up8YXe.jpg",
-        "rating": 8.7,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
-      },
-      {
-        "id": 241882,
-        "type": "tmdb",
-        "title": "亡命闺蜜",
-        "originalTitle": "Ride or Die",
-        "description": "黛比和闺蜜朱迪丝被迫展开逃亡，因为她发现朱迪丝根本不是什么法务会计师，而是国际杀手！在神秘人物的追杀下，加上黛比的丈夫涉入某个极度腐败的事件中，她们必须与时间赛跑，展开一场横跨欧洲的公路之旅以厘清真相、保住性命。",
-        "releaseDate": "2026-07-15",
-        "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
-        "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.6,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险"
-      },
-      {
-        "id": 97546,
-        "type": "tmdb",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "description": "丽贝卡重新聘用泰德，执教里士满二线女子足球队灰狗女足。即便泰德已是资深教练，前路依旧充满挑战：全新队员、野心各异的球员、外界普遍不看好，他与比尔德教练将迎来全新征程。",
-        "releaseDate": "2026-08-04",
-        "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-        "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
       }
     ]
   }
