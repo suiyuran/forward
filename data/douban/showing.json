@@ -1,19 +1,6 @@
 {
-  "time": "2026-09-02T19:38:48.415Z",
+  "time": "2026-09-03T19:40:37.077Z",
   "data": [
-    {
-      "id": 1368337,
-      "type": "tmdb",
-      "title": "奥德赛",
-      "originalTitle": "The Odyssey",
-      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
-      "releaseDate": "2026-07-15",
-      "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 7.991,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动作"
-    },
     {
       "id": 1391021,
       "type": "tmdb",
@@ -23,9 +10,48 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 9.208,
+      "rating": 9.2,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
+    },
+    {
+      "id": 1368337,
+      "type": "tmdb",
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
+      "releaseDate": "2026-07-15",
+      "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "rating": 7.995,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动作"
+    },
+    {
+      "id": 414419,
+      "type": "tmdb",
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "releaseDate": "2011-03-27",
+      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "rating": 8.123,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 1101412,
+      "type": "tmdb",
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "releaseDate": "2026-09-01",
+      "backdropPath": "/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
     },
     {
       "id": 1567937,
@@ -80,6 +106,32 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "rating": 8.207,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 969681,
+      "type": "tmdb",
+      "title": "蜘蛛侠：崭新之日",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
+      "releaseDate": "2026-07-29",
+      "backdropPath": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
+      "rating": 7.876,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
+    },
+    {
       "id": 1502135,
       "type": "tmdb",
       "title": "密档",
@@ -93,30 +145,17 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 969681,
+      "id": 1288445,
       "type": "tmdb",
-      "title": "蜘蛛侠：崭新之日",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-      "releaseDate": "2026-07-29",
-      "backdropPath": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
-      "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.9,
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "rating": 6.4,
       "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
-    },
-    {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.2,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
+      "genreTitle": "动作, 惊悚"
     },
     {
       "id": 1630030,
@@ -128,6 +167,19 @@
       "backdropPath": "/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
       "posterPath": "/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
       "rating": 5.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动画"
+    },
+    {
+      "id": 1633056,
+      "type": "tmdb",
+      "title": "八仙！",
+      "originalTitle": "八仙！",
+      "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
+      "releaseDate": "2026-07-10",
+      "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
+      "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
     },
@@ -145,17 +197,17 @@
       "genreTitle": "历史, 剧情"
     },
     {
-      "id": 1633056,
+      "id": 1658524,
       "type": "tmdb",
-      "title": "八仙！",
-      "originalTitle": "八仙！",
-      "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
-      "releaseDate": "2026-07-10",
-      "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
-      "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "rating": 7.9,
+      "title": "怪屋",
+      "originalTitle": "怪屋",
+      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
+      "releaseDate": "2026-09-04",
+      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
+      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 动画"
+      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 10681,
@@ -171,6 +223,19 @@
       "genreTitle": "动画, 家庭"
     },
     {
+      "id": 1541125,
+      "type": "tmdb",
+      "title": "年会不能停！2",
+      "originalTitle": "年会不能停！2",
+      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
+      "releaseDate": "2026-07-24",
+      "backdropPath": "/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
+      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
       "id": 1724637,
       "type": "tmdb",
       "title": "去你的岛",
@@ -184,19 +249,6 @@
       "genreTitle": "爱情, 动画"
     },
     {
-      "id": 1541125,
-      "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
-      "posterPath": "/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
       "id": 1101383,
       "type": "tmdb",
       "title": "逃出绝命街",
@@ -205,7 +257,7 @@
       "releaseDate": "2026-08-12",
       "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "posterPath": "/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
-      "rating": 6.4,
+      "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "科幻, 悬疑"
     },
@@ -218,9 +270,22 @@
       "releaseDate": "2026-07-11",
       "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "posterPath": "/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "rating": 6.4,
+      "rating": 6.28,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 26466,
+      "type": "tmdb",
+      "title": "恐怖游轮",
+      "originalTitle": "Triangle",
+      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
+      "releaseDate": "2009-10-16",
+      "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
+      "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
+      "rating": 6.912,
+      "mediaType": "movie",
+      "genreTitle": "恐怖"
     },
     {
       "id": 1563614,
@@ -236,32 +301,6 @@
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 26466,
-      "type": "tmdb",
-      "title": "恐怖游轮",
-      "originalTitle": "Triangle",
-      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
-      "releaseDate": "2009-10-16",
-      "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
-      "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
-      "rating": 6.911,
-      "mediaType": "movie",
-      "genreTitle": "恐怖"
-    },
-    {
-      "id": 1389241,
-      "type": "tmdb",
-      "title": "冬旅人",
-      "originalTitle": "冬旅人",
-      "description": "新疆女导演鲁丹自编自导的第一部作品，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师在冬季的北方小镇不期而遇的故事。作品中的父亲角色是缺失的，但却是三个主人公各自情感的牵绊，也在暗处推动着叙事的发展。人生至暗时刻的短暂相处，三颗孤独的灵魂慢慢靠近，呈现出相互交织的成长弧线，并寻找到了各自的救赎之路。本片由去年过世的藏地新浪潮电影第一人万玛才旦导演生前担任监制，这次入围上海国际电影节也是对这位英年早逝的电影大师最好的纪念。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": "/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
-      "posterPath": "/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1083381,
       "type": "tmdb",
       "title": "后室",
@@ -270,22 +309,9 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.064,
+      "rating": 7.065,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "posterPath": "/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "rating": 7.119,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1084244,
@@ -296,7 +322,7 @@
       "releaseDate": "2026-06-17",
       "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 8.316,
+      "rating": 8.317,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -309,9 +335,22 @@
       "releaseDate": "2026-05-28",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.777,
+      "rating": 7.768,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "posterPath": "/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
+      "rating": 7.034,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1713529,
@@ -327,17 +366,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1275779,
+      "id": 1389241,
       "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "releaseDate": "2026-06-10",
-      "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "posterPath": "/gMGu5lyv6fjeaoYQGW54eHVA7H8.jpg",
-      "rating": 7.477,
+      "title": "冬旅人",
+      "originalTitle": "冬旅人",
+      "description": "新疆女导演鲁丹自编自导的第一部作品，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师在冬季的北方小镇不期而遇的故事。作品中的父亲角色是缺失的，但却是三个主人公各自情感的牵绊，也在暗处推动着叙事的发展。人生至暗时刻的短暂相处，三颗孤独的灵魂慢慢靠近，呈现出相互交织的成长弧线，并寻找到了各自的救赎之路。本片由去年过世的藏地新浪潮电影第一人万玛才旦导演生前担任监制，这次入围上海国际电影节也是对这位英年早逝的电影大师最好的纪念。",
+      "releaseDate": "2026-08-07",
+      "backdropPath": "/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
+      "posterPath": "/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "科幻, 惊悚"
+      "genreTitle": "剧情"
     },
     {
       "id": 1353926,
@@ -413,7 +452,7 @@
       "releaseDate": "1987-12-05",
       "backdropPath": "/4kpbkS9V4QJcQBnvxvRfRojdFyI.jpg",
       "posterPath": "/n7xK6bz8aUNb8LxCBtJX5AXonFh.jpg",
-      "rating": 7.427,
+      "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "剧情, 奇幻"
     },
@@ -470,19 +509,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 37247,
-      "type": "tmdb",
-      "title": "毕业生",
-      "originalTitle": "The Graduate",
-      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
-      "releaseDate": "1967-12-21",
-      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
-      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
-      "rating": 7.633,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
       "id": 8073,
       "type": "tmdb",
       "title": "法外之徒",
@@ -494,6 +520,19 @@
       "rating": 7.483,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 37247,
+      "type": "tmdb",
+      "title": "毕业生",
+      "originalTitle": "The Graduate",
+      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
+      "releaseDate": "1967-12-21",
+      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
+      "rating": 7.634,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1628,
@@ -522,15 +561,15 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 64015,
+      "id": 64131,
       "type": "tmdb",
-      "title": "秋天的童话",
-      "originalTitle": "秋天的童話",
-      "description": "美丽而骄纵的年轻姑娘“十三妹”李琪（钟楚红 饰）只身从香港赴纽约留学，并探望先她赴美的男友 Vincent（陈百强 饰）。前来接机的，是她在唐人街打工的远房亲戚“船头尺”（周润发 饰）。满口脏话、粗俗不堪的船头尺被人看作“烂鬼”，初时对十三妹感到厌烦，称她为“茶煲”（trouble）。\r 　　十三妹发现男友移情别恋，心灰意冷，把自己关在房里。一次因家中煤气泄漏中毒，幸得楼下的船头尺及时送医抢救，才得以康复。在船头尺的悉心照顾下，十三妹逐渐建立信心，专心读书和工作。船头尺对十三妹日久生情，开始戒烟戒赌，努力改变自己。\r 　　船头尺34岁生日时举办大食会，邀十三妹和朋友参加，怎料前男友 Vincent 突然出现，船头尺感到不是味儿，只好悄悄离开。船头尺在赌场听闻好友“无柄遮”被人欺负，并决定联同“中国同学会”的众兄弟友为“无柄遮”出头打架，十三妹阻止不果，更险出现意外。\r 　　十三妹决定接受 Mrs. Sherwood（黄淑仪 饰）在她长岛家中的新工作，离别时，船头尺将自己的二手车卖掉，买了一条表带送给她配衬其手表机芯，却发现她将手表机芯送了给自己。\r 　　若干年后，当十三妹旧地重游，发现海边开了一间名为“舢舨”（Sampan）的餐厅，而店主正是已脱胎换骨的船头尺。两人在餐厅外重逢，相视而笑，船头尺轻声问出那句：“Table for two？”",
-      "releaseDate": "1987-07-16",
-      "backdropPath": "/bNTFhyQq4LbDaeX82kxhyWKMDwz.jpg",
-      "posterPath": "/bCh0lIUVvDJxcLoCUF8UwQeDd3l.jpg",
-      "rating": 7.375,
+      "title": "坏血",
+      "originalTitle": "Mauvais Sang",
+      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
+      "releaseDate": "1986-11-26",
+      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
+      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
+      "rating": 7.133,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -543,9 +582,22 @@
       "releaseDate": "1993-01-06",
       "backdropPath": "/iJ4XWlsGpZuZOQDTYenn9YqWfR0.jpg",
       "posterPath": "/5njDD9mzKKxN1qSmrSd2Ewjs6OF.jpg",
-      "rating": 7.136,
+      "rating": 7.138,
       "mediaType": "movie",
       "genreTitle": "奇幻, 喜剧"
+    },
+    {
+      "id": 64015,
+      "type": "tmdb",
+      "title": "秋天的童话",
+      "originalTitle": "秋天的童話",
+      "description": "美丽而骄纵的年轻姑娘“十三妹”李琪（钟楚红 饰）只身从香港赴纽约留学，并探望先她赴美的男友 Vincent（陈百强 饰）。前来接机的，是她在唐人街打工的远房亲戚“船头尺”（周润发 饰）。满口脏话、粗俗不堪的船头尺被人看作“烂鬼”，初时对十三妹感到厌烦，称她为“茶煲”（trouble）。\r 　　十三妹发现男友移情别恋，心灰意冷，把自己关在房里。一次因家中煤气泄漏中毒，幸得楼下的船头尺及时送医抢救，才得以康复。在船头尺的悉心照顾下，十三妹逐渐建立信心，专心读书和工作。船头尺对十三妹日久生情，开始戒烟戒赌，努力改变自己。\r 　　船头尺34岁生日时举办大食会，邀十三妹和朋友参加，怎料前男友 Vincent 突然出现，船头尺感到不是味儿，只好悄悄离开。船头尺在赌场听闻好友“无柄遮”被人欺负，并决定联同“中国同学会”的众兄弟友为“无柄遮”出头打架，十三妹阻止不果，更险出现意外。\r 　　十三妹决定接受 Mrs. Sherwood（黄淑仪 饰）在她长岛家中的新工作，离别时，船头尺将自己的二手车卖掉，买了一条表带送给她配衬其手表机芯，却发现她将手表机芯送了给自己。\r 　　若干年后，当十三妹旧地重游，发现海边开了一间名为“舢舨”（Sampan）的餐厅，而店主正是已脱胎换骨的船头尺。两人在餐厅外重逢，相视而笑，船头尺轻声问出那句：“Table for two？”",
+      "releaseDate": "1987-07-16",
+      "backdropPath": "/bNTFhyQq4LbDaeX82kxhyWKMDwz.jpg",
+      "posterPath": "/bCh0lIUVvDJxcLoCUF8UwQeDd3l.jpg",
+      "rating": 7.375,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1708565,
@@ -626,19 +678,6 @@
       "genreTitle": ""
     },
     {
-      "id": 916971,
-      "type": "tmdb",
-      "title": "赵氏孤儿(京剧)",
-      "originalTitle": "赵氏孤儿(京剧)",
-      "description": "春秋晋国，屠岸贾侍宠杀害赵盾与全家三百余口。赵盾儿媳庄姬公主深宫产子，为救孤儿，程婴献子替孤。十五年后，程婴与魏绛联手杀死屠岸贾，报了赵家仇恨。  　　这幕悲剧是因屠岸贾、晋灵公在绛霄楼弹打百姓取乐而引发的……",
-      "releaseDate": "2017-04-21",
-      "backdropPath": null,
-      "posterPath": "/5zPq9KLq367E8WZFgltKM8N7urk.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "电视电影"
-    },
-    {
       "id": 1028378,
       "type": "tmdb",
       "title": "Serengeti",
@@ -652,17 +691,17 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1147747,
+      "id": 916971,
       "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
+      "title": "赵氏孤儿(京剧)",
+      "originalTitle": "赵氏孤儿(京剧)",
+      "description": "春秋晋国，屠岸贾侍宠杀害赵盾与全家三百余口。赵盾儿媳庄姬公主深宫产子，为救孤儿，程婴献子替孤。十五年后，程婴与魏绛联手杀死屠岸贾，报了赵家仇恨。  　　这幕悲剧是因屠岸贾、晋灵公在绛霄楼弹打百姓取乐而引发的……",
+      "releaseDate": "2017-04-21",
+      "backdropPath": null,
+      "posterPath": "/5zPq9KLq367E8WZFgltKM8N7urk.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "电视电影"
     }
   ]
 }
