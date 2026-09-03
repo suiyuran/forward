@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-02T22:03:07.724Z",
+  "time": "2026-09-03T21:56:54.607Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.208,
+        "rating": 9.2,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.991,
+        "rating": 7.995,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.269,
+        "rating": 7.267,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-01-14",
         "backdropPath": "/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
         "posterPath": "/urCxdFRLmozhiXJEsSd7H5W0DXb.jpg",
-        "rating": 7.092,
+        "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "历史, 剧情"
       }
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.118,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-08-16",
         "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.297,
+        "rating": 8.281,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -347,13 +347,13 @@
       {
         "id": 241882,
         "type": "tmdb",
-        "title": "亡命闺蜜",
+        "title": "赴汤蹈火",
         "originalTitle": "Ride or Die",
         "description": "黛比和闺蜜朱迪丝被迫展开逃亡，因为她发现朱迪丝根本不是什么法务会计师，而是国际杀手！在神秘人物的追杀下，加上黛比的丈夫涉入某个极度腐败的事件中，她们必须与时间赛跑，展开一场横跨欧洲的公路之旅以厘清真相、保住性命。",
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
-        "posterPath": "/bApmHdczQOmds4cCXx0naZ4IUqE.jpg",
-        "rating": 6.595,
+        "posterPath": "/oSZItXVxl1MhXXmtfHk0NOUJRdU.jpg",
+        "rating": 6.6,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
@@ -391,7 +391,7 @@
         "description": "第二季强势回归：智安接管了武器店，镇万死里逃生，而“巴比伦”组织则陷入了彻底的劣势。为了保护智安，镇万将主动出击，直捣“巴比伦”的大本营；然而，这个雇佣兵组织绝不会轻易认输。颜面尽失的“巴比伦”将从海外调集援手，并派出新一批致命杀手，试图重整旗鼓、实施报复。",
         "releaseDate": "2026-07-22",
         "backdropPath": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-        "posterPath": "/bqPkhXWA1kP1OCrN2q2v9up8YXe.jpg",
+        "posterPath": "/hUC9DlYvTTrs6XYa9iHMw238uY6.jpg",
         "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
