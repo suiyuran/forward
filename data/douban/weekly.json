@@ -1,7 +1,20 @@
 {
-  "time": "2026-09-03T21:56:54.607Z",
+  "time": "2026-09-04T21:53:10.051Z",
   "data": {
     "电影": [
+      {
+        "id": 1368337,
+        "type": "tmdb",
+        "title": "奥德赛",
+        "originalTitle": "The Odyssey",
+        "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
+        "releaseDate": "2026-07-15",
+        "backdropPath": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+        "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+        "rating": 8,
+        "mediaType": "movie",
+        "genreTitle": "冒险, 动作"
+      },
       {
         "id": 1391021,
         "type": "tmdb",
@@ -11,35 +24,22 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.2,
+        "rating": 9.231,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
       {
-        "id": 1368337,
+        "id": 1305672,
         "type": "tmdb",
-        "title": "奥德赛",
-        "originalTitle": "The Odyssey",
-        "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
-        "releaseDate": "2026-07-15",
-        "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.995,
+        "title": "抓特务",
+        "originalTitle": "抓特务",
+        "description": "1949年开国大典当天，刚刚入城并转任公安派出所所长的肖大力，在工作中发现小学教员冯静波身上疑点重重，怀疑他与潜伏的特务活动有关。为了查清冯静波的真实身份，肖大力甚至举家迁入他居住的院落，与其成为邻居，从此开始了漫长的观察与追查。冯静波始终谨慎周旋，肖大力也从未放弃心中的怀疑。随着岁月流逝，这场从新中国成立之初开始的较量持续了近四十年，两个人的人生也在长期的试探、对峙与朝夕相处中紧紧纠缠在一起……",
+        "releaseDate": "2026-06-19",
+        "backdropPath": "/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
+        "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
+        "rating": 7.2,
         "mediaType": "movie",
-        "genreTitle": "冒险, 动作"
-      },
-      {
-        "id": 1472813,
-        "type": "tmdb",
-        "title": "女仆日记",
-        "originalTitle": "Le Journal d'une femme de chambre",
-        "description": "罗马尼亚年轻女子贾尼娜来到波尔多，在一户资产阶级家庭担任女管家。白天她埋头处理雇主家的家务，细心照料雇主家的儿子卢昂；夜晚她加入业余剧团，排练改编自经典小说《女仆日记》的戏剧，出演女仆一角。现实中的移民打工人身份，和舞台上的女仆角色不断互相对照拉扯。一边是雇主家庭的琐碎日常，另一边是戏剧排练场，同时她还要承受与自己女儿相隔的亲情困境，现实人生和戏剧表演的边界逐渐模糊。",
-        "releaseDate": "2026-10-23",
-        "backdropPath": "/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg",
-        "posterPath": "/iKDaYgc0crkad8jlu668Fkk3QaL.jpg",
-        "rating": 0,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
+        "genreTitle": "历史, 剧情"
       },
       {
         "id": 950028,
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.267,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -68,56 +68,30 @@
         "genreTitle": "喜剧"
       },
       {
-        "id": 1318335,
+        "id": 1472813,
         "type": "tmdb",
-        "title": "荣光与暗影",
-        "originalTitle": "Les Rayons et les Ombres",
-        "description": "影片改编自真实人物科琳・吕凯尔自传，导演泽维尔・吉亚诺利，故事聚焦二战被占领时期的法国。 让与奥托，一位法国报人、一名热爱法国的德国青年，二人致力促成欧洲和平。让的女儿科琳正于影坛崭露头角，前途大好。然而战火燃起，法国遭到占领。两位好友在这片变局中的法国扮演着举足轻重的角色：让摇身一变成为传媒巨头，极力鼓吹与占领当局合作；奥托则出任德意志帝国驻巴黎大使。与此同时，科琳坠入险境，身陷狼穴。 影片以二战德国占领巴黎为背景，探究和平理想主义者在战争压力下持续妥协、走向通敌的人性轨迹；打破善恶二元论，展现乱世中人复杂的道德灰色地带；同时透过女演员科琳的遭遇，讲述后代背负父辈历史罪责的终身煎熬，反思媒体精英的良知失守，以及特权阶层 “视而不见” 的共谋。",
-        "releaseDate": "2026-03-18",
-        "backdropPath": "/6LpnsToxRww4wsFDX4HUcNKTNF4.jpg",
-        "posterPath": "/1l9mxuDThsc84eUpHyIJcUOTg4f.jpg",
-        "rating": 7.527,
+        "title": "女仆日记",
+        "originalTitle": "Le Journal d'une femme de chambre",
+        "description": "罗马尼亚年轻女子贾尼娜来到波尔多，在一户资产阶级家庭担任女管家。白天她埋头处理雇主家的家务，细心照料雇主家的儿子卢昂；夜晚她加入业余剧团，排练改编自经典小说《女仆日记》的戏剧，出演女仆一角。现实中的移民打工人身份，和舞台上的女仆角色不断互相对照拉扯。一边是雇主家庭的琐碎日常，另一边是戏剧排练场，同时她还要承受与自己女儿相隔的亲情困境，现实人生和戏剧表演的边界逐渐模糊。",
+        "releaseDate": "2026-10-23",
+        "backdropPath": "/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg",
+        "posterPath": "/iKDaYgc0crkad8jlu668Fkk3QaL.jpg",
+        "rating": 0,
         "mediaType": "movie",
-        "genreTitle": "剧情, 历史"
+        "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 1404169,
+        "id": 1294972,
         "type": "tmdb",
-        "title": "太空见习生",
-        "originalTitle": "Space Cadet",
-        "description": "当宇航员塞莱斯特踏上她的首次单独太空之旅时，那个陪伴她度过整个童年的守护机器人被独自留下，陷入了沉思：未来该何去何从？这是一部宛如明日摇篮曲的故事，讲述着在浩瀚宇宙中寻找自己位置的心路历程。",
-        "releaseDate": "2026-02-20",
-        "backdropPath": "/xprL040VY3rZYxuanOpJB0gNVx1.jpg",
-        "posterPath": "/jl62ODVKOxM6PdnzhUp1zeT5cFw.jpg",
-        "rating": 6.8,
-        "mediaType": "movie",
-        "genreTitle": "动画, 家庭"
-      },
-      {
-        "id": 1630435,
-        "type": "tmdb",
-        "title": "废用身",
-        "originalTitle": "廃用身",
-        "description": "本作描绘了一名医生，因一种围绕“废用身”——因瘫痪等原因已无恢复可能的四肢——的治疗方法，而一步步踏入在追求理想的理性与疯狂之间摇摆的危险领域。在某座城镇的日间照护中心里，一种突破性的疗法在老年人之间悄然流传：对患者进行废用身切除后，不仅“身体和心情都变轻松了”，甚至“原本严厉的性格也变得温和”，出现了看似积极的副作用。听闻此事的编辑矢仓察觉到其可能为老年医疗带来革命性变革，遂向开发该疗法的院长漆原提出出书邀约。然而，关于该照护中心的内部举报被泄露至周刊杂志，加之患者家中发生的一起事件，事态骤然逆转，真相逐渐陷入黑暗。 　　本片改编自久坂部羊的同名原著小说。",
-        "releaseDate": "2026-05-15",
-        "backdropPath": "/fAeLdAfBLN6jLwaMFlLwKelGbFb.jpg",
-        "posterPath": "/qhlb10B6XguYkVXCLShB3pFSymi.jpg",
+        "title": "凤仙花",
+        "originalTitle": "ホウセンカ",
+        "description": "孤独的牢房里，垂暮的老囚虚弱地等待死亡降临。「真是可悲的一生啊！」临终之际，一株凤仙花竟开口说话，唤醒了他深埋心底的过往。一切始于1986年夏天，小屋后院盛开着一片凤仙花。他曾是叱咤风云的黑帮人物，也曾与挚爱共筑片刻美好，却步步走上歧路，徒留来不及说出口的悔恨与遗憾。幸福如花火般闪现，短暂而灿烂。他是否能在生命的最后一刻，翻转命运的棋局？花，是否还能再次绽放？",
+        "releaseDate": "2025-10-10",
+        "backdropPath": "/q9BznLtUUuHfHzyT3NOKzqM6oxz.jpg",
+        "posterPath": "/fZsog59guqRZ4Q2DqKCiLDLuyjz.jpg",
         "rating": 8,
         "mediaType": "movie",
-        "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 1119548,
-        "type": "tmdb",
-        "title": "一切从头来过",
-        "originalTitle": "La Condition",
-        "description": "改编自小说《莱昂诺尔·德·雷孔多之恋》。当他的妻子安睡时，公证人安塞尔姆奸污了年轻的女仆塞莱斯特，使她怀孕。为了维护大家的名誉，维克多利亚决定收养这个孩子。但她没有母性本能，新生儿日渐消瘦。塞莱斯特偷偷地温柔地照顾着她的孩子。一天夜里，维克多利亚在阁楼下的房间里发现了他们……",
-        "releaseDate": "2025-12-10",
-        "backdropPath": "/sq4KQ8CXOFr02KI2XWIZvkpJXui.jpg",
-        "posterPath": "/rKxnJGcEmHJaYeleqOVqoX2twIa.jpg",
-        "rating": 6,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 历史"
+        "genreTitle": "动画, 剧情"
       },
       {
         "id": 1376415,
@@ -131,6 +105,32 @@
         "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "历史, 剧情"
+      },
+      {
+        "id": 1318335,
+        "type": "tmdb",
+        "title": "荣光与暗影",
+        "originalTitle": "Les Rayons et les Ombres",
+        "description": "影片改编自真实人物科琳・吕凯尔自传，导演泽维尔・吉亚诺利，故事聚焦二战被占领时期的法国。 让与奥托，一位法国报人、一名热爱法国的德国青年，二人致力促成欧洲和平。让的女儿科琳正于影坛崭露头角，前途大好。然而战火燃起，法国遭到占领。两位好友在这片变局中的法国扮演着举足轻重的角色：让摇身一变成为传媒巨头，极力鼓吹与占领当局合作；奥托则出任德意志帝国驻巴黎大使。与此同时，科琳坠入险境，身陷狼穴。 影片以二战德国占领巴黎为背景，探究和平理想主义者在战争压力下持续妥协、走向通敌的人性轨迹；打破善恶二元论，展现乱世中人复杂的道德灰色地带；同时透过女演员科琳的遭遇，讲述后代背负父辈历史罪责的终身煎熬，反思媒体精英的良知失守，以及特权阶层 “视而不见” 的共谋。",
+        "releaseDate": "2026-03-18",
+        "backdropPath": "/6LpnsToxRww4wsFDX4HUcNKTNF4.jpg",
+        "posterPath": "/1l9mxuDThsc84eUpHyIJcUOTg4f.jpg",
+        "rating": 7.527,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 历史"
+      },
+      {
+        "id": 1119548,
+        "type": "tmdb",
+        "title": "一切从头来过",
+        "originalTitle": "La Condition",
+        "description": "改编自小说《莱昂诺尔·德·雷孔多之恋》。当他的妻子安睡时，公证人安塞尔姆奸污了年轻的女仆塞莱斯特，使她怀孕。为了维护大家的名誉，维克多利亚决定收养这个孩子。但她没有母性本能，新生儿日渐消瘦。塞莱斯特偷偷地温柔地照顾着她的孩子。一天夜里，维克多利亚在阁楼下的房间里发现了他们……",
+        "releaseDate": "2025-12-10",
+        "backdropPath": "/sq4KQ8CXOFr02KI2XWIZvkpJXui.jpg",
+        "posterPath": "/rKxnJGcEmHJaYeleqOVqoX2twIa.jpg",
+        "rating": 6,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 历史"
       }
     ],
     "剧集·国内": [
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.2,
+        "rating": 7.172,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-08-16",
         "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.281,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/oSZItXVxl1MhXXmtfHk0NOUJRdU.jpg",
-        "rating": 6.6,
+        "rating": 6.599,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
