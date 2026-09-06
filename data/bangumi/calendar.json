@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-05T17:52:41.903Z",
+  "time": "2026-09-06T17:58:21.533Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/u7LWdKmEdEr6Ui3GZMsFGlKZQBd.jpg",
-        "rating": 8.414,
+        "rating": 8.415,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/AcriuLMhzvkSDUBzuEvns5WGe8F.jpg",
-        "rating": 6.2,
+        "rating": 6.293,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -167,7 +167,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/q9O8pAq0R5R0gDXRAzIZV9lzMs5.jpg",
         "posterPath": "/tS7mxwOZrbW5IhGUMjOvWIg0YlT.jpg",
-        "rating": 7,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -193,7 +193,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.678,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -486,19 +486,6 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 329260,
-        "type": "tmdb",
-        "title": "万古神帝",
-        "originalTitle": "万古神帝",
-        "description": "《万古神帝》改编自阅文白金作家飞天鱼的同名小说。\n\n八百年前，张若尘身为明帝独子，天资绝世却遭青梅竹马的池瑶公主斩杀；八百年后，他重生在云武郡国的废柴九王子“张若尘”体内，这具身体体弱多病、毫无灵力，与母亲林妃在郡王府备受欺凌。觉醒记忆后，张若尘立誓向已是昆仑界主宰的池瑶女皇复仇，同时守护给予他母爱的林妃。他觉醒时空神武印记，凭前世经验和努力快速成长，岁末考核夺冠后，历经武市斗场厮杀、地府门截杀，进入武市学宫深造。",
-        "releaseDate": "2026-07-21",
-        "backdropPath": "/aq9SNvWT5WikXHHMr4NU0Vc99Q7.jpg",
-        "posterPath": "/jElv6FJjINzLoGeSDBsrCa4EOeL.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "动画"
       }
     ],
     "星期三": [
@@ -511,7 +498,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.75,
+        "rating": 8.749,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -550,7 +537,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.692,
+        "rating": 8.695,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -747,7 +734,7 @@
         "releaseDate": "2026-07-30",
         "backdropPath": "/teWmJd5L3MfPSWCU025njsZ8lW.jpg",
         "posterPath": "/y4b8iiCBMafawRSir5hJk5sj9vA.jpg",
-        "rating": 0,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -851,7 +838,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/vvbIW2xspYigrgTHTmTSzVDgfKl.jpg",
         "posterPath": "/iqLYkjZS6w9spyJQTRYlPHoDXP7.jpg",
-        "rating": 7.727,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -931,7 +918,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/YZQGBP5nXPG3JjLoccdA13Oeea.jpg",
         "posterPath": "/v1N1TEfAKdaPAsiJ0RwxMBYmRCU.jpg",
-        "rating": 8.857,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -970,20 +957,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/gf62V8UBVBMFPpD9yI0UFvkFvq2.jpg",
         "posterPath": "/2z8wbBH2r4JZMyhC2ruKnxwTjlg.jpg",
-        "rating": 7.364,
-        "mediaType": "tv",
-        "genreTitle": "动画, 动作冒险"
-      },
-      {
-        "id": 304571,
-        "type": "tmdb",
-        "title": "死灵法师！我即是天灾",
-        "originalTitle": "死灵法师！我即是天灾",
-        "description": "游戏降临现实，世界规则颠覆，人类进入全民转职时代。 唯有成为转职者！升级变强！方能站上世界之巅！ 转职当天，林默语成为唯一性隐藏职业，死灵法师。 从此召唤物不死绝，林默语便不会死。 “我高坐骸骨神座，行走生死之间。” “我即是天灾",
-        "releaseDate": "2024-10-01",
-        "backdropPath": "/2PK8olplzWII2xk3ve8LB29rUKb.jpg",
-        "posterPath": "/ogSBOrpx5g5neD7r9nmbXaVyx1n.jpg",
-        "rating": 0,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1050,7 +1024,7 @@
         "releaseDate": "2004-10-05",
         "backdropPath": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
         "posterPath": "/uZM8PIaimoRxQ3vYqzpZOifGE6Y.jpg",
-        "rating": 8.361,
+        "rating": 8.358,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -1076,7 +1050,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/u02TXrpVxJXxbh9odWbrqbymPKC.jpg",
         "posterPath": "/lSloeMq52OkhxCWH8GsomYziVGa.jpg",
-        "rating": 8.583,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -1089,7 +1063,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.539,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1128,7 +1102,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
         "posterPath": "/xh9hNzzadcT0vn9pJMUu5SA2w0c.jpg",
-        "rating": 9.629,
+        "rating": 9.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1193,7 +1167,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
         "posterPath": "/A45lOrx7PJRjWrwlTAg09cUosQJ.jpg",
-        "rating": 9.143,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
