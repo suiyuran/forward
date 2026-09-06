@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-05T18:51:56.621Z",
+  "time": "2026-09-06T18:55:37.013Z",
   "data": [
     {
       "id": 414419,
@@ -10,7 +10,7 @@
       "releaseDate": "2011-03-27",
       "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.123,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -23,7 +23,7 @@
       "releaseDate": "2026-09-01",
       "backdropPath": "/aBtS3yCWReAen3OefxBXedbArFI.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6,
+      "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "惊悚"
     },
@@ -36,7 +36,7 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 9.185,
+      "rating": 9.29,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -49,9 +49,22 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 7.997,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
+    },
+    {
+      "id": 1444590,
+      "type": "tmdb",
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "releaseDate": "2026-09-05",
+      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1567937,
@@ -67,6 +80,19 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
+      "id": 592402,
+      "type": "tmdb",
+      "title": "大熊雨林",
+      "originalTitle": "Great Bear Rainforest: Land of the Spirit Bear",
+      "description": "这里是世界上最原始最原生态的一片雨林，被悉心的保护和照料，这里也是这些动物们未被打扰的家园。大熊雨林位于加拿大不列颠哥伦比亚省的太平洋海岸，是世界上最后一片完整的温带雨林，占地640万公顷，也是世界上最大的沿海温带雨林。几千年以来，这里一直受到当地的土著民的保护，这部影片中，我们将在IMAX的巨幕之下，跟着拍摄团队，第一次走进这片未被打扰的隐藏地带，探寻美洲狮、灰熊、鲑鱼、海岸狼、还她等野生动物，还有最稀有的熊-白灵熊，也叫做克默德熊。",
+      "releaseDate": "2019-02-15",
+      "backdropPath": null,
+      "posterPath": "/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
+      "rating": 9,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 1288445,
       "type": "tmdb",
       "title": "怒之杀",
@@ -75,7 +101,7 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 6.36,
+      "rating": 6.385,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -88,7 +114,7 @@
       "releaseDate": "1994-09-23",
       "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "posterPath": "/iKZev9OgfklidO8AvdrYlwung2o.jpg",
-      "rating": 8.729,
+      "rating": 8.73,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -106,30 +132,17 @@
       "genreTitle": "动画, 冒险"
     },
     {
-      "id": 1306055,
+      "id": 969681,
       "type": "tmdb",
-      "title": "数到三",
-      "originalTitle": "数到三",
-      "description": "舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
-      "releaseDate": "2026-08-28",
-      "backdropPath": "/n0hqyWelh52kBuBAftH1V1omTTW.jpg",
-      "posterPath": "/kRlgxkA83z6atla0BRcTxHZRFtf.jpg",
-      "rating": 5,
+      "title": "蜘蛛侠：崭新之日",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "description": "全世界已经忘记了彼得·帕克的存在。失去曾经的朋友、爱人与家人后，他选择独自留在纽约，将全部生活投入打击犯罪，成为一名真正的全职蜘蛛侠。数年过去，日复一日的战斗和孤独让彼得承受着越来越沉重的压力，而他的身体也开始发生无法解释的异常变化。与此同时，一股难以察觉的新威胁正在城市中悄然蔓延。为了阻止危机继续扩大，彼得必须在自己逐渐失控的变化与这名甚至无法被看见的敌人之间寻找新的战斗方式，也再次面对那些他以为已经彻底放下的过去……",
+      "releaseDate": "2026-07-29",
+      "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
+      "rating": 7.863,
       "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1444590,
-      "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "releaseDate": "2026-09-05",
-      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "科幻, 动作"
     },
     {
       "id": 1339713,
@@ -140,7 +153,7 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "posterPath": "/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "rating": 8.201,
+      "rating": 8.199,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -158,17 +171,30 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 969681,
+      "id": 1306055,
       "type": "tmdb",
-      "title": "蜘蛛侠：崭新之日",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "description": "全世界已经忘记了彼得·帕克的存在。失去曾经的朋友、爱人与家人后，他选择独自留在纽约，将全部生活投入打击犯罪，成为一名真正的全职蜘蛛侠。数年过去，日复一日的战斗和孤独让彼得承受着越来越沉重的压力，而他的身体也开始发生无法解释的异常变化。与此同时，一股难以察觉的新威胁正在城市中悄然蔓延。为了阻止危机继续扩大，彼得必须在自己逐渐失控的变化与这名甚至无法被看见的敌人之间寻找新的战斗方式，也再次面对那些他以为已经彻底放下的过去……",
-      "releaseDate": "2026-07-29",
-      "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.867,
+      "title": "数到三",
+      "originalTitle": "数到三",
+      "description": "舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
+      "releaseDate": "2026-08-28",
+      "backdropPath": "/n0hqyWelh52kBuBAftH1V1omTTW.jpg",
+      "posterPath": "/kRlgxkA83z6atla0BRcTxHZRFtf.jpg",
+      "rating": 5,
       "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1353926,
+      "type": "tmdb",
+      "title": "特立独行",
+      "originalTitle": "特立独行",
+      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
+      "releaseDate": "2026-07-03",
+      "backdropPath": "/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
+      "posterPath": "/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+      "rating": 5.75,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1633056,
@@ -182,19 +208,6 @@
       "rating": 8,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
-    },
-    {
-      "id": 1353926,
-      "type": "tmdb",
-      "title": "特立独行",
-      "originalTitle": "特立独行",
-      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
-      "releaseDate": "2026-07-03",
-      "backdropPath": "/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
-      "posterPath": "/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
-      "rating": 5.7,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1305672,
@@ -236,32 +249,6 @@
       "genreTitle": "动画, 家庭"
     },
     {
-      "id": 1630030,
-      "type": "tmdb",
-      "title": "大唐妖探",
-      "originalTitle": "大唐妖探",
-      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
-      "releaseDate": "2026-08-08",
-      "backdropPath": "/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
-      "posterPath": "/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
-      "rating": 5.5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动画"
-    },
-    {
-      "id": 592402,
-      "type": "tmdb",
-      "title": "大熊雨林",
-      "originalTitle": "Great Bear Rainforest: Land of the Spirit Bear",
-      "description": "这里是世界上最原始最原生态的一片雨林，被悉心的保护和照料，这里也是这些动物们未被打扰的家园。大熊雨林位于加拿大不列颠哥伦比亚省的太平洋海岸，是世界上最后一片完整的温带雨林，占地640万公顷，也是世界上最大的沿海温带雨林。几千年以来，这里一直受到当地的土著民的保护，这部影片中，我们将在IMAX的巨幕之下，跟着拍摄团队，第一次走进这片未被打扰的隐藏地带，探寻美洲狮、灰熊、鲑鱼、海岸狼、还她等野生动物，还有最稀有的熊-白灵熊，也叫做克默德熊。",
-      "releaseDate": "2019-02-15",
-      "backdropPath": null,
-      "posterPath": "/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
-      "rating": 9,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 1541125,
       "type": "tmdb",
       "title": "年会不能停！2",
@@ -273,19 +260,6 @@
       "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1101383,
-      "type": "tmdb",
-      "title": "逃出绝命街",
-      "originalTitle": "The End of Oak Street",
-      "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
-      "releaseDate": "2026-08-12",
-      "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "posterPath": "/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
-      "rating": 6.337,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 悬疑"
     },
     {
       "id": 1724637,
@@ -301,17 +275,56 @@
       "genreTitle": "爱情, 动画"
     },
     {
-      "id": 1666219,
+      "id": 1630030,
       "type": "tmdb",
-      "title": "红闪电",
-      "originalTitle": "红闪电",
-      "description": "影片讲述11岁少女达达因家庭变故产生心理上的苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将她放到表哥经营的马场暂住。内心封闭的达达在那里结识了一个因比赛事故而自我放逐的冠军选手向飞，以及他的最佳搭档赛马“红闪电”。在相处中，双方看到了各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找到心的方向，从而领悟了人和马在跨越现实与心灵的重重障碍中得到升华，实现了双向救赎，找回丢失的勇气与自我，也深刻理解了羁绊、离别与成长的意义。",
-      "releaseDate": "2026-09-05",
-      "backdropPath": null,
-      "posterPath": "/7L5YJLL86azwqJE7Aufya0jSNZ1.jpg",
-      "rating": 0,
+      "title": "大唐妖探",
+      "originalTitle": "大唐妖探",
+      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
+      "releaseDate": "2026-08-08",
+      "backdropPath": "/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+      "posterPath": "/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
+      "rating": 5.5,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "喜剧, 动画"
+    },
+    {
+      "id": 1101383,
+      "type": "tmdb",
+      "title": "逃出绝命街",
+      "originalTitle": "The End of Oak Street",
+      "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
+      "releaseDate": "2026-08-12",
+      "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "posterPath": "/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
+      "rating": 6.4,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 悬疑"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "posterPath": "/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
+      "rating": 7.056,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
+    },
+    {
+      "id": 26466,
+      "type": "tmdb",
+      "title": "恐怖游轮",
+      "originalTitle": "Triangle",
+      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
+      "releaseDate": "2009-10-16",
+      "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
+      "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
+      "rating": 6.911,
+      "mediaType": "movie",
+      "genreTitle": "恐怖"
     },
     {
       "id": 1491920,
@@ -327,19 +340,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 26466,
-      "type": "tmdb",
-      "title": "恐怖游轮",
-      "originalTitle": "Triangle",
-      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
-      "releaseDate": "2009-10-16",
-      "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
-      "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
-      "rating": 6.91,
-      "mediaType": "movie",
-      "genreTitle": "恐怖"
-    },
-    {
       "id": 1563614,
       "type": "tmdb",
       "title": "不想失去你",
@@ -353,19 +353,6 @@
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "posterPath": "/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
       "id": 1083381,
       "type": "tmdb",
       "title": "后室",
@@ -374,9 +361,35 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.065,
+      "rating": 7.068,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
+    },
+    {
+      "id": 1084244,
+      "type": "tmdb",
+      "title": "玩具总动员5",
+      "originalTitle": "Toy Story 5",
+      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
+      "releaseDate": "2026-06-17",
+      "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
+      "rating": 8.333,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
+      "id": 1666219,
+      "type": "tmdb",
+      "title": "红闪电",
+      "originalTitle": "红闪电",
+      "description": "影片讲述11岁少女达达因家庭变故产生心理上的苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将她放到表哥经营的马场暂住。内心封闭的达达在那里结识了一个因比赛事故而自我放逐的冠军选手向飞，以及他的最佳搭档赛马“红闪电”。在相处中，双方看到了各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找到心的方向，从而领悟了人和马在跨越现实与心灵的重重障碍中得到升华，实现了双向救赎，找回丢失的勇气与自我，也深刻理解了羁绊、离别与成长的意义。",
+      "releaseDate": "2026-09-05",
+      "backdropPath": null,
+      "posterPath": "/7L5YJLL86azwqJE7Aufya0jSNZ1.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1760508,
@@ -392,32 +405,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1084244,
-      "type": "tmdb",
-      "title": "玩具总动员5",
-      "originalTitle": "Toy Story 5",
-      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "releaseDate": "2026-06-17",
-      "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-      "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 8.3,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1318413,
-      "type": "tmdb",
-      "title": "诺曼底72小时",
-      "originalTitle": "Pressure",
-      "description": "1944年，诺曼底登陆进入最后72小时，盟军大规模登陆部队已经集结完毕，一切准备就绪，唯独难以预测的天气成为决定行动成败的关键。气象学家詹姆斯·斯塔格上校根据自己的判断预警风暴即将来临，但推迟行动同样可能导致盟军部署暴露。面对来自盟军高层的巨大压力，斯塔格必须坚持自己的气象判断，而最终决定权则掌握在盟军最高司令德怀特·艾森豪威尔手中。数十万将士的安危与诺曼底登陆的成败，都悬于这场与时间和天气的艰难博弈之中……",
-      "releaseDate": "2026-05-28",
-      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.766,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 历史"
-    },
-    {
       "id": 1713529,
       "type": "tmdb",
       "title": "想你了",
@@ -429,6 +416,32 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1315772,
+      "type": "tmdb",
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "releaseDate": "2026-06-24",
+      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "rating": 7.571,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动画"
+    },
+    {
+      "id": 68883,
+      "type": "tmdb",
+      "title": "胭脂扣",
+      "originalTitle": "胭脂扣",
+      "description": "在香港报馆任职的袁永定（万梓良 饰）遇见一位前来刊登寻人广告的冷艳女子，但她又无钱付广告费。袁永定借故离开，不料那女子紧随而来。在闲聊中袁永定惊讶地发现此女子原是鬼魂。她是二十世纪三十年代香港石塘咀的红牌妓女如花（梅艳芳 饰）。在那风月世界里，她爱上了人称十二少的陈振邦（张国荣 饰），到了谈论嫁娶之地步，但是由于身份地位悬殊，婚事遭到陈家反对。\r 陈振邦脱离家庭与如花同居，两人以胭脂匣定情。在二人同居后染食鸦片，陈振邦乃一纨绔子弟，无养家糊口的本领，渐渐经济拮据，于是如花计划与其吞食鸦片殉情。结果如花死去，而陈振邦被救活。如花在黄泉久候不见陈振邦，故回阳间寻找。\r 袁永定与女友（朱宝意 饰）无意中发现当年一张《骨子报》，发现陈振邦原在一家电影制片厂内充当制片场临时演员。陈振邦经岁月的折磨，早已穷困潦倒，对往事早已淡漠。如花伤心之余，将胭脂匣交还，回到阴间转世去了。",
+      "releaseDate": "1987-12-05",
+      "backdropPath": "/4kpbkS9V4QJcQBnvxvRfRojdFyI.jpg",
+      "posterPath": "/n7xK6bz8aUNb8LxCBtJX5AXonFh.jpg",
+      "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 奇幻"
     },
     {
       "id": 1604133,
@@ -444,32 +457,6 @@
       "genreTitle": "历史, 战争"
     },
     {
-      "id": 1148213,
-      "type": "tmdb",
-      "title": "喜欢高兴爱",
-      "originalTitle": "喜欢高兴爱",
-      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
-      "releaseDate": "2023-06-15",
-      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
-      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "releaseDate": "2026-06-24",
-      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.57,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动画"
-    },
-    {
       "id": 965150,
       "type": "tmdb",
       "title": "晒后假日",
@@ -483,17 +470,30 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 68883,
+      "id": 1148213,
       "type": "tmdb",
-      "title": "胭脂扣",
-      "originalTitle": "胭脂扣",
-      "description": "在香港报馆任职的袁永定（万梓良 饰）遇见一位前来刊登寻人广告的冷艳女子，但她又无钱付广告费。袁永定借故离开，不料那女子紧随而来。在闲聊中袁永定惊讶地发现此女子原是鬼魂。她是二十世纪三十年代香港石塘咀的红牌妓女如花（梅艳芳 饰）。在那风月世界里，她爱上了人称十二少的陈振邦（张国荣 饰），到了谈论嫁娶之地步，但是由于身份地位悬殊，婚事遭到陈家反对。\r 陈振邦脱离家庭与如花同居，两人以胭脂匣定情。在二人同居后染食鸦片，陈振邦乃一纨绔子弟，无养家糊口的本领，渐渐经济拮据，于是如花计划与其吞食鸦片殉情。结果如花死去，而陈振邦被救活。如花在黄泉久候不见陈振邦，故回阳间寻找。\r 袁永定与女友（朱宝意 饰）无意中发现当年一张《骨子报》，发现陈振邦原在一家电影制片厂内充当制片场临时演员。陈振邦经岁月的折磨，早已穷困潦倒，对往事早已淡漠。如花伤心之余，将胭脂匣交还，回到阴间转世去了。",
-      "releaseDate": "1987-12-05",
-      "backdropPath": "/4kpbkS9V4QJcQBnvxvRfRojdFyI.jpg",
-      "posterPath": "/n7xK6bz8aUNb8LxCBtJX5AXonFh.jpg",
-      "rating": 7.4,
+      "title": "喜欢高兴爱",
+      "originalTitle": "喜欢高兴爱",
+      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
+      "releaseDate": "2023-06-15",
+      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
+      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 奇幻"
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 110,
+      "type": "tmdb",
+      "title": "蓝白红三部曲之红",
+      "originalTitle": "Trois couleurs : Rouge",
+      "description": "克日什托夫·基耶斯洛夫斯基以宏大篇章为其《蓝白红三部曲》落下帷幕，在《红》中展开一场关于命运与偶然的炽热沉思。伊莲娜·雅各布饰演一位内心纯净却带着忧郁的日内瓦时装模特，她的人生轨迹与让-路易·特兰蒂尼昂饰演的愤世嫉俗的退休法官戏剧性地交汇。与此同时，仅隔数条街外，一场看似无关的嫉妒与背叛故事正在上演。本片以细腻笔触勾勒人与人之间意外的联结，堪称这位杰出导演在创作巅峰时期谱写的一曲辉煌终章。",
+      "releaseDate": "1994-05-12",
+      "backdropPath": "/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
+      "posterPath": "/5fkgMKovYZgbGngbHJg19zmsSaT.jpg",
+      "rating": 7.9,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 434773,
@@ -522,19 +522,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 110,
-      "type": "tmdb",
-      "title": "蓝白红三部曲之红",
-      "originalTitle": "Trois couleurs : Rouge",
-      "description": "克日什托夫·基耶斯洛夫斯基以宏大篇章为其《蓝白红三部曲》落下帷幕，在《红》中展开一场关于命运与偶然的炽热沉思。伊莲娜·雅各布饰演一位内心纯净却带着忧郁的日内瓦时装模特，她的人生轨迹与让-路易·特兰蒂尼昂饰演的愤世嫉俗的退休法官戏剧性地交汇。与此同时，仅隔数条街外，一场看似无关的嫉妒与背叛故事正在上演。本片以细腻笔触勾勒人与人之间意外的联结，堪称这位杰出导演在创作巅峰时期谱写的一曲辉煌终章。",
-      "releaseDate": "1994-05-12",
-      "backdropPath": "/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
-      "posterPath": "/5fkgMKovYZgbGngbHJg19zmsSaT.jpg",
-      "rating": 7.9,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
-    },
-    {
       "id": 396227,
       "type": "tmdb",
       "title": "哈姆雷特",
@@ -554,24 +541,11 @@
       "originalTitle": "钢的琴",
       "description": "20世纪90年代初，东北某重工业城市。原钢厂工人陈桂林下岗后拉起一支乐队，靠奔波于婚丧嫁娶和店铺开业勉强维持生活。离家多年的妻子小菊突然回来，不仅提出离婚，还要与他争夺女儿小元的抚养权。为了留住热爱弹琴的女儿，陈桂林一心想给她买一架钢琴，却始终筹不到足够的钱，甚至和女友淑娴以及昔日钢厂的伙伴夜入学校偷琴。种种办法接连失败后，陈桂林偶然找到一本关于钢琴制造的俄国文献，于是召集昔日工友，在早已破败的钢厂里开始了一场亲手制造钢琴的计划……",
       "releaseDate": "2011-07-15",
-      "backdropPath": "/pUq74SgliWDXEe8kGTGka8ifI0d.jpg",
+      "backdropPath": "/eQHsgPsRQWezDO6FjyErUSVDNUm.jpg",
       "posterPath": "/tLqr5LHYjxtPBIeyok3TGMIqWUD.jpg",
       "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 37247,
-      "type": "tmdb",
-      "title": "毕业生",
-      "originalTitle": "The Graduate",
-      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
-      "releaseDate": "1967-12-21",
-      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
-      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
-      "rating": 7.633,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 10191,
@@ -582,7 +556,7 @@
       "releaseDate": "2010-03-18",
       "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
       "posterPath": "/2rNDBSL0xJO17oy8CZfOW8QjGKV.jpg",
-      "rating": 7.867,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "奇幻, 冒险"
     },
@@ -613,6 +587,19 @@
       "genreTitle": "爱情, 冒险"
     },
     {
+      "id": 37247,
+      "type": "tmdb",
+      "title": "毕业生",
+      "originalTitle": "The Graduate",
+      "description": "作为美国影史上最受珍爱的作品之一，本片为迈克·尼科尔斯赢得了奥斯卡最佳导演奖，让西蒙和加芬克尔的音乐为更广泛的观众所熟知，并将一位名叫达斯汀·霍夫曼的年轻演员介绍给了世界。本杰明·布拉多克（霍夫曼 饰）刚刚大学毕业，便已陷入困惑与压抑焦虑的海洋。他与父母的朋友、强势的罗宾逊太太（安妮·班克罗夫特 饰）发生了性关系，随后又将注意力转向了她正值大学年龄的女儿（凯瑟琳·罗斯 饰）。影片视觉上富有想象力，表演无可挑剔，巴克·亨利（根据查尔斯·韦伯的小说改编）创作的剧本机敏睿智、金句频出。本片所引发的文化影响，堪称一代人仅此一次的震撼。[标准收藏]",
+      "releaseDate": "1967-12-21",
+      "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+      "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
+      "rating": 7.633,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
       "id": 1628,
       "type": "tmdb",
       "title": "祖与占",
@@ -626,19 +613,6 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 11044,
-      "type": "tmdb",
-      "title": "亚利桑那之梦",
-      "originalTitle": "Arizona Dream",
-      "description": "在纽约打工的青年阿克塞（Johnny Depp 饰）梦中看到一位因纽特人昏倒在冰原上，雪橇犬将其救回，一只红气球在空中不停飘荡……阿克塞痴迷表演的朋友保罗（Vincent Gallo 饰）来访，邀请他远赴亚利桑那为伯父里奥伴婚，里奥在亚利桑那经营汽车生意打拼多年，遂留下阿克塞与保罗二人在车行中工作。不久阿克塞结识了性格不合的艾琳娜（Faye Dunaway 饰）与格蕾丝母女，为帮助艾琳娜圆一个飞行梦，阿克塞滞留这对母女家中，尝试制作各种飞行器，在不断的失败中从头再来，这对神经质母女的吵闹一直伴随着他。阿克塞的梦里，一只鱼在空中穿梭飞升……艾琳娜终于得到了一架小飞机，在庆祝的聚会上，阿克塞向格蕾丝示爱引发了意外的结局。  　　本片获1993年柏林电影节银熊奖。",
-      "releaseDate": "1993-01-06",
-      "backdropPath": "/iJ4XWlsGpZuZOQDTYenn9YqWfR0.jpg",
-      "posterPath": "/5njDD9mzKKxN1qSmrSd2Ewjs6OF.jpg",
-      "rating": 7.138,
-      "mediaType": "movie",
-      "genreTitle": "奇幻, 喜剧"
-    },
-    {
       "id": 64131,
       "type": "tmdb",
       "title": "坏血",
@@ -648,6 +622,19 @@
       "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
       "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
       "rating": 7.133,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 64015,
+      "type": "tmdb",
+      "title": "秋天的童话",
+      "originalTitle": "秋天的童話",
+      "description": "美丽而骄纵的年轻姑娘“十三妹”李琪（钟楚红 饰）只身从香港赴纽约留学，并探望先她赴美的男友 Vincent（陈百强 饰）。前来接机的，是她在唐人街打工的远房亲戚“船头尺”（周润发 饰）。满口脏话、粗俗不堪的船头尺被人看作“烂鬼”，初时对十三妹感到厌烦，称她为“茶煲”（trouble）。\r 　　十三妹发现男友移情别恋，心灰意冷，把自己关在房里。一次因家中煤气泄漏中毒，幸得楼下的船头尺及时送医抢救，才得以康复。在船头尺的悉心照顾下，十三妹逐渐建立信心，专心读书和工作。船头尺对十三妹日久生情，开始戒烟戒赌，努力改变自己。\r 　　船头尺34岁生日时举办大食会，邀十三妹和朋友参加，怎料前男友 Vincent 突然出现，船头尺感到不是味儿，只好悄悄离开。船头尺在赌场听闻好友“无柄遮”被人欺负，并决定联同“中国同学会”的众兄弟友为“无柄遮”出头打架，十三妹阻止不果，更险出现意外。\r 　　十三妹决定接受 Mrs. Sherwood（黄淑仪 饰）在她长岛家中的新工作，离别时，船头尺将自己的二手车卖掉，买了一条表带送给她配衬其手表机芯，却发现她将手表机芯送了给自己。\r 　　若干年后，当十三妹旧地重游，发现海边开了一间名为“舢舨”（Sampan）的餐厅，而店主正是已脱胎换骨的船头尺。两人在餐厅外重逢，相视而笑，船头尺轻声问出那句：“Table for two？”",
+      "releaseDate": "1987-07-16",
+      "backdropPath": "/bNTFhyQq4LbDaeX82kxhyWKMDwz.jpg",
+      "posterPath": "/bCh0lIUVvDJxcLoCUF8UwQeDd3l.jpg",
+      "rating": 7.375,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -665,43 +652,17 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 1708565,
+      "id": 11044,
       "type": "tmdb",
-      "title": "那山那水",
-      "originalTitle": "那山那水",
-      "description": "影片以“两山”理念的发展为主线，深度聚焦其践行地—浙江，集中呈现了“两山”理念提出二十年来，浙江在习近平生态文明思想的指引下取得的显著成就，更完整追溯了这一理念从浙江实践到辐射全国、走向世界的生动历程，深刻阐释了生态文明建设的中国智慧与方案。",
-      "releaseDate": "2026-06-05",
-      "backdropPath": null,
-      "posterPath": "/tOXtPG2f8STXoJGuE5pfpwqERkr.jpg",
-      "rating": 0,
+      "title": "亚利桑那之梦",
+      "originalTitle": "Arizona Dream",
+      "description": "在纽约打工的青年阿克塞（Johnny Depp 饰）梦中看到一位因纽特人昏倒在冰原上，雪橇犬将其救回，一只红气球在空中不停飘荡……阿克塞痴迷表演的朋友保罗（Vincent Gallo 饰）来访，邀请他远赴亚利桑那为伯父里奥伴婚，里奥在亚利桑那经营汽车生意打拼多年，遂留下阿克塞与保罗二人在车行中工作。不久阿克塞结识了性格不合的艾琳娜（Faye Dunaway 饰）与格蕾丝母女，为帮助艾琳娜圆一个飞行梦，阿克塞滞留这对母女家中，尝试制作各种飞行器，在不断的失败中从头再来，这对神经质母女的吵闹一直伴随着他。阿克塞的梦里，一只鱼在空中穿梭飞升……艾琳娜终于得到了一架小飞机，在庆祝的聚会上，阿克塞向格蕾丝示爱引发了意外的结局。  　　本片获1993年柏林电影节银熊奖。",
+      "releaseDate": "1993-01-06",
+      "backdropPath": "/iJ4XWlsGpZuZOQDTYenn9YqWfR0.jpg",
+      "posterPath": "/5njDD9mzKKxN1qSmrSd2Ewjs6OF.jpg",
+      "rating": 7.138,
       "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 64015,
-      "type": "tmdb",
-      "title": "秋天的童话",
-      "originalTitle": "秋天的童話",
-      "description": "美丽而骄纵的年轻姑娘“十三妹”李琪（钟楚红 饰）只身从香港赴纽约留学，并探望先她赴美的男友 Vincent（陈百强 饰）。前来接机的，是她在唐人街打工的远房亲戚“船头尺”（周润发 饰）。满口脏话、粗俗不堪的船头尺被人看作“烂鬼”，初时对十三妹感到厌烦，称她为“茶煲”（trouble）。\r 　　十三妹发现男友移情别恋，心灰意冷，把自己关在房里。一次因家中煤气泄漏中毒，幸得楼下的船头尺及时送医抢救，才得以康复。在船头尺的悉心照顾下，十三妹逐渐建立信心，专心读书和工作。船头尺对十三妹日久生情，开始戒烟戒赌，努力改变自己。\r 　　船头尺34岁生日时举办大食会，邀十三妹和朋友参加，怎料前男友 Vincent 突然出现，船头尺感到不是味儿，只好悄悄离开。船头尺在赌场听闻好友“无柄遮”被人欺负，并决定联同“中国同学会”的众兄弟友为“无柄遮”出头打架，十三妹阻止不果，更险出现意外。\r 　　十三妹决定接受 Mrs. Sherwood（黄淑仪 饰）在她长岛家中的新工作，离别时，船头尺将自己的二手车卖掉，买了一条表带送给她配衬其手表机芯，却发现她将手表机芯送了给自己。\r 　　若干年后，当十三妹旧地重游，发现海边开了一间名为“舢舨”（Sampan）的餐厅，而店主正是已脱胎换骨的船头尺。两人在餐厅外重逢，相视而笑，船头尺轻声问出那句：“Table for two？”",
-      "releaseDate": "1987-07-16",
-      "backdropPath": "/bNTFhyQq4LbDaeX82kxhyWKMDwz.jpg",
-      "posterPath": "/bCh0lIUVvDJxcLoCUF8UwQeDd3l.jpg",
-      "rating": 7.375,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 34838,
-      "type": "tmdb",
-      "title": "探戈课",
-      "originalTitle": "The Tango Lesson",
-      "description": "电影导演莎莉（莎莉·波特 Sally Potter 饰）在创作新剧本时遇到了灵感堵塞，她烦恼不已，却又无济于事。在观看一场激情肆意的探戈舞演出后，莎莉被深深感染，仿佛找到了一些灵感。她决心暂时抛下工作，开始学习探戈舞。她去巴黎旅行遇上了有名的探戈舞者帕布罗，被他的舞蹈所吸引。于是提出让他在自己的下部电影里演出，以帕布罗教她跳舞作为交换条件。莎莉越来越沉迷于探戈舞，在与帕布罗学习探戈的过程中，他们彼此爱上了对方。但来自不同文化背景的两人，性格有着极大的反差：来自南美的帕布罗有着强烈的控制欲，他习惯掌控选舞、音乐等一切细节，甚至包括与莎莉的爱情；而作为女性主义者的莎莉却是决定帕布罗参与她的影片的关键人。两人之间的关系时而紧张，时而悠然，一场爱情之战悄悄开始。",
-      "releaseDate": "1997-11-28",
-      "backdropPath": "/8UepZvv8uGXa5x6v5hrNTlkTBPJ.jpg",
-      "posterPath": "/dFrkFLIGUiHTu74WGE3633XXi4C.jpg",
-      "rating": 6.359,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 音乐"
+      "genreTitle": "奇幻, 喜剧"
     },
     {
       "id": 318620,
@@ -715,6 +676,19 @@
       "rating": 6,
       "mediaType": "movie",
       "genreTitle": "爱情, 剧情"
+    },
+    {
+      "id": 34838,
+      "type": "tmdb",
+      "title": "探戈课",
+      "originalTitle": "The Tango Lesson",
+      "description": "电影导演莎莉（莎莉·波特 Sally Potter 饰）在创作新剧本时遇到了灵感堵塞，她烦恼不已，却又无济于事。在观看一场激情肆意的探戈舞演出后，莎莉被深深感染，仿佛找到了一些灵感。她决心暂时抛下工作，开始学习探戈舞。她去巴黎旅行遇上了有名的探戈舞者帕布罗，被他的舞蹈所吸引。于是提出让他在自己的下部电影里演出，以帕布罗教她跳舞作为交换条件。莎莉越来越沉迷于探戈舞，在与帕布罗学习探戈的过程中，他们彼此爱上了对方。但来自不同文化背景的两人，性格有着极大的反差：来自南美的帕布罗有着强烈的控制欲，他习惯掌控选舞、音乐等一切细节，甚至包括与莎莉的爱情；而作为女性主义者的莎莉却是决定帕布罗参与她的影片的关键人。两人之间的关系时而紧张，时而悠然，一场爱情之战悄悄开始。",
+      "releaseDate": "1997-11-28",
+      "backdropPath": "/8UepZvv8uGXa5x6v5hrNTlkTBPJ.jpg",
+      "posterPath": "/dFrkFLIGUiHTu74WGE3633XXi4C.jpg",
+      "rating": 6.359,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 音乐"
     },
     {
       "id": 4173,
@@ -743,6 +717,19 @@
       "genreTitle": "犯罪"
     },
     {
+      "id": 1708565,
+      "type": "tmdb",
+      "title": "那山那水",
+      "originalTitle": "那山那水",
+      "description": "影片以“两山”理念的发展为主线，深度聚焦其践行地—浙江，集中呈现了“两山”理念提出二十年来，浙江在习近平生态文明思想的指引下取得的显著成就，更完整追溯了这一理念从浙江实践到辐射全国、走向世界的生动历程，深刻阐释了生态文明建设的中国智慧与方案。",
+      "releaseDate": "2026-06-05",
+      "backdropPath": null,
+      "posterPath": "/tOXtPG2f8STXoJGuE5pfpwqERkr.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 956215,
       "type": "tmdb",
       "title": "龙凤呈祥(京剧)",
@@ -767,6 +754,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
+    },
+    {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     }
   ]
 }
