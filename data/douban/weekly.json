@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-06T21:47:20.283Z",
+  "time": "2026-09-07T22:19:54.705Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 8,
+        "rating": 7.999,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.29,
+        "rating": 9.219,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
         "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
-        "rating": 6.9,
+        "rating": 6.727,
         "mediaType": "movie",
         "genreTitle": "历史, 剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.3,
+        "rating": 7.273,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-07-31",
         "backdropPath": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
         "posterPath": "/jQ9mNZfvnGzXIedlT5IpBVhAzUi.jpg",
-        "rating": 8.875,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "犯罪, 喜剧"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.2,
+        "rating": 7.219,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-08-16",
         "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.285,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/oSZItXVxl1MhXXmtfHk0NOUJRdU.jpg",
-        "rating": 6.593,
+        "rating": 6.578,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
@@ -364,7 +364,7 @@
         "originalTitle": "Ted Lasso",
         "description": "丽贝卡重新聘用泰德，执教里士满二线女子足球队灰狗女足。即便泰德已是资深教练，前路依旧充满挑战：全新队员、野心各异的球员、外界普遍不看好，他与比尔德教练将迎来全新征程。",
         "releaseDate": "2026-08-04",
-        "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "backdropPath": "/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
         "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
         "rating": 8.4,
         "mediaType": "tv",
@@ -373,7 +373,7 @@
       {
         "id": 322570,
         "type": "tmdb",
-        "title": "直到T恤了",
+        "title": "直到T恤干透",
         "originalTitle": "Tシャツが乾くまで",
         "description": "40岁的杂志编辑咲子（苍井优 饰）原本深信自己拥有美满的婚姻，但在卷入一场事故后，她意外发现丈夫在每个月“第3个星期五”都有一段完全对不上号的神秘行踪。于是，在看似美满的婚姻背后，她将面对人性中真实而扭曲的“不伦”。",
         "releaseDate": "2026-07-10",
