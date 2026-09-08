@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-07T22:19:54.705Z",
+  "time": "2026-09-08T22:04:26.738Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.219,
+        "rating": 9.242,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.273,
+        "rating": 7.256,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-01-14",
         "backdropPath": "/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
         "posterPath": "/urCxdFRLmozhiXJEsSd7H5W0DXb.jpg",
-        "rating": 7.084,
+        "rating": 7.083,
         "mediaType": "movie",
         "genreTitle": "历史, 剧情"
       },
@@ -207,7 +207,7 @@
         "description": "讲述绿藤市公安局宣传科副科长谭彦即将赴任特警队担任教导员一职，但长期在局机关工作的谭彦，与深扎基层的特警队队长廖不凡难以配合。但随着时间推移，二人的思想渐渐统一，特警队也在二人的管理下越来越好。而在一次配合禁毒队的案件中，谭彦还成了击毙犯罪嫌疑人的功臣。但谭彦意外发现，“功臣”另有其人。最终，谭彦放下了自己的“荣誉”，向市公安局领导汇报了真实情况，并在上级领导部署的“藏锋”计划中，不辱使命圆满地完成任务。",
         "releaseDate": "2026-08-17",
         "backdropPath": "/iHShzy0Fa1WDbjFMJqxZV5nLwOQ.jpg",
-        "posterPath": "/1zJJLQ2YM2ridNtXFZOnZa50LjC.jpg",
+        "posterPath": "/bPyAdtLlw2x7uidC0Bikov1GC7D.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
@@ -234,7 +234,7 @@
         "releaseDate": "2026-07-11",
         "backdropPath": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
         "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
-        "rating": 8.333,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.4,
+        "rating": 6.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.219,
+        "rating": 7.224,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -325,7 +325,7 @@
         "originalTitle": "Lanterns",
         "description": "跟随约翰·斯图尔特与绿灯军团传奇哈尔·乔丹的脚步，看这两位星际警察如何深入美国腹地，调查一起谋杀命案。",
         "releaseDate": "2026-08-16",
-        "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+        "backdropPath": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
         "rating": 8.3,
         "mediaType": "tv",
