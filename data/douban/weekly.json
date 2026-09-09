@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-08T22:04:26.738Z",
+  "time": "2026-09-09T22:01:37.992Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.242,
+        "rating": 9.143,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
         "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
-        "rating": 6.727,
+        "rating": 6.667,
         "mediaType": "movie",
         "genreTitle": "历史, 剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.256,
+        "rating": 7.252,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -148,19 +148,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 291856,
-        "type": "tmdb",
-        "title": "重器",
-        "originalTitle": "重器",
-        "description": "以改革开放初期至1997年《刑诉法》《刑法》修订为背景，讲述陈一众、余高远、张丽慧、夏英杰等法学院毕业生在不同司法岗位上历经风雨、共同见证中国法治发展进程的故事，展现他们在时代浪潮中成长、抉择与命运交织的群像篇章。",
-        "releaseDate": "2026-08-10",
-        "backdropPath": "/sUTK5UjUNud0d5hcEbhOk4RTqII.jpg",
-        "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 273114,
         "type": "tmdb",
         "title": "悬案",
@@ -172,6 +159,19 @@
         "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "悬疑"
+      },
+      {
+        "id": 291856,
+        "type": "tmdb",
+        "title": "重器",
+        "originalTitle": "重器",
+        "description": "以改革开放初期至1997年《刑诉法》《刑法》修订为背景，讲述陈一众、余高远、张丽慧、夏英杰等法学院毕业生在不同司法岗位上历经风雨、共同见证中国法治发展进程的故事，展现他们在时代浪潮中成长、抉择与命运交织的群像篇章。",
+        "releaseDate": "2026-08-10",
+        "backdropPath": "/sUTK5UjUNud0d5hcEbhOk4RTqII.jpg",
+        "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": 306672,
@@ -200,19 +200,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 280133,
-        "type": "tmdb",
-        "title": "藏锋",
-        "originalTitle": "藏锋",
-        "description": "讲述绿藤市公安局宣传科副科长谭彦即将赴任特警队担任教导员一职，但长期在局机关工作的谭彦，与深扎基层的特警队队长廖不凡难以配合。但随着时间推移，二人的思想渐渐统一，特警队也在二人的管理下越来越好。而在一次配合禁毒队的案件中，谭彦还成了击毙犯罪嫌疑人的功臣。但谭彦意外发现，“功臣”另有其人。最终，谭彦放下了自己的“荣誉”，向市公安局领导汇报了真实情况，并在上级领导部署的“藏锋”计划中，不辱使命圆满地完成任务。",
-        "releaseDate": "2026-08-17",
-        "backdropPath": "/iHShzy0Fa1WDbjFMJqxZV5nLwOQ.jpg",
-        "posterPath": "/bPyAdtLlw2x7uidC0Bikov1GC7D.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 悬疑"
-      },
-      {
         "id": 233076,
         "type": "tmdb",
         "title": "问心",
@@ -237,6 +224,19 @@
         "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 280133,
+        "type": "tmdb",
+        "title": "藏锋",
+        "originalTitle": "藏锋",
+        "description": "讲述绿藤市公安局宣传科副科长谭彦即将赴任特警队担任教导员一职，但长期在局机关工作的谭彦，与深扎基层的特警队队长廖不凡难以配合。但随着时间推移，二人的思想渐渐统一，特警队也在二人的管理下越来越好。而在一次配合禁毒队的案件中，谭彦还成了击毙犯罪嫌疑人的功臣。但谭彦意外发现，“功臣”另有其人。最终，谭彦放下了自己的“荣誉”，向市公安局领导汇报了真实情况，并在上级领导部署的“藏锋”计划中，不辱使命圆满地完成任务。",
+        "releaseDate": "2026-08-17",
+        "backdropPath": "/iHShzy0Fa1WDbjFMJqxZV5nLwOQ.jpg",
+        "posterPath": "/bPyAdtLlw2x7uidC0Bikov1GC7D.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 悬疑"
       },
       {
         "id": 271016,
@@ -267,17 +267,17 @@
     ],
     "剧集·国外": [
       {
-        "id": 207333,
+        "id": 301418,
         "type": "tmdb",
-        "title": "百年孤独",
-        "originalTitle": "Cien años de soledad",
-        "description": "接续布恩迪亚家族的宿命轮回，聚焦家族双胞胎后代的迥异人生与马孔多的盛极而衰。",
-        "releaseDate": "2026-08-05",
-        "backdropPath": "/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-        "posterPath": "/w8p5MkntL1bTI94INGLya1pHmTP.jpg",
-        "rating": 7.5,
+        "title": "现在不是出轨的问题",
+        "originalTitle": "지금 불륜이 문제가 아닙니다",
+        "description": "这是一部黑色喜剧，讲述了一对因出卖家庭而走红的网红夫妇，以及一对正在经历混乱离婚诉讼的邻居医生夫妇，随着他们卷入一个无法控制的秘密，一系列冲突不断升级，甚至连婚外情都显得微不足道。",
+        "releaseDate": "2026-07-31",
+        "backdropPath": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+        "posterPath": "/jQ9mNZfvnGzXIedlT5IpBVhAzUi.jpg",
+        "rating": 8.9,
         "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
+        "genreTitle": "犯罪, 喜剧"
       },
       {
         "id": 286617,
@@ -293,17 +293,30 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 301418,
+        "id": 207333,
         "type": "tmdb",
-        "title": "现在不是出轨的问题",
-        "originalTitle": "지금 불륜이 문제가 아닙니다",
-        "description": "这是一部黑色喜剧，讲述了一对因出卖家庭而走红的网红夫妇，以及一对正在经历混乱离婚诉讼的邻居医生夫妇，随着他们卷入一个无法控制的秘密，一系列冲突不断升级，甚至连婚外情都显得微不足道。",
-        "releaseDate": "2026-07-31",
-        "backdropPath": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
-        "posterPath": "/jQ9mNZfvnGzXIedlT5IpBVhAzUi.jpg",
-        "rating": 8.9,
+        "title": "百年孤独",
+        "originalTitle": "Cien años de soledad",
+        "description": "接续布恩迪亚家族的宿命轮回，聚焦家族双胞胎后代的迥异人生与马孔多的盛极而衰。",
+        "releaseDate": "2026-08-05",
+        "backdropPath": "/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+        "posterPath": "/w8p5MkntL1bTI94INGLya1pHmTP.jpg",
+        "rating": 7.5,
         "mediaType": "tv",
-        "genreTitle": "犯罪, 喜剧"
+        "genreTitle": "剧情, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 236235,
+        "type": "tmdb",
+        "title": "绅士们",
+        "originalTitle": "The Gentlemen",
+        "description": "自从埃迪和苏茜加入鲍比的海外犯罪帝国并联手合作，至今已经过去了一年。随着他们不断扩展势力版图，鲍比所做的决策却越来越不可靠。如今，埃迪和苏茜必须决定是否采取行动，否则可能满盘皆输，但肆无忌惮的野心，往往不会有好下场⋯⋯",
+        "releaseDate": "2026-09-03",
+        "backdropPath": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+        "posterPath": "/3Cs3g8GBeMqR9p8rKeACqPLst9Q.jpg",
+        "rating": 8.1,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
       },
       {
         "id": 287238,
@@ -314,22 +327,22 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.224,
+        "rating": 7.25,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
       {
-        "id": 95350,
+        "id": 125988,
         "type": "tmdb",
-        "title": "绿灯军团",
-        "originalTitle": "Lanterns",
-        "description": "跟随约翰·斯图尔特与绿灯军团传奇哈尔·乔丹的脚步，看这两位星际警察如何深入美国腹地，调查一起谋杀命案。",
-        "releaseDate": "2026-08-16",
-        "backdropPath": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-        "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.3,
+        "title": "末日地堡",
+        "originalTitle": "Silo",
+        "description": "第三季讲述了一个设定在数百年前的起源故事，同时延续了关于一万人在神秘环境下生活于地下的反乌托邦社会的传奇。在当下，朱丽叶·尼科尔斯在被迫的“清洁”中幸存下来，但带着失忆返回，此时地堡正从叛乱中恢复，并面临一个危险的新威胁。与此同时，在“旧时代”，记者海伦·德鲁和国会议员丹尼尔·基恩发现了一个阴谋，将他们卷入一连串具有灾难性、不可逆转后果的事件中。",
+        "releaseDate": "2026-07-02",
+        "backdropPath": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "posterPath": "/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
+        "rating": 7.2,
         "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
+        "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
       {
         "id": 292108,
@@ -345,6 +358,19 @@
         "genreTitle": "喜剧"
       },
       {
+        "id": 95350,
+        "type": "tmdb",
+        "title": "绿灯军团",
+        "originalTitle": "Lanterns",
+        "description": "跟随约翰·斯图尔特与绿灯军团传奇哈尔·乔丹的脚步，看这两位星际警察如何深入美国腹地，调查一起谋杀命案。",
+        "releaseDate": "2026-08-16",
+        "backdropPath": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
+        "rating": 8.278,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
         "id": 241882,
         "type": "tmdb",
         "title": "赴汤蹈火",
@@ -358,43 +384,17 @@
         "genreTitle": "动作冒险"
       },
       {
-        "id": 97546,
+        "id": 196322,
         "type": "tmdb",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "description": "丽贝卡重新聘用泰德，执教里士满二线女子足球队灰狗女足。即便泰德已是资深教练，前路依旧充满挑战：全新队员、野心各异的球员、外界普遍不看好，他与比尔德教练将迎来全新征程。",
-        "releaseDate": "2026-08-04",
-        "backdropPath": "/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
-        "posterPath": "/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
-        "rating": 8.4,
+        "title": "Dark Matter",
+        "originalTitle": "Dark Matter",
+        "description": "德森一家看似重获平静，却因突发事件再次踏上逃亡之路。杰森对“盒子”的痴迷加深，丹妮拉陷入偏执；与此同时，阿曼达与瑞恩寻找回家之路，布莱尔试图阻止杰森，而 莱顿则执着于创造“完美世界”。",
+        "releaseDate": "2026-08-27",
+        "backdropPath": "/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+        "posterPath": "/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
+        "rating": 8.3,
         "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 322570,
-        "type": "tmdb",
-        "title": "直到T恤干透",
-        "originalTitle": "Tシャツが乾くまで",
-        "description": "40岁的杂志编辑咲子（苍井优 饰）原本深信自己拥有美满的婚姻，但在卷入一场事故后，她意外发现丈夫在每个月“第3个星期五”都有一段完全对不上号的神秘行踪。于是，在看似美满的婚姻背后，她将面对人性中真实而扭曲的“不伦”。",
-        "releaseDate": "2026-07-10",
-        "backdropPath": "/j9rHrq3mz0hHchk3EJksCco9LJW.jpg",
-        "posterPath": "/maFkcu5ptwFzMhsKzJBltuJDRVy.jpg",
-        "rating": 4.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 215072,
-        "type": "tmdb",
-        "title": "杀人者的购物中心",
-        "originalTitle": "킬러들의 쇼핑몰",
-        "description": "第二季强势回归：智安接管了武器店，镇万死里逃生，而“巴比伦”组织则陷入了彻底的劣势。为了保护智安，镇万将主动出击，直捣“巴比伦”的大本营；然而，这个雇佣兵组织绝不会轻易认输。颜面尽失的“巴比伦”将从海外调集援手，并派出新一批致命杀手，试图重整旗鼓、实施报复。",
-        "releaseDate": "2026-07-22",
-        "backdropPath": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-        "posterPath": "/hUC9DlYvTTrs6XYa9iHMw238uY6.jpg",
-        "rating": 8.8,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 动作冒险"
+        "genreTitle": "Sci-Fi & Fantasy, 剧情"
       }
     ]
   }
