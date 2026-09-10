@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-09T22:01:37.992Z",
+  "time": "2026-09-10T22:00:16.837Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-        "rating": 7.999,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "冒险, 动作"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-08-08",
         "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
         "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-        "rating": 9.143,
+        "rating": 9.054,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -35,9 +35,9 @@
         "originalTitle": "抓特务",
         "description": "1949年开国大典当天，刚刚入城并转任公安派出所所长的肖大力，在工作中发现小学教员冯静波身上疑点重重，怀疑他与潜伏的特务活动有关。为了查清冯静波的真实身份，肖大力甚至举家迁入他居住的院落，与其成为邻居，从此开始了漫长的观察与追查。冯静波始终谨慎周旋，肖大力也从未放弃心中的怀疑。随着岁月流逝，这场从新中国成立之初开始的较量持续了近四十年，两个人的人生也在长期的试探、对峙与朝夕相处中紧紧纠缠在一起……",
         "releaseDate": "2026-06-19",
-        "backdropPath": "/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
+        "backdropPath": "/mkdgT692DYjFKC0BI1HqLfHxI1t.jpg",
         "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
-        "rating": 6.667,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "历史, 剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-25",
         "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "posterPath": "/3T3FolKgLQtYGcFHUAWRCwCKTsp.jpg",
-        "rating": 7.252,
+        "rating": 7.263,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -99,7 +99,7 @@
         "title": "伪钞之王",
         "originalTitle": "L'Affaire Bojarski",
         "description": "故事讲述了年轻的波兰难民扬·博亚尔斯基如何成为法国战后有史以来最大的造假者，十五年来，他的家人都不知道，他在花园的一个棚屋里过着双重生活，制造假币——比法国银行印制的钞票“更真实”；一直以来，这个无与伦比的家伙从警察的手中溜走无数次，成为马泰探员的眼中钉。",
-        "releaseDate": "2026-01-14",
+        "releaseDate": "2026-01-12",
         "backdropPath": "/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
         "posterPath": "/urCxdFRLmozhiXJEsSd7H5W0DXb.jpg",
         "rating": 7.083,
@@ -115,7 +115,7 @@
         "releaseDate": "2026-03-18",
         "backdropPath": "/6LpnsToxRww4wsFDX4HUcNKTNF4.jpg",
         "posterPath": "/1l9mxuDThsc84eUpHyIJcUOTg4f.jpg",
-        "rating": 7.527,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -219,7 +219,7 @@
         "originalTitle": "雀骨",
         "description": "当魔头将军强娶沉迷机关术的财迷假千金，从契约夫妻到生死局里互扒马甲，爱意与杀意同生共长，揭朝堂阴谋，破生死乱局，守家国太平。",
         "releaseDate": "2026-07-11",
-        "backdropPath": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
+        "backdropPath": "/eZTq2kkhZ9AQtQ1H5SD7h1Q0PIc.jpg",
         "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
         "rating": 8.3,
         "mediaType": "tv",
@@ -327,7 +327,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.25,
+        "rating": 7.296,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-08-16",
         "backdropPath": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.278,
+        "rating": 8.272,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-07-15",
         "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
         "posterPath": "/oSZItXVxl1MhXXmtfHk0NOUJRdU.jpg",
-        "rating": 6.578,
+        "rating": 6.567,
         "mediaType": "tv",
         "genreTitle": "动作冒险"
       },
