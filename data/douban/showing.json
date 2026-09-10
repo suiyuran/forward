@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-09T19:37:18.144Z",
+  "time": "2026-09-10T19:28:29.433Z",
   "data": [
     {
       "id": 414419,
@@ -23,22 +23,9 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 9.143,
+      "rating": 9.054,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
-    },
-    {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落2：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "releaseDate": "2026-09-01",
-      "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6.9,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
     },
     {
       "id": 1368337,
@@ -47,11 +34,24 @@
       "originalTitle": "The Odyssey",
       "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
       "releaseDate": "2026-07-15",
-      "backdropPath": "/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
+      "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 7.999,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
+    },
+    {
+      "id": 1101412,
+      "type": "tmdb",
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "releaseDate": "2026-09-01",
+      "backdropPath": "/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "rating": 6.7,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
     },
     {
       "id": 1444590,
@@ -80,32 +80,6 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 736212,
-      "type": "tmdb",
-      "title": "歌声缘何慢半拍",
-      "originalTitle": "歌声缘何慢半拍",
-      "description": "少小离家老大回，乡音无改鬓毛衰。离开故乡多年后，军胜踏上回家的归途。年近五 十的军胜家住河南安阳一个村庄，多年后已经发生了近乎沧海桑田的变化。他在众人的围观中见到了老母亲，心有愧疚的军胜拉着母亲给去世的父亲上坟。他去镇上给母亲买来烧鸡，为母亲排忧解难。在和本村村民的相处中，军胜浪荡的个性逐渐消退，他开始认真思考自己的下半生。在亲戚的帮助下，军胜得到了一个在小学工作的机会。在工作中，军胜获得了精神上的尊重和满足。伴随着新农村的建设，老学校搬迁到新校址。军胜的学校生涯告一段落，他接受了生活给他新的安排，又一次离开家乡满怀希望。",
-      "releaseDate": "2026-09-08",
-      "backdropPath": "/4JELCsRY1nCeomckhZa5waPixtE.jpg",
-      "posterPath": "/h8nBh0SSDOMtZsDZBBPp6zhYIxP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1288445,
-      "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 6.4,
-      "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
-    },
-    {
       "id": 278,
       "type": "tmdb",
       "title": "肖申克的救赎",
@@ -119,6 +93,19 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
+      "id": 1288445,
+      "type": "tmdb",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "rating": 6.355,
+      "mediaType": "movie",
+      "genreTitle": "动作, 惊悚"
+    },
+    {
       "id": 1748007,
       "type": "tmdb",
       "title": "牛来",
@@ -127,7 +114,7 @@
       "releaseDate": "2026-08-05",
       "backdropPath": "/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
       "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "rating": 4.071,
+      "rating": 4.1,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -140,35 +127,22 @@
       "releaseDate": "2026-07-29",
       "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.861,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
     {
-      "id": 592402,
+      "id": 736212,
       "type": "tmdb",
-      "title": "大熊雨林",
-      "originalTitle": "Great Bear Rainforest: Land of the Spirit Bear",
-      "description": "这里是世界上最原始最原生态的一片雨林，被悉心的保护和照料，这里也是这些动物们未被打扰的家园。大熊雨林位于加拿大不列颠哥伦比亚省的太平洋海岸，是世界上最后一片完整的温带雨林，占地640万公顷，也是世界上最大的沿海温带雨林。几千年以来，这里一直受到当地的土著民的保护，这部影片中，我们将在IMAX的巨幕之下，跟着拍摄团队，第一次走进这片未被打扰的隐藏地带，探寻美洲狮、灰熊、鲑鱼、海岸狼、还她等野生动物，还有最稀有的熊-白灵熊，也叫做克默德熊。",
-      "releaseDate": "2019-02-15",
-      "backdropPath": null,
-      "posterPath": "/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
-      "rating": 9,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1658524,
-      "type": "tmdb",
-      "title": "怪屋",
-      "originalTitle": "怪屋",
-      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
-      "releaseDate": "2026-09-04",
-      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
-      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
+      "title": "歌声缘何慢半拍",
+      "originalTitle": "歌声缘何慢半拍",
+      "description": "少小离家老大回，乡音无改鬓毛衰。离开故乡多年后，军胜踏上回家的归途。年近五 十的军胜家住河南安阳一个村庄，多年后已经发生了近乎沧海桑田的变化。他在众人的围观中见到了老母亲，心有愧疚的军胜拉着母亲给去世的父亲上坟。他去镇上给母亲买来烧鸡，为母亲排忧解难。在和本村村民的相处中，军胜浪荡的个性逐渐消退，他开始认真思考自己的下半生。在亲戚的帮助下，军胜得到了一个在小学工作的机会。在工作中，军胜获得了精神上的尊重和满足。伴随着新农村的建设，老学校搬迁到新校址。军胜的学校生涯告一段落，他接受了生活给他新的安排，又一次离开家乡满怀希望。",
+      "releaseDate": "2026-09-08",
+      "backdropPath": "/4JELCsRY1nCeomckhZa5waPixtE.jpg",
+      "posterPath": "/h8nBh0SSDOMtZsDZBBPp6zhYIxP.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
+      "genreTitle": "剧情"
     },
     {
       "id": 1339713,
@@ -184,17 +158,56 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
+      "id": 1658524,
+      "type": "tmdb",
+      "title": "怪屋",
+      "originalTitle": "怪屋",
+      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
+      "releaseDate": "2026-09-04",
+      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
+      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
       "id": 1305672,
       "type": "tmdb",
       "title": "抓特务",
       "originalTitle": "抓特务",
       "description": "1949年开国大典当天，刚刚入城并转任公安派出所所长的肖大力，在工作中发现小学教员冯静波身上疑点重重，怀疑他与潜伏的特务活动有关。为了查清冯静波的真实身份，肖大力甚至举家迁入他居住的院落，与其成为邻居，从此开始了漫长的观察与追查。冯静波始终谨慎周旋，肖大力也从未放弃心中的怀疑。随着岁月流逝，这场从新中国成立之初开始的较量持续了近四十年，两个人的人生也在长期的试探、对峙与朝夕相处中紧紧纠缠在一起……",
       "releaseDate": "2026-06-19",
-      "backdropPath": "/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
+      "backdropPath": "/mkdgT692DYjFKC0BI1HqLfHxI1t.jpg",
       "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
-      "rating": 6.667,
+      "rating": 6.8,
       "mediaType": "movie",
       "genreTitle": "历史, 剧情"
+    },
+    {
+      "id": 1353926,
+      "type": "tmdb",
+      "title": "特立独行",
+      "originalTitle": "特立独行",
+      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
+      "releaseDate": "2026-07-03",
+      "backdropPath": "/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
+      "posterPath": "/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+      "rating": 6.4,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 592402,
+      "type": "tmdb",
+      "title": "大熊雨林",
+      "originalTitle": "Great Bear Rainforest: Land of the Spirit Bear",
+      "description": "这里是世界上最原始最原生态的一片雨林，被悉心的保护和照料，这里也是这些动物们未被打扰的家园。大熊雨林位于加拿大不列颠哥伦比亚省的太平洋海岸，是世界上最后一片完整的温带雨林，占地640万公顷，也是世界上最大的沿海温带雨林。几千年以来，这里一直受到当地的土著民的保护，这部影片中，我们将在IMAX的巨幕之下，跟着拍摄团队，第一次走进这片未被打扰的隐藏地带，探寻美洲狮、灰熊、鲑鱼、海岸狼、还她等野生动物，还有最稀有的熊-白灵熊，也叫做克默德熊。",
+      "releaseDate": "2019-02-15",
+      "backdropPath": null,
+      "posterPath": "/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
+      "rating": 9,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 1306055,
@@ -208,19 +221,6 @@
       "rating": 5,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1353926,
-      "type": "tmdb",
-      "title": "特立独行",
-      "originalTitle": "特立独行",
-      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
-      "releaseDate": "2026-07-03",
-      "backdropPath": "/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
-      "posterPath": "/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
-      "rating": 6.438,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1633056,
@@ -244,22 +244,9 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.122,
+      "rating": 8.123,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1541125,
-      "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
-      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
-      "rating": 6.5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1502135,
@@ -275,6 +262,19 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
+      "id": 1541125,
+      "type": "tmdb",
+      "title": "年会不能停！2",
+      "originalTitle": "年会不能停！2",
+      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
+      "releaseDate": "2026-07-24",
+      "backdropPath": "/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
+      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
+      "rating": 6.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
       "id": 1101383,
       "type": "tmdb",
       "title": "逃出绝命街",
@@ -283,7 +283,7 @@
       "releaseDate": "2026-08-12",
       "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "posterPath": "/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
-      "rating": 6.4,
+      "rating": 6.352,
       "mediaType": "movie",
       "genreTitle": "科幻, 悬疑"
     },
@@ -327,17 +327,30 @@
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 26466,
+      "id": 1604133,
       "type": "tmdb",
-      "title": "恐怖游轮",
-      "originalTitle": "Triangle",
-      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
-      "releaseDate": "2009-10-16",
-      "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
-      "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
-      "rating": 6.912,
+      "title": "四渡",
+      "originalTitle": "四渡",
+      "description": "长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
+      "releaseDate": "2026-06-26",
+      "backdropPath": "/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
+      "posterPath": "/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
+      "rating": 5.4,
       "mediaType": "movie",
-      "genreTitle": "恐怖"
+      "genreTitle": "历史, 战争"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1491920,
@@ -361,22 +374,9 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.057,
+      "rating": 7.052,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
-    },
-    {
-      "id": 1604133,
-      "type": "tmdb",
-      "title": "四渡",
-      "originalTitle": "四渡",
-      "description": "长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
-      "releaseDate": "2026-06-26",
-      "backdropPath": "/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
-      "posterPath": "/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
-      "rating": 5.4,
-      "mediaType": "movie",
-      "genreTitle": "历史, 战争"
     },
     {
       "id": 1760508,
@@ -392,6 +392,19 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 26466,
+      "type": "tmdb",
+      "title": "恐怖游轮",
+      "originalTitle": "Triangle",
+      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
+      "releaseDate": "2009-10-16",
+      "backdropPath": "/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
+      "posterPath": "/JPF79YnhjuVP545OLYli4w6gq1.jpg",
+      "rating": 6.912,
+      "mediaType": "movie",
+      "genreTitle": "恐怖"
+    },
+    {
       "id": 1318413,
       "type": "tmdb",
       "title": "诺曼底72小时",
@@ -400,7 +413,7 @@
       "releaseDate": "2026-05-28",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.774,
+      "rating": 7.753,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
     },
@@ -418,19 +431,6 @@
       "genreTitle": "动画, 家庭"
     },
     {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "posterPath": "/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
       "id": 965150,
       "type": "tmdb",
       "title": "晒后假日",
@@ -439,20 +439,7 @@
       "releaseDate": "2022-10-21",
       "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
       "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1713529,
-      "type": "tmdb",
-      "title": "想你了",
-      "originalTitle": "想你了",
-      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
-      "releaseDate": "2026-07-17",
-      "backdropPath": "/2UC691pg5qNavMThV3e903BbkCy.jpg",
-      "posterPath": "/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
-      "rating": 7,
+      "rating": 7.647,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -470,6 +457,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1713529,
+      "type": "tmdb",
+      "title": "想你了",
+      "originalTitle": "想你了",
+      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
+      "releaseDate": "2026-07-17",
+      "backdropPath": "/2UC691pg5qNavMThV3e903BbkCy.jpg",
+      "posterPath": "/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1315772,
       "type": "tmdb",
       "title": "小黄人与大怪兽",
@@ -478,7 +478,7 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.551,
+      "rating": 7.555,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -504,22 +504,9 @@
       "releaseDate": "1994-05-12",
       "backdropPath": "/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
       "posterPath": "/5fkgMKovYZgbGngbHJg19zmsSaT.jpg",
-      "rating": 7.887,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1148213,
-      "type": "tmdb",
-      "title": "喜欢高兴爱",
-      "originalTitle": "喜欢高兴爱",
-      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
-      "releaseDate": "2023-06-15",
-      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
-      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 72245,
@@ -535,19 +522,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 64131,
-      "type": "tmdb",
-      "title": "坏血",
-      "originalTitle": "Mauvais Sang",
-      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
-      "releaseDate": "1986-11-26",
-      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
-      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
-      "rating": 7.133,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
       "id": 10191,
       "type": "tmdb",
       "title": "驯龙高手",
@@ -561,6 +535,19 @@
       "genreTitle": "奇幻, 冒险"
     },
     {
+      "id": 1148213,
+      "type": "tmdb",
+      "title": "喜欢高兴爱",
+      "originalTitle": "喜欢高兴爱",
+      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
+      "releaseDate": "2023-06-15",
+      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
+      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 175,
       "type": "tmdb",
       "title": "碧海蓝天",
@@ -569,7 +556,7 @@
       "releaseDate": "1988-05-10",
       "backdropPath": "/1J28PJOkusMN5Ab9Q3oF310e11k.jpg",
       "posterPath": "/ikD0ORv6IXkupSEwXlgMDm5fPeX.jpg",
-      "rating": 7.448,
+      "rating": 7.446,
       "mediaType": "movie",
       "genreTitle": "爱情, 冒险"
     },
@@ -587,19 +574,6 @@
       "genreTitle": "剧情, 奇幻"
     },
     {
-      "id": 1628,
-      "type": "tmdb",
-      "title": "祖与占",
-      "originalTitle": "Jules et Jim",
-      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
-      "releaseDate": "1962-01-23",
-      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
-      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
-      "rating": 7.538,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
       "id": 8073,
       "type": "tmdb",
       "title": "法外之徒",
@@ -613,17 +587,30 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 396227,
+      "id": 64131,
       "type": "tmdb",
-      "title": "哈姆雷特",
-      "originalTitle": "National Theatre Live: Hamlet",
-      "description": "丹麦王子哈姆雷特发现他的叔叔克劳迪斯杀了他的父亲以获得王位，并计划他的复仇。",
-      "releaseDate": "2015-10-15",
-      "backdropPath": "/2OlaeKSohqs8d2yYe2W9ZeP70Uh.jpg",
-      "posterPath": "/wXywOtlYJyKYMtx84Wwyo5iwgDX.jpg",
-      "rating": 7.545,
+      "title": "坏血",
+      "originalTitle": "Mauvais Sang",
+      "description": "小偷马克和汉斯欠一个美国女人一笔钱，她限他们两个星期还。他们打算去偷一种专治类似艾滋病的药剂，然后高价转卖。于是他们雇来了亚力克斯，一个正在跟16岁女友丽莎分手的青年。但在计划实施之前，他迷恋上了马克的情妇安娜。丽莎却并没有死心，在他们动手那天她来到了巴黎，使得事情更加复杂化……",
+      "releaseDate": "1986-11-26",
+      "backdropPath": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
+      "posterPath": "/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
+      "rating": 7.133,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1628,
+      "type": "tmdb",
+      "title": "祖与占",
+      "originalTitle": "Jules et Jim",
+      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
+      "releaseDate": "1962-01-23",
+      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
+      "rating": 7.536,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 37247,
@@ -634,20 +621,7 @@
       "releaseDate": "1967-12-21",
       "backdropPath": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
       "posterPath": "/jzCscZPFwToV7sPNkAa8Ln5N3ZX.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 4024,
-      "type": "tmdb",
-      "title": "去年在马里昂巴德",
-      "originalTitle": "L'Année dernière à Marienbad",
-      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
-      "releaseDate": "1961-09-29",
-      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
-      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
-      "rating": 7.4,
+      "rating": 7.632,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -665,30 +639,30 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 64015,
+      "id": 396227,
       "type": "tmdb",
-      "title": "秋天的童话",
-      "originalTitle": "秋天的童話",
-      "description": "美丽而骄纵的年轻姑娘“十三妹”李琪（钟楚红 饰）只身从香港赴纽约留学，并探望先她赴美的男友 Vincent（陈百强 饰）。前来接机的，是她在唐人街打工的远房亲戚“船头尺”（周润发 饰）。满口脏话、粗俗不堪的船头尺被人看作“烂鬼”，初时对十三妹感到厌烦，称她为“茶煲”（trouble）。\r 　　十三妹发现男友移情别恋，心灰意冷，把自己关在房里。一次因家中煤气泄漏中毒，幸得楼下的船头尺及时送医抢救，才得以康复。在船头尺的悉心照顾下，十三妹逐渐建立信心，专心读书和工作。船头尺对十三妹日久生情，开始戒烟戒赌，努力改变自己。\r 　　船头尺34岁生日时举办大食会，邀十三妹和朋友参加，怎料前男友 Vincent 突然出现，船头尺感到不是味儿，只好悄悄离开。船头尺在赌场听闻好友“无柄遮”被人欺负，并决定联同“中国同学会”的众兄弟友为“无柄遮”出头打架，十三妹阻止不果，更险出现意外。\r 　　十三妹决定接受 Mrs. Sherwood（黄淑仪 饰）在她长岛家中的新工作，离别时，船头尺将自己的二手车卖掉，买了一条表带送给她配衬其手表机芯，却发现她将手表机芯送了给自己。\r 　　若干年后，当十三妹旧地重游，发现海边开了一间名为“舢舨”（Sampan）的餐厅，而店主正是已脱胎换骨的船头尺。两人在餐厅外重逢，相视而笑，船头尺轻声问出那句：“Table for two？”",
-      "releaseDate": "1987-07-16",
-      "backdropPath": "/bNTFhyQq4LbDaeX82kxhyWKMDwz.jpg",
-      "posterPath": "/bCh0lIUVvDJxcLoCUF8UwQeDd3l.jpg",
-      "rating": 7.375,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1745822,
-      "type": "tmdb",
-      "title": "最小的大片",
-      "originalTitle": "最小的大片",
-      "description": "讲述都市小女孩王最小暑假来到乡村，与独居老木匠爷爷王大片同住，两代人从冲突不断到签下《关爱合约》互相约束，在一整个夏天的朝夕相伴中彼此治愈、共同成长的暖心故事。",
-      "releaseDate": "2026-08-17",
-      "backdropPath": null,
-      "posterPath": "/LKfeiBtdrcrldPVbFqmHOVpPqp.jpg",
-      "rating": 0,
+      "title": "哈姆雷特",
+      "originalTitle": "National Theatre Live: Hamlet",
+      "description": "丹麦王子哈姆雷特发现他的叔叔克劳迪斯杀了他的父亲以获得王位，并计划他的复仇。",
+      "releaseDate": "2015-10-15",
+      "backdropPath": "/2OlaeKSohqs8d2yYe2W9ZeP70Uh.jpg",
+      "posterPath": "/wXywOtlYJyKYMtx84Wwyo5iwgDX.jpg",
+      "rating": 7.545,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 4024,
+      "type": "tmdb",
+      "title": "去年在马里昂巴德",
+      "originalTitle": "L'Année dernière à Marienbad",
+      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
+      "releaseDate": "1961-09-29",
+      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
+      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
+      "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 11044,
@@ -730,6 +704,19 @@
       "genreTitle": "剧情, 音乐"
     },
     {
+      "id": 1745822,
+      "type": "tmdb",
+      "title": "最小的大片",
+      "originalTitle": "最小的大片",
+      "description": "讲述都市小女孩王最小暑假来到乡村，与独居老木匠爷爷王大片同住，两代人从冲突不断到签下《关爱合约》互相约束，在一整个夏天的朝夕相伴中彼此治愈、共同成长的暖心故事。",
+      "releaseDate": "2026-08-17",
+      "backdropPath": null,
+      "posterPath": "/LKfeiBtdrcrldPVbFqmHOVpPqp.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 4173,
       "type": "tmdb",
       "title": "火山边缘之恋",
@@ -756,17 +743,17 @@
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 956215,
+      "id": 1147747,
       "type": "tmdb",
-      "title": "龙凤呈祥(京剧)",
-      "originalTitle": "龙凤呈祥(京剧)",
-      "description": "孙权（安平 饰）因刘备(耿其昌 饰)久占荆州，屡讨不还，遂与周瑜（叶少兰 饰）定计，假称以妹孙尚香（李维康 饰）许配刘备，诓其过江留质，以换荆州。诸葛亮识破计谋，将计就计，使赵云（王平 饰）保护刘备同往，并先拜谒周瑜岳丈——太尉乔玄（冯志孝 饰）。乔玄即以其事奏于孙母吴国太（赵葆秀 饰），国太决定在甘露寺相亲。乔玄从孙刘联合抗曹的大局出发极力撮合，终于弄假成真。  周瑜见美人计失败，又以声色羁縻之，刘备果然乐不思归。赵云复用诸葛亮锦囊之计，佯报曹操袭取荆州。刘备惊慌欲走，告于尚香。尚香拜别国太，随其潜逃。周瑜遣将追赶，皆为尚香斥退，继而率兵亲至，时诸葛亮已用船迎接刘备脱险。周瑜反受张飞（杨赤 饰）之辱。",
-      "releaseDate": "2015-04-23",
-      "backdropPath": null,
-      "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
-      "rating": 0,
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
       "mediaType": "movie",
-      "genreTitle": ""
+      "genreTitle": "纪录"
     },
     {
       "id": 916971,
@@ -791,19 +778,6 @@
       "backdropPath": null,
       "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
       "rating": 7.667,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
