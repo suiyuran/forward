@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-11T22:02:43.670Z",
+  "time": "2026-09-12T21:44:04.769Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/mkdgT692DYjFKC0BI1HqLfHxI1t.jpg",
         "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
-        "rating": 6.8,
+        "rating": 6.867,
         "mediaType": "movie",
         "genreTitle": "历史, 剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-08-20",
         "backdropPath": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
         "posterPath": "/xONOMna5Z102bw0jMPBM4H73B9m.jpg",
-        "rating": 7.583,
+        "rating": 7.606,
         "mediaType": "movie",
         "genreTitle": "喜剧, 冒险"
       },
@@ -59,11 +59,11 @@
         "type": "tmdb",
         "title": "求救信号",
         "originalTitle": "Mayday",
-        "description": "在冷战高峰期，自视甚高的美国海军飞行员Troy 'Assassin' Kelly上尉飞到苏联去执行秘密任务，然而任务崩了，他一个人被困在敌后方，被性情暴躁、喜好美国文化的前克格勃特工Nikolai Ustinov发现。Troy以为自己完了，但是他们之间出人意料的结盟，是否会让Troy获救，以及发展出一段双方都没想到的情谊？",
+        "description": "一名美国海军飞行员在冷战时期执行绝密任务时不幸被困在敌营。他唯有与一位性格古怪的前克格勃特工联手才有一线生机。",
         "releaseDate": "2026-09-03",
         "backdropPath": "/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 7.876,
+        "rating": 7.864,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-07-30",
         "backdropPath": "/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
         "posterPath": "/bkyBY4EYv1htCkgmgVNfVrJ7qqW.jpg",
-        "rating": 6.9,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-07-17",
         "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
         "posterPath": "/rIuA73tNABKewuMMtpIt1Cq6fHh.jpg",
-        "rating": 6.7,
+        "rating": 6.577,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-08-16",
         "backdropPath": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.277,
+        "rating": 8.288,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/572uSrnXM5uPVYMVqsxfNA41cT8.jpg",
         "posterPath": "/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-        "rating": 8.7,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       }
