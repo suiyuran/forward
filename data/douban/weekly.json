@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-12T21:44:04.769Z",
+  "time": "2026-09-13T21:50:58.413Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-08-20",
         "backdropPath": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
         "posterPath": "/xONOMna5Z102bw0jMPBM4H73B9m.jpg",
-        "rating": 7.606,
+        "rating": 7.637,
         "mediaType": "movie",
         "genreTitle": "喜剧, 冒险"
       },
@@ -61,9 +61,9 @@
         "originalTitle": "Mayday",
         "description": "一名美国海军飞行员在冷战时期执行绝密任务时不幸被困在敌营。他唯有与一位性格古怪的前克格勃特工联手才有一线生机。",
         "releaseDate": "2026-09-03",
-        "backdropPath": "/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+        "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 7.864,
+        "rating": 7.912,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-08-21",
         "backdropPath": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
         "posterPath": "/spVRmEHSstmX1703LYGHkQ5kKQD.jpg",
-        "rating": 8.8,
+        "rating": 8.82,
         "mediaType": "movie",
         "genreTitle": "犯罪, 动作"
       }
@@ -143,7 +143,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/hMAew4hKxZJeqqvYljhLpvS4OZA.jpg",
         "posterPath": "/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
-        "rating": 7.8,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "悬疑"
       },
@@ -208,7 +208,7 @@
         "releaseDate": "2026-07-11",
         "backdropPath": "/eZTq2kkhZ9AQtQ1H5SD7h1Q0PIc.jpg",
         "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
-        "rating": 8.3,
+        "rating": 7.929,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.329,
+        "rating": 7.282,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-08-16",
         "backdropPath": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.288,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
