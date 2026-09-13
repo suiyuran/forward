@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-12T18:02:51.494Z",
+  "time": "2026-09-13T18:29:46.434Z",
   "data": {
     "星期日": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/2ZiCNiuOiUGfAF0j73RI8DX1Z1N.jpg",
         "posterPath": "/m6lGrjxeiGwvErcnFTluqOTvtbA.jpg",
-        "rating": 8.864,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/AcriuLMhzvkSDUBzuEvns5WGe8F.jpg",
-        "rating": 6.465,
+        "rating": 6.545,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -166,7 +166,7 @@
         "description": "炒炒炒！炒得热气冲天、香味四溢！！一个是中国菜得霸王，一个是中国菜得帝王，两位顶尖厨师得竞争，延续到了下一代。霸王得传人—秋山酱，认为料理得好坯在于『胜负』；帝王得传人—五番町雾子，认为『心』才是料理好坯得关键，孰对孰错，就由锅里见真章！！",
         "releaseDate": "2026-07-05",
         "backdropPath": "/q9O8pAq0R5R0gDXRAzIZV9lzMs5.jpg",
-        "posterPath": "/tS7mxwOZrbW5IhGUMjOvWIg0YlT.jpg",
+        "posterPath": "/du37GaThbc824q4wjfdSRtjEuJA.jpg",
         "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -193,7 +193,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.587,
+        "rating": 8.591,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -364,7 +364,7 @@
         "releaseDate": "1997-01-12",
         "backdropPath": "/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
         "posterPath": "/5WLMR03uv7RJ9g2lmBInM2Pjcjg.jpg",
-        "rating": 7.4,
+        "rating": 7.396,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
-        "rating": 8.095,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -498,7 +498,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.746,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -511,7 +511,7 @@
         "releaseDate": "2017-01-06",
         "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
         "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
-        "rating": 8.2,
+        "rating": 8.221,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -615,7 +615,7 @@
         "releaseDate": "2025-07-02",
         "backdropPath": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
         "posterPath": "/krx4GwKIWVCtr4MgMeGi4lYkz5x.jpg",
-        "rating": 8.01,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -628,7 +628,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/irM3WhxOorkklhx5To9cfG2ktM6.jpg",
         "posterPath": "/1SMRFZdToK2JUXgw9KTQ1y3cE3n.jpg",
-        "rating": 8.6,
+        "rating": 8.667,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -693,7 +693,7 @@
         "releaseDate": "2017-01-06",
         "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
         "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
-        "rating": 8.2,
+        "rating": 8.221,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
@@ -747,7 +747,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
-        "rating": 8.526,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -760,7 +760,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
         "posterPath": "/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
-        "rating": 9,
+        "rating": 9.011,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -851,7 +851,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.5,
+        "rating": 8.516,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -944,7 +944,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/xpTBqtyMY6YZuWuvE3yMQ2G68Fq.jpg",
         "posterPath": "/rsiaa0j80ZgD4z8QIO51gvpBMS6.jpg",
-        "rating": 9,
+        "rating": 8.333,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -985,7 +985,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8.008,
+        "rating": 8.01,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -1024,7 +1024,7 @@
         "releaseDate": "2004-10-05",
         "backdropPath": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
         "posterPath": "/uZM8PIaimoRxQ3vYqzpZOifGE6Y.jpg",
-        "rating": 8.3,
+        "rating": 8.351,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -1050,7 +1050,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/u02TXrpVxJXxbh9odWbrqbymPKC.jpg",
         "posterPath": "/lSloeMq52OkhxCWH8GsomYziVGa.jpg",
-        "rating": 8.688,
+        "rating": 8.588,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -1206,7 +1206,7 @@
         "releaseDate": "2017-05-09",
         "backdropPath": "/h0JkZDewPtKylxrWyyKg5LfbsCN.jpg",
         "posterPath": "/1YzVxVFGGskTPNm31Je266Mtrne.jpg",
-        "rating": 8.3,
+        "rating": 8.182,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
