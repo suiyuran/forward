@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-13T21:50:58.413Z",
+  "time": "2026-09-14T22:48:00.802Z",
   "data": {
     "电影": [
       {
@@ -9,9 +9,9 @@
         "originalTitle": "抓特务",
         "description": "1949年开国大典当天，刚刚入城并转任公安派出所所长的肖大力，在工作中发现小学教员冯静波身上疑点重重，怀疑他与潜伏的特务活动有关。为了查清冯静波的真实身份，肖大力甚至举家迁入他居住的院落，与其成为邻居，从此开始了漫长的观察与追查。冯静波始终谨慎周旋，肖大力也从未放弃心中的怀疑。随着岁月流逝，这场从新中国成立之初开始的较量持续了近四十年，两个人的人生也在长期的试探、对峙与朝夕相处中紧紧纠缠在一起……",
         "releaseDate": "2026-06-19",
-        "backdropPath": "/mkdgT692DYjFKC0BI1HqLfHxI1t.jpg",
+        "backdropPath": "/8Jjl0CUOt2T6Wf2hYcii4pd0SDR.jpg",
         "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
-        "rating": 6.867,
+        "rating": 6.9,
         "mediaType": "movie",
         "genreTitle": "历史, 剧情"
       },
@@ -35,9 +35,9 @@
         "originalTitle": "Coyote vs. Acme",
         "description": "故事讲述了乐一通经典角色歪心狼（Wile E. Coyote）在长期使用Acme公司的产品追捕BB鸟（Road Runner）失败并遭受身心创伤后，决定不再忍受。他聘请了一位倒霉的人类律师，向Acme公司提起诉讼，要求巨额赔偿。而Acme公司的首席律师则试图捍卫公司利益，双方在法庭上展开了一场荒诞又爆笑的对决。  影片改编自1990年《纽约客》的一篇同名文章。",
         "releaseDate": "2026-08-20",
-        "backdropPath": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+        "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
         "posterPath": "/xONOMna5Z102bw0jMPBM4H73B9m.jpg",
-        "rating": 7.637,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "喜剧, 冒险"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 7.912,
+        "rating": 7.941,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-06-18",
         "backdropPath": "/bwsGEeiEnKqsZ9vm3G82as8xUu7.jpg",
         "posterPath": "/tXxZTyTyasWLz5lYQzMHGHUPvoO.jpg",
-        "rating": 7.3,
+        "rating": 7.369,
         "mediaType": "movie",
         "genreTitle": "喜剧, 爱情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-08-21",
         "backdropPath": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
         "posterPath": "/spVRmEHSstmX1703LYGHkQ5kKQD.jpg",
-        "rating": 8.82,
+        "rating": 8.825,
         "mediaType": "movie",
         "genreTitle": "犯罪, 动作"
       }
@@ -275,7 +275,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.6,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
         "posterPath": "/3Cs3g8GBeMqR9p8rKeACqPLst9Q.jpg",
-        "rating": 8.1,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.282,
+        "rating": 7.296,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -351,7 +351,7 @@
         "originalTitle": "Lanterns",
         "description": "跟随约翰·斯图尔特与绿灯军团传奇哈尔·乔丹的脚步，看这两位星际警察如何深入美国腹地，调查一起谋杀命案。",
         "releaseDate": "2026-08-16",
-        "backdropPath": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "backdropPath": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
         "rating": 8.3,
         "mediaType": "tv",
@@ -379,7 +379,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/572uSrnXM5uPVYMVqsxfNA41cT8.jpg",
         "posterPath": "/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-        "rating": 8.8,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       }
