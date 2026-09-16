@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-15T22:29:00.527Z",
+  "time": "2026-09-16T22:25:33.866Z",
   "data": {
     "电影": [
       {
@@ -37,9 +37,22 @@
         "releaseDate": "2026-08-20",
         "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
         "posterPath": "/xONOMna5Z102bw0jMPBM4H73B9m.jpg",
-        "rating": 7.6,
+        "rating": 7.579,
         "mediaType": "movie",
         "genreTitle": "喜剧, 冒险"
+      },
+      {
+        "id": 1530941,
+        "type": "tmdb",
+        "title": "银魂：吉原大炎上",
+        "originalTitle": "新劇場版 銀魂 -吉原大炎上-",
+        "description": "原作史上最炽热璀璨的经典篇章——“吉原炎上篇”，将以完全新作之姿登陆大银幕。",
+        "releaseDate": "2026-02-13",
+        "backdropPath": "/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
+        "posterPath": "/ttRn0WfNlGCdIw48Vbwf3PU77Zx.jpg",
+        "rating": 9,
+        "mediaType": "movie",
+        "genreTitle": "动画, 动作"
       },
       {
         "id": 1294972,
@@ -63,7 +76,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 7.943,
+        "rating": 7.983,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -89,7 +102,7 @@
         "releaseDate": "2026-06-18",
         "backdropPath": "/bwsGEeiEnKqsZ9vm3G82as8xUu7.jpg",
         "posterPath": "/tXxZTyTyasWLz5lYQzMHGHUPvoO.jpg",
-        "rating": 7.377,
+        "rating": 7.344,
         "mediaType": "movie",
         "genreTitle": "喜剧, 爱情"
       },
@@ -115,7 +128,7 @@
         "releaseDate": "2026-08-21",
         "backdropPath": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
         "posterPath": "/spVRmEHSstmX1703LYGHkQ5kKQD.jpg",
-        "rating": 8.834,
+        "rating": 8.811,
         "mediaType": "movie",
         "genreTitle": "犯罪, 动作"
       }
@@ -148,19 +161,6 @@
         "genreTitle": "悬疑"
       },
       {
-        "id": 291856,
-        "type": "tmdb",
-        "title": "重器",
-        "originalTitle": "重器",
-        "description": "以改革开放初期至1997年《刑诉法》《刑法》修订为背景，讲述陈一众、余高远、张丽慧、夏英杰等法学院毕业生在不同司法岗位上历经风雨、共同见证中国法治发展进程的故事，展现他们在时代浪潮中成长、抉择与命运交织的群像篇章。",
-        "releaseDate": "2026-08-10",
-        "backdropPath": "/sUTK5UjUNud0d5hcEbhOk4RTqII.jpg",
-        "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 306672,
         "type": "tmdb",
         "title": "日落下的彩虹",
@@ -174,6 +174,19 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 291856,
+        "type": "tmdb",
+        "title": "重器",
+        "originalTitle": "重器",
+        "description": "以改革开放初期至1997年《刑诉法》《刑法》修订为背景，讲述陈一众、余高远、张丽慧、夏英杰等法学院毕业生在不同司法岗位上历经风雨、共同见证中国法治发展进程的故事，展现他们在时代浪潮中成长、抉择与命运交织的群像篇章。",
+        "releaseDate": "2026-08-10",
+        "backdropPath": "/sUTK5UjUNud0d5hcEbhOk4RTqII.jpg",
+        "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 287496,
         "type": "tmdb",
         "title": "花开锦绣",
@@ -182,48 +195,61 @@
         "releaseDate": "2026-08-09",
         "backdropPath": "/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
         "posterPath": "/erj7cX8aa1jndO9HlmoyRcJNLQL.jpg",
-        "rating": 7.143,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
       {
-        "id": 233076,
+        "id": 301489,
         "type": "tmdb",
-        "title": "问心",
-        "originalTitle": "问心",
-        "description": "两年后，周筱风援黔归来与林逸、方筱然会合，三人小分队再度并肩作战，但也面对全新挑战。周筱风自身执着奋进且严守医疗原则，机缘之下被破格提拔为东立医院史上最年轻的心内科执行主任。职位的晋升，让他看到了更多可能、面临更大考验，也颠覆了他与林逸方筱然间原本的关系，甚至医院内外的生态平衡也因此被打破。与此同时，他们还需要面对医生永远的对手——病魔。一个接一个的病人与他们身后的家庭期待医护联手拯救。理想与现实时时冲突，无奈和温暖往往共生，他们只有在奋斗中不断成长，继续保持着“问心无愧”。",
-        "releaseDate": "2026-06-18",
-        "backdropPath": "/xBI8m2aYsr9o4vtgbnI7wsewGc6.jpg",
-        "posterPath": "/5mkfDnM8ObcaT5lpQSZhtHQBFsu.jpg",
-        "rating": 8,
+        "title": "深渊无间",
+        "originalTitle": "深渊无间",
+        "description": "一篇名为《深渊》的推理网文悄然上线，打破了保守小城多年来的平静。文中诸多情节与警方未曾公布的多年前“三一二”连环奸杀案案情有着惊人的相似，作案手法、现场痕迹、凶手心理侧写，竟与尘封的卷宗几乎一字不差。\n\n　　热血正义的新警李成（任嘉伦 饰）以“网瘾少年”身份潜入网吧卧底，逐步接近案件关键嫌疑人——网吧老板韩品木（秦俊杰 饰）。韩品木表面温和，实则身份成谜，他既是当年受害者的家属，又是小说《深渊》的幕后上传者。在调查过程中，李成与暗中追查旧案的前刑警辛吉然（田小洁 饰）、刑侦队长赵干哲（王砚辉 饰）结成同盟，共同重启这桩尘封八年的悬案。\n\n　　随着一众人等接连登场——行动诡秘的老警察、暗中窥探的酒店保安、口风严密的职场经理、游走灰色地带的边缘人，以及案件幸存者陈春丽（倪虹洁 饰），全员皆藏秘密，人人皆有疑点。李成与多方嫌疑人一次次上演高智对弈，最终拨开迷雾，侦查出掩藏在令人扼腕的亲情和友情之下的真相。\n\n　　一念之差，有的人走向了绿洲，有的人永远被困在了深渊。",
+        "releaseDate": "2026-09-09",
+        "backdropPath": "/s9YSQAJtXjimsjBVsqLtJNnIjEs.jpg",
+        "posterPath": "/b9ngtGNgaHBbLihRrT0MsPRY0GW.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "悬疑"
+      },
+      {
+        "id": 299952,
+        "type": "tmdb",
+        "title": "早春晴朗",
+        "originalTitle": "早春晴朗",
+        "description": "这是一段十年交锋，敬于才华，合于性格、久于平等的禁忌之恋。北漂伊始的尚之桃与极具天赋的“鬼才”栾念狭路相逢。热烈勇敢的尚之桃亦步亦趋地蜕变成长，撬碎了栾念世故坚硬的心防，互相吸引的二人在都市丛林中极限拉扯、分分合合。爱情，就是用光所有勇气，再无遗憾。爱，则是互相修复，共同成长。但情和爱之间，她选择生存。当她独当一面，他收敛锋芒，势均力敌的他们将会为彼此写下了新的结局……",
+        "releaseDate": "2026-08-26",
+        "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+        "posterPath": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+        "rating": 8.306,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
       {
-        "id": 295558,
+        "id": 289761,
         "type": "tmdb",
-        "title": "雀骨",
-        "originalTitle": "雀骨",
-        "description": "当魔头将军强娶沉迷机关术的财迷假千金，从契约夫妻到生死局里互扒马甲，爱意与杀意同生共长，揭朝堂阴谋，破生死乱局，守家国太平。",
-        "releaseDate": "2026-07-11",
-        "backdropPath": "/eZTq2kkhZ9AQtQ1H5SD7h1Q0PIc.jpg",
-        "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
-        "rating": 7.9,
+        "title": "醒来",
+        "originalTitle": "醒来",
+        "description": "1941年冬，照相师陈开来在师父、地下党员“断桥”李木胜牺牲后，毅然继承其使命，卷入对抗日军“沉睡计划”的秘密行动。途中结识军统特工金宝，与“苏堤”沈克希、“雷峰塔”赵前等人并肩作战，共同揭露日军细菌实验的真相。经历生死与牺牲，陈开来用相机记录下这场惊心动魄的抗战历程。",
+        "releaseDate": "2026-08-26",
+        "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
+        "posterPath": "/lxULhYKRE1C6zhaCNO0R0Id7ReM.jpg",
+        "rating": 6.3,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
       {
-        "id": 280133,
+        "id": 294487,
         "type": "tmdb",
-        "title": "藏锋",
-        "originalTitle": "藏锋",
-        "description": "讲述绿藤市公安局宣传科副科长谭彦即将赴任特警队担任教导员一职，但长期在局机关工作的谭彦，与深扎基层的特警队队长廖不凡难以配合。但随着时间推移，二人的思想渐渐统一，特警队也在二人的管理下越来越好。而在一次配合禁毒队的案件中，谭彦还成了击毙犯罪嫌疑人的功臣。但谭彦意外发现，“功臣”另有其人。最终，谭彦放下了自己的“荣誉”，向市公安局领导汇报了真实情况，并在上级领导部署的“藏锋”计划中，不辱使命圆满地完成任务。",
-        "releaseDate": "2026-08-17",
-        "backdropPath": "/iHShzy0Fa1WDbjFMJqxZV5nLwOQ.jpg",
-        "posterPath": "/t0fGmHkylAIDQvG3AtqQk0IpDBa.jpg",
-        "rating": 8,
+        "title": "金色",
+        "originalTitle": "金色",
+        "description": "三十万两黄金突现大漠，传言寻金之人皆成厉鬼，相互厮杀。横遭灭门的女子孤闯大漠，决心复仇！权欲之争暗涌，一群江湖侠客纷纷卷入这场恩怨情仇，共谱一段新武侠故事。",
+        "releaseDate": "2026-08-25",
+        "backdropPath": "/xirWeEiatY915u837oq1l2t4oPP.jpg",
+        "posterPath": "/k5Gc9qZfx4ofYCUjS55r6120H2l.jpg",
+        "rating": 9,
         "mediaType": "tv",
-        "genreTitle": "犯罪, 悬疑"
+        "genreTitle": "剧情"
       },
       {
         "id": 271016,
@@ -237,19 +263,6 @@
         "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, 动作冒险"
-      },
-      {
-        "id": 327916,
-        "type": "tmdb",
-        "title": "凛冬下的罪恶",
-        "originalTitle": "凛冬下的罪恶",
-        "description": "凛冬，一精神病女子拦车报案，称丈夫杀人，刑警沈栋梁吴红兵由此揭开系列碎尸案真相。然而风浪未平，储蓄所抢劫杀人案，少女失踪案，流窜抢车案接连发生，沈栋梁与吴红兵追凶之际，竟牵出改变二人命运的人性悲剧。",
-        "releaseDate": "2026-08-04",
-        "backdropPath": "/gN3vSMrarrirco31Af8bUsSHBYZ.jpg",
-        "posterPath": "/8PbjBwbkZgFj8k2bitxMFkllal5.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "悬疑"
       }
     ],
     "剧集·国外": [
@@ -275,7 +288,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.706,
+        "rating": 6.714,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,22 +327,9 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.302,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
-      },
-      {
-        "id": 125988,
-        "type": "tmdb",
-        "title": "末日地堡",
-        "originalTitle": "Silo",
-        "description": "第三季讲述了一个设定在数百年前的起源故事，同时延续了关于一万人在神秘环境下生活于地下的反乌托邦社会的传奇。在当下，朱丽叶·尼科尔斯在被迫的“清洁”中幸存下来，但带着失忆返回，此时地堡正从叛乱中恢复，并面临一个危险的新威胁。与此同时，在“旧时代”，记者海伦·德鲁和国会议员丹尼尔·基恩发现了一个阴谋，将他们卷入一连串具有灾难性、不可逆转后果的事件中。",
-        "releaseDate": "2026-07-02",
-        "backdropPath": "/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
-        "posterPath": "/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
-        "rating": 7.2,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
       {
         "id": 292108,
@@ -353,22 +353,22 @@
         "releaseDate": "2026-08-16",
         "backdropPath": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.3,
+        "rating": 8.245,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 241882,
+        "id": 125988,
         "type": "tmdb",
-        "title": "赴汤蹈火",
-        "originalTitle": "Ride or Die",
-        "description": "黛比和闺蜜朱迪丝被迫展开逃亡，因为她发现朱迪丝根本不是什么法务会计师，而是国际杀手！在神秘人物的追杀下，加上黛比的丈夫涉入某个极度腐败的事件中，她们必须与时间赛跑，展开一场横跨欧洲的公路之旅以厘清真相、保住性命。",
-        "releaseDate": "2026-07-15",
-        "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
-        "posterPath": "/oSZItXVxl1MhXXmtfHk0NOUJRdU.jpg",
-        "rating": 6.567,
+        "title": "末日地堡",
+        "originalTitle": "Silo",
+        "description": "第三季讲述了一个设定在数百年前的起源故事，同时延续了关于一万人在神秘环境下生活于地下的反乌托邦社会的传奇。在当下，朱丽叶·尼科尔斯在被迫的“清洁”中幸存下来，但带着失忆返回，此时地堡正从叛乱中恢复，并面临一个危险的新威胁。与此同时，在“旧时代”，记者海伦·德鲁和国会议员丹尼尔·基恩发现了一个阴谋，将他们卷入一连串具有灾难性、不可逆转后果的事件中。",
+        "releaseDate": "2026-07-02",
+        "backdropPath": "/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+        "posterPath": "/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
+        "rating": 7.2,
         "mediaType": "tv",
-        "genreTitle": "动作冒险"
+        "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
       {
         "id": 196322,
@@ -377,11 +377,24 @@
         "originalTitle": "Dark Matter",
         "description": "德森一家看似重获平静，却因突发事件再次踏上逃亡之路。杰森对“盒子”的痴迷加深，丹妮拉陷入偏执；与此同时，阿曼达与瑞恩寻找回家之路，布莱尔试图阻止杰森，而 莱顿则执着于创造“完美世界”。",
         "releaseDate": "2026-08-27",
-        "backdropPath": "/572uSrnXM5uPVYMVqsxfNA41cT8.jpg",
+        "backdropPath": "/hQkomlkdnGgh52YqG1nhUeQxr5E.jpg",
         "posterPath": "/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-        "rating": 8.7,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
+      },
+      {
+        "id": 255358,
+        "type": "tmdb",
+        "title": "攻壳机动队",
+        "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
+        "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
+        "releaseDate": "2026-07-07",
+        "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
+        "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
+        "rating": 8.169,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
       }
     ]
   }
