@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-18T21:58:48.606Z",
+  "time": "2026-09-19T21:50:00.314Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 7.999,
+        "rating": 8.001,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-08-20",
         "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
         "posterPath": "/xONOMna5Z102bw0jMPBM4H73B9m.jpg",
-        "rating": 7.546,
+        "rating": 7.55,
         "mediaType": "movie",
         "genreTitle": "喜剧, 冒险"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-08-29",
         "backdropPath": "/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
         "posterPath": "/xfGeL7zbAL8R2DRl1Dpy5Ek3D5i.jpg",
-        "rating": 6.522,
+        "rating": 6.541,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-24",
         "backdropPath": "/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
         "posterPath": "/uuJLrM5ym24COGRDe2k07ZVJitb.jpg",
-        "rating": 7.2,
+        "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -113,9 +113,9 @@
         "originalTitle": "Tony",
         "description": "19岁的安东尼·波登前往普罗温斯敦，偶然闯入一家餐厅厨房的混乱世界，由此开启了一个将影响他一生的夏天。",
         "releaseDate": "2026-08-07",
-        "backdropPath": "/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+        "backdropPath": "/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
         "posterPath": "/dnpztRePQAUg4FydrwQntAOry9z.jpg",
-        "rating": 7.627,
+        "rating": 7.633,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
         "posterPath": "/3Cs3g8GBeMqR9p8rKeACqPLst9Q.jpg",
-        "rating": 8.2,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.327,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-07-17",
         "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
         "posterPath": "/rIuA73tNABKewuMMtpIt1Cq6fHh.jpg",
-        "rating": 6.679,
+        "rating": 6.643,
         "mediaType": "tv",
         "genreTitle": "喜剧"
       },
@@ -351,9 +351,9 @@
         "originalTitle": "Lanterns",
         "description": "跟随约翰·斯图尔特与绿灯军团传奇哈尔·乔丹的脚步，看这两位星际警察如何深入美国腹地，调查一起谋杀命案。",
         "releaseDate": "2026-08-16",
-        "backdropPath": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+        "backdropPath": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.238,
+        "rating": 8.249,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
         "posterPath": "/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-        "rating": 8.2,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
