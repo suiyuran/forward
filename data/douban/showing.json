@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-18T19:27:42.014Z",
+  "time": "2026-09-19T19:14:09.609Z",
   "data": [
     {
       "id": 414419,
@@ -10,7 +10,7 @@
       "releaseDate": "2011-03-27",
       "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.1,
+      "rating": 8.113,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -23,22 +23,9 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.014,
+      "rating": 8.017,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
-    },
-    {
-      "id": 1616157,
-      "type": "tmdb",
-      "title": "上海女儿",
-      "originalTitle": "上海女儿",
-      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": "/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
-      "posterPath": "/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1391021,
@@ -67,6 +54,32 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
+      "id": 1541125,
+      "type": "tmdb",
+      "title": "年会不能停！2",
+      "originalTitle": "年会不能停！2",
+      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
+      "releaseDate": "2026-07-24",
+      "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
+      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1101412,
+      "type": "tmdb",
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "releaseDate": "2026-09-01",
+      "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "rating": 6.763,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
+    },
+    {
       "id": 1748007,
       "type": "tmdb",
       "title": "牛来",
@@ -78,19 +91,6 @@
       "rating": 4.375,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
-    },
-    {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落2：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "releaseDate": "2026-09-01",
-      "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6.811,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
     },
     {
       "id": 278,
@@ -140,7 +140,7 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 6.441,
+      "rating": 6.439,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -153,9 +153,22 @@
       "releaseDate": "2026-09-19",
       "backdropPath": null,
       "posterPath": "/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
-      "rating": 0,
+      "rating": 5,
       "mediaType": "movie",
       "genreTitle": "喜剧"
+    },
+    {
+      "id": 1616157,
+      "type": "tmdb",
+      "title": "上海女儿",
+      "originalTitle": "上海女儿",
+      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": "/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
+      "posterPath": "/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 969681,
@@ -166,7 +179,7 @@
       "releaseDate": "2026-07-29",
       "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.848,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -192,7 +205,7 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.1,
+      "rating": 8.124,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -208,32 +221,6 @@
       "rating": 8.195,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1658524,
-      "type": "tmdb",
-      "title": "怪屋",
-      "originalTitle": "怪屋",
-      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
-      "releaseDate": "2026-09-04",
-      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
-      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1541125,
-      "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
-      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1306055,
@@ -256,36 +243,10 @@
       "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
       "releaseDate": "2026-07-03",
       "backdropPath": "/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
-      "posterPath": "/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+      "posterPath": "/dWtKXfN97AMW5n3S6QoUVUMCU2S.jpg",
       "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 1724637,
-      "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
-      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 动画"
-    },
-    {
-      "id": 1550321,
-      "type": "tmdb",
-      "title": "浪花儿",
-      "originalTitle": "浪花儿",
-      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
-      "posterPath": "/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     },
     {
       "id": 1633056,
@@ -301,17 +262,30 @@
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 1655500,
+      "id": 1724637,
       "type": "tmdb",
-      "title": "床下有人4",
-      "originalTitle": "床下有人4",
-      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
-      "posterPath": "/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
+      "releaseDate": "2026-08-07",
+      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
+      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 动画"
+    },
+    {
+      "id": 1658524,
+      "type": "tmdb",
+      "title": "怪屋",
+      "originalTitle": "怪屋",
+      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
+      "releaseDate": "2026-09-04",
+      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
+      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
+      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1630030,
@@ -327,6 +301,32 @@
       "genreTitle": "喜剧, 动画"
     },
     {
+      "id": 1550321,
+      "type": "tmdb",
+      "title": "浪花儿",
+      "originalTitle": "浪花儿",
+      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
+      "posterPath": "/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1655500,
+      "type": "tmdb",
+      "title": "床下有人4",
+      "originalTitle": "床下有人4",
+      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "posterPath": "/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 惊悚"
+    },
+    {
       "id": 1083381,
       "type": "tmdb",
       "title": "后室",
@@ -335,7 +335,7 @@
       "releaseDate": "2026-05-27",
       "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.046,
+      "rating": 7.039,
       "mediaType": "movie",
       "genreTitle": "恐怖, 悬疑"
     },
@@ -387,48 +387,22 @@
       "releaseDate": "2026-05-28",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.687,
+      "rating": 7.667,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
     },
     {
-      "id": 1761208,
+      "id": 1185806,
       "type": "tmdb",
-      "title": "主场",
-      "originalTitle": "主场",
-      "description": "这是中国首部大学生体育题材纪录电影，讲述2025年秋天，国际大体联足球世界杯在大连举行。来自17个国家的24所高校、数百名大学生运动员齐聚“足球城”，以校际对抗的形式，展开62场青春对决。 影片真实纪录了中国四支高校代表队的征程：北师大女足在多名国字号主力被职业联赛征调的困境中残阵出战；上海体育大学女足强势夺金；首次登上世界舞台的北航男足面对欧美强敌，在补时阶段完成惊天逆转；延边大学为荣誉热血拼搏。 这是一部关于信念的青春宣言，当女足队员在冰疗池中咬牙坚持、当小伙子们在少一人的绝境中拼到抽筋、当落后两球的北航在最后八分钟连扳四球——“哨声未响，奇迹不灭”，这是中国大学生写给世界的拼搏答案。赛场之外，各国青年在武术、茶道中触摸中华文明，在相视一笑中种下友谊。影片以最真实的镜头，展现了中国卓越的办赛能力、开放包容的国家形象，以及当代青年身上那股压不垮、不服输的精气神。",
-      "releaseDate": "2026-09-16",
-      "backdropPath": "/d1ZFcViaWkMIkLsVQwhbYciyd6D.jpg",
-      "posterPath": "/jAnLfmu4jeydpOjIgQY2FmQw10i.jpg",
-      "rating": 0,
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 7.874,
       "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 736212,
-      "type": "tmdb",
-      "title": "歌声缘何慢半拍",
-      "originalTitle": "歌声缘何慢半拍",
-      "description": "少小离家老大回，乡音无改鬓毛衰。离开故乡多年后，军胜踏上回家的归途。年近五 十的军胜家住河南安阳一个村庄，多年后已经发生了近乎沧海桑田的变化。他在众人的围观中见到了老母亲，心有愧疚的军胜拉着母亲给去世的父亲上坟。他去镇上给母亲买来烧鸡，为母亲排忧解难。在和本村村民的相处中，军胜浪荡的个性逐渐消退，他开始认真思考自己的下半生。在亲戚的帮助下，军胜得到了一个在小学工作的机会。在工作中，军胜获得了精神上的尊重和满足。伴随着新农村的建设，老学校搬迁到新校址。军胜的学校生涯告一段落，他接受了生活给他新的安排，又一次离开家乡满怀希望。",
-      "releaseDate": "2026-09-08",
-      "backdropPath": "/4JELCsRY1nCeomckhZa5waPixtE.jpg",
-      "posterPath": "/h8nBh0SSDOMtZsDZBBPp6zhYIxP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1084244,
-      "type": "tmdb",
-      "title": "玩具总动员5",
-      "originalTitle": "Toy Story 5",
-      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "releaseDate": "2026-06-17",
-      "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "posterPath": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "rating": 8.355,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1563614,
@@ -444,17 +418,30 @@
       "genreTitle": "爱情, 剧情"
     },
     {
-      "id": 1185806,
+      "id": 736212,
       "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 7.8,
+      "title": "歌声缘何慢半拍",
+      "originalTitle": "歌声缘何慢半拍",
+      "description": "少小离家老大回，乡音无改鬓毛衰。离开故乡多年后，军胜踏上回家的归途。年近五 十的军胜家住河南安阳一个村庄，多年后已经发生了近乎沧海桑田的变化。他在众人的围观中见到了老母亲，心有愧疚的军胜拉着母亲给去世的父亲上坟。他去镇上给母亲买来烧鸡，为母亲排忧解难。在和本村村民的相处中，军胜浪荡的个性逐渐消退，他开始认真思考自己的下半生。在亲戚的帮助下，军胜得到了一个在小学工作的机会。在工作中，军胜获得了精神上的尊重和满足。伴随着新农村的建设，老学校搬迁到新校址。军胜的学校生涯告一段落，他接受了生活给他新的安排，又一次离开家乡满怀希望。",
+      "releaseDate": "2026-09-08",
+      "backdropPath": "/4JELCsRY1nCeomckhZa5waPixtE.jpg",
+      "posterPath": "/h8nBh0SSDOMtZsDZBBPp6zhYIxP.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1761208,
+      "type": "tmdb",
+      "title": "主场",
+      "originalTitle": "主场",
+      "description": "这是中国首部大学生体育题材纪录电影，讲述2025年秋天，国际大体联足球世界杯在大连举行。来自17个国家的24所高校、数百名大学生运动员齐聚“足球城”，以校际对抗的形式，展开62场青春对决。 影片真实纪录了中国四支高校代表队的征程：北师大女足在多名国字号主力被职业联赛征调的困境中残阵出战；上海体育大学女足强势夺金；首次登上世界舞台的北航男足面对欧美强敌，在补时阶段完成惊天逆转；延边大学为荣誉热血拼搏。 这是一部关于信念的青春宣言，当女足队员在冰疗池中咬牙坚持、当小伙子们在少一人的绝境中拼到抽筋、当落后两球的北航在最后八分钟连扳四球——“哨声未响，奇迹不灭”，这是中国大学生写给世界的拼搏答案。赛场之外，各国青年在武术、茶道中触摸中华文明，在相视一笑中种下友谊。影片以最真实的镜头，展现了中国卓越的办赛能力、开放包容的国家形象，以及当代青年身上那股压不垮、不服输的精气神。",
+      "releaseDate": "2026-09-16",
+      "backdropPath": "/d1ZFcViaWkMIkLsVQwhbYciyd6D.jpg",
+      "posterPath": "/jAnLfmu4jeydpOjIgQY2FmQw10i.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 965150,
@@ -465,7 +452,7 @@
       "releaseDate": "2022-10-21",
       "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
       "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
-      "rating": 7.6,
+      "rating": 7.65,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -491,22 +478,9 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.5,
+      "rating": 7.55,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
-    },
-    {
-      "id": 1148213,
-      "type": "tmdb",
-      "title": "喜欢高兴爱",
-      "originalTitle": "喜欢高兴爱",
-      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
-      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 110,
@@ -517,7 +491,7 @@
       "releaseDate": "1994-05-12",
       "backdropPath": "/xkk7cqXFzY4aCCG5AYWZCFQFbIX.jpg",
       "posterPath": "/5fkgMKovYZgbGngbHJg19zmsSaT.jpg",
-      "rating": 7.9,
+      "rating": 7.888,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
     },
@@ -535,19 +509,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 34838,
-      "type": "tmdb",
-      "title": "探戈课",
-      "originalTitle": "The Tango Lesson",
-      "description": "电影导演莎莉（莎莉·波特 Sally Potter 饰）在创作新剧本时遇到了灵感堵塞，她烦恼不已，却又无济于事。在观看一场激情肆意的探戈舞演出后，莎莉被深深感染，仿佛找到了一些灵感。她决心暂时抛下工作，开始学习探戈舞。她去巴黎旅行遇上了有名的探戈舞者帕布罗，被他的舞蹈所吸引。于是提出让他在自己的下部电影里演出，以帕布罗教她跳舞作为交换条件。莎莉越来越沉迷于探戈舞，在与帕布罗学习探戈的过程中，他们彼此爱上了对方。但来自不同文化背景的两人，性格有着极大的反差：来自南美的帕布罗有着强烈的控制欲，他习惯掌控选舞、音乐等一切细节，甚至包括与莎莉的爱情；而作为女性主义者的莎莉却是决定帕布罗参与她的影片的关键人。两人之间的关系时而紧张，时而悠然，一场爱情之战悄悄开始。",
-      "releaseDate": "1997-11-28",
-      "backdropPath": "/8UepZvv8uGXa5x6v5hrNTlkTBPJ.jpg",
-      "posterPath": "/dFrkFLIGUiHTu74WGE3633XXi4C.jpg",
-      "rating": 6.348,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 音乐"
-    },
-    {
       "id": 68883,
       "type": "tmdb",
       "title": "胭脂扣",
@@ -559,6 +520,45 @@
       "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "剧情, 奇幻"
+    },
+    {
+      "id": 4024,
+      "type": "tmdb",
+      "title": "去年在马里昂巴德",
+      "originalTitle": "L'Année dernière à Marienbad",
+      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
+      "releaseDate": "1961-09-29",
+      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
+      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
+      "rating": 7.44,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1389241,
+      "type": "tmdb",
+      "title": "冬旅人",
+      "originalTitle": "冬旅人",
+      "description": "新疆女导演鲁丹自编自导的第一部作品，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师在冬季的北方小镇不期而遇的故事。作品中的父亲角色是缺失的，但却是三个主人公各自情感的牵绊，也在暗处推动着叙事的发展。人生至暗时刻的短暂相处，三颗孤独的灵魂慢慢靠近，呈现出相互交织的成长弧线，并寻找到了各自的救赎之路。本片由去年过世的藏地新浪潮电影第一人万玛才旦导演生前担任监制，这次入围上海国际电影节也是对这位英年早逝的电影大师最好的纪念。",
+      "releaseDate": "2026-08-07",
+      "backdropPath": "/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
+      "posterPath": "/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1628,
+      "type": "tmdb",
+      "title": "祖与占",
+      "originalTitle": "Jules et Jim",
+      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
+      "releaseDate": "1962-01-23",
+      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
+      "rating": 7.534,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1713529,
@@ -587,56 +587,17 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 4024,
+      "id": 34838,
       "type": "tmdb",
-      "title": "去年在马里昂巴德",
-      "originalTitle": "L'Année dernière à Marienbad",
-      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
-      "releaseDate": "1961-09-29",
-      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
-      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
-      "rating": 7.44,
+      "title": "探戈课",
+      "originalTitle": "The Tango Lesson",
+      "description": "电影导演莎莉（莎莉·波特 Sally Potter 饰）在创作新剧本时遇到了灵感堵塞，她烦恼不已，却又无济于事。在观看一场激情肆意的探戈舞演出后，莎莉被深深感染，仿佛找到了一些灵感。她决心暂时抛下工作，开始学习探戈舞。她去巴黎旅行遇上了有名的探戈舞者帕布罗，被他的舞蹈所吸引。于是提出让他在自己的下部电影里演出，以帕布罗教她跳舞作为交换条件。莎莉越来越沉迷于探戈舞，在与帕布罗学习探戈的过程中，他们彼此爱上了对方。但来自不同文化背景的两人，性格有着极大的反差：来自南美的帕布罗有着强烈的控制欲，他习惯掌控选舞、音乐等一切细节，甚至包括与莎莉的爱情；而作为女性主义者的莎莉却是决定帕布罗参与她的影片的关键人。两人之间的关系时而紧张，时而悠然，一场爱情之战悄悄开始。",
+      "releaseDate": "1997-11-28",
+      "backdropPath": "/8UepZvv8uGXa5x6v5hrNTlkTBPJ.jpg",
+      "posterPath": "/dFrkFLIGUiHTu74WGE3633XXi4C.jpg",
+      "rating": 6.348,
       "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1628,
-      "type": "tmdb",
-      "title": "祖与占",
-      "originalTitle": "Jules et Jim",
-      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
-      "releaseDate": "1962-01-23",
-      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
-      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
-      "rating": 7.534,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1666219,
-      "type": "tmdb",
-      "title": "红闪电",
-      "originalTitle": "红闪电",
-      "description": "影片讲述11岁少女达达因家庭变故产生心理上的苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将她放到表哥经营的马场暂住。内心封闭的达达在那里结识了一个因比赛事故而自我放逐的冠军选手向飞，以及他的最佳搭档赛马“红闪电”。在相处中，双方看到了各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找到心的方向，从而领悟了人和马在跨越现实与心灵的重重障碍中得到升华，实现了双向救赎，找回丢失的勇气与自我，也深刻理解了羁绊、离别与成长的意义。",
-      "releaseDate": "2026-09-05",
-      "backdropPath": null,
-      "posterPath": "/7L5YJLL86azwqJE7Aufya0jSNZ1.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1389241,
-      "type": "tmdb",
-      "title": "冬旅人",
-      "originalTitle": "冬旅人",
-      "description": "新疆女导演鲁丹自编自导的第一部作品，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师在冬季的北方小镇不期而遇的故事。作品中的父亲角色是缺失的，但却是三个主人公各自情感的牵绊，也在暗处推动着叙事的发展。人生至暗时刻的短暂相处，三颗孤独的灵魂慢慢靠近，呈现出相互交织的成长弧线，并寻找到了各自的救赎之路。本片由去年过世的藏地新浪潮电影第一人万玛才旦导演生前担任监制，这次入围上海国际电影节也是对这位英年早逝的电影大师最好的纪念。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": "/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
-      "posterPath": "/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "剧情, 音乐"
     },
     {
       "id": 396227,
@@ -647,7 +608,7 @@
       "releaseDate": "2015-10-15",
       "backdropPath": "/2OlaeKSohqs8d2yYe2W9ZeP70Uh.jpg",
       "posterPath": "/wXywOtlYJyKYMtx84Wwyo5iwgDX.jpg",
-      "rating": 7.545,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -676,19 +637,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
-    },
-    {
-      "id": 1028378,
-      "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
-      "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.667,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     }
   ]
 }
