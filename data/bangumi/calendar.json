@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-19T18:22:21.691Z",
+  "time": "2026-09-20T18:27:08.358Z",
   "data": {
     "星期日": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2021-01-12",
         "backdropPath": "/kuNbZYiODIgeSwf41ReSWtlcRIz.jpg",
         "posterPath": "/967O92uCNCkZi5d8hT35ifvELcW.jpg",
-        "rating": 5.7,
+        "rating": 5.75,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/2ZiCNiuOiUGfAF0j73RI8DX1Z1N.jpg",
         "posterPath": "/m6lGrjxeiGwvErcnFTluqOTvtbA.jpg",
-        "rating": 8.9,
+        "rating": 8.125,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/u7LWdKmEdEr6Ui3GZMsFGlKZQBd.jpg",
-        "rating": 8.412,
+        "rating": 8.408,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-07-12",
         "backdropPath": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg",
         "posterPath": "/btdVYnkRuwaHOLooc5phlUImusV.jpg",
-        "rating": 8.35,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/AcriuLMhzvkSDUBzuEvns5WGe8F.jpg",
-        "rating": 6.553,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
         "posterPath": "/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-        "rating": 6.8,
+        "rating": 6.625,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/93G5xLkTan3fdkUzQVvCcf8IAMx.jpg",
         "posterPath": "/5vhYO0hMacNlyNDaYlS2HRXOtoZ.jpg",
-        "rating": 5.5,
+        "rating": 5.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
         "posterPath": "/zlDw5KbBQ9LOz5ul3zx3CKaFgFi.jpg",
-        "rating": 8.253,
+        "rating": 8.255,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -299,7 +299,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
         "posterPath": "/6RnaxEBtjFJO2jx8qx7ibMJri5H.jpg",
-        "rating": 7.273,
+        "rating": 7.25,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -364,7 +364,7 @@
         "releaseDate": "1997-01-12",
         "backdropPath": "/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
         "posterPath": "/5WLMR03uv7RJ9g2lmBInM2Pjcjg.jpg",
-        "rating": 7.396,
+        "rating": 7.398,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
-        "rating": 8.2,
+        "rating": 8.234,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -498,7 +498,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/6fRwRD7GdCfg6owzmCT3VgQtowl.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.7,
+        "rating": 8.748,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -511,7 +511,7 @@
         "releaseDate": "2017-01-06",
         "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
         "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
-        "rating": 8.218,
+        "rating": 8.216,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -536,8 +536,8 @@
         "description": "由变种人组成的X战警利用他们不可思议的天赋，保护一个痛恨又恐惧他们的世界，接受前所未有的挑战，并面临出乎意料的危险新未来。",
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-        "posterPath": "/pmNPP4TdwTXl6FgCY8ppOIu096A.jpg",
-        "rating": 8.701,
+        "posterPath": "/f0DwCOdP2YSar5Ao6dswha15oIC.jpg",
+        "rating": 8.699,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -602,7 +602,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
         "posterPath": "/pwtHWJ2yblGRJenW9THxGGDEjIZ.jpg",
-        "rating": 6.7,
+        "rating": 6.559,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -641,7 +641,7 @@
         "releaseDate": "2026-07-09",
         "backdropPath": "/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
         "posterPath": "/oWgzYbhhsU3Hepem2sjBtJof27B.jpg",
-        "rating": 8.7,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -693,7 +693,7 @@
         "releaseDate": "2017-01-06",
         "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
         "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
-        "rating": 8.218,
+        "rating": 8.216,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
@@ -851,7 +851,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.531,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -944,7 +944,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/xpTBqtyMY6YZuWuvE3yMQ2G68Fq.jpg",
         "posterPath": "/rsiaa0j80ZgD4z8QIO51gvpBMS6.jpg",
-        "rating": 7.8,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -985,7 +985,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8,
+        "rating": 8.01,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -1020,7 +1020,7 @@
         "type": "tmdb",
         "title": "死神",
         "originalTitle": "BLEACH",
-        "description": "故事的主角黑崎一护是个看似暴力、单薄，实质上善良、勇敢、爱护家庭的少年，并且拥有能看见灵的体质。家里有一个开诊所的老爸和两个性格正常的妹妹夏梨和游子，一护每天七点必须按时回家,否则老爸便会使用“身体语言教训”的家规。吵闹的父子，懂事的妹妹以及与其他普通人并无大异的普通生活，直到女死神朽木露琪亚被他一脚踢到墙角并满脸惊疑地望着他问“你能看见我？”时漫画的序幕才这样被正式地揭开。 从此黑崎一护身边所有的事物都产生了翻天覆地的变化。",
+        "description": "高中生黑崎一护意外获得死神之力，从此卷入现世、尸魂界与虚圈之间的纷争。在守护同伴的战斗中，他逐渐揭开自己的身世，并迎来决定三界命运的最终决战。",
         "releaseDate": "2004-10-05",
         "backdropPath": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
         "posterPath": "/uZM8PIaimoRxQ3vYqzpZOifGE6Y.jpg",
@@ -1037,7 +1037,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/8oDXuGfRiNPMZc1eYc9O8gIm7nb.jpg",
         "posterPath": "/6FTC8b0V0xdCQrT4929HPdPnoYo.jpg",
-        "rating": 6,
+        "rating": 5.75,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1063,7 +1063,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.5,
+        "rating": 8.489,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1076,7 +1076,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.769,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1089,7 +1089,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/6AoGMlKo2DUsYWiF5zzjdRERCVi.jpg",
         "posterPath": "/o8Jo2wBncO3wqr2sDk30ktgejcm.jpg",
-        "rating": 8.2,
+        "rating": 8.133,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1102,7 +1102,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
         "posterPath": "/xh9hNzzadcT0vn9pJMUu5SA2w0c.jpg",
-        "rating": 9.625,
+        "rating": 9.386,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1167,7 +1167,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
         "posterPath": "/A45lOrx7PJRjWrwlTAg09cUosQJ.jpg",
-        "rating": 9.1,
+        "rating": 8.778,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1193,7 +1193,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/fbn801LwOIQ04eFvPT2VNVAgZRc.jpg",
         "posterPath": "/yr6dl4TYfG9EznBmM8fUqlo3ewd.jpg",
-        "rating": 9.75,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
