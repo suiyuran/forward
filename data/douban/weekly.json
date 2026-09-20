@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-19T21:50:00.314Z",
+  "time": "2026-09-20T21:57:53.127Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
         "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-        "rating": 7.7,
+        "rating": 7.647,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 8.001,
+        "rating": 8.029,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-08-20",
         "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
         "posterPath": "/xONOMna5Z102bw0jMPBM4H73B9m.jpg",
-        "rating": 7.55,
+        "rating": 7.554,
         "mediaType": "movie",
         "genreTitle": "喜剧, 冒险"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-08-29",
         "backdropPath": "/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
         "posterPath": "/xfGeL7zbAL8R2DRl1Dpy5Ek3D5i.jpg",
-        "rating": 6.541,
+        "rating": 6.424,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-24",
         "backdropPath": "/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
         "posterPath": "/uuJLrM5ym24COGRDe2k07ZVJitb.jpg",
-        "rating": 7.1,
+        "rating": 7.115,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-08-07",
         "backdropPath": "/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
         "posterPath": "/dnpztRePQAUg4FydrwQntAOry9z.jpg",
-        "rating": 7.633,
+        "rating": 7.601,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       },
@@ -210,7 +210,7 @@
         "posterPath": "/b9ngtGNgaHBbLihRrT0MsPRY0GW.jpg",
         "rating": 9,
         "mediaType": "tv",
-        "genreTitle": "悬疑"
+        "genreTitle": "悬疑, 剧情"
       },
       {
         "id": 299952,
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.7,
+        "rating": 6.778,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -300,8 +300,8 @@
         "description": "接续布恩迪亚家族的宿命轮回，聚焦家族双胞胎后代的迥异人生与马孔多的盛极而衰。",
         "releaseDate": "2026-08-05",
         "backdropPath": "/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-        "posterPath": "/w8p5MkntL1bTI94INGLya1pHmTP.jpg",
-        "rating": 7.5,
+        "posterPath": "/9jQg0izDnzG9vb6XH8VRg1TKNYM.jpg",
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -310,7 +310,7 @@
         "type": "tmdb",
         "title": "绅士们",
         "originalTitle": "The Gentlemen",
-        "description": "自从埃迪和苏茜加入鲍比的海外犯罪帝国并联手合作，至今已经过去了一年。随着他们不断扩展势力版图，鲍比所做的决策却越来越不可靠。如今，埃迪和苏茜必须决定是否采取行动，否则可能满盘皆输，但肆无忌惮的野心，往往不会有好下场⋯⋯",
+        "description": "埃迪·霍尼曼与苏西·格拉斯联手扩大犯罪帝国，并将生意拓展至意大利。随着野心不断膨胀，两人的合作关系和与鲍比的联盟也面临考验。",
         "releaseDate": "2026-09-03",
         "backdropPath": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
         "posterPath": "/3Cs3g8GBeMqR9p8rKeACqPLst9Q.jpg",
@@ -327,7 +327,7 @@
         "releaseDate": "2026-07-27",
         "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
         "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.3,
+        "rating": 7.347,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -349,11 +349,11 @@
         "type": "tmdb",
         "title": "绿灯军团",
         "originalTitle": "Lanterns",
-        "description": "跟随约翰·斯图尔特与绿灯军团传奇哈尔·乔丹的脚步，看这两位星际警察如何深入美国腹地，调查一起谋杀命案。",
+        "description": "绿灯侠哈尔·乔丹与新晋成员约翰·斯图尔特奉命调查美国小镇的一起神秘命案，却意外发现案件背后隐藏着与外星势力有关的阴谋，两人也在追查真相的过程中面对各自的信念与考验。",
         "releaseDate": "2026-08-16",
         "backdropPath": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
         "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.249,
+        "rating": 8.273,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -362,7 +362,7 @@
         "type": "tmdb",
         "title": "末日地堡",
         "originalTitle": "Silo",
-        "description": "第三季讲述了一个设定在数百年前的起源故事，同时延续了关于一万人在神秘环境下生活于地下的反乌托邦社会的传奇。在当下，朱丽叶·尼科尔斯在被迫的“清洁”中幸存下来，但带着失忆返回，此时地堡正从叛乱中恢复，并面临一个危险的新威胁。与此同时，在“旧时代”，记者海伦·德鲁和国会议员丹尼尔·基恩发现了一个阴谋，将他们卷入一连串具有灾难性、不可逆转后果的事件中。",
+        "description": "朱丽叶·尼科尔斯带着失去的记忆回归，地堡在叛乱后面临新的威胁；与此同时，故事追溯数百年前的重大事件。",
         "releaseDate": "2026-07-02",
         "backdropPath": "/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
         "posterPath": "/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
@@ -375,11 +375,11 @@
         "type": "tmdb",
         "title": "Dark Matter",
         "originalTitle": "Dark Matter",
-        "description": "德森一家看似重获平静，却因突发事件再次踏上逃亡之路。杰森对“盒子”的痴迷加深，丹妮拉陷入偏执；与此同时，阿曼达与瑞恩寻找回家之路，布莱尔试图阻止杰森，而 莱顿则执着于创造“完美世界”。",
+        "description": "德森一家看似重获平静，却因突发事件再次踏上逃亡之路。杰森对“盒子”的痴迷加深，丹妮拉陷入偏执；与此同时，阿曼达与瑞恩寻找回家之路，布莱尔试图阻止杰森，而莱顿则执着于创造“完美世界”。",
         "releaseDate": "2026-08-27",
         "backdropPath": "/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
         "posterPath": "/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-        "rating": 8.4,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -392,7 +392,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
-        "rating": 8.2,
+        "rating": 8.234,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
