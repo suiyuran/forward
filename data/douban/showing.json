@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-20T19:17:26.846Z",
+  "time": "2026-09-21T20:51:36.275Z",
   "data": [
     {
       "id": 414419,
@@ -36,7 +36,7 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.016,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -49,7 +49,7 @@
       "releaseDate": "2026-07-24",
       "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
       "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
-      "rating": 7,
+      "rating": 6,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
     },
@@ -93,19 +93,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落2：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "releaseDate": "2026-09-01",
-      "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6.8,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
-    },
-    {
       "id": 278,
       "type": "tmdb",
       "title": "肖申克的救赎",
@@ -119,6 +106,19 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
+      "id": 1101412,
+      "type": "tmdb",
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "releaseDate": "2026-09-01",
+      "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "rating": 6.8,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
+    },
+    {
       "id": 1444590,
       "type": "tmdb",
       "title": "燃烧吧！爸爸",
@@ -130,6 +130,19 @@
       "rating": 5,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1101383,
+      "type": "tmdb",
+      "title": "逃出绝命街",
+      "originalTitle": "The End of Oak Street",
+      "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
+      "releaseDate": "2026-08-12",
+      "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "posterPath": "/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
+      "rating": 7.002,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 悬疑"
     },
     {
       "id": 1761059,
@@ -166,9 +179,22 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 6.443,
+      "rating": 6.4,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
+    },
+    {
+      "id": 1176962,
+      "type": "tmdb",
+      "title": "罗斯",
+      "originalTitle": "Rose",
+      "description": "17世纪初，德国某地，一名神秘士兵来到偏僻的新教村庄。他身材瘦小，性格内敛，面部留有一道疤痕，这个陌生人自称是废弃农庄的继承人，并向心存疑虑的村民出示了一份文件以证明他的说法。随着时间推移，他逐渐打消了村民的疑虑，并凭借勤劳和虔诚，融入社区。然而，他所获得的接纳却建立在一个弥天大谎之上。",
+      "releaseDate": "2026-04-17",
+      "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
+      "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
+      "rating": 7.611,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1716541,
@@ -192,22 +218,9 @@
       "releaseDate": "2026-07-29",
       "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.9,
+      "rating": 7.858,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
-    },
-    {
-      "id": 1176962,
-      "type": "tmdb",
-      "title": "罗斯",
-      "originalTitle": "Rose",
-      "description": "17世纪初，德国某地，一名神秘士兵来到偏僻的新教村庄。他身材瘦小，性格内敛，面部留有一道疤痕，这个陌生人自称是废弃农庄的继承人，并向心存疑虑的村民出示了一份文件以证明他的说法。随着时间推移，他逐渐打消了村民的疑虑，并凭借勤劳和虔诚，融入社区。然而，他所获得的接纳却建立在一个弥天大谎之上。",
-      "releaseDate": "2026-04-17",
-      "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-      "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-      "rating": 7.647,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 10681,
@@ -218,22 +231,22 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.1,
+      "rating": 8.124,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
     {
-      "id": 1353926,
+      "id": 1502135,
       "type": "tmdb",
-      "title": "特立独行",
-      "originalTitle": "特立独行",
-      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
-      "releaseDate": "2026-07-03",
-      "backdropPath": "/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
-      "posterPath": "/dWtKXfN97AMW5n3S6QoUVUMCU2S.jpg",
-      "rating": 6.7,
+      "title": "密档",
+      "originalTitle": "密档",
+      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
+      "releaseDate": "2026-08-28",
+      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
+      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
+      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 1633056,
@@ -262,17 +275,17 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 1502135,
+      "id": 1353926,
       "type": "tmdb",
-      "title": "密档",
-      "originalTitle": "密档",
-      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
-      "releaseDate": "2026-08-28",
-      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
-      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
-      "rating": 0,
+      "title": "特立独行",
+      "originalTitle": "特立独行",
+      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
+      "releaseDate": "2026-07-03",
+      "backdropPath": "/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
+      "posterPath": "/dWtKXfN97AMW5n3S6QoUVUMCU2S.jpg",
+      "rating": 6.7,
       "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
+      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1724637,
@@ -327,32 +340,6 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
-      "id": 1550321,
-      "type": "tmdb",
-      "title": "浪花儿",
-      "originalTitle": "浪花儿",
-      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
-      "posterPath": "/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1083381,
-      "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "releaseDate": "2026-05-27",
-      "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 悬疑"
-    },
-    {
       "id": 1491920,
       "type": "tmdb",
       "title": "功夫女足",
@@ -366,15 +353,28 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 592402,
+      "id": 1083381,
       "type": "tmdb",
-      "title": "大熊雨林",
-      "originalTitle": "Great Bear Rainforest: Land of the Spirit Bear",
-      "description": "这里是世界上最原始最原生态的一片雨林，被悉心的保护和照料，这里也是这些动物们未被打扰的家园。大熊雨林位于加拿大不列颠哥伦比亚省的太平洋海岸，是世界上最后一片完整的温带雨林，占地640万公顷，也是世界上最大的沿海温带雨林。几千年以来，这里一直受到当地的土著民的保护，这部影片中，我们将在IMAX的巨幕之下，跟着拍摄团队，第一次走进这片未被打扰的隐藏地带，探寻美洲狮、灰熊、鲑鱼、海岸狼、还她等野生动物，还有最稀有的熊-白灵熊，也叫做克默德熊。",
-      "releaseDate": "2019-02-15",
-      "backdropPath": null,
-      "posterPath": "/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
-      "rating": 9,
+      "title": "后室",
+      "originalTitle": "Backrooms",
+      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+      "releaseDate": "2026-05-27",
+      "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+      "rating": 7.032,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 悬疑"
+    },
+    {
+      "id": 1550321,
+      "type": "tmdb",
+      "title": "浪花儿",
+      "originalTitle": "浪花儿",
+      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
+      "posterPath": "/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
+      "rating": 0,
       "mediaType": "movie",
       "genreTitle": "纪录"
     },
@@ -387,22 +387,9 @@
       "releaseDate": "2026-05-28",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.675,
+      "rating": 7.69,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 7.9,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1604133,
@@ -418,17 +405,43 @@
       "genreTitle": "历史, 战争"
     },
     {
-      "id": 1770256,
+      "id": 592402,
       "type": "tmdb",
-      "title": "老师您辛苦了",
-      "originalTitle": "老师您辛苦了",
-      "description": "知名网络公司总裁王小川在回国参加儿子初中开学典礼演讲时回忆起年少时期被冠以问题少年聚集地的初三（2）班与班主任田老师之间一段青葱岁月的成长过往。",
-      "releaseDate": "2026-09-07",
+      "title": "大熊雨林",
+      "originalTitle": "Great Bear Rainforest: Land of the Spirit Bear",
+      "description": "这里是世界上最原始最原生态的一片雨林，被悉心的保护和照料，这里也是这些动物们未被打扰的家园。大熊雨林位于加拿大不列颠哥伦比亚省的太平洋海岸，是世界上最后一片完整的温带雨林，占地640万公顷，也是世界上最大的沿海温带雨林。几千年以来，这里一直受到当地的土著民的保护，这部影片中，我们将在IMAX的巨幕之下，跟着拍摄团队，第一次走进这片未被打扰的隐藏地带，探寻美洲狮、灰熊、鲑鱼、海岸狼、还她等野生动物，还有最稀有的熊-白灵熊，也叫做克默德熊。",
+      "releaseDate": "2019-02-15",
       "backdropPath": null,
-      "posterPath": "/qlxd2aIBxgTV7PnhMbFTewLrPje.jpg",
+      "posterPath": "/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
+      "rating": 9,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 736212,
+      "type": "tmdb",
+      "title": "歌声缘何慢半拍",
+      "originalTitle": "歌声缘何慢半拍",
+      "description": "少小离家老大回，乡音无改鬓毛衰。离开故乡多年后，军胜踏上回家的归途。年近五 十的军胜家住河南安阳一个村庄，多年后已经发生了近乎沧海桑田的变化。他在众人的围观中见到了老母亲，心有愧疚的军胜拉着母亲给去世的父亲上坟。他去镇上给母亲买来烧鸡，为母亲排忧解难。在和本村村民的相处中，军胜浪荡的个性逐渐消退，他开始认真思考自己的下半生。在亲戚的帮助下，军胜得到了一个在小学工作的机会。在工作中，军胜获得了精神上的尊重和满足。伴随着新农村的建设，老学校搬迁到新校址。军胜的学校生涯告一段落，他接受了生活给他新的安排，又一次离开家乡满怀希望。",
+      "releaseDate": "2026-09-08",
+      "backdropPath": "/4JELCsRY1nCeomckhZa5waPixtE.jpg",
+      "posterPath": "/h8nBh0SSDOMtZsDZBBPp6zhYIxP.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 7.942,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1563614,
@@ -470,19 +483,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 736212,
-      "type": "tmdb",
-      "title": "歌声缘何慢半拍",
-      "originalTitle": "歌声缘何慢半拍",
-      "description": "少小离家老大回，乡音无改鬓毛衰。离开故乡多年后，军胜踏上回家的归途。年近五 十的军胜家住河南安阳一个村庄，多年后已经发生了近乎沧海桑田的变化。他在众人的围观中见到了老母亲，心有愧疚的军胜拉着母亲给去世的父亲上坟。他去镇上给母亲买来烧鸡，为母亲排忧解难。在和本村村民的相处中，军胜浪荡的个性逐渐消退，他开始认真思考自己的下半生。在亲戚的帮助下，军胜得到了一个在小学工作的机会。在工作中，军胜获得了精神上的尊重和满足。伴随着新农村的建设，老学校搬迁到新校址。军胜的学校生涯告一段落，他接受了生活给他新的安排，又一次离开家乡满怀希望。",
-      "releaseDate": "2026-09-08",
-      "backdropPath": "/4JELCsRY1nCeomckhZa5waPixtE.jpg",
-      "posterPath": "/h8nBh0SSDOMtZsDZBBPp6zhYIxP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1760508,
       "type": "tmdb",
       "title": "正义必胜",
@@ -491,32 +491,6 @@
       "releaseDate": "2026-09-03",
       "backdropPath": null,
       "posterPath": "/6TU1Z0GGldytyl39zIttaFYqOZu.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "releaseDate": "2026-06-24",
-      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.545,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动画"
-    },
-    {
-      "id": 1761208,
-      "type": "tmdb",
-      "title": "主场",
-      "originalTitle": "主场",
-      "description": "这是中国首部大学生体育题材纪录电影，讲述2025年秋天，国际大体联足球世界杯在大连举行。来自17个国家的24所高校、数百名大学生运动员齐聚“足球城”，以校际对抗的形式，展开62场青春对决。 影片真实纪录了中国四支高校代表队的征程：北师大女足在多名国字号主力被职业联赛征调的困境中残阵出战；上海体育大学女足强势夺金；首次登上世界舞台的北航男足面对欧美强敌，在补时阶段完成惊天逆转；延边大学为荣誉热血拼搏。 这是一部关于信念的青春宣言，当女足队员在冰疗池中咬牙坚持、当小伙子们在少一人的绝境中拼到抽筋、当落后两球的北航在最后八分钟连扳四球——“哨声未响，奇迹不灭”，这是中国大学生写给世界的拼搏答案。赛场之外，各国青年在武术、茶道中触摸中华文明，在相视一笑中种下友谊。影片以最真实的镜头，展现了中国卓越的办赛能力、开放包容的国家形象，以及当代青年身上那股压不垮、不服输的精气神。",
-      "releaseDate": "2026-09-16",
-      "backdropPath": "/d1ZFcViaWkMIkLsVQwhbYciyd6D.jpg",
-      "posterPath": "/jAnLfmu4jeydpOjIgQY2FmQw10i.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "纪录"
@@ -535,17 +509,56 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 110,
+      "id": 1770256,
       "type": "tmdb",
-      "title": "蓝白红三部曲之红",
-      "originalTitle": "Trois couleurs : Rouge",
-      "description": "克日什托夫·基耶斯洛夫斯基以宏大篇章为其《蓝白红三部曲》落下帷幕，在《红》中展开一场关于命运与偶然的炽热沉思。伊莲娜·雅各布饰演一位内心纯净却带着忧郁的日内瓦时装模特，她的人生轨迹与让-路易·特兰蒂尼昂饰演的愤世嫉俗的退休法官戏剧性地交汇。与此同时，仅隔数条街外，一场看似无关的嫉妒与背叛故事正在上演。本片以细腻笔触勾勒人与人之间意外的联结，堪称这位杰出导演在创作巅峰时期谱写的一曲辉煌终章。",
-      "releaseDate": "1994-05-12",
-      "backdropPath": "/xkk7cqXFzY4aCCG5AYWZCFQFbIX.jpg",
-      "posterPath": "/5fkgMKovYZgbGngbHJg19zmsSaT.jpg",
-      "rating": 7.888,
+      "title": "老师您辛苦了",
+      "originalTitle": "老师您辛苦了",
+      "description": "知名网络公司总裁王小川在回国参加儿子初中开学典礼演讲时回忆起年少时期被冠以问题少年聚集地的初三（2）班与班主任田老师之间一段青葱岁月的成长过往。",
+      "releaseDate": "2026-09-07",
+      "backdropPath": null,
+      "posterPath": "/qlxd2aIBxgTV7PnhMbFTewLrPje.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1761208,
+      "type": "tmdb",
+      "title": "主场",
+      "originalTitle": "主场",
+      "description": "这是中国首部大学生体育题材纪录电影，讲述2025年秋天，国际大体联足球世界杯在大连举行。来自17个国家的24所高校、数百名大学生运动员齐聚“足球城”，以校际对抗的形式，展开62场青春对决。 影片真实纪录了中国四支高校代表队的征程：北师大女足在多名国字号主力被职业联赛征调的困境中残阵出战；上海体育大学女足强势夺金；首次登上世界舞台的北航男足面对欧美强敌，在补时阶段完成惊天逆转；延边大学为荣誉热血拼搏。 这是一部关于信念的青春宣言，当女足队员在冰疗池中咬牙坚持、当小伙子们在少一人的绝境中拼到抽筋、当落后两球的北航在最后八分钟连扳四球——“哨声未响，奇迹不灭”，这是中国大学生写给世界的拼搏答案。赛场之外，各国青年在武术、茶道中触摸中华文明，在相视一笑中种下友谊。影片以最真实的镜头，展现了中国卓越的办赛能力、开放包容的国家形象，以及当代青年身上那股压不垮、不服输的精气神。",
+      "releaseDate": "2026-09-16",
+      "backdropPath": "/d1ZFcViaWkMIkLsVQwhbYciyd6D.jpg",
+      "posterPath": "/jAnLfmu4jeydpOjIgQY2FmQw10i.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1315772,
+      "type": "tmdb",
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "releaseDate": "2026-06-24",
+      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "rating": 7.555,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动画"
+    },
+    {
+      "id": 1714841,
+      "type": "tmdb",
+      "title": "关索岭",
+      "originalTitle": "关索岭",
+      "description": "丁虎和沈啸飞是八百年前明军的后裔，先后爱上了采茶女金儿。他们生活在宁静的田园中，由于居住的屯堡位于交通要塞，这里成为了日军攻占的重要目标。面对外敌入侵，丁虎和沈啸飞毅摒弃前嫌，民族大义高于个人恩怨。他们以关索岭为中心，带领乡亲们奋勇抵抗，最终全歼了一股携带机密测绘地图的敌人。",
+      "releaseDate": "2026-06-25",
+      "backdropPath": "/luW1QPoiBpasSH2AeEgap5ZWB8Z.jpg",
+      "posterPath": "/hPBNYaVAwouAhLu2RpPxXZxKBvn.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动作, 历史"
     },
     {
       "id": 68883,
@@ -559,6 +572,19 @@
       "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "剧情, 奇幻"
+    },
+    {
+      "id": 1628,
+      "type": "tmdb",
+      "title": "祖与占",
+      "originalTitle": "Jules et Jim",
+      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
+      "releaseDate": "1962-01-23",
+      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
+      "rating": 7.529,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1713529,
@@ -587,19 +613,6 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 1628,
-      "type": "tmdb",
-      "title": "祖与占",
-      "originalTitle": "Jules et Jim",
-      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
-      "releaseDate": "1962-01-23",
-      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
-      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
-      "rating": 7.534,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
       "id": 4024,
       "type": "tmdb",
       "title": "去年在马里昂巴德",
@@ -608,9 +621,22 @@
       "releaseDate": "1961-09-29",
       "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
       "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
-      "rating": 7.441,
+      "rating": 7.442,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 168259,
+      "type": "tmdb",
+      "title": "速度与激情7",
+      "originalTitle": "Furious 7",
+      "description": "经历了紧张刺激的伦敦大战，多米尼克·托莱多（范·迪塞尔 Vin Diesel 饰）和他的伙伴们重新回归平静的生活，但是江湖的恩恩怨怨却决不允许他们轻易抽身而去。棘手的死对头欧文·肖瘫在医院，不得动弹，他的哥哥戴克·肖（杰森·斯坦森 Jason Stantham 饰）则发誓要为弟弟复仇。戴克曾是英国特种部队的王牌杀手，不仅身怀绝技，而且心狠手辣。他干掉了远在东京的韩，还几乎把探长卢克·霍布斯（道恩·强森 Dwayne Johnson 饰）送到另一个世界，甚至多米尼克那世外桃源般的家也被对方炸毁。复仇的利刃已经架在脖子上，多米尼克再也没有选择，他找到长久以来最为信赖的团队，与来势汹汹的戴克展开生死对决……",
+      "releaseDate": "2015-04-01",
+      "backdropPath": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+      "posterPath": "/tUO7TJ0CxMpAI1zcbiojOOmleXr.jpg",
+      "rating": 7.212,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 34838,
@@ -624,32 +650,6 @@
       "rating": 6.348,
       "mediaType": "movie",
       "genreTitle": "剧情, 音乐"
-    },
-    {
-      "id": 1180196,
-      "type": "tmdb",
-      "title": "里克尔",
-      "originalTitle": "Rickerl - Musik is höchstens a Hobby",
-      "description": "故事的主人公 Erich “Rickerl” Bohacek 靠演唱歌曲赚取小费，梦想着一鸣惊人。同时，他也在努力成为儿子Dominik的好父亲，但他发现很难与儿子建立良好的关系。当Rickerl面临永远失去Dominik的危险时，他才意识到必须从根本上改变自己的生活。",
-      "releaseDate": "2023-10-27",
-      "backdropPath": "/bGJUn8p5RdFGgjjt982r4hRf6Wb.jpg",
-      "posterPath": "/7cAc6dIyDBfF0tktHDAIA5cBKAm.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 4173,
-      "type": "tmdb",
-      "title": "火山边缘之恋",
-      "originalTitle": "Stromboli (Terra di Dio)",
-      "description": "卡琳战争结束时住在意大利的一个难民营里，她没有钱离开那儿去别处谋生，在难民营她遇到了意大利士兵安东尼奥并和他结了婚，随他回到了家乡斯特隆波岛。在荒凉的火山岛上，当地人的生活习惯和习俗让卡琳感到非常失落，她所做的一切都被认为是有悖民风的，是个坏女人，卡琳想逃离海岛，她逃到了火山上，昏迷后醒来，孤独的她唯有祈求上帝给他帮助和启示……",
-      "releaseDate": "1950-02-15",
-      "backdropPath": "/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
-      "posterPath": "/7YEX2VP3YXxUNo3YvfbSiDYZTX4.jpg",
-      "rating": 7.102,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1330272,
@@ -678,15 +678,41 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1028378,
+      "id": 4173,
       "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
+      "title": "火山边缘之恋",
+      "originalTitle": "Stromboli (Terra di Dio)",
+      "description": "卡琳战争结束时住在意大利的一个难民营里，她没有钱离开那儿去别处谋生，在难民营她遇到了意大利士兵安东尼奥并和他结了婚，随他回到了家乡斯特隆波岛。在荒凉的火山岛上，当地人的生活习惯和习俗让卡琳感到非常失落，她所做的一切都被认为是有悖民风的，是个坏女人，卡琳想逃离海岛，她逃到了火山上，昏迷后醒来，孤独的她唯有祈求上帝给他帮助和启示……",
+      "releaseDate": "1950-02-15",
+      "backdropPath": "/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
+      "posterPath": "/7YEX2VP3YXxUNo3YvfbSiDYZTX4.jpg",
+      "rating": 7.102,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1180196,
+      "type": "tmdb",
+      "title": "里克尔",
+      "originalTitle": "Rickerl - Musik is höchstens a Hobby",
+      "description": "故事的主人公 Erich “Rickerl” Bohacek 靠演唱歌曲赚取小费，梦想着一鸣惊人。同时，他也在努力成为儿子Dominik的好父亲，但他发现很难与儿子建立良好的关系。当Rickerl面临永远失去Dominik的危险时，他才意识到必须从根本上改变自己的生活。",
+      "releaseDate": "2023-10-27",
+      "backdropPath": "/bGJUn8p5RdFGgjjt982r4hRf6Wb.jpg",
+      "posterPath": "/7cAc6dIyDBfF0tktHDAIA5cBKAm.jpg",
+      "rating": 7.471,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
       "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.667,
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
       "mediaType": "movie",
       "genreTitle": "纪录"
     },
@@ -704,15 +730,15 @@
       "genreTitle": "电视电影"
     },
     {
-      "id": 1147747,
+      "id": 1028378,
       "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
       "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 7.667,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
