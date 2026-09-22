@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-21T20:51:36.275Z",
+  "time": "2026-09-22T20:02:02.628Z",
   "data": [
     {
       "id": 414419,
@@ -36,22 +36,9 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8,
+      "rating": 8.017,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
-    },
-    {
-      "id": 1541125,
-      "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
-      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1391021,
@@ -78,6 +65,19 @@
       "rating": 5.7,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
+    },
+    {
+      "id": 1541125,
+      "type": "tmdb",
+      "title": "年会不能停！2",
+      "originalTitle": "年会不能停！2",
+      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
+      "releaseDate": "2026-07-24",
+      "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
+      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1306055,
@@ -114,7 +114,7 @@
       "releaseDate": "2026-09-01",
       "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6.8,
+      "rating": 6.6,
       "mediaType": "movie",
       "genreTitle": "惊悚"
     },
@@ -132,19 +132,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1101383,
-      "type": "tmdb",
-      "title": "逃出绝命街",
-      "originalTitle": "The End of Oak Street",
-      "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
-      "releaseDate": "2026-08-12",
-      "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "posterPath": "/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
-      "rating": 7.002,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 悬疑"
-    },
-    {
       "id": 1761059,
       "type": "tmdb",
       "title": "一路超平安",
@@ -156,6 +143,45 @@
       "rating": 5,
       "mediaType": "movie",
       "genreTitle": "喜剧"
+    },
+    {
+      "id": 1101383,
+      "type": "tmdb",
+      "title": "逃出绝命街",
+      "originalTitle": "The End of Oak Street",
+      "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
+      "releaseDate": "2026-08-12",
+      "backdropPath": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "posterPath": "/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
+      "rating": 7.019,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 悬疑"
+    },
+    {
+      "id": 1176962,
+      "type": "tmdb",
+      "title": "罗斯",
+      "originalTitle": "Rose",
+      "description": "17世纪初，德国某地，一名神秘士兵来到偏僻的新教村庄。他身材瘦小，性格内敛，面部留有一道疤痕，这个陌生人自称是废弃农庄的继承人，并向心存疑虑的村民出示了一份文件以证明他的说法。随着时间推移，他逐渐打消了村民的疑虑，并凭借勤劳和虔诚，融入社区。然而，他所获得的接纳却建立在一个弥天大谎之上。",
+      "releaseDate": "2026-04-17",
+      "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
+      "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
+      "rating": 7.622,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1288445,
+      "type": "tmdb",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "rating": 6.427,
+      "mediaType": "movie",
+      "genreTitle": "动作, 惊悚"
     },
     {
       "id": 1748007,
@@ -171,45 +197,6 @@
       "genreTitle": "动画, 冒险"
     },
     {
-      "id": 1288445,
-      "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 6.4,
-      "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
-    },
-    {
-      "id": 1176962,
-      "type": "tmdb",
-      "title": "罗斯",
-      "originalTitle": "Rose",
-      "description": "17世纪初，德国某地，一名神秘士兵来到偏僻的新教村庄。他身材瘦小，性格内敛，面部留有一道疤痕，这个陌生人自称是废弃农庄的继承人，并向心存疑虑的村民出示了一份文件以证明他的说法。随着时间推移，他逐渐打消了村民的疑虑，并凭借勤劳和虔诚，融入社区。然而，他所获得的接纳却建立在一个弥天大谎之上。",
-      "releaseDate": "2026-04-17",
-      "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-      "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-      "rating": 7.611,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1716541,
-      "type": "tmdb",
-      "title": "我想留在你身边",
-      "originalTitle": "我想留在你身边",
-      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
-      "posterPath": "/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
-      "rating": 4,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 奇幻"
-    },
-    {
       "id": 969681,
       "type": "tmdb",
       "title": "蜘蛛侠：崭新之日",
@@ -218,7 +205,7 @@
       "releaseDate": "2026-07-29",
       "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.858,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -236,6 +223,19 @@
       "genreTitle": "动画, 家庭"
     },
     {
+      "id": 1716541,
+      "type": "tmdb",
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "posterPath": "/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "rating": 4,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 奇幻"
+    },
+    {
       "id": 1502135,
       "type": "tmdb",
       "title": "密档",
@@ -249,6 +249,19 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
+      "rating": 8.194,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
       "id": 1633056,
       "type": "tmdb",
       "title": "八仙！",
@@ -260,19 +273,6 @@
       "rating": 7.963,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
-    },
-    {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.192,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1353926,
@@ -314,19 +314,6 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 1630030,
-      "type": "tmdb",
-      "title": "大唐妖探",
-      "originalTitle": "大唐妖探",
-      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
-      "releaseDate": "2026-08-08",
-      "backdropPath": "/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
-      "posterPath": "/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
-      "rating": 5.5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动画"
-    },
-    {
       "id": 1655500,
       "type": "tmdb",
       "title": "床下有人4",
@@ -338,6 +325,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
+    },
+    {
+      "id": 1630030,
+      "type": "tmdb",
+      "title": "大唐妖探",
+      "originalTitle": "大唐妖探",
+      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
+      "releaseDate": "2026-08-08",
+      "backdropPath": "/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+      "posterPath": "/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
+      "rating": 5.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动画"
     },
     {
       "id": 1491920,
@@ -353,19 +353,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1083381,
-      "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "releaseDate": "2026-05-27",
-      "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.032,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 悬疑"
-    },
-    {
       "id": 1550321,
       "type": "tmdb",
       "title": "浪花儿",
@@ -379,6 +366,32 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 1249152,
+      "type": "tmdb",
+      "title": "四减三",
+      "originalTitle": "Vier minus drei",
+      "description": "芭芭拉和伴侣海利与两个孩子，过着幸福美满的家庭生活。两人身为职业小丑，从不把人生过得太过沉重，遭遇任何不顺都一笑置之。但一场惨烈车祸夺走了海利和孩子们的生命，只留下芭芭拉孤身一人。至亲离世让她开始怀疑自己一直信奉的幽默与希望，也陷入对生命意义的迷茫。慢慢一路走来，她终于懂得：纵使历经重创，生活依然会继续 —— 只要你有勇气重新拥抱人生。",
+      "releaseDate": "2026-03-06",
+      "backdropPath": "/sVTrej8EtW6TtSQPuvtZumikGYO.jpg",
+      "posterPath": "/csD0WO0FFLmeqohCiTbOGZmSBEw.jpg",
+      "rating": 8.2,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1083381,
+      "type": "tmdb",
+      "title": "后室",
+      "originalTitle": "Backrooms",
+      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+      "releaseDate": "2026-05-27",
+      "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+      "rating": 7.034,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 悬疑"
+    },
+    {
       "id": 1318413,
       "type": "tmdb",
       "title": "诺曼底72小时",
@@ -387,7 +400,7 @@
       "releaseDate": "2026-05-28",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.69,
+      "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
     },
@@ -439,7 +452,7 @@
       "releaseDate": "2026-07-23",
       "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 7.942,
+      "rating": 7.973,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -465,20 +478,7 @@
       "releaseDate": "2022-10-21",
       "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
       "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1249152,
-      "type": "tmdb",
-      "title": "四减三",
-      "originalTitle": "Vier minus drei",
-      "description": "芭芭拉和伴侣海利与两个孩子，过着幸福美满的家庭生活。两人身为职业小丑，从不把人生过得太过沉重，遭遇任何不顺都一笑置之。但一场惨烈车祸夺走了海利和孩子们的生命，只留下芭芭拉孤身一人。至亲离世让她开始怀疑自己一直信奉的幽默与希望，也陷入对生命意义的迷茫。慢慢一路走来，她终于懂得：纵使历经重创，生活依然会继续 —— 只要你有勇气重新拥抱人生。",
-      "releaseDate": "2026-03-06",
-      "backdropPath": "/sVTrej8EtW6TtSQPuvtZumikGYO.jpg",
-      "posterPath": "/csD0WO0FFLmeqohCiTbOGZmSBEw.jpg",
-      "rating": 8.2,
+      "rating": 7.648,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -509,19 +509,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1770256,
-      "type": "tmdb",
-      "title": "老师您辛苦了",
-      "originalTitle": "老师您辛苦了",
-      "description": "知名网络公司总裁王小川在回国参加儿子初中开学典礼演讲时回忆起年少时期被冠以问题少年聚集地的初三（2）班与班主任田老师之间一段青葱岁月的成长过往。",
-      "releaseDate": "2026-09-07",
-      "backdropPath": null,
-      "posterPath": "/qlxd2aIBxgTV7PnhMbFTewLrPje.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1761208,
       "type": "tmdb",
       "title": "主场",
@@ -543,22 +530,35 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.555,
+      "rating": 7.553,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
     {
-      "id": 1714841,
+      "id": 1770256,
       "type": "tmdb",
-      "title": "关索岭",
-      "originalTitle": "关索岭",
-      "description": "丁虎和沈啸飞是八百年前明军的后裔，先后爱上了采茶女金儿。他们生活在宁静的田园中，由于居住的屯堡位于交通要塞，这里成为了日军攻占的重要目标。面对外敌入侵，丁虎和沈啸飞毅摒弃前嫌，民族大义高于个人恩怨。他们以关索岭为中心，带领乡亲们奋勇抵抗，最终全歼了一股携带机密测绘地图的敌人。",
-      "releaseDate": "2026-06-25",
-      "backdropPath": "/luW1QPoiBpasSH2AeEgap5ZWB8Z.jpg",
-      "posterPath": "/hPBNYaVAwouAhLu2RpPxXZxKBvn.jpg",
+      "title": "老师您辛苦了",
+      "originalTitle": "老师您辛苦了",
+      "description": "知名网络公司总裁王小川在回国参加儿子初中开学典礼演讲时回忆起年少时期被冠以问题少年聚集地的初三（2）班与班主任田老师之间一段青葱岁月的成长过往。",
+      "releaseDate": "2026-09-07",
+      "backdropPath": null,
+      "posterPath": "/qlxd2aIBxgTV7PnhMbFTewLrPje.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动作, 历史"
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1148213,
+      "type": "tmdb",
+      "title": "喜欢高兴爱",
+      "originalTitle": "喜欢高兴爱",
+      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
+      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 68883,
@@ -574,6 +574,19 @@
       "genreTitle": "剧情, 奇幻"
     },
     {
+      "id": 1713529,
+      "type": "tmdb",
+      "title": "想你了",
+      "originalTitle": "想你了",
+      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
+      "releaseDate": "2026-07-17",
+      "backdropPath": "/2UC691pg5qNavMThV3e903BbkCy.jpg",
+      "posterPath": "/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1628,
       "type": "tmdb",
       "title": "祖与占",
@@ -587,17 +600,17 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 1713529,
+      "id": 168259,
       "type": "tmdb",
-      "title": "想你了",
-      "originalTitle": "想你了",
-      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
-      "releaseDate": "2026-07-17",
-      "backdropPath": "/2UC691pg5qNavMThV3e903BbkCy.jpg",
-      "posterPath": "/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
-      "rating": 7,
+      "title": "速度与激情7",
+      "originalTitle": "Furious 7",
+      "description": "经历了紧张刺激的伦敦大战，多米尼克·托莱多（范·迪塞尔 Vin Diesel 饰）和他的伙伴们重新回归平静的生活，但是江湖的恩恩怨怨却决不允许他们轻易抽身而去。棘手的死对头欧文·肖瘫在医院，不得动弹，他的哥哥戴克·肖（杰森·斯坦森 Jason Stantham 饰）则发誓要为弟弟复仇。戴克曾是英国特种部队的王牌杀手，不仅身怀绝技，而且心狠手辣。他干掉了远在东京的韩，还几乎把探长卢克·霍布斯（道恩·强森 Dwayne Johnson 饰）送到另一个世界，甚至多米尼克那世外桃源般的家也被对方炸毁。复仇的利刃已经架在脖子上，多米尼克再也没有选择，他找到长久以来最为信赖的团队，与来势汹汹的戴克展开生死对决……",
+      "releaseDate": "2015-04-01",
+      "backdropPath": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+      "posterPath": "/tUO7TJ0CxMpAI1zcbiojOOmleXr.jpg",
+      "rating": 7.212,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 8073,
@@ -621,35 +634,9 @@
       "releaseDate": "1961-09-29",
       "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
       "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
-      "rating": 7.442,
+      "rating": 7.439,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 168259,
-      "type": "tmdb",
-      "title": "速度与激情7",
-      "originalTitle": "Furious 7",
-      "description": "经历了紧张刺激的伦敦大战，多米尼克·托莱多（范·迪塞尔 Vin Diesel 饰）和他的伙伴们重新回归平静的生活，但是江湖的恩恩怨怨却决不允许他们轻易抽身而去。棘手的死对头欧文·肖瘫在医院，不得动弹，他的哥哥戴克·肖（杰森·斯坦森 Jason Stantham 饰）则发誓要为弟弟复仇。戴克曾是英国特种部队的王牌杀手，不仅身怀绝技，而且心狠手辣。他干掉了远在东京的韩，还几乎把探长卢克·霍布斯（道恩·强森 Dwayne Johnson 饰）送到另一个世界，甚至多米尼克那世外桃源般的家也被对方炸毁。复仇的利刃已经架在脖子上，多米尼克再也没有选择，他找到长久以来最为信赖的团队，与来势汹汹的戴克展开生死对决……",
-      "releaseDate": "2015-04-01",
-      "backdropPath": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
-      "posterPath": "/tUO7TJ0CxMpAI1zcbiojOOmleXr.jpg",
-      "rating": 7.212,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 34838,
-      "type": "tmdb",
-      "title": "探戈课",
-      "originalTitle": "The Tango Lesson",
-      "description": "电影导演莎莉（莎莉·波特 Sally Potter 饰）在创作新剧本时遇到了灵感堵塞，她烦恼不已，却又无济于事。在观看一场激情肆意的探戈舞演出后，莎莉被深深感染，仿佛找到了一些灵感。她决心暂时抛下工作，开始学习探戈舞。她去巴黎旅行遇上了有名的探戈舞者帕布罗，被他的舞蹈所吸引。于是提出让他在自己的下部电影里演出，以帕布罗教她跳舞作为交换条件。莎莉越来越沉迷于探戈舞，在与帕布罗学习探戈的过程中，他们彼此爱上了对方。但来自不同文化背景的两人，性格有着极大的反差：来自南美的帕布罗有着强烈的控制欲，他习惯掌控选舞、音乐等一切细节，甚至包括与莎莉的爱情；而作为女性主义者的莎莉却是决定帕布罗参与她的影片的关键人。两人之间的关系时而紧张，时而悠然，一场爱情之战悄悄开始。",
-      "releaseDate": "1997-11-28",
-      "backdropPath": "/8UepZvv8uGXa5x6v5hrNTlkTBPJ.jpg",
-      "posterPath": "/dFrkFLIGUiHTu74WGE3633XXi4C.jpg",
-      "rating": 6.348,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 音乐"
     },
     {
       "id": 1330272,
@@ -702,19 +689,6 @@
       "rating": 7.471,
       "mediaType": "movie",
       "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     },
     {
       "id": 916971,
