@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-22T22:27:05.390Z",
+  "time": "2026-09-23T22:30:16.221Z",
   "data": {
     "电影": [
       {
@@ -11,9 +11,9 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
         "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-        "rating": 7.622,
+        "rating": 7.6,
         "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "剧情, 历史"
       },
       {
         "id": 838301,
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 8,
+        "rating": 8.053,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-08-20",
         "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
         "posterPath": "/xONOMna5Z102bw0jMPBM4H73B9m.jpg",
-        "rating": 7.535,
+        "rating": 7.548,
         "mediaType": "movie",
         "genreTitle": "喜剧, 冒险"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-08-29",
         "backdropPath": "/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
         "posterPath": "/xfGeL7zbAL8R2DRl1Dpy5Ek3D5i.jpg",
-        "rating": 6.247,
+        "rating": 6.245,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-08-07",
         "backdropPath": "/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
         "posterPath": "/dnpztRePQAUg4FydrwQntAOry9z.jpg",
-        "rating": 7.586,
+        "rating": 7.578,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       },
@@ -135,6 +135,19 @@
     ],
     "剧集·国内": [
       {
+        "id": 294486,
+        "type": "tmdb",
+        "title": "交锋",
+        "originalTitle": "交锋",
+        "description": "一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着。",
+        "releaseDate": "2026-09-06",
+        "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
+        "posterPath": "/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "悬疑"
+      },
+      {
         "id": 309663,
         "type": "tmdb",
         "title": "开庭",
@@ -144,58 +157,6 @@
         "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
         "posterPath": "/1mEuvUMkr8xpQoP8uekuxcE65A6.jpg",
         "rating": 5.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 273114,
-        "type": "tmdb",
-        "title": "悬案",
-        "originalTitle": "悬案",
-        "description": "一桩悬案一个单元，两个单元一季悬案。《悬案》首季锁定《珠宝行连环劫案》《卞记旅馆灭门案》两个单元，在反其道而行的时间裂缝中解构罪恶对人的再塑造，也书写信念对人的再救赎。",
-        "releaseDate": "2026-07-03",
-        "backdropPath": "/hMAew4hKxZJeqqvYljhLpvS4OZA.jpg",
-        "posterPath": "/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
-        "rating": 7.667,
-        "mediaType": "tv",
-        "genreTitle": "悬疑"
-      },
-      {
-        "id": 306672,
-        "type": "tmdb",
-        "title": "日落下的彩虹",
-        "originalTitle": "日落下的彩虹",
-        "description": "七个发生在彩虹邨的感人故事。这些故事描绘了不同的情感和遗憾，反映了香港人对公共屋邨的深厚情感。随着故事中人物的交集，每个故事都在提醒观众，这个标志性的屋邨正走向终结。",
-        "releaseDate": "2026-07-29",
-        "backdropPath": "/oLG0Smu4GB4OBVmydd2qxejDF82.jpg",
-        "posterPath": "/4PR2COQG4DYJMC60RhURgSIlYtp.jpg",
-        "rating": 9,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 291856,
-        "type": "tmdb",
-        "title": "重器",
-        "originalTitle": "重器",
-        "description": "以改革开放初期至1997年《刑诉法》《刑法》修订为背景，讲述陈一众、余高远、张丽慧、夏英杰等法学院毕业生在不同司法岗位上历经风雨、共同见证中国法治发展进程的故事，展现他们在时代浪潮中成长、抉择与命运交织的群像篇章。",
-        "releaseDate": "2026-08-10",
-        "backdropPath": "/sUTK5UjUNud0d5hcEbhOk4RTqII.jpg",
-        "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
-        "rating": 8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 287496,
-        "type": "tmdb",
-        "title": "花开锦绣",
-        "originalTitle": "花开锦绣",
-        "description": "豪爽重情的私盐贩子赵凌虽出身草莽，却心怀壮志，他结识了遭人诬陷私通的世家名媛小姐傅庭芸，被迫一起逃亡，二人历经家族与朝廷的重重考验，与命运抗争，终成传奇良缘。",
-        "releaseDate": "2026-08-09",
-        "backdropPath": "/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
-        "posterPath": "/erj7cX8aa1jndO9HlmoyRcJNLQL.jpg",
-        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -211,6 +172,58 @@
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
+      },
+      {
+        "id": 273114,
+        "type": "tmdb",
+        "title": "悬案",
+        "originalTitle": "悬案",
+        "description": "一桩悬案一个单元，两个单元一季悬案。《悬案》首季锁定《珠宝行连环劫案》《卞记旅馆灭门案》两个单元，在反其道而行的时间裂缝中解构罪恶对人的再塑造，也书写信念对人的再救赎。",
+        "releaseDate": "2026-07-03",
+        "backdropPath": "/hMAew4hKxZJeqqvYljhLpvS4OZA.jpg",
+        "posterPath": "/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
+        "rating": 7.667,
+        "mediaType": "tv",
+        "genreTitle": "悬疑"
+      },
+      {
+        "id": 291856,
+        "type": "tmdb",
+        "title": "重器",
+        "originalTitle": "重器",
+        "description": "以改革开放初期至1997年《刑诉法》《刑法》修订为背景，讲述陈一众、余高远、张丽慧、夏英杰等法学院毕业生在不同司法岗位上历经风雨、共同见证中国法治发展进程的故事，展现他们在时代浪潮中成长、抉择与命运交织的群像篇章。",
+        "releaseDate": "2026-08-10",
+        "backdropPath": "/sUTK5UjUNud0d5hcEbhOk4RTqII.jpg",
+        "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 306672,
+        "type": "tmdb",
+        "title": "日落下的彩虹",
+        "originalTitle": "日落下的彩虹",
+        "description": "七个发生在彩虹邨的感人故事。这些故事描绘了不同的情感和遗憾，反映了香港人对公共屋邨的深厚情感。随着故事中人物的交集，每个故事都在提醒观众，这个标志性的屋邨正走向终结。",
+        "releaseDate": "2026-07-29",
+        "backdropPath": "/oLG0Smu4GB4OBVmydd2qxejDF82.jpg",
+        "posterPath": "/4PR2COQG4DYJMC60RhURgSIlYtp.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 287496,
+        "type": "tmdb",
+        "title": "花开锦绣",
+        "originalTitle": "花开锦绣",
+        "description": "豪爽重情的私盐贩子赵凌虽出身草莽，却心怀壮志，他结识了遭人诬陷私通的世家名媛小姐傅庭芸，被迫一起逃亡，二人历经家族与朝廷的重重考验，与命运抗争，终成传奇良缘。",
+        "releaseDate": "2026-08-09",
+        "backdropPath": "/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
+        "posterPath": "/erj7cX8aa1jndO9HlmoyRcJNLQL.jpg",
+        "rating": 7.1,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": 299952,
@@ -250,22 +263,48 @@
         "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 271016,
-        "type": "tmdb",
-        "title": "九门",
-        "originalTitle": "九门",
-        "description": "长沙风云再起之时，张启山与吴老狗强强联手，携手霍仙姑与九门诸人共赴冒险奇局。一桩401部队的神秘失踪事件，牵出百年尘封的惊天秘辛。生死抉择、兄弟之情、门派担当与家国大义相互交织。九门众人用热血和牺牲，守护家园，共渡难关。",
-        "releaseDate": "2026-07-30",
-        "backdropPath": "/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
-        "posterPath": "/bkyBY4EYv1htCkgmgVNfVrJ7qqW.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 动作冒险"
       }
     ],
     "剧集·国外": [
+      {
+        "id": 95480,
+        "type": "tmdb",
+        "title": "Slow Horses",
+        "originalTitle": "Slow Horses",
+        "description": "这群被军情五处弃用的特工被迫踏上逃亡之路，戴安娜·塔弗纳将他们卷入一场赌上性命的高风险报复与复仇博弈。",
+        "releaseDate": "2026-09-16",
+        "backdropPath": "/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+        "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
+        "rating": 8.4,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 剧情"
+      },
+      {
+        "id": 108255,
+        "type": "tmdb",
+        "title": "万物生灵",
+        "originalTitle": "All Creatures Great & Small",
+        "description": "聚焦一个年轻的兽医去乡间的经历，发生的许多好笑、温馨、可爱的小事。",
+        "releaseDate": "2026-09-17",
+        "backdropPath": "/l61sjSZCsf99abjlnt2ToG442ol.jpg",
+        "posterPath": "/26q9nXwRbHP2LE1NcMUZ8cB7Mjp.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 286617,
+        "type": "tmdb",
+        "title": "踮起脚尖",
+        "originalTitle": "Tip Toe",
+        "description": "电工克莱夫与邻居利奥及一位LGBTQ+酒吧老板之间的关系迅速恶化，起因是利奥被锁在门外时，克莱夫允许他使用了手机。本剧由拉塞尔·T·戴维斯创作，共五集。",
+        "releaseDate": "2026-05-31",
+        "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+        "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
+        "rating": 6.789,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
       {
         "id": 301418,
         "type": "tmdb",
@@ -278,19 +317,6 @@
         "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "犯罪, 喜剧"
-      },
-      {
-        "id": 286617,
-        "type": "tmdb",
-        "title": "踮起脚尖",
-        "originalTitle": "Tip Toe",
-        "description": "电工克莱夫与邻居利奥及一位LGBTQ+酒吧老板之间的关系迅速恶化，起因是利奥被锁在门外时，克莱夫允许他使用了手机。本剧由拉塞尔·T·戴维斯创作，共五集。",
-        "releaseDate": "2026-05-31",
-        "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-        "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.784,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       },
       {
         "id": 207333,
@@ -306,6 +332,32 @@
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
+        "id": 66980,
+        "type": "tmdb",
+        "title": "巴比伦柏林",
+        "originalTitle": "Babylon Berlin",
+        "description": "故事聚焦魏玛共和国的最后岁月，时间线从1933年2月阿道夫·希特勒被任命为德国总理后开启，一直延续到3月5日——纳粹党通过针对政治对手的暴力运动，借选举彻底攫取绝对权力的关键节点。\n\n作为全剧的最终章，短短34天里，曾经繁华的魏玛柏林在时代洪流中迅速崩塌。夏洛特正式进入警队，与格里安·拉斯搭档追查针对一战退役老兵的连环谋杀案，调查过程中意外牵扯出一份记录着希特勒一战时期过往的致命秘密档案，足以掀起滔天政治风浪。此时冲锋队势力全面渗透警局，借执法权疯狂铲除异己，政党博弈、警方内斗、资本势力多方角力，柏林城表面仍维持着纸醉金迷的狂欢，底下却早已被恐惧与猜忌彻底笼罩。主角二人即便拼尽全力试图守住底线，也终究难以逆转历史走向，只能在民主体系逐步崩溃的黑暗时代中，艰难做出顺从、抵抗或是逃离的抉择。",
+        "releaseDate": "2026-09-10",
+        "backdropPath": "/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
+        "posterPath": "/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
+        "rating": 6.3,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 犯罪"
+      },
+      {
+        "id": 283319,
+        "type": "tmdb",
+        "title": "大理石厅谋杀案",
+        "originalTitle": "Marble Hall Murders",
+        "description": "编辑苏珊·赖兰(莱丝利·曼维尔饰)受聘负责一部阿提库斯·庞德系列的续作小说，作者是一位问题重重的年轻人。当这份工作将苏珊卷入另一起谋杀案时，她意外地发现自己竟成了嫌疑人。在小说的情节中，阿提库斯·庞德(蒂姆·迈克穆兰饰)正造访科孚岛，却卷入了玛格丽特·查尔方特伯爵夫人的谋杀案，他与一名希腊侦探(祖宾·瓦尔拉饰)合作， 对受害者的家族展开了调查。本季改编自安东尼·霍洛维茨创作系列小说的第三部。",
+        "releaseDate": "2026-09-06",
+        "backdropPath": "/woa9xtYfw1dib4JLnvQdLSZK0D2.jpg",
+        "posterPath": "/3WfgRJBIaOTsiu2bQO23xWb08ro.jpg",
+        "rating": 8.7,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 犯罪"
+      },
+      {
         "id": 236235,
         "type": "tmdb",
         "title": "绅士们",
@@ -314,87 +366,22 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
         "posterPath": "/3Cs3g8GBeMqR9p8rKeACqPLst9Q.jpg",
-        "rating": 8,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 287238,
+        "id": 299939,
         "type": "tmdb",
-        "title": "狂怒追缉",
-        "originalTitle": "Furious",
-        "description": "一名是誓言缉凶的联邦调查局探员艾莉丝，一名是神秘狡猾的女性连环杀手凯萨琳。两人皆以自己的方式伸张正义，当她们的命运开始交织，是非对错的界线也随之模糊。",
-        "releaseDate": "2026-07-27",
-        "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-        "posterPath": "/pS1NXKwQcj7JvOYMkSt38vNJZzz.jpg",
-        "rating": 7.342,
+        "title": "怪物：丽兹·波顿的故事",
+        "originalTitle": "Monster: The Lizzie Borden Story",
+        "description": "被困于维多利亚时代残酷家庭的丽兹·波顿用斧头残忍杀害了自己的父母，此案震惊全国。",
+        "releaseDate": "2026-09-17",
+        "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+        "posterPath": "/4Uk0MaEEx0bO418rhM7B8gqeFPy.jpg",
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
-      },
-      {
-        "id": 292108,
-        "type": "tmdb",
-        "title": "护工不是人",
-        "originalTitle": "Ann Droid",
-        "description": "在一个AI无处不在的世界里，苏的丈夫大卫18个月前去世了，她唯一的儿子迈克尔搬走了，二手老年护理机器人琳达来到她身边。苏很快意识到机器人可以为她搞定一切，做她儿子永远没时间做的事情。",
-        "releaseDate": "2026-07-17",
-        "backdropPath": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
-        "posterPath": "/rIuA73tNABKewuMMtpIt1Cq6fHh.jpg",
-        "rating": 6.643,
-        "mediaType": "tv",
-        "genreTitle": "喜剧"
-      },
-      {
-        "id": 95350,
-        "type": "tmdb",
-        "title": "绿灯军团",
-        "originalTitle": "Lanterns",
-        "description": "绿灯侠哈尔·乔丹与新晋成员约翰·斯图尔特奉命调查美国小镇的一起神秘命案，却意外发现案件背后隐藏着与外星势力有关的阴谋，两人也在追查真相的过程中面对各自的信念与考验。",
-        "releaseDate": "2026-08-16",
-        "backdropPath": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "posterPath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
-        "rating": 8.266,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 125988,
-        "type": "tmdb",
-        "title": "末日地堡",
-        "originalTitle": "Silo",
-        "description": "朱丽叶·尼科尔斯带着失去的记忆回归，地堡在叛乱后面临新的威胁；与此同时，故事追溯数百年前的重大事件。",
-        "releaseDate": "2026-07-02",
-        "backdropPath": "/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
-        "posterPath": "/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
-        "rating": 7.2,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 剧情"
-      },
-      {
-        "id": 196322,
-        "type": "tmdb",
-        "title": "Dark Matter",
-        "originalTitle": "Dark Matter",
-        "description": "德森一家看似重获平静，却因突发事件再次踏上逃亡之路。杰森对“盒子”的痴迷加深，丹妮拉陷入偏执；与此同时，阿曼达与瑞恩寻找回家之路，布莱尔试图阻止杰森，而莱顿则执着于创造“完美世界”。",
-        "releaseDate": "2026-08-27",
-        "backdropPath": "/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-        "posterPath": "/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-        "rating": 8.4,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 剧情"
-      },
-      {
-        "id": 255358,
-        "type": "tmdb",
-        "title": "攻壳机动队",
-        "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
-        "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
-        "releaseDate": "2026-07-07",
-        "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
-        "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
-        "rating": 8.242,
-        "mediaType": "tv",
-        "genreTitle": "动画, 动作冒险"
       }
     ]
   }
