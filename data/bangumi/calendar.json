@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-23T19:24:50.945Z",
+  "time": "2026-09-24T19:45:27.967Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/u7LWdKmEdEr6Ui3GZMsFGlKZQBd.jpg",
-        "rating": 8.4,
+        "rating": 8.416,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-07-26",
         "backdropPath": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
         "posterPath": "/AcriuLMhzvkSDUBzuEvns5WGe8F.jpg",
-        "rating": 6.692,
+        "rating": 6.679,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -152,7 +152,7 @@
         "originalTitle": "茶啊二中",
         "description": "茶啊二中这所学校是虚构的，以东北师范大学附属中学为原型，主要讲述的是校园生活，从同学之间的友情到老师的谆谆教诲，全部通过风趣的对话和特定的场景，原原本本展现出来，让观众从中回味自己当年的校园情景。",
         "releaseDate": "2014-09-03",
-        "backdropPath": "/3EmJdxF8Yvm7nsCaTJbOtebnpoD.jpg",
+        "backdropPath": "/cyQYPMpqnIWkWhjniSPbW7AGzVU.jpg",
         "posterPath": "/bg2BsCCrWUV0DtHCSO5J6DgWspo.jpg",
         "rating": 9.3,
         "mediaType": "tv",
@@ -221,7 +221,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/5ekJqI6LW3E1DgbIbxzlMCqBajV.jpg",
         "posterPath": "/mNgP82BUf9gpjmaHqiBLRilb8BJ.jpg",
-        "rating": 7.3,
+        "rating": 7.375,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/rbxKqzKkw9zrO9lKgqvXHOo4sZo.jpg",
         "posterPath": "/etpSosywRvOO8mds61uv3aSjhDF.jpg",
-        "rating": 7.6,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -247,7 +247,7 @@
         "releaseDate": "2022-04-07",
         "backdropPath": "/49pL51H0RZ27fAWpQYUzuMA5fhr.jpg",
         "posterPath": "/yFa9LmAPpYipjkXw2U2xhAm0JS9.jpg",
-        "rating": 7.315,
+        "rating": 7.321,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -325,7 +325,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
         "posterPath": "/2niOCxDblN9fTL33zGmphQ0zmMW.jpg",
-        "rating": 8.611,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -362,9 +362,9 @@
         "originalTitle": "King of the Hill",
         "description": "《King of the Hill 》是美国动画情景喜剧，由 Mike Judge和Greg Daniels导演和编剧。于1997年1月12日至2010年5月6日在福克斯FOX电视台发行。一共十三季，259集。\n\n故事聚焦在美国Texas州（美国第二大州德克萨斯州，简称德州。南部与墨西哥接壤。）的阿伦镇（Arlen）上虚构的希尔一家。\n\n它试图用保持现实的方法，在日常生活中的常规和世俗方面寻求幽默，并对一些时事和社会现象进行调侃，但相较于《恶搞之家/Family Guy》和《南方公园/South Park》等其他长寿动画，出发点更加实际及老成。\n\n这个节目成为福克斯历史上最长的系列节目之一（位于《辛普森一家/The Simpsons》与《恶搞之家/Family Guy》之后，在动画系列节目中长度排第三位），并且是历史上持续时间第二长的动画情景喜剧。\n\n2007年被“ 时代”杂志评选为有史以来100大电视节目之一。King of the Hill 赢得了两个艾美奖，并获得七项提名。",
         "releaseDate": "1997-01-12",
-        "backdropPath": "/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
+        "backdropPath": "/g3brCzb5D9hE7StLiA69rt6pUeW.jpg",
         "posterPath": "/5WLMR03uv7RJ9g2lmBInM2Pjcjg.jpg",
-        "rating": 7.399,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       }
@@ -386,13 +386,13 @@
       {
         "id": 255358,
         "type": "tmdb",
-        "title": "攻壳机动队",
+        "title": "攻壳机动队 THE GHOST IN THE SHELL",
         "originalTitle": "攻殻機動隊 THE GHOST IN THE SHELL",
         "description": "公元2029年，近未来日本高度信息化，电子网络覆盖全球。全身义体化的草薙素子与巴特等人受荒卷大辅招募，组建公安九课，专门打击网络犯罪与国际阴谋。随着神秘黑客“傀儡师”现身，一场关乎人类、意识与未来的赛博朋克危机就此展开。",
         "releaseDate": "2026-07-07",
         "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
         "posterPath": "/7R6QmLPC5OOTKooMxAeI4SJQ6h3.jpg",
-        "rating": 8.242,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -498,7 +498,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.749,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -511,7 +511,7 @@
         "releaseDate": "2017-01-06",
         "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
         "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
-        "rating": 8.2,
+        "rating": 8.219,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -524,7 +524,7 @@
         "releaseDate": "2022-04-03",
         "backdropPath": "/c0oFoz7PttzMLsQOQn54Lcu8V9d.jpg",
         "posterPath": "/oHraANBb1gOU425bk26CgZtPP5H.jpg",
-        "rating": 7.5,
+        "rating": 7.559,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -563,7 +563,7 @@
         "releaseDate": "2025-04-05",
         "backdropPath": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
         "posterPath": "/fWLpYnmApgNQXOV80o72vevmZOI.jpg",
-        "rating": 7.314,
+        "rating": 7.321,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -615,7 +615,7 @@
         "releaseDate": "2025-07-02",
         "backdropPath": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
         "posterPath": "/krx4GwKIWVCtr4MgMeGi4lYkz5x.jpg",
-        "rating": 8.048,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -693,7 +693,7 @@
         "releaseDate": "2017-01-06",
         "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
         "posterPath": "/dcb3KTCA3LDLB0tiZBQQKCoT3tK.jpg",
-        "rating": 8.2,
+        "rating": 8.219,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
@@ -747,7 +747,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
         "posterPath": "/wAmAm8pLe7TNUal8GWYa9Z2mm4Z.jpg",
-        "rating": 8.5,
+        "rating": 8.609,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -825,7 +825,7 @@
         "releaseDate": "2026-07-02",
         "backdropPath": "/t9pxS8JUIya68VOIRVAu8rhbGZL.jpg",
         "posterPath": "/r5Vs2r4bYfA0vdju8cQGknLpMF7.jpg",
-        "rating": 9.3,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -905,7 +905,7 @@
         "releaseDate": "2026-07-10",
         "backdropPath": "/pEhFkDyRMpUZr1lwmmPFVGzdgNl.jpg",
         "posterPath": "/oz6Aet1VmsjxA70oGIhiaNnXxuk.jpg",
-        "rating": 6.9,
+        "rating": 6.941,
         "mediaType": "tv",
         "genreTitle": "喜剧, 动画"
       },
@@ -1024,7 +1024,7 @@
         "releaseDate": "2004-10-05",
         "backdropPath": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
         "posterPath": "/uZM8PIaimoRxQ3vYqzpZOifGE6Y.jpg",
-        "rating": 8.35,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -1063,7 +1063,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
         "posterPath": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-        "rating": 8.4,
+        "rating": 8.304,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1167,7 +1167,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
         "posterPath": "/A45lOrx7PJRjWrwlTAg09cUosQJ.jpg",
-        "rating": 8.9,
+        "rating": 8.636,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
