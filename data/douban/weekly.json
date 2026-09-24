@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-23T22:30:16.221Z",
+  "time": "2026-09-24T22:45:28.148Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 8.053,
+        "rating": 8.049,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-08-20",
         "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
         "posterPath": "/xONOMna5Z102bw0jMPBM4H73B9m.jpg",
-        "rating": 7.548,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "喜剧, 冒险"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-08-07",
         "backdropPath": "/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
         "posterPath": "/dnpztRePQAUg4FydrwQntAOry9z.jpg",
-        "rating": 7.578,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       },
@@ -139,7 +139,7 @@
         "type": "tmdb",
         "title": "交锋",
         "originalTitle": "交锋",
-        "description": "一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着。",
+        "description": "一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合，为了共同的使命与信仰并肩作战。",
         "releaseDate": "2026-09-06",
         "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
         "posterPath": "/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
@@ -234,7 +234,7 @@
         "releaseDate": "2026-08-26",
         "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
         "posterPath": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-        "rating": 8.381,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
         "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-        "rating": 8.4,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -284,10 +284,10 @@
         "type": "tmdb",
         "title": "万物生灵",
         "originalTitle": "All Creatures Great & Small",
-        "description": "聚焦一个年轻的兽医去乡间的经历，发生的许多好笑、温馨、可爱的小事。",
+        "description": "1946年，战争结束后的达罗比迎来新的时代。詹姆斯、海伦和孩子们回到这里，斯凯代尔庄园也迎来新的变化；一位新兽医的出现，让詹姆斯和法农兄弟面对新的挑战。",
         "releaseDate": "2026-09-17",
-        "backdropPath": "/l61sjSZCsf99abjlnt2ToG442ol.jpg",
-        "posterPath": "/26q9nXwRbHP2LE1NcMUZ8cB7Mjp.jpg",
+        "backdropPath": "/jDBtipccngWA9UcSKoTMnMFz3PA.jpg",
+        "posterPath": "/l4ILps4izoFtPZccwtM5rxTByk3.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
@@ -336,10 +336,10 @@
         "type": "tmdb",
         "title": "巴比伦柏林",
         "originalTitle": "Babylon Berlin",
-        "description": "故事聚焦魏玛共和国的最后岁月，时间线从1933年2月阿道夫·希特勒被任命为德国总理后开启，一直延续到3月5日——纳粹党通过针对政治对手的暴力运动，借选举彻底攫取绝对权力的关键节点。\n\n作为全剧的最终章，短短34天里，曾经繁华的魏玛柏林在时代洪流中迅速崩塌。夏洛特正式进入警队，与格里安·拉斯搭档追查针对一战退役老兵的连环谋杀案，调查过程中意外牵扯出一份记录着希特勒一战时期过往的致命秘密档案，足以掀起滔天政治风浪。此时冲锋队势力全面渗透警局，借执法权疯狂铲除异己，政党博弈、警方内斗、资本势力多方角力，柏林城表面仍维持着纸醉金迷的狂欢，底下却早已被恐惧与猜忌彻底笼罩。主角二人即便拼尽全力试图守住底线，也终究难以逆转历史走向，只能在民主体系逐步崩溃的黑暗时代中，艰难做出顺从、抵抗或是逃离的抉择。",
+        "description": "1933年2月，拉特、夏洛特以及其他角色都必须面对纳粹掌权后的新局势，并在服从、抵抗、隐居或流亡之间作出选择。",
         "releaseDate": "2026-09-10",
         "backdropPath": "/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
-        "posterPath": "/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
+        "posterPath": "/q0UXu4llIwIrz49LZH3XAIvFzC0.jpg",
         "rating": 6.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
@@ -349,10 +349,10 @@
         "type": "tmdb",
         "title": "大理石厅谋杀案",
         "originalTitle": "Marble Hall Murders",
-        "description": "编辑苏珊·赖兰(莱丝利·曼维尔饰)受聘负责一部阿提库斯·庞德系列的续作小说，作者是一位问题重重的年轻人。当这份工作将苏珊卷入另一起谋杀案时，她意外地发现自己竟成了嫌疑人。在小说的情节中，阿提库斯·庞德(蒂姆·迈克穆兰饰)正造访科孚岛，却卷入了玛格丽特·查尔方特伯爵夫人的谋杀案，他与一名希腊侦探(祖宾·瓦尔拉饰)合作， 对受害者的家族展开了调查。本季改编自安东尼·霍洛维茨创作系列小说的第三部。",
+        "description": "改编自安东尼·霍洛维茨的同名小说，也是苏珊·莱兰系列的第三部、最终篇。编辑苏珊·莱兰受邀参与阿提克斯·潘德系列续作的创作，却意外卷入另一宗真实谋杀案，并成为嫌疑人。与此同时，小说中的侦探阿提克斯·潘德前往科孚岛，调查玛格丽特·查尔方特夫人的谋杀案。",
         "releaseDate": "2026-09-06",
         "backdropPath": "/woa9xtYfw1dib4JLnvQdLSZK0D2.jpg",
-        "posterPath": "/3WfgRJBIaOTsiu2bQO23xWb08ro.jpg",
+        "posterPath": "/7BcPfx9b4MhBFxGxZ4WJWnL0oBc.jpg",
         "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
@@ -376,7 +376,7 @@
         "title": "怪物：丽兹·波顿的故事",
         "originalTitle": "Monster: The Lizzie Borden Story",
         "description": "被困于维多利亚时代残酷家庭的丽兹·波顿用斧头残忍杀害了自己的父母，此案震惊全国。",
-        "releaseDate": "2026-09-17",
+        "releaseDate": "2026-09-16",
         "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
         "posterPath": "/4Uk0MaEEx0bO418rhM7B8gqeFPy.jpg",
         "rating": 7.8,
