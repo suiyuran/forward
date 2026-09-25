@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-24T22:45:28.148Z",
+  "time": "2026-09-25T22:52:08.291Z",
   "data": {
     "电影": [
       {
@@ -11,9 +11,48 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
         "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-        "rating": 7.6,
+        "rating": 7.684,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
+      },
+      {
+        "id": 1442669,
+        "type": "tmdb",
+        "title": "电动维纳斯",
+        "originalTitle": "La Vénus électrique",
+        "description": "二十世纪初，巴黎。当红一时的画家安托万·巴莱斯特罗，深信其妻伊雷娜乃因己之过而死，遂再也无法重拾画笔，令画廊老板阿曼德绝望。一天晚上，为了寻求原谅，安托万喝醉了酒，试图通过一个灵媒与艾琳取得联系。他不知道，他实际上是在与苏珊娜说话，一个卑微的街头艺人，她对来世一无所知，只是溜进了算命者的马车里偷食物……",
+        "releaseDate": "2026-05-12",
+        "backdropPath": "/1xrQwkcF8HV0f3CfG0qOko9bRoy.jpg",
+        "posterPath": "/6mGCyYnuGpxGT3Wx4xuRMV20EEi.jpg",
+        "rating": 7.191,
+        "mediaType": "movie",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 1137844,
+        "type": "tmdb",
+        "title": "求救信号",
+        "originalTitle": "Mayday",
+        "description": "一名美国海军飞行员在冷战时期执行绝密任务时不幸被困在敌营。他唯有与一位性格古怪的前克格勃特工联手才有一线生机。",
+        "releaseDate": "2026-09-03",
+        "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+        "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
+        "rating": 8.042,
+        "mediaType": "movie",
+        "genreTitle": "动作, 喜剧"
+      },
+      {
+        "id": 1240889,
+        "type": "tmdb",
+        "title": "瘴气营地的青春性事与死亡",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "description": "一个虚构的、曾经流行的恐怖电影系列正逐渐失去观众。在多年的草率续集和日渐式微的粉丝基础上，Camp Miasma 杀人狂系列被一位充满热情的年轻酷儿导演接管，以重振这部作品。但当她拜访原电影的女主角——一位如今隐居且充满神秘色彩的女演员时，两位女性陷入了一个充满欲望、恐惧和狂乱的血腥世界。",
+        "releaseDate": "2026-08-06",
+        "backdropPath": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+        "posterPath": "/t8JBX1h4yipba70tNmPaTV2tgbr.jpg",
+        "rating": 6.355,
+        "mediaType": "movie",
+        "genreTitle": "喜剧, 恐怖"
       },
       {
         "id": 838301,
@@ -29,32 +68,6 @@
         "genreTitle": "纪录, 剧情"
       },
       {
-        "id": 1137844,
-        "type": "tmdb",
-        "title": "求救信号",
-        "originalTitle": "Mayday",
-        "description": "一名美国海军飞行员在冷战时期执行绝密任务时不幸被困在敌营。他唯有与一位性格古怪的前克格勃特工联手才有一线生机。",
-        "releaseDate": "2026-09-03",
-        "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-        "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 8.049,
-        "mediaType": "movie",
-        "genreTitle": "动作, 喜剧"
-      },
-      {
-        "id": 1204680,
-        "type": "tmdb",
-        "title": "歪心狼对阵ACME",
-        "originalTitle": "Coyote vs. Acme",
-        "description": "故事讲述了乐一通经典角色歪心狼（Wile E. Coyote）在长期使用Acme公司的产品追捕BB鸟（Road Runner）失败并遭受身心创伤后，决定不再忍受。他聘请了一位倒霉的人类律师，向Acme公司提起诉讼，要求巨额赔偿。而Acme公司的首席律师则试图捍卫公司利益，双方在法庭上展开了一场荒诞又爆笑的对决。  影片改编自1990年《纽约客》的一篇同名文章。",
-        "releaseDate": "2026-08-20",
-        "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-        "posterPath": "/xONOMna5Z102bw0jMPBM4H73B9m.jpg",
-        "rating": 7.5,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 冒险"
-      },
-      {
         "id": 974236,
         "type": "tmdb",
         "title": "欧盟制造",
@@ -68,19 +81,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 1365884,
-        "type": "tmdb",
-        "title": "百分之十：电影版",
-        "originalTitle": "Dix Pour Cent ! Le Film",
-        "description": "ASK 公司倒闭五年后，首次执导长片的安德烈亚在开拍前几天临时失去男主角，只好重新召集昔日团队 — 无论结果是好是坏。",
-        "releaseDate": "2026-08-29",
-        "backdropPath": "/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
-        "posterPath": "/xfGeL7zbAL8R2DRl1Dpy5Ek3D5i.jpg",
-        "rating": 6.245,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
         "id": 1507796,
         "type": "tmdb",
         "title": "海上心狱",
@@ -89,22 +89,35 @@
         "releaseDate": "2026-07-24",
         "backdropPath": "/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
         "posterPath": "/uuJLrM5ym24COGRDe2k07ZVJitb.jpg",
-        "rating": 6.767,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
       {
-        "id": 1294972,
+        "id": 1447853,
         "type": "tmdb",
-        "title": "凤仙花",
-        "originalTitle": "ホウセンカ",
-        "description": "孤独的牢房里，垂暮的老囚虚弱地等待死亡降临。「真是可悲的一生啊！」临终之际，一株凤仙花竟开口说话，唤醒了他深埋心底的过往。一切始于1986年夏天，小屋后院盛开着一片凤仙花。他曾是叱咤风云的黑帮人物，也曾与挚爱共筑片刻美好，却步步走上歧路，徒留来不及说出口的悔恨与遗憾。幸福如花火般闪现，短暂而灿烂。他是否能在生命的最后一刻，翻转命运的棋局？花，是否还能再次绽放？",
-        "releaseDate": "2025-10-10",
-        "backdropPath": "/q9BznLtUUuHfHzyT3NOKzqM6oxz.jpg",
-        "posterPath": "/wXY5guBDhmpQYbZDjbLgC5MrMac.jpg",
-        "rating": 8,
+        "title": "别为往事懊恼",
+        "originalTitle": "Oasis: Don't Look Back in Anger",
+        "description": "纪录绿洲乐队重聚后的 Oasis Live ’25 世界巡演，记录乐队及全球歌迷的经历与情感，并通过排练、后台、演出及连姆和诺埃尔·加拉格尔二十多年来首次共同采访，展现这一全球音乐事件。",
+        "releaseDate": "2026-09-09",
+        "backdropPath": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+        "posterPath": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+        "rating": 7.4,
         "mediaType": "movie",
-        "genreTitle": "动画, 剧情"
+        "genreTitle": "纪录, 音乐"
+      },
+      {
+        "id": 1322787,
+        "type": "tmdb",
+        "title": "明日之幸",
+        "originalTitle": "On sera heureux",
+        "description": "摩洛哥难民萨德在魁北克与伊朗难民雷扎相恋，当雷扎面临被驱逐回伊朗（将被处决）的绝境时，萨德决定不惜一切代价拯救爱人。他铤而走险，试图色诱移民部官员以换取男友的居留权。",
+        "releaseDate": "2025-11-07",
+        "backdropPath": "/sfTT1Bln5IGbEXfFnBUUMwTaMyR.jpg",
+        "posterPath": "/lXyxgiKfr23iTjmc8ma69a14mkC.jpg",
+        "rating": 6.7,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
       },
       {
         "id": 1329016,
@@ -118,19 +131,6 @@
         "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 1249152,
-        "type": "tmdb",
-        "title": "四减三",
-        "originalTitle": "Vier minus drei",
-        "description": "芭芭拉和伴侣海利与两个孩子，过着幸福美满的家庭生活。两人身为职业小丑，从不把人生过得太过沉重，遭遇任何不顺都一笑置之。但一场惨烈车祸夺走了海利和孩子们的生命，只留下芭芭拉孤身一人。至亲离世让她开始怀疑自己一直信奉的幽默与希望，也陷入对生命意义的迷茫。慢慢一路走来，她终于懂得：纵使历经重创，生活依然会继续 —— 只要你有勇气重新拥抱人生。",
-        "releaseDate": "2026-03-06",
-        "backdropPath": "/sVTrej8EtW6TtSQPuvtZumikGYO.jpg",
-        "posterPath": "/csD0WO0FFLmeqohCiTbOGZmSBEw.jpg",
-        "rating": 8.2,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
       }
     ],
     "剧集·国内": [
@@ -234,7 +234,7 @@
         "releaseDate": "2026-08-26",
         "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
         "posterPath": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-        "rating": 8.4,
+        "rating": 8.318,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -247,7 +247,7 @@
         "releaseDate": "2026-08-26",
         "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
         "posterPath": "/lxULhYKRE1C6zhaCNO0R0Id7ReM.jpg",
-        "rating": 6.3,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -273,7 +273,7 @@
         "originalTitle": "Slow Horses",
         "description": "这群被军情五处弃用的特工被迫踏上逃亡之路，戴安娜·塔弗纳将他们卷入一场赌上性命的高风险报复与复仇博弈。",
         "releaseDate": "2026-09-16",
-        "backdropPath": "/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+        "backdropPath": "/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
         "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
         "rating": 8.6,
         "mediaType": "tv",
@@ -379,7 +379,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
         "posterPath": "/4Uk0MaEEx0bO418rhM7B8gqeFPy.jpg",
-        "rating": 7.8,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
