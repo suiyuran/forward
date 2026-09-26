@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-24T20:17:28.868Z",
+  "time": "2026-09-26T19:35:38.804Z",
   "data": [
     {
       "id": 1089598,
@@ -15,19 +15,6 @@
       "genreTitle": "动作, 历史"
     },
     {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "releaseDate": "2011-03-27",
-      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.114,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1086176,
       "type": "tmdb",
       "title": "老江湖",
@@ -41,17 +28,30 @@
       "genreTitle": "喜剧, 动作"
     },
     {
-      "id": 1368337,
+      "id": 1678102,
       "type": "tmdb",
-      "title": "奥德赛",
-      "originalTitle": "The Odyssey",
-      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
-      "releaseDate": "2026-07-15",
-      "backdropPath": "/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
-      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.02,
+      "title": "死亡禁区实录",
+      "originalTitle": "死亡禁区实录",
+      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
+      "releaseDate": "2026-09-11",
+      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
+      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "冒险, 动作"
+      "genreTitle": "悬疑, 惊悚"
+    },
+    {
+      "id": 414419,
+      "type": "tmdb",
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "releaseDate": "2011-03-27",
+      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "rating": 8.114,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 1567937,
@@ -80,17 +80,17 @@
       "genreTitle": "剧情, 战争"
     },
     {
-      "id": 1541125,
+      "id": 1368337,
       "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
-      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
-      "rating": 6.143,
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
+      "releaseDate": "2026-07-15",
+      "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "rating": 8.02,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "冒险, 动作"
     },
     {
       "id": 278,
@@ -101,22 +101,35 @@
       "releaseDate": "1994-09-23",
       "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "posterPath": "/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
-      "rating": 8.73,
+      "rating": 8.731,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1678102,
+      "id": 1541125,
       "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "releaseDate": "2026-09-11",
-      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "rating": 0,
+      "title": "年会不能停！2",
+      "originalTitle": "年会不能停！2",
+      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
+      "releaseDate": "2026-07-24",
+      "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
+      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
+      "rating": 6,
       "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 299534,
+      "type": "tmdb",
+      "title": "复仇者联盟4：终局之战",
+      "originalTitle": "Avengers: Endgame",
+      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
+      "releaseDate": "2019-04-24",
+      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
+      "rating": 8.245,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 科幻"
     },
     {
       "id": 1101412,
@@ -127,35 +140,9 @@
       "releaseDate": "2026-09-01",
       "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6.255,
+      "rating": 6.2,
       "mediaType": "movie",
       "genreTitle": "惊悚"
-    },
-    {
-      "id": 1444590,
-      "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "releaseDate": "2026-09-05",
-      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1761059,
-      "type": "tmdb",
-      "title": "一路超平安",
-      "originalTitle": "一路超平安",
-      "description": "一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": null,
-      "posterPath": "/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
     },
     {
       "id": 1774595,
@@ -171,56 +158,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1765410,
+      "id": 1670314,
       "type": "tmdb",
-      "title": "明月照他乡",
-      "originalTitle": "明月照他乡",
-      "description": "本片把镜头聚焦六位外籍留学生在中国的学习与成长，通过长达两年零两个月，跨越亚洲、非洲、北美的拍摄，真实展现这些来自不同国家、不同种族的青年人在异乡上海追求梦想过程中的彷徨、挣扎与奋斗。影片旨在凸显“相似的青春”，反映“人性是共通的”这一普世真理。",
-      "releaseDate": "2026-09-24",
-      "backdropPath": "/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
-      "posterPath": "/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1176962,
-      "type": "tmdb",
-      "title": "罗斯",
-      "originalTitle": "Rose",
-      "description": "17世纪初，德国某地，一名神秘士兵来到偏僻的新教村庄。他身材瘦小，性格内敛，面部留有一道疤痕，这个陌生人自称是废弃农庄的继承人，并向心存疑虑的村民出示了一份文件以证明他的说法。随着时间推移，他逐渐打消了村民的疑虑，并凭借勤劳和虔诚，融入社区。然而，他所获得的接纳却建立在一个弥天大谎之上。",
-      "releaseDate": "2026-04-17",
-      "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-      "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 历史"
-    },
-    {
-      "id": 1339597,
-      "type": "tmdb",
-      "title": "水东游",
-      "originalTitle": "水东游",
-      "description": "一场由十二年前地震引发的余震，让火车司机小李和童年产生了某种时空连接。多年后的一场同学聚会，让小李重逢他的小学同学宋倩。聚会后，小李在河边，用父亲离开前送他的相机，似乎拍到了童年时的某个伙伴。过去似幽灵般再度回归，当年父亲失踪的秘密，和一场河边捉迷藏引发意外的记忆被逐渐唤起。在流淌的河水中，小李面临着记忆的再度到访，以及对当下生活的抉择。",
-      "releaseDate": "2026-09-23",
-      "backdropPath": "/rB1jLSESS65ZnQudGiWRB7QOdSL.jpg",
-      "posterPath": "/kFwknbq5DIqhh5LxXoI3Vm23cL0.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 奇幻"
-    },
-    {
-      "id": 1288445,
-      "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 6.419,
-      "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1755840,
@@ -236,17 +184,43 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 299534,
+      "id": 1761059,
       "type": "tmdb",
-      "title": "复仇者联盟4：终局之战",
-      "originalTitle": "Avengers: Endgame",
-      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
-      "releaseDate": "2019-04-24",
-      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "rating": 8.244,
+      "title": "一路超平安",
+      "originalTitle": "一路超平安",
+      "description": "一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": null,
+      "posterPath": "/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
+      "rating": 5,
       "mediaType": "movie",
-      "genreTitle": "冒险, 科幻"
+      "genreTitle": "喜剧"
+    },
+    {
+      "id": 1288445,
+      "type": "tmdb",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "rating": 6.915,
+      "mediaType": "movie",
+      "genreTitle": "动作, 惊悚"
+    },
+    {
+      "id": 1444590,
+      "type": "tmdb",
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "releaseDate": "2026-09-05",
+      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1748007,
@@ -257,87 +231,9 @@
       "releaseDate": "2026-08-05",
       "backdropPath": "/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
       "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "rating": 4.375,
+      "rating": 4.4,
       "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
-      "id": 1502135,
-      "type": "tmdb",
-      "title": "密档",
-      "originalTitle": "密档",
-      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
-      "releaseDate": "2026-08-28",
-      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
-      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 10681,
-      "type": "tmdb",
-      "title": "机器人总动员",
-      "originalTitle": "WALL·E",
-      "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
-      "releaseDate": "2008-06-26",
-      "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
-      "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.125,
-      "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 969681,
-      "type": "tmdb",
-      "title": "蜘蛛侠：崭新之日",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "description": "全世界已经忘记了彼得·帕克的存在。失去曾经的朋友、爱人与家人后，他选择独自留在纽约，将全部生活投入打击犯罪，成为一名真正的全职蜘蛛侠。数年过去，日复一日的战斗和孤独让彼得承受着越来越沉重的压力，而他的身体也开始发生无法解释的异常变化。与此同时，一股难以察觉的新威胁正在城市中悄然蔓延。为了阻止危机继续扩大，彼得必须在自己逐渐失控的变化与这名甚至无法被看见的敌人之间寻找新的战斗方式，也再次面对那些他以为已经彻底放下的过去……",
-      "releaseDate": "2026-07-29",
-      "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.863,
-      "mediaType": "movie",
-      "genreTitle": "科幻, 动作"
-    },
-    {
-      "id": 1774598,
-      "type": "tmdb",
-      "title": "最后，一根稻草托起了下巴",
-      "originalTitle": "最后，一根稻草托起了下巴",
-      "description": "只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": null,
-      "posterPath": "/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1716541,
-      "type": "tmdb",
-      "title": "我想留在你身边",
-      "originalTitle": "我想留在你身边",
-      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
-      "posterPath": "/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
-      "rating": 4,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 奇幻"
-    },
-    {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.195,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
+      "genreTitle": "家庭, 动画"
     },
     {
       "id": 1633056,
@@ -353,17 +249,95 @@
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 1670314,
+      "id": 10681,
       "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "title": "机器人总动员",
+      "originalTitle": "WALL·E",
+      "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
+      "releaseDate": "2008-06-26",
+      "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+      "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
+      "rating": 8.125,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
+      "id": 1761217,
+      "type": "tmdb",
+      "title": "蝉衣",
+      "originalTitle": "蝉衣",
+      "description": "五姐妹的中阿莲在临死前，希望自己穿上越南的衣服（奥黛）下葬。在葬礼上，主角北江红偷偷给死者换上越南的衣服，这一行为冒犯了瑶族人族规。北江红被丈夫（瑶族村长）当众打了一个耳光。已经年近60岁的北江红，独自一人来到石门台高山上生活。女儿阿知上山劝母亲下山,因受伤困在山上。电影主要讲述了阿知在高山上与母亲一起生活时，揭开了母亲北江红不为人知的身世和往事......",
       "releaseDate": "2026-09-25",
-      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
+      "backdropPath": "/oNs5Z2kROR7xtPsZVnMYJc3A9hl.jpg",
+      "posterPath": "/duMVbadqFNiHCVTmW1U4QSjxXqD.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1774598,
+      "type": "tmdb",
+      "title": "最后，一根稻草托起了下巴",
+      "originalTitle": "最后，一根稻草托起了下巴",
+      "description": "只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": null,
+      "posterPath": "/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 969681,
+      "type": "tmdb",
+      "title": "蜘蛛侠：崭新之日",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "description": "全世界已经忘记了彼得·帕克的存在。失去曾经的朋友、爱人与家人后，他选择独自留在纽约，将全部生活投入打击犯罪，成为一名真正的全职蜘蛛侠。数年过去，日复一日的战斗和孤独让彼得承受着越来越沉重的压力，而他的身体也开始发生无法解释的异常变化。与此同时，一股难以察觉的新威胁正在城市中悄然蔓延。为了阻止危机继续扩大，彼得必须在自己逐渐失控的变化与这名甚至无法被看见的敌人之间寻找新的战斗方式，也再次面对那些他以为已经彻底放下的过去……",
+      "releaseDate": "2026-07-29",
+      "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
+      "rating": 7.865,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
+      "rating": 8.192,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1716541,
+      "type": "tmdb",
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "posterPath": "/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "rating": 4,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 奇幻"
+    },
+    {
+      "id": 1339597,
+      "type": "tmdb",
+      "title": "水东游",
+      "originalTitle": "水东游",
+      "description": "一场由十二年前地震引发的余震，让火车司机小李和童年产生了某种时空连接。多年后的一场同学聚会，让小李重逢他的小学同学宋倩。聚会后，小李在河边，用父亲离开前送他的相机，似乎拍到了童年时的某个伙伴。过去似幽灵般再度回归，当年父亲失踪的秘密，和一场河边捉迷藏引发意外的记忆被逐渐唤起。在流淌的河水中，小李面临着记忆的再度到访，以及对当下生活的抉择。",
+      "releaseDate": "2026-09-23",
+      "backdropPath": "/rB1jLSESS65ZnQudGiWRB7QOdSL.jpg",
+      "posterPath": "/kFwknbq5DIqhh5LxXoI3Vm23cL0.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 奇幻"
     },
     {
       "id": 1724637,
@@ -392,30 +366,30 @@
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 1761217,
+      "id": 1502135,
       "type": "tmdb",
-      "title": "蝉衣",
-      "originalTitle": "蝉衣",
-      "description": "五姐妹的中阿莲在临死前，希望自己穿上越南的衣服（奥黛）下葬。在葬礼上，主角北江红偷偷给死者换上越南的衣服，这一行为冒犯了瑶族人族规。北江红被丈夫（瑶族村长）当众打了一个耳光。已经年近60岁的北江红，独自一人来到石门台高山上生活。女儿阿知上山劝母亲下山,因受伤困在山上。电影主要讲述了阿知在高山上与母亲一起生活时，揭开了母亲北江红不为人知的身世和往事......",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/oNs5Z2kROR7xtPsZVnMYJc3A9hl.jpg",
-      "posterPath": "/duMVbadqFNiHCVTmW1U4QSjxXqD.jpg",
+      "title": "密档",
+      "originalTitle": "密档",
+      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
+      "releaseDate": "2026-08-28",
+      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
+      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 1655500,
+      "id": 1765410,
       "type": "tmdb",
-      "title": "床下有人4",
-      "originalTitle": "床下有人4",
-      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
-      "posterPath": "/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "title": "明月照他乡",
+      "originalTitle": "明月照他乡",
+      "description": "本片把镜头聚焦六位外籍留学生在中国的学习与成长，通过长达两年零两个月，跨越亚洲、非洲、北美的拍摄，真实展现这些来自不同国家、不同种族的青年人在异乡上海追求梦想过程中的彷徨、挣扎与奋斗。影片旨在凸显“相似的青春”，反映“人性是共通的”这一普世真理。",
+      "releaseDate": "2026-09-24",
+      "backdropPath": "/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
+      "posterPath": "/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
+      "genreTitle": "纪录"
     },
     {
       "id": 1630030,
@@ -431,17 +405,17 @@
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 1083381,
+      "id": 1655500,
       "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "releaseDate": "2026-05-27",
-      "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "posterPath": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "rating": 7.029,
+      "title": "床下有人4",
+      "originalTitle": "床下有人4",
+      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "posterPath": "/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 悬疑"
+      "genreTitle": "悬疑, 惊悚"
     },
     {
       "id": 1491920,
@@ -457,19 +431,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1249152,
-      "type": "tmdb",
-      "title": "四减三",
-      "originalTitle": "Vier minus drei",
-      "description": "芭芭拉和伴侣海利与两个孩子，过着幸福美满的家庭生活。两人身为职业小丑，从不把人生过得太过沉重，遭遇任何不顺都一笑置之。但一场惨烈车祸夺走了海利和孩子们的生命，只留下芭芭拉孤身一人。至亲离世让她开始怀疑自己一直信奉的幽默与希望，也陷入对生命意义的迷茫。慢慢一路走来，她终于懂得：纵使历经重创，生活依然会继续 —— 只要你有勇气重新拥抱人生。",
-      "releaseDate": "2026-03-06",
-      "backdropPath": "/sVTrej8EtW6TtSQPuvtZumikGYO.jpg",
-      "posterPath": "/csD0WO0FFLmeqohCiTbOGZmSBEw.jpg",
-      "rating": 8.2,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1318413,
       "type": "tmdb",
       "title": "诺曼底72小时",
@@ -478,22 +439,22 @@
       "releaseDate": "2026-05-28",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.696,
+      "rating": 7.701,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
     },
     {
-      "id": 1550321,
+      "id": 1185806,
       "type": "tmdb",
-      "title": "浪花儿",
-      "originalTitle": "浪花儿",
-      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
-      "posterPath": "/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
-      "rating": 0,
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 8.089,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 592402,
@@ -509,6 +470,45 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 965150,
+      "type": "tmdb",
+      "title": "晒后假日",
+      "originalTitle": "Aftersun",
+      "description": "在一座日渐萧索的度假村里，11岁的苏菲珍藏着与深情而理想主义的父亲卡卢姆共度的罕见时光。当青春期世界悄然迫近时，苏菲未曾察觉的是：父亲正在父亲身份之外的生活重压下挣扎。二十年后，苏菲对那次最后假日的温柔追忆，逐渐凝结成一副关于他们关系的深刻而令人心碎的情感画卷——她试图将自己熟悉的父亲与那个不曾了解的男人重新拼合。夏洛特·威尔斯这部精湛而灼人的导演处女作，以记忆的微光重塑了爱与理解的沉默地带。",
+      "releaseDate": "2022-10-21",
+      "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
+      "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
+      "rating": 7.649,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1550321,
+      "type": "tmdb",
+      "title": "浪花儿",
+      "originalTitle": "浪花儿",
+      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
+      "posterPath": "/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1315772,
+      "type": "tmdb",
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "releaseDate": "2026-06-24",
+      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "rating": 7.551,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动画"
+    },
+    {
       "id": 736212,
       "type": "tmdb",
       "title": "歌声缘何慢半拍",
@@ -522,58 +522,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 965150,
-      "type": "tmdb",
-      "title": "晒后假日",
-      "originalTitle": "Aftersun",
-      "description": "在一座日渐萧索的度假村里，11岁的苏菲珍藏着与深情而理想主义的父亲卡卢姆共度的罕见时光。当青春期世界悄然迫近时，苏菲未曾察觉的是：父亲正在父亲身份之外的生活重压下挣扎。二十年后，苏菲对那次最后假日的温柔追忆，逐渐凝结成一副关于他们关系的深刻而令人心碎的情感画卷——她试图将自己熟悉的父亲与那个不曾了解的男人重新拼合。夏洛特·威尔斯这部精湛而灼人的导演处女作，以记忆的微光重塑了爱与理解的沉默地带。",
-      "releaseDate": "2022-10-21",
-      "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
-      "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
-      "rating": 7.651,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
-      "id": 72245,
-      "type": "tmdb",
-      "title": "钢的琴",
-      "originalTitle": "钢的琴",
-      "description": "20世纪90年代初，东北某重工业城市。原钢厂工人陈桂林下岗后拉起一支乐队，靠奔波于婚丧嫁娶和店铺开业勉强维持生活。离家多年的妻子小菊突然回来，不仅提出离婚，还要与他争夺女儿小元的抚养权。为了留住热爱弹琴的女儿，陈桂林一心想给她买一架钢琴，却始终筹不到足够的钱，甚至和女友淑娴以及昔日钢厂的伙伴夜入学校偷琴。种种办法接连失败后，陈桂林偶然找到一本关于钢琴制造的俄国文献，于是召集昔日工友，在早已破败的钢厂里开始了一场亲手制造钢琴的计划……",
-      "releaseDate": "2011-07-15",
-      "backdropPath": "/eQHsgPsRQWezDO6FjyErUSVDNUm.jpg",
-      "posterPath": "/tLqr5LHYjxtPBIeyok3TGMIqWUD.jpg",
-      "rating": 7.339,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "releaseDate": "2026-06-24",
-      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.552,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动画"
-    },
-    {
       "id": 1770256,
       "type": "tmdb",
       "title": "老师您辛苦了",
@@ -585,19 +533,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1760508,
-      "type": "tmdb",
-      "title": "正义必胜",
-      "originalTitle": "正义必胜",
-      "description": "影片以纪念中国人民抗日战争暨世界反法西斯战争胜利80周年文艺晚会《正义必胜》为纪录对象和表现载体，分《怒吼吧，黄河》《红星照耀中国》《不可战胜的力量》《共同的黎明》《正义永恒》五个章节，用戏剧表演、歌舞、朗诵等形式，艺术化呈现中国人民赢得的那场伟大胜利。",
-      "releaseDate": "2026-09-03",
-      "backdropPath": null,
-      "posterPath": "/6TU1Z0GGldytyl39zIttaFYqOZu.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     },
     {
       "id": 68883,
@@ -626,19 +561,6 @@
       "genreTitle": "动作, 犯罪"
     },
     {
-      "id": 1713529,
-      "type": "tmdb",
-      "title": "想你了",
-      "originalTitle": "想你了",
-      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
-      "releaseDate": "2026-07-17",
-      "backdropPath": "/2UC691pg5qNavMThV3e903BbkCy.jpg",
-      "posterPath": "/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1628,
       "type": "tmdb",
       "title": "祖与占",
@@ -648,19 +570,6 @@
       "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
       "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
       "rating": 7.529,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 4024,
-      "type": "tmdb",
-      "title": "去年在马里昂巴德",
-      "originalTitle": "L'Année dernière à Marienbad",
-      "description": "本片用一种现实与记忆穿插的方式勾勒了男主人公X（吉奥吉欧·艾伯塔基 Giorgio Albertazzi 饰）与女主人公A（德菲因·塞里格 Delphine Seyrig 饰）公剪不断理还乱的情感纠葛。X的记忆中对于巴洛克宫殿里的亭台楼阁如数家珍，在他的描述性旁白中，人们 得以感受到他内心巨大的波澜。在剧场舞台上，戏子正在表演着离愁别绪的桥段。观众席上X跟贵妇A对视良久。歇息之时，剧场响起舞曲，X向A邀舞，两人在近距离表达了对彼此的感受。A觉得这个X是个关注自己的陌生人，但是X却讲述了去年与她发生的一段鲜为人知的故事。期间，还穿插了X跟A丈夫M（莎查•皮托夫 Sacha Pitoëff 饰）游戏对决的场景……",
-      "releaseDate": "1961-09-29",
-      "backdropPath": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
-      "posterPath": "/aGPYM6Y8RtaL8DD8u6rfVsRvhD7.jpg",
-      "rating": 7.436,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -678,17 +587,17 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 396227,
+      "id": 1760508,
       "type": "tmdb",
-      "title": "哈姆雷特",
-      "originalTitle": "National Theatre Live: Hamlet",
-      "description": "丹麦王子哈姆雷特发现他的叔叔克劳迪斯杀了他的父亲以获得王位，并计划他的复仇。",
-      "releaseDate": "2015-10-15",
-      "backdropPath": "/2OlaeKSohqs8d2yYe2W9ZeP70Uh.jpg",
-      "posterPath": "/wXywOtlYJyKYMtx84Wwyo5iwgDX.jpg",
-      "rating": 7.5,
+      "title": "正义必胜",
+      "originalTitle": "正义必胜",
+      "description": "影片以纪念中国人民抗日战争暨世界反法西斯战争胜利80周年文艺晚会《正义必胜》为纪录对象和表现载体，分《怒吼吧，黄河》《红星照耀中国》《不可战胜的力量》《共同的黎明》《正义永恒》五个章节，用戏剧表演、歌舞、朗诵等形式，艺术化呈现中国人民赢得的那场伟大胜利。",
+      "releaseDate": "2026-09-03",
+      "backdropPath": null,
+      "posterPath": "/6TU1Z0GGldytyl39zIttaFYqOZu.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "纪录"
     },
     {
       "id": 1330272,
@@ -700,6 +609,19 @@
       "backdropPath": "/zSiOLvRm7atrdwgvmPfo9IEojEx.jpg",
       "posterPath": "/ptXXCmUCwFdDWjFtZsa2eqxdOu4.jpg",
       "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 396227,
+      "type": "tmdb",
+      "title": "哈姆雷特",
+      "originalTitle": "National Theatre Live: Hamlet",
+      "description": "丹麦王子哈姆雷特发现他的叔叔克劳迪斯杀了他的父亲以获得王位，并计划他的复仇。",
+      "releaseDate": "2015-10-15",
+      "backdropPath": "/2OlaeKSohqs8d2yYe2W9ZeP70Uh.jpg",
+      "posterPath": "/wXywOtlYJyKYMtx84Wwyo5iwgDX.jpg",
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
@@ -730,19 +652,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1028378,
-      "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
-      "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.667,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 956215,
       "type": "tmdb",
       "title": "龙凤呈祥(京剧)",
@@ -751,19 +660,6 @@
       "releaseDate": "2015-04-23",
       "backdropPath": null,
       "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
-      "id": 1316352,
-      "type": "tmdb",
-      "title": "状元媒(京剧)",
-      "originalTitle": "状元媒(京剧)",
-      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
-      "releaseDate": "2015-04-23",
-      "backdropPath": null,
-      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
@@ -782,6 +678,19 @@
       "genreTitle": ""
     },
     {
+      "id": 1316352,
+      "type": "tmdb",
+      "title": "状元媒(京剧)",
+      "originalTitle": "状元媒(京剧)",
+      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
+      "releaseDate": "2015-04-23",
+      "backdropPath": null,
+      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
       "id": 916971,
       "type": "tmdb",
       "title": "赵氏孤儿(京剧)",
@@ -793,19 +702,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
-    },
-    {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     }
   ]
 }
