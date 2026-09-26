@@ -1,7 +1,20 @@
 {
-  "time": "2026-09-25T20:58:35.713Z",
+  "time": "2026-09-26T20:31:18.179Z",
   "data": {
     "爱奇艺·迷雾剧场": [
+      {
+        "id": 301494,
+        "type": "tmdb",
+        "title": "余红旧事",
+        "originalTitle": "余红旧事",
+        "description": "一片广场上发生一连串荒诞命案——冻成冰雕的酒鬼，惨被断肢的壮汉，人间蒸发的地头蛇……看似毫无关联，实则命运环环相扣，情感彼此纠葛。",
+        "releaseDate": "2026-09-29",
+        "backdropPath": null,
+        "posterPath": "/g20NbhGbOq2JptWPdMPXma4QuGF.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "犯罪"
+      },
       {
         "id": 301489,
         "type": "tmdb",
