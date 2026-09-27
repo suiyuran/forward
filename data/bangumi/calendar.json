@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-26T18:56:55.892Z",
+  "time": "2026-09-27T19:29:14.022Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
         "posterPath": "/canvlHpMsrzmGXbJDgjfapqODg1.jpg",
-        "rating": 7.9,
+        "rating": 7.654,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2021-01-11",
         "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "posterPath": "/u7LWdKmEdEr6Ui3GZMsFGlKZQBd.jpg",
-        "rating": 8.415,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
         "posterPath": "/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-        "rating": 6.6,
+        "rating": 6.462,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -141,7 +141,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
         "posterPath": "/zlDw5KbBQ9LOz5ul3zx3CKaFgFi.jpg",
-        "rating": 8.271,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -193,7 +193,7 @@
         "releaseDate": "2026-01-11",
         "backdropPath": "/9AZq9CARteSIRa5tOCy1yjeVhm5.jpg",
         "posterPath": "/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
-        "rating": 8.6,
+        "rating": 8.611,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -221,7 +221,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/5ekJqI6LW3E1DgbIbxzlMCqBajV.jpg",
         "posterPath": "/mNgP82BUf9gpjmaHqiBLRilb8BJ.jpg",
-        "rating": 7.6,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -325,9 +325,22 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
         "posterPath": "/2niOCxDblN9fTL33zGmphQ0zmMW.jpg",
-        "rating": 8.6,
+        "rating": 8.684,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
+      },
+      {
+        "id": 329125,
+        "type": "tmdb",
+        "title": "万古至尊：李云霄传",
+        "originalTitle": "万古至尊：李云霄传",
+        "description": "天武大陆第三强者，破军武帝古飞扬被世界规则所限，修为困在九天武帝境多年，难以突破。为了摆脱困境，借助神霄宫主曲红颜对自己的爱慕，布下惊天大局，以域外魔气为祭，转世重修。转世之后名为李云霄，是天水国一名15岁少年，也是元帅府李家的嫡长孙。此时天水国外有强敌入侵，内有王子夺嫡，而掌握兵权的李家也成为危机旋涡的中心。面对众人的争权夺利，李云霄站在更高的维度，从容破局。因为他深知，在这个武道至上的世界，一切伟力归于自身，他的目标自始至终只有一个，完成前世布局筑造神境根基。",
+        "releaseDate": "2026-07-20",
+        "backdropPath": "/a2haFUJeaXcheiAI9ixgc8U7qRE.jpg",
+        "posterPath": "/pvJCEYlqG3pt2FyzDF2WP1lu6Uf.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "动画"
       },
       {
         "id": 325158,
@@ -338,7 +351,7 @@
         "releaseDate": "2026-07-06",
         "backdropPath": "/jAoeSZKv01uL0r2el1NjUb9aewI.jpg",
         "posterPath": "/f7qMDdhpC4yXmlJo5tvdwRO9JtE.jpg",
-        "rating": 7.8,
+        "rating": 8.571,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -418,7 +431,7 @@
         "releaseDate": "2026-07-07",
         "backdropPath": "/ppR5S0tqg53tVFA8Gc8CfkWkQG8.jpg",
         "posterPath": "/5onAmRL2UPOi33OqmsAobtbJZcn.jpg",
-        "rating": 9.375,
+        "rating": 9.4,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -498,7 +511,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.749,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -537,7 +550,7 @@
         "releaseDate": "2024-03-20",
         "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
         "posterPath": "/f0DwCOdP2YSar5Ao6dswha15oIC.jpg",
-        "rating": 8.704,
+        "rating": 8.706,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -563,7 +576,7 @@
         "releaseDate": "2025-04-05",
         "backdropPath": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
         "posterPath": "/fWLpYnmApgNQXOV80o72vevmZOI.jpg",
-        "rating": 7.321,
+        "rating": 7.322,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -851,7 +864,7 @@
         "releaseDate": "2026-07-03",
         "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
         "posterPath": "/p5soa8DFv7PYxjOlTMY1ARHjT3a.jpg",
-        "rating": 8.4,
+        "rating": 8.404,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -957,7 +970,7 @@
         "releaseDate": "2026-01-10",
         "backdropPath": "/gf62V8UBVBMFPpD9yI0UFvkFvq2.jpg",
         "posterPath": "/2z8wbBH2r4JZMyhC2ruKnxwTjlg.jpg",
-        "rating": 7.333,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1011,7 +1024,7 @@
         "releaseDate": "2024-10-04",
         "backdropPath": "/6aicKBDCaK0KRpgd2eqN6aQ7Mak.jpg",
         "posterPath": "/aKo52QDpZ98BZA2nhOgMuYxLxc6.jpg",
-        "rating": 6.5,
+        "rating": 6.667,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1024,7 +1037,7 @@
         "releaseDate": "2004-10-05",
         "backdropPath": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
         "posterPath": "/uZM8PIaimoRxQ3vYqzpZOifGE6Y.jpg",
-        "rating": 8.351,
+        "rating": 8.352,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       },
@@ -1076,7 +1089,7 @@
         "releaseDate": "2024-02-22",
         "backdropPath": "/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
         "posterPath": "/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
-        "rating": 7.771,
+        "rating": 7.768,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -1089,7 +1102,7 @@
         "releaseDate": "2026-07-04",
         "backdropPath": "/6AoGMlKo2DUsYWiF5zzjdRERCVi.jpg",
         "posterPath": "/o8Jo2wBncO3wqr2sDk30ktgejcm.jpg",
-        "rating": 8.118,
+        "rating": 8.222,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1115,7 +1128,7 @@
         "releaseDate": "2026-07-05",
         "backdropPath": "/58WqFaGaATt9lj9STPhZZGF0PKF.jpg",
         "posterPath": "/4zfY2n1eBfyZJGOiBiOnyPbyrTh.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1141,7 +1154,7 @@
         "releaseDate": "2026-07-12",
         "backdropPath": "/rGpovV6h1XSyksXyHRn0zzQNW8V.jpg",
         "posterPath": "/iCcg8wDAoq4YHQOvsJXYzUe2FEc.jpg",
-        "rating": 7.2,
+        "rating": 7.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
