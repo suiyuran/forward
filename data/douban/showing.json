@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-27T19:58:53.230Z",
+  "time": "2026-09-28T22:26:34.459Z",
   "data": [
     {
       "id": 1089598,
@@ -49,7 +49,7 @@
       "releaseDate": "2011-03-27",
       "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.1,
+      "rating": 8.112,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -75,7 +75,7 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 9.073,
+      "rating": 9.1,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -86,9 +86,9 @@
       "originalTitle": "The Odyssey",
       "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
       "releaseDate": "2026-07-15",
-      "backdropPath": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+      "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.018,
+      "rating": 8.017,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -132,19 +132,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落2：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "releaseDate": "2026-09-01",
-      "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6.2,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
-    },
-    {
       "id": 1670314,
       "type": "tmdb",
       "title": "红孩儿火焰山之王",
@@ -156,6 +143,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1101412,
+      "type": "tmdb",
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "releaseDate": "2026-09-01",
+      "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "rating": 6.173,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
     },
     {
       "id": 1774595,
@@ -171,6 +171,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1288445,
+      "type": "tmdb",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "rating": 7.284,
+      "mediaType": "movie",
+      "genreTitle": "动作, 惊悚"
+    },
+    {
       "id": 1755840,
       "type": "tmdb",
       "title": "铁达妮的号",
@@ -184,19 +197,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1288445,
-      "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.158,
-      "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
-    },
-    {
       "id": 1633056,
       "type": "tmdb",
       "title": "八仙！",
@@ -205,35 +205,9 @@
       "releaseDate": "2026-07-10",
       "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
       "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "rating": 7.963,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
-    },
-    {
-      "id": 1761059,
-      "type": "tmdb",
-      "title": "一路超平安",
-      "originalTitle": "一路超平安",
-      "description": "一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": null,
-      "posterPath": "/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
-    },
-    {
-      "id": 1444590,
-      "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "releaseDate": "2026-09-05",
-      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 10681,
@@ -249,17 +223,17 @@
       "genreTitle": "动画, 家庭"
     },
     {
-      "id": 1748007,
+      "id": 1444590,
       "type": "tmdb",
-      "title": "牛来",
-      "originalTitle": "牛来",
-      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
-      "releaseDate": "2026-08-05",
-      "backdropPath": "/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
-      "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "rating": 4.4,
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "releaseDate": "2026-09-05",
+      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "rating": 5,
       "mediaType": "movie",
-      "genreTitle": "家庭, 动画"
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1339713,
@@ -270,7 +244,7 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/uoTZOIXnkcTgJe1emITpsQq7sPu.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.19,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -283,9 +257,35 @@
       "releaseDate": "2026-07-29",
       "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.865,
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
+    },
+    {
+      "id": 1761059,
+      "type": "tmdb",
+      "title": "一路超平安",
+      "originalTitle": "一路超平安",
+      "description": "一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": null,
+      "posterPath": "/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
+    },
+    {
+      "id": 1748007,
+      "type": "tmdb",
+      "title": "牛来",
+      "originalTitle": "牛来",
+      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
+      "releaseDate": "2026-08-05",
+      "backdropPath": "/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
+      "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
+      "rating": 4.4,
+      "mediaType": "movie",
+      "genreTitle": "家庭, 动画"
     },
     {
       "id": 1761217,
@@ -301,30 +301,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1774598,
+      "id": 1658524,
       "type": "tmdb",
-      "title": "最后，一根稻草托起了下巴",
-      "originalTitle": "最后，一根稻草托起了下巴",
-      "description": "只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": null,
-      "posterPath": "/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
+      "title": "怪屋",
+      "originalTitle": "怪屋",
+      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
+      "releaseDate": "2026-09-04",
+      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
+      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1724637,
-      "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
-      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
-      "rating": 6.667,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 动画"
+      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1716541,
@@ -340,17 +327,30 @@
       "genreTitle": "爱情, 奇幻"
     },
     {
-      "id": 1658524,
+      "id": 1724637,
       "type": "tmdb",
-      "title": "怪屋",
-      "originalTitle": "怪屋",
-      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
-      "releaseDate": "2026-09-04",
-      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
-      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
+      "releaseDate": "2026-08-07",
+      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
+      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
+      "rating": 6.7,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 动画"
+    },
+    {
+      "id": 1774598,
+      "type": "tmdb",
+      "title": "最后，一根稻草托起了下巴",
+      "originalTitle": "最后，一根稻草托起了下巴",
+      "description": "只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": null,
+      "posterPath": "/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
+      "genreTitle": "剧情"
     },
     {
       "id": 1339597,
@@ -379,19 +379,6 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 1630030,
-      "type": "tmdb",
-      "title": "大唐妖探",
-      "originalTitle": "大唐妖探",
-      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
-      "releaseDate": "2026-08-08",
-      "backdropPath": "/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
-      "posterPath": "/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
-      "rating": 5.5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动画"
-    },
-    {
       "id": 1318413,
       "type": "tmdb",
       "title": "诺曼底72小时",
@@ -418,14 +405,27 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1765410,
+      "id": 1630030,
       "type": "tmdb",
-      "title": "明月照他乡",
-      "originalTitle": "明月照他乡",
-      "description": "本片把镜头聚焦六位外籍留学生在中国的学习与成长，通过长达两年零两个月，跨越亚洲、非洲、北美的拍摄，真实展现这些来自不同国家、不同种族的青年人在异乡上海追求梦想过程中的彷徨、挣扎与奋斗。影片旨在凸显“相似的青春”，反映“人性是共通的”这一普世真理。",
-      "releaseDate": "2026-09-24",
-      "backdropPath": "/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
-      "posterPath": "/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
+      "title": "大唐妖探",
+      "originalTitle": "大唐妖探",
+      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
+      "releaseDate": "2026-08-08",
+      "backdropPath": "/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+      "posterPath": "/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
+      "rating": 5.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动画"
+    },
+    {
+      "id": 1550321,
+      "type": "tmdb",
+      "title": "浪花儿",
+      "originalTitle": "浪花儿",
+      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
+      "posterPath": "/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "纪录"
@@ -444,17 +444,17 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
-      "id": 1185806,
+      "id": 1765410,
       "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.1,
+      "title": "明月照他乡",
+      "originalTitle": "明月照他乡",
+      "description": "本片把镜头聚焦六位外籍留学生在中国的学习与成长，通过长达两年零两个月，跨越亚洲、非洲、北美的拍摄，真实展现这些来自不同国家、不同种族的青年人在异乡上海追求梦想过程中的彷徨、挣扎与奋斗。影片旨在凸显“相似的青春”，反映“人性是共通的”这一普世真理。",
+      "releaseDate": "2026-09-24",
+      "backdropPath": "/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
+      "posterPath": "/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
+      "genreTitle": "纪录"
     },
     {
       "id": 592402,
@@ -478,22 +478,22 @@
       "releaseDate": "2022-10-21",
       "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
       "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
-      "rating": 7.6,
+      "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "剧情"
     },
     {
-      "id": 1550321,
+      "id": 1185806,
       "type": "tmdb",
-      "title": "浪花儿",
-      "originalTitle": "浪花儿",
-      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
-      "posterPath": "/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
-      "rating": 0,
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 8.1,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1315772,
@@ -504,7 +504,7 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.562,
+      "rating": 7.561,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
@@ -520,19 +520,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 8073,
-      "type": "tmdb",
-      "title": "法外之徒",
-      "originalTitle": "Bande à part",
-      "description": "继《筋疲力尽》问世四年后，让-吕克·戈达尔以更激进的手法重构了黑帮电影范式。在这部作品中，两名躁动不安的年轻男子鼓动他们共同倾慕的女子协助实施一场发生在她自己家中的抢劫。这部兼具大胆锋芒与迷人影趣的法国新浪潮瑰宝，既流露着伤感情调又充满自由不羁的气质，既闪耀着浪漫星光又萦绕着淡淡哀愁。戈达尔在此片中创造了诸多影史留名的经典段落：卢浮宫内的狂奔场景与那段挥之不去的麦迪逊舞片段，已然成为电影史上永恒的时代印记。",
-      "releaseDate": "1964-08-05",
-      "backdropPath": "/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
-      "posterPath": "/zRvjanylCLPVMYdTGr56q368y5l.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
     },
     {
       "id": 1713529,
@@ -556,7 +543,7 @@
       "releaseDate": "1962-01-23",
       "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
       "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
-      "rating": 7.529,
+      "rating": 7.528,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
     },
@@ -624,19 +611,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
-    },
-    {
-      "id": 916971,
-      "type": "tmdb",
-      "title": "赵氏孤儿(京剧)",
-      "originalTitle": "赵氏孤儿(京剧)",
-      "description": "春秋晋国，屠岸贾侍宠杀害赵盾与全家三百余口。赵盾儿媳庄姬公主深宫产子，为救孤儿，程婴献子替孤。十五年后，程婴与魏绛联手杀死屠岸贾，报了赵家仇恨。  　　这幕悲剧是因屠岸贾、晋灵公在绛霄楼弹打百姓取乐而引发的……",
-      "releaseDate": "2017-04-21",
-      "backdropPath": null,
-      "posterPath": "/5zPq9KLq367E8WZFgltKM8N7urk.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "电视电影"
     },
     {
       "id": 1147747,
