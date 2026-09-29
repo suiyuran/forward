@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-28T22:26:34.459Z",
+  "time": "2026-09-29T21:17:40.708Z",
   "data": [
     {
       "id": 1089598,
@@ -28,6 +28,19 @@
       "genreTitle": "喜剧, 动作"
     },
     {
+      "id": 1263337,
+      "type": "tmdb",
+      "title": "野兽之心",
+      "originalTitle": "Heart of the Beast",
+      "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
+      "rating": 7.675,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 惊悚"
+    },
+    {
       "id": 1678102,
       "type": "tmdb",
       "title": "死亡禁区实录",
@@ -49,7 +62,7 @@
       "releaseDate": "2011-03-27",
       "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.112,
+      "rating": 8.109,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -75,7 +88,7 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 9.1,
+      "rating": 9,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -88,22 +101,9 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.017,
+      "rating": 8.015,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
-    },
-    {
-      "id": 299534,
-      "type": "tmdb",
-      "title": "复仇者联盟4：终局之战",
-      "originalTitle": "Avengers: Endgame",
-      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
-      "releaseDate": "2019-04-24",
-      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "rating": 8.245,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 科幻"
     },
     {
       "id": 278,
@@ -119,17 +119,17 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1541125,
+      "id": 299534,
       "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
-      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
-      "rating": 6,
+      "title": "复仇者联盟4：终局之战",
+      "originalTitle": "Avengers: Endgame",
+      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
+      "releaseDate": "2019-04-24",
+      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
+      "rating": 8.245,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "冒险, 科幻"
     },
     {
       "id": 1670314,
@@ -145,6 +145,32 @@
       "genreTitle": "动画, 奇幻"
     },
     {
+      "id": 1658524,
+      "type": "tmdb",
+      "title": "怪屋",
+      "originalTitle": "怪屋",
+      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
+      "releaseDate": "2026-09-04",
+      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
+      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1541125,
+      "type": "tmdb",
+      "title": "年会不能停！2",
+      "originalTitle": "年会不能停！2",
+      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
+      "releaseDate": "2026-07-24",
+      "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
+      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
       "id": 1101412,
       "type": "tmdb",
       "title": "坠落2：死点",
@@ -153,7 +179,7 @@
       "releaseDate": "2026-09-01",
       "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6.173,
+      "rating": 6.151,
       "mediaType": "movie",
       "genreTitle": "惊悚"
     },
@@ -171,19 +197,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1288445,
-      "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.284,
-      "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
-    },
-    {
       "id": 1755840,
       "type": "tmdb",
       "title": "铁达妮的号",
@@ -197,6 +210,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1288445,
+      "type": "tmdb",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "rating": 7.333,
+      "mediaType": "movie",
+      "genreTitle": "动作, 惊悚"
+    },
+    {
       "id": 1633056,
       "type": "tmdb",
       "title": "八仙！",
@@ -205,22 +231,22 @@
       "releaseDate": "2026-07-10",
       "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
       "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "rating": 8,
+      "rating": 7.929,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 10681,
+      "id": 1339713,
       "type": "tmdb",
-      "title": "机器人总动员",
-      "originalTitle": "WALL·E",
-      "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
-      "releaseDate": "2008-06-26",
-      "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
-      "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.125,
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
+      "rating": 8.188,
       "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
+      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1444590,
@@ -236,17 +262,17 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1339713,
+      "id": 10681,
       "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/uoTZOIXnkcTgJe1emITpsQq7sPu.jpg",
-      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.2,
+      "title": "机器人总动员",
+      "originalTitle": "WALL·E",
+      "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
+      "releaseDate": "2008-06-26",
+      "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+      "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
+      "rating": 8.125,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
+      "genreTitle": "动画, 家庭"
     },
     {
       "id": 969681,
@@ -257,7 +283,7 @@
       "releaseDate": "2026-07-29",
       "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "posterPath": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "rating": 7.9,
+      "rating": 7.864,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -283,7 +309,7 @@
       "releaseDate": "2026-08-05",
       "backdropPath": "/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
       "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "rating": 4.4,
+      "rating": 4.176,
       "mediaType": "movie",
       "genreTitle": "家庭, 动画"
     },
@@ -301,17 +327,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1658524,
+      "id": 1502135,
       "type": "tmdb",
-      "title": "怪屋",
-      "originalTitle": "怪屋",
-      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
-      "releaseDate": "2026-09-04",
-      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
-      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
+      "title": "密档",
+      "originalTitle": "密档",
+      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
+      "releaseDate": "2026-08-28",
+      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
+      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
+      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 1716541,
@@ -327,32 +353,6 @@
       "genreTitle": "爱情, 奇幻"
     },
     {
-      "id": 1724637,
-      "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
-      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
-      "rating": 6.7,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 动画"
-    },
-    {
-      "id": 1774598,
-      "type": "tmdb",
-      "title": "最后，一根稻草托起了下巴",
-      "originalTitle": "最后，一根稻草托起了下巴",
-      "description": "只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": null,
-      "posterPath": "/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1339597,
       "type": "tmdb",
       "title": "水东游",
@@ -366,30 +366,17 @@
       "genreTitle": "剧情, 奇幻"
     },
     {
-      "id": 1502135,
+      "id": 1724637,
       "type": "tmdb",
-      "title": "密档",
-      "originalTitle": "密档",
-      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
-      "releaseDate": "2026-08-28",
-      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
-      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
-      "rating": 0,
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
+      "releaseDate": "2026-08-07",
+      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
+      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
+      "rating": 6.7,
       "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1318413,
-      "type": "tmdb",
-      "title": "诺曼底72小时",
-      "originalTitle": "Pressure",
-      "description": "1944年，诺曼底登陆进入最后72小时，盟军大规模登陆部队已经集结完毕，一切准备就绪，唯独难以预测的天气成为决定行动成败的关键。气象学家詹姆斯·斯塔格上校根据自己的判断预警风暴即将来临，但推迟行动同样可能导致盟军部署暴露。面对来自盟军高层的巨大压力，斯塔格必须坚持自己的气象判断，而最终决定权则掌握在盟军最高司令德怀特·艾森豪威尔手中。数十万将士的安危与诺曼底登陆的成败，都悬于这场与时间和天气的艰难博弈之中……",
-      "releaseDate": "2026-05-28",
-      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 历史"
+      "genreTitle": "爱情, 动画"
     },
     {
       "id": 1491920,
@@ -405,6 +392,32 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1774598,
+      "type": "tmdb",
+      "title": "最后，一根稻草托起了下巴",
+      "originalTitle": "最后，一根稻草托起了下巴",
+      "description": "只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": null,
+      "posterPath": "/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1318413,
+      "type": "tmdb",
+      "title": "诺曼底72小时",
+      "originalTitle": "Pressure",
+      "description": "1944年，诺曼底登陆进入最后72小时，盟军大规模登陆部队已经集结完毕，一切准备就绪，唯独难以预测的天气成为决定行动成败的关键。气象学家詹姆斯·斯塔格上校根据自己的判断预警风暴即将来临，但推迟行动同样可能导致盟军部署暴露。面对来自盟军高层的巨大压力，斯塔格必须坚持自己的气象判断，而最终决定权则掌握在盟军最高司令德怀特·艾森豪威尔手中。数十万将士的安危与诺曼底登陆的成败，都悬于这场与时间和天气的艰难博弈之中……",
+      "releaseDate": "2026-05-28",
+      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
+      "rating": 7.699,
+      "mediaType": "movie",
+      "genreTitle": "惊悚, 历史"
+    },
+    {
       "id": 1630030,
       "type": "tmdb",
       "title": "大唐妖探",
@@ -418,19 +431,6 @@
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 1550321,
-      "type": "tmdb",
-      "title": "浪花儿",
-      "originalTitle": "浪花儿",
-      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
-      "posterPath": "/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 1655500,
       "type": "tmdb",
       "title": "床下有人4",
@@ -442,6 +442,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
+    },
+    {
+      "id": 1550321,
+      "type": "tmdb",
+      "title": "浪花儿",
+      "originalTitle": "浪花儿",
+      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
+      "posterPath": "/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 1765410,
@@ -478,22 +491,9 @@
       "releaseDate": "2022-10-21",
       "backdropPath": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
       "posterPath": "/4vpzjJecBzkLJXJry0wjqNN5jpG.jpg",
-      "rating": 7.7,
+      "rating": 7.652,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.1,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1315772,
@@ -504,22 +504,22 @@
       "releaseDate": "2026-06-24",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.561,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "冒险, 动画"
     },
     {
-      "id": 736212,
+      "id": 1185806,
       "type": "tmdb",
-      "title": "歌声缘何慢半拍",
-      "originalTitle": "歌声缘何慢半拍",
-      "description": "少小离家老大回，乡音无改鬓毛衰。离开故乡多年后，军胜踏上回家的归途。年近五 十的军胜家住河南安阳一个村庄，多年后已经发生了近乎沧海桑田的变化。他在众人的围观中见到了老母亲，心有愧疚的军胜拉着母亲给去世的父亲上坟。他去镇上给母亲买来烧鸡，为母亲排忧解难。在和本村村民的相处中，军胜浪荡的个性逐渐消退，他开始认真思考自己的下半生。在亲戚的帮助下，军胜得到了一个在小学工作的机会。在工作中，军胜获得了精神上的尊重和满足。伴随着新农村的建设，老学校搬迁到新校址。军胜的学校生涯告一段落，他接受了生活给他新的安排，又一次离开家乡满怀希望。",
-      "releaseDate": "2026-09-08",
-      "backdropPath": "/4JELCsRY1nCeomckhZa5waPixtE.jpg",
-      "posterPath": "/h8nBh0SSDOMtZsDZBBPp6zhYIxP.jpg",
-      "rating": 0,
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 8.152,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1713529,
@@ -535,32 +535,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1628,
-      "type": "tmdb",
-      "title": "祖与占",
-      "originalTitle": "Jules et Jim",
-      "description": "被誉为影史杰作的本片，在跨越二十五年的时光中，勾勒出两位挚友与他们共同痴迷的女子之间复杂的关系。传奇导演弗朗索瓦·特吕弗执导，让娜·莫罗饰演迷人而任性的凯瑟琳——她那神秘的笑容与炽烈的天性，将祖与占卷入电影史上最令人着迷的情爱三角。这部作品以鲜活又沉痛的笔触探讨自由、忠诚与爱的坚忍，1962年上映后风靡全球，至今依然大胆迷人如初。[标准收藏]",
-      "releaseDate": "1962-01-23",
-      "backdropPath": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
-      "posterPath": "/BlUKTKa4EyvJkIohc8krcM3nUQ.jpg",
-      "rating": 7.528,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1760508,
-      "type": "tmdb",
-      "title": "正义必胜",
-      "originalTitle": "正义必胜",
-      "description": "影片以纪念中国人民抗日战争暨世界反法西斯战争胜利80周年文艺晚会《正义必胜》为纪录对象和表现载体，分《怒吼吧，黄河》《红星照耀中国》《不可战胜的力量》《共同的黎明》《正义永恒》五个章节，用戏剧表演、歌舞、朗诵等形式，艺术化呈现中国人民赢得的那场伟大胜利。",
-      "releaseDate": "2026-09-03",
-      "backdropPath": null,
-      "posterPath": "/6TU1Z0GGldytyl39zIttaFYqOZu.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 396227,
       "type": "tmdb",
       "title": "哈姆雷特",
@@ -574,17 +548,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 921937,
+      "id": 1147747,
       "type": "tmdb",
-      "title": "穆桂英挂帅(京剧)",
-      "originalTitle": "穆桂英挂帅(京剧)",
-      "description": "西夏王造反，佘太君差杨文广、杨金花进京打探。杨文广校场比武，刀劈王伦。宋王赐印命其母穆桂英挂帅出征。穆桂英先不愿挂帅，经佘太君劝勉，念及国家危亡，抛弃私愤，顿然振奋，慷慨誓师整肃军纪，率领大军出征。",
-      "releaseDate": "2017-04-21",
-      "backdropPath": null,
-      "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
-      "rating": 0,
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
       "mediaType": "movie",
-      "genreTitle": ""
+      "genreTitle": "纪录"
     },
     {
       "id": 956215,
@@ -595,6 +569,19 @@
       "releaseDate": "2015-04-23",
       "backdropPath": null,
       "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 921937,
+      "type": "tmdb",
+      "title": "穆桂英挂帅(京剧)",
+      "originalTitle": "穆桂英挂帅(京剧)",
+      "description": "西夏王造反，佘太君差杨文广、杨金花进京打探。杨文广校场比武，刀劈王伦。宋王赐印命其母穆桂英挂帅出征。穆桂英先不愿挂帅，经佘太君劝勉，念及国家危亡，抛弃私愤，顿然振奋，慷慨誓师整肃军纪，率领大军出征。",
+      "releaseDate": "2017-04-21",
+      "backdropPath": null,
+      "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
@@ -611,19 +598,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
-    },
-    {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     }
   ]
 }
