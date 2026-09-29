@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-28T22:50:41.286Z",
+  "time": "2026-09-29T21:44:49.991Z",
   "data": {
     "爱奇艺·迷雾剧场": [
       {
@@ -9,9 +9,9 @@
         "originalTitle": "余红旧事",
         "description": "一片广场上发生一连串荒诞命案——冻成冰雕的酒鬼，惨被断肢的壮汉，人间蒸发的地头蛇……看似毫无关联，实则命运环环相扣，情感彼此纠葛。",
         "releaseDate": "2026-09-29",
-        "backdropPath": null,
+        "backdropPath": "/6RKO6EX15uF0locEPHzvm4Za43n.jpg",
         "posterPath": "/1rkBA3pnlVcFk80pmoDYwJJHuTw.jpg",
-        "rating": 8,
+        "rating": 5.5,
         "mediaType": "tv",
         "genreTitle": "犯罪"
       },
@@ -362,7 +362,7 @@
         "releaseDate": "2020-09-16",
         "backdropPath": "/kZwfEXUD3OoxSf2wcUzsnltg06L.jpg",
         "posterPath": "/wU5L7mZA0Yy764D1WPP2403d0MG.jpg",
-        "rating": 8.5,
+        "rating": 8.476,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -401,7 +401,7 @@
         "releaseDate": "2020-06-16",
         "backdropPath": "/22DU3JT5EJ6fCkCUB8iYgwI8stO.jpg",
         "posterPath": "/zlaml7IKAIPa3NJE9LhRveELD0v.jpg",
-        "rating": 8.4,
+        "rating": 8.381,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
