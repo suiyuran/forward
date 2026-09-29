@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-28T23:59:59.572Z",
+  "time": "2026-09-29T23:14:08.632Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
         "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-        "rating": 7.7,
+        "rating": 7.714,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-05-12",
         "backdropPath": "/1xrQwkcF8HV0f3CfG0qOko9bRoy.jpg",
         "posterPath": "/gXU7Af2kEaTZxhloRnoXLV7cK9x.jpg",
-        "rating": 7.2,
+        "rating": 7.179,
         "mediaType": "movie",
         "genreTitle": "喜剧, 剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 8.012,
+        "rating": 8.003,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-08-06",
         "backdropPath": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
         "posterPath": "/t8JBX1h4yipba70tNmPaTV2tgbr.jpg",
-        "rating": 6.356,
+        "rating": 6.4,
         "mediaType": "movie",
         "genreTitle": "喜剧, 恐怖"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-11-21",
         "backdropPath": "/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
         "posterPath": "/uuJLrM5ym24COGRDe2k07ZVJitb.jpg",
-        "rating": 6.9,
+        "rating": 6.972,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-09",
         "backdropPath": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
         "posterPath": "/nNwIQ8YvAJ3HHaQ1h89wBzH6aSb.jpg",
-        "rating": 7.45,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "纪录, 音乐"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-08-26",
         "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
         "posterPath": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-        "rating": 8.458,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.8,
+        "rating": 6.825,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-07-31",
         "backdropPath": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
         "posterPath": "/jQ9mNZfvnGzXIedlT5IpBVhAzUi.jpg",
-        "rating": 8.9,
+        "rating": 8.778,
         "mediaType": "tv",
         "genreTitle": "犯罪, 喜剧"
       },
@@ -373,13 +373,13 @@
       {
         "id": 299939,
         "type": "tmdb",
-        "title": "怪物：丽兹·波顿的故事",
+        "title": "怪物：莉齐·博登的故事",
         "originalTitle": "Monster: The Lizzie Borden Story",
         "description": "被困于维多利亚时代残酷家庭的丽兹·波顿用斧头残忍杀害了自己的父母，此案震惊全国。",
         "releaseDate": "2026-09-17",
         "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
         "posterPath": "/4Uk0MaEEx0bO418rhM7B8gqeFPy.jpg",
-        "rating": 8.1,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
