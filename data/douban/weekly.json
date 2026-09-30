@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-29T23:14:08.632Z",
+  "time": "2026-09-30T23:15:06.887Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
         "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-        "rating": 7.714,
+        "rating": 7.7,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 8.003,
+        "rating": 7.979,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-08-06",
         "backdropPath": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
         "posterPath": "/t8JBX1h4yipba70tNmPaTV2tgbr.jpg",
-        "rating": 6.4,
+        "rating": 6.3,
         "mediaType": "movie",
         "genreTitle": "喜剧, 恐怖"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-08-07",
         "backdropPath": "/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
         "posterPath": "/dnpztRePQAUg4FydrwQntAOry9z.jpg",
-        "rating": 7.6,
+        "rating": 7.545,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       }
@@ -148,6 +148,19 @@
         "genreTitle": "悬疑"
       },
       {
+        "id": 282326,
+        "type": "tmdb",
+        "title": "兰香如故",
+        "originalTitle": "兰香如故",
+        "description": "大学士府长孙女沈嘉兰与吏部尚书林家的长孙林锦岐订下婚约，然而朝堂风云突变，祖父沈大学士被判谋逆之罪，沈家惨遭灭门。林家为了自保，与沈家退婚，另与御前新贵赵家结亲。沈嘉兰母亲崔氏曾接济过的林家家奴许万全夫妇用刚病亡的女儿许兰香替下嘉兰。嘉兰从此顶着许兰香的身份，成为林府的一名三等丫鬟。在艰难的境遇中，兰香没有向命运低头，始终为自己和家人的幸福生活努力着，反抗一切不公与压迫。最终，兰香凭借自己的善良与聪慧，突破阶级身份的束缚，赢得林锦岐倾心的同时也获得了林家上下的信服与尊重，成为林家的当家人，将命运牢牢掌控在自己的手中，为沈家洗刷冤屈讨回公道。",
+        "releaseDate": "2026-09-11",
+        "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
+        "posterPath": "/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg",
+        "rating": 6.2,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 家庭"
+      },
+      {
         "id": 309663,
         "type": "tmdb",
         "title": "开庭",
@@ -161,11 +174,24 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 290863,
+        "type": "tmdb",
+        "title": "冬城猎凶",
+        "originalTitle": "冬城猎凶",
+        "description": "1999年冬城发生一起恶性银行抢劫案，劫匪30秒洗劫巨款，现场只留下半枚脚印与一把手枪。刑警李豫京（王阳）负责侦办，案件最后线索中断，变成悬案，他也因此背负处分，心里十三年无法释怀。\n\n2012年，冬城爆发系列儿童拐卖案件，女警岳晴川（万茜）牵头办案，李豫京被调来协同侦查。警方在废弃钢厂发现孩童遗骸，遗骸手中攥着一枚老旧警服纽扣，这条线索意外把1999银行劫案和儿童拐卖案串联在一起。\n\n幕后主犯段长河（余文乐饰），就是当年银行抢劫案的头目。十三年间他改名换姓，伪装成体面成功的企业家，暗中操控犯罪网络，人贩子团伙也是他布局的一部分。\n\n李豫京与岳晴川，一个困于旧案执念，一个因女儿曾遭遇拐卖对人贩子深恶痛绝。二人搭档，顺着蛛丝马迹抽丝剥茧，和伪装多年的凶手展开漫长的正邪博弈，最终将潜藏十三年的真凶抓捕归案。",
+        "releaseDate": "2026-09-10",
+        "backdropPath": "/28u4q3fPzXmbyf3BoiWweUOuuzj.jpg",
+        "posterPath": "/8nenduIuctLj2YBjWHG8pFs1X6R.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "犯罪"
+      },
+      {
         "id": 301489,
         "type": "tmdb",
         "title": "深渊无间",
         "originalTitle": "深渊无间",
-        "description": "一篇名为《深渊》的推理网文悄然上线，打破了保守小城多年来的平静。文中诸多情节与警方未曾公布的多年前“三一二”连环奸杀案案情有着惊人的相似，作案手法、现场痕迹、凶手心理侧写，竟与尘封的卷宗几乎一字不差。\n\n　　热血正义的新警李成（任嘉伦 饰）以“网瘾少年”身份潜入网吧卧底，逐步接近案件关键嫌疑人——网吧老板韩品木（秦俊杰 饰）。韩品木表面温和，实则身份成谜，他既是当年受害者的家属，又是小说《深渊》的幕后上传者。在调查过程中，李成与暗中追查旧案的前刑警辛吉然（田小洁 饰）、刑侦队长赵干哲（王砚辉 饰）结成同盟，共同重启这桩尘封八年的悬案。\n\n　　随着一众人等接连登场——行动诡秘的老警察、暗中窥探的酒店保安、口风严密的职场经理、游走灰色地带的边缘人，以及案件幸存者陈春丽（倪虹洁 饰），全员皆藏秘密，人人皆有疑点。李成与多方嫌疑人一次次上演高智对弈，最终拨开迷雾，侦查出掩藏在令人扼腕的亲情和友情之下的真相。\n\n　　一念之差，有的人走向了绿洲，有的人永远被困在了深渊。",
+        "description": "深渊无间（别名：深渊），2026年刑侦悬疑剧，共16集，刘海波执导，改编自深蓝小说《深渊》。\n\n一篇名为《深渊》的推理网文突然上线，小说里的作案细节，竟然和多年前警方封存的“312悬案”高度吻合，包含只有凶手与办案警察才知晓的隐秘线索。新人刑警李成潜入当地网吧卧底调查，结识了网吧老板韩品木。韩品木气质温和，身份却充满谜团，正是这篇悬疑小说的幕后发布者，也是当年旧案受害者家属，身患绝症，多年暗中追查真凶。\n\n李成与刑侦队长赵干哲、退休老刑警辛吉然联手重启尘封八年的悬案。小城之内人人藏有秘密，多方嫌疑人互相博弈。随着调查深入，层层揭开旧案背后交织的亲情、恩怨与人性抉择，在正义与私刑的边界之间，探寻深渊之下的残酷真相。",
         "releaseDate": "2026-09-09",
         "backdropPath": "/s9YSQAJtXjimsjBVsqLtJNnIjEs.jpg",
         "posterPath": "/b9ngtGNgaHBbLihRrT0MsPRY0GW.jpg",
@@ -213,19 +239,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 287496,
-        "type": "tmdb",
-        "title": "花开锦绣",
-        "originalTitle": "花开锦绣",
-        "description": "豪爽重情的私盐贩子赵凌虽出身草莽，却心怀壮志，他结识了遭人诬陷私通的世家名媛小姐傅庭芸，被迫一起逃亡，二人历经家族与朝廷的重重考验，与命运抗争，终成传奇良缘。",
-        "releaseDate": "2026-08-09",
-        "backdropPath": "/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
-        "posterPath": "/erj7cX8aa1jndO9HlmoyRcJNLQL.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 299952,
         "type": "tmdb",
         "title": "早春晴朗",
@@ -235,19 +248,6 @@
         "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
         "posterPath": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
         "rating": 8.5,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 289761,
-        "type": "tmdb",
-        "title": "醒来",
-        "originalTitle": "醒来",
-        "description": "1941年冬，照相师陈开来在师父、地下党员“断桥”李木胜牺牲后，毅然继承其使命，卷入对抗日军“沉睡计划”的秘密行动。途中结识军统特工金宝，与“苏堤”沈克希、“雷峰塔”赵前等人并肩作战，共同揭露日军细菌实验的真相。经历生死与牺牲，陈开来用相机记录下这场惊心动魄的抗战历程。",
-        "releaseDate": "2026-08-26",
-        "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
-        "posterPath": "/lxULhYKRE1C6zhaCNO0R0Id7ReM.jpg",
-        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
         "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-        "rating": 8.5,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -293,30 +293,17 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 286617,
+        "id": 283319,
         "type": "tmdb",
-        "title": "踮起脚尖",
-        "originalTitle": "Tip Toe",
-        "description": "电工克莱夫与邻居利奥及一位LGBTQ+酒吧老板之间的关系迅速恶化，起因是利奥被锁在门外时，克莱夫允许他使用了手机。本剧由拉塞尔·T·戴维斯创作，共五集。",
-        "releaseDate": "2026-05-31",
-        "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-        "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.825,
+        "title": "大理石厅谋杀案",
+        "originalTitle": "Marble Hall Murders",
+        "description": "改编自安东尼·霍洛维茨的同名小说，也是苏珊·莱兰系列的第三部、最终篇。编辑苏珊·莱兰受邀参与阿提克斯·潘德系列续作的创作，却意外卷入另一宗真实谋杀案，并成为嫌疑人。与此同时，小说中的侦探阿提克斯·潘德前往科孚岛，调查玛格丽特·查尔方特夫人的谋杀案。",
+        "releaseDate": "2026-09-06",
+        "backdropPath": "/woa9xtYfw1dib4JLnvQdLSZK0D2.jpg",
+        "posterPath": "/7BcPfx9b4MhBFxGxZ4WJWnL0oBc.jpg",
+        "rating": 8.8,
         "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 301418,
-        "type": "tmdb",
-        "title": "现在不是出轨的问题",
-        "originalTitle": "지금 불륜이 문제가 아닙니다",
-        "description": "这是一部黑色喜剧，讲述了一对因出卖家庭而走红的网红夫妇，以及一对正在经历混乱离婚诉讼的邻居医生夫妇，随着他们卷入一个无法控制的秘密，一系列冲突不断升级，甚至连婚外情都显得微不足道。",
-        "releaseDate": "2026-07-31",
-        "backdropPath": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
-        "posterPath": "/jQ9mNZfvnGzXIedlT5IpBVhAzUi.jpg",
-        "rating": 8.778,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 喜剧"
+        "genreTitle": "悬疑, 犯罪"
       },
       {
         "id": 207333,
@@ -332,6 +319,32 @@
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
       {
+        "id": 301418,
+        "type": "tmdb",
+        "title": "现在不是出轨的问题",
+        "originalTitle": "지금 불륜이 문제가 아닙니다",
+        "description": "这是一部黑色喜剧，讲述了一对因出卖家庭而走红的网红夫妇，以及一对正在经历混乱离婚诉讼的邻居医生夫妇，随着他们卷入一个无法控制的秘密，一系列冲突不断升级，甚至连婚外情都显得微不足道。",
+        "releaseDate": "2026-07-31",
+        "backdropPath": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+        "posterPath": "/jQ9mNZfvnGzXIedlT5IpBVhAzUi.jpg",
+        "rating": 8.778,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 喜剧"
+      },
+      {
+        "id": 286617,
+        "type": "tmdb",
+        "title": "踮起脚尖",
+        "originalTitle": "Tip Toe",
+        "description": "电工克莱夫与邻居利奥及一位LGBTQ+酒吧老板之间的关系迅速恶化，起因是利奥被锁在门外时，克莱夫允许他使用了手机。本剧由拉塞尔·T·戴维斯创作，共五集。",
+        "releaseDate": "2026-05-31",
+        "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+        "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
+        "rating": 6.825,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 66980,
         "type": "tmdb",
         "title": "巴比伦柏林",
@@ -343,19 +356,6 @@
         "rating": 6.3,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
-      },
-      {
-        "id": 283319,
-        "type": "tmdb",
-        "title": "大理石厅谋杀案",
-        "originalTitle": "Marble Hall Murders",
-        "description": "改编自安东尼·霍洛维茨的同名小说，也是苏珊·莱兰系列的第三部、最终篇。编辑苏珊·莱兰受邀参与阿提克斯·潘德系列续作的创作，却意外卷入另一宗真实谋杀案，并成为嫌疑人。与此同时，小说中的侦探阿提克斯·潘德前往科孚岛，调查玛格丽特·查尔方特夫人的谋杀案。",
-        "releaseDate": "2026-09-06",
-        "backdropPath": "/woa9xtYfw1dib4JLnvQdLSZK0D2.jpg",
-        "posterPath": "/7BcPfx9b4MhBFxGxZ4WJWnL0oBc.jpg",
-        "rating": 8.8,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 犯罪"
       },
       {
         "id": 236235,
