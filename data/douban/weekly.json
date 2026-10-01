@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-30T23:15:06.887Z",
+  "time": "2026-10-01T23:30:10.893Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 7.979,
+        "rating": 7.97,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-11-21",
         "backdropPath": "/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
         "posterPath": "/uuJLrM5ym24COGRDe2k07ZVJitb.jpg",
-        "rating": 6.972,
+        "rating": 7,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-08-07",
         "backdropPath": "/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
         "posterPath": "/dnpztRePQAUg4FydrwQntAOry9z.jpg",
-        "rating": 7.545,
+        "rating": 7.565,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       }
@@ -156,7 +156,7 @@
         "releaseDate": "2026-09-11",
         "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
         "posterPath": "/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg",
-        "rating": 6.2,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "剧情, 家庭"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
         "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-        "rating": 7.9,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-07-31",
         "backdropPath": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
         "posterPath": "/jQ9mNZfvnGzXIedlT5IpBVhAzUi.jpg",
-        "rating": 8.778,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "犯罪, 喜剧"
       },
@@ -373,13 +373,13 @@
       {
         "id": 299939,
         "type": "tmdb",
-        "title": "怪物：莉齐·博登的故事",
+        "title": "怪物：丽兹·波顿的故事",
         "originalTitle": "Monster: The Lizzie Borden Story",
         "description": "被困于维多利亚时代残酷家庭的丽兹·波顿用斧头残忍杀害了自己的父母，此案震惊全国。",
         "releaseDate": "2026-09-17",
         "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
         "posterPath": "/4Uk0MaEEx0bO418rhM7B8gqeFPy.jpg",
-        "rating": 8,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
