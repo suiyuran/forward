@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-30T20:29:26.547Z",
+  "time": "2026-10-01T20:45:26.687Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2024-10-03",
         "backdropPath": "/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
         "posterPath": "/fTt9CEgDgxP8tNiQisNBTnRRpEk.jpg",
-        "rating": 7.863,
+        "rating": 7.845,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -44,9 +44,9 @@
       {
         "id": 288588,
         "type": "tmdb",
-        "title": "信者ゼロの女神サマと始める異世界攻略",
+        "title": "和没有信徒的女神大人一起攻略异世界",
         "originalTitle": "信者ゼロの女神サマと始める異世界攻略",
-        "description": "",
+        "description": "游戏成瘾的高中生高月诚人于校外教学回程中遭遇意外事故，与全班同学一同转移到了异世界。异世界的神明们赐予了全班同学特殊能力，然而，只有诚人被赋予的是较为基础的“魔法师学徒”身份。此后，诚人在梦中遇见了一位没有信徒的无名女神诺雅。诺雅请求诚人信仰她，诚人便决定成为其信徒。随后，女神下达神谕，要求诚人前往人迹未至的迷宫进行拯救。诚人以游戏成瘾者的经验应对这项挑战。在得到诺雅的庇护与神器后，他试图通过非常规方法提升自身能力。故事讲述了诚人与女神诺雅在异世界展开的奇幻冒险。",
         "releaseDate": "2026-10-11",
         "backdropPath": "/4hKtdyTXt4O2hy4zqadlENY1qpM.jpg",
         "posterPath": "/pGRpgwTNGdgp8STDVNB2kFeXPr2.jpg",
@@ -105,6 +105,19 @@
         "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
+      },
+      {
+        "id": 320377,
+        "type": "tmdb",
+        "title": "TANK CHAIR-戦車椅子-",
+        "originalTitle": "TANK CHAIR-戦車椅子-",
+        "description": "",
+        "releaseDate": "2026-10-04",
+        "backdropPath": "/cFxouAuLIa54PEwYlCFdJwCm0lc.jpg",
+        "posterPath": "/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": ""
       },
       {
         "id": 329096,
@@ -195,7 +208,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
         "posterPath": "/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
-        "rating": 0,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -316,7 +329,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.8,
+        "rating": 8.751,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -332,6 +345,19 @@
         "rating": 5.6,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
+      },
+      {
+        "id": 230050,
+        "type": "tmdb",
+        "title": "重生者的魔法一定要特别",
+        "originalTitle": "帰還者の魔法は特別です",
+        "description": "不知何时，世界上出现了能蚕食现世的并行世界——“影世界”。只有战胜影迷宫，人类才能获得宁静，然而最终一切付之一炬，战斗失败，地球灭亡。但这并非结局，而是另一个开始……",
+        "releaseDate": "2023-10-08",
+        "backdropPath": "/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
+        "posterPath": "/aWTfsoyRQNKxvI2EOLOEPKyxDqr.jpg",
+        "rating": 7.3,
+        "mediaType": "tv",
+        "genreTitle": "动画, Sci-Fi & Fantasy"
       },
       {
         "id": 206630,
@@ -407,9 +433,9 @@
         "originalTitle": "仙逆剧场版：弑仙之战",
         "description": "王林于雷之仙界遭遇宿敌绝命追杀，在生死绝境中展开一场惊天逆袭，以弱胜强，终成弑仙壮举。",
         "releaseDate": "2026-10-01",
-        "backdropPath": "/afB7sr98OnVhSKFuB5wh8l0eKg1.jpg",
-        "posterPath": "/cengdSvS7mTrsVfsSesrgu6QQHg.jpg",
-        "rating": 0,
+        "backdropPath": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+        "posterPath": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -433,8 +459,8 @@
         "originalTitle": "FX戦士くるみちゃん",
         "description": "女大学生久留美为了拯救在雷曼兄弟事件中将家中 2000 万圆赔光的妈妈，发誓要藉由 FX 发大财！ 这是一段描述踏入 FX 深坑的女大学生们，有点危险（！？）的赚钱故事！",
         "releaseDate": "2026-10-01",
-        "backdropPath": "/ky35UcS1YLA3qP9b5XUE2bVr2eM.jpg",
-        "posterPath": "/5rGPQKYveS5unWPcJ32BwH9rdvR.jpg",
+        "backdropPath": "/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
+        "posterPath": "/fm6Mzk8e1sGvuOasuCtWhdKl7xx.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -474,7 +500,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
         "posterPath": "/3RUFjYHzsmM8QN1QbVej2CAq825.jpg",
-        "rating": 8.631,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
@@ -489,7 +515,7 @@
         "releaseDate": "2021-04-11",
         "backdropPath": "/jnThpphOHQRiTedCtz1yyshfkHw.jpg",
         "posterPath": "/nXsAZCWvsuN2GoGKE2GM625nKx.jpg",
-        "rating": 8.389,
+        "rating": 8.388,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -541,7 +567,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.6,
+        "rating": 8.634,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -567,7 +593,7 @@
         "releaseDate": "2026-10-02",
         "backdropPath": "/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
         "posterPath": "/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -631,7 +657,7 @@
         "title": "魔法★探险家",
         "originalTitle": "マジカル★エクスプローラー",
         "description": "传说级美少女游戏《魔法★探险家》。\n\n我转生成为凭借作弊能力被众多女角簇拥的主角────身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！\n\n而且，这个好友角色还有着「世界顶尖的魔力量」这个隐藏设定，甚至具备超越主角的潜力……？\n\n为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
-        "releaseDate": "2026-10-03",
+        "releaseDate": "2026-10-04",
         "backdropPath": "/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
         "posterPath": "/b9LtxUfUrhsuq8lYvlhXq2I5gAw.jpg",
         "rating": 0,
