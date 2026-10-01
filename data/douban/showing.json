@@ -1,6 +1,19 @@
 {
-  "time": "2026-09-30T21:18:18.057Z",
+  "time": "2026-10-01T21:38:26.498Z",
   "data": [
+    {
+      "id": 1263337,
+      "type": "tmdb",
+      "title": "野兽之心",
+      "originalTitle": "Heart of the Beast",
+      "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
+      "rating": 7.558,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 惊悚"
+    },
     {
       "id": 1089598,
       "type": "tmdb",
@@ -13,6 +26,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动作, 历史"
+    },
+    {
+      "id": 1439171,
+      "type": "tmdb",
+      "title": "神探之痕迹",
+      "originalTitle": "神探之痕迹",
+      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": "/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
+      "posterPath": "/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 剧情"
     },
     {
       "id": 1086176,
@@ -28,71 +54,6 @@
       "genreTitle": "喜剧, 动作"
     },
     {
-      "id": 1387772,
-      "type": "tmdb",
-      "title": "侦战",
-      "originalTitle": "偵戰",
-      "description": "一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
-      "posterPath": "/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 动作"
-    },
-    {
-      "id": 1439171,
-      "type": "tmdb",
-      "title": "神探之痕迹",
-      "originalTitle": "神探之痕迹",
-      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
-      "posterPath": "/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 1263337,
-      "type": "tmdb",
-      "title": "野兽之心",
-      "originalTitle": "Heart of the Beast",
-      "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.636,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 惊悚"
-    },
-    {
-      "id": 1678102,
-      "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "releaseDate": "2026-09-11",
-      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
-    },
-    {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "releaseDate": "2011-03-27",
-      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.1,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1670314,
       "type": "tmdb",
       "title": "红孩儿火焰山之王",
@@ -104,32 +65,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 1766670,
-      "type": "tmdb",
-      "title": "活色生香",
-      "originalTitle": "活色生香",
-      "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
-      "posterPath": "/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 1567937,
-      "type": "tmdb",
-      "title": "空枪",
-      "originalTitle": "空枪",
-      "description": "90年代初，这座“遍地黄金”的欲望之城，秩序崩坏，犯罪丛生。打工仔万梓强（朱一龙 饰）一心想改写命运，在结识空姐骆嘉苑（卫诗雅 饰）后，两人联手作案，劫取巨额钱款，这次得手让万梓强愈发疯狂，也将他与富商陈辉延（梁家辉 饰）推向了更深的角力漩涡中。与此同时，内地警察亓宏刚（檀健次 饰）和香港警察关苏辰（李施嬅 饰）坚持对万梓强进行调查，两地警方联手行动，正邪较量一触即发。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
-      "posterPath": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
-      "rating": 5.7,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
     },
     {
       "id": 1563608,
@@ -145,17 +80,69 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1368337,
+      "id": 414419,
       "type": "tmdb",
-      "title": "奥德赛",
-      "originalTitle": "The Odyssey",
-      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
-      "releaseDate": "2026-07-15",
-      "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8,
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "releaseDate": "2011-03-27",
+      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "rating": 8.1,
       "mediaType": "movie",
-      "genreTitle": "冒险, 动作"
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 1766670,
+      "type": "tmdb",
+      "title": "活色生香",
+      "originalTitle": "活色生香",
+      "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
+      "releaseDate": "2026-10-01",
+      "backdropPath": "/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
+      "posterPath": "/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1678102,
+      "type": "tmdb",
+      "title": "死亡禁区实录",
+      "originalTitle": "死亡禁区实录",
+      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
+      "releaseDate": "2026-09-11",
+      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
+      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 惊悚"
+    },
+    {
+      "id": 1567937,
+      "type": "tmdb",
+      "title": "空枪",
+      "originalTitle": "空枪",
+      "description": "90年代初，这座“遍地黄金”的欲望之城，秩序崩坏，犯罪丛生。打工仔万梓强（朱一龙 饰）一心想改写命运，在结识空姐骆嘉苑（卫诗雅 饰）后，两人联手作案，劫取巨额钱款，这次得手让万梓强愈发疯狂，也将他与富商陈辉延（梁家辉 饰）推向了更深的角力漩涡中。与此同时，内地警察亓宏刚（檀健次 饰）和香港警察关苏辰（李施嬅 饰）坚持对万梓强进行调查，两地警方联手行动，正邪较量一触即发。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
+      "posterPath": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
+      "rating": 5.7,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
+    },
+    {
+      "id": 1387772,
+      "type": "tmdb",
+      "title": "侦战",
+      "originalTitle": "偵戰",
+      "description": "一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": "/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
+      "posterPath": "/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 动作"
     },
     {
       "id": 1391021,
@@ -166,9 +153,22 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 9,
+      "rating": 9.023,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
+    },
+    {
+      "id": 1368337,
+      "type": "tmdb",
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
+      "releaseDate": "2026-07-15",
+      "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "rating": 8.011,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动作"
     },
     {
       "id": 278,
@@ -182,32 +182,6 @@
       "rating": 8.731,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
-    },
-    {
-      "id": 299534,
-      "type": "tmdb",
-      "title": "复仇者联盟4：终局之战",
-      "originalTitle": "Avengers: Endgame",
-      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
-      "releaseDate": "2019-04-24",
-      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "rating": 8.245,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 科幻"
-    },
-    {
-      "id": 1658524,
-      "type": "tmdb",
-      "title": "怪屋",
-      "originalTitle": "怪屋",
-      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
-      "releaseDate": "2026-09-04",
-      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
-      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
-      "rating": 3,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1650896,
@@ -236,6 +210,32 @@
       "genreTitle": "动画, 奇幻"
     },
     {
+      "id": 1658524,
+      "type": "tmdb",
+      "title": "怪屋",
+      "originalTitle": "怪屋",
+      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
+      "releaseDate": "2026-09-04",
+      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
+      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
+      "rating": 3,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 299534,
+      "type": "tmdb",
+      "title": "复仇者联盟4：终局之战",
+      "originalTitle": "Avengers: Endgame",
+      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
+      "releaseDate": "2019-04-24",
+      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
+      "rating": 8.245,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 科幻"
+    },
+    {
       "id": 1101412,
       "type": "tmdb",
       "title": "坠落2：死点",
@@ -244,22 +244,9 @@
       "releaseDate": "2026-09-01",
       "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6.111,
+      "rating": 6.1,
       "mediaType": "movie",
       "genreTitle": "惊悚"
-    },
-    {
-      "id": 1541125,
-      "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
-      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1774595,
@@ -283,7 +270,7 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.348,
+      "rating": 7.365,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -301,6 +288,19 @@
       "genreTitle": "喜剧, 动画"
     },
     {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
+      "rating": 8.186,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
       "id": 1444590,
       "type": "tmdb",
       "title": "燃烧吧！爸爸",
@@ -314,19 +314,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.2,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
       "id": 10681,
       "type": "tmdb",
       "title": "机器人总动员",
@@ -335,22 +322,9 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.125,
+      "rating": 8.126,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1616157,
-      "type": "tmdb",
-      "title": "上海女儿",
-      "originalTitle": "上海女儿",
-      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": "/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
-      "posterPath": "/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1502135,
@@ -366,17 +340,17 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 1748007,
+      "id": 1616157,
       "type": "tmdb",
-      "title": "牛来",
-      "originalTitle": "牛来",
-      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
-      "releaseDate": "2026-08-05",
-      "backdropPath": "/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
-      "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "rating": 4.176,
+      "title": "上海女儿",
+      "originalTitle": "上海女儿",
+      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": "/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
+      "posterPath": "/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "家庭, 动画"
+      "genreTitle": "剧情"
     },
     {
       "id": 1761217,
@@ -390,6 +364,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1748007,
+      "type": "tmdb",
+      "title": "牛来",
+      "originalTitle": "牛来",
+      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
+      "releaseDate": "2026-08-05",
+      "backdropPath": "/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
+      "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
+      "rating": 4.176,
+      "mediaType": "movie",
+      "genreTitle": "家庭, 动画"
     },
     {
       "id": 1761059,
@@ -465,7 +452,7 @@
       "releaseDate": "2026-05-28",
       "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.693,
+      "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "惊悚, 历史"
     },
@@ -509,19 +496,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "releaseDate": "2026-06-24",
-      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "rating": 7.567,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动画"
-    },
-    {
       "id": 1185806,
       "type": "tmdb",
       "title": "汪汪队立大功大电影3：勇闯恐龙岛",
@@ -530,9 +504,22 @@
       "releaseDate": "2026-07-23",
       "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.136,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
+    },
+    {
+      "id": 1315772,
+      "type": "tmdb",
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "releaseDate": "2026-06-24",
+      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "posterPath": "/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "rating": 7.563,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动画"
     },
     {
       "id": 1713529,
@@ -574,19 +561,6 @@
       "genreTitle": ""
     },
     {
-      "id": 956215,
-      "type": "tmdb",
-      "title": "龙凤呈祥(京剧)",
-      "originalTitle": "龙凤呈祥(京剧)",
-      "description": "孙权（安平 饰）因刘备(耿其昌 饰)久占荆州，屡讨不还，遂与周瑜（叶少兰 饰）定计，假称以妹孙尚香（李维康 饰）许配刘备，诓其过江留质，以换荆州。诸葛亮识破计谋，将计就计，使赵云（王平 饰）保护刘备同往，并先拜谒周瑜岳丈——太尉乔玄（冯志孝 饰）。乔玄即以其事奏于孙母吴国太（赵葆秀 饰），国太决定在甘露寺相亲。乔玄从孙刘联合抗曹的大局出发极力撮合，终于弄假成真。  周瑜见美人计失败，又以声色羁縻之，刘备果然乐不思归。赵云复用诸葛亮锦囊之计，佯报曹操袭取荆州。刘备惊慌欲走，告于尚香。尚香拜别国太，随其潜逃。周瑜遣将追赶，皆为尚香斥退，继而率兵亲至，时诸葛亮已用船迎接刘备脱险。周瑜反受张飞（杨赤 饰）之辱。",
-      "releaseDate": "2015-04-23",
-      "backdropPath": null,
-      "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
       "id": 1147747,
       "type": "tmdb",
       "title": "Blue Whales: Return of the Giants",
@@ -600,19 +574,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1316352,
-      "type": "tmdb",
-      "title": "状元媒(京剧)",
-      "originalTitle": "状元媒(京剧)",
-      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
-      "releaseDate": "2015-04-23",
-      "backdropPath": null,
-      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
       "id": 1028378,
       "type": "tmdb",
       "title": "Serengeti",
@@ -624,6 +585,32 @@
       "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "纪录"
+    },
+    {
+      "id": 956215,
+      "type": "tmdb",
+      "title": "龙凤呈祥(京剧)",
+      "originalTitle": "龙凤呈祥(京剧)",
+      "description": "孙权（安平 饰）因刘备(耿其昌 饰)久占荆州，屡讨不还，遂与周瑜（叶少兰 饰）定计，假称以妹孙尚香（李维康 饰）许配刘备，诓其过江留质，以换荆州。诸葛亮识破计谋，将计就计，使赵云（王平 饰）保护刘备同往，并先拜谒周瑜岳丈——太尉乔玄（冯志孝 饰）。乔玄即以其事奏于孙母吴国太（赵葆秀 饰），国太决定在甘露寺相亲。乔玄从孙刘联合抗曹的大局出发极力撮合，终于弄假成真。  周瑜见美人计失败，又以声色羁縻之，刘备果然乐不思归。赵云复用诸葛亮锦囊之计，佯报曹操袭取荆州。刘备惊慌欲走，告于尚香。尚香拜别国太，随其潜逃。周瑜遣将追赶，皆为尚香斥退，继而率兵亲至，时诸葛亮已用船迎接刘备脱险。周瑜反受张飞（杨赤 饰）之辱。",
+      "releaseDate": "2015-04-23",
+      "backdropPath": null,
+      "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 1316352,
+      "type": "tmdb",
+      "title": "状元媒(京剧)",
+      "originalTitle": "状元媒(京剧)",
+      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
+      "releaseDate": "2015-04-23",
+      "backdropPath": null,
+      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
     }
   ]
 }
