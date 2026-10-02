@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-01T23:30:10.893Z",
+  "time": "2026-10-02T23:20:19.798Z",
   "data": {
     "电影": [
       {
@@ -11,9 +11,35 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
         "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-        "rating": 7.7,
+        "rating": 7.711,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
+      },
+      {
+        "id": 1242876,
+        "type": "tmdb",
+        "title": "500英里",
+        "originalTitle": "500 Miles",
+        "description": "16岁的芬恩和他精力旺盛的弟弟查理，为了不被正在闹分居的父母拆散，连夜离家出走。两个小家伙从英国约克郡出发，跨海翻山，踏上一场长达500英里的冒险，只为抵达爱尔兰西海岸，寻找那位被禁止再见的古怪祖父。影片由凭借《真爱至上》为大众所熟知的英国老戏骨比尔·奈伊领衔主演，以爱尔兰壮阔野性的海岸风光为底色。导演擅长用真实情感刻画人物，此次以细腻克制的镜头语言，将少年成长的迷茫、家庭隔阂的消融与旅途的治愈感交织在一起。",
+        "releaseDate": "2026-05-15",
+        "backdropPath": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
+        "posterPath": "/FhRosui9MSdxdyD3h0skOFhqED.jpg",
+        "rating": 6.4,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1137844,
+        "type": "tmdb",
+        "title": "求救信号",
+        "originalTitle": "Mayday",
+        "description": "一名美国海军飞行员在冷战时期执行绝密任务时不幸被困在敌营。他唯有与一位性格古怪的前克格勃特工联手才有一线生机。",
+        "releaseDate": "2026-09-03",
+        "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+        "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
+        "rating": 7.969,
+        "mediaType": "movie",
+        "genreTitle": "动作, 喜剧"
       },
       {
         "id": 1442669,
@@ -29,32 +55,6 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 1137844,
-        "type": "tmdb",
-        "title": "求救信号",
-        "originalTitle": "Mayday",
-        "description": "一名美国海军飞行员在冷战时期执行绝密任务时不幸被困在敌营。他唯有与一位性格古怪的前克格勃特工联手才有一线生机。",
-        "releaseDate": "2026-09-03",
-        "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-        "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 7.97,
-        "mediaType": "movie",
-        "genreTitle": "动作, 喜剧"
-      },
-      {
-        "id": 1240889,
-        "type": "tmdb",
-        "title": "瘴气营地的青春性事与死亡",
-        "originalTitle": "Teenage Sex and Death at Camp Miasma",
-        "description": "一个虚构的、曾经流行的恐怖电影系列正逐渐失去观众。在多年的草率续集和日渐式微的粉丝基础上，Camp Miasma 杀人狂系列被一位充满热情的年轻酷儿导演接管，以重振这部作品。但当她拜访原电影的女主角——一位如今隐居且充满神秘色彩的女演员时，两位女性陷入了一个充满欲望、恐惧和狂乱的血腥世界。",
-        "releaseDate": "2026-08-06",
-        "backdropPath": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-        "posterPath": "/t8JBX1h4yipba70tNmPaTV2tgbr.jpg",
-        "rating": 6.3,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 恐怖"
-      },
-      {
         "id": 838301,
         "type": "tmdb",
         "title": "童年记忆",
@@ -68,17 +68,43 @@
         "genreTitle": "纪录, 剧情"
       },
       {
-        "id": 974236,
+        "id": 1240889,
         "type": "tmdb",
-        "title": "欧盟制造",
-        "originalTitle": "Made in EU",
-        "description": "保加利亚乡村服装厂女工伊娃常年受怪病缠身，确诊为小镇首例新冠患者后，即便多年未曾外出，仍遭到工厂老板、同事、儿子乃至全镇居民轮番指责。随着新冠出现死亡病例，她被彻底妖魔化，沦为社群排挤的孤家寡人。",
-        "releaseDate": "2026-02-19",
-        "backdropPath": "/g1X7lxHc7ScGt0ycOnYlIvADKbN.jpg",
-        "posterPath": "/brAThV2w7iyNnvwhI13hxDLShhf.jpg",
-        "rating": 6.9,
+        "title": "瘴气营地的青春性事与死亡",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "description": "一个虚构的、曾经流行的恐怖电影系列正逐渐失去观众。在多年的草率续集和日渐式微的粉丝基础上，Camp Miasma 杀人狂系列被一位充满热情的年轻酷儿导演接管，以重振这部作品。但当她拜访原电影的女主角——一位如今隐居且充满神秘色彩的女演员时，两位女性陷入了一个充满欲望、恐惧和狂乱的血腥世界。",
+        "releaseDate": "2026-08-06",
+        "backdropPath": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+        "posterPath": "/t8JBX1h4yipba70tNmPaTV2tgbr.jpg",
+        "rating": 6.33,
         "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "喜剧, 恐怖"
+      },
+      {
+        "id": 1447853,
+        "type": "tmdb",
+        "title": "别为往事懊恼",
+        "originalTitle": "Oasis: Don't Look Back in Anger",
+        "description": "纪录绿洲乐队重聚后的 Oasis Live ’25 世界巡演，记录乐队及全球歌迷的经历与情感，并通过排练、后台、演出及连姆和诺埃尔·加拉格尔二十多年来首次共同采访，展现这一全球音乐事件。",
+        "releaseDate": "2026-09-09",
+        "backdropPath": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+        "posterPath": "/nNwIQ8YvAJ3HHaQ1h89wBzH6aSb.jpg",
+        "rating": 7.476,
+        "mediaType": "movie",
+        "genreTitle": "纪录, 音乐"
+      },
+      {
+        "id": 1525646,
+        "type": "tmdb",
+        "title": "Palimpsest: The Story of a Name",
+        "originalTitle": "Palimpsest: The Story of a Name",
+        "description": "",
+        "releaseDate": "2026-04-17",
+        "backdropPath": "/leXpzubyd9VGDFFqaw9h3Go8YTa.jpg",
+        "posterPath": "/1b5AR8QQUSMMaE1WUdV4Y7WwYfi.jpg",
+        "rating": 8.25,
+        "mediaType": "movie",
+        "genreTitle": "纪录"
       },
       {
         "id": 1507796,
@@ -94,43 +120,17 @@
         "genreTitle": "剧情, 爱情"
       },
       {
-        "id": 1447853,
+        "id": 1548708,
         "type": "tmdb",
-        "title": "别为往事懊恼",
-        "originalTitle": "Oasis: Don't Look Back in Anger",
-        "description": "纪录绿洲乐队重聚后的 Oasis Live ’25 世界巡演，记录乐队及全球歌迷的经历与情感，并通过排练、后台、演出及连姆和诺埃尔·加拉格尔二十多年来首次共同采访，展现这一全球音乐事件。",
-        "releaseDate": "2026-09-09",
-        "backdropPath": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-        "posterPath": "/nNwIQ8YvAJ3HHaQ1h89wBzH6aSb.jpg",
-        "rating": 7.5,
+        "title": "坂本日常",
+        "originalTitle": "SAKAMOTO DAYS",
+        "description": "《坂本日常》是一部动作战斗题材作品，讲述了曾让所有恶徒闻风丧胆的顶尖杀手 —— 主人公坂本太郎的故事。某天，他对在便利店工作的女性 “葵” 一见钟情，随后毅然退出杀手行业。经历了结婚、女儿出生后，坂本的体型变得圆润，如今经营着一家名为 “坂本商店” 的个人小店。然而，各路恶徒接连出现在他面前，为了守护与家人共度的和平日常，坂本不得不再次投身与敌人的战斗。",
+        "releaseDate": "2026-04-29",
+        "backdropPath": "/o0PUws61EjIokuqX0sbQs4CZguL.jpg",
+        "posterPath": "/ib2uX9HaqRGAftaDuKoU5GiNqhF.jpg",
+        "rating": 7.7,
         "mediaType": "movie",
-        "genreTitle": "纪录, 音乐"
-      },
-      {
-        "id": 1322787,
-        "type": "tmdb",
-        "title": "明日之幸",
-        "originalTitle": "On sera heureux",
-        "description": "摩洛哥难民萨德在魁北克与伊朗难民雷扎相恋，当雷扎面临被驱逐回伊朗（将被处决）的绝境时，萨德决定不惜一切代价拯救爱人。他铤而走险，试图色诱移民部官员以换取男友的居留权。",
-        "releaseDate": "2025-11-07",
-        "backdropPath": "/sfTT1Bln5IGbEXfFnBUUMwTaMyR.jpg",
-        "posterPath": "/yNSTEi3U9zO7fnTGWp2jXmZBZvo.jpg",
-        "rating": 6.7,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1329016,
-        "type": "tmdb",
-        "title": "托尼",
-        "originalTitle": "Tony",
-        "description": "19岁的安东尼·波登前往普罗温斯敦，偶然闯入一家餐厅厨房的混乱世界，由此开启了一个将影响他一生的夏天。",
-        "releaseDate": "2026-08-07",
-        "backdropPath": "/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
-        "posterPath": "/dnpztRePQAUg4FydrwQntAOry9z.jpg",
-        "rating": 7.565,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
+        "genreTitle": "动作, 喜剧"
       }
     ],
     "剧集·国内": [
@@ -182,7 +182,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/28u4q3fPzXmbyf3BoiWweUOuuzj.jpg",
         "posterPath": "/8nenduIuctLj2YBjWHG8pFs1X6R.jpg",
-        "rating": 8,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "犯罪"
       },
@@ -260,7 +260,7 @@
         "releaseDate": "2026-08-25",
         "backdropPath": "/xirWeEiatY915u837oq1l2t4oPP.jpg",
         "posterPath": "/k5Gc9qZfx4ofYCUjS55r6120H2l.jpg",
-        "rating": 9,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
@@ -275,7 +275,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
         "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-        "rating": 8,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.825,
+        "rating": 6.829,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-09-17",
         "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
         "posterPath": "/4Uk0MaEEx0bO418rhM7B8gqeFPy.jpg",
-        "rating": 8.1,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
