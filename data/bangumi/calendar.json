@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-02T20:17:54.866Z",
+  "time": "2026-10-03T18:57:21.722Z",
   "data": {
     "星期日": [
       {
@@ -27,6 +27,19 @@
         "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画"
+      },
+      {
+        "id": 276288,
+        "type": "tmdb",
+        "title": "异人旅馆",
+        "originalTitle": "ホテル・インヒューマンズ",
+        "description": "顶级酒店，满足一切条件。“极致美食”、“至高治愈”、“迷人娱乐”……还有，“最新武器调配”、“可靠身份伪造”、“完美尸体处理”——！？在生死边缘，两位永不拒绝的礼宾——生朗与沙罗，将如何回应杀手们的委托——致命酒店剧，此刻开幕！",
+        "releaseDate": "2025-07-06",
+        "backdropPath": "/1Ik6i72QjVRNQ3N475uxiFxRrv9.jpg",
+        "posterPath": "/pBd73lkQgoM6tYyZHgWYEKI7Wdb.jpg",
+        "rating": 7.8,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
       },
       {
         "id": 303060,
@@ -122,9 +135,9 @@
       {
         "id": 329096,
         "type": "tmdb",
-        "title": "彼方から",
+        "title": "来自远方",
         "originalTitle": "彼方から",
-        "description": "",
+        "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
         "releaseDate": "2026-10-05",
         "backdropPath": "/inwM4LXqXYYauU1eJkfJ6uDkV11.jpg",
         "posterPath": "/1qp1bKIQgYbgKVP0MBabADtbKyS.jpg",
@@ -178,7 +191,7 @@
         "type": "tmdb",
         "title": "罗梅莉亚战记",
         "originalTitle": "ロメリア戦記",
-        "description": "「罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。」当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为『恩宠』的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
+        "description": "“罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。”当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为“恩宠”的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
         "releaseDate": "2026-10-05",
         "backdropPath": "/mSZbeN0Ptv6em7jYkgzAEagg3N0.jpg",
         "posterPath": "/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
@@ -236,7 +249,7 @@
         "releaseDate": "2022-09-13",
         "backdropPath": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
         "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
-        "rating": 8.484,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -245,10 +258,10 @@
         "type": "tmdb",
         "title": "幻想水浒传",
         "originalTitle": "幻想水滸伝",
-        "description": "",
+        "description": "“曾以为只要拥有那份力量，就能守护一切。”隶属于海兰德王国少年兵部队的少年主角——骊龙，以及他的挚友乔伊。两人曾仰望着同一片星空，也相信着同一个未来。只要这场战争结束，那段熟悉日常一定会再次回到他们身边。然而，这份心愿终究未能实现，两人被卷入由战火的命运漩涡中。无能为力的少年们，获得了无比强大的力量。在108颗星辰格外耀眼的夜空下，他们将无解疑问深藏于心，并依循着各自信念，踏出属于自己的道路。",
         "releaseDate": "2026-10-03",
         "backdropPath": "/sqfxKwR0mYva1LJlkMqIMNb2W36.jpg",
-        "posterPath": "/aCnMXOrLVUF32hFbSMRXLJwUtkd.jpg",
+        "posterPath": "/gP4Pm8UnD4QjN1R5ZR1f3jaSkAe.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -282,12 +295,12 @@
       {
         "id": 312850,
         "type": "tmdb",
-        "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+        "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
         "originalTitle": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
-        "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！\n\n「既然人难免一死，我宁可死在战斗中。」过去曾有个达成弑神伟业的大英雄。\n\n强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？\n\n她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚‧利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!\n\n「──啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！」\n\n由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
+        "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
         "releaseDate": "2026-10-06",
         "backdropPath": "/1o0WfBIMn8zCcuAYlg2MJJDBUff.jpg",
-        "posterPath": "/7sKHH0tO4GPfIwlZQbDdKptvaLw.jpg",
+        "posterPath": "/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动画"
@@ -308,9 +321,9 @@
       {
         "id": 316891,
         "type": "tmdb",
-        "title": "塩対応の佐藤さんが俺にだけ甘い",
+        "title": "冷淡的佐藤同学只对我撒娇",
         "originalTitle": "塩対応の佐藤さんが俺にだけ甘い",
-        "description": "",
+        "description": "班上的高岭之花——佐藤小春。\n\n从不向任何人展露笑容，绰号\"冷淡的佐藤同学\"。\n\n然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……\n\n为了拍摄甜品照片而拼尽全力、毫无防备的模样！？\n\n其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。\n\n两人的距离，以甜品和相机为契机，一点点地拉近。\n\n令人焦心，又令人心生怜爱。\n\n世界上最甜的\"双向暗恋\"，你一定会为之融化——。\n\n笨拙的两人交织出的\"又甜又咸\"青春恋爱喜剧！",
         "releaseDate": "2026-10-06",
         "backdropPath": "/ukHKDQO3ILHEAsZ6uXRCeT7tKlO.jpg",
         "posterPath": "/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
@@ -327,7 +340,7 @@
         "originalTitle": "ワンピース",
         "description": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
         "releaseDate": "1999-10-20",
-        "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "backdropPath": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
         "rating": 8.751,
         "mediaType": "tv",
@@ -338,7 +351,7 @@
         "type": "tmdb",
         "title": "侦探已死",
         "originalTitle": "探偵はもう、死んでいる。",
-        "description": "作为高中三年级生的我·君塚君彦，曾经是一名名侦探的助手。「你，来当我的助手吧。」——一切开始于四年前、一万米的高空之上。在被劫持的飞机之中，我被宛若天使一般的侦探·希耶丝塔选定为了助手。在这之后——「听好了，在助手你被打成蜂窝的时候，我会乘机去解决掉敌人。」「喂，名侦探，不要以我死掉为前提制订计划啊。」我们开始了长达三年的跌宕起伏的冒险————然后，迎来了生死离别。一个人苟延残喘下来的我，沉浸在了安逸的日常之中。......你问这样好吗？这样就好，也不会给谁带去麻烦。毕竟，侦探，已经死了。",
+        "description": "“你、来当我的助手吧。”有着被卷入事件体质的少年·君冢君彦，在高空一万米的飞机上，成为了自称是侦探的天使般的美丽少女·谢丝塔的助手。二人为了同世界各地的敌人战斗，三年来辗转于世界各地，展开了一系列惊心动魄的冒险。不久之后，侦探就去世了。动荡的日子已经过去了一年。已升入高三的君冢也沉溺在了名为日常的温水中，过着极其普通的学生生活。然而，他的身边却出现了一个委托人。“你就是名侦探？”以和同年级的少女夏凪渚相遇为契机，连接过去和现在的宏大故事再次开始了。",
         "releaseDate": "2021-07-04",
         "backdropPath": "/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
         "posterPath": "/zliShFCxJTKtQk8P9sFrEMwG5gM.jpg",
@@ -355,7 +368,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
         "posterPath": "/aWTfsoyRQNKxvI2EOLOEPKyxDqr.jpg",
-        "rating": 7.3,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -399,6 +412,19 @@
         "genreTitle": "动画, 喜剧"
       },
       {
+        "id": 321518,
+        "type": "tmdb",
+        "title": "世界最强魔女，始动",
+        "originalTitle": "世界最強の魔女、始めました",
+        "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。\n\n然而那项技能的真面目，居然是能够浏览这个世界的「攻略网站」的SSS级作弊技能【互联网】！\n\n为了追求自由和平的生活而踏上旅程的「世界最强的魔女」罗娜，她那无厘头的冒险日常，终于动画化！",
+        "releaseDate": "2026-10-07",
+        "backdropPath": "/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
+        "posterPath": "/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
+      },
+      {
         "id": 323937,
         "type": "tmdb",
         "title": "獣王武神ダンデヴァイン",
@@ -435,7 +461,7 @@
         "releaseDate": "2026-10-01",
         "backdropPath": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
         "posterPath": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-        "rating": 7.833,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -503,6 +529,19 @@
         "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
+      },
+      {
+        "id": 301742,
+        "type": "tmdb",
+        "title": "熊出没之神奇宝物",
+        "originalTitle": "熊出没之神奇宝物",
+        "description": "当拥有神奇能量的神奇宝物散落狗熊岭，具有极强的危险性和破坏性的宝物随时危害到森林的人类和动物。为了保护狗熊岭，熊大熊二光头强必须尽快行动寻回宝物，与此同时还得对抗意图抢夺宝物的反派，狗熊岭的日子注定不会平静……",
+        "releaseDate": "2025-10-01",
+        "backdropPath": "/vccVazBaC5RMkvnk0J2tyM4PFU7.jpg",
+        "posterPath": "/necIfg41N30YMh85OSGeFMzUJRp.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 儿童"
       }
     ],
     "星期五": [
@@ -567,19 +606,32 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.637,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
       {
+        "id": 253811,
+        "type": "tmdb",
+        "title": "桃源暗鬼",
+        "originalTitle": "桃源暗鬼",
+        "description": "体内流淌着鬼之血……\n\n　　部分人类世代传承着“鬼”与“桃太郎”的血脉。\n\n　　远古时代，自觉凶暴的“鬼”曾隐居生活，却遭到“桃太郎”的讨伐。双方分别组建了“桃太郎机关”与“鬼机关”，展开了数千年的对抗。主角一之濑四季突遭“桃太郎”袭击，才得知自己是“鬼”。当他遇见寄宿在自己血脉中的“鬼”时，其宿命已然展开——\n\n　　新世代暗黑英雄传奇《鬼谭》，就此开幕！",
+        "releaseDate": "2025-07-11",
+        "backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+        "posterPath": "/lUqwOFOSCg3wU001xYJju5WEZbl.jpg",
+        "rating": 7.6,
+        "mediaType": "tv",
+        "genreTitle": "动画, 悬疑"
+      },
+      {
         "id": 320909,
         "type": "tmdb",
-        "title": "ホタルの嫁入り",
+        "title": "萤火虫的出嫁",
         "originalTitle": "ホタルの嫁入り",
-        "description": "",
+        "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
         "releaseDate": "2026-10-09",
         "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
-        "posterPath": "/ccIPacvHWo4vO55S9PKl0ZWki49.jpg",
+        "posterPath": "/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
@@ -605,7 +657,7 @@
         "description": "",
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
-        "posterPath": "/568jDuXJ12qDYB8gk3ZmFxiq6TP.jpg",
+        "posterPath": "/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
         "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -619,7 +671,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.2,
+        "rating": 8.167,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -635,6 +687,19 @@
         "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 335788,
+        "type": "tmdb",
+        "title": "蒼き伝承 ウェルシュ＆シェダー",
+        "originalTitle": "蒼き伝承 ウェルシュ＆シェダー",
+        "description": "",
+        "releaseDate": "2026-10-02",
+        "backdropPath": "/8iJ4IPl8BPVOL7C6lFKq2zeLdDs.jpg",
+        "posterPath": "/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 动画"
       }
     ],
     "星期六": [
@@ -656,13 +721,13 @@
         "type": "tmdb",
         "title": "魔法★探险家",
         "originalTitle": "マジカル★エクスプローラー",
-        "description": "传说级美少女游戏《魔法★探险家》。\n\n我转生成为凭借作弊能力被众多女角簇拥的主角────身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！\n\n而且，这个好友角色还有着「世界顶尖的魔力量」这个隐藏设定，甚至具备超越主角的潜力……？\n\n为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
-        "releaseDate": "2026-10-03",
+        "description": "传说级美少女游戏《魔法★探险家》。我转生成为凭借作弊能力被众多女角簇拥的主角——身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！而且，这个好友角色还有着“世界顶尖的魔力量”这个隐藏设定，甚至具备超越主角的潜力……？为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
+        "releaseDate": "2026-10-04",
         "backdropPath": "/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
-        "posterPath": "/b9LtxUfUrhsuq8lYvlhXq2I5gAw.jpg",
+        "posterPath": "/7V70UHOfMRef1vlsNX396MJQMmT.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "动作冒险, 喜剧"
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 146339,
@@ -680,12 +745,12 @@
       {
         "id": 285899,
         "type": "tmdb",
-        "title": "転生した大聖女は、聖女であることをひた隠す",
+        "title": "转生后的大圣女，极力隐瞒圣女的身分",
         "originalTitle": "転生した大聖女は、聖女であることをひた隠す",
-        "description": "",
+        "description": "被认为「没有使剑的才能」的骑士家的少女·菲亚。她在濒死之际，回想起自己前世是拥有规格外能力的「大圣女」，并且使最强的魔物·黑龙成为她的从魔。但是回想起在前世魔王的右腕曾威胁她说「若是依旧作为圣女转生那我依旧会继续杀你」，菲亚决定一边隐藏大圣女的力量一边以骑士为目标，可是却引发了众多骚动！？",
         "releaseDate": "2026-10-03",
-        "backdropPath": "/iix0Kmg8OckKQesmu8z7piYNeMS.jpg",
-        "posterPath": "/9ExNLdcdzQtPtQ16RnnFmvdZPMh.jpg",
+        "backdropPath": "/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
+        "posterPath": "/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -702,6 +767,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
+      },
+      {
+        "id": 73223,
+        "type": "tmdb",
+        "title": "黑色四叶草",
+        "originalTitle": "ブラッククローバー",
+        "description": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。",
+        "releaseDate": "2017-10-03",
+        "backdropPath": "/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+        "posterPath": "/qCYdcLGAARSbnTuG9BGlDyi7Zue.jpg",
+        "rating": 8.5,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 295420,
@@ -721,10 +799,10 @@
         "type": "tmdb",
         "title": "借出去的魔力要用【分期还款】强制收回",
         "originalTitle": "貸した魔力は【リボ払い】で強制徴収",
-        "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。\n\n　　然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。\n\n　　被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
+        "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
         "releaseDate": "2026-10-04",
-        "backdropPath": "/fXCe8Tuh8pJ9BnU13kh1vLfjwIo.jpg",
-        "posterPath": "/nPGwleNxxvvSV0iFtMt1c40pgJy.jpg",
+        "backdropPath": "/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
+        "posterPath": "/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -738,18 +816,18 @@
         "releaseDate": "2025-10-04",
         "backdropPath": "/gNYmU3RUlCb6dVqkiPCT7vglMfg.jpg",
         "posterPath": "/2pQHfraIKbqcOYgdq6H96tqHFop.jpg",
-        "rating": 7.36,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 308977,
         "type": "tmdb",
-        "title": "ケロロ軍曹☆",
+        "title": "青蛙军曹☆",
         "originalTitle": "ケロロ軍曹☆",
-        "description": "",
+        "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
         "releaseDate": "2026-10-03",
-        "backdropPath": null,
+        "backdropPath": "/gPxoEbp3dpWSoTJJQGFJwwxLYHu.jpg",
         "posterPath": "/pG3VqumaXP9xE7A9EA2w9eDLiV6.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -758,7 +836,7 @@
       {
         "id": 317259,
         "type": "tmdb",
-        "title": "Vertex Force",
+        "title": "至高之力",
         "originalTitle": "バーテックスフォース",
         "description": "住在冲绳北部的初中生东道明，与姐姐晴香、经营咖啡馆的母亲三人过着平静的日常生活。然而，这个家庭却隐藏着一个秘密。晴香继承了父亲被称为“引擎”的力量，一直隐瞒着这份能力生活。另一方面，明并未继承父亲的力量，对自身的弱小心怀自卑。就在此时，世界各地接连发生异变。逼近明他们身边的身份不明的敌人，其目的究竟是什么——\n\n肩负着宇宙命运的少年少女之战，此刻拉开序幕。",
         "releaseDate": "2026-10-03",
@@ -777,7 +855,7 @@
         "releaseDate": "2024-10-06",
         "backdropPath": "/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
         "posterPath": "/hOmadnDmq8aNdygqsxFkEVclxgF.jpg",
-        "rating": 8.051,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
