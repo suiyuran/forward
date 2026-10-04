@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-03T19:41:52.629Z",
+  "time": "2026-10-04T19:55:33.829Z",
   "data": [
     {
       "id": 1439171,
@@ -13,6 +13,32 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 1503023,
+      "type": "tmdb",
+      "title": "重生2",
+      "originalTitle": "重生2",
+      "description": "孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
+      "releaseDate": "2026-10-03",
+      "backdropPath": null,
+      "posterPath": "/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 动作"
+    },
+    {
+      "id": 1423191,
+      "type": "tmdb",
+      "title": "生化危机：爆发夜",
+      "originalTitle": "Resident Evil",
+      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
+      "releaseDate": "2026-09-16",
+      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
+      "rating": 7.287,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 1563608,
@@ -36,7 +62,7 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.55,
+      "rating": 7.533,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
@@ -67,19 +93,6 @@
       "genreTitle": "犯罪, 动作"
     },
     {
-      "id": 1503023,
-      "type": "tmdb",
-      "title": "重生2",
-      "originalTitle": "重生2",
-      "description": "孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
-      "releaseDate": "2026-10-03",
-      "backdropPath": null,
-      "posterPath": "/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 动作"
-    },
-    {
       "id": 1089598,
       "type": "tmdb",
       "title": "敦煌英雄",
@@ -91,19 +104,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动作, 历史"
-    },
-    {
-      "id": 1670314,
-      "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1086176,
@@ -132,6 +132,19 @@
       "genreTitle": "动作, 犯罪"
     },
     {
+      "id": 1670314,
+      "type": "tmdb",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
       "id": 1391021,
       "type": "tmdb",
       "title": "欢迎来龙餐馆",
@@ -148,14 +161,27 @@
       "id": 1650896,
       "type": "tmdb",
       "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇完美假期",
+      "originalTitle": "小猪佩奇·完美假期",
       "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "releaseDate": "2026-10-01",
+      "releaseDate": "2026-09-25",
       "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
       "posterPath": "/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "冒险, 动画"
+      "genreTitle": "喜剧, 动画"
+    },
+    {
+      "id": 1491920,
+      "type": "tmdb",
+      "title": "功夫女足",
+      "originalTitle": "功夫女足",
+      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
+      "releaseDate": "2026-07-11",
+      "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
+      "posterPath": "/5skHR1T8URubqb30fk14njyPcy4.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "动作, 喜剧"
     },
     {
       "id": 1368337,
@@ -166,7 +192,7 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.011,
+      "rating": 8.012,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -184,17 +210,17 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1678102,
+      "id": 278,
       "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "releaseDate": "2026-09-11",
-      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "rating": 0,
+      "title": "肖申克的救赎",
+      "originalTitle": "The Shawshank Redemption",
+      "description": "1947年，银行家安迪·杜佛兰因被控杀害妻子及其情人，尽管始终坚称清白，仍被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与能够在狱中弄到各种物品的瑞德建立起深厚的友谊。漫长的岁月里，他始终没有让高墙彻底改变自己，也开始用自己的方式影响身边的人，以及这座看似牢不可破的监狱……",
+      "releaseDate": "1994-09-23",
+      "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+      "posterPath": "/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
+      "rating": 8.732,
       "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
+      "genreTitle": "剧情, 犯罪"
     },
     {
       "id": 1778310,
@@ -210,17 +236,17 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 278,
+      "id": 1678102,
       "type": "tmdb",
-      "title": "肖申克的救赎",
-      "originalTitle": "The Shawshank Redemption",
-      "description": "1947年，银行家安迪·杜佛兰因被控杀害妻子及其情人，尽管始终坚称清白，仍被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与能够在狱中弄到各种物品的瑞德建立起深厚的友谊。漫长的岁月里，他始终没有让高墙彻底改变自己，也开始用自己的方式影响身边的人，以及这座看似牢不可破的监狱……",
-      "releaseDate": "1994-09-23",
-      "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
-      "posterPath": "/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
-      "rating": 8.731,
+      "title": "死亡禁区实录",
+      "originalTitle": "死亡禁区实录",
+      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
+      "releaseDate": "2026-09-11",
+      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
+      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
+      "genreTitle": "悬疑, 惊悚"
     },
     {
       "id": 1630030,
@@ -231,7 +257,20 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
       "posterPath": "/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
-      "rating": 5.5,
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动画"
+    },
+    {
+      "id": 1633056,
+      "type": "tmdb",
+      "title": "八仙！",
+      "originalTitle": "八仙！",
+      "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
+      "releaseDate": "2026-07-10",
+      "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
+      "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
+      "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
     },
@@ -244,22 +283,9 @@
       "releaseDate": "2026-09-01",
       "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6.123,
+      "rating": 6.2,
       "mediaType": "movie",
       "genreTitle": "惊悚"
-    },
-    {
-      "id": 1633056,
-      "type": "tmdb",
-      "title": "八仙！",
-      "originalTitle": "八仙！",
-      "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
-      "releaseDate": "2026-07-10",
-      "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
-      "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "rating": 7.929,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动画"
     },
     {
       "id": 299534,
@@ -270,22 +296,9 @@
       "releaseDate": "2019-04-24",
       "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "rating": 8.245,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "冒险, 科幻"
-    },
-    {
-      "id": 1288445,
-      "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.397,
-      "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
     },
     {
       "id": 1339713,
@@ -296,9 +309,22 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.185,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1288445,
+      "type": "tmdb",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "rating": 7.418,
+      "mediaType": "movie",
+      "genreTitle": "动作, 惊悚"
     },
     {
       "id": 10681,
@@ -309,22 +335,9 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.125,
+      "rating": 8.126,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1444590,
-      "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "releaseDate": "2026-09-05",
-      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1774595,
@@ -347,23 +360,10 @@
       "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
       "releaseDate": "2026-08-05",
       "backdropPath": "/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
-      "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "rating": 4.176,
+      "posterPath": "/kOzUhvsHq7Thcj3nZLgrghOZagq.jpg",
+      "rating": 4.2,
       "mediaType": "movie",
       "genreTitle": "家庭, 动画"
-    },
-    {
-      "id": 1491920,
-      "type": "tmdb",
-      "title": "功夫女足",
-      "originalTitle": "功夫女足",
-      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
-      "releaseDate": "2026-07-11",
-      "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
-      "posterPath": "/5skHR1T8URubqb30fk14njyPcy4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "动作, 喜剧"
     },
     {
       "id": 1761217,
@@ -379,17 +379,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1616157,
+      "id": 1318413,
       "type": "tmdb",
-      "title": "上海女儿",
-      "originalTitle": "上海女儿",
-      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": "/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
-      "posterPath": "/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
-      "rating": 0,
+      "title": "诺曼底72小时",
+      "originalTitle": "Pressure",
+      "description": "1944年，诺曼底登陆进入最后72小时，盟军大规模登陆部队已经集结完毕，一切准备就绪，唯独难以预测的天气成为决定行动成败的关键。气象学家詹姆斯·斯塔格上校根据自己的判断预警风暴即将来临，但推迟行动同样可能导致盟军部署暴露。面对来自盟军高层的巨大压力，斯塔格必须坚持自己的气象判断，而最终决定权则掌握在盟军最高司令德怀特·艾森豪威尔手中。数十万将士的安危与诺曼底登陆的成败，都悬于这场与时间和天气的艰难博弈之中……",
+      "releaseDate": "2026-05-28",
+      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
+      "rating": 7.7,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "惊悚, 历史"
     },
     {
       "id": 1716541,
@@ -405,30 +405,17 @@
       "genreTitle": "爱情, 奇幻"
     },
     {
-      "id": 1318413,
+      "id": 1616157,
       "type": "tmdb",
-      "title": "诺曼底72小时",
-      "originalTitle": "Pressure",
-      "description": "1944年，诺曼底登陆进入最后72小时，盟军大规模登陆部队已经集结完毕，一切准备就绪，唯独难以预测的天气成为决定行动成败的关键。气象学家詹姆斯·斯塔格上校根据自己的判断预警风暴即将来临，但推迟行动同样可能导致盟军部署暴露。面对来自盟军高层的巨大压力，斯塔格必须坚持自己的气象判断，而最终决定权则掌握在盟军最高司令德怀特·艾森豪威尔手中。数十万将士的安危与诺曼底登陆的成败，都悬于这场与时间和天气的艰难博弈之中……",
-      "releaseDate": "2026-05-28",
-      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.678,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 历史"
-    },
-    {
-      "id": 1655500,
-      "type": "tmdb",
-      "title": "床下有人4",
-      "originalTitle": "床下有人4",
-      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
-      "posterPath": "/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "title": "上海女儿",
+      "originalTitle": "上海女儿",
+      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": "/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
+      "posterPath": "/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
+      "genreTitle": "剧情"
     },
     {
       "id": 1502135,
@@ -444,6 +431,19 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
+      "id": 1655500,
+      "type": "tmdb",
+      "title": "床下有人4",
+      "originalTitle": "床下有人4",
+      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "posterPath": "/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 惊悚"
+    },
+    {
       "id": 1724637,
       "type": "tmdb",
       "title": "去你的岛",
@@ -455,19 +455,6 @@
       "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "爱情, 动画"
-    },
-    {
-      "id": 1761059,
-      "type": "tmdb",
-      "title": "一路超平安",
-      "originalTitle": "一路超平安",
-      "description": "一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": null,
-      "posterPath": "/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
     },
     {
       "id": 592402,
@@ -489,9 +476,9 @@
       "originalTitle": "PAW Patrol: The Dino Movie",
       "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
       "releaseDate": "2026-07-23",
-      "backdropPath": "/c9Vatzm113Q3HgYsqThfYf0mpsr.jpg",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.16,
+      "rating": 8.172,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -509,19 +496,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1713529,
-      "type": "tmdb",
-      "title": "想你了",
-      "originalTitle": "想你了",
-      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
-      "releaseDate": "2026-07-17",
-      "backdropPath": "/2UC691pg5qNavMThV3e903BbkCy.jpg",
-      "posterPath": "/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 396227,
       "type": "tmdb",
       "title": "哈姆雷特",
@@ -535,6 +509,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 956215,
+      "type": "tmdb",
+      "title": "龙凤呈祥(京剧)",
+      "originalTitle": "龙凤呈祥(京剧)",
+      "description": "孙权（安平 饰）因刘备(耿其昌 饰)久占荆州，屡讨不还，遂与周瑜（叶少兰 饰）定计，假称以妹孙尚香（李维康 饰）许配刘备，诓其过江留质，以换荆州。诸葛亮识破计谋，将计就计，使赵云（王平 饰）保护刘备同往，并先拜谒周瑜岳丈——太尉乔玄（冯志孝 饰）。乔玄即以其事奏于孙母吴国太（赵葆秀 饰），国太决定在甘露寺相亲。乔玄从孙刘联合抗曹的大局出发极力撮合，终于弄假成真。  周瑜见美人计失败，又以声色羁縻之，刘备果然乐不思归。赵云复用诸葛亮锦囊之计，佯报曹操袭取荆州。刘备惊慌欲走，告于尚香。尚香拜别国太，随其潜逃。周瑜遣将追赶，皆为尚香斥退，继而率兵亲至，时诸葛亮已用船迎接刘备脱险。周瑜反受张飞（杨赤 饰）之辱。",
+      "releaseDate": "2015-04-23",
+      "backdropPath": null,
+      "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
       "id": 921937,
       "type": "tmdb",
       "title": "穆桂英挂帅(京剧)",
@@ -543,6 +530,19 @@
       "releaseDate": "2017-04-21",
       "backdropPath": null,
       "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 1316352,
+      "type": "tmdb",
+      "title": "状元媒(京剧)",
+      "originalTitle": "状元媒(京剧)",
+      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
+      "releaseDate": "2015-04-23",
+      "backdropPath": null,
+      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
@@ -561,30 +561,17 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 956215,
+      "id": 1028378,
       "type": "tmdb",
-      "title": "龙凤呈祥(京剧)",
-      "originalTitle": "龙凤呈祥(京剧)",
-      "description": "孙权（安平 饰）因刘备(耿其昌 饰)久占荆州，屡讨不还，遂与周瑜（叶少兰 饰）定计，假称以妹孙尚香（李维康 饰）许配刘备，诓其过江留质，以换荆州。诸葛亮识破计谋，将计就计，使赵云（王平 饰）保护刘备同往，并先拜谒周瑜岳丈——太尉乔玄（冯志孝 饰）。乔玄即以其事奏于孙母吴国太（赵葆秀 饰），国太决定在甘露寺相亲。乔玄从孙刘联合抗曹的大局出发极力撮合，终于弄假成真。  周瑜见美人计失败，又以声色羁縻之，刘备果然乐不思归。赵云复用诸葛亮锦囊之计，佯报曹操袭取荆州。刘备惊慌欲走，告于尚香。尚香拜别国太，随其潜逃。周瑜遣将追赶，皆为尚香斥退，继而率兵亲至，时诸葛亮已用船迎接刘备脱险。周瑜反受张飞（杨赤 饰）之辱。",
-      "releaseDate": "2015-04-23",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
       "backdropPath": null,
-      "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
-      "rating": 0,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 7.7,
       "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
-      "id": 1316352,
-      "type": "tmdb",
-      "title": "状元媒(京剧)",
-      "originalTitle": "状元媒(京剧)",
-      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
-      "releaseDate": "2015-04-23",
-      "backdropPath": null,
-      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
+      "genreTitle": "纪录"
     }
   ]
 }
