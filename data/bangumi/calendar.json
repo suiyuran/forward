@@ -1,7 +1,20 @@
 {
-  "time": "2026-10-04T18:59:21.846Z",
+  "time": "2026-10-05T22:17:51.405Z",
   "data": {
     "星期日": [
+      {
+        "id": 283692,
+        "type": "tmdb",
+        "title": "一觉醒来就有了最强装备跟太空船，决定以自家独栋建筑为目标当佣兵自由过活",
+        "originalTitle": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+        "description": "身为上班族的佐藤孝弘每天都过着无趣又劳累的生活。然而某天醒来时，他发现自己身处平时最爱玩的SF游戏世界里，而且还坐在搭载最强装备的宇宙飞船玤驾驶舱里。不仅可以去冒险，也可以贸易，甚至成为佣兵。掌握了这个宇宙的最强装备的孝弘决定改名为“西罗”，并以这个身分活下去。“我是西罗舰长，是一名佣兵。”后来，西罗遇到了其他伙伴，并在一次又一次的战斗中察觉到——在外太空喝不到自己唯一喜欢的碳酸饮料。而且，他没有一个能和伙伴们一起回去的家。因此，虽然价格高得惊人，但他下定决心要“在行星上买一栋附带庭院的独栋住宅”！就这样，西罗带着最强的装备与伙伴们展开了他的佣兵生涯。",
+        "releaseDate": "2026-10-04",
+        "backdropPath": "/xqil5t29q1k6reedUlMy4nYd9f7.jpg",
+        "posterPath": "/ccLkKM9nZ4eR2ZjDg2vpOCInZro.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
+      },
       {
         "id": 207347,
         "type": "tmdb",
@@ -27,6 +40,19 @@
         "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画"
+      },
+      {
+        "id": 276288,
+        "type": "tmdb",
+        "title": "异人旅馆",
+        "originalTitle": "ホテル・インヒューマンズ",
+        "description": "顶级酒店，满足一切条件。“极致美食”、“至高治愈”、“迷人娱乐”……还有，“最新武器调配”、“可靠身份伪造”、“完美尸体处理”——！？在生死边缘，两位永不拒绝的礼宾——生朗与沙罗，将如何回应杀手们的委托——致命酒店剧，此刻开幕！",
+        "releaseDate": "2025-07-06",
+        "backdropPath": "/1Ik6i72QjVRNQ3N475uxiFxRrv9.jpg",
+        "posterPath": "/edCc7fsPUERfsYr31dlNsSMUbxA.jpg",
+        "rating": 7.8,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
       },
       {
         "id": 303060,
@@ -89,7 +115,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
         "posterPath": "/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
@@ -127,10 +153,10 @@
         "description": "在被称为“宇宙最危险城镇”的鬼城岛，当地黑帮普遍使用基因兴奋剂来获取终极力量。少女平良静接下了最危险的刺杀任务，但动手的并不是她，而是她的哥哥凪——一名曾为保护妹妹中弹的顶尖杀手，如今陷入昏迷，只能依靠轮椅行动。然而，平良静发现了唤醒哥哥的方法：他必须直面杀意！于是妹妹平良静开始带着哥哥与强敌们进行“康复训练”。",
         "releaseDate": "2026-10-04",
         "backdropPath": "/cFxouAuLIa54PEwYlCFdJwCm0lc.jpg",
-        "posterPath": "/d4aAFoLt57BvnRUgdVqj9QDgp7X.jpg",
-        "rating": 0,
+        "posterPath": "/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
+        "rating": 3,
         "mediaType": "tv",
-        "genreTitle": ""
+        "genreTitle": "动画"
       },
       {
         "id": 329096,
@@ -163,13 +189,13 @@
         "type": "tmdb",
         "title": "女友的朋友",
         "originalTitle": "彼女の友達",
-        "description": "“要不要跟我出轨试试？”\n\n人生中第一次交往的可爱女友。\n\n然而她的闺蜜，却拥有比她更丰满动人的身材，\n\n还在不断引诱着我……\n\n如果被女友的闺蜜这样步步紧逼，\n\n换作是你，该如何抉择？\n\n在 Young Magazine Web 上坐拥超高人气、\n\n由“Jura（じゅら）”倾力绘制的魅惑背德物语，迎来禁忌的TV动画化！",
+        "description": "“要不要跟我出轨试试？”人生中第一次交往的可爱女友。然而她的闺蜜，却拥有比她更丰满动人的身材，还在不断引诱着我……如果被女友的闺蜜这样步步紧逼，换作是你，该如何抉择？",
         "releaseDate": "2026-10-05",
         "backdropPath": "/7CSqPaizCugNAznzmUUVQKbj6KO.jpg",
-        "posterPath": "/rT7WxYIaecmLPzbelYcij27E1Nj.jpg",
+        "posterPath": "/saOqlHkybF06dYdFycUTROZI75o.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": ""
+        "genreTitle": "动画, 剧情"
       },
       {
         "id": 216467,
@@ -205,7 +231,7 @@
         "title": "魔法少女育成计划 restart",
         "originalTitle": "魔法少女育成計画 restart",
         "description": "获得「魔法王国」所赐之魔力、每日勤奋奔走于助人的魔法少女们——她们收到了来自神秘寄信人所寄出，名为『魔法少女育成计划』的游戏邀请函。受到隐藏着死亡风险、毫无逻辑可言的游戏所囚禁的十六位魔法少女，在幕后黑手策划的诡计玩弄下，开始为了存活下来而绞尽脑汁苦思对策……",
-        "releaseDate": "2026-10-05",
+        "releaseDate": "2026-10-06",
         "backdropPath": "/a5ibYt8Ri2w74TR99lbP2aHyFMY.jpg",
         "posterPath": "/yFRVyWWmNMJ72CqxRc2dZqW9TAE.jpg",
         "rating": 0,
@@ -243,7 +269,7 @@
         "type": "tmdb",
         "title": "你好，我是受心上人所托来做恋爱药的魔女。",
         "originalTitle": "どうも、好きな人に惚れ薬を依頼された魔女です。",
-        "description": "“希望你能帮我制作迷情药” 隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。 他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。 即便如此，她依然无法拒绝他的委托。 心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。 哪怕明知这是一场无望的单恋，这份心意也无法抹去。 这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。 以迷情药为契机交织而成的，令人揪心的恋爱物语。",
+        "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
         "releaseDate": "2026-10-05",
         "backdropPath": "/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
         "posterPath": "/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
@@ -275,7 +301,7 @@
         "releaseDate": "2022-09-13",
         "backdropPath": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
         "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
-        "rating": 8.5,
+        "rating": 8.485,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -288,7 +314,7 @@
         "releaseDate": "2026-10-03",
         "backdropPath": "/sqfxKwR0mYva1LJlkMqIMNb2W36.jpg",
         "posterPath": "/gP4Pm8UnD4QjN1R5ZR1f3jaSkAe.jpg",
-        "rating": 0,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -368,7 +394,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.751,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -407,7 +433,7 @@
         "releaseDate": "2024-01-05",
         "backdropPath": "/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
         "posterPath": "/kfUIFZwVWZwcE06cdqc4OkPL1nQ.jpg",
-        "rating": 6.923,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -433,7 +459,7 @@
         "releaseDate": "2020-10-31",
         "backdropPath": "/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
         "posterPath": "/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-        "rating": 7.514,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -487,7 +513,7 @@
         "releaseDate": "2026-10-01",
         "backdropPath": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
         "posterPath": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-        "rating": 7.591,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -580,7 +606,7 @@
         "releaseDate": "2021-04-11",
         "backdropPath": "/jnThpphOHQRiTedCtz1yyshfkHw.jpg",
         "posterPath": "/nXsAZCWvsuN2GoGKE2GM625nKx.jpg",
-        "rating": 8.396,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -628,11 +654,11 @@
         "type": "tmdb",
         "title": "药屋少女的呢喃",
         "originalTitle": "薬屋のひとりごと",
-        "description": "「可否为我配制一帖春药？」猫猫的眼眸瞬间浮现出惊讶与好奇的色彩──位处大陆中央的某个大国，有位姑娘置身于皇帝宫阙之中。姑娘名唤猫猫，原在烟花巷担任药师，眼下则在后宫做下女。这个绝对称不上美女的姑娘很懂分寸，只是静待期满离宫。她有自信，皇帝绝对不会「宠幸」她。其间，猫猫得知皇子皆年幼早夭的事，并听闻连尚在人世的皇子皇女也身染重病，她开始调查他们的病因──广获赞誉的酣畅淋漓推理之作，众所期盼的第一集终于出版。以中世东方为舞台，「试毒」少女将一一解决宫中发生的悬疑案件！",
+        "description": "“可否为我配制一帖春药？”猫猫的眼眸瞬间浮现出惊讶与好奇的色彩。位处大陆中央的某个大国，有位姑娘置身于皇帝宫阙之中。姑娘名唤猫猫，原在烟花巷担任药师，眼下则在后宫做下女。这个绝对称不上美女的姑娘很懂分寸，只是静待期满离宫。她有自信，皇帝绝对不会“宠幸”她。其间，猫猫得知皇子皆年幼早夭的事，并听闻连尚在人世的皇子皇女也身染重病，她开始调查他们的病因。广获赞誉的酣畅淋漓推理之作，众所期盼的第一集终于出版。以中世东方为舞台，“试毒”少女将一一解决宫中发生的悬疑案件！",
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.64,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -671,7 +697,7 @@
         "releaseDate": "2026-10-02",
         "backdropPath": "/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
         "posterPath": "/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
-        "rating": 8,
+        "rating": 6.2,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -684,7 +710,7 @@
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
         "posterPath": "/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
-        "rating": 7.9,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -789,7 +815,7 @@
         "description": "高一生水之江梅有着极其高超的文学造诣，文科成绩无人能及，但与之相反的是数理化等理科却差强人意，有留级甚至影响保送的风险，为此班主任平冢推荐他加入学生会，以提高其在学生之间的评价。但水之江成为学生会书记后，才发现内里都是些怪人，包括遗留内裤在学生会室的会长古都吹寿子、会敲诈男生的“雌小鬼”伪娘宣传委员尾鸟绽、看似温柔却无比腹黑的会计照井有栖、以及因受伤而住院一个月才复学的不幸少女陆奥小麻吕。水之江在这些充满个性的同学围绕之下，为了顺利毕业，正式展开学生会生涯。",
         "releaseDate": "2026-10-04",
         "backdropPath": "/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
-        "posterPath": "/n7C1Y1GnZ23IKVblNwiYVrymA4N.jpg",
+        "posterPath": "/4EgNPER5TRh2wrfM59gQF2BJGze.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -803,7 +829,7 @@
         "releaseDate": "2017-10-03",
         "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
         "posterPath": "/qCYdcLGAARSbnTuG9BGlDyi7Zue.jpg",
-        "rating": 8.5,
+        "rating": 8.505,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -829,7 +855,7 @@
         "releaseDate": "2026-10-03",
         "backdropPath": "/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
         "posterPath": "/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
-        "rating": 0,
+        "rating": 4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -866,8 +892,8 @@
         "originalTitle": "ケロロ軍曹☆",
         "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
         "releaseDate": "2026-10-03",
-        "backdropPath": "/gPxoEbp3dpWSoTJJQGFJwwxLYHu.jpg",
-        "posterPath": "/pG3VqumaXP9xE7A9EA2w9eDLiV6.jpg",
+        "backdropPath": "/mQlOb7VMaJjt8iU8tEABIZ6Rp4d.jpg",
+        "posterPath": "/9ifgbxI7iCw6BhNx1IihJzoYb7c.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
@@ -933,9 +959,9 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/hollWapcsUhmWbsp9yJXW9ZWDTb.jpg",
         "posterPath": "/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
-        "rating": 0,
+        "rating": 7.7,
         "mediaType": "tv",
-        "genreTitle": "动画"
+        "genreTitle": "动画, 动作冒险"
       }
     ]
   }
