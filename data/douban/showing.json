@@ -1,19 +1,6 @@
 {
-  "time": "2026-10-04T19:55:33.829Z",
+  "time": "2026-10-05T23:04:24.411Z",
   "data": [
-    {
-      "id": 1439171,
-      "type": "tmdb",
-      "title": "神探之痕迹",
-      "originalTitle": "神探之痕迹",
-      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
-      "posterPath": "/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
-    },
     {
       "id": 1503023,
       "type": "tmdb",
@@ -26,19 +13,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 动作"
-    },
-    {
-      "id": 1423191,
-      "type": "tmdb",
-      "title": "生化危机：爆发夜",
-      "originalTitle": "Resident Evil",
-      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
-      "releaseDate": "2026-09-16",
-      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.287,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 1563608,
@@ -54,6 +28,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1423191,
+      "type": "tmdb",
+      "title": "生化危机：爆发夜",
+      "originalTitle": "Resident Evil",
+      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
+      "releaseDate": "2026-09-16",
+      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
+      "rating": 7.3,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
+    },
+    {
       "id": 1263337,
       "type": "tmdb",
       "title": "野兽之心",
@@ -62,7 +49,7 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.533,
+      "rating": 7.525,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
@@ -119,19 +106,6 @@
       "genreTitle": "喜剧, 动作"
     },
     {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "releaseDate": "2011-03-27",
-      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.1,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1670314,
       "type": "tmdb",
       "title": "红孩儿火焰山之王",
@@ -143,6 +117,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1491920,
+      "type": "tmdb",
+      "title": "功夫女足",
+      "originalTitle": "功夫女足",
+      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
+      "releaseDate": "2026-07-11",
+      "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
+      "posterPath": "/5skHR1T8URubqb30fk14njyPcy4.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "动作, 喜剧"
     },
     {
       "id": 1391021,
@@ -171,32 +158,6 @@
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 1491920,
-      "type": "tmdb",
-      "title": "功夫女足",
-      "originalTitle": "功夫女足",
-      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
-      "releaseDate": "2026-07-11",
-      "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
-      "posterPath": "/5skHR1T8URubqb30fk14njyPcy4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "动作, 喜剧"
-    },
-    {
-      "id": 1368337,
-      "type": "tmdb",
-      "title": "奥德赛",
-      "originalTitle": "The Odyssey",
-      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
-      "releaseDate": "2026-07-15",
-      "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.012,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动作"
-    },
-    {
       "id": 1567937,
       "type": "tmdb",
       "title": "空枪",
@@ -218,35 +179,9 @@
       "releaseDate": "1994-09-23",
       "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "posterPath": "/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
-      "rating": 8.732,
+      "rating": 8.7,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
-    },
-    {
-      "id": 1778310,
-      "type": "tmdb",
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "description": "为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": null,
-      "posterPath": "/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 1678102,
-      "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "releaseDate": "2026-09-11",
-      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
     },
     {
       "id": 1630030,
@@ -262,6 +197,19 @@
       "genreTitle": "喜剧, 动画"
     },
     {
+      "id": 1778310,
+      "type": "tmdb",
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "description": "为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": null,
+      "posterPath": "/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
       "id": 1633056,
       "type": "tmdb",
       "title": "八仙！",
@@ -273,6 +221,19 @@
       "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
+    },
+    {
+      "id": 1678102,
+      "type": "tmdb",
+      "title": "死亡禁区实录",
+      "originalTitle": "死亡禁区实录",
+      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
+      "releaseDate": "2026-09-11",
+      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
+      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 惊悚"
     },
     {
       "id": 1101412,
@@ -296,22 +257,9 @@
       "releaseDate": "2019-04-24",
       "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "rating": 8.2,
+      "rating": 8.245,
       "mediaType": "movie",
       "genreTitle": "冒险, 科幻"
-    },
-    {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.2,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1288445,
@@ -322,7 +270,7 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.418,
+      "rating": 7.443,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -335,7 +283,7 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.126,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -348,6 +296,19 @@
       "releaseDate": "2026-09-25",
       "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
       "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1761217,
+      "type": "tmdb",
+      "title": "蝉衣",
+      "originalTitle": "蝉衣",
+      "description": "五姐妹的中阿莲在临死前，希望自己穿上越南的衣服（奥黛）下葬。在葬礼上，主角北江红偷偷给死者换上越南的衣服，这一行为冒犯了瑶族人族规。北江红被丈夫（瑶族村长）当众打了一个耳光。已经年近60岁的北江红，独自一人来到石门台高山上生活。女儿阿知上山劝母亲下山,因受伤困在山上。电影主要讲述了阿知在高山上与母亲一起生活时，揭开了母亲北江红不为人知的身世和往事......",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/oNs5Z2kROR7xtPsZVnMYJc3A9hl.jpg",
+      "posterPath": "/duMVbadqFNiHCVTmW1U4QSjxXqD.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
@@ -366,32 +327,6 @@
       "genreTitle": "家庭, 动画"
     },
     {
-      "id": 1761217,
-      "type": "tmdb",
-      "title": "蝉衣",
-      "originalTitle": "蝉衣",
-      "description": "五姐妹的中阿莲在临死前，希望自己穿上越南的衣服（奥黛）下葬。在葬礼上，主角北江红偷偷给死者换上越南的衣服，这一行为冒犯了瑶族人族规。北江红被丈夫（瑶族村长）当众打了一个耳光。已经年近60岁的北江红，独自一人来到石门台高山上生活。女儿阿知上山劝母亲下山,因受伤困在山上。电影主要讲述了阿知在高山上与母亲一起生活时，揭开了母亲北江红不为人知的身世和往事......",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/oNs5Z2kROR7xtPsZVnMYJc3A9hl.jpg",
-      "posterPath": "/duMVbadqFNiHCVTmW1U4QSjxXqD.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1318413,
-      "type": "tmdb",
-      "title": "诺曼底72小时",
-      "originalTitle": "Pressure",
-      "description": "1944年，诺曼底登陆进入最后72小时，盟军大规模登陆部队已经集结完毕，一切准备就绪，唯独难以预测的天气成为决定行动成败的关键。气象学家詹姆斯·斯塔格上校根据自己的判断预警风暴即将来临，但推迟行动同样可能导致盟军部署暴露。面对来自盟军高层的巨大压力，斯塔格必须坚持自己的气象判断，而最终决定权则掌握在盟军最高司令德怀特·艾森豪威尔手中。数十万将士的安危与诺曼底登陆的成败，都悬于这场与时间和天气的艰难博弈之中……",
-      "releaseDate": "2026-05-28",
-      "backdropPath": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-      "posterPath": "/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "惊悚, 历史"
-    },
-    {
       "id": 1716541,
       "type": "tmdb",
       "title": "我想留在你身边",
@@ -403,6 +338,19 @@
       "rating": 4,
       "mediaType": "movie",
       "genreTitle": "爱情, 奇幻"
+    },
+    {
+      "id": 1655500,
+      "type": "tmdb",
+      "title": "床下有人4",
+      "originalTitle": "床下有人4",
+      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "posterPath": "/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 惊悚"
     },
     {
       "id": 1616157,
@@ -431,19 +379,6 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 1655500,
-      "type": "tmdb",
-      "title": "床下有人4",
-      "originalTitle": "床下有人4",
-      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
-      "posterPath": "/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
-    },
-    {
       "id": 1724637,
       "type": "tmdb",
       "title": "去你的岛",
@@ -470,19 +405,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.172,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
       "id": 1774598,
       "type": "tmdb",
       "title": "最后，一根稻草托起了下巴",
@@ -496,17 +418,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 396227,
+      "id": 1185806,
       "type": "tmdb",
-      "title": "哈姆雷特",
-      "originalTitle": "National Theatre Live: Hamlet",
-      "description": "丹麦王子哈姆雷特发现他的叔叔克劳迪斯杀了他的父亲以获得王位，并计划他的复仇。",
-      "releaseDate": "2015-10-15",
-      "backdropPath": "/2OlaeKSohqs8d2yYe2W9ZeP70Uh.jpg",
-      "posterPath": "/wXywOtlYJyKYMtx84Wwyo5iwgDX.jpg",
-      "rating": 7.5,
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 8.2,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 956215,
@@ -546,32 +468,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
-    },
-    {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1028378,
-      "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
-      "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     }
   ]
 }
