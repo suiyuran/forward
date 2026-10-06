@@ -1,6 +1,32 @@
 {
-  "time": "2026-10-05T23:04:24.411Z",
+  "time": "2026-10-06T21:27:45.111Z",
   "data": [
+    {
+      "id": 1423191,
+      "type": "tmdb",
+      "title": "生化危机：爆发夜",
+      "originalTitle": "Resident Evil",
+      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
+      "releaseDate": "2026-09-16",
+      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
+      "rating": 7.308,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
+    },
+    {
+      "id": 1439171,
+      "type": "tmdb",
+      "title": "神探之痕迹",
+      "originalTitle": "神探之痕迹",
+      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": "/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
+      "posterPath": "/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 剧情"
+    },
     {
       "id": 1503023,
       "type": "tmdb",
@@ -28,19 +54,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1423191,
-      "type": "tmdb",
-      "title": "生化危机：爆发夜",
-      "originalTitle": "Resident Evil",
-      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
-      "releaseDate": "2026-09-16",
-      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
-    },
-    {
       "id": 1263337,
       "type": "tmdb",
       "title": "野兽之心",
@@ -49,7 +62,7 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.525,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
@@ -80,6 +93,19 @@
       "genreTitle": "犯罪, 动作"
     },
     {
+      "id": 414419,
+      "type": "tmdb",
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "releaseDate": "2011-03-27",
+      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "rating": 8.1,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
       "id": 1089598,
       "type": "tmdb",
       "title": "敦煌英雄",
@@ -106,17 +132,17 @@
       "genreTitle": "喜剧, 动作"
     },
     {
-      "id": 1670314,
+      "id": 1391021,
       "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
-      "rating": 0,
+      "title": "欢迎来龙餐馆",
+      "originalTitle": "欢迎来龙餐馆",
+      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
+      "releaseDate": "2026-08-08",
+      "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
+      "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+      "rating": 9,
       "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
+      "genreTitle": "剧情, 战争"
     },
     {
       "id": 1491920,
@@ -127,22 +153,9 @@
       "releaseDate": "2026-07-11",
       "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "posterPath": "/5skHR1T8URubqb30fk14njyPcy4.jpg",
-      "rating": 6,
+      "rating": 6.1,
       "mediaType": "movie",
       "genreTitle": "动作, 喜剧"
-    },
-    {
-      "id": 1391021,
-      "type": "tmdb",
-      "title": "欢迎来龙餐馆",
-      "originalTitle": "欢迎来龙餐馆",
-      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
-      "releaseDate": "2026-08-08",
-      "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-      "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 9.023,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
     },
     {
       "id": 1650896,
@@ -158,6 +171,19 @@
       "genreTitle": "喜剧, 动画"
     },
     {
+      "id": 1368337,
+      "type": "tmdb",
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
+      "releaseDate": "2026-07-15",
+      "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "rating": 8,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动作"
+    },
+    {
       "id": 1567937,
       "type": "tmdb",
       "title": "空枪",
@@ -171,6 +197,19 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
+      "id": 1670314,
+      "type": "tmdb",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
       "id": 278,
       "type": "tmdb",
       "title": "肖申克的救赎",
@@ -179,7 +218,7 @@
       "releaseDate": "1994-09-23",
       "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "posterPath": "/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
-      "rating": 8.7,
+      "rating": 8.732,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -192,22 +231,9 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
       "posterPath": "/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
-      "rating": 6,
+      "rating": 5.8,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
-    },
-    {
-      "id": 1778310,
-      "type": "tmdb",
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "description": "为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": null,
-      "posterPath": "/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1633056,
@@ -221,6 +247,32 @@
       "rating": 7.9,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
+    },
+    {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
+      "rating": 8.184,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1778310,
+      "type": "tmdb",
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "description": "为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": null,
+      "posterPath": "/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1678102,
@@ -240,11 +292,11 @@
       "type": "tmdb",
       "title": "坠落2：死点",
       "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
       "releaseDate": "2026-09-01",
-      "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "backdropPath": "/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 6.2,
+      "rating": 6.128,
       "mediaType": "movie",
       "genreTitle": "惊悚"
     },
@@ -257,7 +309,7 @@
       "releaseDate": "2019-04-24",
       "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "rating": 8.245,
+      "rating": 8.246,
       "mediaType": "movie",
       "genreTitle": "冒险, 科幻"
     },
@@ -270,7 +322,7 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.443,
+      "rating": 7.4,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -283,22 +335,9 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.1,
+      "rating": 8.126,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1774595,
-      "type": "tmdb",
-      "title": "凝脂手",
-      "originalTitle": "凝脂手",
-      "description": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
-      "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1761217,
@@ -309,6 +348,19 @@
       "releaseDate": "2026-09-25",
       "backdropPath": "/oNs5Z2kROR7xtPsZVnMYJc3A9hl.jpg",
       "posterPath": "/duMVbadqFNiHCVTmW1U4QSjxXqD.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1774595,
+      "type": "tmdb",
+      "title": "凝脂手",
+      "originalTitle": "凝脂手",
+      "description": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
+      "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
@@ -325,6 +377,19 @@
       "rating": 4.2,
       "mediaType": "movie",
       "genreTitle": "家庭, 动画"
+    },
+    {
+      "id": 1616157,
+      "type": "tmdb",
+      "title": "上海女儿",
+      "originalTitle": "上海女儿",
+      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": "/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
+      "posterPath": "/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1716541,
@@ -351,19 +416,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
-    },
-    {
-      "id": 1616157,
-      "type": "tmdb",
-      "title": "上海女儿",
-      "originalTitle": "上海女儿",
-      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": "/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
-      "posterPath": "/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1502135,
@@ -405,6 +457,19 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 1761059,
+      "type": "tmdb",
+      "title": "一路超平安",
+      "originalTitle": "一路超平安",
+      "description": "一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": null,
+      "posterPath": "/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
+    },
+    {
       "id": 1774598,
       "type": "tmdb",
       "title": "最后，一根稻草托起了下巴",
@@ -431,14 +496,53 @@
       "genreTitle": "动画, 冒险"
     },
     {
-      "id": 956215,
+      "id": 396227,
       "type": "tmdb",
-      "title": "龙凤呈祥(京剧)",
-      "originalTitle": "龙凤呈祥(京剧)",
-      "description": "孙权（安平 饰）因刘备(耿其昌 饰)久占荆州，屡讨不还，遂与周瑜（叶少兰 饰）定计，假称以妹孙尚香（李维康 饰）许配刘备，诓其过江留质，以换荆州。诸葛亮识破计谋，将计就计，使赵云（王平 饰）保护刘备同往，并先拜谒周瑜岳丈——太尉乔玄（冯志孝 饰）。乔玄即以其事奏于孙母吴国太（赵葆秀 饰），国太决定在甘露寺相亲。乔玄从孙刘联合抗曹的大局出发极力撮合，终于弄假成真。  周瑜见美人计失败，又以声色羁縻之，刘备果然乐不思归。赵云复用诸葛亮锦囊之计，佯报曹操袭取荆州。刘备惊慌欲走，告于尚香。尚香拜别国太，随其潜逃。周瑜遣将追赶，皆为尚香斥退，继而率兵亲至，时诸葛亮已用船迎接刘备脱险。周瑜反受张飞（杨赤 饰）之辱。",
+      "title": "哈姆雷特",
+      "originalTitle": "National Theatre Live: Hamlet",
+      "description": "丹麦王子哈姆雷特发现他的叔叔克劳迪斯杀了他的父亲以获得王位，并计划他的复仇。",
+      "releaseDate": "2015-10-15",
+      "backdropPath": "/2OlaeKSohqs8d2yYe2W9ZeP70Uh.jpg",
+      "posterPath": "/wXywOtlYJyKYMtx84Wwyo5iwgDX.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1028378,
+      "type": "tmdb",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1316352,
+      "type": "tmdb",
+      "title": "状元媒(京剧)",
+      "originalTitle": "状元媒(京剧)",
+      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
       "releaseDate": "2015-04-23",
       "backdropPath": null,
-      "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
+      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
@@ -457,14 +561,14 @@
       "genreTitle": ""
     },
     {
-      "id": 1316352,
+      "id": 956215,
       "type": "tmdb",
-      "title": "状元媒(京剧)",
-      "originalTitle": "状元媒(京剧)",
-      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
+      "title": "龙凤呈祥(京剧)",
+      "originalTitle": "龙凤呈祥(京剧)",
+      "description": "孙权（安平 饰）因刘备(耿其昌 饰)久占荆州，屡讨不还，遂与周瑜（叶少兰 饰）定计，假称以妹孙尚香（李维康 饰）许配刘备，诓其过江留质，以换荆州。诸葛亮识破计谋，将计就计，使赵云（王平 饰）保护刘备同往，并先拜谒周瑜岳丈——太尉乔玄（冯志孝 饰）。乔玄即以其事奏于孙母吴国太（赵葆秀 饰），国太决定在甘露寺相亲。乔玄从孙刘联合抗曹的大局出发极力撮合，终于弄假成真。  周瑜见美人计失败，又以声色羁縻之，刘备果然乐不思归。赵云复用诸葛亮锦囊之计，佯报曹操袭取荆州。刘备惊慌欲走，告于尚香。尚香拜别国太，随其潜逃。周瑜遣将追赶，皆为尚香斥退，继而率兵亲至，时诸葛亮已用船迎接刘备脱险。周瑜反受张飞（杨赤 饰）之辱。",
       "releaseDate": "2015-04-23",
       "backdropPath": null,
-      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
+      "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
