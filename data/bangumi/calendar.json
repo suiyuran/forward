@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-05T22:17:51.405Z",
+  "time": "2026-10-06T20:45:58.578Z",
   "data": {
     "星期日": [
       {
@@ -193,7 +193,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/7CSqPaizCugNAznzmUUVQKbj6KO.jpg",
         "posterPath": "/saOqlHkybF06dYdFycUTROZI75o.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -245,8 +245,8 @@
         "originalTitle": "ロメリア戦記",
         "description": "“罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。”当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为“恩宠”的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
         "releaseDate": "2026-10-05",
-        "backdropPath": "/mSZbeN0Ptv6em7jYkgzAEagg3N0.jpg",
-        "posterPath": "/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+        "backdropPath": "/zCFl5Fi37UN2wTR4q67rOkzE0fo.jpg",
+        "posterPath": "/47NrmoMEaZ2noGQeYgkU6crWora.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -254,9 +254,9 @@
       {
         "id": 297903,
         "type": "tmdb",
-        "title": "PSYREN -サイレン-",
+        "title": "PSYREN -决战游戏-",
         "originalTitle": "PSYREN -サイレン-",
-        "description": "",
+        "description": "高中一年级学生·夜科扬羽，某天捡到了被遗弃在公共电话亭里的“红色电话卡”。\n\n　　几天后，持有相同电话卡的青梅竹马兼同学·雨宫樱子失去了踪影。\n\n　　为了寻找她，扬羽联系了传闻中在全国范围内制造连续“神隐”失踪事件的黑幕——“秘密结社PSYREN”。\n\n　　随后，一场赌上性命的游戏开始了——",
         "releaseDate": "2026-10-05",
         "backdropPath": "/o8jHdRwB9GZtkdZjmMoFJyC7eDZ.jpg",
         "posterPath": "/EQNjH4oeCm9pD58fi2s4WZyjgA.jpg",
@@ -301,7 +301,7 @@
         "releaseDate": "2022-09-13",
         "backdropPath": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
         "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
-        "rating": 8.485,
+        "rating": 8.486,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -317,6 +317,19 @@
         "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
+      },
+      {
+        "id": 316551,
+        "type": "tmdb",
+        "title": "战斗之魂[Re] 绝界之空",
+        "originalTitle": "Battle Spirits [Re] 絶界の空",
+        "description": "唯有武士才被允许、以性命相搏、被称为 \"永恒\" 的决斗之战 ——\n\n而在民众之间，不涉及生死的 \"标准之战\" 正逐渐普及开来。\n\n两个灵魂相互交汇，历史由此转动 ——",
+        "releaseDate": "2026-10-06",
+        "backdropPath": "/9V4zVVKqy7g2n6Vxts2DmXxuPiU.jpg",
+        "posterPath": "/6jjfwGwjaLIGKstXq2XITgbddAX.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 儿童"
       },
       {
         "id": 261343,
@@ -336,10 +349,10 @@
         "type": "tmdb",
         "title": "超巡！超条前辈",
         "originalTitle": "超巡！超条先輩",
-        "description": "能够运用读心术、千里眼、心灵感应等所有超能力进行犯罪调查的专家超条巡，拥有柔道段位，因怪力而被称为\"大猩猩\"的新人警察一本木直，最强（？）搭档今天也在守护珍宿的和平，超能力刑警喜剧开幕！",
+        "description": "能够运用读心术、千里眼、心灵感应等所有超能力进行犯罪调查的专家超条巡，拥有柔道段位，因怪力而被称为“大猩猩”的新人警察一本木直，最强(?)搭档今天也在守护珍宿的和平，超能力刑警喜剧开幕！",
         "releaseDate": "2026-10-06",
         "backdropPath": "/ru9Nc9HBAUjTVjngbgNUCdKRNa0.jpg",
-        "posterPath": "/z1iwCNN5gdvgW5PXcOaoZwHNvNy.jpg",
+        "posterPath": "/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -363,9 +376,9 @@
         "title": "被流放的开挂魔术师讴歌随心所欲第二人生",
         "originalTitle": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
         "description": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了！”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了——！！",
-        "releaseDate": "2026-10-07",
+        "releaseDate": "2026-10-06",
         "backdropPath": "/msusxF6ZPGnQmTGXU9iC4UJOohs.jpg",
-        "posterPath": "/d2twigOlajyMBmqjZY0z0XCBwGC.jpg",
+        "posterPath": "/oVANcZHwfWRtnZF0UEtJeesRWiy.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -459,7 +472,7 @@
         "releaseDate": "2020-10-31",
         "backdropPath": "/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
         "posterPath": "/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-        "rating": 7.5,
+        "rating": 7.527,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -525,7 +538,7 @@
         "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
         "releaseDate": "2026-10-09",
         "backdropPath": "/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
-        "posterPath": "/15l8DngKk9k2RRve06sRNbzXRg4.jpg",
+        "posterPath": "/1ZDLHKvcm7npIp5S3egGUk6ZFdA.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -578,7 +591,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
         "posterPath": "/7hVGp1KlPvxtYufq8kTdCKu2cWS.jpg",
-        "rating": 8.627,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -618,7 +631,7 @@
         "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
         "releaseDate": "2026-10-09",
         "backdropPath": "/37xSbB8Hj87wYiKBcnXZSG3vv9U.jpg",
-        "posterPath": "/h5IN8zBryhPu36ZZHlm7rA8zwhr.jpg",
+        "posterPath": "/q7J6Nt0Ml6FI8ReSFX2t8YynGqX.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
@@ -630,7 +643,7 @@
         "originalTitle": "Avatar: Seven Havens",
         "description": "在一场毁灭性大灾难击碎的世界里，一位年轻的御土师发现自己是科拉之后的新任神通。但在这个危险的时代，这个头衔意味着她是人类的毁灭者，而非救世主。她遭到人类和灵界敌人的追捕，必须与失散多年的双胞胎揭开他们神秘的身世，在文明最后的堡垒崩溃之前拯救七净土。",
         "releaseDate": "2026-10-09",
-        "backdropPath": "/ztxiwR10U7ezD16XBLn8xYryYYq.jpg",
+        "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/vYNar1VtdNyQXXUt16uPbIT6wzr.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -643,7 +656,7 @@
         "originalTitle": "パンどろぼう",
         "description": "",
         "releaseDate": "2026-10-02",
-        "backdropPath": null,
+        "backdropPath": "/tZy81uEJH83fqqj9Q8glYXePdRq.jpg",
         "posterPath": "/1vhGbttw7Pf4QYwd4GngBiMsjGu.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -671,7 +684,7 @@
         "releaseDate": "2025-07-11",
         "backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
         "posterPath": "/lUqwOFOSCg3wU001xYJju5WEZbl.jpg",
-        "rating": 7.591,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -710,7 +723,7 @@
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
         "posterPath": "/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
-        "rating": 7.5,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -723,7 +736,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.167,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -736,7 +749,7 @@
         "releaseDate": "2025-10-02",
         "backdropPath": "/mTb7picysLAZ15uv9H5iRD5llCg.jpg",
         "posterPath": "/joH7sNoo01UwD1DSc87b1yfPwXM.jpg",
-        "rating": 8.1,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -764,7 +777,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/7qBrY88hNwMrMb75PkBZjhFolbL.jpg",
-        "rating": 8.02,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -795,19 +808,6 @@
         "genreTitle": "动画, 喜剧"
       },
       {
-        "id": 285899,
-        "type": "tmdb",
-        "title": "转生后的大圣女，极力隐瞒圣女的身份",
-        "originalTitle": "転生した大聖女は、聖女であることをひた隠す",
-        "description": "被认为「没有使剑的才能」的骑士家的少女·菲亚。她在濒死之际，回想起自己前世是拥有规格外能力的「大圣女」，并且使最强的魔物·黑龙成为她的从魔。但是回想起在前世魔王的右腕曾威胁她说「若是依旧作为圣女转生那我依旧会继续杀你」，菲亚决定一边隐藏大圣女的力量一边以骑士为目标，可是却引发了众多骚动！？",
-        "releaseDate": "2026-10-03",
-        "backdropPath": "/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
-        "posterPath": "/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "动画, 动作冒险"
-      },
-      {
         "id": 283938,
         "type": "tmdb",
         "title": "学生会也有洞！",
@@ -829,7 +829,7 @@
         "releaseDate": "2017-10-03",
         "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
         "posterPath": "/qCYdcLGAARSbnTuG9BGlDyi7Zue.jpg",
-        "rating": 8.505,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -852,7 +852,7 @@
         "title": "借出去的魔力要用【分期还款】强制收回",
         "originalTitle": "貸した魔力は【リボ払い】で強制徴収",
         "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
-        "releaseDate": "2026-10-03",
+        "releaseDate": "2026-10-04",
         "backdropPath": "/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
         "posterPath": "/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
         "rating": 4,
@@ -940,7 +940,7 @@
       {
         "id": 324326,
         "type": "tmdb",
-        "title": "马罗尼耶王国的七骑士",
+        "title": "七叶树王国的七名骑士",
         "originalTitle": "マロニエ王国の七人の騎士",
         "description": "在这片由八个王国组成的大陆中央，坐落着马罗尼耶王国。王国的将军巴里巴拉有七个儿子，他们各有所长，并且都担任骑士长。他们有一个共同崇高目标，那就是有朝一日英勇地救出公主，于是七兄弟作为友好大使，踏上了前往邻近七国的旅程。\n\n在这些陌生的国度，他们将经历怎样的奇遇和考验，最终走向怎样的命运？",
         "releaseDate": "2026-10-03",
