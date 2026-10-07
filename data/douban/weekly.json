@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-06T23:22:56.244Z",
+  "time": "2026-10-07T23:53:53.099Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 8,
+        "rating": 7.963,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -135,15 +135,15 @@
     ],
     "剧集·国内": [
       {
-        "id": 294486,
+        "id": 332911,
         "type": "tmdb",
-        "title": "交锋",
-        "originalTitle": "交锋",
-        "description": "一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合，为了共同的使命与信仰并肩作战。",
-        "releaseDate": "2026-09-06",
-        "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
-        "posterPath": "/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
-        "rating": 7.5,
+        "title": "消失的裂痕",
+        "originalTitle": "消失的裂痕",
+        "description": "在儿子神秘失踪三年后，一位悲痛的母亲开始经历一些难以解释的令人不安的幻象。当镜子显现出她现实与另一个平行世界之间的裂缝时，她坚信儿子失踪的真相可能存在于另一边。随着记忆、幻觉和现实开始交织，她被卷入一个危险的谜团，同时揭露了她婚姻和家庭中隐藏的裂痕。",
+        "releaseDate": "2026-09-29",
+        "backdropPath": "/ndewFqwioUF7o9iKoxtUm67Reum.jpg",
+        "posterPath": "/bgKWL3S8AyzUsoEERkOSIz6CRmr.jpg",
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "悬疑"
       },
@@ -161,30 +161,17 @@
         "genreTitle": "剧情, 家庭"
       },
       {
-        "id": 309663,
+        "id": 294486,
         "type": "tmdb",
-        "title": "开庭",
-        "originalTitle": "COURT!",
-        "description": "基于不同观点角度、难以致信的巧合或为了维护更公平的法律原则，都影响着所有案件在法庭上的细节，令最终「真相」的呈现，面临着不同挑战和考验。",
-        "releaseDate": "2026-05-18",
-        "backdropPath": "/fGOfVu7YjBEBxPZH7fwkufZ47Lu.jpg",
-        "posterPath": "/1mEuvUMkr8xpQoP8uekuxcE65A6.jpg",
-        "rating": 5.5,
+        "title": "交锋",
+        "originalTitle": "交锋",
+        "description": "一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合，为了共同的使命与信仰并肩作战。",
+        "releaseDate": "2026-09-06",
+        "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
+        "posterPath": "/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+        "rating": 7.5,
         "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 290863,
-        "type": "tmdb",
-        "title": "冬城猎凶",
-        "originalTitle": "冬城猎凶",
-        "description": "刑警李豫京被借调协助女警岳晴川侦办系列儿童拐卖案，调查中意外发现与自己13年前经手的持械抢劫案有关的线索。两人携手跨越13年，展开双时间线追凶。",
-        "releaseDate": "2026-09-10",
-        "backdropPath": "/28u4q3fPzXmbyf3BoiWweUOuuzj.jpg",
-        "posterPath": "/oCXm0csr9PMkJGOTxDDYduK9AbO.jpg",
-        "rating": 7.4,
-        "mediaType": "tv",
-        "genreTitle": "犯罪"
+        "genreTitle": "悬疑"
       },
       {
         "id": 301489,
@@ -211,6 +198,19 @@
         "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "悬疑"
+      },
+      {
+        "id": 290863,
+        "type": "tmdb",
+        "title": "冬城猎凶",
+        "originalTitle": "冬城猎凶",
+        "description": "刑警李豫京被借调协助女警岳晴川侦办系列儿童拐卖案，调查中意外发现与自己13年前经手的持械抢劫案有关的线索。两人携手跨越13年，展开双时间线追凶。",
+        "releaseDate": "2026-09-10",
+        "backdropPath": "/28u4q3fPzXmbyf3BoiWweUOuuzj.jpg",
+        "posterPath": "/oCXm0csr9PMkJGOTxDDYduK9AbO.jpg",
+        "rating": 7.4,
+        "mediaType": "tv",
+        "genreTitle": "犯罪"
       },
       {
         "id": 291856,
@@ -247,7 +247,7 @@
         "releaseDate": "2026-08-26",
         "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
         "posterPath": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-        "rating": 8.4,
+        "rating": 8.192,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,22 +275,9 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
         "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-        "rating": 8.3,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
-      },
-      {
-        "id": 108255,
-        "type": "tmdb",
-        "title": "万物生灵",
-        "originalTitle": "All Creatures Great & Small",
-        "description": "1946年，战争结束后的达罗比迎来新的时代。詹姆斯、海伦和孩子们回到这里，斯凯代尔庄园也迎来新的变化；一位新兽医的出现，让詹姆斯和法农兄弟面对新的挑战。",
-        "releaseDate": "2026-09-17",
-        "backdropPath": "/jDBtipccngWA9UcSKoTMnMFz3PA.jpg",
-        "posterPath": "/l4ILps4izoFtPZccwtM5rxTByk3.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 283319,
@@ -345,17 +332,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 66980,
+        "id": 108255,
         "type": "tmdb",
-        "title": "巴比伦柏林",
-        "originalTitle": "Babylon Berlin",
-        "description": "1933年2月，拉特、夏洛特以及其他角色都必须面对纳粹掌权后的新局势，并在服从、抵抗、隐居或流亡之间作出选择。",
-        "releaseDate": "2026-09-10",
-        "backdropPath": "/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
-        "posterPath": "/q0UXu4llIwIrz49LZH3XAIvFzC0.jpg",
-        "rating": 6.3,
+        "title": "万物生灵",
+        "originalTitle": "All Creatures Great & Small",
+        "description": "1946年，战争结束后的达罗比迎来新的时代。詹姆斯、海伦和孩子们回到这里，斯凯代尔庄园也迎来新的变化；一位新兽医的出现，让詹姆斯和法农兄弟面对新的挑战。",
+        "releaseDate": "2026-09-17",
+        "backdropPath": "/jDBtipccngWA9UcSKoTMnMFz3PA.jpg",
+        "posterPath": "/l4ILps4izoFtPZccwtM5rxTByk3.jpg",
+        "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "剧情, 犯罪"
+        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 236235,
@@ -371,9 +358,22 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
+        "id": 66980,
+        "type": "tmdb",
+        "title": "巴比伦柏林",
+        "originalTitle": "Babylon Berlin",
+        "description": "1933年2月，拉特、夏洛特以及其他角色都必须面对纳粹掌权后的新局势，并在服从、抵抗、隐居或流亡之间作出选择。",
+        "releaseDate": "2026-09-10",
+        "backdropPath": "/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
+        "posterPath": "/q0UXu4llIwIrz49LZH3XAIvFzC0.jpg",
+        "rating": 6.3,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 犯罪"
+      },
+      {
         "id": 299939,
         "type": "tmdb",
-        "title": "怪物：莉齐·博登的故事",
+        "title": "怪物：丽兹·波顿的故事",
         "originalTitle": "Monster: The Lizzie Borden Story",
         "description": "被困于维多利亚时代残酷家庭的丽兹·波顿用斧头残忍杀害了自己的父母，此案震惊全国。",
         "releaseDate": "2026-09-17",
