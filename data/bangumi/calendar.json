@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-07T20:57:42.258Z",
+  "time": "2026-10-08T21:00:24.697Z",
   "data": {
     "星期日": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2024-10-03",
         "backdropPath": "/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
         "posterPath": "/fTt9CEgDgxP8tNiQisNBTnRRpEk.jpg",
-        "rating": 7.8,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -111,7 +111,7 @@
         "type": "tmdb",
         "title": "黑暗召唤师在地下恋爱中",
         "originalTitle": "ダークサモナーとデキている",
-        "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——\n\n驱使恶魔之力的美丽暗黑召唤师（*注：原文此处似缺角色名字*）。\n\n圣洁与邪恶，人类与亚人。\n\n本以为这两人会水火不容、势同水火，\n\n却在入队的第一天早晨，就发生了关系……！？\n\n揣着这个不可告人的秘密，他们与性格各异的队友们，\n\n以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！\n\n背德与心动相互交织。\n\n亚人少女 × 神官少年\n\n奇幻欢喜冤家恋爱喜剧，正式开幕！",
+        "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——驱使恶魔之力的美丽暗黑召唤师·阿莫娜。圣洁与邪恶，人类与亚人。本以为这两人会水火不容、势同水火，却在入队的第一天早晨，就发生了关系……！？揣着这个不可告人的秘密，他们与性格各异的队友们，以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！背德与心动相互交织。亚人少女×神官少年，奇幻欢喜冤家恋爱喜剧，正式开幕！",
         "releaseDate": "2026-10-05",
         "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
         "posterPath": "/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
@@ -185,17 +185,17 @@
         "genreTitle": "动画, 儿童"
       },
       {
-        "id": 336654,
+        "id": 337408,
         "type": "tmdb",
-        "title": "女友的朋友",
-        "originalTitle": "彼女の友達",
-        "description": "“要不要跟我出轨试试？”人生中第一次交往的可爱女友。然而她的闺蜜，却拥有比她更丰满动人的身材，还在不断引诱着我……如果被女友的闺蜜这样步步紧逼，换作是你，该如何抉择？",
-        "releaseDate": "2026-10-05",
-        "backdropPath": "/7CSqPaizCugNAznzmUUVQKbj6KO.jpg",
-        "posterPath": "/saOqlHkybF06dYdFycUTROZI75o.jpg",
-        "rating": 7,
+        "title": "不擅交际的未亡人雪女与诅咒戒指",
+        "originalTitle": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
+        "description": "不擅交际的未亡人雪女",
+        "releaseDate": "2026-10-04",
+        "backdropPath": null,
+        "posterPath": "/sz8Iyz7cYop8v7iQyXPc6KRS8yp.jpg",
+        "rating": 10,
         "mediaType": "tv",
-        "genreTitle": "动画, 剧情"
+        "genreTitle": ""
       },
       {
         "id": 216467,
@@ -273,7 +273,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
         "posterPath": "/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
-        "rating": 6,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -281,12 +281,12 @@
         "id": 316694,
         "type": "tmdb",
         "title": "转生哥布林有问题吗？",
-        "originalTitle": "転生ゴブリンだけど質問ある?",
+        "originalTitle": "転生ゴブリンだけど質問ある？",
         "description": "深受部下信赖的上班族八神彰，为保护冲上车道的小孩而丧命……本应如此，却转生成了异种族“哥布林”。哥布林的寿命仅有7天。然而，凭借转生时被赋予的技能【人类80年】，他不断从先逝的哥布林那里继承各种技能。魔族、精灵，甚至龙等也纷纷聚集到这样的彰身边……由“哥布林”掀起的最强无双奇幻故事，就此开幕！",
         "releaseDate": "2026-10-05",
         "backdropPath": "/3knNVqZlEdwYPwYBWQechjvRzx0.jpg",
         "posterPath": "/nut07tl4642Xyj86LtSYV75mYh3.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       }
@@ -327,7 +327,7 @@
         "releaseDate": "2026-10-06",
         "backdropPath": "/9V4zVVKqy7g2n6Vxts2DmXxuPiU.jpg",
         "posterPath": "/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
       },
@@ -485,7 +485,7 @@
         "releaseDate": "2026-10-07",
         "backdropPath": "/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
         "posterPath": "/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -497,7 +497,7 @@
         "description": "自从合体机器人「丹帝拜恩」击败了神秘敌人「暗波斯多」后，已经过了20年。世界一片和平，然而过去将丹帝拜恩制成玩具风靡一时的「玩具制造商凯斯加」，却也因过度依赖丹帝拜恩，导致公司营运状况每况愈下。凯斯加社长「静寂弦十郎」因此盼望，即便搅乱和平，也要让丹帝拜恩复活。也许是上天听见了他的愿望，暗波斯多再次现身于东京。20年来无忧无虑、耽溺于和平的人们突然陷入了恐慌之中。正当所有人仓皇逃跑时，过去曾是主要驾驶员的叔叔「黑田勇作」，引领着高中生「静寂戟刃」坐进了丹帝拜恩。究竟，再次现身的暗波斯多，他究竟有什么目的？凯斯加会再次称霸玩具业界吗？全新的战斗即将揭开序幕！",
         "releaseDate": "2026-10-08",
         "backdropPath": "/net6i7eHWXyBERvyaDu6JJwy4DB.jpg",
-        "posterPath": "/6hBvqy6OKi0OcFLQOeulmlC5hr0.jpg",
+        "posterPath": "/3G9dxjQs9jjoObWu1hEhFgCiLYl.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
@@ -538,7 +538,7 @@
         "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
         "releaseDate": "2026-10-09",
         "backdropPath": "/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
-        "posterPath": "/1ZDLHKvcm7npIp5S3egGUk6ZFdA.jpg",
+        "posterPath": "/ep7YyHdPtRwQgsB8v8S7lFIGPrC.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -591,7 +591,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
         "posterPath": "/7hVGp1KlPvxtYufq8kTdCKu2cWS.jpg",
-        "rating": 8.635,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -671,7 +671,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.6,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -723,7 +723,7 @@
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
         "posterPath": "/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
-        "rating": 8.2,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -756,9 +756,9 @@
       {
         "id": 335788,
         "type": "tmdb",
-        "title": "蒼き伝承 ウェルシュ＆シェダー",
+        "title": "苍蓝传承  WELSH & SHEDAR",
         "originalTitle": "蒼き伝承 ウェルシュ＆シェダー",
-        "description": "",
+        "description": "该动画是由曾开发 MMORPG《龙梦幻境》 (Dofus) 等作品的法国 Ankama 公司打造的原创电视动画。故事中，擅长料理、心地善良的少年威尔士原本在乡村过着平静的生活，然而一场巨龙袭击村庄的遭遇彻底改变了他的日常。另一边，大陆最大国家邦塔的王子谢达尔，在支持身为女王的母亲扎贝尔的同时，却因某件事开始对母亲的行为产生质疑。围绕传说中创造世界的秘宝“Dofus”，两位出身迥异的少年命运交织，一场冒险奇幻故事就此展开。（豆瓣）",
         "releaseDate": "2026-10-02",
         "backdropPath": "/8iJ4IPl8BPVOL7C6lFKq2zeLdDs.jpg",
         "posterPath": "/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
@@ -777,7 +777,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/mCfswh8wgMW8rzUrSEdviUGu5Ax.jpg",
-        "rating": 8.019,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -787,7 +787,7 @@
         "title": "魔法★探险家",
         "originalTitle": "マジカル★エクスプローラー",
         "description": "传说级美少女游戏《魔法★探险家》。我转生成为凭借作弊能力被众多女角簇拥的主角——身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！而且，这个好友角色还有着“世界顶尖的魔力量”这个隐藏设定，甚至具备超越主角的潜力……？为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
-        "releaseDate": "2026-10-04",
+        "releaseDate": "2026-10-03",
         "backdropPath": "/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
         "posterPath": "/7V70UHOfMRef1vlsNX396MJQMmT.jpg",
         "rating": 10,
@@ -803,7 +803,7 @@
         "releaseDate": "2021-12-03",
         "backdropPath": "/xvW4vt825iB1cRKfNcQ8ilEDtdM.jpg",
         "posterPath": "/jO4DI02wo9hqimvELQGPa44T47Q.jpg",
-        "rating": 7.7,
+        "rating": 7.696,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -894,7 +894,7 @@
         "releaseDate": "2025-10-04",
         "backdropPath": "/gNYmU3RUlCb6dVqkiPCT7vglMfg.jpg",
         "posterPath": "/2pQHfraIKbqcOYgdq6H96tqHFop.jpg",
-        "rating": 7.4,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -933,7 +933,7 @@
         "releaseDate": "2024-10-06",
         "backdropPath": "/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
         "posterPath": "/hOmadnDmq8aNdygqsxFkEVclxgF.jpg",
-        "rating": 8.089,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -972,7 +972,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/hollWapcsUhmWbsp9yJXW9ZWDTb.jpg",
         "posterPath": "/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
-        "rating": 7.7,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
