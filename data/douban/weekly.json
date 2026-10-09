@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-09T00:00:26.395Z",
+  "time": "2026-10-09T23:37:20.104Z",
   "data": {
     "电影": [
       {
@@ -11,9 +11,35 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
         "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-        "rating": 7.7,
+        "rating": 7.67,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
+      },
+      {
+        "id": 1423191,
+        "type": "tmdb",
+        "title": "生化危机：爆发夜",
+        "originalTitle": "Resident Evil",
+        "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
+        "releaseDate": "2026-09-16",
+        "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
+        "rating": 7.333,
+        "mediaType": "movie",
+        "genreTitle": "恐怖, 科幻"
+      },
+      {
+        "id": 1263337,
+        "type": "tmdb",
+        "title": "野兽之心",
+        "originalTitle": "Heart of the Beast",
+        "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
+        "releaseDate": "2026-09-19",
+        "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+        "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
+        "rating": 7.427,
+        "mediaType": "movie",
+        "genreTitle": "冒险, 惊悚"
       },
       {
         "id": 1242876,
@@ -24,22 +50,35 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
         "posterPath": "/eBOVzaKsE0n3cK97vCAQfNBdxVF.jpg",
-        "rating": 6.3,
+        "rating": 6.5,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
       {
-        "id": 1137844,
+        "id": 1490581,
         "type": "tmdb",
-        "title": "求救信号",
-        "originalTitle": "Mayday",
-        "description": "一名美国海军飞行员在冷战时期执行绝密任务时不幸被困在敌营。他唯有与一位性格古怪的前克格勃特工联手才有一线生机。",
-        "releaseDate": "2026-09-03",
-        "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-        "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 8,
+        "title": "风暴",
+        "originalTitle": "Cyclone",
+        "description": "1919年圣保罗，排字女工辛克隆想实现戏剧理想，拿到巴黎奖学金时意外怀孕。她没钱只能冒险非法堕胎，在压抑女性的社会里坚持表达自我。",
+        "releaseDate": "2025-12-04",
+        "backdropPath": "/6PYJCr2rXlraJYKJRhkzclRKvD6.jpg",
+        "posterPath": "/ibTDvIECEGqtGs5xUnh7smoqVtu.jpg",
+        "rating": 7.5,
         "mediaType": "movie",
-        "genreTitle": "动作, 喜剧"
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1322562,
+        "type": "tmdb",
+        "title": "怪化猫：蛇神",
+        "originalTitle": "劇場版モノノ怪 第三章 蛇神",
+        "description": "经历唐伞与火鼠引发的两场大战后，大奥似乎重归平静。然而，御台所幸子诞下的男婴不久便夭折，她也卷入颠覆大奥的阴谋。怨念化作蛇神，引发连环怪案。卖药郎必须揭开大奥尘封150年的秘密，才能拔出退魔之剑。",
+        "releaseDate": "2026-05-29",
+        "backdropPath": "/5bMDrznr5P9GcClJF0OeE4NxZn9.jpg",
+        "posterPath": "/tD2D4ej3UvZH97DRyCCCUv4n8kK.jpg",
+        "rating": 9.1,
+        "mediaType": "movie",
+        "genreTitle": "动画, 奇幻"
       },
       {
         "id": 1442669,
@@ -55,45 +94,6 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 838301,
-        "type": "tmdb",
-        "title": "童年记忆",
-        "originalTitle": "Память",
-        "description": "左撇子女孩被迫改用右手，自小被灌输以列宁为榜样，但她更爱跑进戏院看《金刚》。经历父母离异、苏联解体，车臣陷于战火，邻居遇害，家人受袭，青葱岁月面临巨变。这是导演 Vladlena Sandu 首部长片，由自己童年说起，将战争记忆化为充满想像的自述，在破旧墙壁画怪兽，以玩具剧场重演残暴景象，用童真回应荒谬现实，透过色彩斑斓影像回望动荡时代。仿佛继承了 Parajanov （《被遗忘的祖先的影子》《石榴的颜色》《呤游诗人》）的梦幻诗意，并从自身的抒发，把关怀延伸到无数被战乱侵害的儿童，诘问暴力循环何时终止",
-        "releaseDate": "2026-03-03",
-        "backdropPath": "/8taohhJiSAW9xzpSMH4KymNWO2O.jpg",
-        "posterPath": "/k75io4KkWFLxpyIvo6aUS1n705I.jpg",
-        "rating": 6.3,
-        "mediaType": "movie",
-        "genreTitle": "纪录, 剧情"
-      },
-      {
-        "id": 1240889,
-        "type": "tmdb",
-        "title": "瘴气营地的青春性事与死亡",
-        "originalTitle": "Teenage Sex and Death at Camp Miasma",
-        "description": "一个虚构的、曾经流行的恐怖电影系列正逐渐失去观众。在多年的草率续集和日渐式微的粉丝基础上，Camp Miasma 杀人狂系列被一位充满热情的年轻酷儿导演接管，以重振这部作品。但当她拜访原电影的女主角——一位如今隐居且充满神秘色彩的女演员时，两位女性陷入了一个充满欲望、恐惧和狂乱的血腥世界。",
-        "releaseDate": "2026-08-06",
-        "backdropPath": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-        "posterPath": "/t8JBX1h4yipba70tNmPaTV2tgbr.jpg",
-        "rating": 6.246,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 恐怖"
-      },
-      {
-        "id": 1447853,
-        "type": "tmdb",
-        "title": "别为往事懊恼",
-        "originalTitle": "Oasis: Don't Look Back in Anger",
-        "description": "纪录绿洲乐队重聚后的 Oasis Live ’25 世界巡演，记录乐队及全球歌迷的经历与情感，并通过排练、后台、演出及连姆和诺埃尔·加拉格尔二十多年来首次共同采访，展现这一全球音乐事件。",
-        "releaseDate": "2026-09-09",
-        "backdropPath": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-        "posterPath": "/nNwIQ8YvAJ3HHaQ1h89wBzH6aSb.jpg",
-        "rating": 7.5,
-        "mediaType": "movie",
-        "genreTitle": "纪录, 音乐"
-      },
-      {
         "id": 1525646,
         "type": "tmdb",
         "title": "隐迹之书：重写自我",
@@ -107,30 +107,30 @@
         "genreTitle": "纪录"
       },
       {
-        "id": 1507796,
+        "id": 1766670,
         "type": "tmdb",
-        "title": "海上心狱",
-        "originalTitle": "On the Sea",
-        "description": "在北威尔士的一个乡村小镇上，贻贝采捕工人杰克与妻子玛吉已相守了大半辈子。令他烦恼的是，儿子汤姆对继承家族产业毫无兴趣。直到杰克结识了流浪船员丹尼尔，两人之间产生的吸引力让他陷入了难以抉择的绝境。",
-        "releaseDate": "2025-11-21",
-        "backdropPath": "/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
-        "posterPath": "/uuJLrM5ym24COGRDe2k07ZVJitb.jpg",
-        "rating": 7,
+        "title": "活色生香",
+        "originalTitle": "活色生香",
+        "description": "退休后的薛宝梅、蒋芳芳和梁美心，面对各自的情感困境，依然勇敢追爱，以自己的方式活出精彩人生。",
+        "releaseDate": "2026-10-01",
+        "backdropPath": "/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
+        "posterPath": "/yer41x1yu2UDoQe2R8WH7GIFyH.jpg",
+        "rating": 0,
         "mediaType": "movie",
-        "genreTitle": "剧情, 爱情"
+        "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 1548708,
+        "id": 1303356,
         "type": "tmdb",
-        "title": "坂本日常",
-        "originalTitle": "SAKAMOTO DAYS",
-        "description": "改编自铃木祐斗的同名漫画。曾被誉为史上最强杀手的坂本太郎因爱退隐，结婚生女后经营一家小店。如今他的身份暴露，10亿日元悬赏令引来杀手，为保护家人，他不得不迎战来袭的刺客。",
-        "releaseDate": "2026-04-29",
-        "backdropPath": "/cD3S6FZfCgNVpSdri7V7qQi17I3.jpg",
-        "posterPath": "/jDbBFgdRo2m5LpXm93c3vDyK8zI.jpg",
-        "rating": 7,
+        "title": "火之试炼",
+        "originalTitle": "L'Épreuve du feu",
+        "description": "雨果今年十九岁。像每个夏天一样，他都在大西洋的一个小岛上度过假期，住在他父母的小房子里。但今年不同；雨果身体发生了变化，他的女朋友奎因陪伴着他来到岛上，奎因是一位美容师，她的机智和长长的莱茵石指甲与这个年轻人的沉静和羞涩形成了鲜明对比。这对情侣很快就成了众人瞩目的焦点。",
+        "releaseDate": "2025-08-13",
+        "backdropPath": "/lb9lOX2Unq9po4cA0MYY4lvv3xG.jpg",
+        "posterPath": "/loG1THulf2bCBcjoylfDJy0RnFz.jpg",
+        "rating": 7.3,
         "mediaType": "movie",
-        "genreTitle": "动作, 喜剧"
+        "genreTitle": "喜剧, 剧情"
       }
     ],
     "剧集·国内": [
@@ -373,7 +373,7 @@
       {
         "id": 299939,
         "type": "tmdb",
-        "title": "怪物：丽兹·波顿的故事",
+        "title": "怪物：莉齐·博登的故事",
         "originalTitle": "Monster: The Lizzie Borden Story",
         "description": "被困于维多利亚时代残酷家庭的丽兹·波顿用斧头残忍杀害了自己的父母，此案震惊全国。",
         "releaseDate": "2026-09-17",
