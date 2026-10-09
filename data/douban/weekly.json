@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-07T23:53:53.099Z",
+  "time": "2026-10-09T00:00:26.395Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-03",
         "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
         "posterPath": "/6MzhVjAgqj4mA0FjzoECcBlLMB7.jpg",
-        "rating": 7.963,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-08-06",
         "backdropPath": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
         "posterPath": "/t8JBX1h4yipba70tNmPaTV2tgbr.jpg",
-        "rating": 6.2,
+        "rating": 6.246,
         "mediaType": "movie",
         "genreTitle": "喜剧, 恐怖"
       },
@@ -101,7 +101,7 @@
         "description": "资深剪辑师雪美莲总疑惑自己为何拥有“史蒂芬”这个洋姓。她翻查父亲留下的笔记、家庭影像与老照片，追索家族隐秘往事，在殖民历史与多重叙事中探寻身份、记忆与自我重构。",
         "releaseDate": "2026-04-17",
         "backdropPath": "/leXpzubyd9VGDFFqaw9h3Go8YTa.jpg",
-        "posterPath": "/1b5AR8QQUSMMaE1WUdV4Y7WwYfi.jpg",
+        "posterPath": "/vCe8BRIU8P3ZNMLPeLpJwROaKZk.jpg",
         "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "纪录"
@@ -124,10 +124,10 @@
         "type": "tmdb",
         "title": "坂本日常",
         "originalTitle": "SAKAMOTO DAYS",
-        "description": "《坂本日常》是一部动作战斗题材作品，讲述了曾让所有恶徒闻风丧胆的顶尖杀手 —— 主人公坂本太郎的故事。某天，他对在便利店工作的女性 “葵” 一见钟情，随后毅然退出杀手行业。经历了结婚、女儿出生后，坂本的体型变得圆润，如今经营着一家名为 “坂本商店” 的个人小店。然而，各路恶徒接连出现在他面前，为了守护与家人共度的和平日常，坂本不得不再次投身与敌人的战斗。",
+        "description": "改编自铃木祐斗的同名漫画。曾被誉为史上最强杀手的坂本太郎因爱退隐，结婚生女后经营一家小店。如今他的身份暴露，10亿日元悬赏令引来杀手，为保护家人，他不得不迎战来袭的刺客。",
         "releaseDate": "2026-04-29",
         "backdropPath": "/cD3S6FZfCgNVpSdri7V7qQi17I3.jpg",
-        "posterPath": "/ib2uX9HaqRGAftaDuKoU5GiNqhF.jpg",
+        "posterPath": "/jDbBFgdRo2m5LpXm93c3vDyK8zI.jpg",
         "rating": 7,
         "mediaType": "movie",
         "genreTitle": "动作, 喜剧"
@@ -139,7 +139,7 @@
         "type": "tmdb",
         "title": "消失的裂痕",
         "originalTitle": "消失的裂痕",
-        "description": "在儿子神秘失踪三年后，一位悲痛的母亲开始经历一些难以解释的令人不安的幻象。当镜子显现出她现实与另一个平行世界之间的裂缝时，她坚信儿子失踪的真相可能存在于另一边。随着记忆、幻觉和现实开始交织，她被卷入一个危险的谜团，同时揭露了她婚姻和家庭中隐藏的裂痕。",
+        "description": "李芸穿过镜子进入平行世界，发现一个与失踪儿子一模一样的男孩。两个家庭随之围绕欲望、欺骗与身份认同展开激烈冲突。",
         "releaseDate": "2026-09-29",
         "backdropPath": "/ndewFqwioUF7o9iKoxtUm67Reum.jpg",
         "posterPath": "/bgKWL3S8AyzUsoEERkOSIz6CRmr.jpg",
@@ -247,7 +247,7 @@
         "releaseDate": "2026-08-26",
         "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
         "posterPath": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-        "rating": 8.192,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
         "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-        "rating": 8.2,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -286,7 +286,7 @@
         "originalTitle": "Marble Hall Murders",
         "description": "改编自安东尼·霍洛维茨的同名小说，也是苏珊·莱兰系列的第三部、最终篇。编辑苏珊·莱兰受邀参与阿提克斯·潘德系列续作的创作，却意外卷入另一宗真实谋杀案，并成为嫌疑人。与此同时，小说中的侦探阿提克斯·潘德前往科孚岛，调查玛格丽特·查尔方特夫人的谋杀案。",
         "releaseDate": "2026-09-06",
-        "backdropPath": "/woa9xtYfw1dib4JLnvQdLSZK0D2.jpg",
+        "backdropPath": "/8Jdrk3wwMCs1RN7GimMZQrBdgHh.jpg",
         "posterPath": "/7BcPfx9b4MhBFxGxZ4WJWnL0oBc.jpg",
         "rating": 8.6,
         "mediaType": "tv",
@@ -301,7 +301,7 @@
         "releaseDate": "2026-08-05",
         "backdropPath": "/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
         "posterPath": "/9jQg0izDnzG9vb6XH8VRg1TKNYM.jpg",
-        "rating": 7.6,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "剧情, Sci-Fi & Fantasy"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-09-17",
         "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
         "posterPath": "/4Uk0MaEEx0bO418rhM7B8gqeFPy.jpg",
-        "rating": 8.2,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       }
