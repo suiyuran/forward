@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-09T20:30:31.465Z",
+  "time": "2026-10-10T19:41:08.057Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/xqil5t29q1k6reedUlMy4nYd9f7.jpg",
         "posterPath": "/ccLkKM9nZ4eR2ZjDg2vpOCInZro.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
         "posterPath": "/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
-        "rating": 10,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
@@ -167,7 +167,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/inwM4LXqXYYauU1eJkfJ6uDkV11.jpg",
         "posterPath": "/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -183,6 +183,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
+      },
+      {
+        "id": 336654,
+        "type": "tmdb",
+        "title": "女友的朋友",
+        "originalTitle": "彼女の友達",
+        "description": "“要不要跟我出轨试试？”人生中第一次交往的可爱女友。然而她的闺蜜，却拥有比她更丰满动人的身材，还在不断引诱着我……如果被女友的闺蜜这样步步紧逼，换作是你，该如何抉择？",
+        "releaseDate": "2026-10-05",
+        "backdropPath": "/7CSqPaizCugNAznzmUUVQKbj6KO.jpg",
+        "posterPath": "/saOqlHkybF06dYdFycUTROZI75o.jpg",
+        "rating": 5.5,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
       },
       {
         "id": 337408,
@@ -245,9 +258,9 @@
         "originalTitle": "ロメリア戦記",
         "description": "“罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。”当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为“恩宠”的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
         "releaseDate": "2026-10-05",
-        "backdropPath": "/zCFl5Fi37UN2wTR4q67rOkzE0fo.jpg",
+        "backdropPath": "/l4npGR3d7No2Msr8OptVTek6G41.jpg",
         "posterPath": "/47NrmoMEaZ2noGQeYgkU6crWora.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -260,7 +273,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/o8jHdRwB9GZtkdZjmMoFJyC7eDZ.jpg",
         "posterPath": "/EQNjH4oeCm9pD58fi2s4WZyjgA.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -273,7 +286,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
         "posterPath": "/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
-        "rating": 8,
+        "rating": 8.333,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -327,7 +340,7 @@
         "releaseDate": "2026-10-06",
         "backdropPath": "/9V4zVVKqy7g2n6Vxts2DmXxuPiU.jpg",
         "posterPath": "/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
-        "rating": 8,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
       },
@@ -366,7 +379,7 @@
         "releaseDate": "2026-10-06",
         "backdropPath": "/aNqi7yWUU1blc8kvtfzrkrrYWEE.jpg",
         "posterPath": "/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
-        "rating": 6,
+        "rating": 6.5,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 动画"
       },
@@ -375,11 +388,11 @@
         "type": "tmdb",
         "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
         "originalTitle": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
-        "description": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了！”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了——！！",
+        "description": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了！！",
         "releaseDate": "2026-10-07",
         "backdropPath": "/msusxF6ZPGnQmTGXU9iC4UJOohs.jpg",
         "posterPath": "/oVANcZHwfWRtnZF0UEtJeesRWiy.jpg",
-        "rating": 10,
+        "rating": 9.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -407,7 +420,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.8,
+        "rating": 8.752,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -420,7 +433,7 @@
         "releaseDate": "2021-07-04",
         "backdropPath": "/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
         "posterPath": "/g3wyraoglQtdNELJbtXuGAJHCb4.jpg",
-        "rating": 5.6,
+        "rating": 5.7,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -433,7 +446,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
         "posterPath": "/aWTfsoyRQNKxvI2EOLOEPKyxDqr.jpg",
-        "rating": 7.2,
+        "rating": 7.196,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -485,7 +498,7 @@
         "releaseDate": "2026-10-07",
         "backdropPath": "/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
         "posterPath": "/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
-        "rating": 7,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -498,7 +511,7 @@
         "releaseDate": "2026-10-08",
         "backdropPath": "/fSFAtkuvJYAAEXWLae3Jh0CUQiR.jpg",
         "posterPath": "/3G9dxjQs9jjoObWu1hEhFgCiLYl.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       }
@@ -526,7 +539,7 @@
         "releaseDate": "2026-10-01",
         "backdropPath": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
         "posterPath": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-        "rating": 7.464,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -539,7 +552,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
         "posterPath": "/ep7YyHdPtRwQgsB8v8S7lFIGPrC.jpg",
-        "rating": 2,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -552,7 +565,7 @@
         "releaseDate": "2026-10-01",
         "backdropPath": "/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
         "posterPath": "/fm6Mzk8e1sGvuOasuCtWhdKl7xx.jpg",
-        "rating": 10,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -591,7 +604,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
         "posterPath": "/7hVGp1KlPvxtYufq8kTdCKu2cWS.jpg",
-        "rating": 8.6,
+        "rating": 8.657,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -613,7 +626,7 @@
       {
         "id": 105009,
         "type": "tmdb",
-        "title": "东京复仇者",
+        "title": "重生之道",
         "originalTitle": "東京リベンジャーズ",
         "description": "东京卍复仇者动画全集改编自同名漫画，2021年4月播出。 主角‧武道做什么事情都不顺，又住在破旧老公寓里，从电视上得知国中时期的前女友‧日向无端卷入帮派火拼而身亡。某天他在月台等车，居然跌落铁轨，正他以为自己死定了，回神之后却发现自己回到12年前的国中时期。后来又遇上了日向的弟弟‧直人，告诉他12年后发生的事实，要求他要保护姐姐，双方握手之后他又再次回到现代。",
         "releaseDate": "2021-04-11",
@@ -632,7 +645,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/37xSbB8Hj87wYiKBcnXZSG3vv9U.jpg",
         "posterPath": "/sQc41tH2TJP2dIiXZtXlfXpVGbc.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -645,7 +658,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 9.667,
+        "rating": 8.8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -697,7 +710,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
         "posterPath": "/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -723,20 +736,20 @@
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
         "posterPath": "/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
-        "rating": 8.667,
+        "rating": 8.842,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 255752,
         "type": "tmdb",
-        "title": "闹鬼酒店",
+        "title": "酒店有鬼",
         "originalTitle": "Haunted Hotel",
         "description": "单身母亲凯瑟琳继承了亡故兄弟的酒店，带着孩子搬了进去。在鬼魂兄弟的帮助下，她努力经营这家闹鬼酒店，应付一群难缠、永远不肯退房的客人。",
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
-        "posterPath": "/uKDYRrjChQibyUYbRyPL2GniATw.jpg",
-        "rating": 8.1,
+        "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -777,7 +790,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/mCfswh8wgMW8rzUrSEdviUGu5Ax.jpg",
-        "rating": 8.021,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -787,7 +800,7 @@
         "title": "魔法★探险家",
         "originalTitle": "マジカル★エクスプローラー",
         "description": "传说级美少女游戏《魔法★探险家》。我转生成为凭借作弊能力被众多女角簇拥的主角——身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！而且，这个好友角色还有着“世界顶尖的魔力量”这个隐藏设定，甚至具备超越主角的潜力……？为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
-        "releaseDate": "2026-10-03",
+        "releaseDate": "2026-10-04",
         "backdropPath": "/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
         "posterPath": "/7V70UHOfMRef1vlsNX396MJQMmT.jpg",
         "rating": 10,
@@ -816,7 +829,7 @@
         "releaseDate": "2026-10-03",
         "backdropPath": "/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
         "posterPath": "/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -836,11 +849,11 @@
       {
         "id": 73223,
         "type": "tmdb",
-        "title": "黑色五叶草",
+        "title": "黑色四叶草",
         "originalTitle": "ブラッククローバー",
         "description": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。",
         "releaseDate": "2017-10-03",
-        "backdropPath": "/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+        "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
         "posterPath": "/qCYdcLGAARSbnTuG9BGlDyi7Zue.jpg",
         "rating": 8.5,
         "mediaType": "tv",
@@ -868,7 +881,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
         "posterPath": "/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
-        "rating": 5.5,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
