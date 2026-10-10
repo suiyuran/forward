@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-09T21:29:58.171Z",
+  "time": "2026-10-10T20:30:38.553Z",
   "data": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-09-16",
       "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.333,
+      "rating": 7.318,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
     },
@@ -28,19 +28,6 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 1503023,
-      "type": "tmdb",
-      "title": "重生2",
-      "originalTitle": "重生2",
-      "description": "孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
-      "releaseDate": "2026-10-03",
-      "backdropPath": null,
-      "posterPath": "/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 动作"
-    },
-    {
       "id": 1766670,
       "type": "tmdb",
       "title": "活色生香",
@@ -52,6 +39,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1503023,
+      "type": "tmdb",
+      "title": "重生2",
+      "originalTitle": "重生2",
+      "description": "孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
+      "releaseDate": "2026-10-03",
+      "backdropPath": null,
+      "posterPath": "/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 动作"
     },
     {
       "id": 1563608,
@@ -75,35 +75,48 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.427,
+      "rating": 7.436,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
     {
       "id": 1101412,
       "type": "tmdb",
-      "title": "坠落2：死点",
+      "title": "坠落２：死点",
       "originalTitle": "Fall 2: Deadpoint",
       "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
       "releaseDate": "2026-09-01",
       "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 7.161,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "惊悚"
     },
     {
-      "id": 1387772,
+      "id": 414419,
       "type": "tmdb",
-      "title": "侦战",
-      "originalTitle": "偵戰",
-      "description": "一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
-      "posterPath": "/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
-      "rating": 0,
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "releaseDate": "2011-03-27",
+      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "rating": 8.1,
       "mediaType": "movie",
-      "genreTitle": "犯罪, 动作"
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 1761059,
+      "type": "tmdb",
+      "title": "一路超平安",
+      "originalTitle": "一路超平安",
+      "description": "一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": "/tKVo3s6MsSEyCPMFWzpu8fhdQ37.jpg",
+      "posterPath": "/9IpSEwd7vmE2wUIDwvyf2RhiT7f.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
     },
     {
       "id": 1089598,
@@ -119,17 +132,17 @@
       "genreTitle": "动作, 历史"
     },
     {
-      "id": 414419,
+      "id": 1387772,
       "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "releaseDate": "2011-03-27",
-      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.1,
+      "title": "侦战",
+      "originalTitle": "偵戰",
+      "description": "一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": "/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
+      "posterPath": "/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
+      "genreTitle": "犯罪, 动作"
     },
     {
       "id": 1086176,
@@ -153,7 +166,7 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 8.875,
+      "rating": 8.9,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -162,9 +175,9 @@
       "type": "tmdb",
       "title": "奥德赛",
       "originalTitle": "The Odyssey",
-      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
+      "description": "改编自荷马史诗《奥德赛》。特洛伊战争结束后，伊萨卡国王奥德修斯历经艰险、踏上漫长归乡之旅。",
       "releaseDate": "2026-07-15",
-      "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+      "backdropPath": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "rating": 8,
       "mediaType": "movie",
@@ -210,6 +223,19 @@
       "genreTitle": "喜剧, 动画"
     },
     {
+      "id": 1774595,
+      "type": "tmdb",
+      "title": "凝脂手",
+      "originalTitle": "凝脂手",
+      "description": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
+      "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1678102,
       "type": "tmdb",
       "title": "死亡禁区实录",
@@ -231,7 +257,7 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.2,
+      "rating": 8.18,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -257,9 +283,22 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.449,
+      "rating": 7.5,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
+    },
+    {
+      "id": 299534,
+      "type": "tmdb",
+      "title": "复仇者联盟4：终局之战",
+      "originalTitle": "Avengers: Endgame",
+      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
+      "releaseDate": "2019-04-24",
+      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
+      "rating": 8.245,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 科幻"
     },
     {
       "id": 1778310,
@@ -275,19 +314,6 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 299534,
-      "type": "tmdb",
-      "title": "复仇者联盟4：终局之战",
-      "originalTitle": "Avengers: Endgame",
-      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
-      "releaseDate": "2019-04-24",
-      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "rating": 8.246,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 科幻"
-    },
-    {
       "id": 1616157,
       "type": "tmdb",
       "title": "上海女儿",
@@ -301,19 +327,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1774595,
-      "type": "tmdb",
-      "title": "凝脂手",
-      "originalTitle": "凝脂手",
-      "description": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
-      "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 10681,
       "type": "tmdb",
       "title": "机器人总动员",
@@ -322,22 +335,9 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.1,
+      "rating": 8.126,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1670314,
-      "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1444590,
@@ -366,30 +366,30 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
+      "id": 1670314,
+      "type": "tmdb",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
       "id": 1748007,
       "type": "tmdb",
       "title": "牛来",
       "originalTitle": "牛来",
       "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
       "releaseDate": "2026-08-05",
-      "backdropPath": "/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
-      "posterPath": "/kOzUhvsHq7Thcj3nZLgrghOZagq.jpg",
+      "backdropPath": "/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
+      "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
       "rating": 4.2,
       "mediaType": "movie",
       "genreTitle": "家庭, 动画"
-    },
-    {
-      "id": 1761059,
-      "type": "tmdb",
-      "title": "一路超平安",
-      "originalTitle": "一路超平安",
-      "description": "一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": "/tKVo3s6MsSEyCPMFWzpu8fhdQ37.jpg",
-      "posterPath": "/9IpSEwd7vmE2wUIDwvyf2RhiT7f.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
     },
     {
       "id": 1339597,
@@ -452,7 +452,7 @@
       "releaseDate": "2015-09-30",
       "backdropPath": "/2cbFleQnWLXFVDvn4vkV7lovSJI.jpg",
       "posterPath": "/zaDitWyV81WOg2tiujj6kxEFYtZ.jpg",
-      "rating": 7.116,
+      "rating": 7.1,
       "mediaType": "movie",
       "genreTitle": "爱情, 喜剧"
     },
@@ -478,6 +478,19 @@
       "releaseDate": "2026-09-25",
       "backdropPath": null,
       "posterPath": "/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1770256,
+      "type": "tmdb",
+      "title": "老师您辛苦了",
+      "originalTitle": "老师您辛苦了",
+      "description": "知名网络公司总裁王小川在回国参加儿子初中开学典礼演讲时回忆起年少时期被冠以问题少年聚集地的初三（2）班与班主任田老师之间一段青葱岁月的成长过往。",
+      "releaseDate": "2026-09-07",
+      "backdropPath": null,
+      "posterPath": "/qlxd2aIBxgTV7PnhMbFTewLrPje.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
@@ -535,19 +548,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 921937,
       "type": "tmdb",
       "title": "穆桂英挂帅(京剧)",
@@ -574,6 +574,19 @@
       "genreTitle": ""
     },
     {
+      "id": 1028378,
+      "type": "tmdb",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 1316352,
       "type": "tmdb",
       "title": "状元媒(京剧)",
@@ -598,19 +611,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
-    },
-    {
-      "id": 1028378,
-      "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
-      "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     }
   ]
 }
