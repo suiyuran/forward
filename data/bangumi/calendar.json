@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-10T19:41:08.057Z",
+  "time": "2026-10-11T19:53:11.900Z",
   "data": {
     "星期日": [
       {
@@ -100,11 +100,11 @@
         "originalTitle": "ドラゴンボール超 ビルス",
         "description": "距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…",
         "releaseDate": "2026-10-11",
-        "backdropPath": "/8QA5wsfCIBKzXA9SLZyhWfThKjy.jpg",
+        "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-        "rating": 0,
+        "rating": 9.6,
         "mediaType": "tv",
-        "genreTitle": "动作冒险, 动画"
+        "genreTitle": "动画, 动作冒险"
       },
       {
         "id": 335790,
@@ -146,6 +146,19 @@
         "genreTitle": "动画, 动作冒险"
       },
       {
+        "id": 315682,
+        "type": "tmdb",
+        "title": "ポップパップポルターズ",
+        "originalTitle": "ポップパップポルターズ",
+        "description": "",
+        "releaseDate": "2026-10-04",
+        "backdropPath": "/cX0Aj9cpdhexxWBXO4GzuXIq5Vi.jpg",
+        "posterPath": "/eC3pwrZkMKPALvYpf9ALIQEFxLz.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
+      },
+      {
         "id": 320377,
         "type": "tmdb",
         "title": "战车椅子",
@@ -154,7 +167,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/cFxouAuLIa54PEwYlCFdJwCm0lc.jpg",
         "posterPath": "/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
-        "rating": 3,
+        "rating": 7.75,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -202,10 +215,10 @@
         "type": "tmdb",
         "title": "不擅交际的未亡人雪女与诅咒戒指",
         "originalTitle": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
-        "description": "不擅交际的未亡人雪女",
+        "description": "为了继承突然逝去的父亲的遗产而在数月前到来的，位于幽静的住宅街的妖怪专用出租公寓。那里有一位丈夫去世，非常之梦幻而美丽的未亡人雪女雪乃小姐。然后在父亲留下的房间里有着个本不应在那里的，可随心所欲地控制妖怪的戒指。本是想要帮助改善陷入困难的雪乃小姐的生活可是却跟随了内心的欲望，事态开始走向未曾设想的方向……",
         "releaseDate": "2026-10-04",
-        "backdropPath": null,
-        "posterPath": "/sz8Iyz7cYop8v7iQyXPc6KRS8yp.jpg",
+        "backdropPath": "/8J5UzGxmWzgvGsF3gU4X5vBjktk.jpg",
+        "posterPath": "/pyrsMpfHJLggLVx92JF7MIEPYDI.jpg",
         "rating": 10,
         "mediaType": "tv",
         "genreTitle": ""
@@ -260,7 +273,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/l4npGR3d7No2Msr8OptVTek6G41.jpg",
         "posterPath": "/47NrmoMEaZ2noGQeYgkU6crWora.jpg",
-        "rating": 9,
+        "rating": 9.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -273,7 +286,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/o8jHdRwB9GZtkdZjmMoFJyC7eDZ.jpg",
         "posterPath": "/EQNjH4oeCm9pD58fi2s4WZyjgA.jpg",
-        "rating": 10,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -285,8 +298,8 @@
         "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
         "releaseDate": "2026-10-05",
         "backdropPath": "/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
-        "posterPath": "/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
-        "rating": 8.333,
+        "posterPath": "/71yF3cvWbcsFsyyrPhZMAwPfCcZ.jpg",
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -299,7 +312,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/3knNVqZlEdwYPwYBWQechjvRzx0.jpg",
         "posterPath": "/nut07tl4642Xyj86LtSYV75mYh3.jpg",
-        "rating": 9.25,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       }
@@ -314,7 +327,7 @@
         "releaseDate": "2022-09-13",
         "backdropPath": "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
         "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
-        "rating": 8.5,
+        "rating": 8.485,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -353,7 +366,7 @@
         "releaseDate": "2025-10-07",
         "backdropPath": "/4BE1aoCu5mCG3ZJ7alNDQkB3oK4.jpg",
         "posterPath": "/q6Hdvt4bVB8mBkv0vMtRJ9IPzzH.jpg",
-        "rating": 7.4,
+        "rating": 7.533,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -485,7 +498,7 @@
         "releaseDate": "2020-10-31",
         "backdropPath": "/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
         "posterPath": "/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-        "rating": 7.5,
+        "rating": 7.522,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -498,7 +511,7 @@
         "releaseDate": "2026-10-07",
         "backdropPath": "/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
         "posterPath": "/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
-        "rating": 8,
+        "rating": 7.333,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -539,7 +552,7 @@
         "releaseDate": "2026-10-01",
         "backdropPath": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
         "posterPath": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-        "rating": 7.5,
+        "rating": 7.633,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -604,7 +617,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
         "posterPath": "/7hVGp1KlPvxtYufq8kTdCKu2cWS.jpg",
-        "rating": 8.657,
+        "rating": 8.676,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -658,7 +671,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 8.8,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -697,7 +710,7 @@
         "releaseDate": "2025-07-11",
         "backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
         "posterPath": "/lUqwOFOSCg3wU001xYJju5WEZbl.jpg",
-        "rating": 7.6,
+        "rating": 7.658,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -736,7 +749,7 @@
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
         "posterPath": "/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
-        "rating": 8.842,
+        "rating": 8.857,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -749,7 +762,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.2,
+        "rating": 8.147,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -826,7 +839,7 @@
         "title": "转生后的大圣女，极力隐瞒圣女的身份",
         "originalTitle": "転生した大聖女は、聖女であることをひた隠す",
         "description": "被认为「没有使剑的才能」的骑士家的少女·菲亚。她在濒死之际，回想起自己前世是拥有规格外能力的「大圣女」，并且使最强的魔物·黑龙成为她的从魔。但是回想起在前世魔王的右腕曾威胁她说「若是依旧作为圣女转生那我依旧会继续杀你」，菲亚决定一边隐藏大圣女的力量一边以骑士为目标，可是却引发了众多骚动！？",
-        "releaseDate": "2026-10-03",
+        "releaseDate": "2026-09-26",
         "backdropPath": "/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
         "posterPath": "/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
         "rating": 7.7,
@@ -842,20 +855,20 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
         "posterPath": "/4EgNPER5TRh2wrfM59gQF2BJGze.jpg",
-        "rating": 9.5,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
       {
         "id": 73223,
         "type": "tmdb",
-        "title": "黑色四叶草",
+        "title": "黑色五叶草",
         "originalTitle": "ブラッククローバー",
         "description": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。",
         "releaseDate": "2017-10-03",
         "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-        "posterPath": "/qCYdcLGAARSbnTuG9BGlDyi7Zue.jpg",
-        "rating": 8.5,
+        "posterPath": "/fneujgbpcmX92mywDf30cvk1s7q.jpg",
+        "rating": 8.513,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -881,7 +894,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
         "posterPath": "/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
-        "rating": 6.7,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -907,7 +920,7 @@
         "releaseDate": "2025-10-04",
         "backdropPath": "/gNYmU3RUlCb6dVqkiPCT7vglMfg.jpg",
         "posterPath": "/2pQHfraIKbqcOYgdq6H96tqHFop.jpg",
-        "rating": 7.2,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -983,7 +996,7 @@
         "originalTitle": "GET JIRO",
         "description": "故事背景为近未来的洛杉矶，整座城市被“美食秩序”彻底掌控：顶级主厨的权势堪比黑帮大佬，餐厅就是各方势力的权力中心，为了拿下顶级餐厅的一席位，有人不惜突破底线，不同的烹饪理念更是分化出针锋相对的派系。",
         "releaseDate": "2026-10-04",
-        "backdropPath": "/hollWapcsUhmWbsp9yJXW9ZWDTb.jpg",
+        "backdropPath": "/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
         "posterPath": "/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
         "rating": 8.2,
         "mediaType": "tv",
