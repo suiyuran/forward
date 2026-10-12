@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-11T19:53:11.900Z",
+  "time": "2026-10-12T22:41:58.488Z",
   "data": {
     "星期日": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2024-10-03",
         "backdropPath": "/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
         "posterPath": "/fTt9CEgDgxP8tNiQisNBTnRRpEk.jpg",
-        "rating": 7.9,
+        "rating": 7.857,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2022-04-09",
         "backdropPath": "/4ixh7PNNWd1VaohzKD7pcP33SiN.jpg",
         "posterPath": "/hHAieX1kcUIMi7KmOT3RtGQdBK8.jpg",
-        "rating": 7.8,
+        "rating": 7.813,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -88,7 +88,7 @@
         "description": "游戏成瘾的高中生高月诚人于校外教学回程中遭遇意外事故，与全班同学一同转移到了异世界。异世界的神明们赐予了全班同学特殊能力，然而，只有诚人被赋予的是较为基础的“魔法师学徒”身份。此后，诚人在梦中遇见了一位没有信徒的无名女神诺雅。诺雅请求诚人信仰她，诚人便决定成为其信徒。随后，女神下达神谕，要求诚人前往人迹未至的迷宫进行拯救。诚人以游戏成瘾者的经验应对这项挑战。在得到诺雅的庇护与神器后，他试图通过非常规方法提升自身能力。故事讲述了诚人与女神诺雅在异世界展开的奇幻冒险。",
         "releaseDate": "2026-10-11",
         "backdropPath": "/4hKtdyTXt4O2hy4zqadlENY1qpM.jpg",
-        "posterPath": "/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+        "posterPath": "/6UqQXt63uqEd4CaE3wCaTaVCghZ.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -96,13 +96,13 @@
       {
         "id": 312359,
         "type": "tmdb",
-        "title": "龙珠超 比鲁斯",
+        "title": "龙珠超：比鲁斯",
         "originalTitle": "ドラゴンボール超 ビルス",
         "description": "距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…",
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-        "rating": 9.6,
+        "rating": 9.806,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
         "posterPath": "/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
-        "rating": 9,
+        "rating": 9.25,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
@@ -167,7 +167,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/cFxouAuLIa54PEwYlCFdJwCm0lc.jpg",
         "posterPath": "/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
-        "rating": 7.75,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -206,7 +206,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/7CSqPaizCugNAznzmUUVQKbj6KO.jpg",
         "posterPath": "/saOqlHkybF06dYdFycUTROZI75o.jpg",
-        "rating": 5.5,
+        "rating": 6,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -221,7 +221,7 @@
         "posterPath": "/pyrsMpfHJLggLVx92JF7MIEPYDI.jpg",
         "rating": 10,
         "mediaType": "tv",
-        "genreTitle": ""
+        "genreTitle": "动画"
       },
       {
         "id": 216467,
@@ -297,8 +297,8 @@
         "originalTitle": "どうも、好きな人に惚れ薬を依頼された魔女です。",
         "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
         "releaseDate": "2026-10-05",
-        "backdropPath": "/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
-        "posterPath": "/71yF3cvWbcsFsyyrPhZMAwPfCcZ.jpg",
+        "backdropPath": "/2iIgfdcKWbuZxeBSpoQLYNyvvqr.jpg",
+        "posterPath": "/lWiO7BNH31GOxTFFUOa2fMviFTr.jpg",
         "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
@@ -327,7 +327,7 @@
         "releaseDate": "2022-09-13",
         "backdropPath": "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
         "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
-        "rating": 8.485,
+        "rating": 8.484,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -671,7 +671,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 8.9,
+        "rating": 8.891,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -710,7 +710,7 @@
         "releaseDate": "2025-07-11",
         "backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
         "posterPath": "/lUqwOFOSCg3wU001xYJju5WEZbl.jpg",
-        "rating": 7.658,
+        "rating": 7.652,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -749,7 +749,7 @@
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
         "posterPath": "/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
-        "rating": 8.857,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -762,7 +762,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.147,
+        "rating": 8.169,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -839,7 +839,7 @@
         "title": "转生后的大圣女，极力隐瞒圣女的身份",
         "originalTitle": "転生した大聖女は、聖女であることをひた隠す",
         "description": "被认为「没有使剑的才能」的骑士家的少女·菲亚。她在濒死之际，回想起自己前世是拥有规格外能力的「大圣女」，并且使最强的魔物·黑龙成为她的从魔。但是回想起在前世魔王的右腕曾威胁她说「若是依旧作为圣女转生那我依旧会继续杀你」，菲亚决定一边隐藏大圣女的力量一边以骑士为目标，可是却引发了众多骚动！？",
-        "releaseDate": "2026-09-26",
+        "releaseDate": "2026-10-03",
         "backdropPath": "/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
         "posterPath": "/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
         "rating": 7.7,
@@ -881,7 +881,7 @@
         "releaseDate": "2026-10-10",
         "backdropPath": "/1D501rl5PwXNyL0hPrZMajnbpu1.jpg",
         "posterPath": "/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -998,7 +998,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
         "posterPath": "/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
-        "rating": 8.2,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
