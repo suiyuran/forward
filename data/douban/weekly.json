@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-11T23:15:24.656Z",
+  "time": "2026-10-13T01:40:33.414Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-04-17",
         "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
         "posterPath": "/c4p2lQ5JdubYmPiY1gyizOhSJ71.jpg",
-        "rating": 7.683,
+        "rating": 7.67,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-        "rating": 7.33,
+        "rating": 7.305,
         "mediaType": "movie",
         "genreTitle": "恐怖, 科幻"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.414,
+        "rating": 7.436,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-05-15",
         "backdropPath": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
         "posterPath": "/eBOVzaKsE0n3cK97vCAQfNBdxVF.jpg",
-        "rating": 6.5,
+        "rating": 6.455,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -70,13 +70,13 @@
       {
         "id": 1322562,
         "type": "tmdb",
-        "title": "怪化猫：蛇神",
+        "title": "剧场版物怪：第 3 章：蛇神",
         "originalTitle": "劇場版モノノ怪 第三章 蛇神",
         "description": "经历唐伞与火鼠引发的两场大战后，大奥似乎重归平静。然而，御台所幸子诞下的男婴不久便夭折，她也卷入颠覆大奥的阴谋。怨念化作蛇神，引发连环怪案。卖药郎必须揭开大奥尘封150年的秘密，才能拔出退魔之剑。",
         "releaseDate": "2026-05-29",
         "backdropPath": "/5bMDrznr5P9GcClJF0OeE4NxZn9.jpg",
         "posterPath": "/tD2D4ej3UvZH97DRyCCCUv4n8kK.jpg",
-        "rating": 9.1,
+        "rating": 9.167,
         "mediaType": "movie",
         "genreTitle": "动画, 奇幻"
       },
@@ -182,7 +182,7 @@
         "releaseDate": "2026-09-09",
         "backdropPath": "/s9YSQAJtXjimsjBVsqLtJNnIjEs.jpg",
         "posterPath": "/b9ngtGNgaHBbLihRrT0MsPRY0GW.jpg",
-        "rating": 8,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -260,7 +260,7 @@
         "releaseDate": "2026-08-25",
         "backdropPath": "/xirWeEiatY915u837oq1l2t4oPP.jpg",
         "posterPath": "/k5Gc9qZfx4ofYCUjS55r6120H2l.jpg",
-        "rating": 7.5,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
@@ -287,8 +287,8 @@
         "description": "改编自安东尼·霍洛维茨的同名小说，也是苏珊·莱兰系列的第三部、最终篇。编辑苏珊·莱兰受邀参与阿提克斯·潘德系列续作的创作，却意外卷入另一宗真实谋杀案，并成为嫌疑人。与此同时，小说中的侦探阿提克斯·潘德前往科孚岛，调查玛格丽特·查尔方特夫人的谋杀案。",
         "releaseDate": "2026-09-06",
         "backdropPath": "/8Jdrk3wwMCs1RN7GimMZQrBdgHh.jpg",
-        "posterPath": "/4uKAIiQ9VXvnq7UkvJkk7pwntGU.jpg",
-        "rating": 8.6,
+        "posterPath": "/7BcPfx9b4MhBFxGxZ4WJWnL0oBc.jpg",
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
