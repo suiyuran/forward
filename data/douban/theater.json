@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-11T21:21:11.479Z",
+  "time": "2026-10-13T00:01:41.151Z",
   "data": {
     "爱奇艺·迷雾剧场": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-09",
         "backdropPath": "/s9YSQAJtXjimsjBVsqLtJNnIjEs.jpg",
         "posterPath": "/b9ngtGNgaHBbLihRrT0MsPRY0GW.jpg",
-        "rating": 8,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -375,7 +375,7 @@
         "releaseDate": "2020-09-02",
         "backdropPath": "/tjhlLwvsl80OPC5M3xbxEkcZm31.jpg",
         "posterPath": "/b1DNvoML4aBrE0MyM1buWwvOnbS.jpg",
-        "rating": 5.5,
+        "rating": 5.8,
         "mediaType": "tv",
         "genreTitle": "悬疑, Sci-Fi & Fantasy"
       },
@@ -388,7 +388,7 @@
         "releaseDate": "2020-08-18",
         "backdropPath": "/44iXFa25gH81YaeweRUr8H1rPwg.jpg",
         "posterPath": "/npELOGNBKZVbSt8kMiBWuFYQnBD.jpg",
-        "rating": 6.8,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
       },
@@ -442,7 +442,7 @@
         "releaseDate": "2026-04-26",
         "backdropPath": "/x31KOFBrL65fnVfohGrKJCbPynk.jpg",
         "posterPath": "/qUhPr2XpczJpnQnXIqJjYaCxOli.jpg",
-        "rating": 7.7,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
@@ -893,6 +893,19 @@
     ],
     "腾讯·X剧场": [
       {
+        "id": 279923,
+        "type": "tmdb",
+        "title": "醉梦",
+        "originalTitle": "醉梦",
+        "description": "多年前，记者沈乐水用摄像机记录了东北啤酒厂的厂工生活，这里的故事，像一杯久藏的啤酒，酝酿着复杂的情感，也氤氲着一个名叫刘雪梅的女人的死亡之谜。啤酒厂曾是这座城市的骄傲，没落多年后，却成为众多命案的舞台。刘雪梅的生与死，紧密缠绕在一个被野心和贪婪驱使的阴谋之中。每一个人都如同棋子，被无情地操纵和牺牲。真相总是隐藏在最不起眼的角落。一个潜伏多年的幽灵，策划着一场血色的复仇。他的怒火和绝望，化作连环杀人案的阴影，笼罩着众人。命运的轮回终于在一起突如其来又似乎源自宿命的意外中到达终点。沈乐水也再次扛起摄像机，记录下这其中跨越了时间的人性挣扎。",
+        "releaseDate": "2026-10-16",
+        "backdropPath": "/lqTioTBVKH3RfdgCe04SR9V8taR.jpg",
+        "posterPath": "/jQHSglKxSZS8pkKR33Uhkyx6fTz.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 犯罪"
+      },
+      {
         "id": 294487,
         "type": "tmdb",
         "title": "金色",
@@ -901,7 +914,7 @@
         "releaseDate": "2026-08-25",
         "backdropPath": "/xirWeEiatY915u837oq1l2t4oPP.jpg",
         "posterPath": "/k5Gc9qZfx4ofYCUjS55r6120H2l.jpg",
-        "rating": 7.5,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -953,7 +966,7 @@
         "releaseDate": "2025-10-26",
         "backdropPath": "/dY9YBWsskH9vMQRvtSTxfeemXsR.jpg",
         "posterPath": "/rut87Fztzg68R8h7KcD89O6wGe8.jpg",
-        "rating": 6.9,
+        "rating": 7.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
