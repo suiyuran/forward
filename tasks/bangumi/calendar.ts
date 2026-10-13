@@ -14,7 +14,7 @@ const CONFIG = {
   outputPath: "./data/bangumi/calendar.json",
 };
 const SEASON_REGEXP =
-  /(?<!^)((((Second|2nd|3rd|4rd|4th|Final) )?(Season|Volume|シーズン) ?[0-9]*|Prelude)|(第?(?:[0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(?:终|終))((?:季|期)|(?:部分|クール)|(?:之|ノ)?章|シリーズ|(?:篇|編))|[0-9]+$)/gi;
+  /(?<!^)((((Second|2nd|3rd|4rd|4th|Final) )?(Season|Volume|シーズン) ?[0-9]*|Prelude)|(第?(?:[0-9]|[零一二三四五六七八九十]|[零壹贰叁肆伍陆柒捌玖拾]|[弐参])+|序|前|最(?:终|終))((?:季|期)|(?:部分|クール)|(?:之|ノ)?章|シリーズ|(?:篇|編))|[0-9叁伍(II)]+$)/gi;
 const SPECIAL_PARTS = [
   "TV剪辑版",
   "TV Edition",
@@ -42,6 +42,8 @@ const SPECIAL_PARTS = [
   "试播片",
   "Pilot Film",
   "完结季",
+  "特别篇",
+  "特別篇",
 ];
 const TITLE_RECORD: Record<string, string> = {
   航海王: "tt0388629",

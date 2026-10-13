@@ -195,6 +195,11 @@ export async function getDoubanSubjectCollectionData(subject: string, start: num
 
   for (const item of items) {
     const { id, title, type, card_subtitle: cardSubtitle } = item;
+
+    // 幸福伽菜子的快乐杀手生活 第二季
+    if (id === "37296349") {
+      item.release_date = "09.17";
+    }
     const infos = cardSubtitle.split("/").map((info) => info.trim());
     const year = item.year || infos[0];
     const releaseDate = item.release_date ? `${year}-${item.release_date.replace(".", "-")}` : "";

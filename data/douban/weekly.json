@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-13T01:40:33.414Z",
+  "time": "2026-10-13T03:35:39.139Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-        "rating": 7.305,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "恐怖, 科幻"
       },
@@ -382,6 +382,19 @@
         "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情, 犯罪"
+      },
+      {
+        "id": 253797,
+        "type": "tmdb",
+        "title": "幸福伽菜子的快乐杀手生活",
+        "originalTitle": "幸せカナコの殺し屋生活",
+        "description": "成为传说中的杀手“K”后，伽菜子迎来新的杀手对手。她与敌友难辨的杀手们展开危险交锋，并被巨大的组织盯上，在友情、背叛与挣扎中面临人生选择。",
+        "releaseDate": "2026-09-17",
+        "backdropPath": "/f6c09PPArv5ntZFYcxOSJq1JbpH.jpg",
+        "posterPath": "/lqOMr584aDkAm2MbjgMD9OW8q6T.jpg",
+        "rating": 9.6,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 动作冒险"
       }
     ]
   }
