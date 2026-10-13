@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-13T04:21:49.901Z",
+  "time": "2026-10-13T20:57:34.708Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2022-04-09",
         "backdropPath": "/4ixh7PNNWd1VaohzKD7pcP33SiN.jpg",
         "posterPath": "/hHAieX1kcUIMi7KmOT3RtGQdBK8.jpg",
-        "rating": 7.813,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/6tdkrWkbHlNZ8ZGn5blye4KTm57.jpg",
         "posterPath": "/kiTkyPRsOxfS8YiIGUGlRdviaHl.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-        "rating": 9.806,
+        "rating": 9.846,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
         "posterPath": "/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
-        "rating": 9.25,
+        "rating": 9.571,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
@@ -263,6 +263,19 @@
         "genreTitle": "动画"
       },
       {
+        "id": 338314,
+        "type": "tmdb",
+        "title": "数码宝贝：由我们选出的最佳冒险",
+        "originalTitle": "デジモン30th 僕らが選んだベストアドベンチャー",
+        "description": "为纪念数码宝贝系列30周年，由全球粉丝票选出的经典冒险篇章精选动画。作品重新整理《数码宝贝大冒险》《数码宝贝大冒险02》《数码宝贝驯兽师之王》《数码宝贝无限地带》等系列中的人气集数，带领观众再次回顾被选召孩子们与数码兽伙伴们的成长与冒险。",
+        "releaseDate": "2026-10-04",
+        "backdropPath": "/e5SXx37xMXZMUrUaEVfB20s1Sr3.jpg",
+        "posterPath": "/u4syKEDb6Mse8rsRoNYGHFDsN4.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "动画"
+      },
+      {
         "id": 236534,
         "type": "tmdb",
         "title": "牧神记",
@@ -297,7 +310,7 @@
         "originalTitle": "ロメリア戦記",
         "description": "“罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。”当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为“恩宠”的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
         "releaseDate": "2026-10-05",
-        "backdropPath": "/l4npGR3d7No2Msr8OptVTek6G41.jpg",
+        "backdropPath": "/6LeBjYSPULKwSv5R6sX6Iovwoad.jpg",
         "posterPath": "/47NrmoMEaZ2noGQeYgkU6crWora.jpg",
         "rating": 9.5,
         "mediaType": "tv",
@@ -312,7 +325,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/o8jHdRwB9GZtkdZjmMoFJyC7eDZ.jpg",
         "posterPath": "/EQNjH4oeCm9pD58fi2s4WZyjgA.jpg",
-        "rating": 8.5,
+        "rating": 7.167,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -323,7 +336,7 @@
         "originalTitle": "どうも、好きな人に惚れ薬を依頼された魔女です。",
         "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
         "releaseDate": "2026-10-05",
-        "backdropPath": "/2iIgfdcKWbuZxeBSpoQLYNyvvqr.jpg",
+        "backdropPath": "/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
         "posterPath": "/lWiO7BNH31GOxTFFUOa2fMviFTr.jpg",
         "rating": 8.3,
         "mediaType": "tv",
@@ -353,7 +366,7 @@
         "releaseDate": "2022-09-13",
         "backdropPath": "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
         "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
-        "rating": 8.484,
+        "rating": 8.485,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -392,7 +405,7 @@
         "releaseDate": "2025-10-07",
         "backdropPath": "/4BE1aoCu5mCG3ZJ7alNDQkB3oK4.jpg",
         "posterPath": "/q6Hdvt4bVB8mBkv0vMtRJ9IPzzH.jpg",
-        "rating": 7.533,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -537,7 +550,7 @@
         "releaseDate": "2020-10-31",
         "backdropPath": "/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
         "posterPath": "/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-        "rating": 7.522,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -550,7 +563,7 @@
         "releaseDate": "2026-10-07",
         "backdropPath": "/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
         "posterPath": "/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
-        "rating": 7.333,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -604,7 +617,7 @@
         "releaseDate": "2026-10-01",
         "backdropPath": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
         "posterPath": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-        "rating": 7.633,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "动画, 动作"
       },
@@ -723,7 +736,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 8.891,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -735,7 +748,7 @@
         "description": "",
         "releaseDate": "2026-10-02",
         "backdropPath": "/tZy81uEJH83fqqj9Q8glYXePdRq.jpg",
-        "posterPath": "/1vhGbttw7Pf4QYwd4GngBiMsjGu.jpg",
+        "posterPath": "/3jECaaoPiodCEJkhoLIyeegzG8Q.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
@@ -814,7 +827,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.169,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -920,7 +933,7 @@
         "releaseDate": "2017-10-03",
         "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
         "posterPath": "/fneujgbpcmX92mywDf30cvk1s7q.jpg",
-        "rating": 8.513,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
