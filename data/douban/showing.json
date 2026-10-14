@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-13T21:45:21.706Z",
+  "time": "2026-10-14T20:29:43.576Z",
   "data": [
     {
       "id": 1423191,
@@ -10,9 +10,22 @@
       "releaseDate": "2026-09-16",
       "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.3,
+      "rating": 7.305,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
+    },
+    {
+      "id": 1308545,
+      "type": "tmdb",
+      "title": "一个夜晚与三个夏天",
+      "originalTitle": "一个夜晚与三个夏天",
+      "description": "桑吉在拉萨拍摄一部和童年有关的片子，彼时的她面临着创作上的迷茫，与同为藏戏编导的父亲隔阂也难以消弭。一次偶然的派对，桑吉遇见了她所拍摄故事中的原型人物拉姆，夜晚悄然逝去，弥散在记忆中的夏天逐渐有了全貌...",
+      "releaseDate": "2026-10-13",
+      "backdropPath": "/Agffw58ImoHhiXYCy3iKepG3fXC.jpg",
+      "posterPath": "/bPCcEl1AaKcPWQFH58o5DdErIYr.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1439171,
@@ -28,6 +41,19 @@
       "genreTitle": "犯罪"
     },
     {
+      "id": 1263337,
+      "type": "tmdb",
+      "title": "野兽之心",
+      "originalTitle": "Heart of the Beast",
+      "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
+      "rating": 7.391,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 惊悚"
+    },
+    {
       "id": 1766670,
       "type": "tmdb",
       "title": "活色生香",
@@ -39,19 +65,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 喜剧"
-    },
-    {
-      "id": 1263337,
-      "type": "tmdb",
-      "title": "野兽之心",
-      "originalTitle": "Heart of the Beast",
-      "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.429,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 惊悚"
     },
     {
       "id": 1563608,
@@ -80,19 +93,6 @@
       "genreTitle": "剧情, 动作"
     },
     {
-      "id": 1308545,
-      "type": "tmdb",
-      "title": "一个夜晚与三个夏天",
-      "originalTitle": "一个夜晚与三个夏天",
-      "description": "桑吉在拉萨拍摄一部和童年有关的片子，彼时的她面临着创作上的迷茫，与同为藏戏编导的父亲隔阂也难以消弭。一次偶然的派对，桑吉遇见了她所拍摄故事中的原型人物拉姆，夜晚悄然逝去，弥散在记忆中的夏天逐渐有了全貌...",
-      "releaseDate": "2026-10-13",
-      "backdropPath": "/Agffw58ImoHhiXYCy3iKepG3fXC.jpg",
-      "posterPath": "/bPCcEl1AaKcPWQFH58o5DdErIYr.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 414419,
       "type": "tmdb",
       "title": "杀死比尔：血色全传",
@@ -114,7 +114,7 @@
       "releaseDate": "2026-09-01",
       "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 7.309,
+      "rating": 7.305,
       "mediaType": "movie",
       "genreTitle": "惊悚"
     },
@@ -140,9 +140,22 @@
       "releaseDate": "2026-08-08",
       "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 8.863,
+      "rating": 8.8,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
+    },
+    {
+      "id": 278,
+      "type": "tmdb",
+      "title": "肖申克的救赎",
+      "originalTitle": "The Shawshank Redemption",
+      "description": "1947年，银行家安迪·杜佛兰因被控杀害妻子及其情人，尽管始终坚称清白，仍被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与能够在狱中弄到各种物品的瑞德建立起深厚的友谊。漫长的岁月里，他始终没有让高墙彻底改变自己，也开始用自己的方式影响身边的人，以及这座看似牢不可破的监狱……",
+      "releaseDate": "1994-09-23",
+      "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+      "posterPath": "/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
+      "rating": 8.7,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
     },
     {
       "id": 1086176,
@@ -158,28 +171,15 @@
       "genreTitle": "喜剧, 动作"
     },
     {
-      "id": 278,
-      "type": "tmdb",
-      "title": "肖申克的救赎",
-      "originalTitle": "The Shawshank Redemption",
-      "description": "1947年，银行家安迪·杜佛兰因被控杀害妻子及其情人，尽管始终坚称清白，仍被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与能够在狱中弄到各种物品的瑞德建立起深厚的友谊。漫长的岁月里，他始终没有让高墙彻底改变自己，也开始用自己的方式影响身边的人，以及这座看似牢不可破的监狱……",
-      "releaseDate": "1994-09-23",
-      "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
-      "posterPath": "/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
-      "rating": 8.732,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
-    },
-    {
       "id": 1368337,
       "type": "tmdb",
       "title": "奥德赛",
       "originalTitle": "The Odyssey",
       "description": "改编自荷马史诗《奥德赛》。特洛伊战争结束后，伊萨卡国王奥德修斯历经艰险、踏上漫长归乡之旅。",
       "releaseDate": "2026-07-15",
-      "backdropPath": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+      "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.011,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -210,6 +210,32 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
+      "rating": 8.181,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1650896,
+      "type": "tmdb",
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇·完美假期",
+      "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
+      "posterPath": "/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动画"
+    },
+    {
       "id": 299534,
       "type": "tmdb",
       "title": "复仇者联盟4：终局之战",
@@ -218,7 +244,7 @@
       "releaseDate": "2019-04-24",
       "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "rating": 8.2,
+      "rating": 8.246,
       "mediaType": "movie",
       "genreTitle": "冒险, 科幻"
     },
@@ -236,30 +262,17 @@
       "genreTitle": "犯罪, 动作"
     },
     {
-      "id": 1650896,
+      "id": 1633056,
       "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇·完美假期",
-      "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
-      "posterPath": "/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
-      "rating": 0,
+      "title": "八仙！",
+      "originalTitle": "八仙！",
+      "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
+      "releaseDate": "2026-07-10",
+      "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
+      "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
+      "rating": 7.966,
       "mediaType": "movie",
       "genreTitle": "喜剧, 动画"
-    },
-    {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.181,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1678102,
@@ -275,19 +288,6 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
-      "id": 1633056,
-      "type": "tmdb",
-      "title": "八仙！",
-      "originalTitle": "八仙！",
-      "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
-      "releaseDate": "2026-07-10",
-      "backdropPath": "/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
-      "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "rating": 7.966,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动画"
-    },
-    {
       "id": 1288445,
       "type": "tmdb",
       "title": "怒之杀",
@@ -296,7 +296,7 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.549,
+      "rating": 7.56,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -314,19 +314,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1778310,
-      "type": "tmdb",
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "description": "为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": null,
-      "posterPath": "/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
-    },
-    {
       "id": 1444590,
       "type": "tmdb",
       "title": "燃烧吧！爸爸",
@@ -340,30 +327,17 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 10681,
+      "id": 1778310,
       "type": "tmdb",
-      "title": "机器人总动员",
-      "originalTitle": "WALL·E",
-      "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
-      "releaseDate": "2008-06-26",
-      "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
-      "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.126,
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "description": "为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": null,
+      "posterPath": "/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动画, 家庭"
-    },
-    {
-      "id": 1748007,
-      "type": "tmdb",
-      "title": "牛来",
-      "originalTitle": "牛来",
-      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
-      "releaseDate": "2026-08-05",
-      "backdropPath": "/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
-      "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "rating": 4.2,
-      "mediaType": "movie",
-      "genreTitle": "家庭, 动画"
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1502135,
@@ -379,6 +353,32 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
+      "id": 1748007,
+      "type": "tmdb",
+      "title": "牛来",
+      "originalTitle": "牛来",
+      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
+      "releaseDate": "2026-08-05",
+      "backdropPath": "/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
+      "posterPath": "/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
+      "rating": 4.2,
+      "mediaType": "movie",
+      "genreTitle": "家庭, 动画"
+    },
+    {
+      "id": 10681,
+      "type": "tmdb",
+      "title": "机器人总动员",
+      "originalTitle": "WALL·E",
+      "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
+      "releaseDate": "2008-06-26",
+      "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+      "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
+      "rating": 8.126,
+      "mediaType": "movie",
+      "genreTitle": "动画, 家庭"
+    },
+    {
       "id": 1658524,
       "type": "tmdb",
       "title": "怪屋",
@@ -390,19 +390,6 @@
       "rating": 3,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1670314,
-      "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1339597,
@@ -418,30 +405,17 @@
       "genreTitle": "剧情, 奇幻"
     },
     {
-      "id": 1761217,
+      "id": 1670314,
       "type": "tmdb",
-      "title": "蝉衣",
-      "originalTitle": "蝉衣",
-      "description": "五姐妹的中阿莲在临死前，希望自己穿上越南的衣服（奥黛）下葬。在葬礼上，主角北江红偷偷给死者换上越南的衣服，这一行为冒犯了瑶族人族规。北江红被丈夫（瑶族村长）当众打了一个耳光。已经年近60岁的北江红，独自一人来到石门台高山上生活。女儿阿知上山劝母亲下山,因受伤困在山上。电影主要讲述了阿知在高山上与母亲一起生活时，揭开了母亲北江红不为人知的身世和往事......",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
       "releaseDate": "2026-09-25",
-      "backdropPath": "/oNs5Z2kROR7xtPsZVnMYJc3A9hl.jpg",
-      "posterPath": "/duMVbadqFNiHCVTmW1U4QSjxXqD.jpg",
+      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1655500,
-      "type": "tmdb",
-      "title": "床下有人4",
-      "originalTitle": "床下有人4",
-      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
-      "posterPath": "/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1716541,
@@ -457,19 +431,6 @@
       "genreTitle": "爱情, 奇幻"
     },
     {
-      "id": 902478,
-      "type": "tmdb",
-      "title": "爱情神话",
-      "originalTitle": "爱情神话",
-      "description": "离异多年的画家老白经朋友介绍认识了同样离异、独自带着女儿生活的李小姐，并很快对她产生好感。只是李小姐对这段关系始终有所顾虑。老白在家中开设美术班，热情奔放的学生格洛瑞亚似乎也对他有着超越师生关系的兴趣；已经离婚多年的前妻蓓蓓则仍时常出现在他的生活中。几顿饭局和一次次聚会，让老白、李小姐、格洛瑞亚、蓓蓓以及好友老乌之间的关系不断发生变化。在上海的弄堂里，几个人一边谈论爱情，一边面对各自并不完美的生活。",
-      "releaseDate": "2021-12-24",
-      "backdropPath": "/iF9fu3kbk1DWZGwRUTDa0exWsAQ.jpg",
-      "posterPath": "/iQKlRLw0WEkKcN3bVyu8aPjbaXp.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 爱情"
-    },
-    {
       "id": 1724637,
       "type": "tmdb",
       "title": "去你的岛",
@@ -481,6 +442,32 @@
       "rating": 6.7,
       "mediaType": "movie",
       "genreTitle": "爱情, 动画"
+    },
+    {
+      "id": 1655500,
+      "type": "tmdb",
+      "title": "床下有人4",
+      "originalTitle": "床下有人4",
+      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "posterPath": "/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 惊悚"
+    },
+    {
+      "id": 421742,
+      "type": "tmdb",
+      "title": "驴得水",
+      "originalTitle": "驴得水",
+      "description": "一群“品行不端”却怀揣教育梦想的大学教师，从大城市来到偏远乡村开办了一所小学校。学校待遇惨淡、生活艰苦，但老师们都自得其乐，每天嘻嘻哈哈打成一片。然而教育部特派员要来突击检查的消息打破了安宁，因为学校有一位“驴得水老师”隐藏着不可告人的秘密。就在所有人都担心丑事即将败露的时候，一个神奇天才的出现拯救了大家，然而谁能料到真正的麻烦才刚刚开始……",
+      "releaseDate": "2016-10-28",
+      "backdropPath": "/gnY5PQoRUtCn7gHrCZq70IesyrN.jpg",
+      "posterPath": "/batno59Ebq7mbUbatR34MMpz4Cn.jpg",
+      "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 362682,
@@ -496,17 +483,17 @@
       "genreTitle": "爱情, 喜剧"
     },
     {
-      "id": 421742,
+      "id": 1770952,
       "type": "tmdb",
-      "title": "驴得水",
-      "originalTitle": "驴得水",
-      "description": "一群“品行不端”却怀揣教育梦想的大学教师，从大城市来到偏远乡村开办了一所小学校。学校待遇惨淡、生活艰苦，但老师们都自得其乐，每天嘻嘻哈哈打成一片。然而教育部特派员要来突击检查的消息打破了安宁，因为学校有一位“驴得水老师”隐藏着不可告人的秘密。就在所有人都担心丑事即将败露的时候，一个神奇天才的出现拯救了大家，然而谁能料到真正的麻烦才刚刚开始……",
-      "releaseDate": "2016-10-28",
-      "backdropPath": "/gnY5PQoRUtCn7gHrCZq70IesyrN.jpg",
-      "posterPath": "/batno59Ebq7mbUbatR34MMpz4Cn.jpg",
-      "rating": 7.4,
+      "title": "喂喂喂，足球队",
+      "originalTitle": "喂喂喂，足球队",
+      "description": "2024年，全国盲人足球锦标赛上，出现了中国有史以来最年轻的一支队伍——新疆盲人足球队，平均年龄15岁。  两年前，他们还是新疆莎车县一所特殊学校里喜欢足球却踢不到的视障孩子。上海盲人足球队教练张健驱车千里来选拔，四个孩子第一次离开家乡。从上海回来后，他们萌生了一个念头：新疆，也可以有自己的盲人足球队。没有经费，没有场地，没有教练——这支草根队伍几度面临散掉。是孩子们一遍遍踢下去，让更多人最终看见了他们。磕磕绊绊之中，新疆第一支盲人足球队仓促成立，这群几乎没经历过系统性训练的娃娃，就这样被推上了全国赛场。",
+      "releaseDate": "2026-10-15",
+      "backdropPath": null,
+      "posterPath": "/66gSAoE0Ne1faHY7lNALKmMJynd.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "纪录"
     },
     {
       "id": 592402,
@@ -535,19 +522,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1713529,
-      "type": "tmdb",
-      "title": "想你了",
-      "originalTitle": "想你了",
-      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
-      "releaseDate": "2026-07-17",
-      "backdropPath": "/2UC691pg5qNavMThV3e903BbkCy.jpg",
-      "posterPath": "/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1185806,
       "type": "tmdb",
       "title": "汪汪队立大功大电影3：勇闯恐龙岛",
@@ -556,7 +530,7 @@
       "releaseDate": "2026-07-23",
       "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.2,
+      "rating": 8.271,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -574,43 +548,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 996584,
+      "id": 921937,
       "type": "tmdb",
-      "title": "雪豹",
-      "originalTitle": "གསའ།",
-      "description": "这是一部关于人跟动物最终如何相处的故事。一只雪豹闯进了一家牧民的羊圈，咬死了九只羯羊。因此，牧民父子争执不下。儿子坚持要打死这只豹子，父亲却要执意放了雪豹。",
-      "releaseDate": "2023-09-06",
-      "backdropPath": "/wMVV4U11EiGWNmMJ4crcM9L39rt.jpg",
-      "posterPath": "/i5tgWkVQ01ayVhS0x8w9Y1vtaXN.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 916971,
-      "type": "tmdb",
-      "title": "赵氏孤儿(京剧)",
-      "originalTitle": "赵氏孤儿(京剧)",
-      "description": "春秋晋国，屠岸贾侍宠杀害赵盾与全家三百余口。赵盾儿媳庄姬公主深宫产子，为救孤儿，程婴献子替孤。十五年后，程婴与魏绛联手杀死屠岸贾，报了赵家仇恨。  　　这幕悲剧是因屠岸贾、晋灵公在绛霄楼弹打百姓取乐而引发的……",
+      "title": "穆桂英挂帅(京剧)",
+      "originalTitle": "穆桂英挂帅(京剧)",
+      "description": "西夏王造反，佘太君差杨文广、杨金花进京打探。杨文广校场比武，刀劈王伦。宋王赐印命其母穆桂英挂帅出征。穆桂英先不愿挂帅，经佘太君劝勉，念及国家危亡，抛弃私愤，顿然振奋，慷慨誓师整肃军纪，率领大军出征。",
       "releaseDate": "2017-04-21",
       "backdropPath": null,
-      "posterPath": "/5zPq9KLq367E8WZFgltKM8N7urk.jpg",
+      "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "电视电影"
+      "genreTitle": ""
     },
     {
       "id": 956215,
@@ -639,17 +587,56 @@
       "genreTitle": ""
     },
     {
-      "id": 921937,
+      "id": 916971,
       "type": "tmdb",
-      "title": "穆桂英挂帅(京剧)",
-      "originalTitle": "穆桂英挂帅(京剧)",
-      "description": "西夏王造反，佘太君差杨文广、杨金花进京打探。杨文广校场比武，刀劈王伦。宋王赐印命其母穆桂英挂帅出征。穆桂英先不愿挂帅，经佘太君劝勉，念及国家危亡，抛弃私愤，顿然振奋，慷慨誓师整肃军纪，率领大军出征。",
+      "title": "赵氏孤儿(京剧)",
+      "originalTitle": "赵氏孤儿(京剧)",
+      "description": "春秋晋国，屠岸贾侍宠杀害赵盾与全家三百余口。赵盾儿媳庄姬公主深宫产子，为救孤儿，程婴献子替孤。十五年后，程婴与魏绛联手杀死屠岸贾，报了赵家仇恨。  　　这幕悲剧是因屠岸贾、晋灵公在绛霄楼弹打百姓取乐而引发的……",
       "releaseDate": "2017-04-21",
       "backdropPath": null,
-      "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
+      "posterPath": "/5zPq9KLq367E8WZFgltKM8N7urk.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": ""
+      "genreTitle": "电视电影"
+    },
+    {
+      "id": 849880,
+      "type": "tmdb",
+      "title": "天工苏作",
+      "originalTitle": "天工苏作",
+      "description": "天⼯开画卷，苏作耀匠⼼。  苏州，⼀座古⽼与现代并存的城市。两千五百多年来，铅华洗尽，流传下了灯彩、核雕、宋锦、明式家具、船点、苏绣、⾹⼭帮营造、缂丝、⽟雕等⼀⼤批巧夺天⼯的⾮物质⽂化遗产。  影⽚以12位代表性传承⼈的视⾓，讲述了这9项⼿艺的前世今⽣，以及传承⼈与⼿艺之间发⽣的温情故事。沉睡的⼿艺被亲情唤醒，年轻绣娘拜师“择⼀事终⼀⽣”，古⽼“⾹⼭帮”的传承⼈的代际碰撞……  那些⾄今活跃在此的苏作⼿艺⼈们既是时代的记录者，⼜是新时代传承⼿艺的创新者。正因他们的存在，  我们才获得⼀个回望历史的⽣动视⾓，才可以向今天乃⾄未来的⽣活索要更⾼的品质。  因此，我们有理由充分理解并且记住这些关于⼿艺，以及⼿艺⼈们的故事。",
+      "releaseDate": "2021-07-10",
+      "backdropPath": "/8IapKMxKGGwNUnqR7BBsQJ349GX.jpg",
+      "posterPath": "/miubs8MGefI7Z79VaQj1pzzEWyC.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1028378,
+      "type": "tmdb",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     }
   ]
 }
