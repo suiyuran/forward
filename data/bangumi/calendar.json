@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-14T19:56:23.701Z",
+  "time": "2026-10-15T19:39:33.642Z",
   "data": {
     "星期日": [
       {
@@ -109,13 +109,13 @@
       {
         "id": 312359,
         "type": "tmdb",
-        "title": "龙珠超：比鲁斯",
+        "title": "七龙珠超：比鲁斯",
         "originalTitle": "ドラゴンボール超 ビルス",
-        "description": "距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…",
+        "description": "魔人布欧之战结束数年后，地球重归和平。沉睡已久的破坏神比鲁斯苏醒，听闻打败弗利萨的赛亚人孙悟空后，突然现身地球。面对拥有毁灭星球之力的比鲁斯，悟空和伙伴们迎来关乎地球存亡的宇宙级战斗。",
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "posterPath": "/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-        "rating": 9.808,
+        "posterPath": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
+        "rating": 9.771,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -127,10 +127,10 @@
         "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——驱使恶魔之力的美丽暗黑召唤师·阿莫娜。圣洁与邪恶，人类与亚人。本以为这两人会水火不容、势同水火，却在入队的第一天早晨，就发生了关系……！？揣着这个不可告人的秘密，他们与性格各异的队友们，以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！背德与心动相互交织。亚人少女×神官少年，奇幻欢喜冤家恋爱喜剧，正式开幕！",
         "releaseDate": "2026-10-05",
         "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
-        "posterPath": "/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
-        "rating": 9.571,
+        "posterPath": "/c9Fe03wMgDxY88RpKLTeG20OSGW.jpg",
+        "rating": 9.6,
         "mediaType": "tv",
-        "genreTitle": "喜剧, Sci-Fi & Fantasy"
+        "genreTitle": "动画, 喜剧"
       },
       {
         "id": 223916,
@@ -276,6 +276,19 @@
         "genreTitle": "动画"
       },
       {
+        "id": 334779,
+        "type": "tmdb",
+        "title": "既然能用鼠标操纵现实，那就使劲点击女孩吧",
+        "originalTitle": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+        "description": "某天上课时，宅男拓海发现自己的鼠标光标竟然飞到了屏幕外。他慌忙向坐在旁边的青梅竹马萌音确认，但对方根本不理他……得知自己居然真的能操作光标后，拓海便用起只有自己能看见的鼠标光标，让光标钻进萌音衣服的缝隙里，咔嗒咔嗒地疯狂点击！？日本首部（大概）新类型《用鼠标光标狂点对宅男不友好的辣妹》系恋爱喜剧，开幕！",
+        "releaseDate": "2026-10-05",
+        "backdropPath": "/2YCsvsdWbbT9HT2EK4024JRSF5f.jpg",
+        "posterPath": "/hhHXe6pL9SlMvUA4CtfoA8bHj07.jpg",
+        "rating": 9,
+        "mediaType": "tv",
+        "genreTitle": "动画"
+      },
+      {
         "id": 236534,
         "type": "tmdb",
         "title": "牧神记",
@@ -325,7 +338,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/o8jHdRwB9GZtkdZjmMoFJyC7eDZ.jpg",
         "posterPath": "/EQNjH4oeCm9pD58fi2s4WZyjgA.jpg",
-        "rating": 7.167,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -392,7 +405,7 @@
         "releaseDate": "2022-09-13",
         "backdropPath": "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
         "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
-        "rating": 8.485,
+        "rating": 8.484,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -405,7 +418,7 @@
         "releaseDate": "2026-10-03",
         "backdropPath": "/sqfxKwR0mYva1LJlkMqIMNb2W36.jpg",
         "posterPath": "/gP4Pm8UnD4QjN1R5ZR1f3jaSkAe.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -418,7 +431,7 @@
         "releaseDate": "2026-10-06",
         "backdropPath": "/9V4zVVKqy7g2n6Vxts2DmXxuPiU.jpg",
         "posterPath": "/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
-        "rating": 9,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
       },
@@ -431,7 +444,7 @@
         "releaseDate": "2025-10-07",
         "backdropPath": "/4BE1aoCu5mCG3ZJ7alNDQkB3oK4.jpg",
         "posterPath": "/q6Hdvt4bVB8mBkv0vMtRJ9IPzzH.jpg",
-        "rating": 7.533,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -518,7 +531,7 @@
       {
         "id": 134667,
         "type": "tmdb",
-        "title": "转生成为魔剑",
+        "title": "转生成为魔剑了",
         "originalTitle": "転生したら剣でした",
         "description": "转生后，我竟然成为了一把剑！？这个故事的主角，一回神发现自己已经转生至异世界了。但不是作为普通人类，而是一把被称作“智能武器”的剑。当他环顾周围，发现这里是个魔物猖獗，险象环生的草原地带。觉得性命受到威胁的他，怀抱着与装备者相遇的梦想，运用让自己身体飘浮的能力，逐步猎杀魔物。某天，他为了休息一时不慎踏入会吸收魔力的“干涸之森”，结果完全动弹不得。就在束手无策之际，他遇见了长期遭受奴役与虐待的黑猫族少女·芙兰。芙兰遭到巨大魔兽袭击，陷入生死关头之际，拔出了插在眼前的他，并利用他的力量成功脱离危机。之后，她将他命名为“师父”，并正式成为他的装备者。成为冒险者的芙兰与师父，一边彼此磨练技能，一边完成各种委托。芙兰为了追求位于强大尽头的“进化”，而师父则为了实现少女的“愿望”。猫耳少女和爱女心切的魔剑的最初冒险，即将开始！",
         "releaseDate": "2022-10-05",
@@ -537,7 +550,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
         "posterPath": "/aWTfsoyRQNKxvI2EOLOEPKyxDqr.jpg",
-        "rating": 7.196,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -576,7 +589,7 @@
         "releaseDate": "2020-10-31",
         "backdropPath": "/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
         "posterPath": "/2amGMjIx3kXNUIFPVZZBVBTu6PS.jpg",
-        "rating": 7.5,
+        "rating": 7.509,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -617,7 +630,7 @@
         "releaseDate": "2020-04-10",
         "backdropPath": "/hhUBiZaO6IrAFRQfVVsZWQ1Dwdp.jpg",
         "posterPath": "/qa70BcxTel8iERiTWImwSuPecyI.jpg",
-        "rating": 7.821,
+        "rating": 7.833,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -708,7 +721,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
         "posterPath": "/7hVGp1KlPvxtYufq8kTdCKu2cWS.jpg",
-        "rating": 8.667,
+        "rating": 8.629,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -762,7 +775,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 8.825,
+        "rating": 8.867,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -775,7 +788,7 @@
         "releaseDate": "2026-10-02",
         "backdropPath": "/tZy81uEJH83fqqj9Q8glYXePdRq.jpg",
         "posterPath": "/3jECaaoPiodCEJkhoLIyeegzG8Q.jpg",
-        "rating": 0,
+        "rating": 5,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
       },
@@ -853,7 +866,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.221,
+        "rating": 8.144,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -933,7 +946,7 @@
         "releaseDate": "2026-10-03",
         "backdropPath": "/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
         "posterPath": "/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
-        "rating": 7.7,
+        "rating": 7.667,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -997,7 +1010,7 @@
         "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
         "releaseDate": "2026-10-10",
         "backdropPath": "/9SR35fCLp6VmuPPxRjfPQLucyU5.jpg",
-        "posterPath": "/mnhGQ2mfwSYS4xuAljOIwBaLyXK.jpg",
+        "posterPath": "/s5UFn4SrNFTjTeYKQvyC7ImPlgw.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
@@ -1050,7 +1063,7 @@
         "releaseDate": "2024-10-06",
         "backdropPath": "/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
         "posterPath": "/hOmadnDmq8aNdygqsxFkEVclxgF.jpg",
-        "rating": 8.083,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
