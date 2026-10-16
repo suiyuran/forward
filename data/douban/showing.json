@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-15T20:11:27.709Z",
+  "time": "2026-10-16T19:49:32.216Z",
   "data": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-09-16",
       "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.32,
+      "rating": 7.328,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
     },
@@ -20,25 +20,12 @@
       "title": "一个夜晚与三个夏天",
       "originalTitle": "一个夜晚与三个夏天",
       "description": "桑吉在拉萨拍摄一部和童年有关的片子，彼时的她面临着创作上的迷茫，与同为藏戏编导的父亲隔阂也难以消弭。一次偶然的派对，桑吉遇见了她所拍摄故事中的原型人物拉姆，夜晚悄然逝去，弥散在记忆中的夏天逐渐有了全貌...",
-      "releaseDate": "2026-10-13",
+      "releaseDate": "2026-09-11",
       "backdropPath": "/Agffw58ImoHhiXYCy3iKepG3fXC.jpg",
       "posterPath": "/bPCcEl1AaKcPWQFH58o5DdErIYr.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1255833,
-      "type": "tmdb",
-      "title": "鲸口脱险",
-      "originalTitle": "Whalefall",
-      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
-      "releaseDate": "2026-10-14",
-      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "rating": 7.591,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
     },
     {
       "id": 1439171,
@@ -62,9 +49,22 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.391,
+      "rating": 7.412,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
+    },
+    {
+      "id": 1255833,
+      "type": "tmdb",
+      "title": "鲸口脱险",
+      "originalTitle": "Whalefall",
+      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
+      "releaseDate": "2026-10-14",
+      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
+      "rating": 7.6,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
     },
     {
       "id": 1766670,
@@ -106,19 +106,6 @@
       "genreTitle": "剧情, 动作"
     },
     {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "releaseDate": "2011-03-27",
-      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.1,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1089598,
       "type": "tmdb",
       "title": "敦煌英雄",
@@ -132,15 +119,28 @@
       "genreTitle": "动作, 历史"
     },
     {
+      "id": 414419,
+      "type": "tmdb",
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "releaseDate": "2011-03-27",
+      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "rating": 8.1,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
       "id": 1101412,
       "type": "tmdb",
       "title": "坠落２：死点",
       "originalTitle": "Fall 2: Deadpoint",
       "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
       "releaseDate": "2026-09-01",
-      "backdropPath": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 7.3,
+      "rating": 7.285,
       "mediaType": "movie",
       "genreTitle": "惊悚"
     },
@@ -166,7 +166,7 @@
       "releaseDate": "1994-09-23",
       "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "posterPath": "/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
-      "rating": 8.733,
+      "rating": 8.732,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -192,9 +192,22 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8,
+      "rating": 8.01,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
+    },
+    {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
+      "rating": 8.177,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1567937,
@@ -208,19 +221,6 @@
       "rating": 6.3,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
-    },
-    {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.179,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
     },
     {
       "id": 1616157,
@@ -249,17 +249,17 @@
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 1387772,
+      "id": 299534,
       "type": "tmdb",
-      "title": "侦战",
-      "originalTitle": "偵戰",
-      "description": "一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
-      "posterPath": "/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
-      "rating": 0,
+      "title": "复仇者联盟4：终局之战",
+      "originalTitle": "Avengers: Endgame",
+      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
+      "releaseDate": "2019-04-24",
+      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
+      "rating": 8.246,
       "mediaType": "movie",
-      "genreTitle": "犯罪, 动作"
+      "genreTitle": "冒险, 科幻"
     },
     {
       "id": 1678102,
@@ -275,19 +275,6 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
-      "id": 299534,
-      "type": "tmdb",
-      "title": "复仇者联盟4：终局之战",
-      "originalTitle": "Avengers: Endgame",
-      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
-      "releaseDate": "2019-04-24",
-      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "rating": 8.246,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 科幻"
-    },
-    {
       "id": 1288445,
       "type": "tmdb",
       "title": "怒之杀",
@@ -296,22 +283,9 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.56,
+      "rating": 7.576,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
-    },
-    {
-      "id": 1444590,
-      "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "releaseDate": "2026-09-05",
-      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1778310,
@@ -327,17 +301,30 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 1774595,
+      "id": 1444590,
       "type": "tmdb",
-      "title": "凝脂手",
-      "originalTitle": "凝脂手",
-      "description": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
-      "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "releaseDate": "2026-09-05",
+      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1770952,
+      "type": "tmdb",
+      "title": "喂喂喂，足球队",
+      "originalTitle": "喂喂喂，足球队",
+      "description": "2024年，全国盲人足球锦标赛上，出现了中国有史以来最年轻的一支队伍——新疆盲人足球队，平均年龄15岁。  两年前，他们还是新疆莎车县一所特殊学校里喜欢足球却踢不到的视障孩子。上海盲人足球队教练张健驱车千里来选拔，四个孩子第一次离开家乡。从上海回来后，他们萌生了一个念头：新疆，也可以有自己的盲人足球队。没有经费，没有场地，没有教练——这支草根队伍几度面临散掉。是孩子们一遍遍踢下去，让更多人最终看见了他们。磕磕绊绊之中，新疆第一支盲人足球队仓促成立，这群几乎没经历过系统性训练的娃娃，就这样被推上了全国赛场。",
+      "releaseDate": "2026-10-15",
+      "backdropPath": null,
+      "posterPath": "/66gSAoE0Ne1faHY7lNALKmMJynd.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "纪录"
     },
     {
       "id": 1502135,
@@ -353,6 +340,19 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
+      "id": 1761217,
+      "type": "tmdb",
+      "title": "蝉衣",
+      "originalTitle": "蝉衣",
+      "description": "五姐妹的中阿莲在临死前，希望自己穿上越南的衣服（奥黛）下葬。在葬礼上，主角北江红偷偷给死者换上越南的衣服，这一行为冒犯了瑶族人族规。北江红被丈夫（瑶族村长）当众打了一个耳光。已经年近60岁的北江红，独自一人来到石门台高山上生活。女儿阿知上山劝母亲下山,因受伤困在山上。电影主要讲述了阿知在高山上与母亲一起生活时，揭开了母亲北江红不为人知的身世和往事......",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/oNs5Z2kROR7xtPsZVnMYJc3A9hl.jpg",
+      "posterPath": "/duMVbadqFNiHCVTmW1U4QSjxXqD.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1748007,
       "type": "tmdb",
       "title": "牛来",
@@ -366,6 +366,32 @@
       "genreTitle": "家庭, 动画"
     },
     {
+      "id": 1774595,
+      "type": "tmdb",
+      "title": "凝脂手",
+      "originalTitle": "凝脂手",
+      "description": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
+      "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1670314,
+      "type": "tmdb",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
       "id": 10681,
       "type": "tmdb",
       "title": "机器人总动员",
@@ -374,7 +400,7 @@
       "releaseDate": "2008-06-26",
       "backdropPath": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "posterPath": "/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "rating": 8.1,
+      "rating": 8.127,
       "mediaType": "movie",
       "genreTitle": "动画, 家庭"
     },
@@ -390,19 +416,6 @@
       "rating": 4,
       "mediaType": "movie",
       "genreTitle": "爱情, 奇幻"
-    },
-    {
-      "id": 1670314,
-      "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1724637,
@@ -444,19 +457,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1770952,
-      "type": "tmdb",
-      "title": "喂喂喂，足球队",
-      "originalTitle": "喂喂喂，足球队",
-      "description": "2024年，全国盲人足球锦标赛上，出现了中国有史以来最年轻的一支队伍——新疆盲人足球队，平均年龄15岁。  两年前，他们还是新疆莎车县一所特殊学校里喜欢足球却踢不到的视障孩子。上海盲人足球队教练张健驱车千里来选拔，四个孩子第一次离开家乡。从上海回来后，他们萌生了一个念头：新疆，也可以有自己的盲人足球队。没有经费，没有场地，没有教练——这支草根队伍几度面临散掉。是孩子们一遍遍踢下去，让更多人最终看见了他们。磕磕绊绊之中，新疆第一支盲人足球队仓促成立，这群几乎没经历过系统性训练的娃娃，就这样被推上了全国赛场。",
-      "releaseDate": "2026-10-15",
-      "backdropPath": null,
-      "posterPath": "/66gSAoE0Ne1faHY7lNALKmMJynd.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 362682,
       "type": "tmdb",
       "title": "夏洛特烦恼",
@@ -483,19 +483,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1774598,
-      "type": "tmdb",
-      "title": "最后，一根稻草托起了下巴",
-      "originalTitle": "最后，一根稻草托起了下巴",
-      "description": "只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": null,
-      "posterPath": "/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1185806,
       "type": "tmdb",
       "title": "汪汪队立大功大电影3：勇闯恐龙岛",
@@ -504,7 +491,7 @@
       "releaseDate": "2026-07-23",
       "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.3,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -522,17 +509,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1147747,
+      "id": 1666219,
       "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
+      "title": "红闪电",
+      "originalTitle": "红闪电",
+      "description": "影片讲述11岁少女达达因家庭变故产生心理上的苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将她放到表哥经营的马场暂住。内心封闭的达达在那里结识了一个因比赛事故而自我放逐的冠军选手向飞，以及他的最佳搭档赛马“红闪电”。在相处中，双方看到了各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找到心的方向，从而领悟了人和马在跨越现实与心灵的重重障碍中得到升华，实现了双向救赎，找回丢失的勇气与自我，也深刻理解了羁绊、离别与成长的意义。",
+      "releaseDate": "2026-09-05",
+      "backdropPath": null,
+      "posterPath": "/7L5YJLL86azwqJE7Aufya0jSNZ1.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "剧情"
     },
     {
       "id": 849880,
@@ -544,6 +531,19 @@
       "backdropPath": "/8IapKMxKGGwNUnqR7BBsQJ349GX.jpg",
       "posterPath": "/miubs8MGefI7Z79VaQj1pzzEWyC.jpg",
       "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1028378,
+      "type": "tmdb",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "纪录"
     },
@@ -600,28 +600,15 @@
       "genreTitle": "电视电影"
     },
     {
-      "id": 1666219,
+      "id": 1147747,
       "type": "tmdb",
-      "title": "红闪电",
-      "originalTitle": "红闪电",
-      "description": "影片讲述11岁少女达达因家庭变故产生心理上的苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将她放到表哥经营的马场暂住。内心封闭的达达在那里结识了一个因比赛事故而自我放逐的冠军选手向飞，以及他的最佳搭档赛马“红闪电”。在相处中，双方看到了各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找到心的方向，从而领悟了人和马在跨越现实与心灵的重重障碍中得到升华，实现了双向救赎，找回丢失的勇气与自我，也深刻理解了羁绊、离别与成长的意义。",
-      "releaseDate": "2026-09-05",
-      "backdropPath": null,
-      "posterPath": "/7L5YJLL86azwqJE7Aufya0jSNZ1.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1028378,
-      "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
       "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.7,
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
