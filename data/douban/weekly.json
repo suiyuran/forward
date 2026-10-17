@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-16T22:15:35.868Z",
+  "time": "2026-10-17T21:47:31.565Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-        "rating": 7.328,
+        "rating": 7.308,
         "mediaType": "movie",
         "genreTitle": "恐怖, 科幻"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.412,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 7.2,
+        "rating": 7.23,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -88,7 +88,7 @@
         "description": "一场历史性的竞赛，试图成为冬季首位登顶 K2 峰的人，最终演变成悲剧，暴露出野心、自我和对荣耀的追求可能与这座山峰本身一样危险。",
         "releaseDate": "2026-10-02",
         "backdropPath": "/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
-        "posterPath": "/5pZUhYDXulwOj6985AMlrriNaim.jpg",
+        "posterPath": "/PUEqI3ITwcQY8vZ9XpxlGoyyUc.jpg",
         "rating": 6.1,
         "mediaType": "movie",
         "genreTitle": "纪录"
@@ -301,7 +301,7 @@
         "releaseDate": "2026-10-07",
         "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
         "posterPath": "/xobpaz7TiODcuGhT9dvENFhhVGw.jpg",
-        "rating": 8.415,
+        "rating": 8.35,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
         "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-        "rating": 8.2,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-09-06",
         "backdropPath": "/8Jdrk3wwMCs1RN7GimMZQrBdgHh.jpg",
         "posterPath": "/4uKAIiQ9VXvnq7UkvJkk7pwntGU.jpg",
-        "rating": 8.5,
+        "rating": 8.667,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
         "posterPath": "/mi6MY0MHWSGulv9mjn5kTn0Kocf.jpg",
-        "rating": 7.571,
+        "rating": 7.875,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
