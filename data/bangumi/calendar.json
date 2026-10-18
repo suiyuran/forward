@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-17T18:06:53.452Z",
+  "time": "2026-10-18T18:25:38.103Z",
   "data": {
     "星期日": [
       {
@@ -115,7 +115,7 @@
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
-        "rating": 9.792,
+        "rating": 9.744,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
         "posterPath": "/c9Fe03wMgDxY88RpKLTeG20OSGW.jpg",
-        "rating": 9.222,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -278,7 +278,7 @@
       {
         "id": 334779,
         "type": "tmdb",
-        "title": "既然能用鼠标操纵现实，那就使劲点击女孩吧",
+        "title": "既然能用鼠标操纵现实，那就使劲点击女孩子吧",
         "originalTitle": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
         "description": "某天上课时，宅男拓海发现自己的鼠标光标竟然飞到了屏幕外。他慌忙向坐在旁边的青梅竹马萌音确认，但对方根本不理他……得知自己居然真的能操作光标后，拓海便用起只有自己能看见的鼠标光标，让光标钻进萌音衣服的缝隙里，咔嗒咔嗒地疯狂点击！？日本首部（大概）新类型《用鼠标光标狂点对宅男不友好的辣妹》系恋爱喜剧，开幕！",
         "releaseDate": "2026-10-05",
@@ -380,6 +380,19 @@
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
+      },
+      {
+        "id": 1788735,
+        "type": "tmdb",
+        "title": "Family Guy Happy Hell-o-ween",
+        "originalTitle": "Family Guy Happy Hell-o-ween",
+        "description": "",
+        "releaseDate": "2026-10-05",
+        "backdropPath": "/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
+        "posterPath": "/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+        "rating": 7.176,
+        "mediaType": "movie",
+        "genreTitle": "动画, 恐怖"
       }
     ],
     "星期二": [
@@ -405,7 +418,7 @@
         "releaseDate": "2022-09-13",
         "backdropPath": "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
         "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
-        "rating": 8.485,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -511,7 +524,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.753,
+        "rating": 8.752,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -589,7 +602,7 @@
         "releaseDate": "2020-10-31",
         "backdropPath": "/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
         "posterPath": "/2amGMjIx3kXNUIFPVZZBVBTu6PS.jpg",
-        "rating": 7.53,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -630,7 +643,7 @@
         "releaseDate": "2020-04-10",
         "backdropPath": "/hhUBiZaO6IrAFRQfVVsZWQ1Dwdp.jpg",
         "posterPath": "/qa70BcxTel8iERiTWImwSuPecyI.jpg",
-        "rating": 7.833,
+        "rating": 7.844,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -721,7 +734,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
         "posterPath": "/7hVGp1KlPvxtYufq8kTdCKu2cWS.jpg",
-        "rating": 8.629,
+        "rating": 8.648,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -736,20 +749,20 @@
         "posterPath": "/necIfg41N30YMh85OSGeFMzUJRp.jpg",
         "rating": 0,
         "mediaType": "tv",
-        "genreTitle": "动画"
+        "genreTitle": "动画, 儿童"
       }
     ],
     "星期五": [
       {
         "id": 105009,
         "type": "tmdb",
-        "title": "重生之道",
+        "title": "东京复仇者",
         "originalTitle": "東京リベンジャーズ",
         "description": "东京卍复仇者动画全集改编自同名漫画，2021年4月播出。 主角‧武道做什么事情都不顺，又住在破旧老公寓里，从电视上得知国中时期的前女友‧日向无端卷入帮派火拼而身亡。某天他在月台等车，居然跌落铁轨，正他以为自己死定了，回神之后却发现自己回到12年前的国中时期。后来又遇上了日向的弟弟‧直人，告诉他12年后发生的事实，要求他要保护姐姐，双方握手之后他又再次回到现代。",
         "releaseDate": "2021-04-11",
-        "backdropPath": "/jnThpphOHQRiTedCtz1yyshfkHw.jpg",
+        "backdropPath": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
         "posterPath": "/nXsAZCWvsuN2GoGKE2GM625nKx.jpg",
-        "rating": 8.401,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -775,7 +788,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 9.1,
+        "rating": 9.2,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -801,7 +814,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.7,
+        "rating": 8.653,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -814,7 +827,7 @@
         "releaseDate": "2025-07-11",
         "backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
         "posterPath": "/lUqwOFOSCg3wU001xYJju5WEZbl.jpg",
-        "rating": 7.675,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -866,7 +879,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.144,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -933,7 +946,7 @@
         "releaseDate": "2021-12-03",
         "backdropPath": "/xvW4vt825iB1cRKfNcQ8ilEDtdM.jpg",
         "posterPath": "/jO4DI02wo9hqimvELQGPa44T47Q.jpg",
-        "rating": 7.696,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -946,7 +959,7 @@
         "releaseDate": "2026-10-03",
         "backdropPath": "/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
         "posterPath": "/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -970,9 +983,9 @@
         "originalTitle": "ブラッククローバー",
         "description": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。",
         "releaseDate": "2017-10-03",
-        "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+        "backdropPath": "/7bGvtyA2m16jcCTCdhoiiFF7ibe.jpg",
         "posterPath": "/fneujgbpcmX92mywDf30cvk1s7q.jpg",
-        "rating": 8.515,
+        "rating": 8.514,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
