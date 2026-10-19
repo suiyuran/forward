@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-18T18:25:38.103Z",
+  "time": "2026-10-19T20:50:53.686Z",
   "data": {
     "星期日": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/xqil5t29q1k6reedUlMy4nYd9f7.jpg",
         "posterPath": "/ccLkKM9nZ4eR2ZjDg2vpOCInZro.jpg",
-        "rating": 5,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2022-04-09",
         "backdropPath": "/4ixh7PNNWd1VaohzKD7pcP33SiN.jpg",
         "posterPath": "/hHAieX1kcUIMi7KmOT3RtGQdBK8.jpg",
-        "rating": 7.8,
+        "rating": 7.826,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -87,7 +87,7 @@
         "originalTitle": "おじさんはカワイイものがお好き",
         "description": "长相帅气、工作能力出众的小路三贵，其实对可爱的东西毫无抵抗力。在公司里，他深受部下们信赖，而回到家后，却会尽情疼爱自己的最爱角色「巴哥太郎」，享受至福的时光。然而，小路始终无法向任何人坦白自己「最喜欢可爱小玩意」的这个秘密，每天都怀着提心吊胆的心情生活着。请敬请期待他对巴哥太郎满溢而出的爱，以及因某件事为契机逐渐产生变化的日常。",
         "releaseDate": "2026-10-04",
-        "backdropPath": "/uAshjLRx4u8mXOJISOsOoyl9av4.jpg",
+        "backdropPath": "/z9szBFHTE7INh2R1kPONui0fJ7D.jpg",
         "posterPath": "/gCfXAqp5CiiGnDnAt8jSoTCU9yr.jpg",
         "rating": 0,
         "mediaType": "tv",
@@ -109,13 +109,13 @@
       {
         "id": 312359,
         "type": "tmdb",
-        "title": "七龙珠超：比鲁斯",
+        "title": "龙珠超：比鲁斯",
         "originalTitle": "ドラゴンボール超 ビルス",
         "description": "魔人布欧之战结束数年后，地球重归和平。沉睡已久的破坏神比鲁斯苏醒，听闻打败弗利萨的赛亚人孙悟空后，突然现身地球。面对拥有毁灭星球之力的比鲁斯，悟空和伙伴们迎来关乎地球存亡的宇宙级战斗。",
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
-        "rating": 9.744,
+        "rating": 9.723,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -279,7 +279,7 @@
         "id": 334779,
         "type": "tmdb",
         "title": "既然能用鼠标操纵现实，那就使劲点击女孩子吧",
-        "originalTitle": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+        "originalTitle": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
         "description": "某天上课时，宅男拓海发现自己的鼠标光标竟然飞到了屏幕外。他慌忙向坐在旁边的青梅竹马萌音确认，但对方根本不理他……得知自己居然真的能操作光标后，拓海便用起只有自己能看见的鼠标光标，让光标钻进萌音衣服的缝隙里，咔嗒咔嗒地疯狂点击！？日本首部（大概）新类型《用鼠标光标狂点对宅男不友好的辣妹》系恋爱喜剧，开幕！",
         "releaseDate": "2026-10-05",
         "backdropPath": "/2YCsvsdWbbT9HT2EK4024JRSF5f.jpg",
@@ -483,7 +483,7 @@
         "releaseDate": "2026-10-06",
         "backdropPath": "/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
         "posterPath": "/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
-        "rating": 6.5,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -576,7 +576,7 @@
         "releaseDate": "2024-01-05",
         "backdropPath": "/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
         "posterPath": "/kfUIFZwVWZwcE06cdqc4OkPL1nQ.jpg",
-        "rating": 6.9,
+        "rating": 6.949,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -589,7 +589,7 @@
         "releaseDate": "2026-10-07",
         "backdropPath": "/f6MmtdKyrmUt2iHfhEKO6DgrL4a.jpg",
         "posterPath": "/2zoubtpZYCtyNghQMWKSldwz8gQ.jpg",
-        "rating": 0,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -695,7 +695,7 @@
         "releaseDate": "2026-10-01",
         "backdropPath": "/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
         "posterPath": "/fm6Mzk8e1sGvuOasuCtWhdKl7xx.jpg",
-        "rating": 8,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -734,7 +734,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
         "posterPath": "/7hVGp1KlPvxtYufq8kTdCKu2cWS.jpg",
-        "rating": 8.648,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -762,7 +762,7 @@
         "releaseDate": "2021-04-11",
         "backdropPath": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
         "posterPath": "/nXsAZCWvsuN2GoGKE2GM625nKx.jpg",
-        "rating": 8.4,
+        "rating": 8.401,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -814,7 +814,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.653,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -840,7 +840,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
         "posterPath": "/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-        "rating": 10,
+        "rating": 9.909,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -866,7 +866,7 @@
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
         "posterPath": "/510e9ZkzWiUHab3skyuvWzjXWmN.jpg",
-        "rating": 8.9,
+        "rating": 8.957,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -905,7 +905,7 @@
         "releaseDate": "2026-10-02",
         "backdropPath": "/8iJ4IPl8BPVOL7C6lFKq2zeLdDs.jpg",
         "posterPath": "/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
-        "rating": 0,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 动画"
       }
@@ -920,7 +920,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/mCfswh8wgMW8rzUrSEdviUGu5Ax.jpg",
-        "rating": 8.021,
+        "rating": 8.019,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -983,9 +983,9 @@
         "originalTitle": "ブラッククローバー",
         "description": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。",
         "releaseDate": "2017-10-03",
-        "backdropPath": "/7bGvtyA2m16jcCTCdhoiiFF7ibe.jpg",
+        "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
         "posterPath": "/fneujgbpcmX92mywDf30cvk1s7q.jpg",
-        "rating": 8.514,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1023,8 +1023,8 @@
         "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
         "releaseDate": "2026-10-10",
         "backdropPath": "/9SR35fCLp6VmuPPxRjfPQLucyU5.jpg",
-        "posterPath": "/s5UFn4SrNFTjTeYKQvyC7ImPlgw.jpg",
-        "rating": 0,
+        "posterPath": "/uVE2t56eMuRR8vlEn88gAMSNQYP.jpg",
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -1102,7 +1102,7 @@
         "releaseDate": "2026-10-03",
         "backdropPath": "/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
         "posterPath": "/5zsuK5vjSWPuQfkR64i8cYekSBu.jpg",
-        "rating": 0,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
