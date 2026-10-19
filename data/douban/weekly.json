@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-18T21:57:52.414Z",
+  "time": "2026-10-19T23:09:35.652Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-        "rating": 7.303,
+        "rating": 7.308,
         "mediaType": "movie",
         "genreTitle": "恐怖, 科幻"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.405,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-10-02",
         "backdropPath": "/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
         "posterPath": "/PUEqI3ITwcQY8vZ9XpxlGoyyUc.jpg",
-        "rating": 6.1,
+        "rating": 6.2,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -168,7 +168,7 @@
         "description": "上官诚明全家惨遭天相派设局灭门，他化名潜伏，以牙还牙，以眼还眼，用连环骗局反噬仇敌，一路揭露骗术黑幕，最终瓦解天相派，解救受控者，惩恶扬善终彰善念。",
         "releaseDate": "2026-09-24",
         "backdropPath": "/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
-        "posterPath": "/eZmV0ziikof0upIm8s6Vz2pC9pp.jpg",
+        "posterPath": "/sGxyz6BCOpbn9rKxqCfrW2yBOkX.jpg",
         "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
@@ -301,7 +301,7 @@
         "releaseDate": "2026-10-07",
         "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
         "posterPath": "/xobpaz7TiODcuGhT9dvENFhhVGw.jpg",
-        "rating": 8.3,
+        "rating": 8.331,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -313,7 +313,7 @@
         "description": "这群被军情五处弃用的特工被迫踏上逃亡之路，戴安娜·塔弗纳将他们卷入一场赌上性命的高风险报复与复仇博弈。",
         "releaseDate": "2026-09-16",
         "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-        "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
+        "posterPath": "/xz43vuON3DLUkG7d8CzzDgMpPtX.jpg",
         "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
@@ -340,7 +340,7 @@
         "releaseDate": "2026-09-06",
         "backdropPath": "/8Jdrk3wwMCs1RN7GimMZQrBdgHh.jpg",
         "posterPath": "/4uKAIiQ9VXvnq7UkvJkk7pwntGU.jpg",
-        "rating": 8.7,
+        "rating": 8.583,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
