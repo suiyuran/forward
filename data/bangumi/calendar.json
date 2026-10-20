@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-19T20:50:53.686Z",
+  "time": "2026-10-20T19:47:58.039Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2022-04-09",
         "backdropPath": "/4ixh7PNNWd1VaohzKD7pcP33SiN.jpg",
         "posterPath": "/hHAieX1kcUIMi7KmOT3RtGQdBK8.jpg",
-        "rating": 7.826,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
-        "rating": 9.723,
+        "rating": 9.733,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -180,7 +180,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/cFxouAuLIa54PEwYlCFdJwCm0lc.jpg",
         "posterPath": "/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
-        "rating": 7.8,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -258,7 +258,7 @@
         "releaseDate": "2013-10-06",
         "backdropPath": "/wq5ZykCAFrboIpz36O8pbrJG2dF.jpg",
         "posterPath": "/7hAXDDZ0U34DXGVZY3yVpun1ZYs.jpg",
-        "rating": 7.9,
+        "rating": 7.857,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -279,7 +279,7 @@
         "id": 334779,
         "type": "tmdb",
         "title": "既然能用鼠标操纵现实，那就使劲点击女孩子吧",
-        "originalTitle": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
+        "originalTitle": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
         "description": "某天上课时，宅男拓海发现自己的鼠标光标竟然飞到了屏幕外。他慌忙向坐在旁边的青梅竹马萌音确认，但对方根本不理他……得知自己居然真的能操作光标后，拓海便用起只有自己能看见的鼠标光标，让光标钻进萌音衣服的缝隙里，咔嗒咔嗒地疯狂点击！？日本首部（大概）新类型《用鼠标光标狂点对宅男不友好的辣妹》系恋爱喜剧，开幕！",
         "releaseDate": "2026-10-05",
         "backdropPath": "/2YCsvsdWbbT9HT2EK4024JRSF5f.jpg",
@@ -390,7 +390,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
         "posterPath": "/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-        "rating": 7.176,
+        "rating": 7.333,
         "mediaType": "movie",
         "genreTitle": "动画, 恐怖"
       }
@@ -414,11 +414,11 @@
         "type": "tmdb",
         "title": "赛博朋克：边缘行者",
         "originalTitle": "Cyberpunk: Edgerunners",
-        "description": "该剧集是一部独立的 10 集剧集，故事讲述了一名街头流浪儿在一个科技和形体改造泛滥的夜之城中挣扎求生，一无所有的他成为一名“边缘行者“（亦被称为“赛博浪客”的法外佣兵）来维持生计。",
+        "description": "夜之城每一季都有新故事，也总有一群特立独行的新角色登场，讲述属于他们的传奇。",
         "releaseDate": "2022-09-13",
-        "backdropPath": "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
-        "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
-        "rating": 8.5,
+        "backdropPath": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+        "posterPath": "/kL0jycZo9QAIhempGbsb88uw1E1.jpg",
+        "rating": 8.49,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -524,7 +524,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.752,
+        "rating": 8.753,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -576,7 +576,7 @@
         "releaseDate": "2024-01-05",
         "backdropPath": "/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
         "posterPath": "/kfUIFZwVWZwcE06cdqc4OkPL1nQ.jpg",
-        "rating": 6.949,
+        "rating": 6.9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -682,7 +682,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
         "posterPath": "/ep7YyHdPtRwQgsB8v8S7lFIGPrC.jpg",
-        "rating": 6,
+        "rating": 6.667,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -762,7 +762,7 @@
         "releaseDate": "2021-04-11",
         "backdropPath": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
         "posterPath": "/nXsAZCWvsuN2GoGKE2GM625nKx.jpg",
-        "rating": 8.401,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -788,7 +788,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 9.2,
+        "rating": 9.128,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -814,7 +814,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.7,
+        "rating": 8.655,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -1115,7 +1115,7 @@
         "releaseDate": "2026-10-04",
         "backdropPath": "/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
         "posterPath": "/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
-        "rating": 8.6,
+        "rating": 8.833,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       }
