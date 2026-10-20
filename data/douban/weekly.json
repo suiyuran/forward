@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-19T23:09:35.652Z",
+  "time": "2026-10-20T22:44:26.193Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-        "rating": 7.308,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "恐怖, 科幻"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.4,
+        "rating": 7.387,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 7.1,
+        "rating": 7.132,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-05-29",
         "backdropPath": "/5bMDrznr5P9GcClJF0OeE4NxZn9.jpg",
         "posterPath": "/tD2D4ej3UvZH97DRyCCCUv4n8kK.jpg",
-        "rating": 9.071,
+        "rating": 9.067,
         "mediaType": "movie",
         "genreTitle": "动画, 奇幻"
       }
@@ -156,7 +156,7 @@
         "releaseDate": "2026-09-11",
         "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
         "posterPath": "/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg",
-        "rating": 7.3,
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 家庭"
       },
@@ -260,7 +260,7 @@
         "releaseDate": "2026-08-26",
         "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
         "posterPath": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-        "rating": 7.9,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
@@ -288,7 +288,7 @@
         "releaseDate": "2026-05-31",
         "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
         "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 6.9,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-10-07",
         "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
         "posterPath": "/xobpaz7TiODcuGhT9dvENFhhVGw.jpg",
-        "rating": 8.331,
+        "rating": 8.323,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -313,7 +313,7 @@
         "description": "这群被军情五处弃用的特工被迫踏上逃亡之路，戴安娜·塔弗纳将他们卷入一场赌上性命的高风险报复与复仇博弈。",
         "releaseDate": "2026-09-16",
         "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-        "posterPath": "/xz43vuON3DLUkG7d8CzzDgMpPtX.jpg",
+        "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
         "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
@@ -366,7 +366,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
         "posterPath": "/iit1tcgJFXlsrBoif3G1HLJFAXs.jpg",
-        "rating": 7.6,
+        "rating": 7.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
