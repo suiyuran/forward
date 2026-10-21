@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-20T22:44:26.193Z",
+  "time": "2026-10-21T22:50:00.219Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-        "rating": 7.3,
+        "rating": 7.295,
         "mediaType": "movie",
         "genreTitle": "恐怖, 科幻"
       },
@@ -24,22 +24,9 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.387,
+        "rating": 7.384,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
-      },
-      {
-        "id": 1490581,
-        "type": "tmdb",
-        "title": "风暴",
-        "originalTitle": "Cyclone",
-        "description": "1919年圣保罗，排字女工辛克隆想实现戏剧理想，拿到巴黎奖学金时意外怀孕。她没钱只能冒险非法堕胎，在压抑女性的社会里坚持表达自我。",
-        "releaseDate": "2025-12-04",
-        "backdropPath": "/6PYJCr2rXlraJYKJRhkzclRKvD6.jpg",
-        "posterPath": "/ibTDvIECEGqtGs5xUnh7smoqVtu.jpg",
-        "rating": 7.5,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
       },
       {
         "id": 1242876,
@@ -63,7 +50,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 7.132,
+        "rating": 7.134,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -90,19 +77,6 @@
         "backdropPath": "/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
         "posterPath": "/PUEqI3ITwcQY8vZ9XpxlGoyyUc.jpg",
         "rating": 6.2,
-        "mediaType": "movie",
-        "genreTitle": "纪录"
-      },
-      {
-        "id": 1525646,
-        "type": "tmdb",
-        "title": "隐迹之书：重写自我",
-        "originalTitle": "Palimpsest: The Story of a Name",
-        "description": "资深剪辑师雪美莲总疑惑自己为何拥有“史蒂芬”这个洋姓。她翻查父亲留下的笔记、家庭影像与老照片，追索家族隐秘往事，在殖民历史与多重叙事中探寻身份、记忆与自我重构。",
-        "releaseDate": "2026-04-17",
-        "backdropPath": "/leXpzubyd9VGDFFqaw9h3Go8YTa.jpg",
-        "posterPath": "/vCe8BRIU8P3ZNMLPeLpJwROaKZk.jpg",
-        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -156,61 +130,9 @@
         "releaseDate": "2026-09-11",
         "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
         "posterPath": "/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg",
-        "rating": 7.5,
+        "rating": 7.875,
         "mediaType": "tv",
         "genreTitle": "剧情, 家庭"
-      },
-      {
-        "id": 289078,
-        "type": "tmdb",
-        "title": "我不是大师",
-        "originalTitle": "我不是大师",
-        "description": "上官诚明全家惨遭天相派设局灭门，他化名潜伏，以牙还牙，以眼还眼，用连环骗局反噬仇敌，一路揭露骗术黑幕，最终瓦解天相派，解救受控者，惩恶扬善终彰善念。",
-        "releaseDate": "2026-09-24",
-        "backdropPath": "/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
-        "posterPath": "/sGxyz6BCOpbn9rKxqCfrW2yBOkX.jpg",
-        "rating": 6.8,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 悬疑"
-      },
-      {
-        "id": 294486,
-        "type": "tmdb",
-        "title": "交锋",
-        "originalTitle": "交锋",
-        "description": "一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合，为了共同的使命与信仰并肩作战。",
-        "releaseDate": "2026-09-06",
-        "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
-        "posterPath": "/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "悬疑"
-      },
-      {
-        "id": 273114,
-        "type": "tmdb",
-        "title": "悬案",
-        "originalTitle": "悬案",
-        "description": "一桩悬案一个单元，两个单元一季悬案。《悬案》首季锁定《珠宝行连环劫案》《卞记旅馆灭门案》两个单元，在反其道而行的时间裂缝中解构罪恶对人的再塑造，也书写信念对人的再救赎。",
-        "releaseDate": "2026-07-03",
-        "backdropPath": "/hMAew4hKxZJeqqvYljhLpvS4OZA.jpg",
-        "posterPath": "/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
-        "rating": 7.7,
-        "mediaType": "tv",
-        "genreTitle": "悬疑"
-      },
-      {
-        "id": 332911,
-        "type": "tmdb",
-        "title": "消失的裂痕",
-        "originalTitle": "消失的裂痕",
-        "description": "李芸穿过镜子进入平行世界，发现一个与失踪儿子一模一样的男孩。两个家庭随之围绕欲望、欺骗与身份认同展开激烈冲突。",
-        "releaseDate": "2026-09-29",
-        "backdropPath": "/ndewFqwioUF7o9iKoxtUm67Reum.jpg",
-        "posterPath": "/bgKWL3S8AyzUsoEERkOSIz6CRmr.jpg",
-        "rating": 8.5,
-        "mediaType": "tv",
-        "genreTitle": "悬疑"
       },
       {
         "id": 290863,
@@ -226,6 +148,32 @@
         "genreTitle": "犯罪"
       },
       {
+        "id": 304862,
+        "type": "tmdb",
+        "title": "地狱大状",
+        "originalTitle": "地獄大狀",
+        "description": "仇人多过亲人的大状邱荫荫突然被袭晕倒，醒来时发现自己已在阴间之中。閰罗王宣布她做事太阴骘，折寿四十年，以三十岁之龄香消玉殒！罪孽甚重的她被拉去地狱受刑之际，居然遇上已死富翁石松向閰王买起荫荫，让她重返阳间当其律师，确保其遗产依照遗愿分配！ 死过翻生的荫荫化身「地狱大状」，除了被鬼上身外，还不断穿梭阴阳两界，以死者角度见证争产的光怪陆离，亲历活人把死人激到「从棺材弹起」的荒谬情景，到底遗产的意义，是祝福，或是诅咒？ 除了要帮鬼打官司外，荫荫亦要找出杀她的凶手，努力化解以前累积的孽障，以换取留在阳间更多时间。向来嗜财如命，与人关系疏离，把所有感情都变成交易的荫荫，经历各种追悔莫及的生死相隔后，也想重新好好做人，好好恋爱，可惜发现自己已时间无多…",
+        "releaseDate": "2026-10-05",
+        "backdropPath": "/7pbqHaPuVAWhsxUOHa8yZl0EGah.jpg",
+        "posterPath": "/aTKfKmNyjQmUd3QOcWFY06oxu8a.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 332911,
+        "type": "tmdb",
+        "title": "消失的裂痕",
+        "originalTitle": "消失的裂痕",
+        "description": "李芸穿过镜子进入平行世界，发现一个与失踪儿子一模一样的男孩。两个家庭随之围绕欲望、欺骗与身份认同展开激烈冲突。",
+        "releaseDate": "2026-09-29",
+        "backdropPath": "/ndewFqwioUF7o9iKoxtUm67Reum.jpg",
+        "posterPath": "/bgKWL3S8AyzUsoEERkOSIz6CRmr.jpg",
+        "rating": 8.5,
+        "mediaType": "tv",
+        "genreTitle": "悬疑"
+      },
+      {
         "id": 301489,
         "type": "tmdb",
         "title": "深渊无间",
@@ -239,15 +187,15 @@
         "genreTitle": "悬疑, 剧情"
       },
       {
-        "id": 291856,
+        "id": 306672,
         "type": "tmdb",
-        "title": "重器",
-        "originalTitle": "重器",
-        "description": "以改革开放初期至1997年《刑诉法》《刑法》修订为背景，讲述陈一众、余高远、张丽慧、夏英杰等法学院毕业生在不同司法岗位上历经风雨、共同见证中国法治发展进程的故事，展现他们在时代浪潮中成长、抉择与命运交织的群像篇章。",
-        "releaseDate": "2026-08-10",
-        "backdropPath": "/sUTK5UjUNud0d5hcEbhOk4RTqII.jpg",
-        "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
-        "rating": 8,
+        "title": "日落下的彩虹",
+        "originalTitle": "日落下的彩虹",
+        "description": "七个发生在彩虹邨的感人故事。这些故事描绘了不同的情感和遗憾，反映了香港人对公共屋邨的深厚情感。随着故事中人物的交集，每个故事都在提醒观众，这个标志性的屋邨正走向终结。",
+        "releaseDate": "2026-07-29",
+        "backdropPath": "/oLG0Smu4GB4OBVmydd2qxejDF82.jpg",
+        "posterPath": "/4PR2COQG4DYJMC60RhURgSIlYtp.jpg",
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -260,63 +208,24 @@
         "releaseDate": "2026-08-26",
         "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
         "posterPath": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-        "rating": 8,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
     ],
     "剧集·国外": [
       {
-        "id": 207333,
+        "id": 293610,
         "type": "tmdb",
-        "title": "百年孤独",
-        "originalTitle": "Cien años de soledad",
-        "description": "接续布恩迪亚家族的宿命轮回，聚焦家族双胞胎后代的迥异人生与马孔多的盛极而衰。",
-        "releaseDate": "2026-08-05",
-        "backdropPath": "/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-        "posterPath": "/9jQg0izDnzG9vb6XH8VRg1TKNYM.jpg",
-        "rating": 7.9,
-        "mediaType": "tv",
-        "genreTitle": "剧情, Sci-Fi & Fantasy"
-      },
-      {
-        "id": 286617,
-        "type": "tmdb",
-        "title": "踮起脚尖",
-        "originalTitle": "Tip Toe",
-        "description": "电工克莱夫与邻居利奥及一位LGBTQ+酒吧老板之间的关系迅速恶化，起因是利奥被锁在门外时，克莱夫允许他使用了手机。本剧由拉塞尔·T·戴维斯创作，共五集。",
-        "releaseDate": "2026-05-31",
-        "backdropPath": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-        "posterPath": "/Amo8TyKaRBk5iMJVFOcwfLTEMsX.jpg",
-        "rating": 7,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 288673,
-        "type": "tmdb",
-        "title": "魔女嘉莉",
-        "originalTitle": "Carrie",
-        "description": "父亲的突然离世迫使嘉莉进入到了残酷的公立高中，她不得不面对席卷社区的校园霸凌丑闻、社交媒体时代无情的压力和冷酷无情，以及伴随青春期而觉醒的神秘心灵感应能力。",
-        "releaseDate": "2026-10-07",
-        "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-        "posterPath": "/xobpaz7TiODcuGhT9dvENFhhVGw.jpg",
-        "rating": 8.323,
+        "title": "Doctor X：白色黑手党时代",
+        "originalTitle": "닥터X: 하얀 마피아의 시대",
+        "description": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。",
+        "releaseDate": "2026-10-09",
+        "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+        "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
+        "rating": 9.4,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
-      },
-      {
-        "id": 95480,
-        "type": "tmdb",
-        "title": "Slow Horses",
-        "originalTitle": "Slow Horses",
-        "description": "这群被军情五处弃用的特工被迫踏上逃亡之路，戴安娜·塔弗纳将他们卷入一场赌上性命的高风险报复与复仇博弈。",
-        "releaseDate": "2026-09-16",
-        "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-        "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-        "rating": 8.3,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 剧情"
       },
       {
         "id": 301418,
@@ -353,9 +262,35 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
         "posterPath": "/mi6MY0MHWSGulv9mjn5kTn0Kocf.jpg",
-        "rating": 7.875,
+        "rating": 8.714,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 293607,
+        "type": "tmdb",
+        "title": "百日谎言",
+        "originalTitle": "100일의 거짓말",
+        "description": "天才扒手佳景在朝鲜总督府伪装就业100天，作为假密探活跃在朝鲜，最后成为真正的密探的过程以及与朝鲜翻译官泰雄展开浪漫爱情故事的谍报罗曼史电视剧。",
+        "releaseDate": "2026-10-10",
+        "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+        "posterPath": "/xNE0eyVaBy4vfj2K8EjjmHR6Xbb.jpg",
+        "rating": 8.8,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 剧情"
+      },
+      {
+        "id": 288673,
+        "type": "tmdb",
+        "title": "魔女嘉莉",
+        "originalTitle": "Carrie",
+        "description": "父亲的突然离世迫使嘉莉进入到了残酷的公立高中，她不得不面对席卷社区的校园霸凌丑闻、社交媒体时代无情的压力和冷酷无情，以及伴随青春期而觉醒的神秘心灵感应能力。",
+        "releaseDate": "2026-10-07",
+        "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+        "posterPath": "/xobpaz7TiODcuGhT9dvENFhhVGw.jpg",
+        "rating": 8.328,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 剧情"
       },
       {
         "id": 294636,
@@ -366,35 +301,9 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
         "posterPath": "/iit1tcgJFXlsrBoif3G1HLJFAXs.jpg",
-        "rating": 7.2,
+        "rating": 7.364,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 108255,
-        "type": "tmdb",
-        "title": "万物生灵",
-        "originalTitle": "All Creatures Great & Small",
-        "description": "1946年，战争结束后的达罗比迎来新的时代。詹姆斯、海伦和孩子们回到这里，斯凯代尔庄园也迎来新的变化；一位新兽医的出现，让詹姆斯和法农兄弟面对新的挑战。",
-        "releaseDate": "2026-09-17",
-        "backdropPath": "/jDBtipccngWA9UcSKoTMnMFz3PA.jpg",
-        "posterPath": "/l4ILps4izoFtPZccwtM5rxTByk3.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 236235,
-        "type": "tmdb",
-        "title": "绅士们",
-        "originalTitle": "The Gentlemen",
-        "description": "埃迪·霍尼曼与苏西·格拉斯联手扩大犯罪帝国，并将生意拓展至意大利。随着野心不断膨胀，两人的合作关系和与鲍比的联盟也面临考验。",
-        "releaseDate": "2026-09-03",
-        "backdropPath": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-        "posterPath": "/3Cs3g8GBeMqR9p8rKeACqPLst9Q.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
       }
     ]
   }
