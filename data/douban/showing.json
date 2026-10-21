@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-20T20:18:50.330Z",
+  "time": "2026-10-21T20:27:51.872Z",
   "data": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-09-16",
       "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.3,
+      "rating": 7.295,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
     },
@@ -21,24 +21,11 @@
       "originalTitle": "Whalefall",
       "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
       "releaseDate": "2026-10-14",
-      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "backdropPath": "/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
       "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "rating": 6.6,
+      "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "惊悚"
-    },
-    {
-      "id": 1439171,
-      "type": "tmdb",
-      "title": "神探之痕迹",
-      "originalTitle": "神探之痕迹",
-      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
-      "posterPath": "/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
-      "rating": 7.333,
-      "mediaType": "movie",
-      "genreTitle": "犯罪"
     },
     {
       "id": 1308545,
@@ -54,6 +41,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1439171,
+      "type": "tmdb",
+      "title": "神探之痕迹",
+      "originalTitle": "神探之痕迹",
+      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": "/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
+      "posterPath": "/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
+      "rating": 7.333,
+      "mediaType": "movie",
+      "genreTitle": "犯罪"
+    },
+    {
       "id": 1263337,
       "type": "tmdb",
       "title": "野兽之心",
@@ -62,7 +62,7 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.393,
+      "rating": 7.382,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
@@ -127,7 +127,7 @@
       "releaseDate": "2011-03-27",
       "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.108,
+      "rating": 8.109,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -145,6 +145,32 @@
       "genreTitle": "剧情, 战争"
     },
     {
+      "id": 1740363,
+      "type": "tmdb",
+      "title": "勇敢女孩合唱团",
+      "originalTitle": "勇敢女孩合唱团",
+      "description": "本片以贵州黔东南苗侗村寨为背景，讲述驻村书记周勤知与支教老师冯吉成立助学联盟，周勤知负责修路架桥，冯吉成立合唱团来激发女孩们的自信心和勇气，双管齐下解决孩子们上学难的问题。然而，修路工程因须砍伐苗寨“生命树林”而遭寨民抵制，合唱团参赛之路亦受阻。冯吉组织线上家长会，告诉众人孩子们才是真正的生命延续。最终勇敢女孩合唱团登上省城舞台，两年后，大桥贯通杜柳江，少女们飞奔过桥奔向未来。",
+      "releaseDate": "2026-10-20",
+      "backdropPath": "/rF9zfnJncKGoSnONdlGE2dTcuyz.jpg",
+      "posterPath": "/zBu2EmW39MTg4yOEXPgK8dsepP2.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "音乐, 剧情"
+    },
+    {
+      "id": 1086176,
+      "type": "tmdb",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+      "posterPath": "/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动作"
+    },
+    {
       "id": 1101412,
       "type": "tmdb",
       "title": "坠落2：死点",
@@ -153,7 +179,7 @@
       "releaseDate": "2026-09-01",
       "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
       "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 7.255,
+      "rating": 7.269,
       "mediaType": "movie",
       "genreTitle": "惊悚"
     },
@@ -166,7 +192,7 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.012,
+      "rating": 8.015,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -184,19 +210,6 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1086176,
-      "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
-      "posterPath": "/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动作"
-    },
-    {
       "id": 1339713,
       "type": "tmdb",
       "title": "痴迷",
@@ -205,35 +218,9 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.177,
+      "rating": 8.175,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1502135,
-      "type": "tmdb",
-      "title": "密档",
-      "originalTitle": "密档",
-      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
-      "releaseDate": "2026-08-28",
-      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
-      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1650896,
-      "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇·完美假期",
-      "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
-      "posterPath": "/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动画"
     },
     {
       "id": 1567937,
@@ -249,17 +236,17 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1541125,
+      "id": 1650896,
       "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
-      "releaseDate": "2026-07-24",
-      "backdropPath": "/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
-      "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
-      "rating": 5.6,
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇·完美假期",
+      "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
+      "posterPath": "/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "喜剧, 动画"
     },
     {
       "id": 1801310,
@@ -288,19 +275,6 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
-      "id": 1740363,
-      "type": "tmdb",
-      "title": "勇敢女孩合唱团",
-      "originalTitle": "勇敢女孩合唱团",
-      "description": "本片以贵州黔东南苗侗村寨为背景，讲述驻村书记周勤知与支教老师冯吉成立助学联盟，周勤知负责修路架桥，冯吉成立合唱团来激发女孩们的自信心和勇气，双管齐下解决孩子们上学难的问题。然而，修路工程因须砍伐苗寨“生命树林”而遭寨民抵制，合唱团参赛之路亦受阻。冯吉组织线上家长会，告诉众人孩子们才是真正的生命延续。最终勇敢女孩合唱团登上省城舞台，两年后，大桥贯通杜柳江，少女们飞奔过桥奔向未来。",
-      "releaseDate": "2026-10-20",
-      "backdropPath": "/rF9zfnJncKGoSnONdlGE2dTcuyz.jpg",
-      "posterPath": "/zBu2EmW39MTg4yOEXPgK8dsepP2.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "音乐, 剧情"
-    },
-    {
       "id": 299534,
       "type": "tmdb",
       "title": "复仇者联盟4：终局之战",
@@ -314,6 +288,19 @@
       "genreTitle": "冒险, 科幻"
     },
     {
+      "id": 1502135,
+      "type": "tmdb",
+      "title": "密档",
+      "originalTitle": "密档",
+      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
+      "releaseDate": "2026-08-28",
+      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
+      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 悬疑"
+    },
+    {
       "id": 1288445,
       "type": "tmdb",
       "title": "怒之杀",
@@ -322,7 +309,7 @@
       "releaseDate": "2026-08-19",
       "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.605,
+      "rating": 7.612,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -353,19 +340,6 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1387772,
-      "type": "tmdb",
-      "title": "侦战",
-      "originalTitle": "偵戰",
-      "description": "一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
-      "posterPath": "/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 动作"
-    },
-    {
       "id": 1748007,
       "type": "tmdb",
       "title": "牛来",
@@ -390,6 +364,32 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1658524,
+      "type": "tmdb",
+      "title": "怪屋",
+      "originalTitle": "怪屋",
+      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
+      "releaseDate": "2026-09-04",
+      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
+      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
+      "rating": 3,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1770952,
+      "type": "tmdb",
+      "title": "喂喂喂，足球队",
+      "originalTitle": "喂喂喂，足球队",
+      "description": "2024年，全国盲人足球锦标赛上，出现了中国有史以来最年轻的一支队伍——新疆盲人足球队，平均年龄15岁。  两年前，他们还是新疆莎车县一所特殊学校里喜欢足球却踢不到的视障孩子。上海盲人足球队教练张健驱车千里来选拔，四个孩子第一次离开家乡。从上海回来后，他们萌生了一个念头：新疆，也可以有自己的盲人足球队。没有经费，没有场地，没有教练——这支草根队伍几度面临散掉。是孩子们一遍遍踢下去，让更多人最终看见了他们。磕磕绊绊之中，新疆第一支盲人足球队仓促成立，这群几乎没经历过系统性训练的娃娃，就这样被推上了全国赛场。",
+      "releaseDate": "2026-10-15",
+      "backdropPath": null,
+      "posterPath": "/66gSAoE0Ne1faHY7lNALKmMJynd.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 1670314,
@@ -418,17 +418,30 @@
       "genreTitle": "爱情, 奇幻"
     },
     {
-      "id": 1770952,
+      "id": 362682,
       "type": "tmdb",
-      "title": "喂喂喂，足球队",
-      "originalTitle": "喂喂喂，足球队",
-      "description": "2024年，全国盲人足球锦标赛上，出现了中国有史以来最年轻的一支队伍——新疆盲人足球队，平均年龄15岁。  两年前，他们还是新疆莎车县一所特殊学校里喜欢足球却踢不到的视障孩子。上海盲人足球队教练张健驱车千里来选拔，四个孩子第一次离开家乡。从上海回来后，他们萌生了一个念头：新疆，也可以有自己的盲人足球队。没有经费，没有场地，没有教练——这支草根队伍几度面临散掉。是孩子们一遍遍踢下去，让更多人最终看见了他们。磕磕绊绊之中，新疆第一支盲人足球队仓促成立，这群几乎没经历过系统性训练的娃娃，就这样被推上了全国赛场。",
-      "releaseDate": "2026-10-15",
-      "backdropPath": null,
-      "posterPath": "/66gSAoE0Ne1faHY7lNALKmMJynd.jpg",
-      "rating": 0,
+      "title": "夏洛特烦恼",
+      "originalTitle": "夏洛特烦恼",
+      "description": "人到中年的夏洛事业无成，一直靠妻子马冬梅维持生活。参加学生时代暗恋的校花秋雅的婚礼时，看着昔日同学一个个事业有成，他虚荣心作祟，在酒后大闹婚礼，与马冬梅发生激烈冲突。混乱过后，夏洛竟意外回到了1997年的学生时代。面对重新来过的人生，他决定弥补曾经的遗憾，不仅大胆追求秋雅，还凭借对未来的记忆一步步改变自己的命运。曾经遥不可及的爱情、名声与成功似乎都变得唾手可得，然而当梦想中的人生逐渐成为现实，夏洛也开始发现，得到自己曾经渴望的一切，并不一定意味着真正的幸福……",
+      "releaseDate": "2015-09-30",
+      "backdropPath": "/2cbFleQnWLXFVDvn4vkV7lovSJI.jpg",
+      "posterPath": "/zaDitWyV81WOg2tiujj6kxEFYtZ.jpg",
+      "rating": 7.121,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "爱情, 喜剧"
+    },
+    {
+      "id": 1724637,
+      "type": "tmdb",
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
+      "releaseDate": "2026-08-07",
+      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
+      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
+      "rating": 6.7,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 动画"
     },
     {
       "id": 1761217,
@@ -457,45 +470,6 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
-      "id": 1724637,
-      "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
-      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
-      "rating": 6.7,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 动画"
-    },
-    {
-      "id": 362682,
-      "type": "tmdb",
-      "title": "夏洛特烦恼",
-      "originalTitle": "夏洛特烦恼",
-      "description": "人到中年的夏洛事业无成，一直靠妻子马冬梅维持生活。参加学生时代暗恋的校花秋雅的婚礼时，看着昔日同学一个个事业有成，他虚荣心作祟，在酒后大闹婚礼，与马冬梅发生激烈冲突。混乱过后，夏洛竟意外回到了1997年的学生时代。面对重新来过的人生，他决定弥补曾经的遗憾，不仅大胆追求秋雅，还凭借对未来的记忆一步步改变自己的命运。曾经遥不可及的爱情、名声与成功似乎都变得唾手可得，然而当梦想中的人生逐渐成为现实，夏洛也开始发现，得到自己曾经渴望的一切，并不一定意味着真正的幸福……",
-      "releaseDate": "2015-09-30",
-      "backdropPath": "/2cbFleQnWLXFVDvn4vkV7lovSJI.jpg",
-      "posterPath": "/zaDitWyV81WOg2tiujj6kxEFYtZ.jpg",
-      "rating": 7.121,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 喜剧"
-    },
-    {
-      "id": 1339597,
-      "type": "tmdb",
-      "title": "水东游",
-      "originalTitle": "水东游",
-      "description": "一场由十二年前地震引发的余震，让火车司机小李和童年产生了某种时空连接。多年后的一场同学聚会，让小李重逢他的小学同学宋倩。聚会后，小李在河边，用父亲离开前送他的相机，似乎拍到了童年时的某个伙伴。过去似幽灵般再度回归，当年父亲失踪的秘密，和一场河边捉迷藏引发意外的记忆被逐渐唤起。在流淌的河水中，小李面临着记忆的再度到访，以及对当下生活的抉择。",
-      "releaseDate": "2026-09-23",
-      "backdropPath": "/rB1jLSESS65ZnQudGiWRB7QOdSL.jpg",
-      "posterPath": "/kFwknbq5DIqhh5LxXoI3Vm23cL0.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 奇幻"
-    },
-    {
       "id": 592402,
       "type": "tmdb",
       "title": "大熊雨林",
@@ -517,7 +491,7 @@
       "releaseDate": "2026-07-23",
       "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.3,
+      "rating": 8.283,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -535,17 +509,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1760508,
+      "id": 1269644,
       "type": "tmdb",
-      "title": "正义必胜",
-      "originalTitle": "正义必胜",
-      "description": "影片以纪念中国人民抗日战争暨世界反法西斯战争胜利80周年文艺晚会《正义必胜》为纪录对象和表现载体，分《怒吼吧，黄河》《红星照耀中国》《不可战胜的力量》《共同的黎明》《正义永恒》五个章节，用戏剧表演、歌舞、朗诵等形式，艺术化呈现中国人民赢得的那场伟大胜利。",
-      "releaseDate": "2026-09-03",
-      "backdropPath": null,
-      "posterPath": "/6TU1Z0GGldytyl39zIttaFYqOZu.jpg",
-      "rating": 0,
+      "title": "阿姆鲁姆",
+      "originalTitle": "Amrum",
+      "description": "该片以1945年春第二次世界大战的最后几周为背景，围绕着10岁的楠宁展开，他的父亲正在前线作战。他竭尽全力帮助母亲养家糊口，捕猎海豹、夜间捕鱼以及在田间劳作。然而，期盼已久的和平带来了全新的冲突，楠宁不得不寻找自己的人生道路",
+      "releaseDate": "2025-10-09",
+      "backdropPath": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
+      "posterPath": "/yrFHlsSa5bK2LrV0oN6xpdodyBI.jpg",
+      "rating": 7.196,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "剧情, 战争"
     },
     {
       "id": 921937,
