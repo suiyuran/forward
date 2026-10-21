@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-20T19:47:58.039Z",
+  "time": "2026-10-21T19:53:29.484Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2022-04-09",
         "backdropPath": "/4ixh7PNNWd1VaohzKD7pcP33SiN.jpg",
         "posterPath": "/hHAieX1kcUIMi7KmOT3RtGQdBK8.jpg",
-        "rating": 7.8,
+        "rating": 7.815,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
-        "rating": 9.733,
+        "rating": 9.699,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -399,7 +399,7 @@
       {
         "id": 306565,
         "type": "tmdb",
-        "title": "DARK MACHINE THE ANIMATION",
+        "title": "黑暗机器",
         "originalTitle": "DARK MACHINE THE ANIMATION",
         "description": "在世界范围内拥有压倒性人气的电竞项目“Dark Machine”让人们为之狂热，甚至改变了日本的经济体系。日本唯一被指定为“Dark Machine”经济特区的城市——黄金谷。君临其顶点的，是继承了“Dark Machine”最强玩家称号“千鬼”、第七代“千鬼”阿吉玛。阿吉玛通过“Dark Machine”成为了黄金谷的实际统治者。主人公海里将亡故祖父的遗言“去找千鬼”铭记于心来到了黄金谷，偶然遇到了正被阿吉玛手下“阿流堕美瑠”追捕的少女鲁朵拉。海里被卷入其中，成为了“Dark Machine”的玩家，在经历了数次激战后，他的才能逐渐绽放。海里能否与“千鬼”对峙，并开辟自己的命运——以“Dark Machine”顶点为目标，海里的战斗现在开始。",
         "releaseDate": "2026-10-14",
@@ -417,8 +417,8 @@
         "description": "夜之城每一季都有新故事，也总有一群特立独行的新角色登场，讲述属于他们的传奇。",
         "releaseDate": "2022-09-13",
         "backdropPath": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
-        "posterPath": "/kL0jycZo9QAIhempGbsb88uw1E1.jpg",
-        "rating": 8.49,
+        "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
+        "rating": 8.491,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -444,7 +444,7 @@
         "releaseDate": "2026-10-06",
         "backdropPath": "/9V4zVVKqy7g2n6Vxts2DmXxuPiU.jpg",
         "posterPath": "/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
-        "rating": 8,
+        "rating": 7.25,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
       },
@@ -563,7 +563,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
         "posterPath": "/aWTfsoyRQNKxvI2EOLOEPKyxDqr.jpg",
-        "rating": 7.2,
+        "rating": 7.17,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -602,7 +602,7 @@
         "releaseDate": "2020-10-31",
         "backdropPath": "/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
         "posterPath": "/2amGMjIx3kXNUIFPVZZBVBTu6PS.jpg",
-        "rating": 7.5,
+        "rating": 7.551,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -788,7 +788,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 9.128,
+        "rating": 9.125,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -814,7 +814,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.655,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -866,7 +866,7 @@
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
         "posterPath": "/510e9ZkzWiUHab3skyuvWzjXWmN.jpg",
-        "rating": 8.957,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -879,7 +879,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.2,
+        "rating": 8.195,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -920,7 +920,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/mCfswh8wgMW8rzUrSEdviUGu5Ax.jpg",
-        "rating": 8.019,
+        "rating": 8.009,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -1050,7 +1050,7 @@
         "releaseDate": "2026-10-03",
         "backdropPath": "/qPJ7HP6w73k3FzsYsvnKHMfil8M.jpg",
         "posterPath": "/9ifgbxI7iCw6BhNx1IihJzoYb7c.jpg",
-        "rating": 10,
+        "rating": 9.667,
         "mediaType": "tv",
         "genreTitle": "动画, 儿童"
       },
