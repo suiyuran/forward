@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-21T22:50:00.219Z",
+  "time": "2026-10-22T22:48:51.642Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-        "rating": 7.295,
+        "rating": 7.297,
         "mediaType": "movie",
         "genreTitle": "恐怖, 科幻"
       },
@@ -24,9 +24,22 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.384,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
+      },
+      {
+        "id": 1490581,
+        "type": "tmdb",
+        "title": "风暴",
+        "originalTitle": "Cyclone",
+        "description": "1919年圣保罗，排字女工辛克隆想实现戏剧理想，拿到巴黎奖学金时意外怀孕。她没钱只能冒险非法堕胎，在压抑女性的社会里坚持表达自我。",
+        "releaseDate": "2025-12-04",
+        "backdropPath": "/6PYJCr2rXlraJYKJRhkzclRKvD6.jpg",
+        "posterPath": "/ibTDvIECEGqtGs5xUnh7smoqVtu.jpg",
+        "rating": 7.5,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
       },
       {
         "id": 1242876,
@@ -50,7 +63,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 7.134,
+        "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -77,6 +90,19 @@
         "backdropPath": "/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
         "posterPath": "/PUEqI3ITwcQY8vZ9XpxlGoyyUc.jpg",
         "rating": 6.2,
+        "mediaType": "movie",
+        "genreTitle": "纪录"
+      },
+      {
+        "id": 1525646,
+        "type": "tmdb",
+        "title": "隐迹之书：重写自我",
+        "originalTitle": "Palimpsest: The Story of a Name",
+        "description": "资深剪辑师雪美莲总疑惑自己为何拥有“史蒂芬”这个洋姓。她翻查父亲留下的笔记、家庭影像与老照片，追索家族隐秘往事，在殖民历史与多重叙事中探寻身份、记忆与自我重构。",
+        "releaseDate": "2026-04-17",
+        "backdropPath": "/leXpzubyd9VGDFFqaw9h3Go8YTa.jpg",
+        "posterPath": "/vCe8BRIU8P3ZNMLPeLpJwROaKZk.jpg",
+        "rating": 8.2,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -113,7 +139,7 @@
         "type": "tmdb",
         "title": "余红旧事",
         "originalTitle": "余红旧事",
-        "description": "改编自班宇小说《于洪》。20世纪90年代，东北一座没落的工业小城接连发生荒诞离奇的命案。冻成冰雕的酒鬼、惨遭断肢的壮汉、人间蒸发的地头蛇，看似毫无关联的案件，背后却交织着小人物的命运与情感。",
+        "description": "一片广场上发生一连串荒诞命案——冻成冰雕的酒鬼，惨被断肢的壮汉，人间蒸发的地头蛇……看似毫无关联，实则命运环环相扣，情感彼此纠葛。",
         "releaseDate": "2026-09-29",
         "backdropPath": "/6RKO6EX15uF0locEPHzvm4Za43n.jpg",
         "posterPath": "/gQuFRZI5AhEpyuX93SvfY5sgGfP.jpg",
@@ -130,9 +156,35 @@
         "releaseDate": "2026-09-11",
         "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
         "posterPath": "/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg",
-        "rating": 7.875,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "剧情, 家庭"
+      },
+      {
+        "id": 289078,
+        "type": "tmdb",
+        "title": "我不是大师",
+        "originalTitle": "我不是大师",
+        "description": "上官诚明全家惨遭天相派设局灭门，他化名潜伏，以牙还牙，以眼还眼，用连环骗局反噬仇敌，一路揭露骗术黑幕，最终瓦解天相派，解救受控者，惩恶扬善终彰善念。",
+        "releaseDate": "2026-09-24",
+        "backdropPath": "/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
+        "posterPath": "/sGxyz6BCOpbn9rKxqCfrW2yBOkX.jpg",
+        "rating": 6.8,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
+        "id": 294486,
+        "type": "tmdb",
+        "title": "交锋",
+        "originalTitle": "交锋",
+        "description": "一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合，为了共同的使命与信仰并肩作战。",
+        "releaseDate": "2026-09-06",
+        "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
+        "posterPath": "/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+        "rating": 7.5,
+        "mediaType": "tv",
+        "genreTitle": "悬疑"
       },
       {
         "id": 290863,
@@ -152,10 +204,10 @@
         "type": "tmdb",
         "title": "地狱大状",
         "originalTitle": "地獄大狀",
-        "description": "仇人多过亲人的大状邱荫荫突然被袭晕倒，醒来时发现自己已在阴间之中。閰罗王宣布她做事太阴骘，折寿四十年，以三十岁之龄香消玉殒！罪孽甚重的她被拉去地狱受刑之际，居然遇上已死富翁石松向閰王买起荫荫，让她重返阳间当其律师，确保其遗产依照遗愿分配！ 死过翻生的荫荫化身「地狱大状」，除了被鬼上身外，还不断穿梭阴阳两界，以死者角度见证争产的光怪陆离，亲历活人把死人激到「从棺材弹起」的荒谬情景，到底遗产的意义，是祝福，或是诅咒？ 除了要帮鬼打官司外，荫荫亦要找出杀她的凶手，努力化解以前累积的孽障，以换取留在阳间更多时间。向来嗜财如命，与人关系疏离，把所有感情都变成交易的荫荫，经历各种追悔莫及的生死相隔后，也想重新好好做人，好好恋爱，可惜发现自己已时间无多…",
+        "description": "仇人多过亲人的大律师邱荫荫突然遇袭，醒来后发现自己身处阴间。阎罗王判她折寿四十年，已故富翁石松却出手助她还阳，委托她处理遗产。成为“地狱大状”的她穿梭阴阳两界，为鬼魂打官司、追查自己的遇袭真相，并重新审视生死、亲情与爱情。",
         "releaseDate": "2026-10-05",
-        "backdropPath": "/7pbqHaPuVAWhsxUOHa8yZl0EGah.jpg",
-        "posterPath": "/aTKfKmNyjQmUd3QOcWFY06oxu8a.jpg",
+        "backdropPath": "/zK09u5Fp5vg0FWxRz2JGdkfUFZ6.jpg",
+        "posterPath": "/4DRZKOwpwqqdyyttHj6PSsSnBHZ.jpg",
         "rating": 0,
         "mediaType": "tv",
         "genreTitle": "剧情"
@@ -262,7 +314,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
         "posterPath": "/mi6MY0MHWSGulv9mjn5kTn0Kocf.jpg",
-        "rating": 8.714,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -280,6 +332,19 @@
         "genreTitle": "动作冒险, 剧情"
       },
       {
+        "id": 95480,
+        "type": "tmdb",
+        "title": "Slow Horses",
+        "originalTitle": "Slow Horses",
+        "description": "这群被军情五处弃用的特工被迫踏上逃亡之路，戴安娜·塔弗纳将他们卷入一场赌上性命的高风险报复与复仇博弈。",
+        "releaseDate": "2026-09-16",
+        "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+        "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
+        "rating": 8.2,
+        "mediaType": "tv",
+        "genreTitle": "犯罪, 剧情"
+      },
+      {
         "id": 288673,
         "type": "tmdb",
         "title": "魔女嘉莉",
@@ -288,9 +353,22 @@
         "releaseDate": "2026-10-07",
         "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
         "posterPath": "/xobpaz7TiODcuGhT9dvENFhhVGw.jpg",
-        "rating": 8.328,
+        "rating": 8.3,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
+      },
+      {
+        "id": 108255,
+        "type": "tmdb",
+        "title": "万物生灵",
+        "originalTitle": "All Creatures Great & Small",
+        "description": "1946年，战争结束后的达罗比迎来新的时代。詹姆斯、海伦和孩子们回到这里，斯凯代尔庄园也迎来新的变化；一位新兽医的出现，让詹姆斯和法农兄弟面对新的挑战。",
+        "releaseDate": "2026-09-17",
+        "backdropPath": "/jDBtipccngWA9UcSKoTMnMFz3PA.jpg",
+        "posterPath": "/l4ILps4izoFtPZccwtM5rxTByk3.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
       },
       {
         "id": 294636,
