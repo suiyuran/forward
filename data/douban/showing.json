@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-21T20:27:51.872Z",
+  "time": "2026-10-22T20:25:50.477Z",
   "data": [
     {
       "id": 1423191,
@@ -10,22 +10,48 @@
       "releaseDate": "2026-09-16",
       "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.295,
+      "rating": 7.297,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
     },
     {
-      "id": 1255833,
+      "id": 1303034,
       "type": "tmdb",
-      "title": "鲸口脱险",
-      "originalTitle": "Whalefall",
-      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
-      "releaseDate": "2026-10-14",
-      "backdropPath": "/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
-      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "rating": 6.5,
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿内莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为内莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "releaseDate": "2025-09-17",
+      "backdropPath": "/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "posterPath": "/t4g9u7Fbx5ttPJmXmrqDQ7bSidr.jpg",
+      "rating": 8,
       "mediaType": "movie",
-      "genreTitle": "惊悚"
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1726805,
+      "type": "tmdb",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "releaseDate": "2026-10-23",
+      "backdropPath": null,
+      "posterPath": "/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
+    },
+    {
+      "id": 1732799,
+      "type": "tmdb",
+      "title": "象行记",
+      "originalTitle": "象行记",
+      "description": "影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
+      "releaseDate": "2026-10-23",
+      "backdropPath": "/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
+      "posterPath": "/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 1308545,
@@ -39,6 +65,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1255833,
+      "type": "tmdb",
+      "title": "鲸口脱险",
+      "originalTitle": "Whalefall",
+      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
+      "releaseDate": "2026-10-14",
+      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
+      "rating": 6.518,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
     },
     {
       "id": 1439171,
@@ -62,9 +101,22 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.382,
+      "rating": 7.384,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
+    },
+    {
+      "id": 1086176,
+      "type": "tmdb",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+      "posterPath": "/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动作"
     },
     {
       "id": 1563608,
@@ -106,6 +158,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1782347,
+      "type": "tmdb",
+      "title": "三星堆：未来往事",
+      "originalTitle": "三星堆：未来往事",
+      "description": "在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
+      "releaseDate": "2026-10-23",
+      "backdropPath": "/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
+      "posterPath": "/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动画"
+    },
+    {
       "id": 1089598,
       "type": "tmdb",
       "title": "敦煌英雄",
@@ -127,22 +192,9 @@
       "releaseDate": "2011-03-27",
       "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.109,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 1391021,
-      "type": "tmdb",
-      "title": "欢迎来龙餐馆",
-      "originalTitle": "欢迎来龙餐馆",
-      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
-      "releaseDate": "2026-08-08",
-      "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-      "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "rating": 8.9,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
     },
     {
       "id": 1740363,
@@ -158,30 +210,17 @@
       "genreTitle": "音乐, 剧情"
     },
     {
-      "id": 1086176,
+      "id": 1391021,
       "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
-      "posterPath": "/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "rating": 0,
+      "title": "欢迎来龙餐馆",
+      "originalTitle": "欢迎来龙餐馆",
+      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
+      "releaseDate": "2026-08-08",
+      "backdropPath": "/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
+      "posterPath": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+      "rating": 8.9,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 动作"
-    },
-    {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落2：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "releaseDate": "2026-09-01",
-      "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 7.269,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
+      "genreTitle": "剧情, 战争"
     },
     {
       "id": 1368337,
@@ -195,6 +234,19 @@
       "rating": 8.015,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
+    },
+    {
+      "id": 1101412,
+      "type": "tmdb",
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "releaseDate": "2026-09-01",
+      "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "rating": 7.289,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
     },
     {
       "id": 278,
@@ -218,7 +270,7 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.175,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -249,19 +301,6 @@
       "genreTitle": "喜剧, 动画"
     },
     {
-      "id": 1801310,
-      "type": "tmdb",
-      "title": "武汉任务",
-      "originalTitle": "武汉任务",
-      "description": "1938 年武汉，江汉路怂包巡警水哥刘得水一心只想守护着弟妹活下去，却被一具尸体、两箱拿错的货、一群不要命的街坊，硬生生推成了掀翻汉奸阴谋的关键棋子。当真相一层一层剥开，情况比他想象的更黑……",
-      "releaseDate": "2026-10-10",
-      "backdropPath": "/sXkXBAkgtVspVLTEIpD5s3qMh4P.jpg",
-      "posterPath": "/bf9qKcxKdYJJ9fJkXFNfDjSE25b.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
-    },
-    {
       "id": 1678102,
       "type": "tmdb",
       "title": "死亡禁区实录",
@@ -283,9 +322,22 @@
       "releaseDate": "2019-04-24",
       "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "rating": 8.246,
+      "rating": 8.247,
       "mediaType": "movie",
       "genreTitle": "冒险, 科幻"
+    },
+    {
+      "id": 1288445,
+      "type": "tmdb",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "rating": 7.609,
+      "mediaType": "movie",
+      "genreTitle": "动作, 惊悚"
     },
     {
       "id": 1502135,
@@ -299,45 +351,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1288445,
-      "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.612,
-      "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
-    },
-    {
-      "id": 1778310,
-      "type": "tmdb",
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "description": "为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": null,
-      "posterPath": "/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 1444590,
-      "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "releaseDate": "2026-09-05",
-      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "rating": 5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1748007,
@@ -364,6 +377,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1778310,
+      "type": "tmdb",
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "description": "为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": null,
+      "posterPath": "/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1658524,
@@ -405,17 +431,17 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 1716541,
+      "id": 1724637,
       "type": "tmdb",
-      "title": "我想留在你身边",
-      "originalTitle": "我想留在你身边",
-      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
-      "releaseDate": "2026-09-12",
-      "backdropPath": "/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
-      "posterPath": "/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
-      "rating": 4,
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
+      "releaseDate": "2026-08-07",
+      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
+      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
+      "rating": 6.7,
       "mediaType": "movie",
-      "genreTitle": "爱情, 奇幻"
+      "genreTitle": "爱情, 动画"
     },
     {
       "id": 362682,
@@ -431,32 +457,6 @@
       "genreTitle": "爱情, 喜剧"
     },
     {
-      "id": 1724637,
-      "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
-      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
-      "rating": 6.7,
-      "mediaType": "movie",
-      "genreTitle": "爱情, 动画"
-    },
-    {
-      "id": 1761217,
-      "type": "tmdb",
-      "title": "蝉衣",
-      "originalTitle": "蝉衣",
-      "description": "五姐妹的中阿莲在临死前，希望自己穿上越南的衣服（奥黛）下葬。在葬礼上，主角北江红偷偷给死者换上越南的衣服，这一行为冒犯了瑶族人族规。北江红被丈夫（瑶族村长）当众打了一个耳光。已经年近60岁的北江红，独自一人来到石门台高山上生活。女儿阿知上山劝母亲下山,因受伤困在山上。电影主要讲述了阿知在高山上与母亲一起生活时，揭开了母亲北江红不为人知的身世和往事......",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/oNs5Z2kROR7xtPsZVnMYJc3A9hl.jpg",
-      "posterPath": "/duMVbadqFNiHCVTmW1U4QSjxXqD.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1655500,
       "type": "tmdb",
       "title": "床下有人4",
@@ -468,6 +468,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "悬疑, 惊悚"
+    },
+    {
+      "id": 1716541,
+      "type": "tmdb",
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "releaseDate": "2026-09-12",
+      "backdropPath": "/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "posterPath": "/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "rating": 4,
+      "mediaType": "movie",
+      "genreTitle": "爱情, 奇幻"
     },
     {
       "id": 592402,
@@ -491,9 +504,22 @@
       "releaseDate": "2026-07-23",
       "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.283,
+      "rating": 8.3,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
+    },
+    {
+      "id": 1057888,
+      "type": "tmdb",
+      "title": "落叶球",
+      "originalTitle": "ხმელი ფოთოლი",
+      "description": "摄影师丽莎突然失踪。最后的线索指向她拍摄过的七个足球场——它们散落在格鲁吉亚七个偏远村庄。父亲伊拉克利踏遍这些球场寻女，丽莎的挚友、如幽灵般的列瓦尼悄然加入搜寻。每当球场更迭，相遇的村民与他们的故事便如走马灯般轮转。看似荒诞的旅程里暗涌渐起：每踏过一片坑洼的草场，每穿过 一座寂静村庄，找到丽莎的希望便如晨雾般日渐稀薄。",
+      "releaseDate": "2026-03-20",
+      "backdropPath": "/pXmrvH0CUHLFEvEbDodiJ57RLTd.jpg",
+      "posterPath": "/fCbXztJ5vAmVB6gXue2aN1cOLhz.jpg",
+      "rating": 7.3,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 奇幻"
     },
     {
       "id": 1666219,
@@ -517,9 +543,87 @@
       "releaseDate": "2025-10-09",
       "backdropPath": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
       "posterPath": "/yrFHlsSa5bK2LrV0oN6xpdodyBI.jpg",
-      "rating": 7.196,
+      "rating": 7.194,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
+    },
+    {
+      "id": 1616782,
+      "type": "tmdb",
+      "title": "Was an Empfindsamkeit bleibt",
+      "originalTitle": "Was an Empfindsamkeit bleibt",
+      "description": "",
+      "releaseDate": "2026-05-14",
+      "backdropPath": "/5uNNclxRCPNu1flJAgjYg3D9geu.jpg",
+      "posterPath": "/fIae7JNZWC1pmAvFqT0D6cizmbb.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1480424,
+      "type": "tmdb",
+      "title": "Karla",
+      "originalTitle": "Karla",
+      "description": "",
+      "releaseDate": "2025-10-02",
+      "backdropPath": "/ztwFWXeYnDQ9JQ57aRBnOoC6Sh.jpg",
+      "posterPath": "/iRQGmMuxgKRPlLK0LoFgIwxBFSC.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1404124,
+      "type": "tmdb",
+      "title": "她们的狂想曲",
+      "originalTitle": "Die miserable Mutter",
+      "description": "一位被家务困住的年轻母亲、一个永远长不大的\"彼得·潘\"式的男友，以及一个刚出生的婴儿。仙女下凡、婴儿开口说话、天使现身，超现实的奇幻元素在歌舞之中接连登场。本片融汇经典歌舞片的美学语言：有雅克·德米《瑟堡的雨伞》式的梦幻底色，也有香特尔·阿克曼《金色80年代》对肥皂剧程 式的大胆挪用与结构。导演苏珊娜·海因里希将当代社交媒体语言融入其中，编织出一场流光溢彩的当代歌舞奇观。而在欢歌笑舞之下，是一位母亲寻找自我边界的内心旅程。本片为导演苏珊娜·海因里希计划“三部曲”中的第二部。她的长片首作《忧郁女孩》（2019）曾荣获马克斯·奥菲尔斯电影节最佳影片奖，备受瞩目。",
+      "releaseDate": "2026-06-14",
+      "backdropPath": "/3QxIbvQVtRrzdX3GErI7XZxioZ6.jpg",
+      "posterPath": "/sIPBDqARVC2sVZpG0ayf043M89T.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
+    },
+    {
+      "id": 1616184,
+      "type": "tmdb",
+      "title": "Ich verstehe Ihren Unmut",
+      "originalTitle": "Ich verstehe Ihren Unmut",
+      "description": "",
+      "releaseDate": "2026-06-04",
+      "backdropPath": "/lSWrowSCSbistjOc1WRqN8tT74U.jpg",
+      "posterPath": "/iXrLk4RYQVApzB9V4VE6ip5GPmV.jpg",
+      "rating": 7.875,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1599204,
+      "type": "tmdb",
+      "title": "When Pigs Fly",
+      "originalTitle": "When Pigs Fly",
+      "description": "",
+      "releaseDate": "2026-03-14",
+      "backdropPath": "/nunK3ZGm2ufg8OH4UkD1wj3CJgT.jpg",
+      "posterPath": "/vdmB7SpYyzOlZzM0jeB3jJbj9Bx.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 921937,
@@ -535,15 +639,15 @@
       "genreTitle": ""
     },
     {
-      "id": 1147747,
+      "id": 1028378,
       "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
       "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "纪录"
     },
@@ -585,19 +689,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
-    },
-    {
-      "id": 1028378,
-      "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
-      "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     }
   ]
 }
