@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-25T20:15:38.841Z",
+  "time": "2026-10-26T22:10:13.105Z",
   "data": {
     "爱奇艺·迷雾剧场": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-29",
         "backdropPath": "/6RKO6EX15uF0locEPHzvm4Za43n.jpg",
         "posterPath": "/gQuFRZI5AhEpyuX93SvfY5sgGfP.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "犯罪"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2025-10-11",
         "backdropPath": "/lM5xhjqe1tqKoj7zJVtKto1Npg4.jpg",
         "posterPath": "/rDlV8qvLuN27ZqUdqNYj6YFK1Yi.jpg",
-        "rating": 8.133,
+        "rating": 8.1,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -232,7 +232,7 @@
         "releaseDate": "2023-12-21",
         "backdropPath": "/8PkKQcA53Zb9fEojItVfpeDLxsX.jpg",
         "posterPath": "/55akiT10951gxxaRuCEzgXNzznF.jpg",
-        "rating": 7.917,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -362,7 +362,7 @@
         "releaseDate": "2020-09-16",
         "backdropPath": "/kZwfEXUD3OoxSf2wcUzsnltg06L.jpg",
         "posterPath": "/wU5L7mZA0Yy764D1WPP2403d0MG.jpg",
-        "rating": 8.523,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "剧情, 悬疑"
       },
@@ -442,7 +442,7 @@
         "releaseDate": "2026-04-26",
         "backdropPath": "/x31KOFBrL65fnVfohGrKJCbPynk.jpg",
         "posterPath": "/qUhPr2XpczJpnQnXIqJjYaCxOli.jpg",
-        "rating": 7.667,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "犯罪, 悬疑"
       },
@@ -652,7 +652,7 @@
         "releaseDate": "2023-08-18",
         "backdropPath": "/5na03bGMQCeElR1NdRBKrYSgLus.jpg",
         "posterPath": "/whb14No4uwpHWkWYQC5Pf4IYfLW.jpg",
-        "rating": 7.583,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -1031,7 +1031,7 @@
         "releaseDate": "2023-04-22",
         "backdropPath": "/rCm6BJkkPukfHYWNNx7WkGpCdZH.jpg",
         "posterPath": "/tJLiKDYdfMskFkJXV1HnaQAdpGf.jpg",
-        "rating": 8.861,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "犯罪, 剧情"
       }
