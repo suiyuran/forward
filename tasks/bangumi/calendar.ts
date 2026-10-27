@@ -18,8 +18,11 @@ const SEASON_REGEXP =
 const SPECIAL_PARTS = [
   "TV剪辑版",
   "TV Edition",
+  "迷你动画剧场",
+  "ミニアニメ劇場",
   "迷你动画",
   "ミニアニメ",
+  "ちょいたし",
   "万圣节特别集",
   "Halloween Special",
   "〜再次闪耀！〜",

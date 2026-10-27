@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-26T20:52:02.538Z",
+  "time": "2026-10-27T03:26:03.081Z",
   "data": {
     "星期日": [
       {
@@ -289,6 +289,19 @@
         "genreTitle": "动画"
       },
       {
+        "id": 335790,
+        "type": "tmdb",
+        "title": "黑暗召唤师在地下恋爱中",
+        "originalTitle": "ダークサモナーとデキている",
+        "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——驱使恶魔之力的美丽暗黑召唤师·阿莫娜。圣洁与邪恶，人类与亚人。本以为这两人会水火不容、势同水火，却在入队的第一天早晨，就发生了关系……！？揣着这个不可告人的秘密，他们与性格各异的队友们，以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！背德与心动相互交织。亚人少女×神官少年，奇幻欢喜冤家恋爱喜剧，正式开幕！",
+        "releaseDate": "2026-10-05",
+        "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
+        "posterPath": "/c9Fe03wMgDxY88RpKLTeG20OSGW.jpg",
+        "rating": 9.3,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
+      },
+      {
         "id": 236534,
         "type": "tmdb",
         "title": "牧神记",
@@ -297,7 +310,7 @@
         "releaseDate": "2024-10-27",
         "backdropPath": "/3XYx3pQh2sKRnc9CI9tY7UU2SPv.jpg",
         "posterPath": "/jPHitNQ1fuKK6aPZ6eCPiFq9XhG.jpg",
-        "rating": 7.789,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       }
@@ -393,6 +406,19 @@
         "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "动画, 恐怖"
+      },
+      {
+        "id": 320909,
+        "type": "tmdb",
+        "title": "萤火虫的出嫁",
+        "originalTitle": "ホタルの嫁入り",
+        "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
+        "releaseDate": "2026-10-09",
+        "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
+        "posterPath": "/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
+        "rating": 9.7,
+        "mediaType": "tv",
+        "genreTitle": "动画, 剧情"
       }
     ],
     "星期二": [
@@ -524,7 +550,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.8,
+        "rating": 8.754,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -814,7 +840,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.7,
+        "rating": 8.662,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -879,7 +905,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.1,
+        "rating": 8.113,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -999,6 +1025,19 @@
         "backdropPath": "/d63e5W3rWWuMIDcrUgmZTauMbna.jpg",
         "posterPath": "/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
         "rating": 9.2,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
+      },
+      {
+        "id": 301139,
+        "type": "tmdb",
+        "title": "僵尸搜寻中",
+        "originalTitle": "#ゾンビさがしてます",
+        "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
+        "releaseDate": "2026-10-03",
+        "backdropPath": "/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+        "posterPath": "/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },

@@ -141,7 +141,7 @@ export async function findTMDBResultsByIMDBId(imdbId: string, type: string) {
 
 export async function searchTMDBResultsResponse(type: string, query: string, year: string): Promise<TMDBSearchResults> {
   const TMDB_API_KEY = Deno.env.get("TMDB_API_KEY");
-  const url = `https://api.themoviedb.org/3/search/${type}?include_adult=false&language=zh-CN&page=1&query=${query}&year=${year}`;
+  const url = `https://api.themoviedb.org/3/search/${type}?include_adult=false&language=zh-CN&page=1&query=${encodeURIComponent(query)}&year=${year}`;
   const headers = {
     Accept: "application/json",
     Authorization: `Bearer ${TMDB_API_KEY}`,
