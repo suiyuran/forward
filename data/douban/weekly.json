@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-26T23:24:12.801Z",
+  "time": "2026-10-27T23:16:15.203Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
         "posterPath": "/l1Jj0SAqdlbEwSWa8Ags31D5WiZ.jpg",
-        "rating": 8.3,
+        "rating": 8.329,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.894,
+        "rating": 6.823,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
@@ -59,11 +59,11 @@
         "type": "tmdb",
         "title": "逃出布迪秀",
         "originalTitle": "Buddy",
-        "description": "一行人意外坠入诡异老式儿童节目次元。画风酷似玛卡巴卡，软萌橙色独角兽巴迪主持欢乐秀场。一旦拒绝配合演出，便会惨遭猎杀，死者还会被节目直接替换。众人被困虚假片场，一边躲避玩偶的疯狂追杀，一边拼死寻找逃出电视空间的出路。",
+        "description": "1999年，一群患有失忆症的孩童生活在儿童电视节目《巴迪秀》的世界中。节目由专横残暴的巴迪主持，他是一只胸前有紫色爱心、全身亮橘色的人形独角兽，居住在充满奇想的俱乐部中。当其中一名孩童失踪后，其余孩子开始反抗这名囚禁他们的主持人，巴迪则咬牙切齿，将他们送上前往传说中钻石城的危险旅程。另一方面，在现实世界中，饱受创伤的郊区母亲葛蕾丝（克里斯汀·米利欧缇 饰）也逐渐被卷入巴迪所带来的骇人异象。",
         "releaseDate": "2026-08-27",
         "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 7.043,
+        "rating": 7.036,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -74,9 +74,9 @@
         "originalTitle": "Resident Evil",
         "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
         "releaseDate": "2026-09-16",
-        "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "backdropPath": "/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
         "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-        "rating": 7.3,
+        "rating": 7.317,
         "mediaType": "movie",
         "genreTitle": "恐怖, 科幻"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.336,
+        "rating": 7.333,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/hMKAPLiacrrqRXlHGMyyIosfjzr.jpg",
         "posterPath": "/d1dOOWaPUSw6nqMmng0H4oHgyzj.jpg",
-        "rating": 6,
+        "rating": 6.039,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       }
@@ -247,7 +247,7 @@
         "releaseDate": "2026-07-29",
         "backdropPath": "/oLG0Smu4GB4OBVmydd2qxejDF82.jpg",
         "posterPath": "/4PR2COQG4DYJMC60RhURgSIlYtp.jpg",
-        "rating": 9,
+        "rating": 7.333,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
-        "rating": 9.5,
+        "rating": 9.444,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -353,7 +353,7 @@
         "releaseDate": "2026-10-07",
         "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
         "posterPath": "/xobpaz7TiODcuGhT9dvENFhhVGw.jpg",
-        "rating": 8.309,
+        "rating": 8.291,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
