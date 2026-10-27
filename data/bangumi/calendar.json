@@ -1,20 +1,7 @@
 {
-  "time": "2026-10-27T03:26:03.081Z",
+  "time": "2026-10-27T20:23:09.916Z",
   "data": {
     "星期日": [
-      {
-        "id": 283692,
-        "type": "tmdb",
-        "title": "一觉醒来就有了最强装备跟太空船，决定以自家独栋建筑为目标当佣兵自由过活",
-        "originalTitle": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
-        "description": "身为上班族的佐藤孝弘每天都过着无趣又劳累的生活。然而某天醒来时，他发现自己身处平时最爱玩的SF游戏世界里，而且还坐在搭载最强装备的宇宙飞船玤驾驶舱里。不仅可以去冒险，也可以贸易，甚至成为佣兵。掌握了这个宇宙的最强装备的孝弘决定改名为“西罗”，并以这个身分活下去。“我是西罗舰长，是一名佣兵。”后来，西罗遇到了其他伙伴，并在一次又一次的战斗中察觉到——在外太空喝不到自己唯一喜欢的碳酸饮料。而且，他没有一个能和伙伴们一起回去的家。因此，虽然价格高得惊人，但他下定决心要“在行星上买一栋附带庭院的独栋住宅”！就这样，西罗带着最强的装备与伙伴们展开了他的佣兵生涯。",
-        "releaseDate": "2026-10-04",
-        "backdropPath": "/xqil5t29q1k6reedUlMy4nYd9f7.jpg",
-        "posterPath": "/ccLkKM9nZ4eR2ZjDg2vpOCInZro.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "动画, 动作冒险"
-      },
       {
         "id": 207347,
         "type": "tmdb",
@@ -37,7 +24,7 @@
         "releaseDate": "2023-07-05",
         "backdropPath": "/7uyRCBMQIWwJSWIR2aCrvPjbPzi.jpg",
         "posterPath": "/u9pBZpb3WPERvDKZbkGYcSAoPsu.jpg",
-        "rating": 8.3,
+        "rating": 8.272,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -115,7 +102,7 @@
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
-        "rating": 9.657,
+        "rating": 9.651,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -364,7 +351,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
         "posterPath": "/lWiO7BNH31GOxTFFUOa2fMviFTr.jpg",
-        "rating": 8.3,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -444,7 +431,7 @@
         "releaseDate": "2022-09-13",
         "backdropPath": "/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
         "posterPath": "/kL0jycZo9QAIhempGbsb88uw1E1.jpg",
-        "rating": 8.505,
+        "rating": 8.507,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -504,12 +491,12 @@
         "id": 312850,
         "type": "tmdb",
         "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
-        "originalTitle": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
+        "originalTitle": "凶乱令嬢ニア‧リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
         "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
         "releaseDate": "2026-10-06",
         "backdropPath": "/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
         "posterPath": "/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
-        "rating": 7.714,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -628,7 +615,7 @@
         "releaseDate": "2020-10-31",
         "backdropPath": "/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
         "posterPath": "/2amGMjIx3kXNUIFPVZZBVBTu6PS.jpg",
-        "rating": 7.5,
+        "rating": 7.566,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -788,7 +775,7 @@
         "releaseDate": "2021-04-11",
         "backdropPath": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
         "posterPath": "/nXsAZCWvsuN2GoGKE2GM625nKx.jpg",
-        "rating": 8.403,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -814,7 +801,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 9.1,
+        "rating": 9.105,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -840,7 +827,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.662,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -878,8 +865,8 @@
         "description": "全世界有20亿人游玩的超人气VR游戏《SATISFY》。\n\n　　在这个游戏内获得的财富与名声也会影响现实世界的背景下，\n\n　　长岭巧以玩家名“贪婪”为名，目标是摆脱平淡无奇的日常，实现人生逆袭。\n\n　　某天，贪婪在完成一项超高难度任务后，\n\n　　获得了传说级道具，并转职成为传说中的锻造工匠“法格玛的后裔”。\n\n　　虽然等级归零、装备几乎等于全裸，一切要从头开始——但……\n\n　　“既然打不到强力的装备，那就自己造！”\n\n　　贪婪既贪婪又工于算计，却也有着古怪的毅力和重情义的一面。\n\n　　他凭借制作装备的力量，开始剧烈撼动《SATISFY》的世界。\n\n　　一无所有者创造传说，\n\n　　逆袭成王幻想剧，开幕！",
         "releaseDate": "2026-10-02",
         "backdropPath": "/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
-        "posterPath": "/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
-        "rating": 7,
+        "posterPath": "/brqnKFqqKoG4i3nRYhmnvqGib1W.jpg",
+        "rating": 7.375,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -905,7 +892,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.113,
+        "rating": 8.127,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -985,7 +972,7 @@
         "releaseDate": "2026-10-03",
         "backdropPath": "/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
         "posterPath": "/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
-        "rating": 7.7,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1011,7 +998,7 @@
         "releaseDate": "2017-10-03",
         "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
         "posterPath": "/fneujgbpcmX92mywDf30cvk1s7q.jpg",
-        "rating": 8.5,
+        "rating": 8.524,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1024,7 +1011,7 @@
         "releaseDate": "2026-10-10",
         "backdropPath": "/d63e5W3rWWuMIDcrUgmZTauMbna.jpg",
         "posterPath": "/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
-        "rating": 9.2,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1033,10 +1020,10 @@
         "type": "tmdb",
         "title": "僵尸搜寻中",
         "originalTitle": "#ゾンビさがしてます",
-        "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
+        "description": "“这是认错人了…… 不对，是认错僵尸了。”距离那场导致九成人类感染身亡的神秘传染病爆发的“猩红之日”，已经过去了十三年。幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，她和青梅竹马的夏树、春一同逃出了村落。踏出村子后，放眼望去遍地都是僵尸。可即便如此，人生中第一次感受到的“外界”，却如此辽阔、鲜活，又充满美好。途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启。",
         "releaseDate": "2026-10-03",
         "backdropPath": "/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
-        "posterPath": "/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+        "posterPath": "/7yEn75Zku75ZAt2RtxntLf9S5So.jpg",
         "rating": 8,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
