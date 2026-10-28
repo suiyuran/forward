@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-27T23:16:15.203Z",
+  "time": "2026-10-28T23:40:09.516Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
         "posterPath": "/l1Jj0SAqdlbEwSWa8Ags31D5WiZ.jpg",
-        "rating": 8.329,
+        "rating": 8.337,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -33,11 +33,11 @@
         "type": "tmdb",
         "title": "害群之马",
         "originalTitle": "Bad Apples",
-        "description": "小学老师玛利亚尽力管教一班10岁孩子，却被一名不守规矩的学生拖累。随着自身事业承压、该生行为愈发恶劣，她做出错误决定，意外将这名学生带回并锁在家中。玛利亚本想反悔，可班级情况逐渐好转，同事和家长都为此欣喜，她就此陷入两难困境。",
+        "description": "小学老师玛利亚（西尔莎·罗南 饰）倾尽所能管理一班10岁的小孩，但由于一个不守规矩没秩序的学生无法做到，随着她的事业产生问题以及小孩愈发恶化的行为，玛利亚做出了一系列糟糕的决定，导致她意外把这个害群之马带回并锁在了家里。玛丽亚极度想要改变主意，但当班级开始往好的方向发展，教职员工和家长都为这种改善感到兴奋后，她发现自己陷入了一个非常复杂的困境。",
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.823,
+        "rating": 6.847,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 7.036,
+        "rating": 7,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -74,9 +74,9 @@
         "originalTitle": "Resident Evil",
         "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
         "releaseDate": "2026-09-16",
-        "backdropPath": "/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
+        "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-        "rating": 7.317,
+        "rating": 7.318,
         "mediaType": "movie",
         "genreTitle": "恐怖, 科幻"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.333,
+        "rating": 7.326,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-10-02",
         "backdropPath": "/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
         "posterPath": "/PUEqI3ITwcQY8vZ9XpxlGoyyUc.jpg",
-        "rating": 6.5,
+        "rating": 6.452,
         "mediaType": "movie",
         "genreTitle": "纪录"
       },
@@ -128,12 +128,25 @@
         "releaseDate": "2026-06-10",
         "backdropPath": "/hMKAPLiacrrqRXlHGMyyIosfjzr.jpg",
         "posterPath": "/d1dOOWaPUSw6nqMmng0H4oHgyzj.jpg",
-        "rating": 6.039,
+        "rating": 6,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       }
     ],
     "剧集·国内": [
+      {
+        "id": 289080,
+        "type": "tmdb",
+        "title": "蒸蒸日上",
+        "originalTitle": "蒸蒸日上",
+        "description": "烟火气十足的东北某城，女律师萧龙女因坚持正义离开高端律所，在大众浴池楼上创办律师事务所，与伙伴组成草根律师团队，为普通百姓处理各类民生纠纷。",
+        "releaseDate": "2026-10-10",
+        "backdropPath": "/mj31Fi0rza3NfKhVRfBJDwRJy1w.jpg",
+        "posterPath": "/jzGDCMFErqM8Ceus8BNbyK8bzic.jpg",
+        "rating": 7.8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
       {
         "id": 301494,
         "type": "tmdb",
@@ -146,6 +159,19 @@
         "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "犯罪"
+      },
+      {
+        "id": 279923,
+        "type": "tmdb",
+        "title": "醉梦",
+        "originalTitle": "醉梦",
+        "description": "以千禧年企业改革为背景，记者沈乐水重返拉城，通过镜头串联起啤酒厂十余年的兴衰变迁，揭开女工刘雪梅等一系列死亡事件背后交织的权欲阴谋。",
+        "releaseDate": "2026-10-16",
+        "backdropPath": "/sQi1ZDSvFEslAEKn5QHfx5zKbIt.jpg",
+        "posterPath": "/3GNpPFZM6cuLMJCpuOFY0sgxHwf.jpg",
+        "rating": 6,
+        "mediaType": "tv",
+        "genreTitle": "悬疑, 犯罪"
       },
       {
         "id": 282326,
@@ -161,6 +187,19 @@
         "genreTitle": "剧情, 家庭"
       },
       {
+        "id": 304862,
+        "type": "tmdb",
+        "title": "地狱大状",
+        "originalTitle": "地獄大狀",
+        "description": "仇人多过亲人的大律师邱荫荫突然遇袭，醒来后发现自己身处阴间。阎罗王判她折寿四十年，已故富翁石松却出手助她还阳，委托她处理遗产。成为“地狱大状”的她穿梭阴阳两界，为鬼魂打官司、追查自己的遇袭真相，并重新审视生死、亲情与爱情。",
+        "releaseDate": "2026-10-05",
+        "backdropPath": "/zK09u5Fp5vg0FWxRz2JGdkfUFZ6.jpg",
+        "posterPath": "/4DRZKOwpwqqdyyttHj6PSsSnBHZ.jpg",
+        "rating": 6,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 289078,
         "type": "tmdb",
         "title": "我不是大师",
@@ -174,41 +213,15 @@
         "genreTitle": "剧情, 悬疑"
       },
       {
-        "id": 294486,
+        "id": 300146,
         "type": "tmdb",
-        "title": "交锋",
-        "originalTitle": "交锋",
-        "description": "一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合，为了共同的使命与信仰并肩作战。",
-        "releaseDate": "2026-09-06",
-        "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
-        "posterPath": "/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "悬疑"
-      },
-      {
-        "id": 290863,
-        "type": "tmdb",
-        "title": "冬城猎凶",
-        "originalTitle": "冬城猎凶",
-        "description": "刑警李豫京被借调协助女警岳晴川侦办系列儿童拐卖案，调查中意外发现与自己13年前经手的持械抢劫案有关的线索。两人携手跨越13年，展开双时间线追凶。",
-        "releaseDate": "2026-09-10",
-        "backdropPath": "/28u4q3fPzXmbyf3BoiWweUOuuzj.jpg",
-        "posterPath": "/oCXm0csr9PMkJGOTxDDYduK9AbO.jpg",
-        "rating": 7.4,
-        "mediaType": "tv",
-        "genreTitle": "犯罪"
-      },
-      {
-        "id": 304862,
-        "type": "tmdb",
-        "title": "地狱大状",
-        "originalTitle": "地獄大狀",
-        "description": "仇人多过亲人的大律师邱荫荫突然遇袭，醒来后发现自己身处阴间。阎罗王判她折寿四十年，已故富翁石松却出手助她还阳，委托她处理遗产。成为“地狱大状”的她穿梭阴阳两界，为鬼魂打官司、追查自己的遇袭真相，并重新审视生死、亲情与爱情。",
-        "releaseDate": "2026-10-05",
-        "backdropPath": "/zK09u5Fp5vg0FWxRz2JGdkfUFZ6.jpg",
-        "posterPath": "/4DRZKOwpwqqdyyttHj6PSsSnBHZ.jpg",
-        "rating": 8,
+        "title": "嫁金钗",
+        "originalTitle": "嫁金钗",
+        "description": "改编自笑佳人的同名小说。阿丑因容貌酷似侯府千金，意外成为国公府世子陆濯的冲喜新娘。陆濯苏醒后对她百般提防，另一名与她容貌相同的女子也对她恨之入骨。身处危机四伏的国公府，阿丑步步谋划，逐渐改写命运，并揭开身世之谜。",
+        "releaseDate": "2026-10-16",
+        "backdropPath": "/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+        "posterPath": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -226,46 +239,85 @@
         "genreTitle": "悬疑"
       },
       {
-        "id": 301489,
+        "id": 298546,
         "type": "tmdb",
-        "title": "深渊无间",
-        "originalTitle": "深渊无间",
-        "description": "深渊无间（别名：深渊），2026年刑侦悬疑剧，共16集，刘海波执导，改编自深蓝小说《深渊》。\n\n一篇名为《深渊》的推理网文突然上线，小说里的作案细节，竟然和多年前警方封存的“312悬案”高度吻合，包含只有凶手与办案警察才知晓的隐秘线索。新人刑警李成潜入当地网吧卧底调查，结识了网吧老板韩品木。韩品木气质温和，身份却充满谜团，正是这篇悬疑小说的幕后发布者，也是当年旧案受害者家属，身患绝症，多年暗中追查真凶。\n\n李成与刑侦队长赵干哲、退休老刑警辛吉然联手重启尘封八年的悬案。小城之内人人藏有秘密，多方嫌疑人互相博弈。随着调查深入，层层揭开旧案背后交织的亲情、恩怨与人性抉择，在正义与私刑的边界之间，探寻深渊之下的残酷真相。",
-        "releaseDate": "2026-09-09",
-        "backdropPath": "/s9YSQAJtXjimsjBVsqLtJNnIjEs.jpg",
-        "posterPath": "/b9ngtGNgaHBbLihRrT0MsPRY0GW.jpg",
-        "rating": 8.7,
+        "title": "新手上路",
+        "originalTitle": "新手上路",
+        "description": "孩子被歹徒绑架后，心力交瘁新手妈妈张如意加入了一支由黑帮分子、鬼魂和神祗组成的奇特队伍，展开了一场疯狂的营救行动。",
+        "releaseDate": "2026-10-18",
+        "backdropPath": "/8XzT2RtggYp9qfASQfEX83Os45P.jpg",
+        "posterPath": "/98fuNR9VzQ3bqFxK2FzEgbskfuB.jpg",
+        "rating": 8.5,
         "mediaType": "tv",
-        "genreTitle": "悬疑, 剧情"
+        "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
       {
-        "id": 306672,
+        "id": 294446,
         "type": "tmdb",
-        "title": "日落下的彩虹",
-        "originalTitle": "日落下的彩虹",
-        "description": "七个发生在彩虹邨的感人故事。这些故事描绘了不同的情感和遗憾，反映了香港人对公共屋邨的深厚情感。随着故事中人物的交集，每个故事都在提醒观众，这个标志性的屋邨正走向终结。",
-        "releaseDate": "2026-07-29",
-        "backdropPath": "/oLG0Smu4GB4OBVmydd2qxejDF82.jpg",
-        "posterPath": "/4PR2COQG4DYJMC60RhURgSIlYtp.jpg",
-        "rating": 7.333,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 299952,
-        "type": "tmdb",
-        "title": "早春晴朗",
-        "originalTitle": "早春晴朗",
-        "description": "这是一段十年交锋，敬于才华，合于性格、久于平等的禁忌之恋。北漂伊始的尚之桃与极具天赋的“鬼才”栾念狭路相逢。热烈勇敢的尚之桃亦步亦趋地蜕变成长，撬碎了栾念世故坚硬的心防，互相吸引的二人在都市丛林中极限拉扯、分分合合。爱情，就是用光所有勇气，再无遗憾。爱，则是互相修复，共同成长。但情和爱之间，她选择生存。当她独当一面，他收敛锋芒，势均力敌的他们将会为彼此写下了新的结局……",
-        "releaseDate": "2026-08-26",
-        "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-        "posterPath": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-        "rating": 8.2,
+        "title": "美人余",
+        "originalTitle": "美人余",
+        "description": "江浙沪独生女、互联网博主余梦是万众称羡的“好命女人”。结婚五周年之际，她幸福完美的生活泡沫却被一举击破，不仅和“模范赘婿”美满的婚姻出现裂痕，还面临被吸血“吃绝户”的重重危机。在朋友们的帮助下，余梦重新审视自己的人生，夺回主动权。",
+        "releaseDate": "2026-10-09",
+        "backdropPath": "/6Iha7gx0lTdrv6x7dECtjB8YnLA.jpg",
+        "posterPath": "/gw7w4ssut616YOIRRMdy0d7JfkL.jpg",
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
     ],
     "剧集·国外": [
+      {
+        "id": 108255,
+        "type": "tmdb",
+        "title": "万物生灵",
+        "originalTitle": "All Creatures Great & Small",
+        "description": "1946年，战争结束后的达罗比迎来新的时代。詹姆斯、海伦和孩子们回到这里，斯凯代尔庄园也迎来新的变化；一位新兽医的出现，让詹姆斯和法农兄弟面对新的挑战。",
+        "releaseDate": "2026-09-17",
+        "backdropPath": "/jDBtipccngWA9UcSKoTMnMFz3PA.jpg",
+        "posterPath": "/l4ILps4izoFtPZccwtM5rxTByk3.jpg",
+        "rating": 0,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 213375,
+        "type": "tmdb",
+        "title": "幻视任务",
+        "originalTitle": "VisionQuest",
+        "description": "幻视在重启后隐姓埋名，逃避企图把他变成武器的人。为了寻找生命的新意义，他开始与植入体内的AI对话，包括星期五、伊迪丝、贾维斯…甚至恶名昭彰的奥创。他低调的生活被一笔悬赏令终结，迫使他与神秘少年托马斯·谢泼德踏上逃亡之路，而这少年可能是他儿子的化身。在逃避追捕的同时，幻视必须面对自己，抵抗奥创的影响，并揭开年轻同伴的谜团。",
+        "releaseDate": "2026-10-13",
+        "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+        "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
+        "rating": 8.631,
+        "mediaType": "tv",
+        "genreTitle": "Sci-Fi & Fantasy, 剧情"
+      },
+      {
+        "id": 300527,
+        "type": "tmdb",
+        "title": "有人刚好提起我吗？",
+        "originalTitle": "俺のこと、なんか言ってた？",
+        "description": "故事的主角是高濑川玄，他是首位在伦敦莎士比亚环球剧院担纲主演的日本演员。一直未能返回日本的他，两年后终于踏上归途，却遭遇了渴望成名之人最大的悲剧：全世界突然彻底忘记了他的存在！\n\n失去名声、家庭和财富后，他还能重返聚光灯下吗？这部喜剧讲述了一个执着于获得认可的男人，在人生被迫“归零”后，如何努力东山再起、重新赢回属于自己的舞台。",
+        "releaseDate": "2026-10-22",
+        "backdropPath": "/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
+        "posterPath": "/l0YkFVmSt1LgsiraDXBgp3OFJ2k.jpg",
+        "rating": 8.5,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 120911,
+        "type": "tmdb",
+        "title": "The Terminal List",
+        "originalTitle": "The Terminal List",
+        "description": "本剧改编自小说《真信徒》，第二季中，完成了复仇名单的詹姆斯·里斯，正在寻找新的人生方向，但当中情局把他逼入绝境时，他必须阻止一个卷土重来的恐怖组织来洗清自己的罪名，该组织已经策反了一名盟友。在这个以全球为背景的谍战惊悚剧集中，里斯将揭开一场从莫斯科延伸至兰利、甚至牵扯到他自身家族历史的阴谋。",
+        "releaseDate": "2026-10-21",
+        "backdropPath": "/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
+        "posterPath": "/5r3QqV3CMOoVJ4XH6C6ntUMtKr8.jpg",
+        "rating": 8.3,
+        "mediaType": "tv",
+        "genreTitle": "动作冒险, 剧情"
+      },
       {
         "id": 293610,
         "type": "tmdb",
@@ -275,22 +327,9 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
-        "rating": 9.444,
+        "rating": 9.3,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
-      },
-      {
-        "id": 301418,
-        "type": "tmdb",
-        "title": "现在不是出轨的问题",
-        "originalTitle": "지금 불륜이 문제가 아닙니다",
-        "description": "这是一部黑色喜剧，讲述了一对因出卖家庭而走红的网红夫妇，以及一对正在经历混乱离婚诉讼的邻居医生夫妇，随着他们卷入一个无法控制的秘密，一系列冲突不断升级，甚至连婚外情都显得微不足道。",
-        "releaseDate": "2026-07-31",
-        "backdropPath": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
-        "posterPath": "/jQ9mNZfvnGzXIedlT5IpBVhAzUi.jpg",
-        "rating": 8.3,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 喜剧"
       },
       {
         "id": 283319,
@@ -327,61 +366,9 @@
         "releaseDate": "2026-10-10",
         "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
         "posterPath": "/xNE0eyVaBy4vfj2K8EjjmHR6Xbb.jpg",
-        "rating": 9.4,
+        "rating": 9.375,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
-      },
-      {
-        "id": 95480,
-        "type": "tmdb",
-        "title": "Slow Horses",
-        "originalTitle": "Slow Horses",
-        "description": "这群被军情五处弃用的特工被迫踏上逃亡之路，戴安娜·塔弗纳将他们卷入一场赌上性命的高风险报复与复仇博弈。",
-        "releaseDate": "2026-09-16",
-        "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-        "posterPath": "/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-        "rating": 8.2,
-        "mediaType": "tv",
-        "genreTitle": "犯罪, 剧情"
-      },
-      {
-        "id": 288673,
-        "type": "tmdb",
-        "title": "魔女嘉莉",
-        "originalTitle": "Carrie",
-        "description": "父亲的突然离世迫使嘉莉进入到了残酷的公立高中，她不得不面对席卷社区的校园霸凌丑闻、社交媒体时代无情的压力和冷酷无情，以及伴随青春期而觉醒的神秘心灵感应能力。",
-        "releaseDate": "2026-10-07",
-        "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-        "posterPath": "/xobpaz7TiODcuGhT9dvENFhhVGw.jpg",
-        "rating": 8.291,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 剧情"
-      },
-      {
-        "id": 108255,
-        "type": "tmdb",
-        "title": "万物生灵",
-        "originalTitle": "All Creatures Great & Small",
-        "description": "1946年，战争结束后的达罗比迎来新的时代。詹姆斯、海伦和孩子们回到这里，斯凯代尔庄园也迎来新的变化；一位新兽医的出现，让詹姆斯和法农兄弟面对新的挑战。",
-        "releaseDate": "2026-09-17",
-        "backdropPath": "/jDBtipccngWA9UcSKoTMnMFz3PA.jpg",
-        "posterPath": "/l4ILps4izoFtPZccwtM5rxTByk3.jpg",
-        "rating": 0,
-        "mediaType": "tv",
-        "genreTitle": "剧情, 喜剧"
-      },
-      {
-        "id": 294636,
-        "type": "tmdb",
-        "title": "中头奖还是要上班",
-        "originalTitle": "로또 1등도 출근합니다",
-        "description": "这是一部办公室剧，讲述了普通销售员孔恩泰的故事。他中了梦寐以求的彩票大奖，并将之视为“我心灵的可靠保险”，因此今天上班的心态与昨天截然不同。",
-        "releaseDate": "2026-09-10",
-        "backdropPath": "/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
-        "posterPath": "/iit1tcgJFXlsrBoif3G1HLJFAXs.jpg",
-        "rating": 7.4,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       }
     ]
   }
