@@ -9,6 +9,10 @@ const CONFIG = {
       headerPath: "widgets/vod/src/vod.ffzy.js",
       outputPath: "widgets/vod/ffzy.js",
     },
+    {
+      headerPath: "widgets/vod/src/vod.xgzy.js",
+      outputPath: "widgets/vod/xgzy.js",
+    },
   ],
 };
 
