@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-27T21:08:10.757Z",
+  "time": "2026-10-28T21:32:01.205Z",
   "data": [
     {
       "id": 1303034,
@@ -15,19 +15,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1726805,
-      "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "releaseDate": "2026-10-23",
-      "backdropPath": null,
-      "posterPath": "/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
-      "rating": 4,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
-    },
-    {
       "id": 1782347,
       "type": "tmdb",
       "title": "三星堆：未来往事",
@@ -41,15 +28,28 @@
       "genreTitle": "科幻, 动画"
     },
     {
+      "id": 1726805,
+      "type": "tmdb",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "releaseDate": "2026-10-23",
+      "backdropPath": null,
+      "posterPath": "/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "rating": 4,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
+    },
+    {
       "id": 1423191,
       "type": "tmdb",
       "title": "生化危机：爆发夜",
       "originalTitle": "Resident Evil",
       "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
       "releaseDate": "2026-09-16",
-      "backdropPath": "/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
+      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.317,
+      "rating": 7.321,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
     },
@@ -80,28 +80,15 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1477104,
-      "type": "tmdb",
-      "title": "小羊肖恩3：怪兽来袭",
-      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "description": "青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
-      "releaseDate": "2026-09-17",
-      "backdropPath": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-      "posterPath": "/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
-      "rating": 7.329,
-      "mediaType": "movie",
-      "genreTitle": "动画, 科幻"
-    },
-    {
       "id": 1567937,
       "type": "tmdb",
       "title": "空枪",
       "originalTitle": "空枪",
-      "description": "20世纪90年代初，欲望之城秩序崩坏，犯罪丛生。打工仔万梓强结识空姐骆嘉苑后，两人联手劫取巨额钱款。随着野心膨胀，万梓强与富商陈辉延陷入角力，内地与香港警方也联手展开调查，正邪较量一触即发。",
+      "description": "20世纪90年代初，“遍地黄金”的香港秩序崩坏，犯罪丛生。打工仔万梓强（朱一龙 饰）一心想改写命运，在结识空姐骆嘉苑（卫诗雅 饰）后，两人联手作案，劫取巨额钱款。万梓强得手后愈发疯狂，也将他与富商陈辉延（梁家辉 饰）推向了更深的角力漩涡中。与此同时，内地警察亓宏刚（檀健次 饰）和香港警察关苏辰（李施嬅 饰）坚持对万梓强进行调查，最终他在两地警方的联合打击下走向覆灭。",
       "releaseDate": "2026-08-19",
       "backdropPath": "/mm8VecTY7YxWevgS8F2ygqLMAiv.jpg",
       "posterPath": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
-      "rating": 6.583,
+      "rating": 6.6,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -114,9 +101,22 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.333,
+      "rating": 7.326,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
+    },
+    {
+      "id": 1477104,
+      "type": "tmdb",
+      "title": "小羊肖恩3：怪兽来袭",
+      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "description": "青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
+      "releaseDate": "2026-09-17",
+      "backdropPath": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "posterPath": "/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
+      "rating": 7.329,
+      "mediaType": "movie",
+      "genreTitle": "动画, 科幻"
     },
     {
       "id": 1086176,
@@ -145,32 +145,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1732799,
-      "type": "tmdb",
-      "title": "象行记",
-      "originalTitle": "象行记",
-      "description": "影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
-      "releaseDate": "2026-10-23",
-      "backdropPath": "/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
-      "posterPath": "/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1255833,
-      "type": "tmdb",
-      "title": "鲸口脱险",
-      "originalTitle": "Whalefall",
-      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
-      "releaseDate": "2026-10-14",
-      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "rating": 6.626,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
-    },
-    {
       "id": 1503023,
       "type": "tmdb",
       "title": "重生2",
@@ -182,6 +156,32 @@
       "rating": 5.3,
       "mediaType": "movie",
       "genreTitle": "剧情, 动作"
+    },
+    {
+      "id": 1255833,
+      "type": "tmdb",
+      "title": "鲸口脱险",
+      "originalTitle": "Whalefall",
+      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
+      "releaseDate": "2026-10-14",
+      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
+      "rating": 6.6,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
+    },
+    {
+      "id": 1732799,
+      "type": "tmdb",
+      "title": "象行记",
+      "originalTitle": "象行记",
+      "description": "影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
+      "releaseDate": "2026-10-23",
+      "backdropPath": "/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
+      "posterPath": "/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 1766670,
@@ -218,22 +218,22 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
       "posterPath": "/qUj1aMFRkS51qxtT2klYYoEhxbq.jpg",
-      "rating": 8.015,
+      "rating": 8,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
     {
-      "id": 1761217,
+      "id": 1089598,
       "type": "tmdb",
-      "title": "蝉衣",
-      "originalTitle": "蝉衣",
-      "description": "五姐妹的中阿莲在临死前，希望自己穿上越南的衣服（奥黛）下葬。在葬礼上，主角北江红偷偷给死者换上越南的衣服，这一行为冒犯了瑶族人族规。北江红被丈夫（瑶族村长）当众打了一个耳光。已经年近60岁的北江红，独自一人来到石门台高山上生活。女儿阿知上山劝母亲下山,因受伤困在山上。电影主要讲述了阿知在高山上与母亲一起生活时，揭开了母亲北江红不为人知的身世和往事......",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
       "releaseDate": "2026-09-25",
-      "backdropPath": "/oNs5Z2kROR7xtPsZVnMYJc3A9hl.jpg",
-      "posterPath": "/duMVbadqFNiHCVTmW1U4QSjxXqD.jpg",
+      "backdropPath": "/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
+      "posterPath": "/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "动作, 历史"
     },
     {
       "id": 1740363,
@@ -249,19 +249,6 @@
       "genreTitle": "音乐, 剧情"
     },
     {
-      "id": 1089598,
-      "type": "tmdb",
-      "title": "敦煌英雄",
-      "originalTitle": "敦煌英雄",
-      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
-      "posterPath": "/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动作, 历史"
-    },
-    {
       "id": 1339713,
       "type": "tmdb",
       "title": "痴迷",
@@ -270,48 +257,22 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.169,
+      "rating": 8.168,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 1807718,
+      "id": 1761217,
       "type": "tmdb",
-      "title": "逐浪之文圣常",
-      "originalTitle": "逐浪之文圣常",
-      "description": "影片讲述了20世纪40至60年代，青年文圣常第一次见到梦寐以求的海洋，并被海浪蕴藏的巨大能量深深折服，从此开启探索海浪奥秘的故事，再现了以文圣常先生为代表的老一辈海洋科技工作者勇立潮头、谋海济国的精神风范。",
-      "releaseDate": "2026-10-22",
-      "backdropPath": "/utgpMCbWrieBhLGuezPiaExbPhV.jpg",
-      "posterPath": "/kh5hlRs4CPWG3yUrkvQlkG5vt4k.jpg",
+      "title": "蝉衣",
+      "originalTitle": "蝉衣",
+      "description": "五姐妹的中阿莲在临死前，希望自己穿上越南的衣服（奥黛）下葬。在葬礼上，主角北江红偷偷给死者换上越南的衣服，这一行为冒犯了瑶族人族规。北江红被丈夫（瑶族村长）当众打了一个耳光。已经年近60岁的北江红，独自一人来到石门台高山上生活。女儿阿知上山劝母亲下山,因受伤困在山上。电影主要讲述了阿知在高山上与母亲一起生活时，揭开了母亲北江红不为人知的身世和往事......",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/oNs5Z2kROR7xtPsZVnMYJc3A9hl.jpg",
+      "posterPath": "/duMVbadqFNiHCVTmW1U4QSjxXqD.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 历史"
-    },
-    {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "releaseDate": "2011-03-27",
-      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.1,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落2：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "贾克斯（哈里特·斯莱特 饰）因为姐妹亨特的去世悲痛不已，她与亨特的友人卢斯（阿塞玛·托马斯 饰）重聚，为治愈内心伤痛一起去到泰国著名的山脉徒步。在泰国封闭30多年的关山山脉，海拔超900米的高空魔鬼栈道，此前已发生多起高空坠落事件，是当地公认的“死亡禁区”。但一起突然的山体滑坡让她们被困在了一段摇摇欲坠的11000英尺（约3400米）高的栈道上。悬崖边缘贾克斯等人在断裂的栈道与钢筋之间艰难前行，脚下是深不见底的峡谷，每迈出一步都像是在向生机靠近，也随时可能跌入绝境。贾克斯拼尽全力攀爬在悬崖边缘，绝壁之上，她们不知能否成功生还。",
-      "releaseDate": "2026-09-01",
-      "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 7.301,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
+      "genreTitle": "剧情"
     },
     {
       "id": 278,
@@ -327,45 +288,6 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1288445,
-      "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.61,
-      "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
-    },
-    {
-      "id": 1650896,
-      "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇·完美假期",
-      "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
-      "posterPath": "/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 动画"
-    },
-    {
-      "id": 1678102,
-      "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "releaseDate": "2026-09-11",
-      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
-    },
-    {
       "id": 553,
       "type": "tmdb",
       "title": "狗镇",
@@ -379,56 +301,17 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 21058,
+      "id": 1807718,
       "type": "tmdb",
-      "title": "小城之春",
-      "originalTitle": "小城之春",
-      "description": "在一个小城里，年轻少妇周玉纹与丈夫戴礼言过着平淡无味的生活。礼言在战争中失去了家产，也失去了面对现实的勇气，终日郁郁寡欢。夫妻之间相敬如宾，实则已没有感情可言。这沉闷的生活被从外面闯入小城的青年医生章志忱打破。他是礼言分别八年的朋友，也是玉纹过去的情人。礼言的妹妹戴秀喜欢上了志忱，而志忱拒绝了她。志忱的心里还装着玉纹。但他心里很矛盾。当年他与玉纹未结婚是因为玉纹母亲的阻挠，现在玉纹母亲死了，玉纹又有了丈夫。玉纹虽对丈夫尽职尽责，但心里却想着志忱，为此，她觉得对不起丈夫礼言。而礼言却决定成全他们两个，他吞了安眠药想自尽，后被抢救过来。经过了这一番感情波折，玉纹重新认识了自己与丈夫戴礼言的感情，她选择了与丈夫重新生活，而志忱也决定离开小城。一个春日的早晨，周玉纹、戴礼言还有妹妹戴秀在城头上为章志忱送行。他们目送志忱向外面的世界走去。",
-      "releaseDate": "1948-02-01",
-      "backdropPath": "/cr5fnofjFTKoUwgbyHzeZdkYMz4.jpg",
-      "posterPath": "/eCtv3xw44b3eUE2LGTgmfmQopKf.jpg",
-      "rating": 7.2,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1748007,
-      "type": "tmdb",
-      "title": "牛来",
-      "originalTitle": "牛来",
-      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
-      "releaseDate": "2026-08-05",
-      "backdropPath": "/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
-      "posterPath": "/kOzUhvsHq7Thcj3nZLgrghOZagq.jpg",
-      "rating": 4.3,
-      "mediaType": "movie",
-      "genreTitle": "家庭, 动画"
-    },
-    {
-      "id": 49964,
-      "type": "tmdb",
-      "title": "何处是我朋友的家",
-      "originalTitle": "خانه‌ی دوست کجاست؟",
-      "description": "伊朗的偏僻山村小学里，一群孩子在课堂里聆听老师讲课。在检查作业的时候，老师发现穆罕德屡次没有完成家庭作业，于是严厉地批评了他，说如若再犯立马开除。老师对学生强调这是帮助他们树立良好的规矩。当天放学后，小男孩阿穆德却赫然发现自己把同桌穆罕德的作业本带回了家。听懂了老师的谆谆善诱，所以阿穆德明白这作业本就是穆罕德继续听讲的凭证。为了把作业本还给同桌，阿穆德曾希望母亲和祖父可以施以援手，但是均告失败。所以，他只能孤身前行，到对面大山里的村落去寻找同桌，归还作业本。然而，由于不认识同桌的家，所以他处处碰壁，遭遇到了无法想象的艰难险阻……",
-      "releaseDate": "1987-07-01",
-      "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
-      "posterPath": "/qULkpJ4fq9wbtautj4Jq4PFc0W5.jpg",
-      "rating": 7.928,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 冒险"
-    },
-    {
-      "id": 1616157,
-      "type": "tmdb",
-      "title": "上海女儿",
-      "originalTitle": "上海女儿",
-      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
-      "releaseDate": "2026-09-19",
-      "backdropPath": "/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
-      "posterPath": "/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
+      "title": "逐浪之文圣常",
+      "originalTitle": "逐浪之文圣常",
+      "description": "影片讲述了20世纪40至60年代，青年文圣常第一次见到梦寐以求的海洋，并被海浪蕴藏的巨大能量深深折服，从此开启探索海浪奥秘的故事，再现了以文圣常先生为代表的老一辈海洋科技工作者勇立潮头、谋海济国的精神风范。",
+      "releaseDate": "2026-10-22",
+      "backdropPath": "/utgpMCbWrieBhLGuezPiaExbPhV.jpg",
+      "posterPath": "/kh5hlRs4CPWG3yUrkvQlkG5vt4k.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "剧情, 历史"
     },
     {
       "id": 11368,
@@ -444,30 +327,30 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
-      "id": 1303336,
+      "id": 1101412,
       "type": "tmdb",
-      "title": "落凡尘",
-      "originalTitle": "落凡尘",
-      "description": "织女因擅离职守而获罪，逃散的二十八星宿也给人间带来危机。多年后，织女之子金风为替母赎罪，从神界来到人间收服星宿。途中，他意外结识了一心想前往神界寻找母亲的人间少女小凡，两人由此结伴踏上寻星之旅。随着一个个星宿被收服，隐藏在往事背后的秘密也逐渐浮出水面，而金风对凡尘、亲情与自己的选择也有了新的认识……",
-      "releaseDate": "2024-07-06",
-      "backdropPath": "/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
-      "posterPath": "/2nXWDju83nclC4vEJ4dkKnLN8gl.jpg",
-      "rating": 7.3,
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "贾克斯（哈里特·斯莱特 饰）因为姐妹亨特的去世悲痛不已，她与亨特的友人卢斯（阿塞玛·托马斯 饰）重聚，为治愈内心伤痛一起去到泰国著名的山脉徒步。在泰国封闭30多年的关山山脉，海拔超900米的高空魔鬼栈道，此前已发生多起高空坠落事件，是当地公认的“死亡禁区”。但一起突然的山体滑坡让她们被困在了一段摇摇欲坠的11000英尺（约3400米）高的栈道上。悬崖边缘贾克斯等人在断裂的栈道与钢筋之间艰难前行，脚下是深不见底的峡谷，每迈出一步都像是在向生机靠近，也随时可能跌入绝境。贾克斯拼尽全力攀爬在悬崖边缘，绝壁之上，她们不知能否成功生还。",
+      "releaseDate": "2026-09-01",
+      "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "rating": 7.297,
       "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
+      "genreTitle": "惊悚"
     },
     {
-      "id": 176631,
+      "id": 414419,
       "type": "tmdb",
-      "title": "太太万岁",
-      "originalTitle": "太太萬歲",
-      "description": "秀外慧中的好媳妇陈思珍（蒋天流饰）自与丈夫唐志远（张伐饰）结婚后，便把家里的人际关系处理得很好，持家有道。一日，思珍的弟弟陈思瑞（韩非饰）从台湾到上海省亲，邂逅志远的妹妹唐志琴（汪漪饰），两人一见钟情。然而因为陈父（石挥饰）不肯资助自己筹办公司的志远，却极力反对这桩亲事。思珍只得谎称唐家存有金条美钞，陈父才同意资助志远办起公司。不料发迹致富的志远却有了外遇，与姨太太（上官云珠饰）有染。思珍为了顾全丈夫名誉，只得委曲求全。未几，志远破产，谎言败露，两家人也因此闹翻。终于，思珍决定与志远离婚，却在律师事务遇见了秘密登记结婚的思瑞、志琴两人。面对真心相爱的一对有情人，思珍该何去何从。  　　由中国著名导演桑弧执导于1947年摄制的黑白影片《太太万岁》是小说家张爱玲的电影经典剧作。桑弧含蓄细腻的电影风格与张爱玲的剧作交相辉映。",
-      "releaseDate": "1947-11-30",
-      "backdropPath": "/ktrwxx5Ro1KHPE9mUrxekl6pjh6.jpg",
-      "posterPath": "/pX1b3PxZT83mzcKkOmTm3MoW63X.jpg",
-      "rating": 7.5,
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "releaseDate": "2011-03-27",
+      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "rating": 8.107,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 81401,
@@ -483,30 +366,43 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1778310,
+      "id": 21058,
       "type": "tmdb",
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "description": "为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": null,
-      "posterPath": "/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
-      "rating": 0,
+      "title": "小城之春",
+      "originalTitle": "小城之春",
+      "description": "在一个小城里，年轻少妇周玉纹与丈夫戴礼言过着平淡无味的生活。礼言在战争中失去了家产，也失去了面对现实的勇气，终日郁郁寡欢。夫妻之间相敬如宾，实则已没有感情可言。这沉闷的生活被从外面闯入小城的青年医生章志忱打破。他是礼言分别八年的朋友，也是玉纹过去的情人。礼言的妹妹戴秀喜欢上了志忱，而志忱拒绝了她。志忱的心里还装着玉纹。但他心里很矛盾。当年他与玉纹未结婚是因为玉纹母亲的阻挠，现在玉纹母亲死了，玉纹又有了丈夫。玉纹虽对丈夫尽职尽责，但心里却想着志忱，为此，她觉得对不起丈夫礼言。而礼言却决定成全他们两个，他吞了安眠药想自尽，后被抢救过来。经过了这一番感情波折，玉纹重新认识了自己与丈夫戴礼言的感情，她选择了与丈夫重新生活，而志忱也决定离开小城。一个春日的早晨，周玉纹、戴礼言还有妹妹戴秀在城头上为章志忱送行。他们目送志忱向外面的世界走去。",
+      "releaseDate": "1948-02-01",
+      "backdropPath": "/cr5fnofjFTKoUwgbyHzeZdkYMz4.jpg",
+      "posterPath": "/eCtv3xw44b3eUE2LGTgmfmQopKf.jpg",
+      "rating": 7.2,
       "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
+      "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 451995,
+      "id": 49964,
       "type": "tmdb",
-      "title": "脸庞，村庄",
-      "originalTitle": "Visages Villages",
-      "description": "作为阿涅斯·瓦尔达提名奥斯卡的晚年力作，这部充满手工温度的人文主义杰作，记录下八旬导演与三十余岁的街头摄影师JR的跨界合作。二人驾驶可即时输出巨幅肖像的摄影车，穿梭于法国乡间，将沿途相遇的农民、退役矿工、码头工人等普通人的肖像张贴于当地墙垣。这些故事拼贴出一幅传统在现代化浪潮中绵延的国度图景。这部布满岔路的公路电影、迷人的跨代际伙伴电影，以及献给各行匠人的颂歌，在瓦尔达追溯往昔与编织新忆的过程中，最终凝结成对艺术、人际关系与生命本身转瞬即逝的深刻沉思。[标准收藏]",
-      "releaseDate": "2017-06-28",
-      "backdropPath": "/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
-      "posterPath": "/idIv93FXHay1KIMVLZiP9Qeav3r.jpg",
-      "rating": 7.6,
+      "title": "何处是我朋友的家",
+      "originalTitle": "خانه‌ی دوست کجاست؟",
+      "description": "伊朗的偏僻山村小学里，一群孩子在课堂里聆听老师讲课。在检查作业的时候，老师发现穆罕德屡次没有完成家庭作业，于是严厉地批评了他，说如若再犯立马开除。老师对学生强调这是帮助他们树立良好的规矩。当天放学后，小男孩阿穆德却赫然发现自己把同桌穆罕德的作业本带回了家。听懂了老师的谆谆善诱，所以阿穆德明白这作业本就是穆罕德继续听讲的凭证。为了把作业本还给同桌，阿穆德曾希望母亲和祖父可以施以援手，但是均告失败。所以，他只能孤身前行，到对面大山里的村落去寻找同桌，归还作业本。然而，由于不认识同桌的家，所以他处处碰壁，遭遇到了无法想象的艰难险阻……",
+      "releaseDate": "1987-07-01",
+      "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
+      "posterPath": "/qULkpJ4fq9wbtautj4Jq4PFc0W5.jpg",
+      "rating": 7.928,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "剧情, 冒险"
+    },
+    {
+      "id": 176631,
+      "type": "tmdb",
+      "title": "太太万岁",
+      "originalTitle": "太太萬歲",
+      "description": "秀外慧中的好媳妇陈思珍（蒋天流饰）自与丈夫唐志远（张伐饰）结婚后，便把家里的人际关系处理得很好，持家有道。一日，思珍的弟弟陈思瑞（韩非饰）从台湾到上海省亲，邂逅志远的妹妹唐志琴（汪漪饰），两人一见钟情。然而因为陈父（石挥饰）不肯资助自己筹办公司的志远，却极力反对这桩亲事。思珍只得谎称唐家存有金条美钞，陈父才同意资助志远办起公司。不料发迹致富的志远却有了外遇，与姨太太（上官云珠饰）有染。思珍为了顾全丈夫名誉，只得委曲求全。未几，志远破产，谎言败露，两家人也因此闹翻。终于，思珍决定与志远离婚，却在律师事务遇见了秘密登记结婚的思瑞、志琴两人。面对真心相爱的一对有情人，思珍该何去何从。  　　由中国著名导演桑弧执导于1947年摄制的黑白影片《太太万岁》是小说家张爱玲的电影经典剧作。桑弧含蓄细腻的电影风格与张爱玲的剧作交相辉映。",
+      "releaseDate": "1947-11-30",
+      "backdropPath": "/ktrwxx5Ro1KHPE9mUrxekl6pjh6.jpg",
+      "posterPath": "/pX1b3PxZT83mzcKkOmTm3MoW63X.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1151272,
@@ -522,17 +418,69 @@
       "genreTitle": "剧情, 惊悚"
     },
     {
-      "id": 1444590,
+      "id": 451995,
       "type": "tmdb",
-      "title": "燃燒吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "releaseDate": "2026-09-05",
-      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "rating": 5,
+      "title": "脸庞，村庄",
+      "originalTitle": "Visages Villages",
+      "description": "作为阿涅斯·瓦尔达提名奥斯卡的晚年力作，这部充满手工温度的人文主义杰作，记录下八旬导演与三十余岁的街头摄影师JR的跨界合作。二人驾驶可即时输出巨幅肖像的摄影车，穿梭于法国乡间，将沿途相遇的农民、退役矿工、码头工人等普通人的肖像张贴于当地墙垣。这些故事拼贴出一幅传统在现代化浪潮中绵延的国度图景。这部布满岔路的公路电影、迷人的跨代际伙伴电影，以及献给各行匠人的颂歌，在瓦尔达追溯往昔与编织新忆的过程中，最终凝结成对艺术、人际关系与生命本身转瞬即逝的深刻沉思。[标准收藏]",
+      "releaseDate": "2017-06-28",
+      "backdropPath": "/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
+      "posterPath": "/idIv93FXHay1KIMVLZiP9Qeav3r.jpg",
+      "rating": 7.6,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1288445,
+      "type": "tmdb",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "rating": 7.613,
+      "mediaType": "movie",
+      "genreTitle": "动作, 惊悚"
+    },
+    {
+      "id": 1678102,
+      "type": "tmdb",
+      "title": "死亡禁区实录",
+      "originalTitle": "死亡禁区实录",
+      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
+      "releaseDate": "2026-09-11",
+      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
+      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "悬疑, 惊悚"
+    },
+    {
+      "id": 299534,
+      "type": "tmdb",
+      "title": "复仇者联盟4：终局之战",
+      "originalTitle": "Avengers: Endgame",
+      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
+      "releaseDate": "2019-04-24",
+      "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
+      "rating": 8.247,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 科幻"
+    },
+    {
+      "id": 1650896,
+      "type": "tmdb",
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇·完美假期",
+      "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
+      "posterPath": "/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 动画"
     },
     {
       "id": 11382,
@@ -548,6 +496,32 @@
       "genreTitle": "喜剧, 犯罪"
     },
     {
+      "id": 1444590,
+      "type": "tmdb",
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "releaseDate": "2026-09-05",
+      "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "rating": 5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1748007,
+      "type": "tmdb",
+      "title": "牛来",
+      "originalTitle": "牛来",
+      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
+      "releaseDate": "2026-08-05",
+      "backdropPath": "/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
+      "posterPath": "/kOzUhvsHq7Thcj3nZLgrghOZagq.jpg",
+      "rating": 4.3,
+      "mediaType": "movie",
+      "genreTitle": "家庭, 动画"
+    },
+    {
       "id": 11475,
       "type": "tmdb",
       "title": "列宁格勒牛仔征美记",
@@ -559,6 +533,58 @@
       "rating": 6.948,
       "mediaType": "movie",
       "genreTitle": "喜剧, 音乐"
+    },
+    {
+      "id": 1616157,
+      "type": "tmdb",
+      "title": "上海女儿",
+      "originalTitle": "上海女儿",
+      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
+      "releaseDate": "2026-09-19",
+      "backdropPath": "/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
+      "posterPath": "/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 104171,
+      "type": "tmdb",
+      "title": "在那河畔青草青",
+      "originalTitle": "在那河畔青草青",
+      "description": "卢大年 因替即将出国的姐姐代课来到内湾，在姐姐安排下住进小学音乐老师陈素云 家的二楼。大年担任四年级忠班的班主任。在班上，他一方面要对付调皮捣蛋出了名的“三剑客”，同时也关心着因父母离婚而性格孤僻的学生周兴旺 。陈素云是个文静的姑娘，整日与大年同来同往，互相产生爱慕之情。在内湾，存在着以投毒和电击的方法捕鱼，大年决心根除这种严重破坏大自然生态的捕鱼方法，在内湾小学发起“爱川护鱼”运动，并在内湾地区推广开来。周兴旺的父亲周文 经常去电鱼，为此，他受到同学嘲弄而离家出走。大年和素云要去找回孩子，最后他们能结合在一起吗？",
+      "releaseDate": "1982-10-24",
+      "backdropPath": "/xm7ULWOA9MECQpXhcPowip7uyT4.jpg",
+      "posterPath": "/nWgeEWh8pKatQIGYtS3GiQHrqZA.jpg",
+      "rating": 6.4,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
+      "id": 1778310,
+      "type": "tmdb",
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "description": "为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": null,
+      "posterPath": "/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1303336,
+      "type": "tmdb",
+      "title": "落凡尘",
+      "originalTitle": "落凡尘",
+      "description": "织女因擅离职守而获罪，逃散的二十八星宿也给人间带来危机。多年后，织女之子金风为替母赎罪，从神界来到人间收服星宿。途中，他意外结识了一心想前往神界寻找母亲的人间少女小凡，两人由此结伴踏上寻星之旅。随着一个个星宿被收服，隐藏在往事背后的秘密也逐渐浮出水面，而金风对凡尘、亲情与自己的选择也有了新的认识……",
+      "releaseDate": "2024-07-06",
+      "backdropPath": "/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
+      "posterPath": "/2nXWDju83nclC4vEJ4dkKnLN8gl.jpg",
+      "rating": 7.3,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1774595,
@@ -587,17 +613,17 @@
       "genreTitle": "爱情, 动画"
     },
     {
-      "id": 104171,
+      "id": 1807719,
       "type": "tmdb",
-      "title": "在那河畔青草青",
-      "originalTitle": "在那河畔青草青",
-      "description": "卢大年 因替即将出国的姐姐代课来到内湾，在姐姐安排下住进小学音乐老师陈素云 家的二楼。大年担任四年级忠班的班主任。在班上，他一方面要对付调皮捣蛋出了名的“三剑客”，同时也关心着因父母离婚而性格孤僻的学生周兴旺 。陈素云是个文静的姑娘，整日与大年同来同往，互相产生爱慕之情。在内湾，存在着以投毒和电击的方法捕鱼，大年决心根除这种严重破坏大自然生态的捕鱼方法，在内湾小学发起“爱川护鱼”运动，并在内湾地区推广开来。周兴旺的父亲周文 经常去电鱼，为此，他受到同学嘲弄而离家出走。大年和素云要去找回孩子，最后他们能结合在一起吗？",
-      "releaseDate": "1982-10-24",
-      "backdropPath": "/xm7ULWOA9MECQpXhcPowip7uyT4.jpg",
-      "posterPath": "/nWgeEWh8pKatQIGYtS3GiQHrqZA.jpg",
-      "rating": 6.4,
+      "title": "白茶人生",
+      "originalTitle": "白茶人生",
+      "description": "《白茶人生》历时三年筹备与拍摄，主创团队跨越山海、踏遍茶山，顶烈日、冒晨雾深入福建福鼎、政和等白茶核心产区，以镜头捕捉茶树生长与匠人劳作的每一个细节。影片以三位白茶匠人为核心线索，生动记录了他们与白茶相伴半生的坚守轨迹，既有历史深度，更有当代活力，让观众在光影中触摸白茶的千年风骨与匠人温度，深刻诠释了“茶润时光，影映千年”的主题精髓。",
+      "releaseDate": "2026-10-15",
+      "backdropPath": null,
+      "posterPath": "/lGP8KoWy1IAzmJ3I9mH8KxQq7p9.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "纪录"
     },
     {
       "id": 1502135,
@@ -639,19 +665,6 @@
       "genreTitle": "爱情, 奇幻"
     },
     {
-      "id": 1807719,
-      "type": "tmdb",
-      "title": "白茶人生",
-      "originalTitle": "白茶人生",
-      "description": "《白茶人生》历时三年筹备与拍摄，主创团队跨越山海、踏遍茶山，顶烈日、冒晨雾深入福建福鼎、政和等白茶核心产区，以镜头捕捉茶树生长与匠人劳作的每一个细节。影片以三位白茶匠人为核心线索，生动记录了他们与白茶相伴半生的坚守轨迹，既有历史深度，更有当代活力，让观众在光影中触摸白茶的千年风骨与匠人温度，深刻诠释了“茶润时光，影映千年”的主题精髓。",
-      "releaseDate": "2026-10-15",
-      "backdropPath": null,
-      "posterPath": "/lGP8KoWy1IAzmJ3I9mH8KxQq7p9.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 1284186,
       "type": "tmdb",
       "title": "牺牲",
@@ -660,22 +673,22 @@
       "releaseDate": "2026-04-09",
       "backdropPath": "/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
       "posterPath": "/9ZNlVceBMpLVJK3s8I64nLYeF2d.jpg",
-      "rating": 5.201,
+      "rating": 5.193,
       "mediaType": "movie",
       "genreTitle": "冒险, 喜剧"
     },
     {
-      "id": 592402,
+      "id": 1269644,
       "type": "tmdb",
-      "title": "大熊雨林",
-      "originalTitle": "Great Bear Rainforest: Land of the Spirit Bear",
-      "description": "这里是世界上最原始最原生态的一片雨林，被悉心的保护和照料，这里也是这些动物们未被打扰的家园。大熊雨林位于加拿大不列颠哥伦比亚省的太平洋海岸，是世界上最后一片完整的温带雨林，占地640万公顷，也是世界上最大的沿海温带雨林。几千年以来，这里一直受到当地的土著民的保护，这部影片中，我们将在IMAX的巨幕之下，跟着拍摄团队，第一次走进这片未被打扰的隐藏地带，探寻美洲狮、灰熊、鲑鱼、海岸狼、还她等野生动物，还有最稀有的熊-白灵熊，也叫做克默德熊。",
-      "releaseDate": "2019-02-15",
-      "backdropPath": null,
-      "posterPath": "/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
-      "rating": 9,
+      "title": "阿姆鲁姆",
+      "originalTitle": "Amrum",
+      "description": "该片以1945年春第二次世界大战的最后几周为背景，围绕着10岁的楠宁展开，他的父亲正在前线作战。他竭尽全力帮助母亲养家糊口，捕猎海豹、夜间捕鱼以及在田间劳作。然而，期盼已久的和平带来了全新的冲突，楠宁不得不寻找自己的人生道路",
+      "releaseDate": "2025-10-09",
+      "backdropPath": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
+      "posterPath": "/yrFHlsSa5bK2LrV0oN6xpdodyBI.jpg",
+      "rating": 7.196,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "剧情, 战争"
     },
     {
       "id": 1057888,
@@ -715,32 +728,6 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "喜剧"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
-      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.2,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
-      "id": 1269644,
-      "type": "tmdb",
-      "title": "阿姆鲁姆",
-      "originalTitle": "Amrum",
-      "description": "该片以1945年春第二次世界大战的最后几周为背景，围绕着10岁的楠宁展开，他的父亲正在前线作战。他竭尽全力帮助母亲养家糊口，捕猎海豹、夜间捕鱼以及在田间劳作。然而，期盼已久的和平带来了全新的冲突，楠宁不得不寻找自己的人生道路",
-      "releaseDate": "2025-10-09",
-      "backdropPath": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
-      "posterPath": "/yrFHlsSa5bK2LrV0oN6xpdodyBI.jpg",
-      "rating": 7.196,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 战争"
     },
     {
       "id": 1616184,
@@ -795,6 +782,32 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
+      "id": 592402,
+      "type": "tmdb",
+      "title": "大熊雨林",
+      "originalTitle": "Great Bear Rainforest: Land of the Spirit Bear",
+      "description": "这里是世界上最原始最原生态的一片雨林，被悉心的保护和照料，这里也是这些动物们未被打扰的家园。大熊雨林位于加拿大不列颠哥伦比亚省的太平洋海岸，是世界上最后一片完整的温带雨林，占地640万公顷，也是世界上最大的沿海温带雨林。几千年以来，这里一直受到当地的土著民的保护，这部影片中，我们将在IMAX的巨幕之下，跟着拍摄团队，第一次走进这片未被打扰的隐藏地带，探寻美洲狮、灰熊、鲑鱼、海岸狼、还她等野生动物，还有最稀有的熊-白灵熊，也叫做克默德熊。",
+      "releaseDate": "2019-02-15",
+      "backdropPath": null,
+      "posterPath": "/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
+      "rating": 9,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 8.2,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
+    },
+    {
       "id": 1760508,
       "type": "tmdb",
       "title": "正义必胜",
@@ -806,45 +819,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "纪录"
-    },
-    {
-      "id": 921937,
-      "type": "tmdb",
-      "title": "穆桂英挂帅(京剧)",
-      "originalTitle": "穆桂英挂帅(京剧)",
-      "description": "西夏王造反，佘太君差杨文广、杨金花进京打探。杨文广校场比武，刀劈王伦。宋王赐印命其母穆桂英挂帅出征。穆桂英先不愿挂帅，经佘太君劝勉，念及国家危亡，抛弃私愤，顿然振奋，慷慨誓师整肃军纪，率领大军出征。",
-      "releaseDate": "2017-04-21",
-      "backdropPath": null,
-      "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 916971,
-      "type": "tmdb",
-      "title": "赵氏孤儿(京剧)",
-      "originalTitle": "赵氏孤儿(京剧)",
-      "description": "春秋晋国，屠岸贾侍宠杀害赵盾与全家三百余口。赵盾儿媳庄姬公主深宫产子，为救孤儿，程婴献子替孤。十五年后，程婴与魏绛联手杀死屠岸贾，报了赵家仇恨。  　　这幕悲剧是因屠岸贾、晋灵公在绛霄楼弹打百姓取乐而引发的……",
-      "releaseDate": "2017-04-21",
-      "backdropPath": null,
-      "posterPath": "/5zPq9KLq367E8WZFgltKM8N7urk.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "电视电影"
     },
     {
       "id": 956215,
@@ -873,6 +847,32 @@
       "genreTitle": ""
     },
     {
+      "id": 921937,
+      "type": "tmdb",
+      "title": "穆桂英挂帅(京剧)",
+      "originalTitle": "穆桂英挂帅(京剧)",
+      "description": "西夏王造反，佘太君差杨文广、杨金花进京打探。杨文广校场比武，刀劈王伦。宋王赐印命其母穆桂英挂帅出征。穆桂英先不愿挂帅，经佘太君劝勉，念及国家危亡，抛弃私愤，顿然振奋，慷慨誓师整肃军纪，率领大军出征。",
+      "releaseDate": "2017-04-21",
+      "backdropPath": null,
+      "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 916971,
+      "type": "tmdb",
+      "title": "赵氏孤儿(京剧)",
+      "originalTitle": "赵氏孤儿(京剧)",
+      "description": "春秋晋国，屠岸贾侍宠杀害赵盾与全家三百余口。赵盾儿媳庄姬公主深宫产子，为救孤儿，程婴献子替孤。十五年后，程婴与魏绛联手杀死屠岸贾，报了赵家仇恨。  　　这幕悲剧是因屠岸贾、晋灵公在绛霄楼弹打百姓取乐而引发的……",
+      "releaseDate": "2017-04-21",
+      "backdropPath": null,
+      "posterPath": "/5zPq9KLq367E8WZFgltKM8N7urk.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "电视电影"
+    },
+    {
       "id": 1028378,
       "type": "tmdb",
       "title": "Serengeti",
@@ -882,6 +882,19 @@
       "backdropPath": null,
       "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
       "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
