@@ -1,7 +1,20 @@
 {
-  "time": "2026-10-29T23:39:52.367Z",
+  "time": "2026-10-30T23:19:07.254Z",
   "data": {
     "电影": [
+      {
+        "id": 1422041,
+        "type": "tmdb",
+        "title": "黑球",
+        "originalTitle": "La bola negra",
+        "description": "三个同性恋男子在西班牙历史上1932 年、1937 年和 2017 年三个不同时期的故事。",
+        "releaseDate": "2026-09-25",
+        "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+        "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
+        "rating": 8,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 战争"
+      },
       {
         "id": 1303034,
         "type": "tmdb",
@@ -16,19 +29,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 1288069,
-        "type": "tmdb",
-        "title": "登峰传奇：丹增诺盖",
-        "originalTitle": "Tenzing",
-        "description": "根据真实事件改编。喜马拉雅登山家丹增·诺盖与新西兰登山家埃德蒙·希拉里携手登顶珠穆朗玛峰，成为首批登顶者。在妻子达瓦和探险队秘书吉尔·亨德森的支持下，丹增争取加入英国登山队，在攀登过程中面对文化差异、阶级矛盾与高山险境。",
-        "releaseDate": "2026-10-09",
-        "backdropPath": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
-        "posterPath": "/3J4gRr16fTAzznQeDhwc8FPYtsE.jpg",
-        "rating": 8.312,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 历史"
-      },
-      {
         "id": 1198654,
         "type": "tmdb",
         "title": "害群之马",
@@ -37,9 +37,61 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.869,
+        "rating": 6.92,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
+      },
+      {
+        "id": 1288069,
+        "type": "tmdb",
+        "title": "登峰传奇：丹增诺盖",
+        "originalTitle": "Tenzing",
+        "description": "根据真实事件改编。喜马拉雅登山家丹增·诺盖与新西兰登山家埃德蒙·希拉里携手登顶珠穆朗玛峰，成为首批登顶者。在妻子达瓦和探险队秘书吉尔·亨德森的支持下，丹增争取加入英国登山队，在攀登过程中面对文化差异、阶级矛盾与高山险境。",
+        "releaseDate": "2026-10-09",
+        "backdropPath": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+        "posterPath": "/3J4gRr16fTAzznQeDhwc8FPYtsE.jpg",
+        "rating": 8.286,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 历史"
+      },
+      {
+        "id": 1021848,
+        "type": "tmdb",
+        "title": "茫然女王",
+        "originalTitle": "Queen at Sea",
+        "description": "阿尔茨海默病逐渐剥夺了一位女性表达自我的能力，也严重影响了她与他人的沟通。她的丈夫与女儿竭力为她谋求最大福祉——在爱与关怀、守护与自主之间的脆弱边界中艰难探寻平衡。",
+        "releaseDate": "2026-09-18",
+        "backdropPath": "/308iVAhH5ByQb0wvaJmY3o79apn.jpg",
+        "posterPath": "/1UDaXxcYAtsb3rHHTbeLQBUx7Ml.jpg",
+        "rating": 7.2,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1476614,
+        "type": "tmdb",
+        "title": "突如其来",
+        "originalTitle": "急に具合が悪くなる",
+        "description": "改编自宫野真生子、矶野真穗合著的同名书信集。法国巴黎郊外，护理机构负责人玛丽-露·方丹结识了正在与癌症抗争的日本舞台导演森崎真理。因名字发音相近而结缘的两人，在交流中逐渐加深彼此的理解。然而，真理的病情突然恶化，两人的关系也随之发生变化。",
+        "releaseDate": "2026-06-19",
+        "backdropPath": "/yF4vFj0BSle87KSuRLhtT1PPfvs.jpg",
+        "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
+        "rating": 7.8,
+        "mediaType": "movie",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 1465063,
+        "type": "tmdb",
+        "title": "忘却之岛",
+        "originalTitle": "Forgotten Island",
+        "description": "好友乔与拉伊萨高中毕业即将分别，她们打算相伴度过最后一夜，却意外被传送到奇幻岛屿纳卡利。二人得知重返家园的代价是抹去关于彼此的全部记忆，她们必须抓紧时间，在遗忘对方找到方法离开这座岛屿。",
+        "releaseDate": "2026-09-10",
+        "backdropPath": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+        "posterPath": "/2O3b5ey8xITyzz5KuaaRTj6bONx.jpg",
+        "rating": 7.6,
+        "mediaType": "movie",
+        "genreTitle": "动画, 冒险"
       },
       {
         "id": 1563627,
@@ -63,74 +115,22 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 7.052,
+        "rating": 7.025,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
       {
-        "id": 1423191,
+        "id": 1329016,
         "type": "tmdb",
-        "title": "生化危机：爆发夜",
-        "originalTitle": "Resident Evil",
-        "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
-        "releaseDate": "2026-09-16",
-        "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-        "rating": 7.3,
+        "title": "托尼",
+        "originalTitle": "Tony",
+        "description": "19岁的安东尼·波登前往普罗温斯敦，偶然闯入一家餐厅厨房的混乱世界，由此开启了一个将影响他一生的夏天。",
+        "releaseDate": "2026-08-07",
+        "backdropPath": "/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+        "posterPath": "/dnpztRePQAUg4FydrwQntAOry9z.jpg",
+        "rating": 7.436,
         "mediaType": "movie",
-        "genreTitle": "恐怖, 科幻"
-      },
-      {
-        "id": 1308545,
-        "type": "tmdb",
-        "title": "一个夜晚与三个夏天",
-        "originalTitle": "一个夜晚与三个夏天",
-        "description": "桑吉在拉萨拍摄一部和童年有关的片子，彼时的她面临着创作上的迷茫，与同为藏戏编导的父亲隔阂也难以消弭。一次偶然的派对，桑吉遇见了她所拍摄故事中的原型人物拉姆，夜晚悄然逝去，弥散在记忆中的夏天逐渐有了全貌...",
-        "releaseDate": "2026-09-11",
-        "backdropPath": "/Agffw58ImoHhiXYCy3iKepG3fXC.jpg",
-        "posterPath": "/l40fLV8sD9T3S3qQct9urcvGkEd.jpg",
-        "rating": 0,
-        "mediaType": "movie",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 1263337,
-        "type": "tmdb",
-        "title": "野兽之心",
-        "originalTitle": "Heart of the Beast",
-        "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
-        "releaseDate": "2026-09-19",
-        "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-        "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.333,
-        "mediaType": "movie",
-        "genreTitle": "冒险, 惊悚"
-      },
-      {
-        "id": 1596303,
-        "type": "tmdb",
-        "title": "万人之上：冬攀乔戈里峰",
-        "originalTitle": "The Last First: Winter K2",
-        "description": "一场历史性的竞赛，试图成为冬季首位登顶 K2 峰的人，最终演变成悲剧，暴露出野心、自我和对荣耀的追求可能与这座山峰本身一样危险。",
-        "releaseDate": "2026-10-02",
-        "backdropPath": "/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
-        "posterPath": "/PUEqI3ITwcQY8vZ9XpxlGoyyUc.jpg",
-        "rating": 6.452,
-        "mediaType": "movie",
-        "genreTitle": "纪录"
-      },
-      {
-        "id": 1668499,
-        "type": "tmdb",
-        "title": "眩晕",
-        "originalTitle": "Le Vertige",
-        "description": "雅克去找朋友布鲁诺，要告诉他一个大消息：人类其实生活在一个模拟世界里……",
-        "releaseDate": "2026-06-10",
-        "backdropPath": "/hMKAPLiacrrqRXlHGMyyIosfjzr.jpg",
-        "posterPath": "/d1dOOWaPUSw6nqMmng0H4oHgyzj.jpg",
-        "rating": 6,
-        "mediaType": "movie",
-        "genreTitle": "动画, 喜剧"
+        "genreTitle": "剧情, 喜剧"
       }
     ],
     "剧集·国内": [
@@ -247,7 +247,7 @@
         "releaseDate": "2026-10-18",
         "backdropPath": "/8XzT2RtggYp9qfASQfEX83Os45P.jpg",
         "posterPath": "/98fuNR9VzQ3bqFxK2FzEgbskfuB.jpg",
-        "rating": 8.5,
+        "rating": 7.25,
         "mediaType": "tv",
         "genreTitle": "喜剧, Sci-Fi & Fantasy"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.647,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
-        "rating": 9.3,
+        "rating": 9.4,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
