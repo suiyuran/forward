@@ -1,7 +1,20 @@
 {
-  "time": "2026-10-30T20:20:09.016Z",
+  "time": "2026-10-31T19:40:38.343Z",
   "data": {
     "星期日": [
+      {
+        "id": 283692,
+        "type": "tmdb",
+        "title": "一觉醒来就有了最强装备跟太空船，决定以自家独栋建筑为目标当佣兵自由过活",
+        "originalTitle": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+        "description": "身为上班族的佐藤孝弘每天都过着无趣又劳累的生活。然而某天醒来时，他发现自己身处平时最爱玩的SF游戏世界里，而且还坐在搭载最强装备的宇宙飞船玤驾驶舱里。不仅可以去冒险，也可以贸易，甚至成为佣兵。掌握了这个宇宙的最强装备的孝弘决定改名为“西罗”，并以这个身分活下去。“我是西罗舰长，是一名佣兵。”后来，西罗遇到了其他伙伴，并在一次又一次的战斗中察觉到——在外太空喝不到自己唯一喜欢的碳酸饮料。而且，他没有一个能和伙伴们一起回去的家。因此，虽然价格高得惊人，但他下定决心要“在行星上买一栋附带庭院的独栋住宅”！就这样，西罗带着最强的装备与伙伴们展开了他的佣兵生涯。",
+        "releaseDate": "2026-10-04",
+        "backdropPath": "/xqil5t29q1k6reedUlMy4nYd9f7.jpg",
+        "posterPath": "/ccLkKM9nZ4eR2ZjDg2vpOCInZro.jpg",
+        "rating": 7.5,
+        "mediaType": "tv",
+        "genreTitle": "动画, 动作冒险"
+      },
       {
         "id": 207347,
         "type": "tmdb",
@@ -24,7 +37,7 @@
         "releaseDate": "2023-07-05",
         "backdropPath": "/7uyRCBMQIWwJSWIR2aCrvPjbPzi.jpg",
         "posterPath": "/u9pBZpb3WPERvDKZbkGYcSAoPsu.jpg",
-        "rating": 8.3,
+        "rating": 8.271,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -102,7 +115,7 @@
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
-        "rating": 9.666,
+        "rating": 9.649,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -403,7 +416,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
         "posterPath": "/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-        "rating": 9.7,
+        "rating": 9.474,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
@@ -429,7 +442,7 @@
         "originalTitle": "Cyberpunk: Edgerunners",
         "description": "夜之城每一季都有新故事，也总有一群特立独行的新角色登场，讲述属于他们的传奇。",
         "releaseDate": "2022-09-13",
-        "backdropPath": "/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
+        "backdropPath": "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
         "posterPath": "/kL0jycZo9QAIhempGbsb88uw1E1.jpg",
         "rating": 8.5,
         "mediaType": "tv",
@@ -563,7 +576,7 @@
         "releaseDate": "2022-10-05",
         "backdropPath": "/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
         "posterPath": "/bBWOxuLpW2RVychsLHVizbgJSLF.jpg",
-        "rating": 7.3,
+        "rating": 7.289,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -576,7 +589,7 @@
         "releaseDate": "2023-10-08",
         "backdropPath": "/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
         "posterPath": "/aWTfsoyRQNKxvI2EOLOEPKyxDqr.jpg",
-        "rating": 7.2,
+        "rating": 7.07,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -589,7 +602,7 @@
         "releaseDate": "2024-01-05",
         "backdropPath": "/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
         "posterPath": "/kfUIFZwVWZwcE06cdqc4OkPL1nQ.jpg",
-        "rating": 7,
+        "rating": 6.951,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -600,7 +613,7 @@
         "originalTitle": "魔法騎士レイアース",
         "description": "狮堂光、龙咲海、凤凰寺风三位女孩，在校外教学参观地点——东京铁塔的展望台上，听到了少女的呼救声，然后就被一股奇异的力量，召唤到她们从未见过的异世界“塞费罗”。在那里等待三位少女到来的，是导师克雷夫。他告诉小光她们，塞费罗正面临毁灭的危机，她们三人是被身为支柱的艾梅洛德公主，以拯救塞费罗的“魔法骑士”身分召唤至此。她们三人必须打败抓走艾梅洛德公主的神官沙卡特，然后救出公主。此外，没有别的方法可以返回东京。为了拯救塞费罗并回到东京，三人踏上了旅途。",
         "releaseDate": "2026-10-07",
-        "backdropPath": "/f6MmtdKyrmUt2iHfhEKO6DgrL4a.jpg",
+        "backdropPath": "/ovysGUJ9Qc7oWaiFbyWjwhw1vtc.jpg",
         "posterPath": "/2zoubtpZYCtyNghQMWKSldwz8gQ.jpg",
         "rating": 9,
         "mediaType": "tv",
@@ -747,7 +760,7 @@
         "releaseDate": "2026-04-02",
         "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
         "posterPath": "/7hVGp1KlPvxtYufq8kTdCKu2cWS.jpg",
-        "rating": 8.649,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -775,7 +788,7 @@
         "releaseDate": "2021-04-11",
         "backdropPath": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
         "posterPath": "/nXsAZCWvsuN2GoGKE2GM625nKx.jpg",
-        "rating": 8.405,
+        "rating": 8.403,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -801,7 +814,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 9.011,
+        "rating": 8.977,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -827,7 +840,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.7,
+        "rating": 8.655,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -853,7 +866,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
         "posterPath": "/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-        "rating": 9.7,
+        "rating": 9.474,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -879,7 +892,7 @@
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
         "posterPath": "/510e9ZkzWiUHab3skyuvWzjXWmN.jpg",
-        "rating": 8.926,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -892,7 +905,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.157,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -933,7 +946,7 @@
         "releaseDate": "1996-01-08",
         "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
         "posterPath": "/mCfswh8wgMW8rzUrSEdviUGu5Ax.jpg",
-        "rating": 8,
+        "rating": 8.009,
         "mediaType": "tv",
         "genreTitle": "动画, 犯罪"
       },
@@ -998,7 +1011,7 @@
         "releaseDate": "2017-10-03",
         "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
         "posterPath": "/6BOecDN3uz2RAmn3BaCyg4Nh5A0.jpg",
-        "rating": 8.525,
+        "rating": 8.5,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
