@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-31T22:52:48.051Z",
+  "time": "2026-11-01T23:09:57.672Z",
   "data": {
     "电影": [
       {
@@ -24,7 +24,7 @@
         "releaseDate": "2025-09-17",
         "backdropPath": "/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
         "posterPath": "/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
-        "rating": 7.8,
+        "rating": 7.833,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.932,
+        "rating": 6.864,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
         "posterPath": "/3J4gRr16fTAzznQeDhwc8FPYtsE.jpg",
-        "rating": 8.294,
+        "rating": 8.246,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/yF4vFj0BSle87KSuRLhtT1PPfvs.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
-        "rating": 7.787,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
         "posterPath": "/2O3b5ey8xITyzz5KuaaRTj6bONx.jpg",
-        "rating": 7.641,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "动画, 冒险"
       },
@@ -98,7 +98,7 @@
         "type": "tmdb",
         "title": "杯雪·一战成名",
         "originalTitle": "杯雪·一战成名",
-        "description": "改编自小椴长篇武侠小说《杯雪·夜雨打金荷》。时秦桧把持朝堂，四十一人命丧七里铺，唯一幸存的文官沈放被疑为凶手。缇骑奉命缉凶，江湖人士也为二十八万两白银聚集驿站，各方势力陷入猜忌与厮杀，一场精心布局的阴谋逐渐浮现。",
+        "description": "南宋年间，秦桧把持朝政，派遣麾下缇骑四处镇压抗金义士。七里铺发生一起惨案，金国使者等四十一人遇害，唯一幸存的文官沈放因此被怀疑是凶手。缇骑统领袁寒亭奉命追查，而下落不明的二十八万两白银也引来各路江湖人士。众人齐聚驿站，试图从看似手无缚鸡之力的沈放身上找到答案，却始终无法将他拿下，反而接连有高手离奇丧命。面对朝廷追捕与江湖围堵，沈放声称凶案另有其人，而随着各方势力相互猜忌、不断交锋，这桩血案背后的疑团也变得越来越复杂……",
         "releaseDate": "2026-09-27",
         "backdropPath": "/6neOr2yjCdnVFUzI5xIOvo6sxuf.jpg",
         "posterPath": "/350om1pKdv14AdTWxpwqEYR9WrS.jpg",
@@ -115,7 +115,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 7.037,
+        "rating": 7.011,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-08-07",
         "backdropPath": "/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
         "posterPath": "/dnpztRePQAUg4FydrwQntAOry9z.jpg",
-        "rating": 7.385,
+        "rating": 7.368,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       }
@@ -288,7 +288,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.649,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
-        "rating": 9.333,
+        "rating": 9.371,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-10-10",
         "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
         "posterPath": "/xNE0eyVaBy4vfj2K8EjjmHR6Xbb.jpg",
-        "rating": 9.2,
+        "rating": 9.3,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       }
