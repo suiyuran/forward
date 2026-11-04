@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-03T22:13:14.066Z",
+  "time": "2026-11-04T22:28:40.967Z",
   "data": [
     {
       "id": 1303034,
@@ -13,6 +13,19 @@
       "rating": 7.833,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 1423191,
+      "type": "tmdb",
+      "title": "生化危机：爆发夜",
+      "originalTitle": "Resident Evil",
+      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
+      "releaseDate": "2026-09-16",
+      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 245891,
@@ -41,17 +54,17 @@
       "genreTitle": "动作, 奇幻"
     },
     {
-      "id": 1423191,
+      "id": 1439171,
       "type": "tmdb",
-      "title": "生化危机：爆发夜",
-      "originalTitle": "Resident Evil",
-      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
-      "releaseDate": "2026-09-16",
-      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.351,
+      "title": "神探之痕迹",
+      "originalTitle": "神探之痕迹",
+      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": "/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
+      "posterPath": "/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
+      "rating": 7.3,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
+      "genreTitle": "犯罪"
     },
     {
       "id": 1089598,
@@ -67,17 +80,17 @@
       "genreTitle": "动作, 历史"
     },
     {
-      "id": 1439171,
+      "id": 1477104,
       "type": "tmdb",
-      "title": "神探之痕迹",
-      "originalTitle": "神探之痕迹",
-      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
-      "posterPath": "/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
-      "rating": 7.3,
+      "title": "小羊肖恩3：怪兽来袭",
+      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "description": "青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
+      "releaseDate": "2026-09-17",
+      "backdropPath": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "posterPath": "/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
+      "rating": 7.415,
       "mediaType": "movie",
-      "genreTitle": "犯罪"
+      "genreTitle": "动画, 科幻"
     },
     {
       "id": 1782347,
@@ -88,20 +101,7 @@
       "releaseDate": "2026-10-23",
       "backdropPath": "/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
       "posterPath": "/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 科幻"
-    },
-    {
-      "id": 1477104,
-      "type": "tmdb",
-      "title": "小羊肖恩3：怪兽来袭",
-      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "description": "青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
-      "releaseDate": "2026-09-17",
-      "backdropPath": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-      "posterPath": "/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
-      "rating": 7.4,
+      "rating": 1,
       "mediaType": "movie",
       "genreTitle": "动画, 科幻"
     },
@@ -158,19 +158,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1726805,
-      "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "releaseDate": "2026-10-23",
-      "backdropPath": null,
-      "posterPath": "/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
-      "rating": 4,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
-    },
-    {
       "id": 1263337,
       "type": "tmdb",
       "title": "野兽之心",
@@ -197,15 +184,28 @@
       "genreTitle": "剧情, 动作"
     },
     {
-      "id": 1796001,
+      "id": 1726805,
       "type": "tmdb",
-      "title": "民宿惊魂",
-      "originalTitle": "民宿惊魂",
-      "description": "孤岛荒宿，情侣旅行撞上民宿阴宅，一桩桩离奇事件接踵而至：镜子里的鬼脸、暗室里密布的红绳、突然扭动的门把手、泳池里惊现的鬼影……夜晚怪事连连，一觉惊魂醒来，所有诡异痕迹却全部消失不见……是凶宅幻视？无尽梦魇？还是有人布下猎杀圈套？",
-      "releaseDate": "2026-10-31",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "releaseDate": "2026-10-23",
       "backdropPath": null,
-      "posterPath": "/gsqSXMD1PNRq27bma8CUHrJvC3A.jpg",
-      "rating": 0,
+      "posterPath": "/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "rating": 4,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
+    },
+    {
+      "id": 1255833,
+      "type": "tmdb",
+      "title": "鲸口脱险",
+      "originalTitle": "Whalefall",
+      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
+      "releaseDate": "2026-10-14",
+      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
+      "rating": 6.577,
       "mediaType": "movie",
       "genreTitle": "惊悚"
     },
@@ -223,15 +223,15 @@
       "genreTitle": "动作, 喜剧"
     },
     {
-      "id": 1255833,
+      "id": 1796001,
       "type": "tmdb",
-      "title": "鲸口脱险",
-      "originalTitle": "Whalefall",
-      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
-      "releaseDate": "2026-10-14",
-      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "rating": 6.566,
+      "title": "民宿惊魂",
+      "originalTitle": "民宿惊魂",
+      "description": "孤岛荒宿，情侣旅行撞上民宿阴宅，一桩桩离奇事件接踵而至：镜子里的鬼脸、暗室里密布的红绳、突然扭动的门把手、泳池里惊现的鬼影……夜晚怪事连连，一觉惊魂醒来，所有诡异痕迹却全部消失不见……是凶宅幻视？无尽梦魇？还是有人布下猎杀圈套？",
+      "releaseDate": "2026-10-31",
+      "backdropPath": null,
+      "posterPath": "/gsqSXMD1PNRq27bma8CUHrJvC3A.jpg",
+      "rating": 0,
       "mediaType": "movie",
       "genreTitle": "惊悚"
     },
@@ -244,7 +244,7 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.17,
+      "rating": 8.169,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -268,9 +268,9 @@
       "originalTitle": "The Odyssey",
       "description": "改编自荷马史诗《奥德赛》。特洛伊战争结束后，伊萨卡国王奥德修斯历经艰险、踏上漫长归乡之旅。",
       "releaseDate": "2026-07-15",
-      "backdropPath": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+      "backdropPath": "/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
       "posterPath": "/qUj1aMFRkS51qxtT2klYYoEhxbq.jpg",
-      "rating": 8.019,
+      "rating": 8.018,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -309,7 +309,7 @@
       "releaseDate": "1994-09-23",
       "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "posterPath": "/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
-      "rating": 8.734,
+      "rating": 8.735,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -322,9 +322,22 @@
       "releaseDate": "2003-05-21",
       "backdropPath": "/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
       "posterPath": "/isUerLEvLqwSGx6IaMHlFvWnNL5.jpg",
-      "rating": 7.744,
+      "rating": 7.745,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 176631,
+      "type": "tmdb",
+      "title": "太太万岁",
+      "originalTitle": "太太萬歲",
+      "description": "秀外慧中的好媳妇陈思珍（蒋天流饰）自与丈夫唐志远（张伐饰）结婚后，便把家里的人际关系处理得很好，持家有道。一日，思珍的弟弟陈思瑞（韩非饰）从台湾到上海省亲，邂逅志远的妹妹唐志琴（汪漪饰），两人一见钟情。然而因为陈父（石挥饰）不肯资助自己筹办公司的志远，却极力反对这桩亲事。思珍只得谎称唐家存有金条美钞，陈父才同意资助志远办起公司。不料发迹致富的志远却有了外遇，与姨太太（上官云珠饰）有染。思珍为了顾全丈夫名誉，只得委曲求全。未几，志远破产，谎言败露，两家人也因此闹翻。终于，思珍决定与志远离婚，却在律师事务遇见了秘密登记结婚的思瑞、志琴两人。面对真心相爱的一对有情人，思珍该何去何从。  　　由中国著名导演桑弧执导于1947年摄制的黑白影片《太太万岁》是小说家张爱玲的电影经典剧作。桑弧含蓄细腻的电影风格与张爱玲的剧作交相辉映。",
+      "releaseDate": "1947-11-30",
+      "backdropPath": "/ktrwxx5Ro1KHPE9mUrxekl6pjh6.jpg",
+      "posterPath": "/pX1b3PxZT83mzcKkOmTm3MoW63X.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1740363,
@@ -353,45 +366,6 @@
       "genreTitle": "动画, 冒险"
     },
     {
-      "id": 176631,
-      "type": "tmdb",
-      "title": "太太万岁",
-      "originalTitle": "太太萬歲",
-      "description": "秀外慧中的好媳妇陈思珍（蒋天流饰）自与丈夫唐志远（张伐饰）结婚后，便把家里的人际关系处理得很好，持家有道。一日，思珍的弟弟陈思瑞（韩非饰）从台湾到上海省亲，邂逅志远的妹妹唐志琴（汪漪饰），两人一见钟情。然而因为陈父（石挥饰）不肯资助自己筹办公司的志远，却极力反对这桩亲事。思珍只得谎称唐家存有金条美钞，陈父才同意资助志远办起公司。不料发迹致富的志远却有了外遇，与姨太太（上官云珠饰）有染。思珍为了顾全丈夫名誉，只得委曲求全。未几，志远破产，谎言败露，两家人也因此闹翻。终于，思珍决定与志远离婚，却在律师事务遇见了秘密登记结婚的思瑞、志琴两人。面对真心相爱的一对有情人，思珍该何去何从。  　　由中国著名导演桑弧执导于1947年摄制的黑白影片《太太万岁》是小说家张爱玲的电影经典剧作。桑弧含蓄细腻的电影风格与张爱玲的剧作交相辉映。",
-      "releaseDate": "1947-11-30",
-      "backdropPath": "/ktrwxx5Ro1KHPE9mUrxekl6pjh6.jpg",
-      "posterPath": "/pX1b3PxZT83mzcKkOmTm3MoW63X.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 21058,
-      "type": "tmdb",
-      "title": "小城之春",
-      "originalTitle": "小城之春",
-      "description": "在一个小城里，年轻少妇周玉纹与丈夫戴礼言过着平淡无味的生活。礼言在战争中失去了家产，也失去了面对现实的勇气，终日郁郁寡欢。夫妻之间相敬如宾，实则已没有感情可言。这沉闷的生活被从外面闯入小城的青年医生章志忱打破。他是礼言分别八年的朋友，也是玉纹过去的情人。礼言的妹妹戴秀喜欢上了志忱，而志忱拒绝了她。志忱的心里还装着玉纹。但他心里很矛盾。当年他与玉纹未结婚是因为玉纹母亲的阻挠，现在玉纹母亲死了，玉纹又有了丈夫。玉纹虽对丈夫尽职尽责，但心里却想着志忱，为此，她觉得对不起丈夫礼言。而礼言却决定成全他们两个，他吞了安眠药想自尽，后被抢救过来。经过了这一番感情波折，玉纹重新认识了自己与丈夫戴礼言的感情，她选择了与丈夫重新生活，而志忱也决定离开小城。一个春日的早晨，周玉纹、戴礼言还有妹妹戴秀在城头上为章志忱送行。他们目送志忱向外面的世界走去。",
-      "releaseDate": "1948-02-01",
-      "backdropPath": "/cr5fnofjFTKoUwgbyHzeZdkYMz4.jpg",
-      "posterPath": "/eCtv3xw44b3eUE2LGTgmfmQopKf.jpg",
-      "rating": 7.2,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1288445,
-      "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
-    },
-    {
       "id": 81401,
       "type": "tmdb",
       "title": "都灵之马",
@@ -403,58 +377,6 @@
       "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 11368,
-      "type": "tmdb",
-      "title": "血迷宫",
-      "originalTitle": "Blood Simple",
-      "description": "科恩兄弟贯穿创作生涯的、穿越边缘美国的暗黑喜剧之旅，正是从这部锐利冰冷的德州新黑色电影启程。片中一位卑劣的酒馆老板因一念杀机掀起了腥风血雨，演员麦·艾美特·华许以黄西装、牛仔帽和全然失序的道德准则化身游走于罪案中的滑头侦探，弗兰西斯·麦克多蒙德精妙的银幕首秀则预示了她通往巨星之路的起点。科恩兄弟数十年创作中标志性的严密剧本与独创风格，在此首部作品中已全然显现：摄影指导巴里·索南菲尔德摒弃黑白明暗对照法，转而运用霓虹灯与点唱机色彩的视觉交响，搭配卡特·伯威尔萦绕心头的配乐，营造出悚丽而震颤的视听效果。本片融汇廉价小说与低成本恐怖片的元素，为新一代观众重塑了黑色电影范式，标志着一个将改变美国独立电影格局的创作集体的登场。",
-      "releaseDate": "1985-01-18",
-      "backdropPath": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
-      "posterPath": "/AgZYRlHfZUdrcG70loMrI5kcP6N.jpg",
-      "rating": 7.25,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 427,
-      "type": "tmdb",
-      "title": "我的舅舅",
-      "originalTitle": "Mon oncle",
-      "description": "于洛先生（雅克·塔蒂 饰）从乡下来，到了巴黎的姐姐（阿德里安娜·色万提 饰）家里小住，对姐姐家中各种现代化设备极其不适应，经常被搞得手忙脚乱。还好小侄子杰拉德喜欢这个舅舅，和他到处去玩，杰拉德同样不喜欢家里的现代化设备，因此于洛还带他去郊区老屋玩耍。于洛的姐夫阿尔贝勒先生（让·皮埃尔·佐拉 饰）帮于洛在自己工厂找了一份工作，可是于洛同样不适应现代化的操作机器，搞砸了许多事情，闹了许多笑话，姐夫对他忍无可忍，决定介绍另一份工作打发他离开，而于洛开心地同小侄子话别，只当结束了一个不同寻常的假期……",
-      "releaseDate": "1958-05-10",
-      "backdropPath": "/3yYNJeR6JynSE3Y1AfVIJQ6g3UX.jpg",
-      "posterPath": "/lCz7epnsQalrzmKqu6MPUDO9eUo.jpg",
-      "rating": 7.4,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
-    },
-    {
-      "id": 451995,
-      "type": "tmdb",
-      "title": "脸庞，村庄",
-      "originalTitle": "Visages Villages",
-      "description": "作为阿涅斯·瓦尔达提名奥斯卡的晚年力作，这部充满手工温度的人文主义杰作，记录下八旬导演与三十余岁的街头摄影师JR的跨界合作。二人驾驶可即时输出巨幅肖像的摄影车，穿梭于法国乡间，将沿途相遇的农民、退役矿工、码头工人等普通人的肖像张贴于当地墙垣。这些故事拼贴出一幅传统在现代化浪潮中绵延的国度图景。这部布满岔路的公路电影、迷人的跨代际伙伴电影，以及献给各行匠人的颂歌，在瓦尔达追溯往昔与编织新忆的过程中，最终凝结成对艺术、人际关系与生命本身转瞬即逝的深刻沉思。[标准收藏]",
-      "releaseDate": "2017-06-28",
-      "backdropPath": "/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
-      "posterPath": "/idIv93FXHay1KIMVLZiP9Qeav3r.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落2：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "releaseDate": "2026-09-01",
-      "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-      "posterPath": "/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
     },
     {
       "id": 49964,
@@ -478,9 +400,61 @@
       "releaseDate": "1986-05-09",
       "backdropPath": "/48y1eAboPFgt7rKcynRAPPvtJ1E.jpg",
       "posterPath": "/gNscrLaRH0xqIMQX4ur2dIlq3Zq.jpg",
-      "rating": 7.705,
+      "rating": 7.707,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 21058,
+      "type": "tmdb",
+      "title": "小城之春",
+      "originalTitle": "小城之春",
+      "description": "在一个小城里，年轻少妇周玉纹与丈夫戴礼言过着平淡无味的生活。礼言在战争中失去了家产，也失去了面对现实的勇气，终日郁郁寡欢。夫妻之间相敬如宾，实则已没有感情可言。这沉闷的生活被从外面闯入小城的青年医生章志忱打破。他是礼言分别八年的朋友，也是玉纹过去的情人。礼言的妹妹戴秀喜欢上了志忱，而志忱拒绝了她。志忱的心里还装着玉纹。但他心里很矛盾。当年他与玉纹未结婚是因为玉纹母亲的阻挠，现在玉纹母亲死了，玉纹又有了丈夫。玉纹虽对丈夫尽职尽责，但心里却想着志忱，为此，她觉得对不起丈夫礼言。而礼言却决定成全他们两个，他吞了安眠药想自尽，后被抢救过来。经过了这一番感情波折，玉纹重新认识了自己与丈夫戴礼言的感情，她选择了与丈夫重新生活，而志忱也决定离开小城。一个春日的早晨，周玉纹、戴礼言还有妹妹戴秀在城头上为章志忱送行。他们目送志忱向外面的世界走去。",
+      "releaseDate": "1948-02-01",
+      "backdropPath": "/cr5fnofjFTKoUwgbyHzeZdkYMz4.jpg",
+      "posterPath": "/eCtv3xw44b3eUE2LGTgmfmQopKf.jpg",
+      "rating": 7.2,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 451995,
+      "type": "tmdb",
+      "title": "脸庞，村庄",
+      "originalTitle": "Visages Villages",
+      "description": "作为阿涅斯·瓦尔达提名奥斯卡的晚年力作，这部充满手工温度的人文主义杰作，记录下八旬导演与三十余岁的街头摄影师JR的跨界合作。二人驾驶可即时输出巨幅肖像的摄影车，穿梭于法国乡间，将沿途相遇的农民、退役矿工、码头工人等普通人的肖像张贴于当地墙垣。这些故事拼贴出一幅传统在现代化浪潮中绵延的国度图景。这部布满岔路的公路电影、迷人的跨代际伙伴电影，以及献给各行匠人的颂歌，在瓦尔达追溯往昔与编织新忆的过程中，最终凝结成对艺术、人际关系与生命本身转瞬即逝的深刻沉思。[标准收藏]",
+      "releaseDate": "2017-06-28",
+      "backdropPath": "/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
+      "posterPath": "/idIv93FXHay1KIMVLZiP9Qeav3r.jpg",
+      "rating": 7.6,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 11368,
+      "type": "tmdb",
+      "title": "血迷宫",
+      "originalTitle": "Blood Simple",
+      "description": "科恩兄弟贯穿创作生涯的、穿越边缘美国的暗黑喜剧之旅，正是从这部锐利冰冷的德州新黑色电影启程。片中一位卑劣的酒馆老板因一念杀机掀起了腥风血雨，演员麦·艾美特·华许以黄西装、牛仔帽和全然失序的道德准则化身游走于罪案中的滑头侦探，弗兰西斯·麦克多蒙德精妙的银幕首秀则预示了她通往巨星之路的起点。科恩兄弟数十年创作中标志性的严密剧本与独创风格，在此首部作品中已全然显现：摄影指导巴里·索南菲尔德摒弃黑白明暗对照法，转而运用霓虹灯与点唱机色彩的视觉交响，搭配卡特·伯威尔萦绕心头的配乐，营造出悚丽而震颤的视听效果。本片融汇廉价小说与低成本恐怖片的元素，为新一代观众重塑了黑色电影范式，标志着一个将改变美国独立电影格局的创作集体的登场。",
+      "releaseDate": "1985-01-18",
+      "backdropPath": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+      "posterPath": "/AgZYRlHfZUdrcG70loMrI5kcP6N.jpg",
+      "rating": 7.249,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 427,
+      "type": "tmdb",
+      "title": "我的舅舅",
+      "originalTitle": "Mon oncle",
+      "description": "于洛先生（雅克·塔蒂 饰）从乡下来，到了巴黎的姐姐（阿德里安娜·色万提 饰）家里小住，对姐姐家中各种现代化设备极其不适应，经常被搞得手忙脚乱。还好小侄子杰拉德喜欢这个舅舅，和他到处去玩，杰拉德同样不喜欢家里的现代化设备，因此于洛还带他去郊区老屋玩耍。于洛的姐夫阿尔贝勒先生（让·皮埃尔·佐拉 饰）帮于洛在自己工厂找了一份工作，可是于洛同样不适应现代化的操作机器，搞砸了许多事情，闹了许多笑话，姐夫对他忍无可忍，决定介绍另一份工作打发他离开，而于洛开心地同小侄子话别，只当结束了一个不同寻常的假期……",
+      "releaseDate": "1958-05-10",
+      "backdropPath": "/3yYNJeR6JynSE3Y1AfVIJQ6g3UX.jpg",
+      "posterPath": "/lCz7epnsQalrzmKqu6MPUDO9eUo.jpg",
+      "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
     },
     {
       "id": 1151272,
@@ -491,22 +465,9 @@
       "releaseDate": "2025-06-06",
       "backdropPath": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
       "posterPath": "/x2fvCwk1xEasxhdGwkvIV45SxWQ.jpg",
-      "rating": 6.807,
+      "rating": 6.803,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
-    },
-    {
-      "id": 11382,
-      "type": "tmdb",
-      "title": "子弹横飞百老汇",
-      "originalTitle": "Bullets Over Broadway",
-      "description": "长久以来，剧作家大卫（约翰·库萨克 饰）都过着郁郁不得志的生活，艺术家特有的清高让他对如今腐败混乱的话剧界充满了失望之情。为了讨好情妇奥利芙（詹妮弗·提莉 饰），黑帮大佬看中了名不见经传的大卫的剧本想要投资，作为前提条件 ，大卫必须让奥利芙饰演主角。虽然奥利芙唠叨的个性和蹩脚的演技让大卫深感抓狂，但在利益面前，他痛苦的屈服了。就这样，一个奇怪的剧组诞生了。 剧本的漏洞，女演员们之间的矛盾，男主演日益肥胖的身材都让大卫感到绝望，但令他惊奇的是，一直监视着奥利芙的保镖契奇（查兹·帕尔明特瑞 饰）在无意中展现了过人的编剧才能。在契奇的帮助下，被改写的剧本居然获得了盛大的成功，与此同时，契奇对由自己操刀的剧本展现出的病态执着和剧组里混乱的男女关系让大卫陷入了另一个困境……",
-      "releaseDate": "1994-10-14",
-      "backdropPath": "/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
-      "posterPath": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
-      "rating": 7.1,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 犯罪"
     },
     {
       "id": 414419,
@@ -517,7 +478,7 @@
       "releaseDate": "2011-03-27",
       "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.107,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -535,32 +496,6 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
-      "id": 11475,
-      "type": "tmdb",
-      "title": "列宁格勒牛仔征美记",
-      "originalTitle": "Leningrad Cowboys Go America",
-      "description": "列宁格勒牛仔摇滚乐队的几个成员装扮怪异，戴大墨镜，烫飞机头，夸张的火箭鞋就是他们的标志。可在他们的家乡看不见事业成功的希望，于是他们决定转战美国寻求机会，在即将出发的前夜，吉他手却被冻死，尽管如此，队员们还是将他装入了放满冰块的木箱中带上了旅途。此时同村的一个怪异的哑巴偷偷跟随乐队来到了纽约。纽约的机会并不如他们想象的丰富，困窘的生活仍在继续，在他们走投无路之时，得到了一个来自墨西哥的婚宴演出机会。于是他们用仅剩的钱从一个美国售货员（吉姆·贾木许 饰）手中买了一辆旧车后继续向墨西哥进发，那里有他们最后的梦想……",
-      "releaseDate": "1989-03-24",
-      "backdropPath": "/kevyDBlyEJvQOPGd0b3BbtPKqrK.jpg",
-      "posterPath": "/rYI5IAKwqOl6nPcAYL58VzI0EXN.jpg",
-      "rating": 6.9,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 音乐"
-    },
-    {
-      "id": 11471,
-      "type": "tmdb",
-      "title": "英雄本色",
-      "originalTitle": "英雄本色",
-      "description": "香港某个国际伪钞集团重要分子宋子豪（狄龙）和Mark（周润发）情同手足，某次宋子豪带手下谭成（李子雄）去台北交易时被其出卖受枪伤被捕入狱，为替好兄弟报仇，Mark孤身赴台，结果被人打成瘸子，江湖地位自此一落千丈，而宋子豪的父亲也在不久丧命。一向视宋子豪为偶像的宋子杰得知哥哥的真实身份后，对黑社会及他恨之人骨，立誓利用警察身份将黑帮势力斩草除根，宋子豪出狱后不顾苦等他想重创辉煌的Mark的劝阻，决心弃暗投明，无奈得不到宋子杰的谅解。而此时已成帮会老大的谭成欲找宋子豪再合作，遭拒绝后放言会害宋子杰，被逼走投无路，宋子豪决定再与Mark连手共抗强敌。",
-      "releaseDate": "1986-08-02",
-      "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
-      "posterPath": "/qvdvGB9d58zjberXoCX5RihD5PY.jpg",
-      "rating": 7.4,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
       "id": 1616157,
       "type": "tmdb",
       "title": "上海女儿",
@@ -572,6 +507,45 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 11382,
+      "type": "tmdb",
+      "title": "子弹横飞百老汇",
+      "originalTitle": "Bullets Over Broadway",
+      "description": "长久以来，剧作家大卫（约翰·库萨克 饰）都过着郁郁不得志的生活，艺术家特有的清高让他对如今腐败混乱的话剧界充满了失望之情。为了讨好情妇奥利芙（詹妮弗·提莉 饰），黑帮大佬看中了名不见经传的大卫的剧本想要投资，作为前提条件 ，大卫必须让奥利芙饰演主角。虽然奥利芙唠叨的个性和蹩脚的演技让大卫深感抓狂，但在利益面前，他痛苦的屈服了。就这样，一个奇怪的剧组诞生了。 剧本的漏洞，女演员们之间的矛盾，男主演日益肥胖的身材都让大卫感到绝望，但令他惊奇的是，一直监视着奥利芙的保镖契奇（查兹·帕尔明特瑞 饰）在无意中展现了过人的编剧才能。在契奇的帮助下，被改写的剧本居然获得了盛大的成功，与此同时，契奇对由自己操刀的剧本展现出的病态执着和剧组里混乱的男女关系让大卫陷入了另一个困境……",
+      "releaseDate": "1994-10-14",
+      "backdropPath": "/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
+      "posterPath": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 犯罪"
+    },
+    {
+      "id": 1288445,
+      "type": "tmdb",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "releaseDate": "2026-08-19",
+      "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "rating": 7.649,
+      "mediaType": "movie",
+      "genreTitle": "动作, 惊悚"
+    },
+    {
+      "id": 11471,
+      "type": "tmdb",
+      "title": "英雄本色",
+      "originalTitle": "英雄本色",
+      "description": "香港某个国际伪钞集团重要分子宋子豪（狄龙）和Mark（周润发）情同手足，某次宋子豪带手下谭成（李子雄）去台北交易时被其出卖受枪伤被捕入狱，为替好兄弟报仇，Mark孤身赴台，结果被人打成瘸子，江湖地位自此一落千丈，而宋子豪的父亲也在不久丧命。一向视宋子豪为偶像的宋子杰得知哥哥的真实身份后，对黑社会及他恨之人骨，立誓利用警察身份将黑帮势力斩草除根，宋子豪出狱后不顾苦等他想重创辉煌的Mark的劝阻，决心弃暗投明，无奈得不到宋子杰的谅解。而此时已成帮会老大的谭成欲找宋子豪再合作，遭拒绝后放言会害宋子杰，被逼走投无路，宋子豪决定再与Mark连手共抗强敌。",
+      "releaseDate": "1986-08-02",
+      "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
+      "posterPath": "/qvdvGB9d58zjberXoCX5RihD5PY.jpg",
+      "rating": 7.358,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 1807718,
@@ -587,17 +561,17 @@
       "genreTitle": "剧情, 历史"
     },
     {
-      "id": 104171,
+      "id": 11475,
       "type": "tmdb",
-      "title": "在那河畔青草青",
-      "originalTitle": "在那河畔青草青",
-      "description": "卢大年 因替即将出国的姐姐代课来到内湾，在姐姐安排下住进小学音乐老师陈素云 家的二楼。大年担任四年级忠班的班主任。在班上，他一方面要对付调皮捣蛋出了名的“三剑客”，同时也关心着因父母离婚而性格孤僻的学生周兴旺 。陈素云是个文静的姑娘，整日与大年同来同往，互相产生爱慕之情。在内湾，存在着以投毒和电击的方法捕鱼，大年决心根除这种严重破坏大自然生态的捕鱼方法，在内湾小学发起“爱川护鱼”运动，并在内湾地区推广开来。周兴旺的父亲周文 经常去电鱼，为此，他受到同学嘲弄而离家出走。大年和素云要去找回孩子，最后他们能结合在一起吗？",
-      "releaseDate": "1982-10-24",
-      "backdropPath": "/xm7ULWOA9MECQpXhcPowip7uyT4.jpg",
-      "posterPath": "/nWgeEWh8pKatQIGYtS3GiQHrqZA.jpg",
-      "rating": 6.4,
+      "title": "列宁格勒牛仔征美记",
+      "originalTitle": "Leningrad Cowboys Go America",
+      "description": "列宁格勒牛仔摇滚乐队的几个成员装扮怪异，戴大墨镜，烫飞机头，夸张的火箭鞋就是他们的标志。可在他们的家乡看不见事业成功的希望，于是他们决定转战美国寻求机会，在即将出发的前夜，吉他手却被冻死，尽管如此，队员们还是将他装入了放满冰块的木箱中带上了旅途。此时同村的一个怪异的哑巴偷偷跟随乐队来到了纽约。纽约的机会并不如他们想象的丰富，困窘的生活仍在继续，在他们走投无路之时，得到了一个来自墨西哥的婚宴演出机会。于是他们用仅剩的钱从一个美国售货员（吉姆·贾木许 饰）手中买了一辆旧车后继续向墨西哥进发，那里有他们最后的梦想……",
+      "releaseDate": "1989-03-24",
+      "backdropPath": "/kevyDBlyEJvQOPGd0b3BbtPKqrK.jpg",
+      "posterPath": "/rYI5IAKwqOl6nPcAYL58VzI0EXN.jpg",
+      "rating": 6.9,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "喜剧, 音乐"
     },
     {
       "id": 1778310,
@@ -613,17 +587,17 @@
       "genreTitle": "动画, 奇幻"
     },
     {
-      "id": 1724637,
+      "id": 104171,
       "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。",
-      "releaseDate": "2026-08-07",
-      "backdropPath": "/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
-      "posterPath": "/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
-      "rating": 6.7,
+      "title": "在那河畔青草青",
+      "originalTitle": "在那河畔青草青",
+      "description": "卢大年 因替即将出国的姐姐代课来到内湾，在姐姐安排下住进小学音乐老师陈素云 家的二楼。大年担任四年级忠班的班主任。在班上，他一方面要对付调皮捣蛋出了名的“三剑客”，同时也关心着因父母离婚而性格孤僻的学生周兴旺 。陈素云是个文静的姑娘，整日与大年同来同往，互相产生爱慕之情。在内湾，存在着以投毒和电击的方法捕鱼，大年决心根除这种严重破坏大自然生态的捕鱼方法，在内湾小学发起“爱川护鱼”运动，并在内湾地区推广开来。周兴旺的父亲周文 经常去电鱼，为此，他受到同学嘲弄而离家出走。大年和素云要去找回孩子，最后他们能结合在一起吗？",
+      "releaseDate": "1982-10-24",
+      "backdropPath": "/xm7ULWOA9MECQpXhcPowip7uyT4.jpg",
+      "posterPath": "/nWgeEWh8pKatQIGYtS3GiQHrqZA.jpg",
+      "rating": 6.4,
       "mediaType": "movie",
-      "genreTitle": "爱情, 动画"
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1303336,
@@ -652,32 +626,6 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 1774595,
-      "type": "tmdb",
-      "title": "凝脂手",
-      "originalTitle": "凝脂手",
-      "description": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
-      "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 454639,
-      "type": "tmdb",
-      "title": "宇宙巨人：希曼崛起",
-      "originalTitle": "Masters of the Universe",
-      "description": "亚当（尼古拉斯·加利齐纳 饰）在神秘圣剑的召唤下，尘封十五年的异世界王子身份觉醒，平凡人生被彻底颠覆。他跨越时空重返埃坦尼亚，但故乡早已在骷髅王的统治下分崩离析。为拯救曾经的家园与现在的世界，亚当必须再次拔出圣剑，喊出那句响彻寰宇的咒语——“赐予我力量吧！我是希曼！”",
-      "releaseDate": "2026-06-03",
-      "backdropPath": "/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
-      "posterPath": "/i2mfUWIoxbBuNVn71ALVhC7F7Lo.jpg",
-      "rating": 7.077,
-      "mediaType": "movie",
-      "genreTitle": "动作, 奇幻"
-    },
-    {
       "id": 1178602,
       "type": "tmdb",
       "title": "镜的第三乐章",
@@ -686,35 +634,9 @@
       "releaseDate": "2025-08-27",
       "backdropPath": "/sBmk1aaiepcBfC3l5NpEsdEoawP.jpg",
       "posterPath": "/urRcPrHpsX1N8GNj6TOsbqUZd1L.jpg",
-      "rating": 6.592,
+      "rating": 6.598,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
-      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.185,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
-      "id": 1670314,
-      "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1057888,
@@ -730,6 +652,32 @@
       "genreTitle": "剧情, 奇幻"
     },
     {
+      "id": 454639,
+      "type": "tmdb",
+      "title": "宇宙巨人：希曼崛起",
+      "originalTitle": "Masters of the Universe",
+      "description": "亚当（尼古拉斯·加利齐纳 饰）在神秘圣剑的召唤下，尘封十五年的异世界王子身份觉醒，平凡人生被彻底颠覆。他跨越时空重返埃坦尼亚，但故乡早已在骷髅王的统治下分崩离析。为拯救曾经的家园与现在的世界，亚当必须再次拔出圣剑，喊出那句响彻寰宇的咒语——“赐予我力量吧！我是希曼！”",
+      "releaseDate": "2026-06-03",
+      "backdropPath": "/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
+      "posterPath": "/i2mfUWIoxbBuNVn71ALVhC7F7Lo.jpg",
+      "rating": 7.077,
+      "mediaType": "movie",
+      "genreTitle": "动作, 奇幻"
+    },
+    {
+      "id": 1774595,
+      "type": "tmdb",
+      "title": "凝脂手",
+      "originalTitle": "凝脂手",
+      "description": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
+      "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 1269644,
       "type": "tmdb",
       "title": "阿姆鲁姆",
@@ -738,7 +686,7 @@
       "releaseDate": "2025-10-09",
       "backdropPath": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
       "posterPath": "/yrFHlsSa5bK2LrV0oN6xpdodyBI.jpg",
-      "rating": 7.2,
+      "rating": 7.207,
       "mediaType": "movie",
       "genreTitle": "剧情, 战争"
     },
@@ -769,19 +717,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1616184,
-      "type": "tmdb",
-      "title": "Ich verstehe Ihren Unmut",
-      "originalTitle": "Ich verstehe Ihren Unmut",
-      "description": "",
-      "releaseDate": "2026-06-04",
-      "backdropPath": "/lSWrowSCSbistjOc1WRqN8tT74U.jpg",
-      "posterPath": "/iXrLk4RYQVApzB9V4VE6ip5GPmV.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1599204,
       "type": "tmdb",
       "title": "When Pigs Fly",
@@ -790,19 +725,6 @@
       "releaseDate": "2026-03-14",
       "backdropPath": "/nunK3ZGm2ufg8OH4UkD1wj3CJgT.jpg",
       "posterPath": "/vdmB7SpYyzOlZzM0jeB3jJbj9Bx.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1616782,
-      "type": "tmdb",
-      "title": "Was an Empfindsamkeit bleibt",
-      "originalTitle": "Was an Empfindsamkeit bleibt",
-      "description": "",
-      "releaseDate": "2026-05-14",
-      "backdropPath": "/5uNNclxRCPNu1flJAgjYg3D9geu.jpg",
-      "posterPath": "/fIae7JNZWC1pmAvFqT0D6cizmbb.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "纪录"
@@ -821,6 +743,58 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
+      "id": 1616782,
+      "type": "tmdb",
+      "title": "Was an Empfindsamkeit bleibt",
+      "originalTitle": "Was an Empfindsamkeit bleibt",
+      "description": "",
+      "releaseDate": "2026-05-14",
+      "backdropPath": "/5uNNclxRCPNu1flJAgjYg3D9geu.jpg",
+      "posterPath": "/fIae7JNZWC1pmAvFqT0D6cizmbb.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1616184,
+      "type": "tmdb",
+      "title": "Ich verstehe Ihren Unmut",
+      "originalTitle": "Ich verstehe Ihren Unmut",
+      "description": "",
+      "releaseDate": "2026-06-04",
+      "backdropPath": "/lSWrowSCSbistjOc1WRqN8tT74U.jpg",
+      "posterPath": "/iXrLk4RYQVApzB9V4VE6ip5GPmV.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 8.2,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
+    },
+    {
+      "id": 1670314,
+      "type": "tmdb",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
       "id": 592402,
       "type": "tmdb",
       "title": "大熊雨林",
@@ -829,35 +803,9 @@
       "releaseDate": "2019-02-15",
       "backdropPath": null,
       "posterPath": "/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
-      "rating": 9,
+      "rating": 8.667,
       "mediaType": "movie",
       "genreTitle": "纪录"
-    },
-    {
-      "id": 1148213,
-      "type": "tmdb",
-      "title": "喜欢高兴爱",
-      "originalTitle": "喜欢高兴爱",
-      "description": "一个女人为爱盲目而奋不顾身的一次次试错，在爱中疯狂，受难，也在爱中蜕变、成长。这是一个关于爱，关于一个女孩经历爱情种种，由一个女人走向一个女人的“存在”的故事。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/lxJPjaPHZ94J5vaDWeBnXPsteEy.jpg",
-      "posterPath": "/9aW7ypxLFKpzIaabdn7E9fPOj1e.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 921937,
-      "type": "tmdb",
-      "title": "穆桂英挂帅(京剧)",
-      "originalTitle": "穆桂英挂帅(京剧)",
-      "description": "西夏王造反，佘太君差杨文广、杨金花进京打探。杨文广校场比武，刀劈王伦。宋王赐印命其母穆桂英挂帅出征。穆桂英先不愿挂帅，经佘太君劝勉，念及国家危亡，抛弃私愤，顿然振奋，慷慨誓师整肃军纪，率领大军出征。",
-      "releaseDate": "2017-04-21",
-      "backdropPath": null,
-      "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
     },
     {
       "id": 956215,
@@ -881,6 +829,19 @@
       "releaseDate": "2015-04-23",
       "backdropPath": null,
       "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": ""
+    },
+    {
+      "id": 921937,
+      "type": "tmdb",
+      "title": "穆桂英挂帅(京剧)",
+      "originalTitle": "穆桂英挂帅(京剧)",
+      "description": "西夏王造反，佘太君差杨文广、杨金花进京打探。杨文广校场比武，刀劈王伦。宋王赐印命其母穆桂英挂帅出征。穆桂英先不愿挂帅，经佘太君劝勉，念及国家危亡，抛弃私愤，顿然振奋，慷慨誓师整肃军纪，率领大军出征。",
+      "releaseDate": "2017-04-21",
+      "backdropPath": null,
+      "posterPath": "/iQuk3dJMp3lmpw7yb0JySL7Z6m1.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
