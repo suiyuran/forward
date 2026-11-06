@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-05T00:33:50.081Z",
+  "time": "2026-11-06T00:34:30.898Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 8.06,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
         "posterPath": "/3J4gRr16fTAzznQeDhwc8FPYtsE.jpg",
-        "rating": 8.253,
+        "rating": 8.25,
         "mediaType": "movie",
         "genreTitle": "剧情, 历史"
       },
@@ -113,9 +113,9 @@
         "originalTitle": "Buddy",
         "description": "一群孩子被困在看似欢乐的儿童电视节目中。随着橙色独角兽布迪露出凶残本性，这个充满歌舞与欢笑的世界逐渐显露出恐怖真相。",
         "releaseDate": "2026-08-27",
-        "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+        "backdropPath": "/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 7,
+        "rating": 6.958,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -247,7 +247,7 @@
         "releaseDate": "2026-10-16",
         "backdropPath": "/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
         "posterPath": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
-        "rating": 7,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-10-22",
         "backdropPath": "/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
         "posterPath": "/l0YkFVmSt1LgsiraDXBgp3OFJ2k.jpg",
-        "rating": 7.2,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 9,
+        "rating": 9.038,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.7,
+        "rating": 8.659,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -338,9 +338,9 @@
         "originalTitle": "닥터X: 하얀 마피아의 시대",
         "description": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。",
         "releaseDate": "2026-10-09",
-        "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+        "backdropPath": "/rjzbt01IVAJVp9WBdRl4mT3Yl2w.jpg",
         "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
-        "rating": 9.025,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
