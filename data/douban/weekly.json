@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-06T23:50:29.113Z",
+  "time": "2026-11-07T23:08:45.052Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 8.09,
+        "rating": 8.1,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -20,11 +20,11 @@
         "type": "tmdb",
         "title": "可能的爱",
         "originalTitle": "가능한 사랑",
-        "description": "《假如爱有如果》讲述了两对已婚夫妇之间错综复杂的关系；他们各自面临着不同的人生抉择，内心也深藏着不为人知的渴望。美玉（全度妍饰）与失业的丈夫浩锡（薛景求饰）及年幼的儿子崔铁，直到一场葬礼让他们与纪录片导演艺智（曹汝贞饰）及其丈夫尚宇（赵寅成饰）产生交集。艺智正在拍摄失业工人的生活，而她与尚宇优渥的生活方式也与美玉一家形成鲜明对比。美玉答应接受拍摄后，逐渐与艺智亲近，也不由自主地被难以捉摸的尚宇吸引，心中充满不安。随着两个世界不断碰撞，他们看似平静的日常生活也开始出现裂痕。这是备受赞誉的导演李沧东（《燃烧》、《诗》、《密阳》）时隔八年推出的新作。他以标志性的细腻笔触呈现《假如爱有如果》中不断变化的情感、彼此交织的矛盾与截然不同的人生观，刻画这些关系中的微妙变化。",
+        "description": "故事讲述两对已婚夫妇——一名下岗工人及其配偶，和一位纪录片导演及其配偶——因拍摄一部纪录片而相遇，并面对各自不同的生活与隐藏的欲望。",
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.5,
+        "rating": 7.435,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -33,7 +33,7 @@
         "type": "tmdb",
         "title": "每时每刻",
         "originalTitle": "Everytime",
-        "description": "大女儿意外离世后，母亲艾拉带着小女儿和被认为对悲剧负有责任的男孩前往特内里费岛，完成一场未能成行的家庭旅行。在悲伤、愧疚与无法释怀的过往中，三人逐渐面对彼此复杂的情感。",
+        "description": "一场悲剧，将一位母亲、她的女儿和一名少年牵引到了一起。在自责与宽恕之间挣扎的三人，踏上前往特内里费岛的旅程，补上一场从未成行的家庭假期。阳光之下，过去与当下悄然交叠。",
         "releaseDate": "2026-08-06",
         "backdropPath": "/bRkk5HjNLQMWB3LlZdxySSzxVLi.jpg",
         "posterPath": "/717HnuG76k83GpqupEWd6S1iy5j.jpg",
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/yF4vFj0BSle87KSuRLhtT1PPfvs.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
-        "rating": 7.8,
+        "rating": 7.815,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 6.918,
+        "rating": 6.907,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.929,
+        "rating": 6.917,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
         "posterPath": "/2O3b5ey8xITyzz5KuaaRTj6bONx.jpg",
-        "rating": 7.984,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "动画, 冒险"
       },
@@ -247,7 +247,7 @@
         "releaseDate": "2026-10-16",
         "backdropPath": "/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
         "posterPath": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
-        "rating": 6.962,
+        "rating": 7.167,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-09-17",
         "backdropPath": "/zWOhdkAgyo0HVDDHE5ZsztaPtCQ.jpg",
         "posterPath": "/l4ILps4izoFtPZccwtM5rxTByk3.jpg",
-        "rating": 0,
+        "rating": 10,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       },
@@ -338,8 +338,8 @@
         "originalTitle": "닥터X: 하얀 마피아의 시대",
         "description": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。",
         "releaseDate": "2026-10-09",
-        "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-        "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
+        "backdropPath": "/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
+        "posterPath": "/pFN9UtKh8CtfLWWyquCw6n3BCSQ.jpg",
         "rating": 9,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
@@ -365,8 +365,8 @@
         "description": "天才扒手佳景在朝鲜总督府伪装就业100天，作为假密探活跃在朝鲜，最后成为真正的密探的过程以及与朝鲜翻译官泰雄展开浪漫爱情故事的谍报罗曼史电视剧。",
         "releaseDate": "2026-10-10",
         "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-        "posterPath": "/xNE0eyVaBy4vfj2K8EjjmHR6Xbb.jpg",
-        "rating": 8.538,
+        "posterPath": "/rJvlEtFLeQbjr56fPXh0zzNdrgr.jpg",
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       }
