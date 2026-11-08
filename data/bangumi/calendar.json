@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-07T19:50:14.693Z",
+  "time": "2026-11-08T20:06:32.676Z",
   "data": {
     "星期日": [
       {
@@ -50,7 +50,7 @@
         "releaseDate": "2022-04-09",
         "backdropPath": "/87IQdOn34p1z2KTdM4IZ1N8bWaH.jpg",
         "posterPath": "/hHAieX1kcUIMi7KmOT3RtGQdBK8.jpg",
-        "rating": 7.847,
+        "rating": 7.8,
         "mediaType": "tv",
         "genreTitle": "动画"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
-        "rating": 9.627,
+        "rating": 9.632,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -310,7 +310,7 @@
         "releaseDate": "2024-10-27",
         "backdropPath": "/3XYx3pQh2sKRnc9CI9tY7UU2SPv.jpg",
         "posterPath": "/jPHitNQ1fuKK6aPZ6eCPiFq9XhG.jpg",
-        "rating": 7.789,
+        "rating": 7.9,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       }
@@ -721,7 +721,7 @@
         "releaseDate": "2026-10-01",
         "backdropPath": "/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
         "posterPath": "/fm6Mzk8e1sGvuOasuCtWhdKl7xx.jpg",
-        "rating": 8.8,
+        "rating": 8.857,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -814,7 +814,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 8.909,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -840,7 +840,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.667,
+        "rating": 8.665,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -972,7 +972,7 @@
         "releaseDate": "2021-12-03",
         "backdropPath": "/xvW4vt825iB1cRKfNcQ8ilEDtdM.jpg",
         "posterPath": "/jO4DI02wo9hqimvELQGPa44T47Q.jpg",
-        "rating": 7.696,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -1003,6 +1003,19 @@
         "genreTitle": "动画, 喜剧"
       },
       {
+        "id": 204084,
+        "type": "tmdb",
+        "title": "梦幻之境",
+        "originalTitle": "Dreamland",
+        "description": "自从母亲在一场火灾中丧生后，特伦斯就把自己封闭在一个没有情感的世界里。他麻木地过着每天的青少年生活……只有一个例外！仅仅是看到火焰的景象，就会让他陷入恐惧的世界，唤醒他噩梦般的记忆——因为每次入睡，他都会无助地重温那场悲剧，从而重新点燃他的恐火症。直到有一天晚上他再也无法忍受，停止了逃离那恶魔般的火焰。他几乎不知道，通过这样做，他克服了最大的恐惧，成为了一名旅行者：一种非常特殊的梦者，能够探索梦境之地——那个由人类的梦想……和噩梦所诞生的维度！",
+        "releaseDate": "2026-10-17",
+        "backdropPath": "/pcv7Wf9UW7yrS9OHWYowkmUB9VA.jpg",
+        "posterPath": "/u4kYL7PSYFGTCZPMOaozPnDWzj6.jpg",
+        "rating": 7,
+        "mediaType": "tv",
+        "genreTitle": "动画, 喜剧"
+      },
+      {
         "id": 73223,
         "type": "tmdb",
         "title": "黑色五叶草",
@@ -1011,7 +1024,7 @@
         "releaseDate": "2017-10-03",
         "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
         "posterPath": "/6BOecDN3uz2RAmn3BaCyg4Nh5A0.jpg",
-        "rating": 8.535,
+        "rating": 8.536,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1115,7 +1128,7 @@
         "releaseDate": "2024-10-06",
         "backdropPath": "/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
         "posterPath": "/hOmadnDmq8aNdygqsxFkEVclxgF.jpg",
-        "rating": 8.1,
+        "rating": 8.087,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
