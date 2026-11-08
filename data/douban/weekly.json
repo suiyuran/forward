@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-07T23:08:45.052Z",
+  "time": "2026-11-08T23:14:00.179Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 8.1,
+        "rating": 8.102,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -20,13 +20,13 @@
         "type": "tmdb",
         "title": "可能的爱",
         "originalTitle": "가능한 사랑",
-        "description": "故事讲述两对已婚夫妇——一名下岗工人及其配偶，和一位纪录片导演及其配偶——因拍摄一部纪录片而相遇，并面对各自不同的生活与隐藏的欲望。",
+        "description": "一对失业夫妻遇上一对纪录片导演夫妇，并直面他们内心深处的渴望。",
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.435,
+        "rating": 7.473,
         "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "剧情, 爱情"
       },
       {
         "id": 1655419,
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/yF4vFj0BSle87KSuRLhtT1PPfvs.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
-        "rating": 7.815,
+        "rating": 7.829,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-09-27",
         "backdropPath": "/6neOr2yjCdnVFUzI5xIOvo6sxuf.jpg",
         "posterPath": "/350om1pKdv14AdTWxpwqEYR9WrS.jpg",
-        "rating": 7.4,
+        "rating": 7.333,
         "mediaType": "movie",
         "genreTitle": "犯罪, 动作"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 6.907,
+        "rating": 6.909,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.917,
+        "rating": 6.941,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
         "posterPath": "/2O3b5ey8xITyzz5KuaaRTj6bONx.jpg",
-        "rating": 8,
+        "rating": 7.935,
         "mediaType": "movie",
         "genreTitle": "动画, 冒险"
       },
@@ -247,7 +247,7 @@
         "releaseDate": "2026-10-16",
         "backdropPath": "/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
         "posterPath": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
-        "rating": 7.167,
+        "rating": 7.553,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.6,
+        "rating": 8.646,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
         "posterPath": "/pFN9UtKh8CtfLWWyquCw6n3BCSQ.jpg",
-        "rating": 9,
+        "rating": 9.07,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
