@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-08T20:06:32.676Z",
+  "time": "2026-11-09T23:56:16.749Z",
   "data": {
     "星期日": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2023-07-05",
         "backdropPath": "/7uyRCBMQIWwJSWIR2aCrvPjbPzi.jpg",
         "posterPath": "/u9pBZpb3WPERvDKZbkGYcSAoPsu.jpg",
-        "rating": 8.282,
+        "rating": 8.277,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
-        "rating": 9.632,
+        "rating": 9.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -227,7 +227,7 @@
         "id": 334504,
         "type": "tmdb",
         "title": "不擅交际的未亡人雪女与诅咒戒指",
-        "originalTitle": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
+        "originalTitle": "Hebat",
         "description": "为了继承突然逝去的父亲的遗产而在数月前到来的，位于幽静的住宅街的妖怪专用出租公寓。\n\n那里有一位丈夫去世，非常之梦幻而美丽的未亡人雪女雪乃小姐。\n\n然后在父亲留下的房间里有着个本不应在那里的，可随心所欲地控制妖怪的戒指。\n\n本是想要帮助改善陷入困难的雪乃小姐的生活可是却跟随了内心的欲望，事态开始走向未曾设想的方向——",
         "releaseDate": "2026-10-05",
         "backdropPath": "/fo8rXXfSluWR6vHTslFiT10uSp3.jpg",
@@ -245,7 +245,7 @@
         "releaseDate": "2024-04-07",
         "backdropPath": "/xlMVEbNl7ZBGFyhX2WEhQ8Kifm4.jpg",
         "posterPath": "/4afS25zyRxZo6qsIVtoSA2HdgOf.jpg",
-        "rating": 7.507,
+        "rating": 7.514,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -416,7 +416,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
         "posterPath": "/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-        "rating": 9.4,
+        "rating": 9.065,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
@@ -550,7 +550,7 @@
         "releaseDate": "1999-10-20",
         "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-        "rating": 8.756,
+        "rating": 8.757,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 喜剧"
       },
@@ -726,19 +726,6 @@
         "genreTitle": "动画, 喜剧"
       },
       {
-        "id": 293124,
-        "type": "tmdb",
-        "title": "黑化吧！圣女大人",
-        "originalTitle": "傷だらけ聖女より報復をこめて",
-        "description": "卢娅是有着治愈之力的圣女候补。然而她的能力有着缺点，因为要将伤病转移到自己的身上来治愈，所以自己要承受疼痛与难受。虽然圣女候补们都把她当做是缺陷品，但是唯有好友阿莉安一直在护着她。一天，卢娅抱有好感的骑士团长加洛特陷入了濒死状态。完全治好了他的伤的卢娅，则因能力到达极限而命垂一线。可是在苏醒过后，功劳全都变成了阿莉安的，加洛特也和阿莉安签订了婚约。不仅目睹了阿莉安的本性，还被加洛特冷淡对待。卢娅陷入了绝望，发誓不再去治愈任何人。就在这时，第二王子苏文向她提出“不来向贬低你的那帮家伙复仇吗”。她使用隐藏的另一个能力——将迄今为止治愈过的症状转移到他人身上的惩罚能力，和苏文携手开始了并非“圣女”而是“恶女”的崭新人生。",
-        "releaseDate": "2025-07-10",
-        "backdropPath": "/3Yl6mfqbyRPRKCHBmWoqANKrxPw.jpg",
-        "posterPath": "/1sAIl3Dz5QwYNZscuQdEhU7xl6x.jpg",
-        "rating": 6,
-        "mediaType": "tv",
-        "genreTitle": "动画, Sci-Fi & Fantasy"
-      },
-      {
         "id": 200777,
         "type": "tmdb",
         "title": "冰剑的魔术师将要统一世界",
@@ -788,7 +775,7 @@
         "releaseDate": "2021-04-11",
         "backdropPath": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
         "posterPath": "/nXsAZCWvsuN2GoGKE2GM625nKx.jpg",
-        "rating": 8.405,
+        "rating": 8.406,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -814,7 +801,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "posterPath": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
-        "rating": 8.9,
+        "rating": 8.885,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -840,7 +827,7 @@
         "releaseDate": "2023-10-22",
         "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
         "posterPath": "/nUFTbH417TqmCbw2b2mPSAESoTb.jpg",
-        "rating": 8.665,
+        "rating": 8.664,
         "mediaType": "tv",
         "genreTitle": "动画, 悬疑"
       },
@@ -866,7 +853,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
         "posterPath": "/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-        "rating": 9.4,
+        "rating": 9.065,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -879,7 +866,7 @@
         "releaseDate": "2026-10-02",
         "backdropPath": "/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
         "posterPath": "/brqnKFqqKoG4i3nRYhmnvqGib1W.jpg",
-        "rating": 7.4,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "动画, Sci-Fi & Fantasy"
       },
@@ -892,7 +879,7 @@
         "releaseDate": "2026-06-29",
         "backdropPath": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
         "posterPath": "/510e9ZkzWiUHab3skyuvWzjXWmN.jpg",
-        "rating": 9,
+        "rating": 8.883,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -905,7 +892,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.187,
+        "rating": 8.158,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
