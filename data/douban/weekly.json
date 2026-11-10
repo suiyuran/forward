@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-08T23:14:00.179Z",
+  "time": "2026-11-10T02:25:36.080Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 8.102,
+        "rating": 8.027,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.473,
+        "rating": 7.448,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/yF4vFj0BSle87KSuRLhtT1PPfvs.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
-        "rating": 7.829,
+        "rating": 7.849,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 6.909,
+        "rating": 6.885,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
         "posterPath": "/2O3b5ey8xITyzz5KuaaRTj6bONx.jpg",
-        "rating": 7.935,
+        "rating": 7.957,
         "mediaType": "movie",
         "genreTitle": "动画, 冒险"
       },
@@ -152,11 +152,11 @@
         "type": "tmdb",
         "title": "小城良方",
         "originalTitle": "小城良方",
-        "description": "讲述了当天才医生刘铮亮遭遇人生滑铁卢，被迫返回家乡从零开始的故事。他就地集结一群“不靠谱”的人，热血操刀着“最靠谱”的事，在烟火气中以人情暖意编织市井日常，开出一剂剂疗愈心灵的人生处方。",
+        "description": "该剧讲述了当天才医生刘铮亮（肖战饰）遭遇人生滑铁卢，被迫返回家乡从零开始的故事。他就地集结一群“不靠谱”的人，热血操刀着“最靠谱”的事，在烟火气中以人情暖意编织市井日常，开出一剂剂疗愈心灵的人生处方。\n\n该剧改编自刘三叔所著小说《飞刀》。",
         "releaseDate": "2026-10-21",
         "backdropPath": "/nhQKKALP3SOi1Ft5MZU6KU05VcY.jpg",
         "posterPath": "/fONYOXlKcphO290BSGxSCjnMPZg.jpg",
-        "rating": 8.3,
+        "rating": 8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -165,7 +165,7 @@
         "type": "tmdb",
         "title": "蒸蒸日上",
         "originalTitle": "蒸蒸日上",
-        "description": "烟火气十足的东北某城，女律师萧龙女因坚持正义离开高端律所，在大众浴池楼上创办律师事务所，与伙伴组成草根律师团队，为普通百姓处理各类民生纠纷。",
+        "description": "烟火气十足的东北某城律师街上，为人侠气、幽默的女律师萧龙女在大众浴池楼上开了一家律师事务所。她曾在当地最高端的泓湖律所里工作，却因一起案件中的正义之举而离职，更与同事兼竹马的李信律师决裂。有着不同法律观的两人，一个扶摇直上成为泓湖最年轻的高伙，另一个则失去所有案源、沦落为律师街上的“笑话”。\n\n萧龙女身处低谷却坚韧乐观，与自愿跟随她的行政古苗苗、不打不相识的董北虎和法考钉子户罗智组成了一伙蒸蒸日上的“草台班子”，在大大小小的案件中与精英律师代表李信狭路相逢、展开较量，在法律和生活中都不断碰撞出激烈火花，各自的人生也因此迎来了新的成长和变化……",
         "releaseDate": "2026-10-10",
         "backdropPath": "/mj31Fi0rza3NfKhVRfBJDwRJy1w.jpg",
         "posterPath": "/jzGDCMFErqM8Ceus8BNbyK8bzic.jpg",
@@ -182,7 +182,7 @@
         "releaseDate": "2026-09-29",
         "backdropPath": "/6RKO6EX15uF0locEPHzvm4Za43n.jpg",
         "posterPath": "/gQuFRZI5AhEpyuX93SvfY5sgGfP.jpg",
-        "rating": 7.7,
+        "rating": 7.857,
         "mediaType": "tv",
         "genreTitle": "犯罪"
       },
@@ -191,11 +191,11 @@
         "type": "tmdb",
         "title": "醉梦",
         "originalTitle": "醉梦",
-        "description": "以千禧年企业改革为背景，记者沈乐水重返拉城，通过镜头串联起啤酒厂十余年的兴衰变迁，揭开女工刘雪梅等一系列死亡事件背后交织的权欲阴谋。",
+        "description": "多年前，记者沈乐水用摄像机记录了老松江啤酒厂的厂工生活，这里的故事，像一杯久藏的啤酒, 酝酿着复杂的情感，也氤氲着一个名叫刘雪梅的女人的死亡之谜。啤酒厂曾是这座城市的骄傲，没落多年后，却成为众多命案的舞台。刘雪梅的生与死，紧密缠绕在一个被野心和贪婪驱使的阴谋之中。每一个人都如同棋子，被无情地操纵和牺牲。真相总是隐藏在最不起眼的角落。一个潜伏多年的幽灵，策划着一场血色的复仇 。他的怒火和绝望，化作连环杀人案的阴影，笼罩着松江。命运的轮回终于在一起突如其来又似乎源自宿命的意外中到达终点。沈乐水也再次扛起摄像机，记录下这其中跨越了时间的人性挣扎。",
         "releaseDate": "2026-10-16",
         "backdropPath": "/sQi1ZDSvFEslAEKn5QHfx5zKbIt.jpg",
-        "posterPath": "/3GNpPFZM6cuLMJCpuOFY0sgxHwf.jpg",
-        "rating": 6,
+        "posterPath": "/xvUOJChljBOY9e4vDc36p2yOIOM.jpg",
+        "rating": 7.5,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
@@ -208,7 +208,7 @@
         "releaseDate": "2026-09-11",
         "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
         "posterPath": "/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg",
-        "rating": 7.8,
+        "rating": 7.464,
         "mediaType": "tv",
         "genreTitle": "剧情, 家庭"
       },
@@ -243,11 +243,11 @@
         "type": "tmdb",
         "title": "嫁金钗",
         "originalTitle": "嫁金钗",
-        "description": "改编自笑佳人的同名小说。阿丑因容貌酷似侯府千金，意外成为国公府世子陆濯的冲喜新娘。陆濯苏醒后对她百般提防，另一名与她容貌相同的女子也对她恨之入骨。身处危机四伏的国公府，阿丑步步谋划，逐渐改写命运，并揭开身世之谜。",
+        "description": "阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯府千金魏娆的面容，意外成为国公府世子陆濯的冲喜新娘。阿丑野心勃勃，一心借机上位，然而濒死的新婚丈夫忽然苏醒，鸠占鹊巢引来连绵灾祸。魏娆（君黛）恨她鸠占鹊巢，急欲除之后快；陆濯以她为蛇蝎妇人，百般提防谋算。国公府明面一团和气，实则陷阱重重、步步杀机。阿丑稳扎稳打精心谋划，手段百出获得丈夫痴爱，更查出了自己身世的秘密，与至亲最终团圆，从底层夜香妇一路逆袭上位，过出光芒万丈的锦绣人生。\n\n本片改编自笑佳人的同名小说。",
         "releaseDate": "2026-10-16",
         "backdropPath": "/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
         "posterPath": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
-        "rating": 7.553,
+        "rating": 6.976,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -260,7 +260,7 @@
         "releaseDate": "2026-10-12",
         "backdropPath": "/vD84yLJVVd7cC2lKF8sEukQG2A3.jpg",
         "posterPath": "/r5N8g3WEes9x1z76Sil614Do9Bv.jpg",
-        "rating": 7.7,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
@@ -288,7 +288,7 @@
         "releaseDate": "2026-10-22",
         "backdropPath": "/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
         "posterPath": "/l0YkFVmSt1LgsiraDXBgp3OFJ2k.jpg",
-        "rating": 7.4,
+        "rating": 7.636,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -301,7 +301,7 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 9,
+        "rating": 9.055,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -314,7 +314,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.646,
+        "rating": 8.625,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
         "posterPath": "/pFN9UtKh8CtfLWWyquCw6n3BCSQ.jpg",
-        "rating": 9.07,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-10-10",
         "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
         "posterPath": "/rJvlEtFLeQbjr56fPXh0zzNdrgr.jpg",
-        "rating": 8.6,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, 剧情"
       }
