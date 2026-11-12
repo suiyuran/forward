@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-11T23:21:07.585Z",
+  "time": "2026-11-12T22:37:19.054Z",
   "data": [
     {
       "id": 1810158,
@@ -28,6 +28,19 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
+      "id": 1529692,
+      "type": "tmdb",
+      "title": "夫妻一场",
+      "originalTitle": "夫妻一场",
+      "description": "相识于原博的还俗派对时，李欣冉还是位身患抑郁症的女演员。处于人生低谷的俩人一见钟情，他们迅速走到一起，迎来第一个孩子。带着几百万积蓄，他们憧憬着理想生活，却因挥霍和缺乏理财经验，陷入了经济危机。为扭转困境，原博计划在安吉山中创办手碟乐器工厂。青山绿水似乎是他们梦想中的乌托邦。然而，随着第二个孩子的降生，事业夭折，合伙人离开，债务缠身。日常琐碎与经济压力逐渐蚕食了曾经炙热的感情。在深山中，他们爱到一无所有，只剩彼此。",
+      "releaseDate": "2026-11-13",
+      "backdropPath": "/xDNGfVnpeigQM91xERsclvGXoQ2.jpg",
+      "posterPath": "/qi9Wa8TQfhNZmC0PHxOYi68lMfr.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 1603262,
       "type": "tmdb",
       "title": "珠穆朗玛：云中彼岸",
@@ -54,28 +67,15 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1325871,
-      "type": "tmdb",
-      "title": "爷爷奶奶那些事",
-      "originalTitle": "爷爷奶奶那些事",
-      "description": "奶奶邓桂英和爷爷杨乔元在80岁时选择了离婚，结束了六十年的包办婚姻。这一举动在当地引起了不小的轰动。杨乔元，一个人住在肮脏破旧的平房里，与周围的人格格不入。而在慢慢衰退的记忆中，邓桂英依旧清楚地记得年轻时爱慕的店员。孙女杨骊珠为了了解爷爷奶奶离婚背后的故事，拿起相机，走进了他们的生活。",
-      "releaseDate": "2026-11-10",
-      "backdropPath": "/82aWdi9FB11HbAvaYfG59vbVALg.jpg",
-      "posterPath": "/dMKb608XAUAo6xxej0Rf3ljEgTa.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 1423191,
       "type": "tmdb",
       "title": "生化危机：爆发夜",
       "originalTitle": "Resident Evil",
       "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
       "releaseDate": "2026-09-16",
-      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "backdropPath": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
       "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.512,
+      "rating": 7.527,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
     },
@@ -93,6 +93,32 @@
       "genreTitle": "动作, 惊悚"
     },
     {
+      "id": 1823190,
+      "type": "tmdb",
+      "title": "无可替代的你",
+      "originalTitle": "无可替代的你",
+      "description": "城市白领代依曼困于平淡压抑的婚姻，在日复一日的消磨中终于直面情感裂痕；年轻的可可如飞蛾扑火，于炽热的邂逅里奔赴一场义无反顾的爱恋；无霜深陷绵长的情感执念，在等待与失落中反复打捞自己。三段人生彼此交织，映照出当代婚恋里最真实的迷茫、挣扎与选择。历经悲欢得失，三人逐渐释怀，并最终懂得：不必执着追寻长久相伴的结局，那些共处时光、相爱朝夕与细碎温热的情感记忆，才是生命里最为珍贵且无可替代的。",
+      "releaseDate": "2026-11-11",
+      "backdropPath": "/c6GkWYWR1dwiy40Gb0lqRgC3km9.jpg",
+      "posterPath": "/oy9nw6dWTryfaBguBWfRa16Zetb.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 爱情"
+    },
+    {
+      "id": 1325871,
+      "type": "tmdb",
+      "title": "爷爷奶奶那些事",
+      "originalTitle": "爷爷奶奶那些事",
+      "description": "奶奶邓桂英和爷爷杨乔元在80岁时选择了离婚，结束了六十年的包办婚姻。这一举动在当地引起了不小的轰动。杨乔元，一个人住在肮脏破旧的平房里，与周围的人格格不入。而在慢慢衰退的记忆中，邓桂英依旧清楚地记得年轻时爱慕的店员。孙女杨骊珠为了了解爷爷奶奶离婚背后的故事，拿起相机，走进了他们的生活。",
+      "releaseDate": "2026-11-10",
+      "backdropPath": "/82aWdi9FB11HbAvaYfG59vbVALg.jpg",
+      "posterPath": "/dMKb608XAUAo6xxej0Rf3ljEgTa.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 1263337,
       "type": "tmdb",
       "title": "野兽之心",
@@ -101,7 +127,7 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.457,
+      "rating": 7.497,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
@@ -117,6 +143,19 @@
       "rating": 6.6,
       "mediaType": "movie",
       "genreTitle": "动作, 奇幻"
+    },
+    {
+      "id": 1502135,
+      "type": "tmdb",
+      "title": "密档",
+      "originalTitle": "密档",
+      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
+      "releaseDate": "2026-08-28",
+      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
+      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 1439171,
@@ -140,22 +179,9 @@
       "releaseDate": "2026-10-31",
       "backdropPath": "/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "posterPath": "/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
-      "rating": 7.262,
+      "rating": 7.2,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 1782347,
-      "type": "tmdb",
-      "title": "三星堆：未来往事",
-      "originalTitle": "三星堆：未来往事",
-      "description": "在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
-      "releaseDate": "2026-10-23",
-      "backdropPath": "/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
-      "posterPath": "/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
-      "rating": 1,
-      "mediaType": "movie",
-      "genreTitle": "动画, 科幻"
     },
     {
       "id": 1368337,
@@ -164,24 +190,11 @@
       "originalTitle": "The Odyssey",
       "description": "特洛伊战争结束后，奥德修斯在返回伊萨卡的途中历经艰险，沿途遇到了独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神奇生物。",
       "releaseDate": "2026-07-15",
-      "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+      "backdropPath": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8,
+      "rating": 8.021,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
-    },
-    {
-      "id": 1823190,
-      "type": "tmdb",
-      "title": "无可替代的你",
-      "originalTitle": "无可替代的你",
-      "description": "城市白领代依曼困于平淡压抑的婚姻，在日复一日的消磨中终于直面情感裂痕；年轻的可可如飞蛾扑火，于炽热的邂逅里奔赴一场义无反顾的爱恋；无霜深陷绵长的情感执念，在等待与失落中反复打捞自己。三段人生彼此交织，映照出当代婚恋里最真实的迷茫、挣扎与选择。历经悲欢得失，三人逐渐释怀，并最终懂得：不必执着追寻长久相伴的结局，那些共处时光、相爱朝夕与细碎温热的情感记忆，才是生命里最为珍贵且无可替代的。",
-      "releaseDate": "2026-11-11",
-      "backdropPath": "/c6GkWYWR1dwiy40Gb0lqRgC3km9.jpg",
-      "posterPath": "/oy9nw6dWTryfaBguBWfRa16Zetb.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 爱情"
     },
     {
       "id": 1567937,
@@ -197,30 +210,17 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1502135,
+      "id": 1782347,
       "type": "tmdb",
-      "title": "密档",
-      "originalTitle": "密档",
-      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
-      "releaseDate": "2026-08-28",
-      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
-      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
-      "rating": 0,
+      "title": "三星堆：未来往事",
+      "originalTitle": "三星堆：未来往事",
+      "description": "在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
+      "releaseDate": "2026-10-23",
+      "backdropPath": "/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
+      "posterPath": "/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
+      "rating": 1,
       "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1089598,
-      "type": "tmdb",
-      "title": "敦煌英雄",
-      "originalTitle": "敦煌英雄",
-      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
-      "posterPath": "/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
-      "rating": 6.2,
-      "mediaType": "movie",
-      "genreTitle": "动作, 历史"
+      "genreTitle": "动画, 科幻"
     },
     {
       "id": 1477104,
@@ -234,6 +234,19 @@
       "rating": 7.328,
       "mediaType": "movie",
       "genreTitle": "动画, 科幻"
+    },
+    {
+      "id": 1089598,
+      "type": "tmdb",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
+      "posterPath": "/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "rating": 6.2,
+      "mediaType": "movie",
+      "genreTitle": "动作, 历史"
     },
     {
       "id": 1563608,
@@ -262,17 +275,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1503023,
+      "id": 10376,
       "type": "tmdb",
-      "title": "重生2",
-      "originalTitle": "重生2",
-      "description": "孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
-      "releaseDate": "2026-10-03",
-      "backdropPath": null,
-      "posterPath": "/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
-      "rating": 5.3,
+      "title": "海上钢琴师",
+      "originalTitle": "La leggenda del pianista sull'oceano",
+      "description": "1900年，一个被遗弃的婴儿出现在往返欧美的弗吉尼亚号上，被船上的锅炉工丹尼收养，并以新世纪的年份取名为“1900”。丹尼意外去世后，1900继续在船上长大，并逐渐展现出无师自通的惊人钢琴天赋，成为弗吉尼亚号上的钢琴师。他的演奏吸引着来自世界各地的乘客，也让他与小号手麦克斯结下深厚友谊。然而无论船只多少次靠岸，1900始终没有真正踏上陆地，对他而言，这艘船和八十八个琴键就是自己熟悉的整个世界。直到一次偶然的邂逅，让从未离开过大海的他第一次认真考虑走下弗吉尼亚号，面对那个没有边界的陌生世界……",
+      "releaseDate": "1998-10-28",
+      "backdropPath": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
+      "posterPath": "/bXk1kSDSiVPj06LtpESZK7C8HsL.jpg",
+      "rating": 8.231,
       "mediaType": "movie",
-      "genreTitle": "剧情, 动作"
+      "genreTitle": "剧情, 音乐"
     },
     {
       "id": 1707626,
@@ -288,17 +301,17 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 1255833,
+      "id": 1503023,
       "type": "tmdb",
-      "title": "鲸口脱险",
-      "originalTitle": "Whalefall",
-      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
-      "releaseDate": "2026-10-14",
-      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "rating": 6.594,
+      "title": "重生2",
+      "originalTitle": "重生2",
+      "description": "孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
+      "releaseDate": "2026-10-03",
+      "backdropPath": null,
+      "posterPath": "/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
+      "rating": 5.3,
       "mediaType": "movie",
-      "genreTitle": "惊悚"
+      "genreTitle": "剧情, 动作"
     },
     {
       "id": 1339713,
@@ -309,9 +322,22 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.166,
+      "rating": 8.165,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
+    },
+    {
+      "id": 1255833,
+      "type": "tmdb",
+      "title": "鲸口脱险",
+      "originalTitle": "Whalefall",
+      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
+      "releaseDate": "2026-10-14",
+      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
+      "rating": 6.6,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
     },
     {
       "id": 1726805,
@@ -351,19 +377,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1770304,
-      "type": "tmdb",
-      "title": "一朵山花别样红",
-      "originalTitle": "一朵山花别样红",
-      "description": "一桩失踪案悄然发生在黄士高原腹地，各色人物被金钱交织在一个巨大的圈套里，陷入泥潭的白果，命运也将被重新改写。随着事件的真相大白，冲破桎梏，各色人物重新寻找回了生命的价值和生活的真谛。",
-      "releaseDate": "2026-11-06",
-      "backdropPath": "/9kFoXEEq6RFO3Icy9vAf6H73ny7.jpg",
-      "posterPath": "/4tSElesuLrV2Yr8DyMiVMljhygi.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 278,
@@ -418,6 +431,19 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 1770304,
+      "type": "tmdb",
+      "title": "一朵山花别样红",
+      "originalTitle": "一朵山花别样红",
+      "description": "一桩失踪案悄然发生在黄士高原腹地，各色人物被金钱交织在一个巨大的圈套里，陷入泥潭的白果，命运也将被重新改写。随着事件的真相大白，冲破桎梏，各色人物重新寻找回了生命的价值和生活的真谛。",
+      "releaseDate": "2026-11-06",
+      "backdropPath": "/9kFoXEEq6RFO3Icy9vAf6H73ny7.jpg",
+      "posterPath": "/4tSElesuLrV2Yr8DyMiVMljhygi.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 悬疑"
+    },
+    {
       "id": 553,
       "type": "tmdb",
       "title": "狗镇",
@@ -426,7 +452,20 @@
       "releaseDate": "2003-05-21",
       "backdropPath": "/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
       "posterPath": "/isUerLEvLqwSGx6IaMHlFvWnNL5.jpg",
-      "rating": 7.744,
+      "rating": 7.743,
+      "mediaType": "movie",
+      "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 11368,
+      "type": "tmdb",
+      "title": "血迷宫",
+      "originalTitle": "Blood Simple",
+      "description": "科恩兄弟贯穿创作生涯的、穿越边缘美国的暗黑喜剧之旅，正是从这部锐利冰冷的德州新黑色电影启程。片中一位卑劣的酒馆老板因一念杀机掀起了腥风血雨，演员麦·艾美特·华许以黄西装、牛仔帽和全然失序的道德准则化身游走于罪案中的滑头侦探，弗兰西斯·麦克多蒙德精妙的银幕首秀则预示了她通往巨星之路的起点。科恩兄弟数十年创作中标志性的严密剧本与独创风格，在此首部作品中已全然显现：摄影指导巴里·索南菲尔德摒弃黑白明暗对照法，转而运用霓虹灯与点唱机色彩的视觉交响，搭配卡特·伯威尔萦绕心头的配乐，营造出悚丽而震颤的视听效果。本片融汇廉价小说与低成本恐怖片的元素，为新一代观众重塑了黑色电影范式，标志着一个将改变美国独立电影格局的创作集体的登场。",
+      "releaseDate": "1985-01-18",
+      "backdropPath": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+      "posterPath": "/AgZYRlHfZUdrcG70loMrI5kcP6N.jpg",
+      "rating": 7.25,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
     },
@@ -457,32 +496,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 451995,
-      "type": "tmdb",
-      "title": "脸庞，村庄",
-      "originalTitle": "Visages Villages",
-      "description": "作为阿涅斯·瓦尔达提名奥斯卡的晚年力作，这部充满手工温度的人文主义杰作，记录下八旬导演与三十余岁的街头摄影师JR的跨界合作。二人驾驶可即时输出巨幅肖像的摄影车，穿梭于法国乡间，将沿途相遇的农民、退役矿工、码头工人等普通人的肖像张贴于当地墙垣。这些故事拼贴出一幅传统在现代化浪潮中绵延的国度图景。这部布满岔路的公路电影、迷人的跨代际伙伴电影，以及献给各行匠人的颂歌，在瓦尔达追溯往昔与编织新忆的过程中，最终凝结成对艺术、人际关系与生命本身转瞬即逝的深刻沉思。[标准收藏]",
-      "releaseDate": "2017-06-28",
-      "backdropPath": "/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
-      "posterPath": "/idIv93FXHay1KIMVLZiP9Qeav3r.jpg",
-      "rating": 7.6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 11368,
-      "type": "tmdb",
-      "title": "血迷宫",
-      "originalTitle": "Blood Simple",
-      "description": "科恩兄弟贯穿创作生涯的、穿越边缘美国的暗黑喜剧之旅，正是从这部锐利冰冷的德州新黑色电影启程。片中一位卑劣的酒馆老板因一念杀机掀起了腥风血雨，演员麦·艾美特·华许以黄西装、牛仔帽和全然失序的道德准则化身游走于罪案中的滑头侦探，弗兰西斯·麦克多蒙德精妙的银幕首秀则预示了她通往巨星之路的起点。科恩兄弟数十年创作中标志性的严密剧本与独创风格，在此首部作品中已全然显现：摄影指导巴里·索南菲尔德摒弃黑白明暗对照法，转而运用霓虹灯与点唱机色彩的视觉交响，搭配卡特·伯威尔萦绕心头的配乐，营造出悚丽而震颤的视听效果。本片融汇廉价小说与低成本恐怖片的元素，为新一代观众重塑了黑色电影范式，标志着一个将改变美国独立电影格局的创作集体的登场。",
-      "releaseDate": "1985-01-18",
-      "backdropPath": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
-      "posterPath": "/AgZYRlHfZUdrcG70loMrI5kcP6N.jpg",
-      "rating": 7.25,
-      "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
-    },
-    {
       "id": 24657,
       "type": "tmdb",
       "title": "牺牲",
@@ -494,32 +507,6 @@
       "rating": 7.707,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 11382,
-      "type": "tmdb",
-      "title": "子弹横飞百老汇",
-      "originalTitle": "Bullets Over Broadway",
-      "description": "长久以来，剧作家大卫（约翰·库萨克 饰）都过着郁郁不得志的生活，艺术家特有的清高让他对如今腐败混乱的话剧界充满了失望之情。为了讨好情妇奥利芙（詹妮弗·提莉 饰），黑帮大佬看中了名不见经传的大卫的剧本想要投资，作为前提条件 ，大卫必须让奥利芙饰演主角。虽然奥利芙唠叨的个性和蹩脚的演技让大卫深感抓狂，但在利益面前，他痛苦的屈服了。就这样，一个奇怪的剧组诞生了。 剧本的漏洞，女演员们之间的矛盾，男主演日益肥胖的身材都让大卫感到绝望，但令他惊奇的是，一直监视着奥利芙的保镖契奇（查兹·帕尔明特瑞 饰）在无意中展现了过人的编剧才能。在契奇的帮助下，被改写的剧本居然获得了盛大的成功，与此同时，契奇对由自己操刀的剧本展现出的病态执着和剧组里混乱的男女关系让大卫陷入了另一个困境……",
-      "releaseDate": "1994-10-14",
-      "backdropPath": "/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
-      "posterPath": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
-      "rating": 7.07,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 犯罪"
-    },
-    {
-      "id": 49964,
-      "type": "tmdb",
-      "title": "何处是我朋友的家",
-      "originalTitle": "خانه‌ی دوست کجاست؟",
-      "description": "伊朗的偏僻山村小学里，一群孩子在课堂里聆听老师讲课。在检查作业的时候，老师发现穆罕德屡次没有完成家庭作业，于是严厉地批评了他，说如若再犯立马开除。老师对学生强调这是帮助他们树立良好的规矩。当天放学后，小男孩阿穆德却赫然发现自己把同桌穆罕德的作业本带回了家。听懂了老师的谆谆善诱，所以阿穆德明白这作业本就是穆罕德继续听讲的凭证。为了把作业本还给同桌，阿穆德曾希望母亲和祖父可以施以援手，但是均告失败。所以，他只能孤身前行，到对面大山里的村落去寻找同桌，归还作业本。然而，由于不认识同桌的家，所以他处处碰壁，遭遇到了无法想象的艰难险阻……",
-      "releaseDate": "1987-07-01",
-      "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
-      "posterPath": "/qULkpJ4fq9wbtautj4Jq4PFc0W5.jpg",
-      "rating": 7.923,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 冒险"
     },
     {
       "id": 1650896,
@@ -535,17 +522,30 @@
       "genreTitle": "动画, 冒险"
     },
     {
-      "id": 11471,
+      "id": 49964,
       "type": "tmdb",
-      "title": "英雄本色",
-      "originalTitle": "英雄本色",
-      "description": "香港某个国际伪钞集团重要分子宋子豪（狄龙）和Mark（周润发）情同手足，某次宋子豪带手下谭成（李子雄）去台北交易时被其出卖受枪伤被捕入狱，为替好兄弟报仇，Mark孤身赴台，结果被人打成瘸子，江湖地位自此一落千丈，而宋子豪的父亲也在不久丧命。一向视宋子豪为偶像的宋子杰得知哥哥的真实身份后，对黑社会及他恨之人骨，立誓利用警察身份将黑帮势力斩草除根，宋子豪出狱后不顾苦等他想重创辉煌的Mark的劝阻，决心弃暗投明，无奈得不到宋子杰的谅解。而此时已成帮会老大的谭成欲找宋子豪再合作，遭拒绝后放言会害宋子杰，被逼走投无路，宋子豪决定再与Mark连手共抗强敌。",
-      "releaseDate": "1986-08-02",
-      "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
-      "posterPath": "/qvdvGB9d58zjberXoCX5RihD5PY.jpg",
-      "rating": 7.354,
+      "title": "何处是我朋友的家",
+      "originalTitle": "خانه‌ی دوست کجاست؟",
+      "description": "伊朗的偏僻山村小学里，一群孩子在课堂里聆听老师讲课。在检查作业的时候，老师发现穆罕德屡次没有完成家庭作业，于是严厉地批评了他，说如若再犯立马开除。老师对学生强调这是帮助他们树立良好的规矩。当天放学后，小男孩阿穆德却赫然发现自己把同桌穆罕德的作业本带回了家。听懂了老师的谆谆善诱，所以阿穆德明白这作业本就是穆罕德继续听讲的凭证。为了把作业本还给同桌，阿穆德曾希望母亲和祖父可以施以援手，但是均告失败。所以，他只能孤身前行，到对面大山里的村落去寻找同桌，归还作业本。然而，由于不认识同桌的家，所以他处处碰壁，遭遇到了无法想象的艰难险阻……",
+      "releaseDate": "1987-07-01",
+      "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
+      "posterPath": "/qULkpJ4fq9wbtautj4Jq4PFc0W5.jpg",
+      "rating": 7.923,
       "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
+      "genreTitle": "剧情, 冒险"
+    },
+    {
+      "id": 451995,
+      "type": "tmdb",
+      "title": "脸庞，村庄",
+      "originalTitle": "Visages Villages",
+      "description": "作为阿涅斯·瓦尔达提名奥斯卡的晚年力作，这部充满手工温度的人文主义杰作，记录下八旬导演与三十余岁的街头摄影师JR的跨界合作。二人驾驶可即时输出巨幅肖像的摄影车，穿梭于法国乡间，将沿途相遇的农民、退役矿工、码头工人等普通人的肖像张贴于当地墙垣。这些故事拼贴出一幅传统在现代化浪潮中绵延的国度图景。这部布满岔路的公路电影、迷人的跨代际伙伴电影，以及献给各行匠人的颂歌，在瓦尔达追溯往昔与编织新忆的过程中，最终凝结成对艺术、人际关系与生命本身转瞬即逝的深刻沉思。[标准收藏]",
+      "releaseDate": "2017-06-28",
+      "backdropPath": "/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
+      "posterPath": "/idIv93FXHay1KIMVLZiP9Qeav3r.jpg",
+      "rating": 7.6,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 21058,
@@ -569,35 +569,9 @@
       "releaseDate": "2025-06-06",
       "backdropPath": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
       "posterPath": "/x2fvCwk1xEasxhdGwkvIV45SxWQ.jpg",
-      "rating": 6.799,
+      "rating": 6.796,
       "mediaType": "movie",
       "genreTitle": "剧情, 惊悚"
-    },
-    {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "releaseDate": "2011-03-27",
-      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.112,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 427,
-      "type": "tmdb",
-      "title": "我的舅舅",
-      "originalTitle": "Mon oncle",
-      "description": "于洛先生（雅克·塔蒂 饰）从乡下来，到了巴黎的姐姐（阿德里安娜·色万提 饰）家里小住，对姐姐家中各种现代化设备极其不适应，经常被搞得手忙脚乱。还好小侄子杰拉德喜欢这个舅舅，和他到处去玩，杰拉德同样不喜欢家里的现代化设备，因此于洛还带他去郊区老屋玩耍。于洛的姐夫阿尔贝勒先生（让·皮埃尔·佐拉 饰）帮于洛在自己工厂找了一份工作，可是于洛同样不适应现代化的操作机器，搞砸了许多事情，闹了许多笑话，姐夫对他忍无可忍，决定介绍另一份工作打发他离开，而于洛开心地同小侄子话别，只当结束了一个不同寻常的假期……",
-      "releaseDate": "1958-05-10",
-      "backdropPath": "/3yYNJeR6JynSE3Y1AfVIJQ6g3UX.jpg",
-      "posterPath": "/lCz7epnsQalrzmKqu6MPUDO9eUo.jpg",
-      "rating": 7.429,
-      "mediaType": "movie",
-      "genreTitle": "喜剧"
     },
     {
       "id": 1678102,
@@ -613,6 +587,45 @@
       "genreTitle": "悬疑, 惊悚"
     },
     {
+      "id": 11471,
+      "type": "tmdb",
+      "title": "英雄本色",
+      "originalTitle": "英雄本色",
+      "description": "香港某个国际伪钞集团重要分子宋子豪（狄龙）和Mark（周润发）情同手足，某次宋子豪带手下谭成（李子雄）去台北交易时被其出卖受枪伤被捕入狱，为替好兄弟报仇，Mark孤身赴台，结果被人打成瘸子，江湖地位自此一落千丈，而宋子豪的父亲也在不久丧命。一向视宋子豪为偶像的宋子杰得知哥哥的真实身份后，对黑社会及他恨之人骨，立誓利用警察身份将黑帮势力斩草除根，宋子豪出狱后不顾苦等他想重创辉煌的Mark的劝阻，决心弃暗投明，无奈得不到宋子杰的谅解。而此时已成帮会老大的谭成欲找宋子豪再合作，遭拒绝后放言会害宋子杰，被逼走投无路，宋子豪决定再与Mark连手共抗强敌。",
+      "releaseDate": "1986-08-02",
+      "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
+      "posterPath": "/qvdvGB9d58zjberXoCX5RihD5PY.jpg",
+      "rating": 7.354,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 414419,
+      "type": "tmdb",
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "releaseDate": "2011-03-27",
+      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "rating": 8.114,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 427,
+      "type": "tmdb",
+      "title": "我的舅舅",
+      "originalTitle": "Mon oncle",
+      "description": "于洛先生（雅克·塔蒂 饰）从乡下来，到了巴黎的姐姐（阿德里安娜·色万提 饰）家里小住，对姐姐家中各种现代化设备极其不适应，经常被搞得手忙脚乱。还好小侄子杰拉德喜欢这个舅舅，和他到处去玩，杰拉德同样不喜欢家里的现代化设备，因此于洛还带他去郊区老屋玩耍。于洛的姐夫阿尔贝勒先生（让·皮埃尔·佐拉 饰）帮于洛在自己工厂找了一份工作，可是于洛同样不适应现代化的操作机器，搞砸了许多事情，闹了许多笑话，姐夫对他忍无可忍，决定介绍另一份工作打发他离开，而于洛开心地同小侄子话别，只当结束了一个不同寻常的假期……",
+      "releaseDate": "1958-05-10",
+      "backdropPath": "/3yYNJeR6JynSE3Y1AfVIJQ6g3UX.jpg",
+      "posterPath": "/lCz7epnsQalrzmKqu6MPUDO9eUo.jpg",
+      "rating": 7.4,
+      "mediaType": "movie",
+      "genreTitle": "喜剧"
+    },
+    {
       "id": 11475,
       "type": "tmdb",
       "title": "列宁格勒牛仔征美记",
@@ -624,6 +637,32 @@
       "rating": 6.939,
       "mediaType": "movie",
       "genreTitle": "喜剧, 音乐"
+    },
+    {
+      "id": 11382,
+      "type": "tmdb",
+      "title": "子弹横飞百老汇",
+      "originalTitle": "Bullets Over Broadway",
+      "description": "长久以来，剧作家大卫（约翰·库萨克 饰）都过着郁郁不得志的生活，艺术家特有的清高让他对如今腐败混乱的话剧界充满了失望之情。为了讨好情妇奥利芙（詹妮弗·提莉 饰），黑帮大佬看中了名不见经传的大卫的剧本想要投资，作为前提条件 ，大卫必须让奥利芙饰演主角。虽然奥利芙唠叨的个性和蹩脚的演技让大卫深感抓狂，但在利益面前，他痛苦的屈服了。就这样，一个奇怪的剧组诞生了。 剧本的漏洞，女演员们之间的矛盾，男主演日益肥胖的身材都让大卫感到绝望，但令他惊奇的是，一直监视着奥利芙的保镖契奇（查兹·帕尔明特瑞 饰）在无意中展现了过人的编剧才能。在契奇的帮助下，被改写的剧本居然获得了盛大的成功，与此同时，契奇对由自己操刀的剧本展现出的病态执着和剧组里混乱的男女关系让大卫陷入了另一个困境……",
+      "releaseDate": "1994-10-14",
+      "backdropPath": "/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
+      "posterPath": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+      "rating": 7.07,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 犯罪"
+    },
+    {
+      "id": 104171,
+      "type": "tmdb",
+      "title": "在那河畔青草青",
+      "originalTitle": "在那河畔青草青",
+      "description": "卢大年 因替即将出国的姐姐代课来到内湾，在姐姐安排下住进小学音乐老师陈素云 家的二楼。大年担任四年级忠班的班主任。在班上，他一方面要对付调皮捣蛋出了名的“三剑客”，同时也关心着因父母离婚而性格孤僻的学生周兴旺 。陈素云是个文静的姑娘，整日与大年同来同往，互相产生爱慕之情。在内湾，存在着以投毒和电击的方法捕鱼，大年决心根除这种严重破坏大自然生态的捕鱼方法，在内湾小学发起“爱川护鱼”运动，并在内湾地区推广开来。周兴旺的父亲周文 经常去电鱼，为此，他受到同学嘲弄而离家出走。大年和素云要去找回孩子，最后他们能结合在一起吗？",
+      "releaseDate": "1982-10-24",
+      "backdropPath": "/xm7ULWOA9MECQpXhcPowip7uyT4.jpg",
+      "posterPath": "/nWgeEWh8pKatQIGYtS3GiQHrqZA.jpg",
+      "rating": 6.4,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 421742,
@@ -647,22 +686,9 @@
       "releaseDate": "2024-07-06",
       "backdropPath": "/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
       "posterPath": "/2nXWDju83nclC4vEJ4dkKnLN8gl.jpg",
-      "rating": 7.3,
+      "rating": 7.313,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 104171,
-      "type": "tmdb",
-      "title": "在那河畔青草青",
-      "originalTitle": "在那河畔青草青",
-      "description": "卢大年 因替即将出国的姐姐代课来到内湾，在姐姐安排下住进小学音乐老师陈素云 家的二楼。大年担任四年级忠班的班主任。在班上，他一方面要对付调皮捣蛋出了名的“三剑客”，同时也关心着因父母离婚而性格孤僻的学生周兴旺 。陈素云是个文静的姑娘，整日与大年同来同往，互相产生爱慕之情。在内湾，存在着以投毒和电击的方法捕鱼，大年决心根除这种严重破坏大自然生态的捕鱼方法，在内湾小学发起“爱川护鱼”运动，并在内湾地区推广开来。周兴旺的父亲周文 经常去电鱼，为此，他受到同学嘲弄而离家出走。大年和素云要去找回孩子，最后他们能结合在一起吗？",
-      "releaseDate": "1982-10-24",
-      "backdropPath": "/xm7ULWOA9MECQpXhcPowip7uyT4.jpg",
-      "posterPath": "/nWgeEWh8pKatQIGYtS3GiQHrqZA.jpg",
-      "rating": 6.4,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1778310,
@@ -686,48 +712,35 @@
       "releaseDate": "2025-08-27",
       "backdropPath": "/sBmk1aaiepcBfC3l5NpEsdEoawP.jpg",
       "posterPath": "/urRcPrHpsX1N8GNj6TOsbqUZd1L.jpg",
-      "rating": 6.598,
+      "rating": 6.6,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 1774595,
+      "id": 1658524,
       "type": "tmdb",
-      "title": "凝脂手",
-      "originalTitle": "凝脂手",
-      "description": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
-      "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
-      "rating": 0,
+      "title": "怪屋",
+      "originalTitle": "怪屋",
+      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
+      "releaseDate": "2026-09-04",
+      "backdropPath": "/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
+      "posterPath": "/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
+      "rating": 3,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "恐怖, 惊悚"
     },
     {
-      "id": 1356484,
+      "id": 1185806,
       "type": "tmdb",
-      "title": "Ach, diese Lücke, diese entsetzliche Lücke",
-      "originalTitle": "Ach, diese Lücke, diese entsetzliche Lücke",
-      "description": "",
-      "releaseDate": "2026-01-29",
-      "backdropPath": "/gPTHVWTLHq8i2KwfGnJpgvcU4Sw.jpg",
-      "posterPath": "/m569E5SNHJZQDF62RhGHSTboqbu.jpg",
-      "rating": 7.7,
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 8.088,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
-    },
-    {
-      "id": 1057888,
-      "type": "tmdb",
-      "title": "落叶球",
-      "originalTitle": "ხმელი ფოთოლი",
-      "description": "摄影师丽莎突然失踪。最后的线索指向她拍摄过的七个足球场——它们散落在格鲁吉亚七个偏远村庄。父亲伊拉克利踏遍这些球场寻女，丽莎的挚友、如幽灵般的列瓦尼悄然加入搜寻。每当球场更迭，相遇的村民与他们的故事便如走马灯般轮转。看似荒诞的旅程里暗涌渐起：每踏过一片坑洼的草场，每穿过 一座寂静村庄，找到丽莎的希望便如晨雾般日渐稀薄。",
-      "releaseDate": "2026-03-20",
-      "backdropPath": "/pXmrvH0CUHLFEvEbDodiJ57RLTd.jpg",
-      "posterPath": "/fCbXztJ5vAmVB6gXue2aN1cOLhz.jpg",
-      "rating": 7.3,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 奇幻"
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1269644,
@@ -743,6 +756,19 @@
       "genreTitle": "剧情, 战争"
     },
     {
+      "id": 1057888,
+      "type": "tmdb",
+      "title": "落叶球",
+      "originalTitle": "ხმელი ფოთოლი",
+      "description": "摄影师丽莎突然失踪。最后的线索指向她拍摄过的七个足球场——它们散落在格鲁吉亚七个偏远村庄。父亲伊拉克利踏遍这些球场寻女，丽莎的挚友、如幽灵般的列瓦尼悄然加入搜寻。每当球场更迭，相遇的村民与他们的故事便如走马灯般轮转。看似荒诞的旅程里暗涌渐起：每踏过一片坑洼的草场，每穿过 一座寂静村庄，找到丽莎的希望便如晨雾般日渐稀薄。",
+      "releaseDate": "2026-03-20",
+      "backdropPath": "/pXmrvH0CUHLFEvEbDodiJ57RLTd.jpg",
+      "posterPath": "/fCbXztJ5vAmVB6gXue2aN1cOLhz.jpg",
+      "rating": 7.333,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 奇幻"
+    },
+    {
       "id": 1404124,
       "type": "tmdb",
       "title": "她们的狂想曲",
@@ -756,17 +782,17 @@
       "genreTitle": "喜剧"
     },
     {
-      "id": 1185806,
+      "id": 1356484,
       "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
-      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.118,
+      "title": "Ach, diese Lücke, diese entsetzliche Lücke",
+      "originalTitle": "Ach, diese Lücke, diese entsetzliche Lücke",
+      "description": "",
+      "releaseDate": "2026-01-29",
+      "backdropPath": "/gPTHVWTLHq8i2KwfGnJpgvcU4Sw.jpg",
+      "posterPath": "/m569E5SNHJZQDF62RhGHSTboqbu.jpg",
+      "rating": 7.7,
       "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1480424,
@@ -780,32 +806,6 @@
       "rating": 7.714,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1599204,
-      "type": "tmdb",
-      "title": "When Pigs Fly",
-      "originalTitle": "When Pigs Fly",
-      "description": "",
-      "releaseDate": "2026-03-14",
-      "backdropPath": "/nunK3ZGm2ufg8OH4UkD1wj3CJgT.jpg",
-      "posterPath": "/vdmB7SpYyzOlZzM0jeB3jJbj9Bx.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1670314,
-      "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "posterPath": "/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "动画, 奇幻"
     },
     {
       "id": 1616782,
@@ -832,32 +832,6 @@
       "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 592402,
-      "type": "tmdb",
-      "title": "大熊雨林",
-      "originalTitle": "Great Bear Rainforest: Land of the Spirit Bear",
-      "description": "这里是世界上最原始最原生态的一片雨林，被悉心的保护和照料，这里也是这些动物们未被打扰的家园。大熊雨林位于加拿大不列颠哥伦比亚省的太平洋海岸，是世界上最后一片完整的温带雨林，占地640万公顷，也是世界上最大的沿海温带雨林。几千年以来，这里一直受到当地的土著民的保护，这部影片中，我们将在IMAX的巨幕之下，跟着拍摄团队，第一次走进这片未被打扰的隐藏地带，探寻美洲狮、灰熊、鲑鱼、海岸狼、还她等野生动物，还有最稀有的熊-白灵熊，也叫做克默德熊。",
-      "releaseDate": "2019-02-15",
-      "backdropPath": null,
-      "posterPath": "/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
-      "rating": 8.667,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     },
     {
       "id": 956215,
@@ -908,6 +882,19 @@
       "backdropPath": null,
       "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
       "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
