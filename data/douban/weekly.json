@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-11T00:16:24.711Z",
+  "time": "2026-11-12T01:41:49.627Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 8.002,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -20,7 +20,7 @@
         "type": "tmdb",
         "title": "假如爱有如果",
         "originalTitle": "가능한 사랑",
-        "description": "一对失业夫妻遇上一对纪录片导演夫妇，并直面他们内心深处的渴望。",
+        "description": "《假如爱有如果》讲述了两对已婚夫妇之间错综复杂的关系；他们各自面临着不同的人生抉择，内心也深藏着不为人知的渴望。美玉（全道嬿饰）与失业的丈夫浩锡（薛景求饰）及年幼的儿子崔铁，直到一场葬礼让他们与纪录片导演艺智（曺汝贞饰）及其丈夫尚宇（赵寅成饰）产生交集。艺智正在拍摄失业工人的生活，而她与尚宇优渥的生活方式也与美玉一家形成鲜明对比。美玉答应接受拍摄后，逐渐与艺智亲近，也不由自主地被难以捉摸的尚宇吸引，心中充满不安。随着两个世界不断碰撞，他们看似平静的日常生活也开始出现裂痕。这是备受赞誉的导演李沧东（《燃烧》、《诗》、《密阳》）时隔八年推出的新作。他以标志性的细腻笔触呈现《假如爱有如果》中不断变化的情感、彼此交织的矛盾与截然不同的人生观，刻画这些关系中的微妙变化。",
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7o6hwgUhpWjm1UqLu5IKuXXfxvP.jpg",
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/yF4vFj0BSle87KSuRLhtT1PPfvs.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
-        "rating": 7.8,
+        "rating": 7.851,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-09-27",
         "backdropPath": "/6neOr2yjCdnVFUzI5xIOvo6sxuf.jpg",
         "posterPath": "/350om1pKdv14AdTWxpwqEYR9WrS.jpg",
-        "rating": 7.333,
+        "rating": 7.6,
         "mediaType": "movie",
         "genreTitle": "犯罪, 动作"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-08-27",
         "backdropPath": "/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
         "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 6.841,
+        "rating": 6.8,
         "mediaType": "movie",
         "genreTitle": "恐怖, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.923,
+        "rating": 6.9,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
@@ -113,9 +113,9 @@
         "originalTitle": "Forgotten Island",
         "description": "好友乔与拉伊萨高中毕业即将分别，她们打算相伴度过最后一夜，却意外被传送到奇幻岛屿纳卡利。二人得知重返家园的代价是抹去关于彼此的全部记忆，她们必须抓紧时间，在遗忘对方找到方法离开这座岛屿。",
         "releaseDate": "2026-09-10",
-        "backdropPath": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+        "backdropPath": "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
         "posterPath": "/2O3b5ey8xITyzz5KuaaRTj6bONx.jpg",
-        "rating": 7.994,
+        "rating": 8.014,
         "mediaType": "movie",
         "genreTitle": "动画, 冒险"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-09-16",
         "backdropPath": "/OroFBNgB2RBzj2X65CweVhhQQG.jpg",
         "posterPath": "/qXeGCeHDeueGAbZvlL7pAGknFfm.jpg",
-        "rating": 6.3,
+        "rating": 6.4,
         "mediaType": "movie",
         "genreTitle": "剧情, 喜剧"
       }
@@ -187,19 +187,6 @@
         "genreTitle": "犯罪"
       },
       {
-        "id": 279923,
-        "type": "tmdb",
-        "title": "醉梦",
-        "originalTitle": "醉梦",
-        "description": "以千禧年企业改革为背景，记者沈乐水重返拉城，通过镜头串联起啤酒厂十余年的兴衰变迁，揭开女工刘雪梅等一系列死亡事件背后交织的权欲阴谋。",
-        "releaseDate": "2026-10-16",
-        "backdropPath": "/sQi1ZDSvFEslAEKn5QHfx5zKbIt.jpg",
-        "posterPath": "/3GNpPFZM6cuLMJCpuOFY0sgxHwf.jpg",
-        "rating": 7.5,
-        "mediaType": "tv",
-        "genreTitle": "悬疑, 犯罪"
-      },
-      {
         "id": 282326,
         "type": "tmdb",
         "title": "兰香如故",
@@ -213,30 +200,17 @@
         "genreTitle": "剧情, 家庭"
       },
       {
-        "id": 304862,
+        "id": 279923,
         "type": "tmdb",
-        "title": "地狱大状",
-        "originalTitle": "地獄大狀",
-        "description": "仇人多过亲人的大律师邱荫荫突然遇袭，醒来后发现自己身处阴间。阎罗王判她折寿四十年，已故富翁石松却出手助她还阳，委托她处理遗产。成为“地狱大状”的她穿梭阴阳两界，为鬼魂打官司、追查自己的遇袭真相，并重新审视生死、亲情与爱情。",
-        "releaseDate": "2026-10-05",
-        "backdropPath": "/zK09u5Fp5vg0FWxRz2JGdkfUFZ6.jpg",
-        "posterPath": "/4DRZKOwpwqqdyyttHj6PSsSnBHZ.jpg",
-        "rating": 6,
+        "title": "醉梦",
+        "originalTitle": "醉梦",
+        "description": "以千禧年企业改革为背景，记者沈乐水重返拉城，通过镜头串联起啤酒厂十余年的兴衰变迁，揭开女工刘雪梅等一系列死亡事件背后交织的权欲阴谋。",
+        "releaseDate": "2026-10-16",
+        "backdropPath": "/sQi1ZDSvFEslAEKn5QHfx5zKbIt.jpg",
+        "posterPath": "/3GNpPFZM6cuLMJCpuOFY0sgxHwf.jpg",
+        "rating": 7.5,
         "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 332911,
-        "type": "tmdb",
-        "title": "消失的裂痕",
-        "originalTitle": "消失的裂痕",
-        "description": "李芸穿过镜子进入平行世界，发现一个与失踪儿子一模一样的男孩。两个家庭随之围绕欲望、欺骗与身份认同展开激烈冲突。",
-        "releaseDate": "2026-09-29",
-        "backdropPath": "/ndewFqwioUF7o9iKoxtUm67Reum.jpg",
-        "posterPath": "/bgKWL3S8AyzUsoEERkOSIz6CRmr.jpg",
-        "rating": 7.3,
-        "mediaType": "tv",
-        "genreTitle": "悬疑"
+        "genreTitle": "悬疑, 犯罪"
       },
       {
         "id": 300146,
@@ -247,7 +221,7 @@
         "releaseDate": "2026-10-16",
         "backdropPath": "/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
         "posterPath": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
-        "rating": 6.976,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -263,9 +237,61 @@
         "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 304862,
+        "type": "tmdb",
+        "title": "地狱大状",
+        "originalTitle": "地獄大狀",
+        "description": "仇人多过亲人的大律师邱荫荫突然遇袭，醒来后发现自己身处阴间。阎罗王判她折寿四十年，已故富翁石松却出手助她还阳，委托她处理遗产。成为“地狱大状”的她穿梭阴阳两界，为鬼魂打官司、追查自己的遇袭真相，并重新审视生死、亲情与爱情。",
+        "releaseDate": "2026-10-05",
+        "backdropPath": "/zK09u5Fp5vg0FWxRz2JGdkfUFZ6.jpg",
+        "posterPath": "/4DRZKOwpwqqdyyttHj6PSsSnBHZ.jpg",
+        "rating": 6,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 294486,
+        "type": "tmdb",
+        "title": "交锋",
+        "originalTitle": "交锋",
+        "description": "故事由一宗世纪之交的泄密大案而起，扣动两岸局势脉搏的同时，还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。上世纪九十年代末，闵中市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里 不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着……",
+        "releaseDate": "2026-09-06",
+        "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
+        "posterPath": "/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+        "rating": 7.4,
+        "mediaType": "tv",
+        "genreTitle": "悬疑"
       }
     ],
     "剧集·国外": [
+      {
+        "id": 303745,
+        "type": "tmdb",
+        "title": "我的有罪之人",
+        "originalTitle": "나의 유죄인간",
+        "description": "杀人案头号嫌疑人、泰江集团三代继承人尹伊俊，引来特种部队出身的刑警姜在熙。她女扮男装，伪装成贴身秘书潜入调查。在熙一边查案，一边与刻薄敏感的伊俊不断交锋，二人渐生情愫。",
+        "releaseDate": "2026-10-19",
+        "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+        "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
+        "rating": 8.985,
+        "mediaType": "tv",
+        "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 208929,
+        "type": "tmdb",
+        "title": "蓝色星球3",
+        "originalTitle": "Blue Planet III",
+        "description": "这部自然纪录片的第三系列使用最新的水下拍摄技术，揭示了来自神奇的水下世界的全新和不为人知的故事，重点关注五个主要的水下栖息地：热带海洋、温带海洋、极地海洋、公海和深海。",
+        "releaseDate": "2026-11-01",
+        "backdropPath": "/bx0rz8YsuZtNXiv6DDzkA9cPaeY.jpg",
+        "posterPath": "/oKzVhS8YcFXm8QYXWhB9C1ExDUa.jpg",
+        "rating": 9.5,
+        "mediaType": "tv",
+        "genreTitle": "纪录"
+      },
       {
         "id": 108255,
         "type": "tmdb",
@@ -278,6 +304,19 @@
         "rating": 10,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
+      },
+      {
+        "id": 213375,
+        "type": "tmdb",
+        "title": "幻视任务",
+        "originalTitle": "VisionQuest",
+        "description": "重启后的幻视隐居避世，试图摆脱将他武器化的人，并通过与体内的AI人格交流寻找存在意义，其中包括恶名昭彰的奥创。然而高额悬赏打破了平静，他被迫与神秘少年托马斯·谢泼德一同逃亡，后者或许是他重生后的儿子。",
+        "releaseDate": "2026-10-13",
+        "backdropPath": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+        "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
+        "rating": 8.436,
+        "mediaType": "tv",
+        "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
       {
         "id": 300527,
@@ -293,30 +332,17 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 303745,
+        "id": 81723,
         "type": "tmdb",
-        "title": "我的有罪之人",
-        "originalTitle": "나의 유죄인간",
-        "description": "杀人案头号嫌疑人、泰江集团三代继承人尹伊俊，引来特种部队出身的刑警姜在熙。她女扮男装，伪装成贴身秘书潜入调查。在熙一边查案，一边与刻薄敏感的伊俊不断交锋，二人渐生情愫。",
-        "releaseDate": "2026-10-19",
-        "backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-        "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 9.1,
+        "title": "镀金时代",
+        "originalTitle": "The Gilded Age",
+        "description": "伯莎·罗素改变了纽约上流社会，却也让家人付出代价。艾格尼丝·范莱茵伺机重获地位，玛丽安开辟人生新道路，佩吉则努力获得未来姻亲的认可。在这个新时代，人们必须谨慎对待自己的愿望。",
+        "releaseDate": "2026-11-01",
+        "backdropPath": "/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+        "posterPath": "/jvJ4d2KYNk7RH8zVcj4oiBTBtif.jpg",
+        "rating": 3.6,
         "mediaType": "tv",
-        "genreTitle": "喜剧, 剧情"
-      },
-      {
-        "id": 213375,
-        "type": "tmdb",
-        "title": "幻视任务",
-        "originalTitle": "VisionQuest",
-        "description": "重启后的幻视隐居避世，试图摆脱将他武器化的人，并通过与体内的AI人格交流寻找存在意义，其中包括恶名昭彰的奥创。然而高额悬赏打破了平静，他被迫与神秘少年托马斯·谢泼德一同逃亡，后者或许是他重生后的儿子。",
-        "releaseDate": "2026-10-13",
-        "backdropPath": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-        "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.6,
-        "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 剧情"
+        "genreTitle": "剧情"
       },
       {
         "id": 283319,
@@ -340,35 +366,9 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
         "posterPath": "/pFN9UtKh8CtfLWWyquCw6n3BCSQ.jpg",
-        "rating": 9.091,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
-      },
-      {
-        "id": 120911,
-        "type": "tmdb",
-        "title": "The Terminal List",
-        "originalTitle": "The Terminal List",
-        "description": "本剧改编自小说《真信徒》，第二季中，完成了复仇名单的詹姆斯·里斯，正在寻找新的人生方向，但当中情局把他逼入绝境时，他必须阻止一个卷土重来的恐怖组织来洗清自己的罪名，该组织已经策反了一名盟友。在这个以全球为背景的谍战惊悚剧集中，里斯将揭开一场从莫斯科延伸至兰利、甚至牵扯到他自身家族历史的阴谋。",
-        "releaseDate": "2026-10-21",
-        "backdropPath": "/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-        "posterPath": "/5r3QqV3CMOoVJ4XH6C6ntUMtKr8.jpg",
-        "rating": 8.4,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, 剧情"
-      },
-      {
-        "id": 293607,
-        "type": "tmdb",
-        "title": "百日谎言",
-        "originalTitle": "100일의 거짓말",
-        "description": "天才扒手佳景在朝鲜总督府伪装就业100天，作为假密探活跃在朝鲜，最后成为真正的密探的过程以及与朝鲜翻译官泰雄展开浪漫爱情故事的谍报罗曼史电视剧。",
-        "releaseDate": "2026-10-10",
-        "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-        "posterPath": "/rJvlEtFLeQbjr56fPXh0zzNdrgr.jpg",
-        "rating": 8.7,
-        "mediaType": "tv",
-        "genreTitle": "动作冒险, 剧情"
       }
     ]
   }
