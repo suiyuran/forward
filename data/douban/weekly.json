@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-14T00:29:49.361Z",
+  "time": "2026-11-14T23:27:06.890Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.555,
+        "rating": 7.384,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 7.993,
+        "rating": 7.998,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -35,9 +35,9 @@
         "originalTitle": "Les Braves",
         "description": "青年士兵皮埃尔渴望在第一次世界大战的战场上证明自己。在前线后方，他遇到了弗朗西斯，后者正被要求想办法提振士气。",
         "releaseDate": "2026-10-21",
-        "backdropPath": "/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
+        "backdropPath": "/AmnN2nLZaY9GPHNko5H7M5mqsMG.jpg",
         "posterPath": "/hzNLSUQmk1zPtdK3ooQ9WD4iHu7.jpg",
-        "rating": 7.4,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/ed1w4D49Zno1lqs9h9X2qzbcPpH.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
-        "rating": 7.9,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -72,10 +72,10 @@
         "type": "tmdb",
         "title": "吉姆皇后",
         "originalTitle": "Jim Queen",
-        "description": "在巴黎的同性恋圈中，Jim 是 Gym Queens 群体中最性感、最受追捧的社交媒体之王。有一天，他意识到自己感染了 Heterosis 病毒，这是一种奇怪的病毒，正在摧毁同性恋社区，并将同性恋男性转变为异性恋！Jim 失去了他的王位，并被他的整个随从抛弃了。但只有一个追随者留了下来：一个瘦弱的年轻处男 Lucien。他们一起踏上了穿过马莱区（巴黎的同性恋村）寻找神秘的 Ragoult 医生的旅程，后者声称已经找到了治疗该病毒的方法。这种治疗方法不仅可以拯救 Jim，还可以防止同性恋的灭绝。",
+        "description": "吉姆是巴黎同性恋圈的性感偶像，却因感染一种会将同性恋男性变为异性恋者的奇异病毒而失去一切。众人纷纷离他而去，只有崇拜者吕西安仍陪伴左右。两人踏上寻找神秘解药的旅程，试图拯救吉姆，也阻止同性恋群体走向消亡。",
         "releaseDate": "2026-06-17",
         "backdropPath": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
-        "posterPath": "/ue2Orwc7nNYFixoOLBHpse2H1uX.jpg",
+        "posterPath": "/1UT3Z5tMXBm9REDVooxrVnTssMf.jpg",
         "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
@@ -89,7 +89,7 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.5,
+        "rating": 7.562,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.94,
+        "rating": 6.921,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
@@ -127,7 +127,7 @@
         "description": "在参加了一个关于如何创作和销售霍尔马克电影的研讨会后，电影制作人约翰·威尔逊试图用同样的套路来推销一部关于混凝土的纪录片。",
         "releaseDate": "2026-09-18",
         "backdropPath": "/dsyJUsyrl2rBiF0k9RpSKT2YQzL.jpg",
-        "posterPath": "/2GWR1g1VdUNnNpLh6XfAQ6LVfyd.jpg",
+        "posterPath": "/9BmgTlaYpkkzScjhASCp5e4u5wr.jpg",
         "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "纪录, 喜剧"
@@ -141,7 +141,7 @@
         "originalTitle": "伟大的长征",
         "description": "该剧以全景式展现红军长征这一波澜壮阔的历史画卷，呈现一个个有血有肉有温度的革命故事，弘扬伟大的长征精神。\n\n1934年，日本帝国主义加紧了对中国的侵略，而蒋介石不顾民族危亡，坚持“攘外必先安内”的政策，发动了规模最大的第五次“围剿”。生死存亡之际，中国工农红军主力被迫实行战略性转移，撤离长江南北各苏区。平均年龄不到30岁的红军队伍犹如一条条红色铁流，经过11个省，翻越18座大 山，跨过24条大河，走过荒草地，翻过雪山，行程二万五千里。直到1936年10月红军三大主力会师，红军长征胜利结束。",
         "releaseDate": "2026-10-09",
-        "backdropPath": "/8G0SQhC1zwKIRbgaxx4HTRakVpO.jpg",
+        "backdropPath": "/oMqnBjgT0VlDpP3pHJdtnOvwwKA.jpg",
         "posterPath": "/a9omtYBq4ViiIClL9PjGUk6JB4b.jpg",
         "rating": 8.7,
         "mediaType": "tv",
@@ -287,7 +287,7 @@
         "description": "这部自然纪录片的第三系列使用最新的水下拍摄技术，揭示了来自神奇的水下世界的全新和不为人知的故事，重点关注五个主要的水下栖息地：热带海洋、温带海洋、极地海洋、公海和深海。",
         "releaseDate": "2026-11-01",
         "backdropPath": "/bx0rz8YsuZtNXiv6DDzkA9cPaeY.jpg",
-        "posterPath": "/oKzVhS8YcFXm8QYXWhB9C1ExDUa.jpg",
+        "posterPath": "/cKZm1Hz8mpFvHZPjc8M8aG4F2U9.jpg",
         "rating": 9.5,
         "mediaType": "tv",
         "genreTitle": "纪录"
@@ -314,7 +314,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.4,
+        "rating": 8.323,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/pFN9UtKh8CtfLWWyquCw6n3BCSQ.jpg",
-        "rating": 9.1,
+        "rating": 9.112,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       }
