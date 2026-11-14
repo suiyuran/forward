@@ -1,20 +1,7 @@
 {
-  "time": "2026-11-13T00:45:05.974Z",
+  "time": "2026-11-14T00:29:49.361Z",
   "data": {
     "电影": [
-      {
-        "id": 1422041,
-        "type": "tmdb",
-        "title": "黑球",
-        "originalTitle": "La bola negra",
-        "description": "三个同性恋男子在西班牙历史上1932 年、1937 年和 2017 年三个不同时期的故事。",
-        "releaseDate": "2026-09-25",
-        "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-        "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 8,
-        "mediaType": "movie",
-        "genreTitle": "剧情, 战争"
-      },
       {
         "id": 1483525,
         "type": "tmdb",
@@ -24,22 +11,35 @@
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.582,
+        "rating": 7.555,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
       {
-        "id": 1655419,
+        "id": 1422041,
         "type": "tmdb",
-        "title": "每时每刻",
-        "originalTitle": "Everytime",
-        "description": "一位沉湎于丧女之痛的母亲，和她十几岁的女儿，与那个被全世界认定为杀害她女儿凶手的男孩成了朋友。小女儿对此只想置身事外，而他们俩却千方百计想让逝者以某种方式留在生命中。直到有一天，她真的回来了——就藏在她母亲轻抚发丝的动作里，藏在她突然望向那个男孩的眼神里。一场狂热的迷途，一线虚妄的希望，一次被阳光浸透的降神会。",
-        "releaseDate": "2026-08-06",
-        "backdropPath": "/bRkk5HjNLQMWB3LlZdxySSzxVLi.jpg",
-        "posterPath": "/717HnuG76k83GpqupEWd6S1iy5j.jpg",
+        "title": "黑球",
+        "originalTitle": "La bola negra",
+        "description": "三个同性恋男子在西班牙历史上1932 年、1937 年和 2017 年三个不同时期的故事。",
+        "releaseDate": "2026-09-25",
+        "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+        "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
+        "rating": 7.993,
+        "mediaType": "movie",
+        "genreTitle": "剧情, 战争"
+      },
+      {
+        "id": 1437981,
+        "type": "tmdb",
+        "title": "懦夫",
+        "originalTitle": "Les Braves",
+        "description": "青年士兵皮埃尔渴望在第一次世界大战的战场上证明自己。在前线后方，他遇到了弗朗西斯，后者正被要求想办法提振士气。",
+        "releaseDate": "2026-10-21",
+        "backdropPath": "/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
+        "posterPath": "/hzNLSUQmk1zPtdK3ooQ9WD4iHu7.jpg",
         "rating": 7.4,
         "mediaType": "movie",
-        "genreTitle": "剧情"
+        "genreTitle": "剧情, 爱情"
       },
       {
         "id": 1476614,
@@ -68,30 +68,30 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 1563627,
+        "id": 1061798,
         "type": "tmdb",
-        "title": "杯雪·一战成名",
-        "originalTitle": "杯雪·一战成名",
-        "description": "南宋年间，秦桧把持朝政，派遣麾下缇骑四处镇压抗金义士。七里铺发生一起惨案，金国使者等四十一人遇害，唯一幸存的文官沈放因此被怀疑是凶手。缇骑统领袁寒亭奉命追查，而下落不明的二十八万两白银也引来各路江湖人士。众人齐聚驿站，试图从看似手无缚鸡之力的沈放身上找到答案，却始终无法将他拿下，反而接连有高手离奇丧命。面对朝廷追捕与江湖围堵，沈放声称凶案另有其人，而随着各方势力相互猜忌、不断交锋，这桩血案背后的疑团也变得越来越复杂……",
-        "releaseDate": "2026-09-27",
-        "backdropPath": "/6neOr2yjCdnVFUzI5xIOvo6sxuf.jpg",
-        "posterPath": "/350om1pKdv14AdTWxpwqEYR9WrS.jpg",
-        "rating": 7.6,
+        "title": "吉姆皇后",
+        "originalTitle": "Jim Queen",
+        "description": "在巴黎的同性恋圈中，Jim 是 Gym Queens 群体中最性感、最受追捧的社交媒体之王。有一天，他意识到自己感染了 Heterosis 病毒，这是一种奇怪的病毒，正在摧毁同性恋社区，并将同性恋男性转变为异性恋！Jim 失去了他的王位，并被他的整个随从抛弃了。但只有一个追随者留了下来：一个瘦弱的年轻处男 Lucien。他们一起踏上了穿过马莱区（巴黎的同性恋村）寻找神秘的 Ragoult 医生的旅程，后者声称已经找到了治疗该病毒的方法。这种治疗方法不仅可以拯救 Jim，还可以防止同性恋的灭绝。",
+        "releaseDate": "2026-06-17",
+        "backdropPath": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
+        "posterPath": "/ue2Orwc7nNYFixoOLBHpse2H1uX.jpg",
+        "rating": 7.9,
         "mediaType": "movie",
-        "genreTitle": "犯罪, 动作"
+        "genreTitle": "动画, 喜剧"
       },
       {
-        "id": 1514026,
+        "id": 1263337,
         "type": "tmdb",
-        "title": "逃出布迪秀",
-        "originalTitle": "Buddy",
-        "description": "一群孩子被困在看似欢乐的儿童电视节目中。随着橙色独角兽布迪露出凶残本性，这个充满歌舞与欢笑的世界逐渐显露出恐怖真相。",
-        "releaseDate": "2026-08-27",
-        "backdropPath": "/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
-        "posterPath": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-        "rating": 6.805,
+        "title": "野兽之心",
+        "originalTitle": "Heart of the Beast",
+        "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
+        "releaseDate": "2026-09-19",
+        "backdropPath": "/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+        "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
+        "rating": 7.5,
         "mediaType": "movie",
-        "genreTitle": "恐怖, 喜剧"
+        "genreTitle": "冒险, 惊悚"
       },
       {
         "id": 1198654,
@@ -102,35 +102,35 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.9,
+        "rating": 6.94,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
       {
-        "id": 1465063,
+        "id": 1655419,
         "type": "tmdb",
-        "title": "忘却之岛",
-        "originalTitle": "Forgotten Island",
-        "description": "好友乔与拉伊萨高中毕业即将分别，她们打算相伴度过最后一夜，却意外被传送到奇幻岛屿纳卡利。二人得知重返家园的代价是抹去关于彼此的全部记忆，她们必须抓紧时间，在遗忘对方找到方法离开这座岛屿。",
-        "releaseDate": "2026-09-10",
-        "backdropPath": "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-        "posterPath": "/2O3b5ey8xITyzz5KuaaRTj6bONx.jpg",
-        "rating": 7.994,
+        "title": "每时每刻",
+        "originalTitle": "Everytime",
+        "description": "一位沉湎于丧女之痛的母亲，和她十几岁的女儿，与那个被全世界认定为杀害她女儿凶手的男孩成了朋友。小女儿对此只想置身事外，而他们俩却千方百计想让逝者以某种方式留在生命中。直到有一天，她真的回来了——就藏在她母亲轻抚发丝的动作里，藏在她突然望向那个男孩的眼神里。一场狂热的迷途，一线虚妄的希望，一次被阳光浸透的降神会。",
+        "releaseDate": "2026-08-06",
+        "backdropPath": "/bRkk5HjNLQMWB3LlZdxySSzxVLi.jpg",
+        "posterPath": "/717HnuG76k83GpqupEWd6S1iy5j.jpg",
+        "rating": 7.4,
         "mediaType": "movie",
-        "genreTitle": "动画, 冒险"
+        "genreTitle": "剧情"
       },
       {
-        "id": 607833,
+        "id": 1596296,
         "type": "tmdb",
-        "title": "实习生",
-        "originalTitle": "인턴",
-        "description": "翻拍自同名美国电影。拥有37年职场经验的退休人士基浩，决定进入年轻工作狂CEO善雨的新创公司担任实习生，而这家公司仅成立3年便已成为时尚产业的一匹黑马，充满化学反应的上班路从今天开始。",
-        "releaseDate": "2026-09-16",
-        "backdropPath": "/OroFBNgB2RBzj2X65CweVhhQQG.jpg",
-        "posterPath": "/qXeGCeHDeueGAbZvlL7pAGknFfm.jpg",
-        "rating": 6.4,
+        "title": "混凝土简史",
+        "originalTitle": "The History of Concrete",
+        "description": "在参加了一个关于如何创作和销售霍尔马克电影的研讨会后，电影制作人约翰·威尔逊试图用同样的套路来推销一部关于混凝土的纪录片。",
+        "releaseDate": "2026-09-18",
+        "backdropPath": "/dsyJUsyrl2rBiF0k9RpSKT2YQzL.jpg",
+        "posterPath": "/2GWR1g1VdUNnNpLh6XfAQ6LVfyd.jpg",
+        "rating": 7.2,
         "mediaType": "movie",
-        "genreTitle": "剧情, 喜剧"
+        "genreTitle": "纪录, 喜剧"
       }
     ],
     "剧集·国内": [
@@ -275,7 +275,7 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 9,
+        "rating": 9.043,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -323,11 +323,11 @@
         "type": "tmdb",
         "title": "有人刚好提起我吗？",
         "originalTitle": "俺のこと、なんか言ってた？",
-        "description": "故事的主角是高濑川玄，他是首位在伦敦莎士比亚环球剧院担纲主演的日本演员。一直未能返回日本的他，两年后终于踏上归途，却遭遇了渴望成名之人最大的悲剧：全世界突然彻底忘记了他的存在！\n\n失去名声、家庭和财富后，他还能重返聚光灯下吗？这部喜剧讲述了一个执着于获得认可的男人，在人生被迫“归零”后，如何努力东山再起、重新赢回属于自己的舞台。",
+        "description": "舞台剧演员高濑川玄（役所广司 饰）曾在英国伦敦莎士比亚环球剧院实现日本人首次主演的荣耀，却因某些原因无法回国，时隔约两年终于回到日本。然而，对于极度需要外界认可的高濑川玄来说，最大的悲剧降临了——他彻底被全世界遗忘。",
         "releaseDate": "2026-10-22",
         "backdropPath": "/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
         "posterPath": "/l0YkFVmSt1LgsiraDXBgp3OFJ2k.jpg",
-        "rating": 7.636,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -340,7 +340,7 @@
         "releaseDate": "2026-11-01",
         "backdropPath": "/afUVsProh46h31w2EvL7qyHXrqj.jpg",
         "posterPath": "/jvJ4d2KYNk7RH8zVcj4oiBTBtif.jpg",
-        "rating": 3.6,
+        "rating": 3.8,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -364,9 +364,9 @@
         "originalTitle": "닥터X: 하얀 마피아의 시대",
         "description": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。",
         "releaseDate": "2026-10-09",
-        "backdropPath": "/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
+        "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/pFN9UtKh8CtfLWWyquCw6n3BCSQ.jpg",
-        "rating": 9.149,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       }
