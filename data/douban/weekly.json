@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-15T23:36:27.447Z",
+  "time": "2026-11-17T02:39:33.455Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.3,
+        "rating": 7.31,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 7.969,
+        "rating": 8,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-10-21",
         "backdropPath": "/AmnN2nLZaY9GPHNko5H7M5mqsMG.jpg",
         "posterPath": "/hzNLSUQmk1zPtdK3ooQ9WD4iHu7.jpg",
-        "rating": 7.469,
+        "rating": 7.5,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
         "posterPath": "/1UT3Z5tMXBm9REDVooxrVnTssMf.jpg",
-        "rating": 7.9,
+        "rating": 7.845,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.6,
+        "rating": 7.631,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.922,
+        "rating": 6.917,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-08-06",
         "backdropPath": "/bRkk5HjNLQMWB3LlZdxySSzxVLi.jpg",
         "posterPath": "/717HnuG76k83GpqupEWd6S1iy5j.jpg",
-        "rating": 7.4,
+        "rating": 7.1,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-09-18",
         "backdropPath": "/dsyJUsyrl2rBiF0k9RpSKT2YQzL.jpg",
         "posterPath": "/9BmgTlaYpkkzScjhASCp5e4u5wr.jpg",
-        "rating": 7.19,
+        "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "纪录, 喜剧"
       }
@@ -221,7 +221,7 @@
         "releaseDate": "2026-10-16",
         "backdropPath": "/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
         "posterPath": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
-        "rating": 7.38,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 9.069,
+        "rating": 9.1,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -312,9 +312,9 @@
         "originalTitle": "VisionQuest",
         "description": "重启后的幻视隐居避世，试图摆脱将他武器化的人，并通过与体内的AI人格交流寻找存在意义，其中包括恶名昭彰的奥创。然而高额悬赏打破了平静，他被迫与神秘少年托马斯·谢泼德一同逃亡，后者或许是他重生后的儿子。",
         "releaseDate": "2026-10-13",
-        "backdropPath": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+        "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.334,
+        "rating": 8.326,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-10-22",
         "backdropPath": "/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
         "posterPath": "/l0YkFVmSt1LgsiraDXBgp3OFJ2k.jpg",
-        "rating": 7.6,
+        "rating": 7.7,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -365,8 +365,8 @@
         "description": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。",
         "releaseDate": "2026-10-09",
         "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-        "posterPath": "/pFN9UtKh8CtfLWWyquCw6n3BCSQ.jpg",
-        "rating": 8.9,
+        "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
+        "rating": 8.595,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       }
