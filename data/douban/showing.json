@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-15T21:30:17.504Z",
+  "time": "2026-11-17T00:40:04.538Z",
   "data": [
     {
       "id": 1810158,
@@ -28,19 +28,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1303034,
-      "type": "tmdb",
-      "title": "生日快乐",
-      "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "releaseDate": "2025-09-17",
-      "backdropPath": "/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
-      "posterPath": "/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
-      "rating": 7.833,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1821748,
       "type": "tmdb",
       "title": "我没错！",
@@ -54,6 +41,32 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1303034,
+      "type": "tmdb",
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "releaseDate": "2025-09-17",
+      "backdropPath": "/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "posterPath": "/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
+      "rating": 7.833,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1423191,
+      "type": "tmdb",
+      "title": "生化危机：爆发夜",
+      "originalTitle": "Resident Evil",
+      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
+      "releaseDate": "2026-09-16",
+      "backdropPath": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+      "posterPath": "/oLLEEUq7In4Ob731KpjrValqM4A.jpg",
+      "rating": 7.515,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
+    },
+    {
       "id": 1529692,
       "type": "tmdb",
       "title": "夫妻一场",
@@ -65,19 +78,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "纪录"
-    },
-    {
-      "id": 1423191,
-      "type": "tmdb",
-      "title": "生化危机：爆发夜",
-      "originalTitle": "Resident Evil",
-      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
-      "releaseDate": "2026-09-16",
-      "backdropPath": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
-      "posterPath": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "rating": 7.519,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 245891,
@@ -106,19 +106,6 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1823190,
-      "type": "tmdb",
-      "title": "无可替代的你",
-      "originalTitle": "无可替代的你",
-      "description": "城市白领代依曼困于平淡压抑的婚姻，在日复一日的消磨中终于直面情感裂痕；年轻的可可如飞蛾扑火，于炽热的邂逅里奔赴一场义无反顾的爱恋；无霜深陷绵长的情感执念，在等待与失落中反复打捞自己。三段人生彼此交织，映照出当代婚恋里最真实的迷茫、挣扎与选择。历经悲欢得失，三人逐渐释怀，并最终懂得：不必执着追寻长久相伴的结局，那些共处时光、相爱朝夕与细碎温热的情感记忆，才是生命里最为珍贵且无可替代的。",
-      "releaseDate": "2026-11-11",
-      "backdropPath": "/c6GkWYWR1dwiy40Gb0lqRgC3km9.jpg",
-      "posterPath": "/oy9nw6dWTryfaBguBWfRa16Zetb.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 爱情"
-    },
-    {
       "id": 1263337,
       "type": "tmdb",
       "title": "野兽之心",
@@ -127,9 +114,22 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.583,
+      "rating": 7.631,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
+    },
+    {
+      "id": 1823190,
+      "type": "tmdb",
+      "title": "无可替代的你",
+      "originalTitle": "无可替代的你",
+      "description": "城市白领代依曼困于平淡压抑的婚姻，在日复一日的消磨中终于直面情感裂痕；年轻的可可如飞蛾扑火，于炽热的邂逅里奔赴一场义无反顾的爱恋；无霜深陷绵长的情感执念，在等待与失落中反复打捞自己。三段人生彼此交织，映照出当代婚恋里最真实的迷茫、挣扎与选择。历经悲欢得失，三人逐渐释怀，并最终懂得：不必执着追寻长久相伴的结局，那些共处时光、相爱朝夕与细碎温热的情感记忆，才是生命里最为珍贵且无可替代的。",
+      "releaseDate": "2026-11-11",
+      "backdropPath": "/c6GkWYWR1dwiy40Gb0lqRgC3km9.jpg",
+      "posterPath": "/oy9nw6dWTryfaBguBWfRa16Zetb.jpg",
+      "rating": 3,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 爱情"
     },
     {
       "id": 1439171,
@@ -153,9 +153,22 @@
       "releaseDate": "2026-10-31",
       "backdropPath": "/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "posterPath": "/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
-      "rating": 6.875,
+      "rating": 6.9,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1368337,
+      "type": "tmdb",
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "克里斯托弗·诺兰将荷马笔下的怪物搬上银幕，打造了一部在全球多地取景拍摄的神话动作史诗。这是一场无与伦比的电影盛事。[环球影业]",
+      "releaseDate": "2026-07-15",
+      "backdropPath": "/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
+      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "rating": 8.021,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动作"
     },
     {
       "id": 1325871,
@@ -171,32 +184,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1567937,
-      "type": "tmdb",
-      "title": "空枪",
-      "originalTitle": "空枪",
-      "description": "20世纪90年代初的香港，打工仔万梓强一心渴望改变命运，在结识空姐骆嘉苑后，两人决定铤而走险，联手实施了一场巨额劫案。意外获得的财富让万梓强尝到了成功的滋味，也使他的野心不断膨胀，并逐渐卷入与富商陈辉延之间更加复杂的利益争斗。与此同时，内地警察亓宏刚与香港警察关苏辰始终没有放弃对万梓强的调查。随着两地警方逐渐掌握线索，万梓强在金钱、欲望与利益交织的犯罪漩涡中越陷越深，一场围绕巨额财富的警匪较量也逐渐升级……",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/mm8VecTY7YxWevgS8F2ygqLMAiv.jpg",
-      "posterPath": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
-      "rating": 6.867,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
-    },
-    {
-      "id": 1368337,
-      "type": "tmdb",
-      "title": "奥德赛",
-      "originalTitle": "The Odyssey",
-      "description": "特洛伊战争结束后，伊萨卡国王奥德修斯（马特·达蒙 饰）踏上归途，却因触怒神明而漂泊十年。与此同时，他的妻子珀涅罗珀（安妮·海瑟薇 饰）与儿子忒勒玛科斯（汤姆·赫兰德 饰）在家乡被一群狂妄的求婚者围困，苦苦支撑着一个摇摇欲坠的王国......",
-      "releaseDate": "2026-07-15",
-      "backdropPath": "/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
-      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.022,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动作"
-    },
-    {
       "id": 1477104,
       "type": "tmdb",
       "title": "小羊肖恩3：怪兽来袭",
@@ -210,17 +197,17 @@
       "genreTitle": "动画, 科幻"
     },
     {
-      "id": 18672,
+      "id": 1824679,
       "type": "tmdb",
-      "title": "笑傲江湖2：东方不败",
-      "originalTitle": "笑傲江湖II東方不敗",
-      "description": "华山派大弟子令狐冲（李连杰 饰）在经历江湖纷争后，本欲与师妹岳灵珊（李嘉欣 饰）及众师弟一同归隐，退出江湖。然而，此时的武林正被一场巨大阴谋笼罩。日月神教教主东方不败（林青霞 饰）凭借绝世武功《葵花宝典》篡权，囚禁了原教主任我行（任世官 饰），并勾结东瀛浪人，意图颠覆朝廷。\r 令狐冲在途中偶遇一位超凡脱俗的神秘女子，两人月下对饮，引为知己，令狐冲更对这位女子暗生情愫。他全然不知，眼前这位佳人，正是他受朋友任盈盈（关之琳 饰）和蓝凤凰（袁洁莹 饰）所托、计划要铲除的魔教枭雄东方不败。\r 与此同时，东方不败为巩固权势，开始铲除教内异己。当令狐冲得知自己的同门师兄弟惨遭东方不败毒手时，他义愤填膺，决心联手任盈盈、向问天（刘洵 饰）以及被救出的任我行，攻上黑木崖，为同门报仇。\r 在最终的决战中，令狐冲震惊地发现，那个与自己有过一段情缘、刻骨铭心的神秘女子，竟然就是他要手刃的仇敌东方不败。爱恨交织与江湖大义在前，两人展开了一场惊天动地的生死对决。东方不败虽武功盖世，但因对令狐冲手下留情，最终坠下悬崖。\r 风波平息后，重掌大权的任我行变得与昔日的东方不败一样专横，开始大肆清除异己。令狐冲看透江湖权力斗争的循环与虚妄，心灰意冷之下，选择携师妹岳灵珊浪迹天涯，真正远离这个纷扰的江湖。",
-      "releaseDate": "1992-06-26",
-      "backdropPath": "/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
-      "posterPath": "/yZYzCiF0uGSg6kRkDE1UKzuesaF.jpg",
-      "rating": 6.6,
+      "title": "琴弓师",
+      "originalTitle": "琴弓师",
+      "description": "八十年代，苏州水乡木匠朱渭华被小提琴琴弓的精巧所吸引，苦心研究琴弓制作，多次失败后立下制作世界名弓的志向。他顶着“泥腿子不懂音乐”的偏见考入上海音乐学院，却因家庭变故辍学返乡。朱渭华坚守精工细作，将明式家具榫卯的工艺融入制弓技艺，潜心数载后斩获国际琴弓大赛金奖。朱渭华怀揣匠心跨越认知壁垒、填补技术空白，历经寒来暑往，终成一代制弓大师，以工匠精神奏响了一曲将“琴弓制作技艺”推向世界的壮丽凯歌。",
+      "releaseDate": "2026-11-17",
+      "backdropPath": "/9MkJCcnmUz1thX27PRrGftiuOKp.jpg",
+      "posterPath": "/NsHFmkpPPyvOHm0w1q7qQiMf8.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动作, 奇幻"
+      "genreTitle": "剧情"
     },
     {
       "id": 1563608,
@@ -236,19 +223,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 10376,
-      "type": "tmdb",
-      "title": "海上钢琴师",
-      "originalTitle": "La leggenda del pianista sull'oceano",
-      "description": "1900年，一个被遗弃的婴儿出现在往返欧美的弗吉尼亚号上，被船上的锅炉工丹尼收养，并以新世纪的年份取名为“1900”。丹尼意外去世后，1900继续在船上长大，并逐渐展现出无师自通的惊人钢琴天赋，成为弗吉尼亚号上的钢琴师。他的演奏吸引着来自世界各地的乘客，也让他与小号手麦克斯结下深厚友谊。然而无论船只多少次靠岸，1900始终没有真正踏上陆地，对他而言，这艘船和八十八个琴键就是自己熟悉的整个世界。直到一次偶然的邂逅，让从未离开过大海的他第一次认真考虑走下弗吉尼亚号，面对那个没有边界的陌生世界……",
-      "releaseDate": "1998-10-28",
-      "backdropPath": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
-      "posterPath": "/bXk1kSDSiVPj06LtpESZK7C8HsL.jpg",
-      "rating": 8.232,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 音乐"
-    },
-    {
       "id": 1782347,
       "type": "tmdb",
       "title": "三星堆：未来往事",
@@ -262,6 +236,45 @@
       "genreTitle": "动画, 科幻"
     },
     {
+      "id": 18672,
+      "type": "tmdb",
+      "title": "笑傲江湖2：东方不败",
+      "originalTitle": "笑傲江湖II東方不敗",
+      "description": "华山派大弟子令狐冲（李连杰 饰）在经历江湖纷争后，本欲与师妹岳灵珊（李嘉欣 饰）及众师弟一同归隐，退出江湖。然而，此时的武林正被一场巨大阴谋笼罩。日月神教教主东方不败（林青霞 饰）凭借绝世武功《葵花宝典》篡权，囚禁了原教主任我行（任世官 饰），并勾结东瀛浪人，意图颠覆朝廷。\r 令狐冲在途中偶遇一位超凡脱俗的神秘女子，两人月下对饮，引为知己，令狐冲更对这位女子暗生情愫。他全然不知，眼前这位佳人，正是他受朋友任盈盈（关之琳 饰）和蓝凤凰（袁洁莹 饰）所托、计划要铲除的魔教枭雄东方不败。\r 与此同时，东方不败为巩固权势，开始铲除教内异己。当令狐冲得知自己的同门师兄弟惨遭东方不败毒手时，他义愤填膺，决心联手任盈盈、向问天（刘洵 饰）以及被救出的任我行，攻上黑木崖，为同门报仇。\r 在最终的决战中，令狐冲震惊地发现，那个与自己有过一段情缘、刻骨铭心的神秘女子，竟然就是他要手刃的仇敌东方不败。爱恨交织与江湖大义在前，两人展开了一场惊天动地的生死对决。东方不败虽武功盖世，但因对令狐冲手下留情，最终坠下悬崖。\r 风波平息后，重掌大权的任我行变得与昔日的东方不败一样专横，开始大肆清除异己。令狐冲看透江湖权力斗争的循环与虚妄，心灰意冷之下，选择携师妹岳灵珊浪迹天涯，真正远离这个纷扰的江湖。",
+      "releaseDate": "1992-06-26",
+      "backdropPath": "/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
+      "posterPath": "/yZYzCiF0uGSg6kRkDE1UKzuesaF.jpg",
+      "rating": 6.577,
+      "mediaType": "movie",
+      "genreTitle": "动作, 奇幻"
+    },
+    {
+      "id": 10376,
+      "type": "tmdb",
+      "title": "海上钢琴师",
+      "originalTitle": "La leggenda del pianista sull'oceano",
+      "description": "1900年，一个被遗弃的婴儿出现在往返欧美的弗吉尼亚号上，被船上的锅炉工丹尼收养，并以新世纪的年份取名为“1900”。丹尼意外去世后，1900继续在船上长大，并逐渐展现出无师自通的惊人钢琴天赋，成为弗吉尼亚号上的钢琴师。他的演奏吸引着来自世界各地的乘客，也让他与小号手麦克斯结下深厚友谊。然而无论船只多少次靠岸，1900始终没有真正踏上陆地，对他而言，这艘船和八十八个琴键就是自己熟悉的整个世界。直到一次偶然的邂逅，让从未离开过大海的他第一次认真考虑走下弗吉尼亚号，面对那个没有边界的陌生世界……",
+      "releaseDate": "1998-10-28",
+      "backdropPath": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
+      "posterPath": "/bXk1kSDSiVPj06LtpESZK7C8HsL.jpg",
+      "rating": 8.232,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 音乐"
+    },
+    {
+      "id": 1089598,
+      "type": "tmdb",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
+      "posterPath": "/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "rating": 6.2,
+      "mediaType": "movie",
+      "genreTitle": "动作, 历史"
+    },
+    {
       "id": 1339713,
       "type": "tmdb",
       "title": "痴迷",
@@ -270,35 +283,9 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.164,
+      "rating": 8.161,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 1812386,
-      "type": "tmdb",
-      "title": "向阳青春",
-      "originalTitle": "向阳青春",
-      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
-      "releaseDate": "2026-11-14",
-      "backdropPath": "/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
-      "posterPath": "/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1502135,
-      "type": "tmdb",
-      "title": "密档",
-      "originalTitle": "密档",
-      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
-      "releaseDate": "2026-08-28",
-      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
-      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 1503023,
@@ -314,6 +301,19 @@
       "genreTitle": "剧情, 动作"
     },
     {
+      "id": 1502135,
+      "type": "tmdb",
+      "title": "密档",
+      "originalTitle": "密档",
+      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
+      "releaseDate": "2026-08-28",
+      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
+      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 悬疑"
+    },
+    {
       "id": 1811193,
       "type": "tmdb",
       "title": "清气满乾坤",
@@ -325,19 +325,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1255833,
-      "type": "tmdb",
-      "title": "鲸口脱险",
-      "originalTitle": "Whalefall",
-      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
-      "releaseDate": "2026-10-14",
-      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "rating": 6.6,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
     },
     {
       "id": 1086176,
@@ -353,19 +340,6 @@
       "genreTitle": "动作, 喜剧"
     },
     {
-      "id": 1726805,
-      "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "releaseDate": "2026-10-23",
-      "backdropPath": null,
-      "posterPath": "/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
-      "rating": 4,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
-    },
-    {
       "id": 278,
       "type": "tmdb",
       "title": "肖申克的救赎",
@@ -379,17 +353,30 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1707626,
+      "id": 1726805,
       "type": "tmdb",
-      "title": "梦寻苏毗女儿国",
-      "originalTitle": "梦寻苏毗女儿国",
-      "description": "女主角央庆拉姆自小在内地长大，因一次偶然的高原旅程，与年轻向导白玛相遇。两人一路深入牧区与草原，在梦想与现实、传统与自我之间，展开了一场关于婚姻、生死与道德的内心探寻。最终，在旷野间完成了与故土、与自我的双向和解。",
-      "releaseDate": "2026-11-03",
-      "backdropPath": "/mpLahvoqhp2AItskVQlgk7bt8Hy.jpg",
-      "posterPath": "/vSnLnMbXnSJWOLAGAEGqffZslO0.jpg",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "releaseDate": "2026-10-23",
+      "backdropPath": null,
+      "posterPath": "/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "rating": 4,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
+    },
+    {
+      "id": 1812386,
+      "type": "tmdb",
+      "title": "向阳青春",
+      "originalTitle": "向阳青春",
+      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
+      "releaseDate": "2026-11-14",
+      "backdropPath": "/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
+      "posterPath": "/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
+      "genreTitle": "剧情"
     },
     {
       "id": 553,
@@ -400,22 +387,9 @@
       "releaseDate": "2003-05-21",
       "backdropPath": "/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
       "posterPath": "/isUerLEvLqwSGx6IaMHlFvWnNL5.jpg",
-      "rating": 7.743,
+      "rating": 7.742,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
-    },
-    {
-      "id": 1308545,
-      "type": "tmdb",
-      "title": "一个夜晚与三个夏天",
-      "originalTitle": "一个夜晚与三个夏天",
-      "description": "桑吉在拉萨拍摄一部和童年有关的片子，彼时的她面临着创作上的迷茫，与同为藏戏编导的父亲隔阂也难以消弭。一次偶然的派对，桑吉遇见了她所拍摄故事中的原型人物拉姆，夜晚悄然逝去，弥散在记忆中的夏天逐渐有了全貌...",
-      "releaseDate": "2026-09-11",
-      "backdropPath": "/Agffw58ImoHhiXYCy3iKepG3fXC.jpg",
-      "posterPath": "/l40fLV8sD9T3S3qQct9urcvGkEd.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
     },
     {
       "id": 1766670,
@@ -431,69 +405,17 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 81401,
+      "id": 1308545,
       "type": "tmdb",
-      "title": "都灵之马",
-      "originalTitle": "A torinói ló",
-      "description": "“1889年1月3日，都灵。弗里德里克·尼采在维亚·卡罗·艾尔波特酒店的六号门前驻足。他的目光被酒店外的一个马车吸引。不远的地方，停着一辆小马车。马车的车夫遭遇到了一匹倔强的马。不管车夫怎么喊叫，马匹根本没有要移动的意思。最终，车夫失去了耐心，拿起了鞭子，朝马匹打去。尼采见到此番情景，挤进人群，冲到马匹跟前，阻止住马夫，抱住马的脖子，痛哭起来。酒店的主人赶来，拉走了尼采。回到酒店的尼采在沙发上安安静静地、一动不动地躺了两天。随后，他小声地说了几句话。接下来，就是尼采精神错乱、神经颠颠的十年，由他的妹妹和母亲照顾的日子。谁也不知道，在都灵，在那匹马的身上，在尼采的心里，发生了什么。”",
-      "releaseDate": "2011-03-31",
-      "backdropPath": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
-      "posterPath": "/wZRROvVJWfuQNYV7Zzerv1Bmh6x.jpg",
-      "rating": 7.561,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1796001,
-      "type": "tmdb",
-      "title": "民宿惊魂",
-      "originalTitle": "民宿惊魂",
-      "description": "孤岛荒宿，情侣旅行撞上民宿阴宅，一桩桩离奇事件接踵而至：镜子里的鬼脸、暗室里密布的红绳、突然扭动的门把手、泳池里惊现的鬼影……夜晚怪事连连，一觉惊魂醒来，所有诡异痕迹却全部消失不见……是凶宅幻视？无尽梦魇？还是有人布下猎杀圈套？",
-      "releaseDate": "2026-10-31",
-      "backdropPath": null,
-      "posterPath": "/gsqSXMD1PNRq27bma8CUHrJvC3A.jpg",
+      "title": "一个夜晚与三个夏天",
+      "originalTitle": "一个夜晚与三个夏天",
+      "description": "桑吉在拉萨拍摄一部和童年有关的片子，彼时的她面临着创作上的迷茫，与同为藏戏编导的父亲隔阂也难以消弭。一次偶然的派对，桑吉遇见了她所拍摄故事中的原型人物拉姆，夜晚悄然逝去，弥散在记忆中的夏天逐渐有了全貌...",
+      "releaseDate": "2026-09-11",
+      "backdropPath": "/Agffw58ImoHhiXYCy3iKepG3fXC.jpg",
+      "posterPath": "/l40fLV8sD9T3S3qQct9urcvGkEd.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "惊悚"
-    },
-    {
-      "id": 1732799,
-      "type": "tmdb",
-      "title": "象行记",
-      "originalTitle": "象行记",
-      "description": "影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
-      "releaseDate": "2026-10-23",
-      "backdropPath": "/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
-      "posterPath": "/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
-      "id": 24657,
-      "type": "tmdb",
-      "title": "牺牲",
-      "originalTitle": "Offret",
-      "description": "当一个富裕的瑞典家庭正在庆祝家长亚历山大（厄兰·约瑟夫森 饰）的生日时，第三次世界大战爆发的消息传到了他们偏远的波罗的海小岛上——欢快的气氛骤然转为恐怖。这个家庭陷入了心理上的崩塌，塔尔科夫斯基以引人注目的、发光的灰色调笼罩着家园周围荒凉的风景，精彩地渲染出这种状态。对于这位因人类缺乏灵性而深感困扰的哲学家亚历山大来说，即将到来的毁灭迫使他做出终极牺牲；为了拯救被恐惧笼罩的亲人，他与上帝达成了一场浮士德式的交易。",
-      "releaseDate": "1986-05-09",
-      "backdropPath": "/48y1eAboPFgt7rKcynRAPPvtJ1E.jpg",
-      "posterPath": "/gNscrLaRH0xqIMQX4ur2dIlq3Zq.jpg",
-      "rating": 7.704,
-      "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1650896,
-      "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇·完美假期",
-      "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
-      "posterPath": "/he7GN5W8lrhvu09qe6GauTBlFg1.jpg",
-      "rating": 10,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
     },
     {
       "id": 176631,
@@ -509,6 +431,32 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
+      "id": 1707626,
+      "type": "tmdb",
+      "title": "梦寻苏毗女儿国",
+      "originalTitle": "梦寻苏毗女儿国",
+      "description": "女主角央庆拉姆自小在内地长大，因一次偶然的高原旅程，与年轻向导白玛相遇。两人一路深入牧区与草原，在梦想与现实、传统与自我之间，展开了一场关于婚姻、生死与道德的内心探寻。最终，在旷野间完成了与故土、与自我的双向和解。",
+      "releaseDate": "2026-11-03",
+      "backdropPath": "/mpLahvoqhp2AItskVQlgk7bt8Hy.jpg",
+      "posterPath": "/vSnLnMbXnSJWOLAGAEGqffZslO0.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 24657,
+      "type": "tmdb",
+      "title": "牺牲",
+      "originalTitle": "Offret",
+      "description": "当一个富裕的瑞典家庭正在庆祝家长亚历山大（厄兰·约瑟夫森 饰）的生日时，第三次世界大战爆发的消息传到了他们偏远的波罗的海小岛上——欢快的气氛骤然转为恐怖。这个家庭陷入了心理上的崩塌，塔尔科夫斯基以引人注目的、发光的灰色调笼罩着家园周围荒凉的风景，精彩地渲染出这种状态。对于这位因人类缺乏灵性而深感困扰的哲学家亚历山大来说，即将到来的毁灭迫使他做出终极牺牲；为了拯救被恐惧笼罩的亲人，他与上帝达成了一场浮士德式的交易。",
+      "releaseDate": "1986-05-09",
+      "backdropPath": "/48y1eAboPFgt7rKcynRAPPvtJ1E.jpg",
+      "posterPath": "/gNscrLaRH0xqIMQX4ur2dIlq3Zq.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 451995,
       "type": "tmdb",
       "title": "脸庞，村庄",
@@ -522,30 +470,17 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 49964,
+      "id": 1796001,
       "type": "tmdb",
-      "title": "何处是我朋友的家",
-      "originalTitle": "خانه‌ی دوست کجاست؟",
-      "description": "伊朗的偏僻山村小学里，一群孩子在课堂里聆听老师讲课。在检查作业的时候，老师发现穆罕德屡次没有完成家庭作业，于是严厉地批评了他，说如若再犯立马开除。老师对学生强调这是帮助他们树立良好的规矩。当天放学后，小男孩阿穆德却赫然发现自己把同桌穆罕德的作业本带回了家。听懂了老师的谆谆善诱，所以阿穆德明白这作业本就是穆罕德继续听讲的凭证。为了把作业本还给同桌，阿穆德曾希望母亲和祖父可以施以援手，但是均告失败。所以，他只能孤身前行，到对面大山里的村落去寻找同桌，归还作业本。然而，由于不认识同桌的家，所以他处处碰壁，遭遇到了无法想象的艰难险阻……",
-      "releaseDate": "1987-07-01",
-      "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
-      "posterPath": "/qULkpJ4fq9wbtautj4Jq4PFc0W5.jpg",
-      "rating": 7.923,
+      "title": "民宿惊魂",
+      "originalTitle": "民宿惊魂",
+      "description": "孤岛荒宿，情侣旅行撞上民宿阴宅，一桩桩离奇事件接踵而至：镜子里的鬼脸、暗室里密布的红绳、突然扭动的门把手、泳池里惊现的鬼影……夜晚怪事连连，一觉惊魂醒来，所有诡异痕迹却全部消失不见……是凶宅幻视？无尽梦魇？还是有人布下猎杀圈套？",
+      "releaseDate": "2026-10-31",
+      "backdropPath": null,
+      "posterPath": "/gsqSXMD1PNRq27bma8CUHrJvC3A.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 冒险"
-    },
-    {
-      "id": 1151272,
-      "type": "tmdb",
-      "title": "接近终点",
-      "originalTitle": "Sirāt",
-      "description": "在地下狂欢派对的震耳低音中，路易斯（塞尔希·洛佩斯 饰）与儿子埃斯特班穿越沙漠，寻找几个月前在派对中失踪的女儿兼姐姐玛尔。随着他们深入这片炽热、混乱的边境地带，面对陌生的自由与逐渐崩塌的秩序，他们不仅在寻找亲人，也在寻找自我。影片以纪录片质感的长镜头与沉默的凝视，构建出一场关于极限、信仰与家庭的灵性旅程。",
-      "releaseDate": "2025-06-06",
-      "backdropPath": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
-      "posterPath": "/x2fvCwk1xEasxhdGwkvIV45SxWQ.jpg",
-      "rating": 6.8,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 惊悚"
+      "genreTitle": "惊悚"
     },
     {
       "id": 21058,
@@ -561,30 +496,43 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 414419,
+      "id": 81401,
       "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "releaseDate": "2011-03-27",
-      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.1,
+      "title": "都灵之马",
+      "originalTitle": "A torinói ló",
+      "description": "“1889年1月3日，都灵。弗里德里克·尼采在维亚·卡罗·艾尔波特酒店的六号门前驻足。他的目光被酒店外的一个马车吸引。不远的地方，停着一辆小马车。马车的车夫遭遇到了一匹倔强的马。不管车夫怎么喊叫，马匹根本没有要移动的意思。最终，车夫失去了耐心，拿起了鞭子，朝马匹打去。尼采见到此番情景，挤进人群，冲到马匹跟前，阻止住马夫，抱住马的脖子，痛哭起来。酒店的主人赶来，拉走了尼采。回到酒店的尼采在沙发上安安静静地、一动不动地躺了两天。随后，他小声地说了几句话。接下来，就是尼采精神错乱、神经颠颠的十年，由他的妹妹和母亲照顾的日子。谁也不知道，在都灵，在那匹马的身上，在尼采的心里，发生了什么。”",
+      "releaseDate": "2011-03-31",
+      "backdropPath": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
+      "posterPath": "/wZRROvVJWfuQNYV7Zzerv1Bmh6x.jpg",
+      "rating": 7.561,
       "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
+      "genreTitle": "剧情"
     },
     {
-      "id": 1770304,
+      "id": 49964,
       "type": "tmdb",
-      "title": "一朵山花别样红",
-      "originalTitle": "一朵山花别样红",
-      "description": "一桩失踪案悄然发生在黄士高原腹地，各色人物被金钱交织在一个巨大的圈套里，陷入泥潭的白果，命运也将被重新改写。随着事件的真相大白，冲破桎梏，各色人物重新寻找回了生命的价值和生活的真谛。",
-      "releaseDate": "2026-11-06",
-      "backdropPath": "/9kFoXEEq6RFO3Icy9vAf6H73ny7.jpg",
-      "posterPath": "/4tSElesuLrV2Yr8DyMiVMljhygi.jpg",
+      "title": "何处是我朋友的家",
+      "originalTitle": "خانه‌ی دوست کجاست؟",
+      "description": "伊朗的偏僻山村小学里，一群孩子在课堂里聆听老师讲课。在检查作业的时候，老师发现穆罕德屡次没有完成家庭作业，于是严厉地批评了他，说如若再犯立马开除。老师对学生强调这是帮助他们树立良好的规矩。当天放学后，小男孩阿穆德却赫然发现自己把同桌穆罕德的作业本带回了家。听懂了老师的谆谆善诱，所以阿穆德明白这作业本就是穆罕德继续听讲的凭证。为了把作业本还给同桌，阿穆德曾希望母亲和祖父可以施以援手，但是均告失败。所以，他只能孤身前行，到对面大山里的村落去寻找同桌，归还作业本。然而，由于不认识同桌的家，所以他处处碰壁，遭遇到了无法想象的艰难险阻……",
+      "releaseDate": "1987-07-01",
+      "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
+      "posterPath": "/qULkpJ4fq9wbtautj4Jq4PFc0W5.jpg",
+      "rating": 7.9,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 冒险"
+    },
+    {
+      "id": 1732799,
+      "type": "tmdb",
+      "title": "象行记",
+      "originalTitle": "象行记",
+      "description": "影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
+      "releaseDate": "2026-10-23",
+      "backdropPath": "/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
+      "posterPath": "/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
+      "genreTitle": "纪录"
     },
     {
       "id": 427,
@@ -600,17 +548,43 @@
       "genreTitle": "喜剧"
     },
     {
-      "id": 11368,
+      "id": 1650896,
       "type": "tmdb",
-      "title": "血迷宫",
-      "originalTitle": "Blood Simple",
-      "description": "科恩兄弟贯穿创作生涯的、穿越边缘美国的暗黑喜剧之旅，正是从这部锐利冰冷的德州新黑色电影启程。片中一位卑劣的酒馆老板因一念杀机掀起了腥风血雨，演员麦·艾美特·华许以黄西装、牛仔帽和全然失序的道德准则化身游走于罪案中的滑头侦探，弗兰西斯·麦克多蒙德精妙的银幕首秀则预示了她通往巨星之路的起点。科恩兄弟数十年创作中标志性的严密剧本与独创风格，在此首部作品中已全然显现：摄影指导巴里·索南菲尔德摒弃黑白明暗对照法，转而运用霓虹灯与点唱机色彩的视觉交响，搭配卡特·伯威尔萦绕心头的配乐，营造出悚丽而震颤的视听效果。本片融汇廉价小说与低成本恐怖片的元素，为新一代观众重塑了黑色电影范式，标志着一个将改变美国独立电影格局的创作集体的登场。",
-      "releaseDate": "1985-01-18",
-      "backdropPath": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
-      "posterPath": "/AgZYRlHfZUdrcG70loMrI5kcP6N.jpg",
-      "rating": 7.248,
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇·完美假期",
+      "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
+      "posterPath": "/he7GN5W8lrhvu09qe6GauTBlFg1.jpg",
+      "rating": 10,
       "mediaType": "movie",
-      "genreTitle": "犯罪, 剧情"
+      "genreTitle": "动画, 冒险"
+    },
+    {
+      "id": 414419,
+      "type": "tmdb",
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "releaseDate": "2011-03-27",
+      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "rating": 8.117,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 1151272,
+      "type": "tmdb",
+      "title": "接近终点",
+      "originalTitle": "Sirāt",
+      "description": "在地下狂欢派对的震耳低音中，路易斯（塞尔希·洛佩斯 饰）与儿子埃斯特班穿越沙漠，寻找几个月前在派对中失踪的女儿兼姐姐玛尔。随着他们深入这片炽热、混乱的边境地带，面对陌生的自由与逐渐崩塌的秩序，他们不仅在寻找亲人，也在寻找自我。影片以纪录片质感的长镜头与沉默的凝视，构建出一场关于极限、信仰与家庭的灵性旅程。",
+      "releaseDate": "2025-06-06",
+      "backdropPath": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
+      "posterPath": "/x2fvCwk1xEasxhdGwkvIV45SxWQ.jpg",
+      "rating": 6.79,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 惊悚"
     },
     {
       "id": 11471,
@@ -626,17 +600,30 @@
       "genreTitle": "动作, 犯罪"
     },
     {
-      "id": 104171,
+      "id": 11368,
       "type": "tmdb",
-      "title": "在那河畔青草青",
-      "originalTitle": "在那河畔青草青",
-      "description": "卢大年 因替即将出国的姐姐代课来到内湾，在姐姐安排下住进小学音乐老师陈素云 家的二楼。大年担任四年级忠班的班主任。在班上，他一方面要对付调皮捣蛋出了名的“三剑客”，同时也关心着因父母离婚而性格孤僻的学生周兴旺 。陈素云是个文静的姑娘，整日与大年同来同往，互相产生爱慕之情。在内湾，存在着以投毒和电击的方法捕鱼，大年决心根除这种严重破坏大自然生态的捕鱼方法，在内湾小学发起“爱川护鱼”运动，并在内湾地区推广开来。周兴旺的父亲周文 经常去电鱼，为此，他受到同学嘲弄而离家出走。大年和素云要去找回孩子，最后他们能结合在一起吗？",
-      "releaseDate": "1982-10-24",
-      "backdropPath": "/xm7ULWOA9MECQpXhcPowip7uyT4.jpg",
-      "posterPath": "/nWgeEWh8pKatQIGYtS3GiQHrqZA.jpg",
-      "rating": 6.4,
+      "title": "血迷宫",
+      "originalTitle": "Blood Simple",
+      "description": "科恩兄弟贯穿创作生涯的、穿越边缘美国的暗黑喜剧之旅，正是从这部锐利冰冷的德州新黑色电影启程。片中一位卑劣的酒馆老板因一念杀机掀起了腥风血雨，演员麦·艾美特·华许以黄西装、牛仔帽和全然失序的道德准则化身游走于罪案中的滑头侦探，弗兰西斯·麦克多蒙德精妙的银幕首秀则预示了她通往巨星之路的起点。科恩兄弟数十年创作中标志性的严密剧本与独创风格，在此首部作品中已全然显现：摄影指导巴里·索南菲尔德摒弃黑白明暗对照法，转而运用霓虹灯与点唱机色彩的视觉交响，搭配卡特·伯威尔萦绕心头的配乐，营造出悚丽而震颤的视听效果。本片融汇廉价小说与低成本恐怖片的元素，为新一代观众重塑了黑色电影范式，标志着一个将改变美国独立电影格局的创作集体的登场。",
+      "releaseDate": "1985-01-18",
+      "backdropPath": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+      "posterPath": "/AgZYRlHfZUdrcG70loMrI5kcP6N.jpg",
+      "rating": 7.248,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 1770304,
+      "type": "tmdb",
+      "title": "一朵山花别样红",
+      "originalTitle": "一朵山花别样红",
+      "description": "一桩失踪案悄然发生在黄士高原腹地，各色人物被金钱交织在一个巨大的圈套里，陷入泥潭的白果，命运也将被重新改写。随着事件的真相大白，冲破桎梏，各色人物重新寻找回了生命的价值和生活的真谛。",
+      "releaseDate": "2026-11-06",
+      "backdropPath": "/9kFoXEEq6RFO3Icy9vAf6H73ny7.jpg",
+      "posterPath": "/4tSElesuLrV2Yr8DyMiVMljhygi.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 1303336,
@@ -650,6 +637,19 @@
       "rating": 7.313,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 104171,
+      "type": "tmdb",
+      "title": "在那河畔青草青",
+      "originalTitle": "在那河畔青草青",
+      "description": "卢大年 因替即将出国的姐姐代课来到内湾，在姐姐安排下住进小学音乐老师陈素云 家的二楼。大年担任四年级忠班的班主任。在班上，他一方面要对付调皮捣蛋出了名的“三剑客”，同时也关心着因父母离婚而性格孤僻的学生周兴旺 。陈素云是个文静的姑娘，整日与大年同来同往，互相产生爱慕之情。在内湾，存在着以投毒和电击的方法捕鱼，大年决心根除这种严重破坏大自然生态的捕鱼方法，在内湾小学发起“爱川护鱼”运动，并在内湾地区推广开来。周兴旺的父亲周文 经常去电鱼，为此，他受到同学嘲弄而离家出走。大年和素云要去找回孩子，最后他们能结合在一起吗？",
+      "releaseDate": "1982-10-24",
+      "backdropPath": "/xm7ULWOA9MECQpXhcPowip7uyT4.jpg",
+      "posterPath": "/nWgeEWh8pKatQIGYtS3GiQHrqZA.jpg",
+      "rating": 6.4,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 1678102,
@@ -686,7 +686,7 @@
       "releaseDate": "2026-07-23",
       "backdropPath": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
       "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.123,
+      "rating": 8.132,
       "mediaType": "movie",
       "genreTitle": "动画, 冒险"
     },
@@ -717,19 +717,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1770256,
-      "type": "tmdb",
-      "title": "老师您辛苦了",
-      "originalTitle": "老师您辛苦了",
-      "description": "知名网络公司总裁王小川在回国参加儿子初中开学典礼演讲时回忆起年少时期被冠以问题少年聚集地的初三（2）班与班主任田老师之间一段青葱岁月的成长过往。",
-      "releaseDate": "2026-09-07",
-      "backdropPath": "/5AdZWRhFT70EANUcgYxj8LwVjoE.jpg",
-      "posterPath": "/qlxd2aIBxgTV7PnhMbFTewLrPje.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 956215,
       "type": "tmdb",
       "title": "龙凤呈祥(京剧)",
@@ -741,6 +728,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
+    },
+    {
+      "id": 1028378,
+      "type": "tmdb",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     },
     {
       "id": 1316352,
@@ -767,19 +767,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
-    },
-    {
-      "id": 1028378,
-      "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
-      "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.7,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     },
     {
       "id": 1147747,
