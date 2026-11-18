@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-17T23:46:12.129Z",
+  "time": "2026-11-18T23:18:12.366Z",
   "data": [
     {
       "id": 1821748,
@@ -28,17 +28,17 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1810158,
+      "id": 1239037,
       "type": "tmdb",
-      "title": "心迷宫之三重罪",
-      "originalTitle": "心迷宫之三重罪",
-      "description": "一具烧焦的无名尸体被发现，引发邻里间的猜疑。大家都在怀疑小肖杀人，虎子的家人企图认尸躲避恶霸追债，琴儿则借尸体摆脱已无感情的丈夫，此时，又有一场意外发生………随着警方调查，真相逐渐浮现。",
-      "releaseDate": "2026-11-07",
-      "backdropPath": "/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
-      "posterPath": "/rJIGUOU3xBAwYN0psHfy4vjRvz1.jpg",
-      "rating": 0,
+      "title": "深度安静",
+      "originalTitle": "深度安靜",
+      "description": "影片改编自林秀赫同名短篇小说。讲述谕明与依庭相遇于大学图书馆里的深度安静区，两人相爱并走入婚姻，正期待迎接第一个孩子。然而，依庭的意外自杀让谕明陷入混乱与痛苦。他想起依庭在怀孕后变得异常，甚至提出离婚。自责的谕明照顾起依庭的家人，透过深入了解她的家庭后，开始理解她的行径，以及她无法面对自己父亲的原因，真相却让人难以接受。",
+      "releaseDate": "2026-03-20",
+      "backdropPath": "/zmvZs90ocaYhp4MPBCKHK3peALQ.jpg",
+      "posterPath": "/rSi6JslKprYh6i0HSfwBMtXnyDd.jpg",
+      "rating": 6,
       "mediaType": "movie",
-      "genreTitle": "犯罪"
+      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 1303034,
@@ -54,17 +54,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1423191,
+      "id": 1810158,
       "type": "tmdb",
-      "title": "生化危机：爆发夜",
-      "originalTitle": "Resident Evil",
-      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？.",
-      "releaseDate": "2026-09-16",
-      "backdropPath": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
-      "posterPath": "/oLLEEUq7In4Ob731KpjrValqM4A.jpg",
-      "rating": 7.513,
+      "title": "心迷宫之三重罪",
+      "originalTitle": "心迷宫之三重罪",
+      "description": "一具烧焦的无名尸体被发现，引发邻里间的猜疑。大家都在怀疑小肖杀人，虎子的家人企图认尸躲避恶霸追债，琴儿则借尸体摆脱已无感情的丈夫，此时，又有一场意外发生………随着警方调查，真相逐渐浮现。",
+      "releaseDate": "2026-11-07",
+      "backdropPath": "/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
+      "posterPath": "/rJIGUOU3xBAwYN0psHfy4vjRvz1.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
+      "genreTitle": "犯罪"
     },
     {
       "id": 245891,
@@ -80,17 +80,17 @@
       "genreTitle": "动作, 惊悚"
     },
     {
-      "id": 1529692,
+      "id": 1423191,
       "type": "tmdb",
-      "title": "夫妻一场",
-      "originalTitle": "夫妻一场",
-      "description": "相识于原博的还俗派对时，李欣冉还是位身患抑郁症的女演员。处于人生低谷的俩人一见钟情，他们迅速走到一起，迎来第一个孩子。带着几百万积蓄，他们憧憬着理想生活，却因挥霍和缺乏理财经验，陷入了经济危机。为扭转困境，原博计划在安吉山中创办手碟乐器工厂。青山绿水似乎是他们梦想中的乌托邦。然而，随着第二个孩子的降生，事业夭折，合伙人离开，债务缠身。日常琐碎与经济压力逐渐蚕食了曾经炙热的感情。在深山中，他们爱到一无所有，只剩彼此。",
-      "releaseDate": "2026-11-13",
-      "backdropPath": "/xDNGfVnpeigQM91xERsclvGXoQ2.jpg",
-      "posterPath": "/qi9Wa8TQfhNZmC0PHxOYi68lMfr.jpg",
-      "rating": 0,
+      "title": "生化危机：爆发夜",
+      "originalTitle": "Resident Evil",
+      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？.",
+      "releaseDate": "2026-09-16",
+      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "posterPath": "/oLLEEUq7In4Ob731KpjrValqM4A.jpg",
+      "rating": 7.528,
       "mediaType": "movie",
-      "genreTitle": "纪录"
+      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 1409470,
@@ -106,6 +106,19 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
+      "id": 1529692,
+      "type": "tmdb",
+      "title": "夫妻一场",
+      "originalTitle": "夫妻一场",
+      "description": "相识于原博的还俗派对时，李欣冉还是位身患抑郁症的女演员。处于人生低谷的俩人一见钟情，他们迅速走到一起，迎来第一个孩子。带着几百万积蓄，他们憧憬着理想生活，却因挥霍和缺乏理财经验，陷入了经济危机。为扭转困境，原博计划在安吉山中创办手碟乐器工厂。青山绿水似乎是他们梦想中的乌托邦。然而，随着第二个孩子的降生，事业夭折，合伙人离开，债务缠身。日常琐碎与经济压力逐渐蚕食了曾经炙热的感情。在深山中，他们爱到一无所有，只剩彼此。",
+      "releaseDate": "2026-11-13",
+      "backdropPath": "/xDNGfVnpeigQM91xERsclvGXoQ2.jpg",
+      "posterPath": "/qi9Wa8TQfhNZmC0PHxOYi68lMfr.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 1263337,
       "type": "tmdb",
       "title": "野兽之心",
@@ -114,7 +127,7 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.67,
+      "rating": 7.724,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
@@ -145,6 +158,19 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
+      "id": 1368337,
+      "type": "tmdb",
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "克里斯托弗·诺兰将荷马笔下的怪物搬上银幕，打造了一部在全球多地取景拍摄的神话动作史诗。这是一场无与伦比的电影盛事。[环球影业]",
+      "releaseDate": "2026-07-15",
+      "backdropPath": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "rating": 8.014,
+      "mediaType": "movie",
+      "genreTitle": "冒险, 动作"
+    },
+    {
       "id": 1117898,
       "type": "tmdb",
       "title": "戴帽子的猫",
@@ -156,32 +182,6 @@
       "rating": 7,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 1824679,
-      "type": "tmdb",
-      "title": "琴弓师",
-      "originalTitle": "琴弓师",
-      "description": "八十年代，苏州水乡木匠朱渭华被小提琴琴弓的精巧所吸引，苦心研究琴弓制作，多次失败后立下制作世界名弓的志向。他顶着“泥腿子不懂音乐”的偏见考入上海音乐学院，却因家庭变故辍学返乡。朱渭华坚守精工细作，将明式家具榫卯的工艺融入制弓技艺，潜心数载后斩获国际琴弓大赛金奖。朱渭华怀揣匠心跨越认知壁垒、填补技术空白，历经寒来暑往，终成一代制弓大师，以工匠精神奏响了一曲将“琴弓制作技艺”推向世界的壮丽凯歌。",
-      "releaseDate": "2026-11-17",
-      "backdropPath": "/9MkJCcnmUz1thX27PRrGftiuOKp.jpg",
-      "posterPath": "/NsHFmkpPPyvOHm0w1q7qQiMf8.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 1368337,
-      "type": "tmdb",
-      "title": "奥德赛",
-      "originalTitle": "The Odyssey",
-      "description": "克里斯托弗·诺兰将荷马笔下的怪物搬上银幕，打造了一部在全球多地取景拍摄的神话动作史诗。这是一场无与伦比的电影盛事。[环球影业]",
-      "releaseDate": "2026-07-15",
-      "backdropPath": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
-      "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8,
-      "mediaType": "movie",
-      "genreTitle": "冒险, 动作"
     },
     {
       "id": 1325871,
@@ -249,6 +249,32 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1824679,
+      "type": "tmdb",
+      "title": "琴弓师",
+      "originalTitle": "琴弓师",
+      "description": "八十年代，苏州水乡木匠朱渭华被小提琴琴弓的精巧所吸引，苦心研究琴弓制作，多次失败后立下制作世界名弓的志向。他顶着“泥腿子不懂音乐”的偏见考入上海音乐学院，却因家庭变故辍学返乡。朱渭华坚守精工细作，将明式家具榫卯的工艺融入制弓技艺，潜心数载后斩获国际琴弓大赛金奖。朱渭华怀揣匠心跨越认知壁垒、填补技术空白，历经寒来暑往，终成一代制弓大师，以工匠精神奏响了一曲将“琴弓制作技艺”推向世界的壮丽凯歌。",
+      "releaseDate": "2026-11-17",
+      "backdropPath": "/9MkJCcnmUz1thX27PRrGftiuOKp.jpg",
+      "posterPath": "/NsHFmkpPPyvOHm0w1q7qQiMf8.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "一个渴望爱情的浪漫主义者打破神秘的“许愿柳”，希望赢得心仪之人的芳心。当愿望如愿实现，他却发现，有些欲望背后隐藏着黑暗而可怕的代价。",
+      "releaseDate": "2026-05-13",
+      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
+      "rating": 8.16,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 惊悚"
+    },
+    {
       "id": 10376,
       "type": "tmdb",
       "title": "海上钢琴师",
@@ -275,19 +301,6 @@
       "genreTitle": "动作, 历史"
     },
     {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "一个渴望爱情的浪漫主义者打破神秘的“许愿柳”，希望赢得心仪之人的芳心。当愿望如愿实现，他却发现，有些欲望背后隐藏着黑暗而可怕的代价。",
-      "releaseDate": "2026-05-13",
-      "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.16,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 惊悚"
-    },
-    {
       "id": 1811193,
       "type": "tmdb",
       "title": "清气满乾坤",
@@ -299,19 +312,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 1503023,
-      "type": "tmdb",
-      "title": "重生2",
-      "originalTitle": "重生2",
-      "description": "孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
-      "releaseDate": "2026-10-03",
-      "backdropPath": null,
-      "posterPath": "/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
-      "rating": 5.3,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 动作"
     },
     {
       "id": 278,
@@ -327,43 +327,17 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1502135,
+      "id": 1503023,
       "type": "tmdb",
-      "title": "密档",
-      "originalTitle": "密档",
-      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
-      "releaseDate": "2026-08-28",
-      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
-      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
-      "rating": 0,
+      "title": "重生2",
+      "originalTitle": "重生2",
+      "description": "孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
+      "releaseDate": "2026-10-03",
+      "backdropPath": null,
+      "posterPath": "/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
+      "rating": 5.3,
       "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1086176,
-      "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
-      "posterPath": "/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "rating": 3,
-      "mediaType": "movie",
-      "genreTitle": "动作, 喜剧"
-    },
-    {
-      "id": 1707626,
-      "type": "tmdb",
-      "title": "梦寻苏毗女儿国",
-      "originalTitle": "梦寻苏毗女儿国",
-      "description": "女主角央庆拉姆自小在内地长大，因一次偶然的高原旅程，与年轻向导白玛相遇。两人一路深入牧区与草原，在梦想与现实、传统与自我之间，展开了一场关于婚姻、生死与道德的内心探寻。最终，在旷野间完成了与故土、与自我的双向和解。",
-      "releaseDate": "2026-11-03",
-      "backdropPath": "/mpLahvoqhp2AItskVQlgk7bt8Hy.jpg",
-      "posterPath": "/vSnLnMbXnSJWOLAGAEGqffZslO0.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
+      "genreTitle": "剧情, 动作"
     },
     {
       "id": 1726805,
@@ -379,17 +353,43 @@
       "genreTitle": "剧情, 犯罪"
     },
     {
-      "id": 1812386,
+      "id": 1707626,
       "type": "tmdb",
-      "title": "向阳青春",
-      "originalTitle": "向阳青春",
-      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
-      "releaseDate": "2026-11-14",
-      "backdropPath": "/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
-      "posterPath": "/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
+      "title": "梦寻苏毗女儿国",
+      "originalTitle": "梦寻苏毗女儿国",
+      "description": "女主角央庆拉姆自小在内地长大，因一次偶然的高原旅程，与年轻向导白玛相遇。两人一路深入牧区与草原，在梦想与现实、传统与自我之间，展开了一场关于婚姻、生死与道德的内心探寻。最终，在旷野间完成了与故土、与自我的双向和解。",
+      "releaseDate": "2026-11-03",
+      "backdropPath": "/mpLahvoqhp2AItskVQlgk7bt8Hy.jpg",
+      "posterPath": "/vSnLnMbXnSJWOLAGAEGqffZslO0.jpg",
       "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "剧情"
+      "genreTitle": "剧情, 爱情"
+    },
+    {
+      "id": 1086176,
+      "type": "tmdb",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+      "posterPath": "/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "rating": 3,
+      "mediaType": "movie",
+      "genreTitle": "动作, 喜剧"
+    },
+    {
+      "id": 1502135,
+      "type": "tmdb",
+      "title": "密档",
+      "originalTitle": "密档",
+      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
+      "releaseDate": "2026-08-28",
+      "backdropPath": "/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
+      "posterPath": "/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 1766670,
@@ -444,17 +444,30 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 176631,
+      "id": 1812386,
       "type": "tmdb",
-      "title": "太太万岁",
-      "originalTitle": "太太萬歲",
-      "description": "秀外慧中的好媳妇陈思珍（蒋天流饰）自与丈夫唐志远（张伐饰）结婚后，便把家里的人际关系处理得很好，持家有道。一日，思珍的弟弟陈思瑞（韩非饰）从台湾到上海省亲，邂逅志远的妹妹唐志琴（汪漪饰），两人一见钟情。然而因为陈父（石挥饰）不肯资助自己筹办公司的志远，却极力反对这桩亲事。思珍只得谎称唐家存有金条美钞，陈父才同意资助志远办起公司。不料发迹致富的志远却有了外遇，与姨太太（上官云珠饰）有染。思珍为了顾全丈夫名誉，只得委曲求全。未几，志远破产，谎言败露，两家人也因此闹翻。终于，思珍决定与志远离婚，却在律师事务遇见了秘密登记结婚的思瑞、志琴两人。面对真心相爱的一对有情人，思珍该何去何从。  　　由中国著名导演桑弧执导于1947年摄制的黑白影片《太太万岁》是小说家张爱玲的电影经典剧作。桑弧含蓄细腻的电影风格与张爱玲的剧作交相辉映。",
-      "releaseDate": "1947-11-30",
-      "backdropPath": "/ktrwxx5Ro1KHPE9mUrxekl6pjh6.jpg",
-      "posterPath": "/pX1b3PxZT83mzcKkOmTm3MoW63X.jpg",
-      "rating": 7.5,
+      "title": "向阳青春",
+      "originalTitle": "向阳青春",
+      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
+      "releaseDate": "2026-11-14",
+      "backdropPath": "/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
+      "posterPath": "/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 49964,
+      "type": "tmdb",
+      "title": "何处是我朋友的家",
+      "originalTitle": "خانه‌ی دوست کجاست؟",
+      "description": "伊朗的偏僻山村小学里，一群孩子在课堂里聆听老师讲课。在检查作业的时候，老师发现穆罕德屡次没有完成家庭作业，于是严厉地批评了他，说如若再犯立马开除。老师对学生强调这是帮助他们树立良好的规矩。当天放学后，小男孩阿穆德却赫然发现自己把同桌穆罕德的作业本带回了家。听懂了老师的谆谆善诱，所以阿穆德明白这作业本就是穆罕德继续听讲的凭证。为了把作业本还给同桌，阿穆德曾希望母亲和祖父可以施以援手，但是均告失败。所以，他只能孤身前行，到对面大山里的村落去寻找同桌，归还作业本。然而，由于不认识同桌的家，所以他处处碰壁，遭遇到了无法想象的艰难险阻……",
+      "releaseDate": "1987-07-01",
+      "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
+      "posterPath": "/qULkpJ4fq9wbtautj4Jq4PFc0W5.jpg",
+      "rating": 7.9,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 冒险"
     },
     {
       "id": 1796001,
@@ -478,22 +491,9 @@
       "releaseDate": "1986-05-09",
       "backdropPath": "/48y1eAboPFgt7rKcynRAPPvtJ1E.jpg",
       "posterPath": "/gNscrLaRH0xqIMQX4ur2dIlq3Zq.jpg",
-      "rating": 7.704,
+      "rating": 7.707,
       "mediaType": "movie",
       "genreTitle": "剧情"
-    },
-    {
-      "id": 49964,
-      "type": "tmdb",
-      "title": "何处是我朋友的家",
-      "originalTitle": "خانه‌ی دوست کجاست؟",
-      "description": "伊朗的偏僻山村小学里，一群孩子在课堂里聆听老师讲课。在检查作业的时候，老师发现穆罕德屡次没有完成家庭作业，于是严厉地批评了他，说如若再犯立马开除。老师对学生强调这是帮助他们树立良好的规矩。当天放学后，小男孩阿穆德却赫然发现自己把同桌穆罕德的作业本带回了家。听懂了老师的谆谆善诱，所以阿穆德明白这作业本就是穆罕德继续听讲的凭证。为了把作业本还给同桌，阿穆德曾希望母亲和祖父可以施以援手，但是均告失败。所以，他只能孤身前行，到对面大山里的村落去寻找同桌，归还作业本。然而，由于不认识同桌的家，所以他处处碰壁，遭遇到了无法想象的艰难险阻……",
-      "releaseDate": "1987-07-01",
-      "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
-      "posterPath": "/qULkpJ4fq9wbtautj4Jq4PFc0W5.jpg",
-      "rating": 7.9,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 冒险"
     },
     {
       "id": 81401,
@@ -504,9 +504,22 @@
       "releaseDate": "2011-03-31",
       "backdropPath": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
       "posterPath": "/wZRROvVJWfuQNYV7Zzerv1Bmh6x.jpg",
-      "rating": 7.555,
+      "rating": 7.6,
       "mediaType": "movie",
       "genreTitle": "剧情"
+    },
+    {
+      "id": 176631,
+      "type": "tmdb",
+      "title": "太太万岁",
+      "originalTitle": "太太萬歲",
+      "description": "秀外慧中的好媳妇陈思珍（蒋天流饰）自与丈夫唐志远（张伐饰）结婚后，便把家里的人际关系处理得很好，持家有道。一日，思珍的弟弟陈思瑞（韩非饰）从台湾到上海省亲，邂逅志远的妹妹唐志琴（汪漪饰），两人一见钟情。然而因为陈父（石挥饰）不肯资助自己筹办公司的志远，却极力反对这桩亲事。思珍只得谎称唐家存有金条美钞，陈父才同意资助志远办起公司。不料发迹致富的志远却有了外遇，与姨太太（上官云珠饰）有染。思珍为了顾全丈夫名誉，只得委曲求全。未几，志远破产，谎言败露，两家人也因此闹翻。终于，思珍决定与志远离婚，却在律师事务遇见了秘密登记结婚的思瑞、志琴两人。面对真心相爱的一对有情人，思珍该何去何从。  　　由中国著名导演桑弧执导于1947年摄制的黑白影片《太太万岁》是小说家张爱玲的电影经典剧作。桑弧含蓄细腻的电影风格与张爱玲的剧作交相辉映。",
+      "releaseDate": "1947-11-30",
+      "backdropPath": "/ktrwxx5Ro1KHPE9mUrxekl6pjh6.jpg",
+      "posterPath": "/pX1b3PxZT83mzcKkOmTm3MoW63X.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
     },
     {
       "id": 451995,
@@ -522,6 +535,45 @@
       "genreTitle": "纪录"
     },
     {
+      "id": 414419,
+      "type": "tmdb",
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "releaseDate": "2011-03-27",
+      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "rating": 8.118,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 1151272,
+      "type": "tmdb",
+      "title": "接近终点",
+      "originalTitle": "Sirāt",
+      "description": "在地下狂欢派对的震耳低音中，路易斯（塞尔希·洛佩斯 饰）与儿子埃斯特班穿越沙漠，寻找几个月前在派对中失踪的女儿兼姐姐玛尔。随着他们深入这片炽热、混乱的边境地带，面对陌生的自由与逐渐崩塌的秩序，他们不仅在寻找亲人，也在寻找自我。影片以纪录片质感的长镜头与沉默的凝视，构建出一场关于极限、信仰与家庭的灵性旅程。",
+      "releaseDate": "2025-06-06",
+      "backdropPath": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
+      "posterPath": "/x2fvCwk1xEasxhdGwkvIV45SxWQ.jpg",
+      "rating": 6.8,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 惊悚"
+    },
+    {
+      "id": 11471,
+      "type": "tmdb",
+      "title": "英雄本色",
+      "originalTitle": "英雄本色",
+      "description": "香港某个国际伪钞集团重要分子宋子豪（狄龙）和Mark（周润发）情同手足，某次宋子豪带手下谭成（李子雄）去台北交易时被其出卖受枪伤被捕入狱，为替好兄弟报仇，Mark孤身赴台，结果被人打成瘸子，江湖地位自此一落千丈，而宋子豪的父亲也在不久丧命。一向视宋子豪为偶像的宋子杰得知哥哥的真实身份后，对黑社会及他恨之人骨，立誓利用警察身份将黑帮势力斩草除根，宋子豪出狱后不顾苦等他想重创辉煌的Mark的劝阻，决心弃暗投明，无奈得不到宋子杰的谅解。而此时已成帮会老大的谭成欲找宋子豪再合作，遭拒绝后放言会害宋子杰，被逼走投无路，宋子豪决定再与Mark连手共抗强敌。",
+      "releaseDate": "1986-08-02",
+      "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
+      "posterPath": "/qvdvGB9d58zjberXoCX5RihD5PY.jpg",
+      "rating": 7.358,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
       "id": 21058,
       "type": "tmdb",
       "title": "小城之春",
@@ -533,19 +585,6 @@
       "rating": 7.218,
       "mediaType": "movie",
       "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "releaseDate": "2011-03-27",
-      "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.117,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 1770304,
@@ -569,48 +608,9 @@
       "releaseDate": "1958-05-10",
       "backdropPath": "/3yYNJeR6JynSE3Y1AfVIJQ6g3UX.jpg",
       "posterPath": "/lCz7epnsQalrzmKqu6MPUDO9eUo.jpg",
-      "rating": 7.4,
+      "rating": 7.429,
       "mediaType": "movie",
       "genreTitle": "喜剧"
-    },
-    {
-      "id": 1650896,
-      "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇·完美假期",
-      "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
-      "posterPath": "/he7GN5W8lrhvu09qe6GauTBlFg1.jpg",
-      "rating": 10,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
-      "id": 1151272,
-      "type": "tmdb",
-      "title": "接近终点",
-      "originalTitle": "Sirāt",
-      "description": "在地下狂欢派对的震耳低音中，路易斯（塞尔希·洛佩斯 饰）与儿子埃斯特班穿越沙漠，寻找几个月前在派对中失踪的女儿兼姐姐玛尔。随着他们深入这片炽热、混乱的边境地带，面对陌生的自由与逐渐崩塌的秩序，他们不仅在寻找亲人，也在寻找自我。影片以纪录片质感的长镜头与沉默的凝视，构建出一场关于极限、信仰与家庭的灵性旅程。",
-      "releaseDate": "2025-06-06",
-      "backdropPath": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
-      "posterPath": "/x2fvCwk1xEasxhdGwkvIV45SxWQ.jpg",
-      "rating": 6.79,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 惊悚"
-    },
-    {
-      "id": 11471,
-      "type": "tmdb",
-      "title": "英雄本色",
-      "originalTitle": "英雄本色",
-      "description": "香港某个国际伪钞集团重要分子宋子豪（狄龙）和Mark（周润发）情同手足，某次宋子豪带手下谭成（李子雄）去台北交易时被其出卖受枪伤被捕入狱，为替好兄弟报仇，Mark孤身赴台，结果被人打成瘸子，江湖地位自此一落千丈，而宋子豪的父亲也在不久丧命。一向视宋子豪为偶像的宋子杰得知哥哥的真实身份后，对黑社会及他恨之人骨，立誓利用警察身份将黑帮势力斩草除根，宋子豪出狱后不顾苦等他想重创辉煌的Mark的劝阻，决心弃暗投明，无奈得不到宋子杰的谅解。而此时已成帮会老大的谭成欲找宋子豪再合作，遭拒绝后放言会害宋子杰，被逼走投无路，宋子豪决定再与Mark连手共抗强敌。",
-      "releaseDate": "1986-08-02",
-      "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
-      "posterPath": "/qvdvGB9d58zjberXoCX5RihD5PY.jpg",
-      "rating": 7.358,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
     },
     {
       "id": 11368,
@@ -624,6 +624,19 @@
       "rating": 7.248,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 1650896,
+      "type": "tmdb",
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇·完美假期",
+      "description": "当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
+      "posterPath": "/he7GN5W8lrhvu09qe6GauTBlFg1.jpg",
+      "rating": 10,
+      "mediaType": "movie",
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1303336,
@@ -691,19 +704,6 @@
       "genreTitle": "动画, 冒险"
     },
     {
-      "id": 1774595,
-      "type": "tmdb",
-      "title": "凝脂手",
-      "originalTitle": "凝脂手",
-      "description": "七十年代末，素有“豆腐之乡”之称的石牌古镇伴随改革开放的春风，石牌豆腐人怀揣着希望与梦想从这里走向全国，走向世界，让古老的豆腐焕发青春，成为舌尖上的美味佳肴，也为石牌创造了巨大财富。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/toD1kGXeH7CMYYhHnOzbusl8LKW.jpg",
-      "posterPath": "/1pOYZpaFYjfbHp1VN9NF5RstTXU.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 592402,
       "type": "tmdb",
       "title": "大熊雨林",
@@ -717,15 +717,15 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1028378,
+      "id": 1147747,
       "type": "tmdb",
-      "title": "Serengeti",
-      "originalTitle": "Serengeti",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
       "description": "",
-      "releaseDate": "2022-04-21",
-      "backdropPath": null,
-      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
-      "rating": 7.7,
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
       "mediaType": "movie",
       "genreTitle": "纪录"
     },
@@ -767,6 +767,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "电视电影"
+    },
+    {
+      "id": 1028378,
+      "type": "tmdb",
+      "title": "Serengeti",
+      "originalTitle": "Serengeti",
+      "description": "",
+      "releaseDate": "2022-04-21",
+      "backdropPath": null,
+      "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
+      "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
     }
   ]
 }
