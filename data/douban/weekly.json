@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-18T01:54:15.139Z",
+  "time": "2026-11-19T01:32:33.636Z",
   "data": {
     "电影": [
       {
@@ -37,7 +37,7 @@
         "releaseDate": "2026-10-21",
         "backdropPath": "/AmnN2nLZaY9GPHNko5H7M5mqsMG.jpg",
         "posterPath": "/hzNLSUQmk1zPtdK3ooQ9WD4iHu7.jpg",
-        "rating": 7.5,
+        "rating": 7.417,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/rQEfTB65F71Y2yIlAzv3GJ3m7Rz.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
-        "rating": 7.841,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-09-18",
         "backdropPath": "/308iVAhH5ByQb0wvaJmY3o79apn.jpg",
         "posterPath": "/1UDaXxcYAtsb3rHHTbeLQBUx7Ml.jpg",
-        "rating": 7.2,
+        "rating": 7.286,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
         "posterPath": "/1UT3Z5tMXBm9REDVooxrVnTssMf.jpg",
-        "rating": 7.845,
+        "rating": 7.822,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.67,
+        "rating": 7.724,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.929,
+        "rating": 6.931,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
@@ -143,9 +143,22 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/oMqnBjgT0VlDpP3pHJdtnOvwwKA.jpg",
         "posterPath": "/a9omtYBq4ViiIClL9PjGUk6JB4b.jpg",
-        "rating": 6.75,
+        "rating": 6.8,
         "mediaType": "tv",
         "genreTitle": "War & Politics"
+      },
+      {
+        "id": 307853,
+        "type": "tmdb",
+        "title": "今天是太阳雨",
+        "originalTitle": "今天是太阳雨",
+        "description": "倔强少女郑雨与孤独少年陈砚周的故事。郑雨因家庭贫困被迫扛起重担，陈砚周因兄长离世陷入自我封闭，两人从校园竞争对手逐渐成为彼此生命中的光，共同面对人生暴雨。",
+        "releaseDate": "2026-11-06",
+        "backdropPath": "/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
+        "posterPath": "/znoLZauHNWfXHq1PcH8wRf42m2e.jpg",
+        "rating": 8.5,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": 285625,
@@ -200,6 +213,19 @@
         "genreTitle": "剧情, 家庭"
       },
       {
+        "id": 299276,
+        "type": "tmdb",
+        "title": "玫瑰战争",
+        "originalTitle": "玫瑰戰爭",
+        "description": "影后关子盈（陈自瑶 饰）「自杀」七年后，其挚友夏无双（杨茜尧 饰）意外获得子盈的日记，惊悉她当年疑遭「好姊妹」黎绮云（林夏薇 饰）、蓝凤仪（姚子羚 饰）、梁菲雅（傅嘉莉 饰）、林安安（邝洁楹 饰）背叛与加害。为追查背后真相及复仇，无双以合拍电影《玫瑰》作诱饵，博取娱乐公司老板陈云生（陈豪 饰）的信任，拉拢四女参演。无双连手子盈的秘密情人李德龙（马国明 饰），并藉复制子盈曾遭遇的连串「意外」，挑起四女互撕……随着子盈被资本势力胁迫致死的真相逐渐浮现，众人光鲜亮丽的伪装瞬间粉碎，暴露出最不堪的人性阴暗面。",
+        "releaseDate": "2026-11-06",
+        "backdropPath": "/idx5Alvalsje6j85BueoQc3OwHj.jpg",
+        "posterPath": "/jXn1BymqkQhc4cAQ79diSJmo0KD.jpg",
+        "rating": 8,
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 279923,
         "type": "tmdb",
         "title": "醉梦",
@@ -213,6 +239,19 @@
         "genreTitle": "悬疑, 犯罪"
       },
       {
+        "id": 289078,
+        "type": "tmdb",
+        "title": "我不是大师",
+        "originalTitle": "我不是大师",
+        "description": "上官诚明全家惨遭天相派设局灭门，他化名潜伏，以牙还牙，以眼还眼，联手身陷泥淖却势要逆天改命的江飞燕，用连环骗局反噬仇敌，一路揭露骗术黑幕，最终瓦解天相派，解救受控者，惩恶扬善终彰善念。\n\n改编自易之小说《我是个算命先生》。",
+        "releaseDate": "2026-09-24",
+        "backdropPath": "/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
+        "posterPath": "/sGxyz6BCOpbn9rKxqCfrW2yBOkX.jpg",
+        "rating": 6.3,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 悬疑"
+      },
+      {
         "id": 300146,
         "type": "tmdb",
         "title": "嫁金钗",
@@ -221,48 +260,9 @@
         "releaseDate": "2026-10-16",
         "backdropPath": "/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
         "posterPath": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
-        "rating": 7.4,
+        "rating": 7.625,
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 304452,
-        "type": "tmdb",
-        "title": "玉簟秋",
-        "originalTitle": "玉簟秋",
-        "description": "20世纪20年代的乱世中，少帅虞昶轩与女学生叶平君因一场邂逅深陷爱恨漩涡，彻底改写二人的人生轨迹。纵然身份悬殊、前路艰险，二人仍毅然冲破一切阻隔，在战火与命运的洪流中坚定携手，沙场硝烟与儿女情长交织，将热血、信仰与挚爱，共同谱写成一段荡气回肠的传奇。",
-        "releaseDate": "2026-10-12",
-        "backdropPath": "/vD84yLJVVd7cC2lKF8sEukQG2A3.jpg",
-        "posterPath": "/r5N8g3WEes9x1z76Sil614Do9Bv.jpg",
-        "rating": 6.8,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 304862,
-        "type": "tmdb",
-        "title": "地狱大状",
-        "originalTitle": "地獄大狀",
-        "description": "仇人多过亲人的大律师邱荫荫突然遇袭，醒来后发现自己身处阴间。阎罗王判她折寿四十年，已故富翁石松却出手助她还阳，委托她处理遗产。成为“地狱大状”的她穿梭阴阳两界，为鬼魂打官司、追查自己的遇袭真相，并重新审视生死、亲情与爱情。",
-        "releaseDate": "2026-10-05",
-        "backdropPath": "/zK09u5Fp5vg0FWxRz2JGdkfUFZ6.jpg",
-        "posterPath": "/4DRZKOwpwqqdyyttHj6PSsSnBHZ.jpg",
-        "rating": 6,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 294486,
-        "type": "tmdb",
-        "title": "交锋",
-        "originalTitle": "交锋",
-        "description": "故事由一宗世纪之交的泄密大案而起，扣动两岸局势脉搏的同时，还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。上世纪九十年代末，闵中市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里 不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着……",
-        "releaseDate": "2026-09-06",
-        "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
-        "posterPath": "/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
-        "rating": 7.4,
-        "mediaType": "tv",
-        "genreTitle": "悬疑"
       }
     ],
     "剧集·国外": [
@@ -275,9 +275,22 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 9.1,
+        "rating": 8.959,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
+      },
+      {
+        "id": 213375,
+        "type": "tmdb",
+        "title": "幻视任务",
+        "originalTitle": "VisionQuest",
+        "description": "重启后的幻视隐居避世，试图摆脱将他武器化的人，并通过与体内的AI人格交流寻找存在意义，其中包括恶名昭彰的奥创。然而高额悬赏打破了平静，他被迫与神秘少年托马斯·谢泼德一同逃亡，后者或许是他重生后的儿子。",
+        "releaseDate": "2026-10-13",
+        "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+        "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
+        "rating": 8.262,
+        "mediaType": "tv",
+        "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
       {
         "id": 208929,
@@ -288,7 +301,7 @@
         "releaseDate": "2026-11-01",
         "backdropPath": "/bx0rz8YsuZtNXiv6DDzkA9cPaeY.jpg",
         "posterPath": "/cKZm1Hz8mpFvHZPjc8M8aG4F2U9.jpg",
-        "rating": 9.5,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "纪录"
       },
@@ -306,17 +319,17 @@
         "genreTitle": "剧情, 喜剧"
       },
       {
-        "id": 213375,
+        "id": 293610,
         "type": "tmdb",
-        "title": "幻视任务",
-        "originalTitle": "VisionQuest",
-        "description": "重启后的幻视隐居避世，试图摆脱将他武器化的人，并通过与体内的AI人格交流寻找存在意义，其中包括恶名昭彰的奥创。然而高额悬赏打破了平静，他被迫与神秘少年托马斯·谢泼德一同逃亡，后者或许是他重生后的儿子。",
-        "releaseDate": "2026-10-13",
-        "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-        "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.3,
+        "title": "Doctor X：白色黑手党时代",
+        "originalTitle": "닥터X: 하얀 마피아의 시대",
+        "description": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。",
+        "releaseDate": "2026-10-09",
+        "backdropPath": "/xnDB7h89ECKgaTrWlfST8TNwvBJ.jpg",
+        "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
+        "rating": 8.7,
         "mediaType": "tv",
-        "genreTitle": "Sci-Fi & Fantasy, 剧情"
+        "genreTitle": "悬疑, 剧情"
       },
       {
         "id": 300527,
@@ -332,19 +345,6 @@
         "genreTitle": "喜剧, 剧情"
       },
       {
-        "id": 81723,
-        "type": "tmdb",
-        "title": "镀金时代",
-        "originalTitle": "The Gilded Age",
-        "description": "伯莎·罗素改变了纽约上流社会，却也让家人付出代价。艾格尼丝·范莱茵伺机重获地位，玛丽安开辟人生新道路，佩吉则努力获得未来姻亲的认可。在这个新时代，人们必须谨慎对待自己的愿望。",
-        "releaseDate": "2026-11-01",
-        "backdropPath": "/afUVsProh46h31w2EvL7qyHXrqj.jpg",
-        "posterPath": "/jvJ4d2KYNk7RH8zVcj4oiBTBtif.jpg",
-        "rating": 4.4,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 283319,
         "type": "tmdb",
         "title": "翠鸟谋杀案",
@@ -358,17 +358,30 @@
         "genreTitle": "悬疑, 犯罪"
       },
       {
-        "id": 293610,
+        "id": 84773,
         "type": "tmdb",
-        "title": "Doctor X：白色黑手党时代",
-        "originalTitle": "닥터X: 하얀 마피아의 시대",
-        "description": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。",
-        "releaseDate": "2026-10-09",
-        "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-        "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
-        "rating": 8.592,
+        "title": "指环王：力量之戒",
+        "originalTitle": "The Lord of the Rings: The Rings of Power",
+        "description": "精灵与索伦之间的战争进入白热化阶段，黑暗魔君则暗中打造一种终极力量，以实现自己的胜利：至尊魔戒。",
+        "releaseDate": "2026-11-11",
+        "backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+        "posterPath": "/x4puqjv2DJL5JnicLzEl8YmEkNc.jpg",
+        "rating": 5.5,
         "mediaType": "tv",
-        "genreTitle": "悬疑, 剧情"
+        "genreTitle": "动作冒险, Sci-Fi & Fantasy"
+      },
+      {
+        "id": 307106,
+        "type": "tmdb",
+        "title": "恋爱博士",
+        "originalTitle": "연애박사",
+        "description": "高中时期曾是游泳运动员、因疾病失去一条腿的博士研究生朴敏宰和失去职业道路方向、在彷徨中踏上新道路的硕士研究生林宥真，在冰冷的机器人实验室里，两名年轻人开启了一段酸甜苦辣交织的浪漫恋曲。",
+        "releaseDate": "2026-10-05",
+        "backdropPath": "/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
+        "posterPath": "/mi6MY0MHWSGulv9mjn5kTn0Kocf.jpg",
+        "rating": 8.65,
+        "mediaType": "tv",
+        "genreTitle": "剧情, 喜剧"
       }
     ]
   }
