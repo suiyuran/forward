@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-18T23:18:12.366Z",
+  "time": "2026-11-19T23:26:13.604Z",
   "data": [
     {
       "id": 1821748,
@@ -15,6 +15,19 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
+      "id": 1300968,
+      "type": "tmdb",
+      "title": "饥饿游戏：收获日出",
+      "originalTitle": "The Hunger Games: Sunrise on the Reaping",
+      "description": "改编自苏珊·柯林斯的同名小说。故事发生在《饥饿游戏》事件发生前24年，讲述第50届饥饿游戏（第二次四分区叛乱纪念赛）抽签日当天，年轻的黑密斯·阿伯纳西被选中参赛的故事。",
+      "releaseDate": "2026-11-18",
+      "backdropPath": "/vezToHmUsQApQKHChwz8E9LBfEA.jpg",
+      "posterPath": "/r47dh8cGfgJ7yCq07oBY7bS1sKs.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "科幻, 动作"
+    },
+    {
       "id": 1603262,
       "type": "tmdb",
       "title": "珠穆朗玛：云中彼岸",
@@ -26,19 +39,6 @@
       "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "纪录"
-    },
-    {
-      "id": 1239037,
-      "type": "tmdb",
-      "title": "深度安静",
-      "originalTitle": "深度安靜",
-      "description": "影片改编自林秀赫同名短篇小说。讲述谕明与依庭相遇于大学图书馆里的深度安静区，两人相爱并走入婚姻，正期待迎接第一个孩子。然而，依庭的意外自杀让谕明陷入混乱与痛苦。他想起依庭在怀孕后变得异常，甚至提出离婚。自责的谕明照顾起依庭的家人，透过深入了解她的家庭后，开始理解她的行径，以及她无法面对自己父亲的原因，真相却让人难以接受。",
-      "releaseDate": "2026-03-20",
-      "backdropPath": "/zmvZs90ocaYhp4MPBCKHK3peALQ.jpg",
-      "posterPath": "/rSi6JslKprYh6i0HSfwBMtXnyDd.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 1303034,
@@ -88,7 +88,7 @@
       "releaseDate": "2026-09-16",
       "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "posterPath": "/oLLEEUq7In4Ob731KpjrValqM4A.jpg",
-      "rating": 7.528,
+      "rating": 7.531,
       "mediaType": "movie",
       "genreTitle": "恐怖, 科幻"
     },
@@ -104,6 +104,19 @@
       "rating": 5,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
+    },
+    {
+      "id": 1239037,
+      "type": "tmdb",
+      "title": "深度安静",
+      "originalTitle": "深度安靜",
+      "description": "影片改编自林秀赫同名短篇小说。讲述谕明与依庭相遇于大学图书馆里的深度安静区，两人相爱并走入婚姻，正期待迎接第一个孩子。然而，依庭的意外自杀让谕明陷入混乱与痛苦。他想起依庭在怀孕后变得异常，甚至提出离婚。自责的谕明照顾起依庭的家人，透过深入了解她的家庭后，开始理解她的行径，以及她无法面对自己父亲的原因，真相却让人难以接受。",
+      "releaseDate": "2026-03-20",
+      "backdropPath": "/zmvZs90ocaYhp4MPBCKHK3peALQ.jpg",
+      "posterPath": "/rSi6JslKprYh6i0HSfwBMtXnyDd.jpg",
+      "rating": 6.25,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 悬疑"
     },
     {
       "id": 1529692,
@@ -127,7 +140,7 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.724,
+      "rating": 7.7,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
@@ -145,6 +158,19 @@
       "genreTitle": "喜剧, 爱情"
     },
     {
+      "id": 1822400,
+      "type": "tmdb",
+      "title": "金哲",
+      "originalTitle": "金哲",
+      "description": "1983年夏，七岁的尚民到吉童村姥姥家过暑假，遇见了被全村叫作\"傻子\"的金哲。山野间的疯跑嬉戏，抓河蚌、捉迷藏，让尚民读懂了他藏在\"傻\"背后的孤独，而这份不掺杂质的陪伴，也让长久被轻视的金哲，第一次萌生出了为自己赢一次的勇气。夏末，村里摔跤赛开场，金哲第一次代表村子站上赛场赢得尊严。",
+      "releaseDate": "2026-11-20",
+      "backdropPath": "/gAsZJaQ16P8NnBBUIUPAow63Btg.jpg",
+      "posterPath": "/FBcloDR9qkTyxHOjmwAinYhPMr.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
       "id": 1439171,
       "type": "tmdb",
       "title": "神探之痕迹",
@@ -158,6 +184,19 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
+      "id": 925725,
+      "type": "tmdb",
+      "title": "霹雳英雄：素还真",
+      "originalTitle": "素還真",
+      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
+      "releaseDate": "2022-01-28",
+      "backdropPath": "/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
+      "posterPath": "/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
+      "rating": 6.2,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
       "id": 1368337,
       "type": "tmdb",
       "title": "奥德赛",
@@ -166,7 +205,7 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.014,
+      "rating": 8.018,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -177,11 +216,24 @@
       "originalTitle": "The Cat in the Hat",
       "description": "改编自苏斯博士创作的同名儿童绘本。一只古灵精怪的猫接到最艰巨的任务：帮助一对因搬家而闷闷不乐的兄妹加比和塞巴斯蒂安重拾快乐。这场充满魔法与恶作剧的冒险，也可能成为他证明自己的最后机会，否则就将失去魔法帽。",
       "releaseDate": "2026-10-31",
-      "backdropPath": "/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "backdropPath": "/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
       "posterPath": "/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
-      "rating": 7,
+      "rating": 6.8,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
+    },
+    {
+      "id": 1477104,
+      "type": "tmdb",
+      "title": "小羊肖恩3：怪兽来袭",
+      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "description": "青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
+      "releaseDate": "2026-09-17",
+      "backdropPath": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "posterPath": "/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
+      "rating": 7.3,
+      "mediaType": "movie",
+      "genreTitle": "动画, 科幻"
     },
     {
       "id": 1325871,
@@ -197,17 +249,17 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1477104,
+      "id": 18672,
       "type": "tmdb",
-      "title": "小羊肖恩3：怪兽来袭",
-      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "description": "青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
-      "releaseDate": "2026-09-17",
-      "backdropPath": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-      "posterPath": "/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
-      "rating": 7.306,
+      "title": "笑傲江湖2：东方不败",
+      "originalTitle": "笑傲江湖II東方不敗",
+      "description": "华山派大弟子令狐冲（李连杰 饰）在经历江湖纷争后，本欲与师妹岳灵珊（李嘉欣 饰）及众师弟一同归隐，退出江湖。然而，此时的武林正被一场巨大阴谋笼罩。日月神教教主东方不败（林青霞 饰）凭借绝世武功《葵花宝典》篡权，囚禁了原教主任我行（任世官 饰），并勾结东瀛浪人，意图颠覆朝廷。\r 令狐冲在途中偶遇一位超凡脱俗的神秘女子，两人月下对饮，引为知己，令狐冲更对这位女子暗生情愫。他全然不知，眼前这位佳人，正是他受朋友任盈盈（关之琳 饰）和蓝凤凰（袁洁莹 饰）所托、计划要铲除的魔教枭雄东方不败。\r 与此同时，东方不败为巩固权势，开始铲除教内异己。当令狐冲得知自己的同门师兄弟惨遭东方不败毒手时，他义愤填膺，决心联手任盈盈、向问天（刘洵 饰）以及被救出的任我行，攻上黑木崖，为同门报仇。\r 在最终的决战中，令狐冲震惊地发现，那个与自己有过一段情缘、刻骨铭心的神秘女子，竟然就是他要手刃的仇敌东方不败。爱恨交织与江湖大义在前，两人展开了一场惊天动地的生死对决。东方不败虽武功盖世，但因对令狐冲手下留情，最终坠下悬崖。\r 风波平息后，重掌大权的任我行变得与昔日的东方不败一样专横，开始大肆清除异己。令狐冲看透江湖权力斗争的循环与虚妄，心灰意冷之下，选择携师妹岳灵珊浪迹天涯，真正远离这个纷扰的江湖。",
+      "releaseDate": "1992-06-26",
+      "backdropPath": "/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
+      "posterPath": "/yZYzCiF0uGSg6kRkDE1UKzuesaF.jpg",
+      "rating": 6.6,
       "mediaType": "movie",
-      "genreTitle": "动画, 科幻"
+      "genreTitle": "动作, 奇幻"
     },
     {
       "id": 1782347,
@@ -223,19 +275,6 @@
       "genreTitle": "动画, 科幻"
     },
     {
-      "id": 18672,
-      "type": "tmdb",
-      "title": "笑傲江湖2：东方不败",
-      "originalTitle": "笑傲江湖II東方不敗",
-      "description": "华山派大弟子令狐冲（李连杰 饰）在经历江湖纷争后，本欲与师妹岳灵珊（李嘉欣 饰）及众师弟一同归隐，退出江湖。然而，此时的武林正被一场巨大阴谋笼罩。日月神教教主东方不败（林青霞 饰）凭借绝世武功《葵花宝典》篡权，囚禁了原教主任我行（任世官 饰），并勾结东瀛浪人，意图颠覆朝廷。\r 令狐冲在途中偶遇一位超凡脱俗的神秘女子，两人月下对饮，引为知己，令狐冲更对这位女子暗生情愫。他全然不知，眼前这位佳人，正是他受朋友任盈盈（关之琳 饰）和蓝凤凰（袁洁莹 饰）所托、计划要铲除的魔教枭雄东方不败。\r 与此同时，东方不败为巩固权势，开始铲除教内异己。当令狐冲得知自己的同门师兄弟惨遭东方不败毒手时，他义愤填膺，决心联手任盈盈、向问天（刘洵 饰）以及被救出的任我行，攻上黑木崖，为同门报仇。\r 在最终的决战中，令狐冲震惊地发现，那个与自己有过一段情缘、刻骨铭心的神秘女子，竟然就是他要手刃的仇敌东方不败。爱恨交织与江湖大义在前，两人展开了一场惊天动地的生死对决。东方不败虽武功盖世，但因对令狐冲手下留情，最终坠下悬崖。\r 风波平息后，重掌大权的任我行变得与昔日的东方不败一样专横，开始大肆清除异己。令狐冲看透江湖权力斗争的循环与虚妄，心灰意冷之下，选择携师妹岳灵珊浪迹天涯，真正远离这个纷扰的江湖。",
-      "releaseDate": "1992-06-26",
-      "backdropPath": "/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
-      "posterPath": "/yZYzCiF0uGSg6kRkDE1UKzuesaF.jpg",
-      "rating": 6.554,
-      "mediaType": "movie",
-      "genreTitle": "动作, 奇幻"
-    },
-    {
       "id": 1563608,
       "type": "tmdb",
       "title": "什么意思夫妇",
@@ -249,19 +288,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1824679,
-      "type": "tmdb",
-      "title": "琴弓师",
-      "originalTitle": "琴弓师",
-      "description": "八十年代，苏州水乡木匠朱渭华被小提琴琴弓的精巧所吸引，苦心研究琴弓制作，多次失败后立下制作世界名弓的志向。他顶着“泥腿子不懂音乐”的偏见考入上海音乐学院，却因家庭变故辍学返乡。朱渭华坚守精工细作，将明式家具榫卯的工艺融入制弓技艺，潜心数载后斩获国际琴弓大赛金奖。朱渭华怀揣匠心跨越认知壁垒、填补技术空白，历经寒来暑往，终成一代制弓大师，以工匠精神奏响了一曲将“琴弓制作技艺”推向世界的壮丽凯歌。",
-      "releaseDate": "2026-11-17",
-      "backdropPath": "/9MkJCcnmUz1thX27PRrGftiuOKp.jpg",
-      "posterPath": "/NsHFmkpPPyvOHm0w1q7qQiMf8.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1339713,
       "type": "tmdb",
       "title": "痴迷",
@@ -270,35 +296,9 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.16,
+      "rating": 8.159,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
-    },
-    {
-      "id": 10376,
-      "type": "tmdb",
-      "title": "海上钢琴师",
-      "originalTitle": "La leggenda del pianista sull'oceano",
-      "description": "1900年，一个被遗弃的婴儿出现在往返欧美的弗吉尼亚号上，被船上的锅炉工丹尼收养，并以新世纪的年份取名为“1900”。丹尼意外去世后，1900继续在船上长大，并逐渐展现出无师自通的惊人钢琴天赋，成为弗吉尼亚号上的钢琴师。他的演奏吸引着来自世界各地的乘客，也让他与小号手麦克斯结下深厚友谊。然而无论船只多少次靠岸，1900始终没有真正踏上陆地，对他而言，这艘船和八十八个琴键就是自己熟悉的整个世界。直到一次偶然的邂逅，让从未离开过大海的他第一次认真考虑走下弗吉尼亚号，面对那个没有边界的陌生世界……",
-      "releaseDate": "1998-10-28",
-      "backdropPath": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
-      "posterPath": "/bXk1kSDSiVPj06LtpESZK7C8HsL.jpg",
-      "rating": 8.232,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 音乐"
-    },
-    {
-      "id": 1089598,
-      "type": "tmdb",
-      "title": "敦煌英雄",
-      "originalTitle": "敦煌英雄",
-      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
-      "posterPath": "/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
-      "rating": 6.2,
-      "mediaType": "movie",
-      "genreTitle": "动作, 历史"
     },
     {
       "id": 1811193,
@@ -314,6 +314,58 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 10376,
+      "type": "tmdb",
+      "title": "海上钢琴师",
+      "originalTitle": "La leggenda del pianista sull'oceano",
+      "description": "1900年，一个被遗弃的婴儿出现在往返欧美的弗吉尼亚号上，被船上的锅炉工丹尼收养，并以新世纪的年份取名为“1900”。丹尼意外去世后，1900继续在船上长大，并逐渐展现出无师自通的惊人钢琴天赋，成为弗吉尼亚号上的钢琴师。他的演奏吸引着来自世界各地的乘客，也让他与小号手麦克斯结下深厚友谊。然而无论船只多少次靠岸，1900始终没有真正踏上陆地，对他而言，这艘船和八十八个琴键就是自己熟悉的整个世界。直到一次偶然的邂逅，让从未离开过大海的他第一次认真考虑走下弗吉尼亚号，面对那个没有边界的陌生世界……",
+      "releaseDate": "1998-10-28",
+      "backdropPath": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
+      "posterPath": "/bXk1kSDSiVPj06LtpESZK7C8HsL.jpg",
+      "rating": 8.232,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 音乐"
+    },
+    {
+      "id": 1824679,
+      "type": "tmdb",
+      "title": "琴弓师",
+      "originalTitle": "琴弓师",
+      "description": "八十年代，苏州水乡木匠朱渭华被小提琴琴弓的精巧所吸引，苦心研究琴弓制作，多次失败后立下制作世界名弓的志向。他顶着“泥腿子不懂音乐”的偏见考入上海音乐学院，却因家庭变故辍学返乡。朱渭华坚守精工细作，将明式家具榫卯的工艺融入制弓技艺，潜心数载后斩获国际琴弓大赛金奖。朱渭华怀揣匠心跨越认知壁垒、填补技术空白，历经寒来暑往，终成一代制弓大师，以工匠精神奏响了一曲将“琴弓制作技艺”推向世界的壮丽凯歌。",
+      "releaseDate": "2026-11-17",
+      "backdropPath": "/9MkJCcnmUz1thX27PRrGftiuOKp.jpg",
+      "posterPath": "/NsHFmkpPPyvOHm0w1q7qQiMf8.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": 1089598,
+      "type": "tmdb",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "releaseDate": "2026-09-25",
+      "backdropPath": "/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
+      "posterPath": "/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "rating": 6.2,
+      "mediaType": "movie",
+      "genreTitle": "动作, 历史"
+    },
+    {
+      "id": 1770304,
+      "type": "tmdb",
+      "title": "一朵山花别样红",
+      "originalTitle": "一朵山花别样红",
+      "description": "一桩失踪案悄然发生在黄士高原腹地，各色人物被金钱交织在一个巨大的圈套里，陷入泥潭的白果，命运也将被重新改写。随着事件的真相大白，冲破桎梏，各色人物重新寻找回了生命的价值和生活的真谛。",
+      "releaseDate": "2026-11-06",
+      "backdropPath": "/9kFoXEEq6RFO3Icy9vAf6H73ny7.jpg",
+      "posterPath": "/4tSElesuLrV2Yr8DyMiVMljhygi.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 悬疑"
+    },
+    {
       "id": 278,
       "type": "tmdb",
       "title": "肖申克的救赎",
@@ -323,6 +375,19 @@
       "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "posterPath": "/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
       "rating": 8.734,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 犯罪"
+    },
+    {
+      "id": 1726805,
+      "type": "tmdb",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "releaseDate": "2026-10-23",
+      "backdropPath": null,
+      "posterPath": "/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "rating": 4,
       "mediaType": "movie",
       "genreTitle": "剧情, 犯罪"
     },
@@ -340,19 +405,6 @@
       "genreTitle": "剧情, 动作"
     },
     {
-      "id": 1726805,
-      "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "releaseDate": "2026-10-23",
-      "backdropPath": null,
-      "posterPath": "/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
-      "rating": 4,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 犯罪"
-    },
-    {
       "id": 1707626,
       "type": "tmdb",
       "title": "梦寻苏毗女儿国",
@@ -366,17 +418,17 @@
       "genreTitle": "剧情, 爱情"
     },
     {
-      "id": 1086176,
+      "id": 1255833,
       "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
-      "posterPath": "/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "rating": 3,
+      "title": "鲸口脱险",
+      "originalTitle": "Whalefall",
+      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
+      "releaseDate": "2026-10-14",
+      "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "posterPath": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
+      "rating": 6.611,
       "mediaType": "movie",
-      "genreTitle": "动作, 喜剧"
+      "genreTitle": "惊悚"
     },
     {
       "id": 1502135,
@@ -390,19 +442,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "剧情, 悬疑"
-    },
-    {
-      "id": 1766670,
-      "type": "tmdb",
-      "title": "活色生香",
-      "originalTitle": "活色生香",
-      "description": "退休后的薛宝梅、蒋芳芳和梁美心，面对各自的情感困境，依然勇敢追爱，以自己的方式活出精彩人生。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
-      "posterPath": "/yer41x1yu2UDoQe2R8WH7GIFyH.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 1308545,
@@ -431,6 +470,32 @@
       "genreTitle": "犯罪, 剧情"
     },
     {
+      "id": 1766670,
+      "type": "tmdb",
+      "title": "活色生香",
+      "originalTitle": "活色生香",
+      "description": "退休后的薛宝梅、蒋芳芳和梁美心，面对各自的情感困境，依然勇敢追爱，以自己的方式活出精彩人生。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": "/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
+      "posterPath": "/yer41x1yu2UDoQe2R8WH7GIFyH.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
+    },
+    {
+      "id": 1796001,
+      "type": "tmdb",
+      "title": "民宿惊魂",
+      "originalTitle": "民宿惊魂",
+      "description": "孤岛荒宿，情侣旅行撞上民宿阴宅，一桩桩离奇事件接踵而至：镜子里的鬼脸、暗室里密布的红绳、突然扭动的门把手、泳池里惊现的鬼影……夜晚怪事连连，一觉惊魂醒来，所有诡异痕迹却全部消失不见……是凶宅幻视？无尽梦魇？还是有人布下猎杀圈套？",
+      "releaseDate": "2026-10-31",
+      "backdropPath": null,
+      "posterPath": "/gsqSXMD1PNRq27bma8CUHrJvC3A.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "惊悚"
+    },
+    {
       "id": 1732799,
       "type": "tmdb",
       "title": "象行记",
@@ -457,32 +522,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 49964,
-      "type": "tmdb",
-      "title": "何处是我朋友的家",
-      "originalTitle": "خانه‌ی دوست کجاست؟",
-      "description": "伊朗的偏僻山村小学里，一群孩子在课堂里聆听老师讲课。在检查作业的时候，老师发现穆罕德屡次没有完成家庭作业，于是严厉地批评了他，说如若再犯立马开除。老师对学生强调这是帮助他们树立良好的规矩。当天放学后，小男孩阿穆德却赫然发现自己把同桌穆罕德的作业本带回了家。听懂了老师的谆谆善诱，所以阿穆德明白这作业本就是穆罕德继续听讲的凭证。为了把作业本还给同桌，阿穆德曾希望母亲和祖父可以施以援手，但是均告失败。所以，他只能孤身前行，到对面大山里的村落去寻找同桌，归还作业本。然而，由于不认识同桌的家，所以他处处碰壁，遭遇到了无法想象的艰难险阻……",
-      "releaseDate": "1987-07-01",
-      "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
-      "posterPath": "/qULkpJ4fq9wbtautj4Jq4PFc0W5.jpg",
-      "rating": 7.9,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 冒险"
-    },
-    {
-      "id": 1796001,
-      "type": "tmdb",
-      "title": "民宿惊魂",
-      "originalTitle": "民宿惊魂",
-      "description": "孤岛荒宿，情侣旅行撞上民宿阴宅，一桩桩离奇事件接踵而至：镜子里的鬼脸、暗室里密布的红绳、突然扭动的门把手、泳池里惊现的鬼影……夜晚怪事连连，一觉惊魂醒来，所有诡异痕迹却全部消失不见……是凶宅幻视？无尽梦魇？还是有人布下猎杀圈套？",
-      "releaseDate": "2026-10-31",
-      "backdropPath": null,
-      "posterPath": "/gsqSXMD1PNRq27bma8CUHrJvC3A.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "惊悚"
-    },
-    {
       "id": 24657,
       "type": "tmdb",
       "title": "牺牲",
@@ -496,30 +535,17 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 81401,
+      "id": 49964,
       "type": "tmdb",
-      "title": "都灵之马",
-      "originalTitle": "A torinói ló",
-      "description": "“1889年1月3日，都灵。弗里德里克·尼采在维亚·卡罗·艾尔波特酒店的六号门前驻足。他的目光被酒店外的一个马车吸引。不远的地方，停着一辆小马车。马车的车夫遭遇到了一匹倔强的马。不管车夫怎么喊叫，马匹根本没有要移动的意思。最终，车夫失去了耐心，拿起了鞭子，朝马匹打去。尼采见到此番情景，挤进人群，冲到马匹跟前，阻止住马夫，抱住马的脖子，痛哭起来。酒店的主人赶来，拉走了尼采。回到酒店的尼采在沙发上安安静静地、一动不动地躺了两天。随后，他小声地说了几句话。接下来，就是尼采精神错乱、神经颠颠的十年，由他的妹妹和母亲照顾的日子。谁也不知道，在都灵，在那匹马的身上，在尼采的心里，发生了什么。”",
-      "releaseDate": "2011-03-31",
-      "backdropPath": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
-      "posterPath": "/wZRROvVJWfuQNYV7Zzerv1Bmh6x.jpg",
-      "rating": 7.6,
+      "title": "何处是我朋友的家",
+      "originalTitle": "خانه‌ی دوست کجاست؟",
+      "description": "伊朗的偏僻山村小学里，一群孩子在课堂里聆听老师讲课。在检查作业的时候，老师发现穆罕德屡次没有完成家庭作业，于是严厉地批评了他，说如若再犯立马开除。老师对学生强调这是帮助他们树立良好的规矩。当天放学后，小男孩阿穆德却赫然发现自己把同桌穆罕德的作业本带回了家。听懂了老师的谆谆善诱，所以阿穆德明白这作业本就是穆罕德继续听讲的凭证。为了把作业本还给同桌，阿穆德曾希望母亲和祖父可以施以援手，但是均告失败。所以，他只能孤身前行，到对面大山里的村落去寻找同桌，归还作业本。然而，由于不认识同桌的家，所以他处处碰壁，遭遇到了无法想象的艰难险阻……",
+      "releaseDate": "1987-07-01",
+      "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
+      "posterPath": "/qULkpJ4fq9wbtautj4Jq4PFc0W5.jpg",
+      "rating": 7.9,
       "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
-      "id": 176631,
-      "type": "tmdb",
-      "title": "太太万岁",
-      "originalTitle": "太太萬歲",
-      "description": "秀外慧中的好媳妇陈思珍（蒋天流饰）自与丈夫唐志远（张伐饰）结婚后，便把家里的人际关系处理得很好，持家有道。一日，思珍的弟弟陈思瑞（韩非饰）从台湾到上海省亲，邂逅志远的妹妹唐志琴（汪漪饰），两人一见钟情。然而因为陈父（石挥饰）不肯资助自己筹办公司的志远，却极力反对这桩亲事。思珍只得谎称唐家存有金条美钞，陈父才同意资助志远办起公司。不料发迹致富的志远却有了外遇，与姨太太（上官云珠饰）有染。思珍为了顾全丈夫名誉，只得委曲求全。未几，志远破产，谎言败露，两家人也因此闹翻。终于，思珍决定与志远离婚，却在律师事务遇见了秘密登记结婚的思瑞、志琴两人。面对真心相爱的一对有情人，思珍该何去何从。  　　由中国著名导演桑弧执导于1947年摄制的黑白影片《太太万岁》是小说家张爱玲的电影经典剧作。桑弧含蓄细腻的电影风格与张爱玲的剧作交相辉映。",
-      "releaseDate": "1947-11-30",
-      "backdropPath": "/ktrwxx5Ro1KHPE9mUrxekl6pjh6.jpg",
-      "posterPath": "/pX1b3PxZT83mzcKkOmTm3MoW63X.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "喜剧, 剧情"
+      "genreTitle": "剧情, 冒险"
     },
     {
       "id": 451995,
@@ -543,61 +569,22 @@
       "releaseDate": "2011-03-27",
       "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.118,
+      "rating": 8.1,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
     {
-      "id": 1151272,
+      "id": 81401,
       "type": "tmdb",
-      "title": "接近终点",
-      "originalTitle": "Sirāt",
-      "description": "在地下狂欢派对的震耳低音中，路易斯（塞尔希·洛佩斯 饰）与儿子埃斯特班穿越沙漠，寻找几个月前在派对中失踪的女儿兼姐姐玛尔。随着他们深入这片炽热、混乱的边境地带，面对陌生的自由与逐渐崩塌的秩序，他们不仅在寻找亲人，也在寻找自我。影片以纪录片质感的长镜头与沉默的凝视，构建出一场关于极限、信仰与家庭的灵性旅程。",
-      "releaseDate": "2025-06-06",
-      "backdropPath": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
-      "posterPath": "/x2fvCwk1xEasxhdGwkvIV45SxWQ.jpg",
-      "rating": 6.8,
+      "title": "都灵之马",
+      "originalTitle": "A torinói ló",
+      "description": "“1889年1月3日，都灵。弗里德里克·尼采在维亚·卡罗·艾尔波特酒店的六号门前驻足。他的目光被酒店外的一个马车吸引。不远的地方，停着一辆小马车。马车的车夫遭遇到了一匹倔强的马。不管车夫怎么喊叫，马匹根本没有要移动的意思。最终，车夫失去了耐心，拿起了鞭子，朝马匹打去。尼采见到此番情景，挤进人群，冲到马匹跟前，阻止住马夫，抱住马的脖子，痛哭起来。酒店的主人赶来，拉走了尼采。回到酒店的尼采在沙发上安安静静地、一动不动地躺了两天。随后，他小声地说了几句话。接下来，就是尼采精神错乱、神经颠颠的十年，由他的妹妹和母亲照顾的日子。谁也不知道，在都灵，在那匹马的身上，在尼采的心里，发生了什么。”",
+      "releaseDate": "2011-03-31",
+      "backdropPath": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
+      "posterPath": "/wZRROvVJWfuQNYV7Zzerv1Bmh6x.jpg",
+      "rating": 7.561,
       "mediaType": "movie",
-      "genreTitle": "剧情, 惊悚"
-    },
-    {
-      "id": 11471,
-      "type": "tmdb",
-      "title": "英雄本色",
-      "originalTitle": "英雄本色",
-      "description": "香港某个国际伪钞集团重要分子宋子豪（狄龙）和Mark（周润发）情同手足，某次宋子豪带手下谭成（李子雄）去台北交易时被其出卖受枪伤被捕入狱，为替好兄弟报仇，Mark孤身赴台，结果被人打成瘸子，江湖地位自此一落千丈，而宋子豪的父亲也在不久丧命。一向视宋子豪为偶像的宋子杰得知哥哥的真实身份后，对黑社会及他恨之人骨，立誓利用警察身份将黑帮势力斩草除根，宋子豪出狱后不顾苦等他想重创辉煌的Mark的劝阻，决心弃暗投明，无奈得不到宋子杰的谅解。而此时已成帮会老大的谭成欲找宋子豪再合作，遭拒绝后放言会害宋子杰，被逼走投无路，宋子豪决定再与Mark连手共抗强敌。",
-      "releaseDate": "1986-08-02",
-      "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
-      "posterPath": "/qvdvGB9d58zjberXoCX5RihD5PY.jpg",
-      "rating": 7.358,
-      "mediaType": "movie",
-      "genreTitle": "动作, 犯罪"
-    },
-    {
-      "id": 21058,
-      "type": "tmdb",
-      "title": "小城之春",
-      "originalTitle": "小城之春",
-      "description": "在一个小城里，年轻少妇周玉纹与丈夫戴礼言过着平淡无味的生活。礼言在战争中失去了家产，也失去了面对现实的勇气，终日郁郁寡欢。夫妻之间相敬如宾，实则已没有感情可言。这沉闷的生活被从外面闯入小城的青年医生章志忱打破。他是礼言分别八年的朋友，也是玉纹过去的情人。礼言的妹妹戴秀喜欢上了志忱，而志忱拒绝了她。志忱的心里还装着玉纹。但他心里很矛盾。当年他与玉纹未结婚是因为玉纹母亲的阻挠，现在玉纹母亲死了，玉纹又有了丈夫。玉纹虽对丈夫尽职尽责，但心里却想着志忱，为此，她觉得对不起丈夫礼言。而礼言却决定成全他们两个，他吞了安眠药想自尽，后被抢救过来。经过了这一番感情波折，玉纹重新认识了自己与丈夫戴礼言的感情，她选择了与丈夫重新生活，而志忱也决定离开小城。一个春日的早晨，周玉纹、戴礼言还有妹妹戴秀在城头上为章志忱送行。他们目送志忱向外面的世界走去。",
-      "releaseDate": "1948-02-01",
-      "backdropPath": "/cr5fnofjFTKoUwgbyHzeZdkYMz4.jpg",
-      "posterPath": "/eCtv3xw44b3eUE2LGTgmfmQopKf.jpg",
-      "rating": 7.218,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 爱情"
-    },
-    {
-      "id": 1770304,
-      "type": "tmdb",
-      "title": "一朵山花别样红",
-      "originalTitle": "一朵山花别样红",
-      "description": "一桩失踪案悄然发生在黄士高原腹地，各色人物被金钱交织在一个巨大的圈套里，陷入泥潭的白果，命运也将被重新改写。随着事件的真相大白，冲破桎梏，各色人物重新寻找回了生命的价值和生活的真谛。",
-      "releaseDate": "2026-11-06",
-      "backdropPath": "/9kFoXEEq6RFO3Icy9vAf6H73ny7.jpg",
-      "posterPath": "/4tSElesuLrV2Yr8DyMiVMljhygi.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 悬疑"
+      "genreTitle": "剧情"
     },
     {
       "id": 427,
@@ -613,6 +600,32 @@
       "genreTitle": "喜剧"
     },
     {
+      "id": 11471,
+      "type": "tmdb",
+      "title": "英雄本色",
+      "originalTitle": "英雄本色",
+      "description": "香港某个国际伪钞集团重要分子宋子豪（狄龙）和Mark（周润发）情同手足，某次宋子豪带手下谭成（李子雄）去台北交易时被其出卖受枪伤被捕入狱，为替好兄弟报仇，Mark孤身赴台，结果被人打成瘸子，江湖地位自此一落千丈，而宋子豪的父亲也在不久丧命。一向视宋子豪为偶像的宋子杰得知哥哥的真实身份后，对黑社会及他恨之人骨，立誓利用警察身份将黑帮势力斩草除根，宋子豪出狱后不顾苦等他想重创辉煌的Mark的劝阻，决心弃暗投明，无奈得不到宋子杰的谅解。而此时已成帮会老大的谭成欲找宋子豪再合作，遭拒绝后放言会害宋子杰，被逼走投无路，宋子豪决定再与Mark连手共抗强敌。",
+      "releaseDate": "1986-08-02",
+      "backdropPath": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
+      "posterPath": "/qvdvGB9d58zjberXoCX5RihD5PY.jpg",
+      "rating": 7.356,
+      "mediaType": "movie",
+      "genreTitle": "动作, 犯罪"
+    },
+    {
+      "id": 176631,
+      "type": "tmdb",
+      "title": "太太万岁",
+      "originalTitle": "太太萬歲",
+      "description": "秀外慧中的好媳妇陈思珍（蒋天流饰）自与丈夫唐志远（张伐饰）结婚后，便把家里的人际关系处理得很好，持家有道。一日，思珍的弟弟陈思瑞（韩非饰）从台湾到上海省亲，邂逅志远的妹妹唐志琴（汪漪饰），两人一见钟情。然而因为陈父（石挥饰）不肯资助自己筹办公司的志远，却极力反对这桩亲事。思珍只得谎称唐家存有金条美钞，陈父才同意资助志远办起公司。不料发迹致富的志远却有了外遇，与姨太太（上官云珠饰）有染。思珍为了顾全丈夫名誉，只得委曲求全。未几，志远破产，谎言败露，两家人也因此闹翻。终于，思珍决定与志远离婚，却在律师事务遇见了秘密登记结婚的思瑞、志琴两人。面对真心相爱的一对有情人，思珍该何去何从。  　　由中国著名导演桑弧执导于1947年摄制的黑白影片《太太万岁》是小说家张爱玲的电影经典剧作。桑弧含蓄细腻的电影风格与张爱玲的剧作交相辉映。",
+      "releaseDate": "1947-11-30",
+      "backdropPath": "/ktrwxx5Ro1KHPE9mUrxekl6pjh6.jpg",
+      "posterPath": "/pX1b3PxZT83mzcKkOmTm3MoW63X.jpg",
+      "rating": 7.5,
+      "mediaType": "movie",
+      "genreTitle": "喜剧, 剧情"
+    },
+    {
       "id": 11368,
       "type": "tmdb",
       "title": "血迷宫",
@@ -624,6 +637,32 @@
       "rating": 7.248,
       "mediaType": "movie",
       "genreTitle": "犯罪, 剧情"
+    },
+    {
+      "id": 1151272,
+      "type": "tmdb",
+      "title": "接近终点",
+      "originalTitle": "Sirāt",
+      "description": "在地下狂欢派对的震耳低音中，路易斯（塞尔希·洛佩斯 饰）与儿子埃斯特班穿越沙漠，寻找几个月前在派对中失踪的女儿兼姐姐玛尔。随着他们深入这片炽热、混乱的边境地带，面对陌生的自由与逐渐崩塌的秩序，他们不仅在寻找亲人，也在寻找自我。影片以纪录片质感的长镜头与沉默的凝视，构建出一场关于极限、信仰与家庭的灵性旅程。",
+      "releaseDate": "2025-06-06",
+      "backdropPath": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
+      "posterPath": "/x2fvCwk1xEasxhdGwkvIV45SxWQ.jpg",
+      "rating": 6.8,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 惊悚"
+    },
+    {
+      "id": 21058,
+      "type": "tmdb",
+      "title": "小城之春",
+      "originalTitle": "小城之春",
+      "description": "在一个小城里，年轻少妇周玉纹与丈夫戴礼言过着平淡无味的生活。礼言在战争中失去了家产，也失去了面对现实的勇气，终日郁郁寡欢。夫妻之间相敬如宾，实则已没有感情可言。这沉闷的生活被从外面闯入小城的青年医生章志忱打破。他是礼言分别八年的朋友，也是玉纹过去的情人。礼言的妹妹戴秀喜欢上了志忱，而志忱拒绝了她。志忱的心里还装着玉纹。但他心里很矛盾。当年他与玉纹未结婚是因为玉纹母亲的阻挠，现在玉纹母亲死了，玉纹又有了丈夫。玉纹虽对丈夫尽职尽责，但心里却想着志忱，为此，她觉得对不起丈夫礼言。而礼言却决定成全他们两个，他吞了安眠药想自尽，后被抢救过来。经过了这一番感情波折，玉纹重新认识了自己与丈夫戴礼言的感情，她选择了与丈夫重新生活，而志忱也决定离开小城。一个春日的早晨，周玉纹、戴礼言还有妹妹戴秀在城头上为章志忱送行。他们目送志忱向外面的世界走去。",
+      "releaseDate": "1948-02-01",
+      "backdropPath": "/cr5fnofjFTKoUwgbyHzeZdkYMz4.jpg",
+      "posterPath": "/eCtv3xw44b3eUE2LGTgmfmQopKf.jpg",
+      "rating": 7.218,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 爱情"
     },
     {
       "id": 1650896,
@@ -704,6 +743,19 @@
       "genreTitle": "动画, 冒险"
     },
     {
+      "id": 996584,
+      "type": "tmdb",
+      "title": "雪豹",
+      "originalTitle": "གསའ།",
+      "description": "这是一部关于人跟动物最终如何相处的故事。一只雪豹闯进了一家牧民的羊圈，咬死了九只羯羊。因此，牧民父子争执不下。儿子坚持要打死这只豹子，父亲却要执意放了雪豹。",
+      "releaseDate": "2023-09-06",
+      "backdropPath": "/wMVV4U11EiGWNmMJ4crcM9L39rt.jpg",
+      "posterPath": "/i5tgWkVQ01ayVhS0x8w9Y1vtaXN.jpg",
+      "rating": 7.1,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
+    },
+    {
       "id": 592402,
       "type": "tmdb",
       "title": "大熊雨林",
@@ -717,19 +769,6 @@
       "genreTitle": "纪录"
     },
     {
-      "id": 1147747,
-      "type": "tmdb",
-      "title": "Blue Whales: Return of the Giants",
-      "originalTitle": "Blue Whales: Return of the Giants",
-      "description": "",
-      "releaseDate": "2023-05-25",
-      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
-      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
-      "rating": 6,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 956215,
       "type": "tmdb",
       "title": "龙凤呈祥(京剧)",
@@ -738,19 +777,6 @@
       "releaseDate": "2015-04-23",
       "backdropPath": null,
       "posterPath": "/kFkNRCRjZVvLCJyh2xvuJvgXUay.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": ""
-    },
-    {
-      "id": 1316352,
-      "type": "tmdb",
-      "title": "状元媒(京剧)",
-      "originalTitle": "状元媒(京剧)",
-      "description": "北宋年间，太宗赵光义（谭孝曾 饰）在柴郡主（王蓉蓉 饰）的陪同下前往潼台打猎，途中遭遇辽兵埋伏，郡主为救太宗，被辽兵掳走。正危急时，途经此地的六郎杨延昭（杜喆 饰）杀退辽兵救出太宗。大臣傅龙（陈俊杰 饰）之子傅丁奎（韩巨明 饰）也恰好赶到，六郎便将太宗托傅丁奎保护，自己转身杀入重围去救郡主。太宗误以为救驾之人是傅丁奎，心怀感念，当即将柴郡主许配给傅。\r 六郎救出柴郡主之后，二人一见钟情。郡主将珍珠衫赠给六郎托付终生，并要他去请八贤王赵德芳（李宏图 饰）成全二人这段美好姻缘。八贤王请新科状元吕蒙正（杜镇杰 饰）为六郎、郡主做媒。太宗赵光义坚持认为救驾的是傅丁奎。郡主要求在金殿之上当面对质，杨延昭与傅丁奎各自陈述救驾经过，真相终于大白。太宗表示，关于郡主的婚姻先王有遗训，得珍珠衫者方可为驸马。六郎立刻将珍珠衫献上，二人终成百年之好。",
-      "releaseDate": "2015-04-23",
-      "backdropPath": null,
-      "posterPath": "/uh55Z5N8NflRda9skAvEMmUwImP.jpg",
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": ""
@@ -778,6 +804,19 @@
       "backdropPath": null,
       "posterPath": "/xH3BYzjWKdbJybVmPsfUbvcfwLv.jpg",
       "rating": 7.7,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1147747,
+      "type": "tmdb",
+      "title": "Blue Whales: Return of the Giants",
+      "originalTitle": "Blue Whales: Return of the Giants",
+      "description": "",
+      "releaseDate": "2023-05-25",
+      "backdropPath": "/stXyO1gITPss9E3cMguPq3n4C1l.jpg",
+      "posterPath": "/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg",
+      "rating": 6,
       "mediaType": "movie",
       "genreTitle": "纪录"
     }
