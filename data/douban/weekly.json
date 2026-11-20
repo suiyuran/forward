@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-19T01:32:33.636Z",
+  "time": "2026-11-20T01:27:50.264Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.239,
+        "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -37,7 +37,7 @@
         "releaseDate": "2026-10-21",
         "backdropPath": "/AmnN2nLZaY9GPHNko5H7M5mqsMG.jpg",
         "posterPath": "/hzNLSUQmk1zPtdK3ooQ9WD4iHu7.jpg",
-        "rating": 7.417,
+        "rating": 7.395,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-09-19",
         "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
         "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.724,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "冒险, 惊悚"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-10",
         "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
         "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.931,
+        "rating": 6.937,
         "mediaType": "movie",
         "genreTitle": "喜剧, 惊悚"
       },
@@ -143,7 +143,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/oMqnBjgT0VlDpP3pHJdtnOvwwKA.jpg",
         "posterPath": "/a9omtYBq4ViiIClL9PjGUk6JB4b.jpg",
-        "rating": 6.8,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "War & Politics"
       },
@@ -154,9 +154,9 @@
         "originalTitle": "今天是太阳雨",
         "description": "倔强少女郑雨与孤独少年陈砚周的故事。郑雨因家庭贫困被迫扛起重担，陈砚周因兄长离世陷入自我封闭，两人从校园竞争对手逐渐成为彼此生命中的光，共同面对人生暴雨。",
         "releaseDate": "2026-11-06",
-        "backdropPath": "/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
+        "backdropPath": "/6WYtvLMvGRvMYCE6ZP7OJYobwQL.jpg",
         "posterPath": "/znoLZauHNWfXHq1PcH8wRf42m2e.jpg",
-        "rating": 8.5,
+        "rating": 8.4,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-10-16",
         "backdropPath": "/sQi1ZDSvFEslAEKn5QHfx5zKbIt.jpg",
         "posterPath": "/3GNpPFZM6cuLMJCpuOFY0sgxHwf.jpg",
-        "rating": 7.5,
+        "rating": 7,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 8.959,
+        "rating": 8.994,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.262,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -325,7 +325,7 @@
         "originalTitle": "닥터X: 하얀 마피아의 시대",
         "description": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。",
         "releaseDate": "2026-10-09",
-        "backdropPath": "/xnDB7h89ECKgaTrWlfST8TNwvBJ.jpg",
+        "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
         "rating": 8.7,
         "mediaType": "tv",
@@ -366,7 +366,7 @@
         "releaseDate": "2026-11-11",
         "backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
         "posterPath": "/x4puqjv2DJL5JnicLzEl8YmEkNc.jpg",
-        "rating": 5.5,
+        "rating": 5.2,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
@@ -379,7 +379,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
         "posterPath": "/mi6MY0MHWSGulv9mjn5kTn0Kocf.jpg",
-        "rating": 8.65,
+        "rating": 8.7,
         "mediaType": "tv",
         "genreTitle": "剧情, 喜剧"
       }
