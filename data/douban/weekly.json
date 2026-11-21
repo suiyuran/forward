@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-20T01:27:50.264Z",
+  "time": "2026-11-21T00:58:21.009Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.2,
+        "rating": 7.269,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -21,12 +21,25 @@
         "title": "黑球",
         "originalTitle": "La bola negra",
         "description": "三个同性恋男子在西班牙历史上1932 年、1937 年和 2017 年三个不同时期的故事。",
-        "releaseDate": "2026-09-25",
+        "releaseDate": "2026-01-14",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 8,
+        "rating": 7.953,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
+      },
+      {
+        "id": 1603262,
+        "type": "tmdb",
+        "title": "珠穆朗玛：云中彼岸",
+        "originalTitle": "Everest: The Other Side",
+        "description": "真实记录登山滑雪运动员吉姆·莫里森于2025年10月成功沿珠穆朗玛峰北坡霍恩拜因雪沟登顶，并成为全球首位在该危险路线完成滑雪速降的历史性壮举。",
+        "releaseDate": "2026-10-29",
+        "backdropPath": "/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
+        "posterPath": "/cWbDLsCIChns73qh5Gd6u2e5zQ4.jpg",
+        "rating": 6.5,
+        "mediaType": "movie",
+        "genreTitle": "纪录"
       },
       {
         "id": 1437981,
@@ -37,7 +50,7 @@
         "releaseDate": "2026-10-21",
         "backdropPath": "/AmnN2nLZaY9GPHNko5H7M5mqsMG.jpg",
         "posterPath": "/hzNLSUQmk1zPtdK3ooQ9WD4iHu7.jpg",
-        "rating": 7.395,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -47,7 +60,7 @@
         "title": "突如其来",
         "originalTitle": "急に具合が悪くなる",
         "description": "改编自宫野真生子、矶野真穗合著的同名书信集。法国巴黎郊外，护理机构负责人玛丽-露·方丹结识了正在与癌症抗争的日本舞台导演森崎真理。因名字发音相近而结缘的两人，在交流中逐渐加深彼此的理解。然而，真理的病情突然恶化，两人的关系也随之发生变化。",
-        "releaseDate": "2026-06-19",
+        "releaseDate": "2026-02-11",
         "backdropPath": "/rQEfTB65F71Y2yIlAzv3GJ3m7Rz.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
         "rating": 7.8,
@@ -63,7 +76,7 @@
         "releaseDate": "2026-09-18",
         "backdropPath": "/308iVAhH5ByQb0wvaJmY3o79apn.jpg",
         "posterPath": "/1UDaXxcYAtsb3rHHTbeLQBUx7Ml.jpg",
-        "rating": 7.286,
+        "rating": 7.375,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -76,35 +89,22 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
         "posterPath": "/1UT3Z5tMXBm9REDVooxrVnTssMf.jpg",
-        "rating": 7.822,
+        "rating": 7.805,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
       {
-        "id": 1263337,
+        "id": 1596296,
         "type": "tmdb",
-        "title": "野兽之心",
-        "originalTitle": "Heart of the Beast",
-        "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
-        "releaseDate": "2026-09-19",
-        "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-        "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-        "rating": 7.8,
+        "title": "混凝土简史",
+        "originalTitle": "The History of Concrete",
+        "description": "在参加了一个关于如何创作和销售霍尔马克电影的研讨会后，电影制作人约翰·威尔逊试图用同样的套路来推销一部关于混凝土的纪录片。",
+        "releaseDate": "2026-09-18",
+        "backdropPath": "/dsyJUsyrl2rBiF0k9RpSKT2YQzL.jpg",
+        "posterPath": "/9BmgTlaYpkkzScjhASCp5e4u5wr.jpg",
+        "rating": 6.875,
         "mediaType": "movie",
-        "genreTitle": "冒险, 惊悚"
-      },
-      {
-        "id": 1198654,
-        "type": "tmdb",
-        "title": "害群之马",
-        "originalTitle": "Bad Apples",
-        "description": "小学老师玛利亚尽力管教一班10岁孩子，却被一名不守规矩的学生拖累。随着自身事业承压、该生行为愈发恶劣，她做出错误决定，意外将这名学生带回并锁在家中。玛利亚本想反悔，可班级情况逐渐好转，同事和家长都为此欣喜，她就此陷入两难困境。",
-        "releaseDate": "2026-09-10",
-        "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
-        "posterPath": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
-        "rating": 6.937,
-        "mediaType": "movie",
-        "genreTitle": "喜剧, 惊悚"
+        "genreTitle": "纪录, 喜剧"
       },
       {
         "id": 1655419,
@@ -120,17 +120,17 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 1596296,
+        "id": 1269644,
         "type": "tmdb",
-        "title": "混凝土简史",
-        "originalTitle": "The History of Concrete",
-        "description": "在参加了一个关于如何创作和销售霍尔马克电影的研讨会后，电影制作人约翰·威尔逊试图用同样的套路来推销一部关于混凝土的纪录片。",
-        "releaseDate": "2026-09-18",
-        "backdropPath": "/dsyJUsyrl2rBiF0k9RpSKT2YQzL.jpg",
-        "posterPath": "/9BmgTlaYpkkzScjhASCp5e4u5wr.jpg",
-        "rating": 7,
+        "title": "阿姆鲁姆",
+        "originalTitle": "Amrum",
+        "description": "1945年春第二次世界大战的最后几周，十岁少年南宁的父亲正在前线作战。他竭尽全力帮助母亲养家糊口，捕猎海豹、夜间捕鱼以及在田间劳作。然而，期盼已久的和平带来了全新的冲突，南宁不得不寻找自己的人生道路。",
+        "releaseDate": "2025-10-09",
+        "backdropPath": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
+        "posterPath": "/jmCaxyXJGVsDLtMIMh9bbGE42gj.jpg",
+        "rating": 7.2,
         "mediaType": "movie",
-        "genreTitle": "纪录, 喜剧"
+        "genreTitle": "剧情, 战争"
       }
     ],
     "剧集·国内": [
@@ -154,9 +154,9 @@
         "originalTitle": "今天是太阳雨",
         "description": "倔强少女郑雨与孤独少年陈砚周的故事。郑雨因家庭贫困被迫扛起重担，陈砚周因兄长离世陷入自我封闭，两人从校园竞争对手逐渐成为彼此生命中的光，共同面对人生暴雨。",
         "releaseDate": "2026-11-06",
-        "backdropPath": "/6WYtvLMvGRvMYCE6ZP7OJYobwQL.jpg",
+        "backdropPath": "/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
         "posterPath": "/znoLZauHNWfXHq1PcH8wRf42m2e.jpg",
-        "rating": 8.4,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 8.994,
+        "rating": 8.918,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.2,
+        "rating": 8.234,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
-        "rating": 8.7,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-11-11",
         "backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
         "posterPath": "/x4puqjv2DJL5JnicLzEl8YmEkNc.jpg",
-        "rating": 5.2,
+        "rating": 5.1,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
