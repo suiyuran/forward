@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-21T00:58:21.009Z",
+  "time": "2026-11-21T23:58:23.026Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.269,
+        "rating": 7.277,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -21,10 +21,10 @@
         "title": "黑球",
         "originalTitle": "La bola negra",
         "description": "三个同性恋男子在西班牙历史上1932 年、1937 年和 2017 年三个不同时期的故事。",
-        "releaseDate": "2026-01-14",
+        "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 7.953,
+        "rating": 7.922,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -46,11 +46,11 @@
         "type": "tmdb",
         "title": "懦夫",
         "originalTitle": "Les Braves",
-        "description": "青年士兵皮埃尔渴望在第一次世界大战的战场上证明自己。在前线后方，他遇到了弗朗西斯，后者正被要求想办法提振士气。",
+        "description": "故事发生在第一次世界大战期间的1916年，皮埃尔与战友在比利时前线服役。在堑壕战战场的背后，士兵们想方设法鼓舞士气。一天，皮埃尔遇到了性格张扬的同性恋者弗朗西斯。为了对抗战争的喧嚣和无处不在的苦难，两人决定和他们的战友们一起上演一场戏剧表演。",
         "releaseDate": "2026-10-21",
         "backdropPath": "/AmnN2nLZaY9GPHNko5H7M5mqsMG.jpg",
         "posterPath": "/hzNLSUQmk1zPtdK3ooQ9WD4iHu7.jpg",
-        "rating": 7.4,
+        "rating": 7.326,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -60,7 +60,7 @@
         "title": "突如其来",
         "originalTitle": "急に具合が悪くなる",
         "description": "改编自宫野真生子、矶野真穗合著的同名书信集。法国巴黎郊外，护理机构负责人玛丽-露·方丹结识了正在与癌症抗争的日本舞台导演森崎真理。因名字发音相近而结缘的两人，在交流中逐渐加深彼此的理解。然而，真理的病情突然恶化，两人的关系也随之发生变化。",
-        "releaseDate": "2026-02-11",
+        "releaseDate": "2026-06-19",
         "backdropPath": "/rQEfTB65F71Y2yIlAzv3GJ3m7Rz.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
         "rating": 7.8,
@@ -89,7 +89,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
         "posterPath": "/1UT3Z5tMXBm9REDVooxrVnTssMf.jpg",
-        "rating": 7.805,
+        "rating": 7.836,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-18",
         "backdropPath": "/dsyJUsyrl2rBiF0k9RpSKT2YQzL.jpg",
         "posterPath": "/9BmgTlaYpkkzScjhASCp5e4u5wr.jpg",
-        "rating": 6.875,
+        "rating": 6.9,
         "mediaType": "movie",
         "genreTitle": "纪录, 喜剧"
       },
@@ -156,7 +156,7 @@
         "releaseDate": "2026-11-06",
         "backdropPath": "/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
         "posterPath": "/znoLZauHNWfXHq1PcH8wRf42m2e.jpg",
-        "rating": 8.6,
+        "rating": 8.636,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -234,7 +234,7 @@
         "releaseDate": "2026-10-16",
         "backdropPath": "/sQi1ZDSvFEslAEKn5QHfx5zKbIt.jpg",
         "posterPath": "/3GNpPFZM6cuLMJCpuOFY0sgxHwf.jpg",
-        "rating": 7,
+        "rating": 7.4,
         "mediaType": "tv",
         "genreTitle": "悬疑, 犯罪"
       },
@@ -260,7 +260,7 @@
         "releaseDate": "2026-10-16",
         "backdropPath": "/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
         "posterPath": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
-        "rating": 7.625,
+        "rating": 7.6,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
@@ -275,7 +275,7 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 8.918,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.234,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-11-11",
         "backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
         "posterPath": "/x4puqjv2DJL5JnicLzEl8YmEkNc.jpg",
-        "rating": 5.1,
+        "rating": 5.8,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
