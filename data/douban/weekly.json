@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-23T00:29:43.642Z",
+  "time": "2026-11-24T04:28:07.998Z",
   "data": {
     "电影": [
       {
@@ -11,7 +11,7 @@
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.2,
+        "rating": 7.216,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 7.9,
+        "rating": 7.885,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-10-21",
         "backdropPath": "/zrgjYP1YEZUJshVzsIhT63GAoMJ.jpg",
         "posterPath": "/hzNLSUQmk1zPtdK3ooQ9WD4iHu7.jpg",
-        "rating": 7.438,
+        "rating": 7.42,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/rQEfTB65F71Y2yIlAzv3GJ3m7Rz.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
-        "rating": 7.8,
+        "rating": 7.845,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -87,9 +87,9 @@
         "originalTitle": "Jim Queen à la Recherche de la Chloroqueer",
         "description": "吉姆是巴黎同性恋圈的性感偶像，却因感染一种会将同性恋男性变为异性恋者的奇异病毒而失去一切。众人纷纷离他而去，只有崇拜者吕西安仍陪伴左右。两人踏上寻找神秘解药的旅程，试图拯救吉姆，也阻止同性恋群体走向消亡。",
         "releaseDate": "2026-06-17",
-        "backdropPath": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
+        "backdropPath": "/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
         "posterPath": "/1UT3Z5tMXBm9REDVooxrVnTssMf.jpg",
-        "rating": 7.8,
+        "rating": 7.83,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -156,7 +156,7 @@
         "releaseDate": "2026-11-06",
         "backdropPath": "/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
         "posterPath": "/znoLZauHNWfXHq1PcH8wRf42m2e.jpg",
-        "rating": 8.6,
+        "rating": 8.696,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -169,7 +169,7 @@
         "releaseDate": "2026-10-21",
         "backdropPath": "/nhQKKALP3SOi1Ft5MZU6KU05VcY.jpg",
         "posterPath": "/fONYOXlKcphO290BSGxSCjnMPZg.jpg",
-        "rating": 8.4,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -195,7 +195,7 @@
         "releaseDate": "2026-09-29",
         "backdropPath": "/6RKO6EX15uF0locEPHzvm4Za43n.jpg",
         "posterPath": "/gQuFRZI5AhEpyuX93SvfY5sgGfP.jpg",
-        "rating": 7.857,
+        "rating": 7.75,
         "mediaType": "tv",
         "genreTitle": "犯罪"
       },
@@ -208,7 +208,7 @@
         "releaseDate": "2026-09-11",
         "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
         "posterPath": "/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg",
-        "rating": 7.4,
+        "rating": 7.594,
         "mediaType": "tv",
         "genreTitle": "剧情, 家庭"
       },
@@ -260,7 +260,7 @@
         "releaseDate": "2026-10-16",
         "backdropPath": "/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
         "posterPath": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
-        "rating": 7.6,
+        "rating": 7.581,
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
@@ -275,7 +275,7 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 8.952,
+        "rating": 9,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.23,
+        "rating": 8.2,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
-        "rating": 8.607,
+        "rating": 8.6,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -366,7 +366,7 @@
         "releaseDate": "2026-11-11",
         "backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
         "posterPath": "/x4puqjv2DJL5JnicLzEl8YmEkNc.jpg",
-        "rating": 5.9,
+        "rating": 6.3,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
