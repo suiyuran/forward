@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-24T03:10:43.863Z",
+  "time": "2026-11-25T01:16:30.821Z",
   "data": [
     {
       "id": 1300968,
@@ -10,7 +10,7 @@
       "releaseDate": "2026-11-18",
       "backdropPath": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "posterPath": "/r47dh8cGfgJ7yCq07oBY7bS1sKs.jpg",
-      "rating": 7.796,
+      "rating": 7.816,
       "mediaType": "movie",
       "genreTitle": "科幻, 动作"
     },
@@ -26,6 +26,19 @@
       "rating": 6.5,
       "mediaType": "movie",
       "genreTitle": "纪录"
+    },
+    {
+      "id": 1811142,
+      "type": "tmdb",
+      "title": "马兰花开的声音",
+      "originalTitle": "马兰花开的声音",
+      "description": "影片改编自真实的北京冬奥故事，讲述了马兰花儿童声合唱团在开闭幕式演出管理主管安然、冬奥团队以及山村小学刘校长等人的帮助下，如何克服重重困难走出大山、登上北京冬奥会开闭幕式的舞台，用希腊语演唱《奥林匹克颂》的感人故事。同时，影片将展现北京冬奥会冬残奥会开闭幕式背后更多不为人知的温暖励志故事，立体呈现北京冬奥精神和奥林匹克精神。",
+      "releaseDate": "2026-11-25",
+      "backdropPath": null,
+      "posterPath": "/pjVPqOjUzweRtPTA1Jroi2iFjLq.jpg",
+      "rating": 0,
+      "mediaType": "movie",
+      "genreTitle": "剧情"
     },
     {
       "id": 1567259,
@@ -88,7 +101,7 @@
       "releaseDate": "2014-10-16",
       "backdropPath": "/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
       "posterPath": "/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
-      "rating": 7.5,
+      "rating": 7.468,
       "mediaType": "movie",
       "genreTitle": "动作, 惊悚"
     },
@@ -106,19 +119,6 @@
       "genreTitle": "剧情, 喜剧"
     },
     {
-      "id": 1423191,
-      "type": "tmdb",
-      "title": "生化危机：爆发夜",
-      "originalTitle": "Resident Evil",
-      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？.",
-      "releaseDate": "2026-09-16",
-      "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "posterPath": "/oLLEEUq7In4Ob731KpjrValqM4A.jpg",
-      "rating": 7.5,
-      "mediaType": "movie",
-      "genreTitle": "恐怖, 科幻"
-    },
-    {
       "id": 1810158,
       "type": "tmdb",
       "title": "心迷宫之三重罪",
@@ -130,6 +130,19 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "犯罪"
+    },
+    {
+      "id": 1423191,
+      "type": "tmdb",
+      "title": "生化危机：爆发夜",
+      "originalTitle": "Resident Evil",
+      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？.",
+      "releaseDate": "2026-09-16",
+      "backdropPath": "/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
+      "posterPath": "/oLLEEUq7In4Ob731KpjrValqM4A.jpg",
+      "rating": 7.522,
+      "mediaType": "movie",
+      "genreTitle": "恐怖, 科幻"
     },
     {
       "id": 925725,
@@ -153,7 +166,7 @@
       "releaseDate": "2026-10-31",
       "backdropPath": "/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
       "posterPath": "/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
-      "rating": 7.029,
+      "rating": 7.3,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
     },
@@ -179,7 +192,7 @@
       "releaseDate": "2026-07-15",
       "backdropPath": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
       "posterPath": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "rating": 8.023,
+      "rating": 8.027,
       "mediaType": "movie",
       "genreTitle": "冒险, 动作"
     },
@@ -205,7 +218,7 @@
       "releaseDate": "2026-09-19",
       "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
       "posterPath": "/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "rating": 7.851,
+      "rating": 7.873,
       "mediaType": "movie",
       "genreTitle": "冒险, 惊悚"
     },
@@ -257,7 +270,7 @@
       "releaseDate": "2026-05-13",
       "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "posterPath": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
-      "rating": 8.156,
+      "rating": 8.2,
       "mediaType": "movie",
       "genreTitle": "恐怖, 惊悚"
     },
@@ -288,19 +301,6 @@
       "genreTitle": "动画, 科幻"
     },
     {
-      "id": 1563608,
-      "type": "tmdb",
-      "title": "什么意思夫妇",
-      "originalTitle": "什么意思夫妇",
-      "description": "沈默和天意是一对中年夫妻，正在经历婚姻的第三个七年之痒，锅碗瓢盆的碰撞，终于让积压许久的烦躁、嫌弃和失望彻底爆发，三十天的离婚冷静期，即将奏响他们婚姻的终曲。",
-      "releaseDate": "2026-10-01",
-      "backdropPath": "/vPoEbGeBuAfag3TcFzwPt9EqVWT.jpg",
-      "posterPath": "/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
-      "rating": 7,
-      "mediaType": "movie",
-      "genreTitle": "剧情, 喜剧"
-    },
-    {
       "id": 1823190,
       "type": "tmdb",
       "title": "无可替代的你",
@@ -312,6 +312,19 @@
       "rating": 3,
       "mediaType": "movie",
       "genreTitle": "喜剧, 爱情"
+    },
+    {
+      "id": 1563608,
+      "type": "tmdb",
+      "title": "什么意思夫妇",
+      "originalTitle": "什么意思夫妇",
+      "description": "沈默和天意是一对中年夫妻，正在经历婚姻的第三个七年之痒，锅碗瓢盆的碰撞，终于让积压许久的烦躁、嫌弃和失望彻底爆发，三十天的离婚冷静期，即将奏响他们婚姻的终曲。",
+      "releaseDate": "2026-10-01",
+      "backdropPath": "/vPoEbGeBuAfag3TcFzwPt9EqVWT.jpg",
+      "posterPath": "/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
+      "rating": 7,
+      "mediaType": "movie",
+      "genreTitle": "剧情, 喜剧"
     },
     {
       "id": 10376,
@@ -353,6 +366,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1801350,
+      "type": "tmdb",
+      "title": "我的身后是祖国",
+      "originalTitle": "我的身后是祖国",
+      "description": "以抗美援朝战争进程为时间线，围绕“我的身后是祖国”这一主题，采用“凝练字幕+口述”的视听表现形式，从不同的维度，去抓取、剖析和共情中华英雄儿女在抗美援朝战争中的动人瞬间，真实生动地呈现了在“祖国”二字的凝聚下，中华优秀儿女同心同德，赢取抗美援朝战争伟大胜利的波澜壮阔的历史。",
+      "releaseDate": "2026-10-25",
+      "backdropPath": "/6LFqa8GpBJMVeef46vCiZrIEdqr.jpg",
+      "posterPath": "/bCwvBdlCCJNGUC2V6m1Uq8Bf2hi.jpg",
+      "rating": 10,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
       "id": 1707626,
       "type": "tmdb",
       "title": "梦寻苏毗女儿国",
@@ -392,19 +418,6 @@
       "genreTitle": "剧情, 动作"
     },
     {
-      "id": 1089598,
-      "type": "tmdb",
-      "title": "敦煌英雄",
-      "originalTitle": "敦煌英雄",
-      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
-      "releaseDate": "2026-09-25",
-      "backdropPath": "/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
-      "posterPath": "/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
-      "rating": 6.2,
-      "mediaType": "movie",
-      "genreTitle": "动作, 历史"
-    },
-    {
       "id": 1502135,
       "type": "tmdb",
       "title": "密档",
@@ -431,19 +444,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": 1308545,
-      "type": "tmdb",
-      "title": "一个夜晚与三个夏天",
-      "originalTitle": "一个夜晚与三个夏天",
-      "description": "桑吉在拉萨拍摄一部和童年有关的片子，彼时的她面临着创作上的迷茫，与同为藏戏编导的父亲隔阂也难以消弭。一次偶然的派对，桑吉遇见了她所拍摄故事中的原型人物拉姆，夜晚悄然逝去，弥散在记忆中的夏天逐渐有了全貌...",
-      "releaseDate": "2026-09-11",
-      "backdropPath": "/Agffw58ImoHhiXYCy3iKepG3fXC.jpg",
-      "posterPath": "/l40fLV8sD9T3S3qQct9urcvGkEd.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "剧情"
-    },
-    {
       "id": 1831466,
       "type": "tmdb",
       "title": "谢谢你的包容",
@@ -457,17 +457,17 @@
       "genreTitle": "剧情, 悬疑"
     },
     {
-      "id": 1288445,
+      "id": 1308545,
       "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "releaseDate": "2026-08-19",
-      "backdropPath": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-      "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "rating": 7.604,
+      "title": "一个夜晚与三个夏天",
+      "originalTitle": "一个夜晚与三个夏天",
+      "description": "桑吉在拉萨拍摄一部和童年有关的片子，彼时的她面临着创作上的迷茫，与同为藏戏编导的父亲隔阂也难以消弭。一次偶然的派对，桑吉遇见了她所拍摄故事中的原型人物拉姆，夜晚悄然逝去，弥散在记忆中的夏天逐渐有了全貌...",
+      "releaseDate": "2026-09-11",
+      "backdropPath": "/Agffw58ImoHhiXYCy3iKepG3fXC.jpg",
+      "posterPath": "/l40fLV8sD9T3S3qQct9urcvGkEd.jpg",
+      "rating": 0,
       "mediaType": "movie",
-      "genreTitle": "动作, 惊悚"
+      "genreTitle": "剧情"
     },
     {
       "id": 1766670,
@@ -491,7 +491,7 @@
       "releaseDate": "2011-03-27",
       "backdropPath": "/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "posterPath": "/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "rating": 8.1,
+      "rating": 8.117,
       "mediaType": "movie",
       "genreTitle": "动作, 犯罪"
     },
@@ -522,19 +522,6 @@
       "genreTitle": "惊悚"
     },
     {
-      "id": 1732799,
-      "type": "tmdb",
-      "title": "象行记",
-      "originalTitle": "象行记",
-      "description": "影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
-      "releaseDate": "2026-10-23",
-      "backdropPath": "/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
-      "posterPath": "/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
-    },
-    {
       "id": 451995,
       "type": "tmdb",
       "title": "脸庞，村庄",
@@ -544,6 +531,19 @@
       "backdropPath": "/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
       "posterPath": "/idIv93FXHay1KIMVLZiP9Qeav3r.jpg",
       "rating": 7.63,
+      "mediaType": "movie",
+      "genreTitle": "纪录"
+    },
+    {
+      "id": 1732799,
+      "type": "tmdb",
+      "title": "象行记",
+      "originalTitle": "象行记",
+      "description": "影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
+      "releaseDate": "2026-10-23",
+      "backdropPath": "/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
+      "posterPath": "/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
+      "rating": 0,
       "mediaType": "movie",
       "genreTitle": "纪录"
     },
@@ -626,6 +626,19 @@
       "genreTitle": "剧情"
     },
     {
+      "id": 1303336,
+      "type": "tmdb",
+      "title": "落凡尘",
+      "originalTitle": "落凡尘",
+      "description": "织女因擅离职守而获罪，逃散的二十八星宿也给人间带来危机。多年后，织女之子金风为替母赎罪，从神界来到人间收服星宿。途中，他意外结识了一心想前往神界寻找母亲的人间少女小凡，两人由此结伴踏上寻星之旅。随着一个个星宿被收服，隐藏在往事背后的秘密也逐渐浮出水面，而金风对凡尘、亲情与自己的选择也有了新的认识……",
+      "releaseDate": "2024-07-06",
+      "backdropPath": "/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
+      "posterPath": "/2nXWDju83nclC4vEJ4dkKnLN8gl.jpg",
+      "rating": 7.313,
+      "mediaType": "movie",
+      "genreTitle": "动画, 奇幻"
+    },
+    {
       "id": 1650896,
       "type": "tmdb",
       "title": "小猪佩奇·完美假期",
@@ -652,17 +665,17 @@
       "genreTitle": "喜剧, 剧情"
     },
     {
-      "id": 1678102,
+      "id": 1185806,
       "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "releaseDate": "2026-09-11",
-      "backdropPath": "/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "posterPath": "/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "rating": 0,
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "releaseDate": "2026-07-23",
+      "backdropPath": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
+      "rating": 8.2,
       "mediaType": "movie",
-      "genreTitle": "悬疑, 惊悚"
+      "genreTitle": "动画, 冒险"
     },
     {
       "id": 1778310,
@@ -676,32 +689,6 @@
       "rating": 0,
       "mediaType": "movie",
       "genreTitle": "动画, 奇幻"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "releaseDate": "2026-07-23",
-      "backdropPath": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
-      "posterPath": "/ypDehxii2vqentHazypviu0u1dy.jpg",
-      "rating": 8.15,
-      "mediaType": "movie",
-      "genreTitle": "动画, 冒险"
-    },
-    {
-      "id": 1770952,
-      "type": "tmdb",
-      "title": "喂喂喂，足球队",
-      "originalTitle": "喂喂喂，足球队",
-      "description": "2024年，全国盲人足球锦标赛上，出现了中国有史以来最年轻的一支队伍——新疆盲人足球队，平均年龄15岁。  两年前，他们还是新疆莎车县一所特殊学校里喜欢足球却踢不到的视障孩子。上海盲人足球队教练张健驱车千里来选拔，四个孩子第一次离开家乡。从上海回来后，他们萌生了一个念头：新疆，也可以有自己的盲人足球队。没有经费，没有场地，没有教练——这支草根队伍几度面临散掉。是孩子们一遍遍踢下去，让更多人最终看见了他们。磕磕绊绊之中，新疆第一支盲人足球队仓促成立，这群几乎没经历过系统性训练的娃娃，就这样被推上了全国赛场。",
-      "releaseDate": "2026-10-15",
-      "backdropPath": null,
-      "posterPath": "/66gSAoE0Ne1faHY7lNALKmMJynd.jpg",
-      "rating": 0,
-      "mediaType": "movie",
-      "genreTitle": "纪录"
     },
     {
       "id": 592402,
