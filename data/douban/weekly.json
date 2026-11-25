@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-24T04:28:07.998Z",
+  "time": "2026-11-25T03:11:47.440Z",
   "data": {
     "电影": [
       {
@@ -7,11 +7,11 @@
         "type": "tmdb",
         "title": "可能的爱",
         "originalTitle": "가능한 사랑",
-        "description": "一对失业夫妻遇上一对纪录片导演夫妇，并直面他们内心深处的渴望。",
+        "description": "两对已婚人士在不同命运与隐秘欲望下的情感交织。美玉与失业的丈夫浩锡及年幼的儿子过着平静的生活。直到一场葬礼，他们结识了记录失业工人的纪录片导演艺智与她的丈夫相宇，这对夫妇的优渥生活与他们形成鲜明对比。随着两个世界的碰撞，他们日常生活的裂隙开始显现。",
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
         "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
-        "rating": 7.216,
+        "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 7.885,
+        "rating": 7.887,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -50,7 +50,7 @@
         "releaseDate": "2026-10-21",
         "backdropPath": "/zrgjYP1YEZUJshVzsIhT63GAoMJ.jpg",
         "posterPath": "/hzNLSUQmk1zPtdK3ooQ9WD4iHu7.jpg",
-        "rating": 7.42,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "剧情, 爱情"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/rQEfTB65F71Y2yIlAzv3GJ3m7Rz.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
-        "rating": 7.845,
+        "rating": 7.8,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -76,7 +76,7 @@
         "releaseDate": "2026-09-18",
         "backdropPath": "/308iVAhH5ByQb0wvaJmY3o79apn.jpg",
         "posterPath": "/1UDaXxcYAtsb3rHHTbeLQBUx7Ml.jpg",
-        "rating": 7.375,
+        "rating": 7.4,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -89,7 +89,7 @@
         "releaseDate": "2026-06-17",
         "backdropPath": "/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
         "posterPath": "/1UT3Z5tMXBm9REDVooxrVnTssMf.jpg",
-        "rating": 7.83,
+        "rating": 7.823,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -102,7 +102,7 @@
         "releaseDate": "2026-09-18",
         "backdropPath": "/dsyJUsyrl2rBiF0k9RpSKT2YQzL.jpg",
         "posterPath": "/9BmgTlaYpkkzScjhASCp5e4u5wr.jpg",
-        "rating": 6.9,
+        "rating": 6.84,
         "mediaType": "movie",
         "genreTitle": "纪录, 喜剧"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-08-06",
         "backdropPath": "/bRkk5HjNLQMWB3LlZdxySSzxVLi.jpg",
         "posterPath": "/717HnuG76k83GpqupEWd6S1iy5j.jpg",
-        "rating": 7.308,
+        "rating": 7.3,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -141,7 +141,7 @@
         "originalTitle": "伟大的长征",
         "description": "该剧以全景式展现红军长征这一波澜壮阔的历史画卷，呈现一个个有血有肉有温度的革命故事，弘扬伟大的长征精神。\n\n1934年，日本帝国主义加紧了对中国的侵略，而蒋介石不顾民族危亡，坚持“攘外必先安内”的政策，发动了规模最大的第五次“围剿”。生死存亡之际，中国工农红军主力被迫实行战略性转移，撤离长江南北各苏区。平均年龄不到30岁的红军队伍犹如一条条红色铁流，经过11个省，翻越18座大 山，跨过24条大河，走过荒草地，翻过雪山，行程二万五千里。直到1936年10月红军三大主力会师，红军长征胜利结束。",
         "releaseDate": "2026-10-09",
-        "backdropPath": "/oMqnBjgT0VlDpP3pHJdtnOvwwKA.jpg",
+        "backdropPath": "/8G0SQhC1zwKIRbgaxx4HTRakVpO.jpg",
         "posterPath": "/a9omtYBq4ViiIClL9PjGUk6JB4b.jpg",
         "rating": 7.6,
         "mediaType": "tv",
@@ -156,7 +156,7 @@
         "releaseDate": "2026-11-06",
         "backdropPath": "/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
         "posterPath": "/znoLZauHNWfXHq1PcH8wRf42m2e.jpg",
-        "rating": 8.696,
+        "rating": 8.583,
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 9,
+        "rating": 8.883,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.2,
+        "rating": 8.221,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
-        "rating": 8.6,
+        "rating": 8.519,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
