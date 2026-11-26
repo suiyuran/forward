@@ -1,16 +1,16 @@
 {
-  "time": "2026-11-25T03:11:47.440Z",
+  "time": "2026-11-26T02:30:15.750Z",
   "data": {
     "电影": [
       {
         "id": 1483525,
         "type": "tmdb",
-        "title": "可能的爱",
+        "title": "假如爱有如果",
         "originalTitle": "가능한 사랑",
-        "description": "两对已婚人士在不同命运与隐秘欲望下的情感交织。美玉与失业的丈夫浩锡及年幼的儿子过着平静的生活。直到一场葬礼，他们结识了记录失业工人的纪录片导演艺智与她的丈夫相宇，这对夫妇的优渥生活与他们形成鲜明对比。随着两个世界的碰撞，他们日常生活的裂隙开始显现。",
+        "description": "《假如爱有如果》讲述了两对已婚夫妇之间错综复杂的关系；他们各自面临着不同的人生抉择，内心也深藏着不为人知的渴望。美玉（全道嬿饰）与失业的丈夫浩锡（薛景求饰）及年幼的儿子崔铁，直到一场葬礼让他们与纪录片导演艺智（曹汝贞饰）及其丈夫尚宇（赵寅成饰）产生交集。艺智正在拍摄失业工人的生活，而她与尚宇优渥的生活方式也与美玉一家形成鲜明对比。美玉答应接受拍摄后，逐渐与艺智亲近，也不由自主地被难以捉摸的尚宇吸引，心中充满不安。随着两个世界不断碰撞，他们看似平静的日常生活也开始出现裂痕。这是备受赞誉的导演李沧东（《燃烧》、《诗》、《密阳》）时隔八年推出的新作。他以标志性的细腻笔触呈现《假如爱有如果》中不断变化的情感、彼此交织的矛盾与截然不同的人生观，刻画这些关系中的微妙变化。",
         "releaseDate": "2026-09-23",
         "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
-        "posterPath": "/7hEGIiIRdtFYA11fKPY1Kz8CpyI.jpg",
+        "posterPath": "/7o6hwgUhpWjm1UqLu5IKuXXfxvP.jpg",
         "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "剧情"
@@ -24,7 +24,7 @@
         "releaseDate": "2026-09-25",
         "backdropPath": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "posterPath": "/iog65w1sTbRNtv3K2nuUjlRpuAR.jpg",
-        "rating": 7.887,
+        "rating": 7.9,
         "mediaType": "movie",
         "genreTitle": "剧情, 战争"
       },
@@ -63,7 +63,7 @@
         "releaseDate": "2026-06-19",
         "backdropPath": "/rQEfTB65F71Y2yIlAzv3GJ3m7Rz.jpg",
         "posterPath": "/doj7KCyppxhVKJptwMUqIxLfzRl.jpg",
-        "rating": 7.8,
+        "rating": 7.859,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -115,7 +115,7 @@
         "releaseDate": "2026-08-06",
         "backdropPath": "/bRkk5HjNLQMWB3LlZdxySSzxVLi.jpg",
         "posterPath": "/717HnuG76k83GpqupEWd6S1iy5j.jpg",
-        "rating": 7.3,
+        "rating": 7.233,
         "mediaType": "movie",
         "genreTitle": "剧情"
       },
@@ -275,7 +275,7 @@
         "releaseDate": "2026-10-19",
         "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
         "posterPath": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
-        "rating": 8.883,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "喜剧, 剧情"
       },
@@ -288,7 +288,7 @@
         "releaseDate": "2026-10-13",
         "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
         "posterPath": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
-        "rating": 8.221,
+        "rating": 8.222,
         "mediaType": "tv",
         "genreTitle": "Sci-Fi & Fantasy, 剧情"
       },
@@ -327,7 +327,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
         "posterPath": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
-        "rating": 8.519,
+        "rating": 8.506,
         "mediaType": "tv",
         "genreTitle": "悬疑, 剧情"
       },
@@ -364,9 +364,9 @@
         "originalTitle": "The Lord of the Rings: The Rings of Power",
         "description": "精灵与索伦之间的战争进入白热化阶段，黑暗魔君则暗中打造一种终极力量，以实现自己的胜利：至尊魔戒。",
         "releaseDate": "2026-11-11",
-        "backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+        "backdropPath": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
         "posterPath": "/x4puqjv2DJL5JnicLzEl8YmEkNc.jpg",
-        "rating": 6.3,
+        "rating": 6.7,
         "mediaType": "tv",
         "genreTitle": "动作冒险, Sci-Fi & Fantasy"
       },
