@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-25T23:57:30.391Z",
+  "time": "2026-11-27T00:15:55.575Z",
   "data": {
     "星期日": [
       {
@@ -115,7 +115,7 @@
         "releaseDate": "2026-10-11",
         "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
         "posterPath": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
-        "rating": 9.598,
+        "rating": 9.6,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -128,7 +128,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
         "posterPath": "/c9Fe03wMgDxY88RpKLTeG20OSGW.jpg",
-        "rating": 8.647,
+        "rating": 8.444,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -297,7 +297,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
         "posterPath": "/c9Fe03wMgDxY88RpKLTeG20OSGW.jpg",
-        "rating": 8.647,
+        "rating": 8.444,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -403,7 +403,7 @@
         "releaseDate": "2026-10-05",
         "backdropPath": "/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
         "posterPath": "/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-        "rating": 7.172,
+        "rating": 7.2,
         "mediaType": "movie",
         "genreTitle": "动画, 喜剧"
       },
@@ -416,7 +416,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
         "posterPath": "/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-        "rating": 8.857,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       }
@@ -853,7 +853,7 @@
         "releaseDate": "2026-10-09",
         "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
         "posterPath": "/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-        "rating": 8.857,
+        "rating": 8.9,
         "mediaType": "tv",
         "genreTitle": "动画, 剧情"
       },
@@ -892,7 +892,7 @@
         "releaseDate": "2025-09-19",
         "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "posterPath": "/4WGZlo7aKdCEjksjFQoZlUvZWHd.jpg",
-        "rating": 8.203,
+        "rating": 8.199,
         "mediaType": "tv",
         "genreTitle": "动画, 喜剧"
       },
@@ -913,7 +913,7 @@
         "id": 335788,
         "type": "tmdb",
         "title": "苍蓝传承  威尔什与榭达",
-        "originalTitle": "蒼き伝承 ウェルシュ＆シェダー",
+        "originalTitle": "Aoki Denshou Welsh & Shedar",
         "description": "本片是由曾打造知名 MMORPG《龙梦幻境》（Dofus）的法国 Ankama 公司倾力制作的原创电视动画。故事中，擅长料理且心地善良的少年威尔什，原本在布拉希卡村过着与世无争的平静生活，直到一场突如其来的巨龙袭击，彻底打破了他安稳的日常。与此同时，大陆第一大国邦塔的王子榭达，在一边全力辅佐女王母亲莎贝尔的同时，心中却因某起事件对母亲的所作所为隐隐产生了怀疑。围绕着传说中创造世界的至宝“多夫斯（Dofus）”，两位出身截然不同的少年命运交织，一场波澜壮阔的奇幻冒险史诗就此揭开序幕。",
         "releaseDate": "2026-10-02",
         "backdropPath": "/8iJ4IPl8BPVOL7C6lFKq2zeLdDs.jpg",
@@ -1011,7 +1011,7 @@
         "releaseDate": "2017-10-03",
         "backdropPath": "/AsaEmDMgrt9MCCTXxUzY9PtFZko.jpg",
         "posterPath": "/6BOecDN3uz2RAmn3BaCyg4Nh5A0.jpg",
-        "rating": 8.531,
+        "rating": 8.533,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
@@ -1076,7 +1076,7 @@
         "releaseDate": "2025-10-04",
         "backdropPath": "/gNYmU3RUlCb6dVqkiPCT7vglMfg.jpg",
         "posterPath": "/2pQHfraIKbqcOYgdq6H96tqHFop.jpg",
-        "rating": 7.2,
+        "rating": 7.194,
         "mediaType": "tv",
         "genreTitle": "动画, 动作冒险"
       },
